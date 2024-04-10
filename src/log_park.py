@@ -8,7 +8,7 @@ from sqlalchemy import func
 import math
 from shapely.geometry import MultiPolygon, Polygon
 
-MIN_PARKING_SPACE = 10
+MIN_PARKING_SPACE = 5
 
 engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
 Session = sessionmaker(bind=engine)
