@@ -2,13 +2,14 @@ from sqlalchemy import create_engine, Column, Integer, Float, String, TIMESTAMP,
 
 from sqlalchemy.dialects.postgresql import BYTEA
 
-
 from sqlalchemy.orm import relationship, sessionmaker, declarative_base, Session
 from geoalchemy2 import Geography
 from sqlalchemy.schema import CreateSchema
 
 
 Base = declarative_base()
+
+
 
 class User(Base):
     __tablename__ = 'users'
@@ -30,8 +31,8 @@ class Car(Base):
     
     car_id = Column(Integer, primary_key=True)
     
-    width = Column(Float, nullable=False)
-    length = Column(Float, nullable=False)
+    #width = Column(Float, nullable=False)
+    len = Column(Float, nullable=False)
     
     owns = relationship("Owns", back_populates="car")
     park = relationship("Park", back_populates="car")
@@ -49,7 +50,7 @@ class Spot(Base):
     __tablename__ = 'spot'
     
     spot_id = Column(Integer, primary_key=True)
-    region = Column(Geography('POLYGON', srid=4326))
+    region = Column(Geography('LINESTRING', srid=4326))
     park = relationship("Park", back_populates="spot")
 
 class ParkHistory(Base):
@@ -58,7 +59,7 @@ class ParkHistory(Base):
     phid = Column(Integer, primary_key=True)
     user_id = Column(Integer, ForeignKey('users.user_id', ondelete='CASCADE'))
                                          
-    region = Column(Geography('POLYGON', srid=4326))
+    region = Column(Geography('LINESTRING', srid=4326))
     time_arrived = Column(TIMESTAMP, nullable=False)
     time_left = Column(TIMESTAMP, nullable=False, default=func.now())
     
@@ -82,15 +83,25 @@ class Violation(Base):
     __tablename__ = 'violation'
     
     violation_id = Column(Integer, primary_key=True)
-    region = Column(Geography('POLYGON', srid=4326))
+    region = Column(Geography('LINESTRING', srid=4326))
     
     starting = Column(TIMESTAMP, nullable=False)
     ending = Column(TIMESTAMP, nullable=False)
 
+
 engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
+
+
+Base.metadata.reflect(bind=engine)
+
+for table_name in list(Base.metadata.tables) + list(Base.metadata.tables):
+    if table_name != "spatial_ref_sys":
+        try:
+            Base.metadata.tables[table_name].drop(bind=engine, checkfirst=True)
+        except:
+            continue
 
 Base.metadata.create_all(engine)
 
 session = Session(engine)
 connection = engine.connect()
-
