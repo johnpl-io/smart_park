@@ -1,8 +1,8 @@
+import math
 
-def get_region(location: tuple[float, float], 
+def get_park_EP(location: tuple[float, float], 
                length: float, 
-               theta: float) -> list[tuple[float, float],
-                                     tuple[float, float]]:
+               theta: float) -> tuple[float, float]:
     
     """This function, given the location of the user in the driver's seat and the
     length and orientation of their car, determines the region that the car
@@ -18,9 +18,26 @@ def get_region(location: tuple[float, float],
     :param theta: The orientation of the car in degrees with respect to the positive
     x axis
 
-    returns: the start and end point of the line segment represented by the user's parked car
+    returns: the end point of the line segment represented by the user's parked car
     """
-    pass
+
+    #radius of Earth in meters as according to: https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
+
+    r_earth = 6378.137*1e3
+
+    #since the car is at an angle, the change in x and y are:
+
+    dy = length*math.sin(theta)
+    dx = length*math.cos(theta)
+
+    #the latitude and longitude coordinates of the end of the car are then (formula for this
+    #was found here: https://stackoverflow.com/questions/7477003/calculating-new-longitude-latitude-from-old-n-meters)
+
+    new_lat = location[0] + (dy / r_earth)*(180 / math.pi)
+    new_long = location[1] + (dx / r_earth)*(180 / math.pi) / math.cos(location[0]*math.pi/180)
+
+    return (new_lat, new_long)
+
 
 
 def log_parking(user_id: int, 
@@ -45,7 +62,7 @@ def log_parking(user_id: int,
     :param theta: The orientation of the car in degrees with respect to the positive
     x axis
     """
-    
+
     
     
     pass
