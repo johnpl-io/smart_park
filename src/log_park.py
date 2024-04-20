@@ -8,9 +8,10 @@ from shapely.geometry import LineString
 from shapely import wkb, difference
 
 from init_db import *
+from utils import geodesic_length
 
 
-MIN_PARKING_SPACE = -1
+MIN_PARKING_SPACE = 2
 
 
 def get_park_EP(location: tuple[float, float], 
@@ -48,6 +49,8 @@ def get_park_EP(location: tuple[float, float],
     new_long = location[1] + (dx / r_earth)*(180 / math.pi) / math.cos(math.radians(location[0]))
 
     return (new_lat, new_long)
+
+
 
 def split_region(parking_region: WKBElement , 
                   overlap_region: WKBElement) -> tuple[WKBElement, WKBElement, WKBElement]:
@@ -93,14 +96,14 @@ def split_region(parking_region: WKBElement ,
     free_region_2 = None
 
     #if both regions are sufficiently small (regions[0].length > regions[1] so only need to check regions[0].length)
-    if regions[0].length < MIN_PARKING_SPACE:
+    if geodesic_length(regions[0].coords[0], regions[0].coords[1]) < MIN_PARKING_SPACE:
 
         #then parking region effectively takes up entire overlap_region
         parking_region = parking_region.union(overlap_region)
     
     else:
         #if the smaller available region is sufficiently small and exists
-        if 0 < regions[1].length < MIN_PARKING_SPACE:
+        if 0 < geodesic_length(regions[1].coords[0], regions[1].coords[1]) < MIN_PARKING_SPACE:
 
             #merge it with the parking_region
             parking_region = parking_region.union(regions[1])
