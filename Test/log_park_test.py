@@ -1,9 +1,15 @@
-import pytest
+import sys
+import os
+sys.path.insert(0, os.path.abspath(
+                    os.path.join('..', 'src')
+                    ))
 from log_park import *
 from init_db import *
 from shapely.geometry import Polygon, LineString
 from geoalchemy2.shape import from_shape
 import hashlib
+
+import pytest
 
 
 
