@@ -4,8 +4,9 @@ from sqlalchemy.orm import sessionmaker
 from geoalchemy2.shape import from_shape
 from geoalchemy2.elements import WKBElement
 
-from shapely.geometry import LineString
+from shapely.geometry import LineString, MultiLineString
 from shapely import wkb, difference
+from shapely.ops import linemerge
 
 from init_db import *
 from utils import geodesic_length
@@ -78,11 +79,12 @@ def split_region(parking_region: WKBElement ,
 
     regions = difference(overlap_region, parking_region)
 
+
     #we at most will have two split regions from this
-    if len(list(regions.geoms)) == 2:
+    if type(regions) == MultiLineString:
         region_1, region_2 = regions.geoms
     else:
-        region_1 = regions.geoms
+        region_1 = regions
 
         #we make the second region something that takes up no space
         region_2 = LineString([(0, 0), (0, 0)])
@@ -99,14 +101,16 @@ def split_region(parking_region: WKBElement ,
     if geodesic_length(regions[0].coords[0], regions[0].coords[1]) < MIN_PARKING_SPACE:
 
         #then parking region effectively takes up entire overlap_region
-        parking_region = parking_region.union(overlap_region)
+        parking_region = linemerge(parking_region.union(overlap_region))
+
+
     
     else:
         #if the smaller available region is sufficiently small and exists
         if 0 < geodesic_length(regions[1].coords[0], regions[1].coords[1]) < MIN_PARKING_SPACE:
 
-            #merge it with the parking_region
-            parking_region = parking_region.union(regions[1])
+            parking_region = linemerge(parking_region.union(regions[1]))
+
         
         
         elif regions[1].length > 0:
@@ -114,10 +118,11 @@ def split_region(parking_region: WKBElement ,
             #else that available region is big enough to be its own parking region
             free_region_2 = from_shape(regions[1], srid=4326)
         
-        #and the first free region would also be large enough as well
+        #and the first free region  would also be large enough as well
         free_region_1 = from_shape(regions[0], srid=4326)
     
     parking_region = from_shape(parking_region, srid=4326)
+
 
     return parking_region, free_region_1, free_region_2
 
@@ -196,7 +201,6 @@ def log_parking(user_id: int,
     
     parking_region, free_region_1, free_region_2 = split_region(parking_region, overlapping_spot.region)
 
-    
     #if free_region_1 and free_region_2 are None we change overlapping spot entry region to be parking_region
 
     #if everything is not None we make overlapping spot entry region to be free_region_1 and then make two new entries
@@ -216,6 +220,7 @@ def log_parking(user_id: int,
 
         #make a new spot for the parking region
         new_spot = Spot(region = parking_region)
+
         session.add(new_spot)
 
         session.commit()
@@ -228,9 +233,14 @@ def log_parking(user_id: int,
         )
 
         if free_region_2:
+
+            
             #and likewise if free_region_2 is large enough we make a spot for it
             new_spot = Spot(region=free_region_2)
+
             session.add(new_spot)
+
+            session.commit()
 
     else:
         
@@ -249,5 +259,6 @@ def log_parking(user_id: int,
         )
 
     session.add(new_park)
+
 
     session.commit()
