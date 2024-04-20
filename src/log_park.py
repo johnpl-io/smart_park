@@ -2,12 +2,14 @@ import math
 from sqlalchemy import func
 from sqlalchemy.orm import sessionmaker
 from geoalchemy2.shape import from_shape
+from geoalchemy2.elements import WKBElement
+
 from shapely.geometry import LineString
+from shapely import wkb, difference
 
 from init_db import *
 
 
-WKBElement = geoalchemy2.elements.WKBElement
 MIN_PARKING_SPACE = -1
 
 
@@ -61,7 +63,64 @@ def split_region(parking_region: WKBElement ,
     :return: A tuple containing the the three geography objects that represent the regions that were split as a result of the parking
     """
 
-    pass
+    if not overlap_region:
+        return parking_region, None, None
+
+    #We will first convert the regions to shapely objects so that we can perform operations on them without using the database
+
+    parking_region = wkb.loads(str(parking_region), hex = True)
+    overlap_region = wkb.loads(str(overlap_region), hex = True)
+
+    #then we want to get the part of the overlap_region that exists outside of the parking region
+
+    regions = difference(overlap_region, parking_region)
+
+    #we at most will have two split regions from this
+    if len(list(regions.geoms) == 2):
+        region_1, region_2 = regions.geoms
+    else:
+        region_1 = regions.geoms
+
+        #we make the second region something that takes up no space
+        region_2 = LineString([(0, 0), (0, 0)])
+    
+    regions = [region_1, region_2]
+
+    #sort the regions by their length
+    regions.sort(key = lambda x: x.length, reverse = True)
+
+    free_region_1 = None
+    free_region_2 = None
+
+    #if both regions are sufficiently small (regions[0].length > regions[1] so only need to check regions[0].length)
+    if regions[0].length < MIN_PARKING_SPACE:
+
+        #then parking region effectively takes up entire overlap_region
+        parking_region = parking_region.union(overlap_region)
+    
+    else:
+        #if the smaller available region is sufficiently small and exists
+        if 0 < regions[1].length < MIN_PARKING_SPACE:
+
+            #merge it with the parking_region
+            parking_region = parking_region.union(regions[1])
+        
+        
+        elif regions[1].length > 0:
+            
+            #else that available region is big enough to be its own parking region
+            free_region_2 = from_shape(regions[1], srid=4326)
+        
+        #and the first free region would also be large enough as well
+        free_region_1 = from_shape(regions[0], srid=4326)
+    
+    parking_region = from_shape(parking_region, srid=4326)
+
+    return parking_region, free_region_1, free_region_2
+
+
+
+
 
 
 def log_parking(user_id: int, 
@@ -114,9 +173,75 @@ def log_parking(user_id: int,
     overlapping_spot = available_spots.filter(func.ST_Intersects
                                                   (Spot.region, parking_region)).limit(1).one_or_none()
     
+    #if no overlap at all
+    if not overlapping_spot:
+        
+        #this is a completely new spot so we simply add a new spot and park entry
+        new_spot = Spot(region = parking_region)
+        session.add(new_spot)
 
+        new_park = Park(
+            spot_id = new_spot.spot_id,
+            user_id = user_id,
+            car_id = car_id
+        )
+        session.add(new_park)
+        session.commit()
+        return
+    
     parking_region, free_region_1, free_region_2 = split_region(parking_region, overlapping_spot.region)
 
+    
+    #if free_region_1 and free_region_2 are None we change overlapping spot entry region to be parking_region
+
+    #if everything is not None we make overlapping spot entry region to be free_region_1 and then make two new entries
+    #for parking_region and free_region_2
+
+    #if free_region_2 is not None then we make overlapping spot entry region free_region_1 and make new entry for 
+    #parking_region
+
+
+    if free_region_1 or free_region_2:
+        
+        #since free_region_1 is larger than free_region_2 to get here free_region_1 has to be sufficiently
+        #large enough for some car to fit in it
+
+        overlapping_spot.region = free_region_1
+        new_spot = Spot(region = parking_region)
+        session.add(new_spot)
+
+        new_park = Park(
+            spot_id = new_spot.spot_id,
+            user_id = user_id,
+            car_id = car_id
+        )
+
+        if free_region_2:
+
+            new_spot = Spot(region=free_region_2)
+            session.add(new_spot)
+
+    else:
+        
+        #if we're here then that means that either the car tried to park in between two cars and it was a 
+        #pretty tight fit or the car parked right next to another car and was really close to it and the 
+        #other side of the car is either not registered in our database yet or is the end of the street
+        
+        #either way we make the region of the overlapping_spot parking_region which had become
+        #the union between parking_region and the overlapping_spot
+        overlapping_spot.region = parking_region
+
+        new_park = Park(
+            spot_id = overlapping_spot.spot_id,
+            user_id = user_id,
+            car_id = car_id
+        )
+
+    session.add(new_park)
+
+    session.commit()
+    
+    
 
     
     
