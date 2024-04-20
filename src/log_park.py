@@ -25,7 +25,27 @@ def get_region(location: tuple[float, float],
 
 def log_parking(user_id: int, 
                 car_id: int, 
-                location: tuple[float, float]):
+                location: tuple[float, float],
+                theta: float):
+    
+    """This function updates the database when a user parks their car. It first checks
+    to see if the parking region overlaps with any of the free regions in our spots table
+    If it does then the overlapping region is subtracted from the free region and if 
+    the resulting remaining free region is too small for any car to park in, it is added to
+    the parking region since the car effectively takes up that reigon as well. An entry in 
+    the park table is also made.
+
+    :param: user_id: The id of the user (primary key of the user table)
+    
+    :param car_id: The id of the car (primary key of car table)
+
+    :param location: The location (latitude, longitude) of the user who is in 
+    the driver seat of the car. 
+
+    :param theta: The orientation of the car in degrees with respect to the positive
+    x axis
+    """
+    
     
     
     pass
