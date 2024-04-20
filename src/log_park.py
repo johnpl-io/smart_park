@@ -76,7 +76,7 @@ def split_region(parking_region: WKBElement ,
     regions = difference(overlap_region, parking_region)
 
     #we at most will have two split regions from this
-    if len(list(regions.geoms) == 2):
+    if len(list(regions.geoms)) == 2:
         region_1, region_2 = regions.geoms
     else:
         region_1 = regions.geoms
@@ -180,6 +180,8 @@ def log_parking(user_id: int,
         new_spot = Spot(region = parking_region)
         session.add(new_spot)
 
+        session.commit()
+
         new_park = Park(
             spot_id = new_spot.spot_id,
             user_id = user_id,
@@ -206,10 +208,16 @@ def log_parking(user_id: int,
         #since free_region_1 is larger than free_region_2 to get here free_region_1 has to be sufficiently
         #large enough for some car to fit in it
 
+        #we update the overlapping_spot region to be free_region_1
         overlapping_spot.region = free_region_1
+
+        #make a new spot for the parking region
         new_spot = Spot(region = parking_region)
         session.add(new_spot)
 
+        session.commit()
+
+        #and a new park entry
         new_park = Park(
             spot_id = new_spot.spot_id,
             user_id = user_id,
@@ -217,7 +225,7 @@ def log_parking(user_id: int,
         )
 
         if free_region_2:
-
+            #and likewise if free_region_2 is large enough we make a spot for it
             new_spot = Spot(region=free_region_2)
             session.add(new_spot)
 
@@ -240,10 +248,3 @@ def log_parking(user_id: int,
     session.add(new_park)
 
     session.commit()
-    
-    
-
-    
-    
-    
-    
