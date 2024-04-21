@@ -49,6 +49,7 @@ def get_park_EP(location: tuple[float, float],
     new_lat = location[0] + (dy / r_earth)*(180 / math.pi)
     new_long = location[1] + (dx / r_earth)*(180 / math.pi) / math.cos(math.radians(location[0]))
 
+    
     return (new_lat, new_long)
 
 
@@ -75,6 +76,7 @@ def split_region(parking_region: WKBElement ,
     parking_region = wkb.loads(str(parking_region), hex = True)
     overlap_region = wkb.loads(str(overlap_region), hex = True)
 
+
     #then we want to get the part of the overlap_region that exists outside of the parking region
 
     regions = difference(overlap_region, parking_region)
@@ -90,6 +92,7 @@ def split_region(parking_region: WKBElement ,
         region_2 = LineString([(0, 0), (0, 0)])
     
     regions = [region_1, region_2]
+
 
     #sort the regions by their length
     regions.sort(key = lambda x: x.length, reverse = True)
@@ -155,10 +158,11 @@ def log_parking(user_id: int,
     session = Session()
 
     #we query the cars table to get the length of the car
-    car_length = session.query(Car.len).filter(Car.car_id == car_id).first()[0]
+    car_length = session.query(Car.len).filter(Car.car_id == car_id).limit(1).one_or_none()
 
     #and then create the linestring object representing the region that the car is parked in
     parking_region = LineString([location, get_park_EP(location, car_length, theta)])
+
 
     #convert the linestring into a geography object
     parking_region = from_shape(parking_region, srid=4326)
