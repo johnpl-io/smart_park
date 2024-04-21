@@ -158,7 +158,7 @@ def log_parking(user_id: int,
     session = Session()
 
     #we query the cars table to get the length of the car
-    car_length = session.query(Car.len).filter(Car.car_id == car_id).limit(1).one_or_none()
+    car_length = session.query(Car.len).filter(Car.car_id == car_id).limit(1).one_or_none()[0]
 
     #and then create the linestring object representing the region that the car is parked in
     parking_region = LineString([location, get_park_EP(location, car_length, theta)])

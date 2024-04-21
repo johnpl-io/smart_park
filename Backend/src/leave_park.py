@@ -2,7 +2,6 @@ from init_db import *
 from sqlalchemy import func
 from sqlalchemy.orm import sessionmaker, joinedload
 
-import math
 from functools import reduce
 
 
