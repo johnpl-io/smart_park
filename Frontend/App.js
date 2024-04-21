@@ -15,6 +15,16 @@ document.addEventListener('DOMContentLoaded', function() {
         fillOpacity: 0.8
     }).addTo(map);
 
+    var parkingAreas = [
+        { name: "Main Street Parking", latlngs: [[51.505, -0.09], [51.506, -0.09], [51.506, -0.088], [51.505, -0.088]] },
+        // Add more parking areas here
+    ];
+    
+    parkingAreas.forEach(function(area) {
+        L.polygon(area.latlngs, { color: 'blue' }).addTo(map)
+            .bindPopup(area.name);
+    });
+    
     var speed = 1e-6; // Initial speed factor for movement
 
     function moveDot(e) {
@@ -28,7 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 speed = Math.min(1e-3, speed + 5e-6);
                 break;
             case "s": case "S": // Decrease speed
-                speed = Math.max(0.0001, speed -5e-6);
+                speed = Math.max(1e-8, speed -5e-6);
                 break;
             default: return; // Exit this handler for other keys
         }
