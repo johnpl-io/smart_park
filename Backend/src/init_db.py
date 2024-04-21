@@ -51,7 +51,7 @@ class Spot(Base):
     
     spot_id = Column(Integer, primary_key=True)
     region = Column(Geography('LINESTRING', srid=4326))
-    park = relationship("Park", back_populates="spot")
+    park = relationship("Park", back_populates="spot", cascade="all, delete-orphan")
 
 class ParkHistory(Base):
     __tablename__ = 'park_history'

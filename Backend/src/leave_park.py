@@ -28,8 +28,9 @@ def leave_park(user_id: int, car_id: int) -> None:
                  .join(Spot, Park.spot_id == Spot.spot_id)
                  .filter(Park.user_id == user_id, Park.car_id == car_id)
                  .limit(1)
-                 .options(joinedload(Park.spot))
                  .one_or_none())
+    
+    
     
     #create a log in the park history table
     park_log = ParkHistory(user_id = user_id,
@@ -46,12 +47,12 @@ def leave_park(user_id: int, car_id: int) -> None:
     #and behind car for this). Possibly important: Distances are likely measured between centers of regions
 
     merge_spots = (session.query(Spot)
-                   .filter(func.ST_DWithin(Spot.region, park_info.Spot.region, MIN_PARKING_SPACE))
-                   .filter(Spot.spot_id != park_info[0]).limit(2).all())
+               .filter(func.ST_DWithin(Spot.region, park_info.Spot.region, MIN_PARKING_SPACE))
+               .filter(Spot.spot_id.notin_(session.query(Park.spot_id)))
+               .limit(2).all())
     
-    
-
-    #if there are available regions    
+    #if there are available regions  
+  
     if merge_spots:
 
         #we delete the freed up spot from the spot table which in turn causes a cascade delete in the park table
@@ -82,5 +83,8 @@ def leave_park(user_id: int, car_id: int) -> None:
         
         #and finally we update the merged region
         merge_spots[0].region = merge_region
+    else:
+        park = session.query(Park).filter(Park.spot_id == park_info.Spot.spot_id)[0]
+        session.delete(park)
 
     session.commit()
