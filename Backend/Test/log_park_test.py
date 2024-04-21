@@ -16,7 +16,7 @@ from sqlalchemy.orm import  sessionmaker,  Session
 from sqlalchemy import create_engine
 from sqlalchemy import func
 
-
+import math
 import hashlib
 import pytest
 import time
@@ -49,6 +49,7 @@ session.add(car)
 #and registered in the database
 #In the end we should have three spots and one entry in our park table
 
+
 def test_park_middle_1():
 
     session.query(Spot).delete()
@@ -57,7 +58,7 @@ def test_park_middle_1():
     session.commit()
 
     street_start = (0, 0)
-    street =  LineString([street_start, get_park_EP(street_start, 5, 0)])
+    street =  LineString([street_start, get_park_EP(street_start, 100, 0)])
 
 
     street = from_shape(street, srid = 4326)
@@ -70,7 +71,7 @@ def test_park_middle_1():
 
     log_parking(user.user_id, 
                      car.car_id,
-                     (0, 1e-5),0)
+                     (0, 1e-5), 0)
     
     spots = session.query(Spot)
 
