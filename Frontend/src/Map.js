@@ -10,6 +10,7 @@ const MapComponent = () => {
     const [isParked, setIsParked] = useState(false);
     const [dotPosition, setDotPosition] = useState([40.7011, -74.0100]); // Default position
     const [zoomLevel, setZoomLevel] = useState(13); // Default zoom level
+
     const heatLayerRef = useRef(null);
 
     useEffect(() => {
@@ -31,8 +32,9 @@ const MapComponent = () => {
         }).addTo(map);
 
         mapRef.current = map;
-        map.on('moveend', fetchAndDisplayHeatmapData);
+        //map.on('moveend', fetchAndDisplayHeatmapData);
 
+        
         dotRef.current = L.circleMarker(dotPosition, {
             radius: 10,
             fillColor: "#ff7800",
@@ -45,6 +47,11 @@ const MapComponent = () => {
         mapRef.current.on('zoomend', () => {
             setZoomLevel(mapRef.current.getZoom());
         });
+
+        const intervalId = setInterval(() => {
+            fetchAndDisplayHeatmapData(mapRef.current);
+        }, 10000);
+
 
         let speed = 1e-6; // Initial speed factor for movement
         const handleKeyDown = (e) => {
@@ -71,7 +78,8 @@ const MapComponent = () => {
         return () => {
             document.removeEventListener('keydown', handleKeyDown);
             mapRef.current.off('zoomend');
-            map.off('moveend', fetchAndDisplayHeatmapData);
+            clearInterval(intervalId);
+            //map.off('moveend', fetchAndDisplayHeatmapData);
             mapRef.current.remove(); // Safely remove the map
         };
     }, [isParked]); // Depend on isParked to rebind the event listener when the parking status changes
@@ -141,7 +149,9 @@ const MapComponent = () => {
         }
     };
 
+
     const fetchAndDisplayHeatmapData = async () => {
+
         const bounds = mapRef.current.getBounds();
         const sw = bounds.getSouthWest();
         const ne = bounds.getNorthEast();
@@ -153,7 +163,8 @@ const MapComponent = () => {
         }
 
         const data = await response.json();
-        const heatData = data.map(item => [item.latitude, item.longitude, 1]); // 1 represents intensity
+        const heatData = data.map(item => [item[0], item[1], 1]); // 1 represents intensity
+
         heatLayerRef.current.setLatLngs(heatData);
     };
 
