@@ -53,6 +53,7 @@ class Spot(Base):
     spot_id = Column(Integer, primary_key=True)
     location = Column(Geography('POINT', srid=4326))
     park = relationship("Park", back_populates="spot", cascade="all, delete-orphan")
+    parked = relationship("ParkHistory", back_populates="spot", cascade="all, delete-orphan")
 
 class ParkHistory(Base):
     __tablename__ = 'park_history'
