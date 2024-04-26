@@ -1,15 +1,10 @@
 from init_db import *
 from sqlalchemy.orm import sessionmaker
-from sqlalchemy import create_engine
-from geoalchemy2 import func, Geography
+from sqlalchemy import create_engine, func
+from geoalchemy2 import  Geography
+from utils import create_session
 
 
-def create_session():
-    engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
-    Session = sessionmaker(bind=engine)
-    session = Session()
-
-    return session
 
 def log_park(user_id: int, car_id: int, location: tuple[float, float]):
 
@@ -49,4 +44,3 @@ def leave_park(user_id: int, car_id: int):
     session.delete(park)
 
     session.commit()
-    

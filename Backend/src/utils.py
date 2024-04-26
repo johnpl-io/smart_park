@@ -28,6 +28,12 @@ def geodesic_length(coord1: tuple[float, float], coord2: tuple[float, float]) ->
     )*r_earth
 
 
+def create_session():
+    engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
+    Session = sessionmaker(bind=engine)
+    session = Session()
+    return session
+
 def setup_db() -> tuple[Session, User, Car]:
     """This function is used for setting up the database for testing purposes.
 
@@ -36,10 +42,9 @@ def setup_db() -> tuple[Session, User, Car]:
     """
 
     #set up the connection to the database
-    engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
-    
-    Session = sessionmaker(bind=engine)
-    session = Session()
+
+    initialize()
+    session = create_session()
 
     #drop all rows in each table. Because of how our database is set up
     #dropping just these two tables will drop everything in our database
@@ -59,10 +64,12 @@ def setup_db() -> tuple[Session, User, Car]:
     session.add(user)
     
     #and the user's car
-    car = Car(len = 2)
+    car = Car(car_model = "Toyota")
     
     session.add(car)
 
     session.commit()
 
     return session, user, car
+
+

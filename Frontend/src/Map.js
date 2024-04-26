@@ -74,21 +74,38 @@ const MapComponent = () => {
         };
     }, []);
 
-    const handleParkButtonClick = () => {
+    const handleParkButtonClick = async () => {
         const dotLatLng = dotRef.current.getLatLng();
-        checkIfOnStreetRef.current(dotLatLng, (isOnStreet) => {
+        checkIfOnStreetRef.current(dotLatLng, async (isOnStreet) => {
             if (isOnStreet) {
-                alert("You can park here!");
+                // Correcting the payload and making it relevant to the parking context
+                const response = await fetch("http://localhost:5000/park", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({
+                        user_id: 1, // Example user ID
+                        car_id: 1, // Example car ID
+                        location: [dotLatLng.lat, dotLatLng.lng] // Using the current position
+                    })
+                });
+    
+                if (response.ok) {
+                    const responseData = await response.json();
+                    alert("Successfully parked!");
+                } else {
+                    alert("Failed to park. Please try again.");
+                }
             } else {
                 alert("You're not on a street!");
             }
         });
     };
+    
 
     return (
         <div>
             <div id="map"></div>
-            <button id="parkButton" onClick={handleParkButtonClick}>Check Parking</button>
+            <button id="parkButton" onClick={handleParkButtonClick}>Park Here</button>
         </div>
     );
 };

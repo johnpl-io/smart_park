@@ -53,7 +53,9 @@ class Spot(Base):
     spot_id = Column(Integer, primary_key=True)
     location = Column(Geography('POINT', srid=4326))
     park = relationship("Park", back_populates="spot", cascade="all, delete-orphan")
-    parked = relationship("ParkHistory", back_populates="spot", cascade="all, delete-orphan")
+    parked = relationship("ParkHistory", back_populates="spot", cascade="all, delete")
+
+
 
 class ParkHistory(Base):
     __tablename__ = 'park_history'
@@ -61,10 +63,13 @@ class ParkHistory(Base):
     phid = Column(Integer, primary_key=True)
     user_id = Column(Integer, ForeignKey('users.user_id', ondelete='CASCADE'))
 
-    spot_id = Column(Integer, ForeignKey('Spot.spot_id', ondelete='CASCADE'))                 
+    spot_id = Column(Integer, ForeignKey('spot.spot_id', ondelete='CASCADE')) 
+
     time_arrived = Column(TIMESTAMP, nullable=False)
     time_left = Column(TIMESTAMP, nullable=False, default=func.now())
-    
+
+    spot = relationship("Spot", back_populates="parked")
+
     user = relationship("User", back_populates="park_history")
 
 class Park(Base):
@@ -92,20 +97,23 @@ class Violation(Base):
     ending = Column(TIMESTAMP, nullable=False)
 """
 
+def initialize():
+    engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
 
-engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
+
+    Base.metadata.reflect(bind=engine)
+
+    for table_name in list(Base.metadata.tables) + list(Base.metadata.tables):
+        if table_name != "spatial_ref_sys":
+            try:
+                Base.metadata.tables[table_name].drop(bind=engine, checkfirst=True)
+            except:
+                continue
+
+    Base.metadata.create_all(engine)
+
+    session = Session(engine)
+    engine.connect()
 
 
-Base.metadata.reflect(bind=engine)
 
-for table_name in list(Base.metadata.tables) + list(Base.metadata.tables):
-    if table_name != "spatial_ref_sys":
-        try:
-            Base.metadata.tables[table_name].drop(bind=engine, checkfirst=True)
-        except:
-            continue
-
-Base.metadata.create_all(engine)
-
-session = Session(engine)
-connection = engine.connect()
