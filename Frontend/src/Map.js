@@ -1,4 +1,4 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import './Map.css';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
@@ -6,7 +6,7 @@ import 'leaflet/dist/leaflet.css';
 const MapComponent = () => {
     const mapRef = useRef(null);
     const dotRef = useRef(null);
-    const checkIfOnStreetRef = useRef(null);
+    const [isParked, setIsParked] = useState(false);
 
     useEffect(() => {
         mapRef.current = L.map('map', {
@@ -29,27 +29,9 @@ const MapComponent = () => {
             fillOpacity: 0.8
         }).addTo(mapRef.current);
 
-        checkIfOnStreetRef.current = (latlng, callback) => {
-            
-            fetch(`http://localhost:2000/api/places?lat=${latlng.lat}&lng=${latlng.lng}`)
-                .then(response => response.json())
-                .then(data => {
-                    console.log(data);
-                    if (data.status === 'OK' && data.results.length > 0) {
-                        var isOnStreet = data.results.some(place => place.types.includes('route'));
-                        callback(isOnStreet);
-                    } else {
-                        callback(false);
-                    }
-                })
-                .catch(error => {
-                    console.error('Error:', error);
-                    callback(false);
-                });
-            };
-
         let speed = 1e-6; // Initial speed factor for movement
         const handleKeyDown = (e) => {
+            if (isParked) return; // Ignore key presses when parked
             let currentPos = dotRef.current.getLatLng();
             switch (e.key) {
                 case "ArrowUp":    currentPos.lat += speed; break;
@@ -72,40 +54,51 @@ const MapComponent = () => {
             document.removeEventListener('keydown', handleKeyDown);
             mapRef.current.remove();
         };
-    }, []);
+    }, [isParked]); // Depend on isParked to rebind the event listener when the parking status changes
 
     const handleParkButtonClick = async () => {
         const dotLatLng = dotRef.current.getLatLng();
-        checkIfOnStreetRef.current(dotLatLng, async (isOnStreet) => {
-            if (isOnStreet) {
-                // Correcting the payload and making it relevant to the parking context
-                const response = await fetch("http://localhost:5000/park", {
-                    method: "POST",
-                    headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify({
-                        user_id: 1, // Example user ID
-                        car_id: 1, // Example car ID
-                        location: [dotLatLng.lat, dotLatLng.lng] // Using the current position
-                    })
-                });
-    
-                if (response.ok) {
-                    const responseData = await response.json();
-                    alert("Successfully parked!");
-                } else {
-                    alert("Failed to park. Please try again.");
-                }
-            } else {
-                alert("You're not on a street!");
-            }
+        const response = await fetch("http://localhost:5000/park", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+                user_id: 1, // Example user ID
+                car_id: 1, // Example car ID
+                location: [dotLatLng.lat, dotLatLng.lng] // Using the current position
+            })
         });
+
+        if (response.ok) {
+            setIsParked(true);
+            alert("Successfully parked!");
+        } else {
+            alert("Failed to park. Please try again.");
+        }
     };
-    
+
+    const handleUnparkButtonClick = async () => {
+        const response = await fetch("http://localhost:5000/leave", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+                user_id: 1,
+                car_id: 1
+            })
+        });
+
+        if (response.ok) {
+            setIsParked(false);
+            alert("Successfully unparked! You can start driving now.");
+        } else {
+            alert("Failed to unpark. Please try again.");
+        }
+    };
 
     return (
         <div>
             <div id="map"></div>
-            <button id="parkButton" onClick={handleParkButtonClick}>Park Here</button>
+            <button id="parkButton" onClick={handleParkButtonClick} disabled={isParked}>Park Here</button>
+            <button id="UnparkButton" onClick={handleUnparkButtonClick} disabled={!isParked}>Leave Park</button>
         </div>
     );
 };
