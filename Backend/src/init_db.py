@@ -30,9 +30,10 @@ class Car(Base):
     __tablename__ = 'cars'
     
     car_id = Column(Integer, primary_key=True)
+    car_model = Column(String, nullable=False)
     
     #width = Column(Float, nullable=False)
-    len = Column(Float, nullable=False)
+    #len = Column(Float, nullable=False)
     
     owns = relationship("Owns", back_populates="car")
     park = relationship("Park", back_populates="car")
@@ -50,7 +51,7 @@ class Spot(Base):
     __tablename__ = 'spot'
     
     spot_id = Column(Integer, primary_key=True)
-    region = Column(Geography('LINESTRING', srid=4326))
+    location = Column(Geography('POINT', srid=4326))
     park = relationship("Park", back_populates="spot", cascade="all, delete-orphan")
 
 class ParkHistory(Base):
@@ -58,8 +59,8 @@ class ParkHistory(Base):
     
     phid = Column(Integer, primary_key=True)
     user_id = Column(Integer, ForeignKey('users.user_id', ondelete='CASCADE'))
-                                         
-    region = Column(Geography('LINESTRING', srid=4326))
+
+    spot_id = Column(Integer, ForeignKey('Spot.spot_id', ondelete='CASCADE'))                 
     time_arrived = Column(TIMESTAMP, nullable=False)
     time_left = Column(TIMESTAMP, nullable=False, default=func.now())
     
@@ -79,6 +80,7 @@ class Park(Base):
     user = relationship("User", back_populates="park")
     car = relationship("Car", back_populates="park")
 
+"""
 class Violation(Base):
     __tablename__ = 'violation'
     
@@ -87,6 +89,7 @@ class Violation(Base):
     
     starting = Column(TIMESTAMP, nullable=False)
     ending = Column(TIMESTAMP, nullable=False)
+"""
 
 
 engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
