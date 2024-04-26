@@ -24,7 +24,7 @@ def test_park_middle_1():
     session, user, car = setup_db()
 
     street_start = (0, 0)
-    street =  LineString([street_start, get_park_EP(street_start, 100, 0)])
+    street =  LineString([street_start, get_park_EP(street_start, 5, 0)])
 
 
     street = from_shape(street, srid = 4326)

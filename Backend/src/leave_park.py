@@ -84,6 +84,8 @@ def leave_park(user_id: int, car_id: int) -> None:
         #and finally we update the merged region
         merge_spots[0].region = merge_region
     else:
+        #If no adjacent spots were found then we keep the parking space as a spot since no merge is made
+        #but delete the entry from the park table
         park = session.query(Park).filter(Park.spot_id == park_info.Spot.spot_id)[0]
         session.delete(park)
 

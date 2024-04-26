@@ -24,6 +24,38 @@ document.addEventListener('DOMContentLoaded', function() {
         L.polygon(area.latlngs, { color: 'blue' }).addTo(map)
             .bindPopup(area.name);
     });
+
+    function checkIfOnStreet(latlng, callback) {
+        var apiKey = 'AIzaSyBJXSdjGa3Lyq5iNRLQQXidjuGRCNK-4CQ';
+        var url = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${latlng.lat},${latlng.lng}&radius=10&key=${apiKey}`;
+    
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                if (data.status === 'OK' && data.results.length > 0) {
+                    // Check if any of the nearby places is of type 'route', which indicates a street
+                    var isOnStreet = data.results.some(place => place.types.includes('route'));
+                    callback(isOnStreet);
+                } else {
+                    callback(false);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                callback(false);
+            });
+    }
+    
+    
+    document.getElementById('parkButton').addEventListener('click', function() {
+        checkIfOnStreet(dot.getLatLng(), function(isOnStreet) {
+            if (isOnStreet) {
+                alert("You can park here!");
+            } else {
+                alert("You're not on a street!");
+            }
+        });
+    });
     
     var speed = 1e-6; // Initial speed factor for movement
 

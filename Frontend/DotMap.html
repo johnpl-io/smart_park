@@ -18,7 +18,23 @@
             cursor: pointer;
             font-size: 16px;
         }
+        #searchButton {
+            position: absolute;
+            top: 70px;
+            right: 10px;
+            z-index: 1000;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
         #parkButton:hover {
+            background-color: #45a049;
+        }
+        #searchButton:hover {
             background-color: #45a049;
         }
     </style>
@@ -26,6 +42,7 @@
 <body>
     <div id="map"></div>
     <button id="parkButton">Park Here</button>
+    <button id="searchButton">Find Parking</button>
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
     <script src="app.js"></script>
 </body>
