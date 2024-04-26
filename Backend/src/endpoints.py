@@ -53,8 +53,29 @@ def isPark():
     else:
         return jsonify({"isParked": False}), 200
 
+@app.route('/get-parked-cars', methods=['GET'])
+def get_parked_cars():
+    # Retrieve parameters from URL query
+    sw_lat = request.args.get('sw_lat', type=float)
+    sw_lon = request.args.get('sw_lon', type=float)
+    ne_lat = request.args.get('ne_lat', type=float)
+    ne_lon = request.args.get('ne_lon', type=float)
+
+    if None in [sw_lat, sw_lon, ne_lat, ne_lon]:
+        return jsonify({"error": "Missing coordinates parameters"}), 400
+
+    # Fetch parked car positions
+    results = load_parks(sw_lat, sw_lon, ne_lat, ne_lon)
+
+
+    return jsonify(results)
+
+
+
 if __name__ == '__main__':
     app.run(debug=True)
+
+
 
 
 

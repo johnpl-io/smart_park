@@ -2,18 +2,19 @@ import React, { useEffect, useRef, useState } from 'react';
 import './Map.css';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
+import 'leaflet.heat';  
 
 const MapComponent = () => {
     const mapRef = useRef(null);
     const dotRef = useRef(null);
     const [isParked, setIsParked] = useState(false);
-    const [dotPosition, setDotPosition] = useState([51.505, -0.09]); // Default position
+    const [dotPosition, setDotPosition] = useState([40.7011, -74.0100]); // Default position
     const [zoomLevel, setZoomLevel] = useState(13); // Default zoom level
-
+    const heatLayerRef = useRef(null);
 
     useEffect(() => {
-        mapRef.current = L.map('map', {
-            center: dotPosition, // Initialize map center with dot position
+        const map = L.map('map', {
+            center: dotPosition,
             zoom: zoomLevel,
             layers: [
                 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -22,6 +23,15 @@ const MapComponent = () => {
                 })
             ]
         });
+
+        heatLayerRef.current = L.heatLayer([], {
+            radius: 25,
+            blur: 15,
+            maxZoom: 17,
+        }).addTo(map);
+
+        mapRef.current = map;
+        map.on('moveend', fetchAndDisplayHeatmapData);
 
         dotRef.current = L.circleMarker(dotPosition, {
             radius: 10,
@@ -61,6 +71,7 @@ const MapComponent = () => {
         return () => {
             document.removeEventListener('keydown', handleKeyDown);
             mapRef.current.off('zoomend');
+            map.off('moveend', fetchAndDisplayHeatmapData);
             mapRef.current.remove(); // Safely remove the map
         };
     }, [isParked]); // Depend on isParked to rebind the event listener when the parking status changes
@@ -128,6 +139,22 @@ const MapComponent = () => {
         } else {
             alert("Failed to unpark. Please try again.");
         }
+    };
+
+    const fetchAndDisplayHeatmapData = async () => {
+        const bounds = mapRef.current.getBounds();
+        const sw = bounds.getSouthWest();
+        const ne = bounds.getNorthEast();
+
+        const response = await fetch(`http://localhost:5000/get-parked-cars?sw_lat=${sw.lat}&sw_lon=${sw.lng}&ne_lat=${ne.lat}&ne_lon=${ne.lng}`);
+        if (!response.ok) {
+            console.error('Failed to fetch heatmap data');
+            return;
+        }
+
+        const data = await response.json();
+        const heatData = data.map(item => [item.latitude, item.longitude, 1]); // 1 represents intensity
+        heatLayerRef.current.setLatLngs(heatData);
     };
 
     return (

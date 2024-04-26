@@ -69,3 +69,39 @@ def check_park(user_id: int, car_id: int):
     finally:
         session.close()
 
+def load_parks(sw_lat, sw_lon, ne_lat, ne_lon):
+
+    """
+    Retrieves the positions of all parked cars within the specified rectangular region.
+    
+    Parameters:
+    sw_lat (float): Latitude of the South-West corner.
+    sw_lon (float): Longitude of the South-West corner.
+    ne_lat (float): Latitude of the North-East corner.
+    ne_lon (float): Longitude of the North-East corner.
+    
+    Returns:
+    list of tuples: Each tuple contains (latitude, longitude) of a parked spot.
+    """
+    
+    session = create_session()
+
+    try:
+        results = session.query(
+            Spot.spot_id,
+            func.ST_Y(Spot.location.cast(Geometry)).label('latitude'),
+            func.ST_X(Spot.location.cast(Geometry)).label('longitude')
+        ).join(
+            Park, Park.spot_id == Spot.spot_id
+        ).filter(
+            func.ST_Contains(
+                func.ST_MakeEnvelope(sw_lon, sw_lat, ne_lon, ne_lat, 4326).cast(Geometry),
+                Spot.location.cast(Geometry)
+            )
+        ).all()
+
+        # Return list of tuples (id, latitude, longitude)
+        return [(result.spot_id, result.latitude, result.longitude) for result in results]
+    finally:
+        session.close()
+
