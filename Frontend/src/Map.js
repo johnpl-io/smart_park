@@ -7,11 +7,14 @@ const MapComponent = () => {
     const mapRef = useRef(null);
     const dotRef = useRef(null);
     const [isParked, setIsParked] = useState(false);
+    const [dotPosition, setDotPosition] = useState([51.505, -0.09]); // Default position
+    const [zoomLevel, setZoomLevel] = useState(13); // Default zoom level
+
 
     useEffect(() => {
         mapRef.current = L.map('map', {
-            center: [51.505, -0.09],
-            zoom: 13,
+            center: dotPosition, // Initialize map center with dot position
+            zoom: zoomLevel,
             layers: [
                 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                     maxZoom: 30,
@@ -20,7 +23,7 @@ const MapComponent = () => {
             ]
         });
 
-        dotRef.current = L.circleMarker([51.505, -0.09], {
+        dotRef.current = L.circleMarker(dotPosition, {
             radius: 10,
             fillColor: "#ff7800",
             color: "#000",
@@ -28,6 +31,10 @@ const MapComponent = () => {
             opacity: 1,
             fillOpacity: 0.8
         }).addTo(mapRef.current);
+
+        mapRef.current.on('zoomend', () => {
+            setZoomLevel(mapRef.current.getZoom());
+        });
 
         let speed = 1e-6; // Initial speed factor for movement
         const handleKeyDown = (e) => {
@@ -47,12 +54,14 @@ const MapComponent = () => {
                 default: return; // Exit this handler for other keys
             }
             dotRef.current.setLatLng(currentPos);
+            setDotPosition([currentPos.lat, currentPos.lng]);
             mapRef.current.panTo(currentPos);
         };
         document.addEventListener('keydown', handleKeyDown);
         return () => {
             document.removeEventListener('keydown', handleKeyDown);
-            mapRef.current.remove();
+            mapRef.current.off('zoomend');
+            mapRef.current.remove(); // Safely remove the map
         };
     }, [isParked]); // Depend on isParked to rebind the event listener when the parking status changes
 
@@ -70,6 +79,7 @@ const MapComponent = () => {
 
         if (response.ok) {
             setIsParked(true);
+            setDotPosition([dotLatLng.lat, dotLatLng.lng]);
             alert("Successfully parked!");
         } else {
             alert("Failed to park. Please try again.");
