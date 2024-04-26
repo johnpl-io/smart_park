@@ -65,6 +65,32 @@ const MapComponent = () => {
         };
     }, [isParked]); // Depend on isParked to rebind the event listener when the parking status changes
 
+
+    useEffect(() => {
+        const fetchParkedStatus = async () => {
+            // Assume user_id and car_id are somehow determined (hardcoded here for simplicity)
+            const user_id = 1;
+            const car_id = 1;
+            const url = `http://localhost:5000/check-parked?user_id=${user_id}&car_id=${car_id}`;
+
+            const response = await fetch(url, {
+                method: "GET",
+                headers: { "Content-Type": "application/json" },
+            });
+
+        
+            const data = await response.json();
+            console.log(data);
+            if (response.ok) {
+                setIsParked(data.isParked);
+                if (data.isParked && data.location) {
+                    setDotPosition([data.location[0], data.location[1]]);
+                }
+            }
+        };
+        fetchParkedStatus();
+    }, []);
+
     const handleParkButtonClick = async () => {
         const dotLatLng = dotRef.current.getLatLng();
         const response = await fetch("http://localhost:5000/park", {

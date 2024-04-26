@@ -36,7 +36,25 @@ def leave():
         "message": "User successfully left parking space!"
     }), 200
 
+@app.route('/check-parked', methods = ['GET'])
+def isPark():
+    user_id = request.args.get('user_id')
+    car_id = request.args.get('car_id')
+    
+    if not user_id or not car_id:
+        return jsonify({"error": "Missing user_id or car_id"}), 400
+    
+        
+    parked, location = check_park(int(user_id), int(car_id))
+
+    
+    if parked:
+        return jsonify({"isParked": True, "location": location}), 200
+    else:
+        return jsonify({"isParked": False}), 200
 
 if __name__ == '__main__':
     app.run(debug=True)
+
+
 

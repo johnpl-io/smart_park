@@ -1,7 +1,8 @@
 from init_db import *
 from sqlalchemy.orm import sessionmaker
-from sqlalchemy import create_engine, func
-from geoalchemy2 import  Geography
+from sqlalchemy import create_engine, func, cast
+from geoalchemy2 import  Geography, Geometry
+from geoalchemy2.functions import ST_X, ST_Y 
 from utils import create_session
 
 
@@ -22,6 +23,8 @@ def log_park(user_id: int, car_id: int, location: tuple[float, float]):
     
     session.add(new_park)
     session.commit()
+
+    session.close()
 
 
 def leave_park(user_id: int, car_id: int):
@@ -44,3 +47,25 @@ def leave_park(user_id: int, car_id: int):
     session.delete(park)
 
     session.commit()
+
+    session.close()
+
+
+def check_park(user_id: int, car_id: int):
+    session = create_session()
+
+    try:
+        result = (session.query(func.ST_X(cast(Spot.location, Geometry)),
+                                func.ST_Y(cast(Spot.location, Geometry)))
+                  .join(Park, Park.spot_id == Spot.spot_id)
+                  .filter(Park.user_id == user_id, Park.car_id == car_id)
+                  .one_or_none())
+
+        if result == None:
+            return False, None
+
+        latitude, longitude = result
+        return True, (latitude, longitude)
+    finally:
+        session.close()
+
