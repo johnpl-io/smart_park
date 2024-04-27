@@ -3,11 +3,17 @@ import './Map.css';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet.heat';  
+import 'leaflet-routing-machine';
+
 
 const MapComponent = () => {
     const mapRef = useRef(null);
     const dotRef = useRef(null);
     const [isParked, setIsParked] = useState(false);
+    const [parkingSpots, setParkingSpots] = useState([]);
+    const [selectedSpot, setSelectedSpot] = useState(null);
+    const routingControlRef = useRef(null);
+
 
 
     const [dotPosition, setDotPosition] = useState([40.76, -73.93]);
@@ -16,6 +22,30 @@ const MapComponent = () => {
 
     const heatLayerRef = useRef(null);
 
+
+
+    useEffect(() => {
+        if (selectedSpot && mapRef.current) {
+            if (routingControlRef.current) {
+                // Update the existing routing control instead of creating a new one
+                routingControlRef.current.setWaypoints([
+                    L.latLng(40.76, -73.93),  // Your dynamic starting point
+                    L.latLng(selectedSpot.lat, selectedSpot.lng)
+                ]);
+            } else {
+                // Create the routing control if it does not exist
+                routingControlRef.current = L.Routing.control({
+                    waypoints: [
+                        L.latLng(40.76, -73.93),
+                        L.latLng(selectedSpot.lat, selectedSpot.lng)
+                    ],
+                    routeWhileDragging: true,
+                    show: false  // Set to false to prevent automatic UI display
+                }).addTo(mapRef.current);
+            }
+        }
+    }, [selectedSpot]);
+    
     useEffect(() => {
         const map = L.map('map', {
             center: dotPosition,
@@ -29,11 +59,16 @@ const MapComponent = () => {
         });
 
         heatLayerRef.current = L.heatLayer([], {
-            radius: 8,
-            blur: 16,
+            radius: 20,
+            blur: 15,
             maxZoom: 17,
-            fillOpacity: 0.05
+            fillOpacity: 0.5
         }).addTo(map);
+
+        var heatCanvas = heatLayerRef.current._canvas;
+        if (heatCanvas) {
+            var ctx = heatCanvas.getContext('2d', { willReadFrequently: true });
+        }
 
         mapRef.current = map;
         //map.on('moveend', fetchAndDisplayHeatmapData);
@@ -54,7 +89,7 @@ const MapComponent = () => {
 
         const intervalId = setInterval(() => {
             fetchAndDisplayHeatmapData(mapRef.current);
-        }, 1000);
+        }, 10000);
 
 
         let speed = 1e-6; // Initial speed factor for movement
@@ -79,6 +114,11 @@ const MapComponent = () => {
             mapRef.current.panTo(currentPos);
         };
         document.addEventListener('keydown', handleKeyDown);
+
+
+
+
+
         return () => {
             document.removeEventListener('keydown', handleKeyDown);
             mapRef.current.off('zoomend');
@@ -89,6 +129,16 @@ const MapComponent = () => {
     }, [isParked]); // Depend on isParked to rebind the event listener when the parking status changes
 
 
+    const generateParkingSpots = () => {
+        const spots = Array.from({ length: 10 }, () => ({
+            lat: 40.7 + Math.random() * 0.1 - 0.05,  // Latitude around Manhattan
+            lng: -73.98 + Math.random() * 0.1 - 0.05  // Longitude around Manhattan
+        }));
+        setParkingSpots(spots);
+        console.log(parkingSpots);
+    };
+
+    
     useEffect(() => {
         const fetchParkedStatus = async () => {
             // Assume user_id and car_id are somehow determined (hardcoded here for simplicity)
@@ -170,16 +220,31 @@ const MapComponent = () => {
         const heatData = data.map(item => [item[1], item[2], 1]); // 1 represents intensity
 
         heatLayerRef.current.setLatLngs(heatData);
-        console.log("Heatmap updated.");
     };
 
     return (
         <div>
-            <div id="map"></div>
+            <div id="map">
+                <div className="select-container">
+                    {parkingSpots.length > 0 && (
+                        <select onChange={(e) => setSelectedSpot(parkingSpots[parseInt(e.target.value, 10)])}>
+                            <option value="">Select a parking spot</option>
+                            {parkingSpots.map((spot, index) => (
+                                <option key={index} value={index}>
+                                    {`Lat: ${spot.lat.toFixed(3)}, Lng: ${spot.lng.toFixed(3)}`}
+                                </option>
+                            ))}
+                        </select>
+                    )}
+                </div>
+            </div>
             <button id="parkButton" onClick={handleParkButtonClick} disabled={isParked}>Park Here</button>
             <button id="UnparkButton" onClick={handleUnparkButtonClick} disabled={!isParked}>Leave Park</button>
+            <button id="findParkingButton" onClick={generateParkingSpots}>Find Parking</button>
         </div>
     );
-};
+}
+        
+    
 
 export default MapComponent;

@@ -4,6 +4,7 @@ from sqlalchemy import create_engine, func, cast
 from geoalchemy2 import  Geography, Geometry
 from geoalchemy2.functions import ST_X, ST_Y 
 from utils import create_session
+import random
 
 
 
@@ -101,7 +102,7 @@ def load_parks(sw_lat, sw_lon, ne_lat, ne_lon):
         ).all()
 
         # Return list of tuples (id, latitude, longitude)
-        return [(result.spot_id, result.latitude, result.longitude) for result in results]
+        return random.sample([(result.spot_id, result.latitude, result.longitude) for result in results], 10)
     finally:
         session.close()
 
