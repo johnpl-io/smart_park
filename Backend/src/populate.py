@@ -4,6 +4,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from geoalchemy2.elements import WKTElement
 from init_db import *
+import numpy as np
 
 fake = Faker()
 NUM_ENTRIES = 10000
@@ -38,8 +39,10 @@ def populate_database():
     # Create random spots
     spots = []
     for _ in range(NUM_ENTRIES):  # Adjust the range for more spots
-        lat = random.uniform(40.7011, 40.7850)  # Latitude range for Manhattan
-        lon = random.uniform(-74.0100, -73.9490)  # Longitude range for Manhattan
+        lat = np.random.normal(loc = 40.76, scale = 1e-2)
+        lon = np.random.normal(loc = -73.93, scale = 1e-2)
+        #lat = random.uniform(40.711, 40.7850)  # Latitude range for Manhattan
+        #lon = random.uniform(-74.0100, -73.9490)  # Longitude range for Manhattan
         spot = Spot(
             location=WKTElement(f'POINT({lon} {lat})', srid=4326)
         )

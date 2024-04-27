@@ -8,7 +8,10 @@ const MapComponent = () => {
     const mapRef = useRef(null);
     const dotRef = useRef(null);
     const [isParked, setIsParked] = useState(false);
-    const [dotPosition, setDotPosition] = useState([40.7011, -74.0100]); // Default position
+
+
+    const [dotPosition, setDotPosition] = useState([40.76, -73.93]);
+    //const [dotPosition, setDotPosition] = useState([40.7011, -74.0100]); // Default position
     const [zoomLevel, setZoomLevel] = useState(13); // Default zoom level
 
     const heatLayerRef = useRef(null);
@@ -26,9 +29,10 @@ const MapComponent = () => {
         });
 
         heatLayerRef.current = L.heatLayer([], {
-            radius: 25,
-            blur: 15,
+            radius: 8,
+            blur: 16,
             maxZoom: 17,
+            fillOpacity: 0.05
         }).addTo(map);
 
         mapRef.current = map;
@@ -50,7 +54,7 @@ const MapComponent = () => {
 
         const intervalId = setInterval(() => {
             fetchAndDisplayHeatmapData(mapRef.current);
-        }, 10000);
+        }, 1000);
 
 
         let speed = 1e-6; // Initial speed factor for movement
@@ -163,9 +167,10 @@ const MapComponent = () => {
         }
 
         const data = await response.json();
-        const heatData = data.map(item => [item[0], item[1], 1]); // 1 represents intensity
+        const heatData = data.map(item => [item[1], item[2], 1]); // 1 represents intensity
 
         heatLayerRef.current.setLatLngs(heatData);
+        console.log("Heatmap updated.");
     };
 
     return (
