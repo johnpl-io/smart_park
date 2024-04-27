@@ -67,7 +67,6 @@ def get_parked_cars():
     # Fetch parked car positions
     results = load_parks(sw_lat, sw_lon, ne_lat, ne_lon)
 
-
     return jsonify(results)
 
 

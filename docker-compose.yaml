@@ -9,3 +9,20 @@ services:
       - "5432:5432"
     volumes:
       - ./data:/var/lib/postgresql/data
+
+  backend:
+    build: ./Backend
+    ports:
+      - "5000:5000"
+    depends_on:
+      - db
+
+  frontend:
+    build: ./Frontend
+    ports:
+      - "3000:3000"
+
+  proxy:
+    build: ./ProxyServer
+    ports:
+      - "2000:2000"
