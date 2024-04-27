@@ -144,7 +144,7 @@ const MapComponent = () => {
             // Assume user_id and car_id are somehow determined (hardcoded here for simplicity)
             const user_id = 1;
             const car_id = 1;
-            const url = `http://localhost:5000/check-parked?user_id=${user_id}&car_id=${car_id}`;
+            const url = `http://127.0.0.1:5000/check-parked?user_id=${user_id}&car_id=${car_id}`;
 
             const response = await fetch(url, {
                 method: "GET",
@@ -166,7 +166,7 @@ const MapComponent = () => {
 
     const handleParkButtonClick = async () => {
         const dotLatLng = dotRef.current.getLatLng();
-        const response = await fetch("http://localhost:5000/park", {
+        const response = await fetch("http://127.0.0.1:5000/park", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
@@ -186,7 +186,7 @@ const MapComponent = () => {
     };
 
     const handleUnparkButtonClick = async () => {
-        const response = await fetch("http://localhost:5000/leave", {
+        const response = await fetch("http://127.0.0.1:5000/leave", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
@@ -210,7 +210,7 @@ const MapComponent = () => {
         const sw = bounds.getSouthWest();
         const ne = bounds.getNorthEast();
 
-        const response = await fetch(`http://localhost:5000/get-parked-cars?sw_lat=${sw.lat}&sw_lon=${sw.lng}&ne_lat=${ne.lat}&ne_lon=${ne.lng}`);
+        const response = await fetch(`http://127.0.0.1:5000/get-parked-cars?sw_lat=${sw.lat}&sw_lon=${sw.lng}&ne_lat=${ne.lat}&ne_lon=${ne.lng}`);
         if (!response.ok) {
             console.error('Failed to fetch heatmap data');
             return;
