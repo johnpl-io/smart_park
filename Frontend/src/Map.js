@@ -22,6 +22,8 @@ const MapComponent = () => {
 
     const heatLayerRef = useRef(null);
 
+    const [showHeatmap, setShowHeatmap] = useState(false);
+
 
 
     useEffect(() => {
@@ -144,7 +146,7 @@ const MapComponent = () => {
             // Assume user_id and car_id are somehow determined (hardcoded here for simplicity)
             const user_id = 1;
             const car_id = 1;
-            const url = `http://127.0.0.1:5000/check-parked?user_id=${user_id}&car_id=${car_id}`;
+            const url = `http:localhost:5000/check-parked?user_id=${user_id}&car_id=${car_id}`;
 
             const response = await fetch(url, {
                 method: "GET",
@@ -166,7 +168,7 @@ const MapComponent = () => {
 
     const handleParkButtonClick = async () => {
         const dotLatLng = dotRef.current.getLatLng();
-        const response = await fetch("http://127.0.0.1:5000/park", {
+        const response = await fetch("http://localhost:5000/park", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
@@ -186,7 +188,7 @@ const MapComponent = () => {
     };
 
     const handleUnparkButtonClick = async () => {
-        const response = await fetch("http://127.0.0.1:5000/leave", {
+        const response = await fetch("http://localhost:5000/leave", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
@@ -205,12 +207,11 @@ const MapComponent = () => {
 
 
     const fetchAndDisplayHeatmapData = async () => {
-
         const bounds = mapRef.current.getBounds();
         const sw = bounds.getSouthWest();
         const ne = bounds.getNorthEast();
 
-        const response = await fetch(`http://127.0.0.1:5000/get-parked-cars?sw_lat=${sw.lat}&sw_lon=${sw.lng}&ne_lat=${ne.lat}&ne_lon=${ne.lng}`);
+        const response = await fetch(`http://localhost:5000/get-parked-cars?sw_lat=${sw.lat}&sw_lon=${sw.lng}&ne_lat=${ne.lat}&ne_lon=${ne.lng}`);
         if (!response.ok) {
             console.error('Failed to fetch heatmap data');
             return;
@@ -218,8 +219,8 @@ const MapComponent = () => {
 
         const data = await response.json();
         const heatData = data.map(item => [item[1], item[2], 1]); // 1 represents intensity
-
         heatLayerRef.current.setLatLngs(heatData);
+        setShowHeatmap(true); // Display the heatmap
     };
 
     return (
@@ -241,6 +242,8 @@ const MapComponent = () => {
             <button id="parkButton" onClick={handleParkButtonClick} disabled={isParked}>Park Here</button>
             <button id="UnparkButton" onClick={handleUnparkButtonClick} disabled={!isParked}>Leave Park</button>
             <button id="findParkingButton" onClick={generateParkingSpots}>Find Parking</button>
+            <button id="toggleHeatmapButton" onClick={fetchAndDisplayHeatmapData}>Show Heatmap</button>
+
         </div>
     );
 }

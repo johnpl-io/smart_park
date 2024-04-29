@@ -64,3 +64,21 @@
     left: 50px; /* Adjust as needed */
     z-index: 1000; /* Ensures it appears above the map layers */
 }
+
+#toggleHeatmapButton {
+    position: absolute;
+    top: 160px;
+    right: 10px;
+    z-index: 1000;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#toggleHeatmapButton:hover {
+    background-color: #45a049;
+}

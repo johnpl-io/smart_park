@@ -102,7 +102,7 @@ def load_parks(sw_lat, sw_lon, ne_lat, ne_lon):
         ).all()
 
         # Return list of tuples (id, latitude, longitude)
-        return random.sample([(result.spot_id, result.latitude, result.longitude) for result in results], 10)
+        return [(result.spot_id, result.latitude, result.longitude) for result in results]
     finally:
         session.close()
 
