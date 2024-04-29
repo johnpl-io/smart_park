@@ -6,6 +6,8 @@ from geoalchemy2.functions import ST_X, ST_Y
 from utils import create_session
 import random
 import numpy as np
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 from scipy.ndimage.filters import gaussian_filter
 from io import BytesIO
@@ -115,13 +117,13 @@ def load_parks(sw_lat, sw_lon, ne_lat, ne_lon):
               "min_lat": min([parking[0] for parking in parkings]),
               "max_lat": max([parking[0] for parking in parkings])}
         
-        return parkings, bounds
+        return create_heatmap(parkings, bounds)
     finally:
         session.close()
 
 def create_heatmap(data, bounds):
-    x = np.linspace(bounds['min_lon'], bounds['max_lon'], 1024)
-    y = np.linspace(bounds['min_lat'], bounds['max_lat'], 1024)
+    x = np.linspace(bounds['min_lon'], bounds['max_lon'], 512)
+    y = np.linspace(bounds['min_lat'], bounds['max_lat'], 512)
     x_grid, y_grid = np.meshgrid(x, y)
     heatmap = np.zeros_like(x_grid)
 
@@ -134,7 +136,6 @@ def create_heatmap(data, bounds):
     heatmap = gaussian_filter(heatmap, sigma=16)
 
     plt.imshow(heatmap, extent=(bounds['min_lon'], bounds['max_lon'], bounds['min_lat'], bounds['max_lat']), origin='lower', cmap='hot')
-    plt.show()
     plt.axis('off') 
     buf = BytesIO()
     plt.savefig(buf, format='png', bbox_inches='tight', pad_inches=0, transparent=True)  # Save with transparent background
@@ -146,4 +147,4 @@ def create_heatmap(data, bounds):
     base64_string = base64.b64encode(buf.read()).decode('utf-8')
 
     
-    return base64_string
+    return base64_string, bounds

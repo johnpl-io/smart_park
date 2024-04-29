@@ -126,7 +126,7 @@ const MapComponent = () => {
             //map.off('moveend', fetchAndDisplayHeatmapData);
             mapRef.current.remove(); // Safely remove the map
         };
-    }, [isParked]); // Depend on isParked to rebind the event listener when the parking status changes
+    }, []); // Depend on isParked to rebind the event listener when the parking status changes
 
 
     const generateParkingSpots = () => {
@@ -224,6 +224,7 @@ const MapComponent = () => {
 
     const fetchAndDisplayHeatmapData = async () => {
         const bounds = mapRef.current.getBounds();
+
         const response = await fetch(`http://localhost:5000/get-parked-cars?sw_lat=${bounds.getSouthWest().lat}&sw_lon=${bounds.getSouthWest().lng}&ne_lat=${bounds.getNorthEast().lat}&ne_lon=${bounds.getNorthEast().lng}`);
         if (!response.ok) {
             console.error('Failed to fetch heatmap data');
@@ -232,13 +233,16 @@ const MapComponent = () => {
 
         const data = await response.json()
         const imageUrl = `data:image/png;base64,${data.image}`;
-        console.log(imageUrl);
 
         if (heatmapImageRef.current) {
             mapRef.current.removeLayer(heatmapImageRef.current);
         }
-
-        heatmapImageRef.current = L.imageOverlay(imageUrl, bounds).addTo(mapRef.current);
+        const customBounds =  L.latLngBounds(
+            L.latLng(data.bounds["min_lat"], data.bounds["min_lon"]),
+            L.latLng(data.bounds["max_lat"], data.bounds["max_lon"])
+        );
+        
+        heatmapImageRef.current = L.imageOverlay(imageUrl, customBounds, { opacity: 0.6 }).addTo(mapRef.current);
         setShowHeatmap(true);
     };
 

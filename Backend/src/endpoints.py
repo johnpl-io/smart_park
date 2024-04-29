@@ -65,9 +65,9 @@ def get_parked_cars():
         return jsonify({"error": "Missing coordinates parameters"}), 400
 
     # Fetch parked car positions
-    heatmap_img = load_parks(sw_lat, sw_lon, ne_lat, ne_lon)
+    heatmap_img, bounds = load_parks(sw_lat, sw_lon, ne_lat, ne_lon)
 
-    return jsonify({"image": heatmap_img})
+    return jsonify({"image": heatmap_img, "bounds":bounds})
 
 
 
