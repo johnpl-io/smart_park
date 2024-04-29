@@ -5,6 +5,11 @@ from geoalchemy2 import  Geography, Geometry
 from geoalchemy2.functions import ST_X, ST_Y 
 from utils import create_session
 import random
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.ndimage.filters import gaussian_filter
+from io import BytesIO
+import base64
 
 
 
@@ -84,7 +89,7 @@ def load_parks(sw_lat, sw_lon, ne_lat, ne_lon):
     Returns:
     list of tuples: Each tuple contains (latitude, longitude) of a parked spot.
     """
-    
+
     session = create_session()
 
     try:
@@ -102,7 +107,43 @@ def load_parks(sw_lat, sw_lon, ne_lat, ne_lon):
         ).all()
 
         # Return list of tuples (id, latitude, longitude)
-        return [(result.spot_id, result.latitude, result.longitude) for result in results]
+
+        parkings = ([(result.latitude, result.longitude) for result in results])
+
+        bounds = {"min_lon": min([parking[1] for parking in parkings]),
+              "max_lon":  max([parking[1] for parking in parkings]),
+              "min_lat": min([parking[0] for parking in parkings]),
+              "max_lat": max([parking[0] for parking in parkings])}
+        
+        return parkings, bounds
     finally:
         session.close()
 
+def create_heatmap(data, bounds):
+    x = np.linspace(bounds['min_lon'], bounds['max_lon'], 1024)
+    y = np.linspace(bounds['min_lat'], bounds['max_lat'], 1024)
+    x_grid, y_grid = np.meshgrid(x, y)
+    heatmap = np.zeros_like(x_grid)
+
+    for lat, lon in data:
+        ix = np.searchsorted(x, lon)
+        iy = np.searchsorted(y, lat)
+        if 0 <= ix < 1024 and 0 <= iy < 1024:
+            heatmap[iy, ix] += 1
+    
+    heatmap = gaussian_filter(heatmap, sigma=16)
+
+    plt.imshow(heatmap, extent=(bounds['min_lon'], bounds['max_lon'], bounds['min_lat'], bounds['max_lat']), origin='lower', cmap='hot')
+    plt.show()
+    plt.axis('off') 
+    buf = BytesIO()
+    plt.savefig(buf, format='png', bbox_inches='tight', pad_inches=0, transparent=True)  # Save with transparent background
+
+    plt.close()
+    buf.seek(0)
+
+    
+    base64_string = base64.b64encode(buf.read()).decode('utf-8')
+
+    
+    return base64_string

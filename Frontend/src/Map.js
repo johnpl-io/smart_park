@@ -2,7 +2,6 @@ import React, { useEffect, useRef, useState } from 'react';
 import './Map.css';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
-import 'leaflet.heat';  
 import 'leaflet-routing-machine';
 
 
@@ -13,17 +12,11 @@ const MapComponent = () => {
     const [parkingSpots, setParkingSpots] = useState([]);
     const [selectedSpot, setSelectedSpot] = useState(null);
     const routingControlRef = useRef(null);
-
-
-
     const [dotPosition, setDotPosition] = useState([40.76, -73.93]);
-    //const [dotPosition, setDotPosition] = useState([40.7011, -74.0100]); // Default position
     const [zoomLevel, setZoomLevel] = useState(13); // Default zoom level
-
-    const heatLayerRef = useRef(null);
-
     const [showHeatmap, setShowHeatmap] = useState(false);
-
+    const heatmapImageRef = useRef(null);
+    const checkIfOnStreetRef = useRef(null);
 
 
     useEffect(() => {
@@ -59,21 +52,10 @@ const MapComponent = () => {
                 })
             ]
         });
+        
 
-        heatLayerRef.current = L.heatLayer([], {
-            radius: 20,
-            blur: 15,
-            maxZoom: 17,
-            fillOpacity: 0.5
-        }).addTo(map);
-
-        var heatCanvas = heatLayerRef.current._canvas;
-        if (heatCanvas) {
-            var ctx = heatCanvas.getContext('2d', { willReadFrequently: true });
-        }
 
         mapRef.current = map;
-        //map.on('moveend', fetchAndDisplayHeatmapData);
 
         
         dotRef.current = L.circleMarker(dotPosition, {
@@ -89,9 +71,26 @@ const MapComponent = () => {
             setZoomLevel(mapRef.current.getZoom());
         });
 
-        const intervalId = setInterval(() => {
-            fetchAndDisplayHeatmapData(mapRef.current);
-        }, 10000);
+        checkIfOnStreetRef.current = (latlng, callback) => {
+            
+            fetch(`http://localhost:2000/api/places?lat=${latlng.lat}&lng=${latlng.lng}`)
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data);
+                    if (data.status === 'OK' && data.results.length > 0) {
+                        var isOnStreet = data.results.some(place => place.types.includes('route'));
+                        callback(isOnStreet);
+                    } else {
+                        callback(false);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    callback(false);
+                });
+            }
+        
+
 
 
         let speed = 1e-6; // Initial speed factor for movement
@@ -124,7 +123,6 @@ const MapComponent = () => {
         return () => {
             document.removeEventListener('keydown', handleKeyDown);
             mapRef.current.off('zoomend');
-            clearInterval(intervalId);
             //map.off('moveend', fetchAndDisplayHeatmapData);
             mapRef.current.remove(); // Safely remove the map
         };
@@ -143,7 +141,6 @@ const MapComponent = () => {
     
     useEffect(() => {
         const fetchParkedStatus = async () => {
-            // Assume user_id and car_id are somehow determined (hardcoded here for simplicity)
             const user_id = 1;
             const car_id = 1;
             const url = `http:localhost:5000/check-parked?user_id=${user_id}&car_id=${car_id}`;
@@ -168,23 +165,31 @@ const MapComponent = () => {
 
     const handleParkButtonClick = async () => {
         const dotLatLng = dotRef.current.getLatLng();
-        const response = await fetch("http://localhost:5000/park", {
-            method: "POST",
-            headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({
-                user_id: 1, // Example user ID
-                car_id: 1, // Example car ID
-                location: [dotLatLng.lat, dotLatLng.lng] // Using the current position
-            })
-        });
 
-        if (response.ok) {
-            setIsParked(true);
-            setDotPosition([dotLatLng.lat, dotLatLng.lng]);
-            alert("Successfully parked!");
-        } else {
-            alert("Failed to park. Please try again.");
+        checkIfOnStreetRef.current(dotLatLng, async (isOnStreet) => {
+            if (isOnStreet) {
+                const response = await fetch("http://localhost:5000/park", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    user_id: 1, // Example user ID
+                    car_id: 1, // Example car ID
+                    location: [dotLatLng.lat, dotLatLng.lng] // Using the current position
+                })
+            });
+
+            if (response.ok) {
+                setIsParked(true);
+                setDotPosition([dotLatLng.lat, dotLatLng.lng]);
+                alert("Successfully parked!");
+            } else {
+                alert("Failed to park. Please try again.");
+            }
         }
+            else {
+                alert("You're not on a street!");
+            }
+        });
     };
 
     const handleUnparkButtonClick = async () => {
@@ -204,24 +209,40 @@ const MapComponent = () => {
             alert("Failed to unpark. Please try again.");
         }
     };
-
+    
+    const toggleHeatmapVisibility = () => {
+        if (!showHeatmap) {
+            fetchAndDisplayHeatmapData();
+        } else {
+            if (heatmapImageRef.current) {
+                mapRef.current.removeLayer(heatmapImageRef.current);
+                heatmapImageRef.current = null;
+                setShowHeatmap(false);
+            }
+        }
+    };
 
     const fetchAndDisplayHeatmapData = async () => {
         const bounds = mapRef.current.getBounds();
-        const sw = bounds.getSouthWest();
-        const ne = bounds.getNorthEast();
-
-        const response = await fetch(`http://localhost:5000/get-parked-cars?sw_lat=${sw.lat}&sw_lon=${sw.lng}&ne_lat=${ne.lat}&ne_lon=${ne.lng}`);
+        const response = await fetch(`http://localhost:5000/get-parked-cars?sw_lat=${bounds.getSouthWest().lat}&sw_lon=${bounds.getSouthWest().lng}&ne_lat=${bounds.getNorthEast().lat}&ne_lon=${bounds.getNorthEast().lng}`);
         if (!response.ok) {
             console.error('Failed to fetch heatmap data');
             return;
         }
 
-        const data = await response.json();
-        const heatData = data.map(item => [item[1], item[2], 1]); // 1 represents intensity
-        heatLayerRef.current.setLatLngs(heatData);
-        setShowHeatmap(true); // Display the heatmap
+        const data = await response.json()
+        const imageUrl = `data:image/png;base64,${data.image}`;
+        console.log(imageUrl);
+
+        if (heatmapImageRef.current) {
+            mapRef.current.removeLayer(heatmapImageRef.current);
+        }
+
+        heatmapImageRef.current = L.imageOverlay(imageUrl, bounds).addTo(mapRef.current);
+        setShowHeatmap(true);
     };
+
+
 
     return (
         <div>
@@ -242,8 +263,7 @@ const MapComponent = () => {
             <button id="parkButton" onClick={handleParkButtonClick} disabled={isParked}>Park Here</button>
             <button id="UnparkButton" onClick={handleUnparkButtonClick} disabled={!isParked}>Leave Park</button>
             <button id="findParkingButton" onClick={generateParkingSpots}>Find Parking</button>
-            <button id="toggleHeatmapButton" onClick={fetchAndDisplayHeatmapData}>Show Heatmap</button>
-
+            <button id="toggleHeatmapButton" onClick={toggleHeatmapVisibility}>{showHeatmap ? 'Hide Heatmap' : 'Show Heatmap'}</button>
         </div>
     );
 }
