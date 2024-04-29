@@ -112,6 +112,8 @@ def load_parks(sw_lat, sw_lon, ne_lat, ne_lon):
 
         parkings = ([(result.latitude, result.longitude) for result in results])
 
+        
+
         bounds = {"min_lon": min([parking[1] for parking in parkings]),
               "max_lon":  max([parking[1] for parking in parkings]),
               "min_lat": min([parking[0] for parking in parkings]),
@@ -122,16 +124,20 @@ def load_parks(sw_lat, sw_lon, ne_lat, ne_lon):
         session.close()
 
 def create_heatmap(data, bounds):
-    x = np.linspace(bounds['min_lon'], bounds['max_lon'], 512)
-    y = np.linspace(bounds['min_lat'], bounds['max_lat'], 512)
+
+    resolution = 1024
+
+    x = np.linspace(bounds['min_lon'], bounds['max_lon'], resolution)
+    y = np.linspace(bounds['min_lat'], bounds['max_lat'], resolution)
     x_grid, y_grid = np.meshgrid(x, y)
     heatmap = np.zeros_like(x_grid)
 
-    for lat, lon in data:
-        ix = np.searchsorted(x, lon)
-        iy = np.searchsorted(y, lat)
-        if 0 <= ix < 1024 and 0 <= iy < 1024:
-            heatmap[iy, ix] += 1
+
+    lon_indices = np.searchsorted(x, [pt[1] for pt in data])
+    lat_indices = np.searchsorted(y, [pt[0] for pt in data])
+
+    valid = (lon_indices >= 0) & (lon_indices < resolution) & (lat_indices >= 0) & (lat_indices < resolution)
+    np.add.at(heatmap, (lat_indices[valid], lon_indices[valid]), 1)
     
     heatmap = gaussian_filter(heatmap, sigma=16)
 

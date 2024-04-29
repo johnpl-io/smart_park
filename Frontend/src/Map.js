@@ -126,7 +126,7 @@ const MapComponent = () => {
             //map.off('moveend', fetchAndDisplayHeatmapData);
             mapRef.current.remove(); // Safely remove the map
         };
-    }, []); // Depend on isParked to rebind the event listener when the parking status changes
+    }, [isParked]); // Depend on isParked to rebind the event listener when the parking status changes
 
 
     const generateParkingSpots = () => {
