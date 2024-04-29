@@ -17,6 +17,7 @@ const MapComponent = () => {
     const [showHeatmap, setShowHeatmap] = useState(false);
     const heatmapImageRef = useRef(null);
     const checkIfOnStreetRef = useRef(null);
+    const [loading, setLoading] = useState(false);
 
 
     useEffect(() => {
@@ -164,6 +165,7 @@ const MapComponent = () => {
     }, []);
 
     const handleParkButtonClick = async () => {
+
         const dotLatLng = dotRef.current.getLatLng();
 
         checkIfOnStreetRef.current(dotLatLng, async (isOnStreet) => {
@@ -189,7 +191,9 @@ const MapComponent = () => {
             else {
                 alert("You're not on a street!");
             }
+
         });
+
     };
 
     const handleUnparkButtonClick = async () => {
@@ -222,7 +226,14 @@ const MapComponent = () => {
         }
     };
 
+
+    
+    
+
     const fetchAndDisplayHeatmapData = async () => {
+
+        setLoading(true);
+        disableMapInteractions(); 
         const bounds = mapRef.current.getBounds();
 
         const response = await fetch(`http://localhost:5000/get-parked-cars?sw_lat=${bounds.getSouthWest().lat}&sw_lon=${bounds.getSouthWest().lng}&ne_lat=${bounds.getNorthEast().lat}&ne_lon=${bounds.getNorthEast().lng}`);
@@ -244,7 +255,30 @@ const MapComponent = () => {
         
         heatmapImageRef.current = L.imageOverlay(imageUrl, customBounds, { opacity: 0.6 }).addTo(mapRef.current);
         setShowHeatmap(true);
+
+        setLoading(false);
+        enableMapInteractions();
     };
+
+    const disableMapInteractions = () => {
+        mapRef.current.dragging.disable();
+        mapRef.current.touchZoom.disable();
+        mapRef.current.doubleClickZoom.disable();
+        mapRef.current.scrollWheelZoom.disable();
+        mapRef.current.boxZoom.disable();
+        mapRef.current.keyboard.disable();
+        if (mapRef.current.tap) mapRef.current.tap.disable(); // for mobile devices
+    }
+    
+    const enableMapInteractions = () => {
+        mapRef.current.dragging.enable();
+        mapRef.current.touchZoom.enable();
+        mapRef.current.doubleClickZoom.enable();
+        mapRef.current.scrollWheelZoom.enable();
+        mapRef.current.boxZoom.enable();
+        mapRef.current.keyboard.enable();
+        if (mapRef.current.tap) mapRef.current.tap.enable(); // for mobile devices
+    }
 
 
 
@@ -264,6 +298,7 @@ const MapComponent = () => {
                     )}
                 </div>
             </div>
+            {loading && <div className="loading-spinner">Loading...</div>}
             <button id="parkButton" onClick={handleParkButtonClick} disabled={isParked}>Park Here</button>
             <button id="UnparkButton" onClick={handleUnparkButtonClick} disabled={!isParked}>Leave Park</button>
             <button id="findParkingButton" onClick={generateParkingSpots}>Find Parking</button>
