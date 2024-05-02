@@ -1,4 +1,4 @@
-#Instructions on Running Project
+#  Instructions on Running Project
 
 -  From the terminal run docker compose up in the smart_park directory
 -  cd into the backend\src directory and run the populate.py file
@@ -6,7 +6,7 @@
 -  Go to the frontend directory run npm install and then npm start
 -  Finally go to the ProxyServer folder and run node gmap.js
 
-#Port References
+#  Port References
 
 -  The flask service layer runs on port 5000
 -  Frontend runs on port 3000
