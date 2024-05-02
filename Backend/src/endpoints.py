@@ -1,12 +1,14 @@
 from park_mgmt import *
+from user_mgmt import *
 from flask import Flask,request, jsonify
-from flask_cors import CORS
+from flask_cors import CORS, cross_origin
 
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, support_credentials=True)
 
 @app.route('/park', methods = ['POST'])
+@cross_origin(supports_credentials=True)
 def park():
 
     if not request.is_json:
@@ -23,6 +25,7 @@ def park():
     }), 200
 
 @app.route('/leave', methods = ['POST'])
+@cross_origin(supports_credentials=True)
 def leave():
     if not request.is_json:
         return jsonify({"error": "Missing JSON in request"}), 400
@@ -37,6 +40,7 @@ def leave():
     }), 200
 
 @app.route('/check-parked', methods = ['GET'])
+@cross_origin(supports_credentials=True)
 def isPark():
     user_id = request.args.get('user_id')
     car_id = request.args.get('car_id')
@@ -54,6 +58,7 @@ def isPark():
         return jsonify({"isParked": False}), 200
 
 @app.route('/get-parked-cars', methods=['GET'])
+@cross_origin(supports_credentials=True)
 def get_parked_cars():
     # Retrieve parameters from URL query
     sw_lat = request.args.get('sw_lat', type=float)
@@ -69,7 +74,41 @@ def get_parked_cars():
 
     return jsonify({"image": heatmap_img, "bounds":bounds})
 
+@app.route('/find-user-by-email', methods = ['GET'])
+@cross_origin(supports_credentials=True)
+def find_user():
 
+    email = request.args.get('email')
+    exists, username, user_id = user_lookup(email)
+
+    return jsonify({"exists": exists, "username": username, "user_id": user_id})
+
+@app.route('/check-username', methods = ['GET'])
+@cross_origin(supports_credentials=True)
+def check_username():
+    username = request.args.get('username')
+    
+    print(username)
+    exists = user_exists(username)
+
+    return jsonify({"exists": exists})
+
+@app.route('/create-user', methods = ['POST'])
+@cross_origin(supports_credentials=True)
+def make_user():
+
+    if not request.is_json:
+        return jsonify({"error": "Missing JSON in request"}), 400
+
+    data = request.get_json()
+    
+    create_user(data["username"], 
+                data["email_address"],
+                data["hashed_password"])
+
+    return jsonify({
+        "message": "Successfully created user!"
+    }), 200
 
 if __name__ == '__main__':
     app.run(debug=True)

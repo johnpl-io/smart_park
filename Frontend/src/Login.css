@@ -1,0 +1,108 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #1a2a33; 
+    color: #ffffff;
+    /*background-repeat: no-repeat;*/
+}
+
+.Logo {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0px; /* Adjust based on spacing needs */
+}
+
+.login-logo {
+    max-width: 300px; /* Adjust based on your image size */
+    height: auto;
+}
+
+
+
+.Login nav.container-fluid {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.Login nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.Login nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+    transition: background-color 0.3s ease;
+    font-size: large;
+}
+
+.Login nav ul li a:hover {
+    background-color: #007bff;
+    color: #ffffff;
+}
+
+
+
+.Login .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin-top: 1%;
+}
+
+.login-form {
+    background-color: #ffffff;
+    color: #333333;
+    width: 100%;
+    max-width: 400px;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+input[type="text"], input[type="password"] {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    border: 1px solid #cccccc;
+    width: calc(100% - 1rem);
+}
+
+button {
+    padding: 0.75rem;
+    border-radius: 0.25rem;
+    border: none;
+    color: #ffffff;
+    
+    background-color: #007bff;
+    cursor: pointer;
+    width: 100%;
+}
+
+button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+.forgot-password-link {
+    color: #007bff;
+    text-decoration: none;
+    padding: 0.75rem;
+    border-radius: 0.25rem;
+    transition: background-color 0.3s ease;
+    display: block; /* Ensure it takes up the full width */
+    text-align: center; /* Center the text */
+    margin-top: 0.1rem;
+}
+
+.error-message {
+    color: red;
+    margin: 10px 0;
+    font-weight: bold;
+}
