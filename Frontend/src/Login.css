@@ -75,7 +75,7 @@ input[type="text"], input[type="password"] {
     width: calc(100% - 1rem);
 }
 
-button {
+.Login button {
     padding: 0.75rem;
     border-radius: 0.25rem;
     border: none;
@@ -86,7 +86,7 @@ button {
     width: 100%;
 }
 
-button[type="submit"]:hover {
+.Login button[type="submit"]:hover {
     background-color: #0056b3;
 }
 
