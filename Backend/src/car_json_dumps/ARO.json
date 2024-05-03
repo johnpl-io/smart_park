@@ -1,0 +1,185 @@
+{ "brand_name" : "ARO", "models": [
+{
+     "model_name": "ARO 10 1980-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1397,
+               "Power": "45.6 KW @ 5000 RPM\n62 HP @ 5000 RPM\n61 BHP @ 5000 RPM",
+               "Torque": "74 lb-ft @ 3500 RPM\n100 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 78,
+               "Acceleration 0-62 Mph (0-100 kph)": 25
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185 R15 C"
+          },
+          "DIMENSIONS": {
+               "Length": 151.6,
+               "Width": 64.8,
+               "Height": 69.9,
+               "Front/rear Track": "55.9/55.9 in (1,420/1,420 mm)",
+               "Wheelbase": 94.5,
+               "Ground Clearance": 9.4,
+               "Cargo Volume": 21.2,
+               "Aerodynamics (Cd)": 0.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2866,
+               "Gross Weight Limit": 4023
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 16.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "ARO 24 1991-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 4000,
+               "Power": "152 KW @ 5250 RPM\n207 HP @ 5250 RPM\n204 BHP @ 5250 RPM",
+               "Torque": "236 lb-ft @ 3000 RPM\n320 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/75 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 162.9,
+               "Width": 69.9,
+               "Height": 73.1,
+               "Front/rear Track": "58.1/58.1 in (1,476/1,476 mm)",
+               "Wheelbase": 92.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3792,
+               "Gross Weight Limit": 5545
+          },
+          "": {}
+     }
+},{
+     "model_name": "ARO 24 1972-1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2513,
+               "Power": "58.8 KW @ 4200 RPM\n80 HP @ 4200 RPM\n79 BHP @ 4200 RPM",
+               "Torque": "120 lb-ft @ 2700 RPM\n162 Nm @ 2700 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 68,
+               "Acceleration 0-62 Mph (0-100 kph)": 27
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "6.50 - 16"
+          },
+          "DIMENSIONS": {
+               "Length": 155.9,
+               "Width": 69.9,
+               "Height": 74,
+               "Front/rear Track": "56.9/56.9 in (1,445/1,445 mm)",
+               "Wheelbase": 92.5,
+               "Ground Clearance": 8.7,
+               "Aerodynamics (Cd)": 0.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3417,
+               "Gross Weight Limit": 4960
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 11.8
+          }
+     }
+},{
+     "model_name": "ARO IMS 57 1957-1959",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Displacement": 3260,
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 50
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          }
+     }
+},{
+     "model_name": "1963 ARO M-461",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Displacement": 2512,
+               "Power": "51 KW @ 3800 RPM\n70 HP @ 3800 RPM\n68 BHP @ 3800 RPM",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 62
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3419.4
+          }
+     }
+},{
+     "model_name": "1959 IMS M59",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Displacement": 3260,
+               "Power": "41 KW @ 2800 RPM\n56 HP @ 2800 RPM\n55 BHP @ 2800 RPM",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 56
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          }
+     }
+},	
+ ] } 

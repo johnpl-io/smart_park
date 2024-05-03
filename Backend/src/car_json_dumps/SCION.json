@@ -1,0 +1,445 @@
+{ "brand_name" : "SCION", "models": [
+{
+     "model_name": "SCION FR-S 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "H4",
+               "Displacement": 1998,
+               "Power": "147 KW @ 7000 RPM\n200 HP @ 7000 RPM\n197 BHP @ 7000 RPM",
+               "Torque": "151 lb-ft @ 6400-6600 RPM\n205 Nm @ 6400-6600 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55R16"
+          },
+          "DIMENSIONS": {
+               "Length": 166.9,
+               "Width": 69.9,
+               "Height": 50.6,
+               "Front/rear Track": "59.8/64.6 in (1,519/1,641 mm)",
+               "Wheelbase": 101.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 8.6,
+               "Aerodynamics (Cd)": 0.27
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2784,
+               "Gross Weight Limit": 3748
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.5,
+               "Highway": 41.3,
+               "Combined": 33.1,
+               "CO2 Emissions": 181
+          },
+          "": {}
+     }
+},{
+     "model_name": "2016 Scion iA",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1496,
+               "Power": "79 KW @ 6000 RPM\n107 HP @ 6000 RPM\n106 BHP @ 6000 RPM",
+               "Torque": "103 lb-ft @ 4000 RPM\n140 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60R16"
+          },
+          "DIMENSIONS": {
+               "Length": 171.1,
+               "Width": 66.7,
+               "Height": 58.5,
+               "Front/rear Track": "58.9/58.5 in (1,496/1,486 mm)",
+               "Wheelbase": 101.2,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 15.5,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2416,
+               "Gross Weight Limit": 3640
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 31.8,
+               "Highway": 21,
+               "Combined": 34
+          },
+          "": {}
+     }
+},{
+     "model_name": "SCION iM 2016-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "102.2 KW @ 6100 RPM\n139 HP @ 6100 RPM\n137 BHP @ 6100 RPM",
+               "Torque": "126 lb-ft @ 4000 RPM\n171 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45R17"
+          },
+          "DIMENSIONS": {
+               "Length": 170.5,
+               "Width": 69.3,
+               "Height": 55.3,
+               "Front/rear Track": "60.4/60.4 in (1,534/1,534 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 12.7,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2943,
+               "Gross Weight Limit": 3814
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28,
+               "Highway": 37
+          },
+          "": {}
+     }
+},{
+     "model_name": "SCION iQ 2011-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 1329,
+               "Power": "72 KW @ 6000 RPM\n98 HP @ 6000 RPM\n97 BHP @ 6000 RPM",
+               "Torque": "91 lb-ft @ 4400 RPM\n123 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Continuously variable automatic transmission"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 117.5,
+               "Width": 66.1,
+               "Height": 59.1,
+               "Front/rear Track": "58.3/57.5 in (1,481/1,461 mm)",
+               "Wheelbase": 78.7,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 3.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2216,
+               "Gross Weight Limit": 2800
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 36,
+               "Highway": 37,
+               "Combined": 37
+          }
+     }
+},{
+     "model_name": "SCION tC 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2494,
+               "Power": "134 KW @ 6000 RPM\n182 HP @ 6000 RPM\n180 BHP @ 6000 RPM",
+               "Torque": "173 lb-ft @ 4100 RPM\n235 Nm @ 4100 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45R18"
+          },
+          "DIMENSIONS": {
+               "Length": 174,
+               "Width": 70.7,
+               "Height": 55.7,
+               "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 14.7,
+               "Aerodynamics (Cd)": 0.325
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3115
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23,
+               "Highway": 31,
+               "Combined": 26
+          },
+          "": {}
+     }
+},{
+     "model_name": "SCION tC 2003-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2362,
+               "Power": "120 KW @ 6000 RPM\n163 HP @ 6000 RPM\n161 BHP @ 6000 RPM",
+               "Torque": "162 lb-ft @ 4000 RPM\n220 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/45Z R17"
+          },
+          "DIMENSIONS": {
+               "Length": 174,
+               "Width": 66.9,
+               "Height": 55.7,
+               "Front/rear Track": "59.3/59.3 in (1,506/1,506 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 12.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2987
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 29
+          },
+          "": {}
+     }
+},{
+     "model_name": "2004 Scion xA",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1496,
+               "Power": "77 KW @ 6000 RPM\n105 HP @ 6000 RPM\n103 BHP @ 6000 RPM",
+               "Torque": "101 lb-ft @ 4200 RPM\n137 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 154,
+               "Width": 66.7,
+               "Height": 60.2,
+               "Front/rear Track": "57.3/56.3 in (1,455/1,430 mm)",
+               "Wheelbase": 93.3,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 11.7,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2340
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.9,
+               "Highway": 37.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "SCION xB 2007-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2362,
+               "Power": "118 KW @ 5700 RPM\n160 HP @ 5700 RPM\n158 BHP @ 5700 RPM",
+               "Torque": "162 lb-ft @ 4000 RPM\n220 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 167.3,
+               "Width": 69.3,
+               "Height": 64.6,
+               "Front/rear Track": "60/59.8 in (1,524/1,519 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 21.7,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3084
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 28,
+               "Combined": 24,
+               "CO2 Emissions": 233.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "SCION xB 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1496,
+               "Power": "79.4 KW @ 6000 RPM\n108 HP @ 6000 RPM\n106 BHP @ 6000 RPM",
+               "Torque": "101 lb-ft @ 4200 RPM\n137 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 155.3,
+               "Width": 66.5,
+               "Height": 64.6,
+               "Front/rear Track": "57.3/56.3 in (1,455/1,430 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 21.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3020,
+               "Gross Weight Limit": 3968
+          },
+          "": {}
+     }
+},{
+     "model_name": "SCION xD 2007-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "95 KW @ 6000 RPM\n129 HP @ 6000 RPM\n127 BHP @ 6000 RPM",
+               "Torque": "125 lb-ft @ 4400 RPM\n169 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 116,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 154.9,
+               "Width": 67.9,
+               "Height": 60,
+               "Front/rear Track": "58.5/58.7 in (1,486/1,491 mm)",
+               "Wheelbase": 96.9,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 10.5,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2657,
+               "Gross Weight Limit": 3649
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26,
+               "Highway": 32,
+               "Combined": 28
+          },
+          "": {}
+     }
+},	
+ ] } 

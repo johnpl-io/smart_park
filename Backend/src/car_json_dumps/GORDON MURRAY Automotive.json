@@ -1,0 +1,75 @@
+{ "brand_name" : "GORDON MURRAY Automotive", "models": [
+{
+     "model_name": "2022 Gordon Murray T.33",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 3994,
+               "Power": "441.3 KW @ 10.500 RPM\n600 HP @ 10.500 RPM\n592 BHP @ 10.500 RPM",
+               "Torque": "333 lb-ft @ 9000 RPM\n451 Nm @ 9000 RPM",
+               "Fuel System": "Twin injectors per cylinder",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6- H manual speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 R19 // 295/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 173.1,
+               "Width": 72.8,
+               "Height": 44.7,
+               "Front/rear Track": "62.6/60.2 in (1,590/1,529 mm)",
+               "Wheelbase": 107.7,
+               "Cargo Volume": 9.9,
+               "Turning circle": 42.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2403
+          }
+     }
+},{
+     "model_name": "2022 Gordon Murray T.50",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 3994,
+               "Power": "478.1 KW @ 11500 RPM\n650 HP @ 11500 RPM\n641 BHP @ 11500 RPM",
+               "Torque": "344 lb-ft @ 9000 RPM\n467 Nm @ 9000 RPM",
+               "Fuel System": "Twin injectors per cylinder",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed H pattern (manual)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 R19 // 295/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 171.3,
+               "Width": 72.8,
+               "Height": 45.8,
+               "Front/rear Track": "62.4/60 in (1,585/1,524 mm)",
+               "Wheelbase": 106.3,
+               "Cargo Volume": 8.1,
+               "Turning circle": 35.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2174
+          }
+     }
+},	
+ ] } 

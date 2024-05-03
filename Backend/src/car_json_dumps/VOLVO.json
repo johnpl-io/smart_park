@@ -1,0 +1,4747 @@
+{ "brand_name" : "VOLVO", "models": [
+{
+     "model_name": "VOLVO XC40 Recharge 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "169.9 kw (231 hp)",
+               "Electrical motor torque": "243.4 lb-ft (330 Nm)",
+               "Total maximum power": "169.9 kw (231 hp)",
+               "Total maximum torque": "243.4 lb-ft (330 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 174.8,
+               "Width": 73.3,
+               "Height": 64.8,
+               "Front/rear Track": "63/63.4 in (1,600/1,610 mm)",
+               "Wheelbase": 106.4,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 14.8,
+               "Aerodynamics (Cd)": 0.32,
+               "Turning circle": 38.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4475,
+               "Gross Weight Limit": 5467
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion",
+               "Nominal Capacity": 67,
+               "Maximum Capacity": "69 kWh",
+               "Range": 248.5
+          },
+          "NOTES": {
+               "Average Energy consumption (WLTP)": "18.7-19.7 kWh/100 km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2020 Volvo XC40 Recharge",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Power": "300.1 KW @ 14000 RPM\n408 HP @ 14000 RPM\n402 BHP @ 14000 RPM",
+               "Torque": "487 lb-ft @ 4350 RPM\n660 Nm @ 4350 RPM",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Single speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 174.2,
+               "Width": 80.1,
+               "Height": 65,
+               "Front/rear Track": "63/63.4 in (1,600/1,610 mm)",
+               "Wheelbase": 106.4,
+               "Ground Clearance": 0.7,
+               "Cargo Volume": 14.6
+          },
+          "POWER SYSTEM SPECS": {
+               "Nominal Capacity": 75,
+               "Maximum Capacity": "78 kWh",
+               "Charger type": "XC40 Recharge",
+               "Range": 200
+          }
+     }
+},{
+     "model_name": "VOLVO XC40 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1477,
+               "Power": "114.7 KW @ 5000 RPM\n156 HP @ 5000 RPM\n154 BHP @ 5000 RPM",
+               "Torque": "196 lb-ft @ - RPM\n265 Nm @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 174.2,
+               "Width": 73.3,
+               "Height": 65,
+               "Front/rear Track": "63/64 in (1,600/1,626 mm)",
+               "Wheelbase": 106.4,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 47.2,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 33.1,
+               "CO2 Emissions": 146
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO XC90 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "183.9 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
+               "Torque": "258 lb-ft @ 1800-4800 RPM\n350 Nm @ 1800-4800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 134,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55R19 105H"
+          },
+          "DIMENSIONS": {
+               "Length": 195,
+               "Width": 79.1,
+               "Height": 69.9,
+               "Front/rear Track": "65.6/65.6 in (1,666/1,666 mm)",
+               "Wheelbase": 116.1,
+               "Ground Clearance": 8.8,
+               "Aerodynamics (Cd)": 0.33,
+               "Aerodynamics (frontal area)": "2.78 m2",
+               "Turning circle (curb to curb)": "38.7 ft (11.8 m)",
+               "Turning circle (wall to wall)": "40 ft (12.2 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4436,
+               "Gross Weight Limit": 5798
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "18.2 mpg US (12.9 L/100Km)",
+               "CO2 Emissions (Low)": "291 g/km",
+               "Medium": "25.3 mpg US (9.3 L/100Km)",
+               "CO2 Emissions (Medium)": "210 g/km",
+               "High": "30.2 mpg US (7.8 L/100Km)",
+               "CO2 Emissions (High)": "177 g/km",
+               "Extra high": "25.3 mpg US (9.3 L/100Km)",
+               "CO2 Emissions (Extra high)": "211 g/km",
+               "Combined": 25.3,
+               "CO2 Emissions (Combined)": "211 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO XC90 2014-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "186.8 KW @ 5500 RPM\n254 HP @ 5500 RPM\n251 BHP @ 5500 RPM",
+               "Torque": "258 lb-ft @ 1500-4800 RPM\n350 Nm @ 1500-4800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 134,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic transmission"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/45R20"
+          },
+          "DIMENSIONS": {
+               "Length": 194.9,
+               "Width": 79.1,
+               "Height": 69.9,
+               "Front/rear Track": "65.7/65.8 in (1,669/1,671 mm)",
+               "Wheelbase": 117.5,
+               "Ground Clearance": 9.3,
+               "Cargo Volume": 23.7,
+               "Aerodynamics (frontal area)": "2.78 m2",
+               "Aerodynamics (Cd)": 0.29,
+               "Turning circle (curb to curb)": "38.7 ft (11.8 m)",
+               "Turning circle (wall to wall)": "40 ft (12.2 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4524,
+               "Gross Weight Limit": 5666
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion battery",
+               "Nominal Capacity": 11.6
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 30.9,
+               "CO2 Emissions (Combined)": "176 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO XC90 2007-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2521,
+               "Torque": "236 lb-ft @ 1500 RPM\n320 Nm @ 1500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65R17"
+          },
+          "DIMENSIONS": {
+               "Length": 189.4,
+               "Width": 74.8,
+               "Height": 70.1,
+               "Front/rear Track": "64.2/63.8 in (1,631/1,621 mm)",
+               "Wheelbase": 112.6,
+               "Ground Clearance": 9.1,
+               "Cargo Volume": 8.8,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4356.3,
+               "Gross Weight Limit": 5952.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.7,
+               "Highway": 26.4,
+               "Combined": 21,
+               "CO2 Emissions": 269
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO XC90 2002-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2521,
+               "Power": "154 KW @ 5000 RPM\n209 HP @ 5000 RPM\n207 BHP @ 5000 RPM",
+               "Torque": "236 lb-ft @ 1500-4500 RPM\n320 Nm @ 1500-4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65R17"
+          },
+          "DIMENSIONS": {
+               "Length": 189,
+               "Width": 74.8,
+               "Height": 68.5,
+               "Front/rear Track": "64.2/63.8 in (1,631/1,621 mm)",
+               "Wheelbase": 112.6,
+               "Ground Clearance": 8.6,
+               "Cargo Volume": 8.8,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4460,
+               "Gross Weight Limit": 5952.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 11.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S90 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "139.7 KW @ 5000-6000 RPM\n190 HP @ 5000-6000 RPM\n187 BHP @ 5000-6000 RPM",
+               "Torque": "221 lb-ft @ 1620-4020 RPM\n300 Nm @ 1620-4020 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P255/40VR19.0 BSW AS"
+          },
+          "DIMENSIONS": {
+               "Length": 195.4,
+               "Width": 74.6,
+               "Height": 56.8,
+               "Front/rear Track": "64.1/64.1 in (1,628/1,628 mm)",
+               "Wheelbase": 115.8,
+               "Ground Clearance": 6,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (frontal area)": "0.29 m2",
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3732,
+               "Gross Weight Limit": 4916
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "21.6 mpg US (10.9 L/100Km)",
+               "CO2 Emissions (Low)": "246 g/km",
+               "Medium": "30.5 mpg US (7.7 L/100Km)",
+               "CO2 Emissions (Medium)": "176 g/km",
+               "High": "36.8 mpg US (6.4 L/100Km)",
+               "CO2 Emissions (High)": "144 g/km",
+               "Extra high": "33.6 mpg US (7 L/100Km)",
+               "CO2 Emissions (Extra high)": "159 g/km",
+               "Combined": 31.4,
+               "CO2 Emissions (Combined)": "169 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S90 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "139.7 KW @ 5000 RPM\n190 HP @ 5000 RPM\n187 BHP @ 5000 RPM",
+               "Torque": "221 lb-ft @ 1600-4000 RPM\n300 Nm @ 1600-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "8-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55R17 101V"
+          },
+          "DIMENSIONS": {
+               "Length": 195.4,
+               "Width": 79.5,
+               "Height": 56.8,
+               "Front/rear Track": "64.1/64.1 in (1,628/1,628 mm)",
+               "Wheelbase": 115.8,
+               "Ground Clearance": 6,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (frontal area)": "2.29 m2",
+               "Aerodynamics (Cd)": 0.26,
+               "Turning circle (curb to curb)": "37.4 ft (11.4 m)",
+               "Turning circle (wall to wall)": "38.7 ft (11.8 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3702,
+               "Gross Weight Limit": 4916
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 35.1,
+               "CO2 Emissions": 153
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S90 1997-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2922,
+               "Power": "132 KW @ 5200 RPM\n179 HP @ 5200 RPM\n177 BHP @ 5200 RPM",
+               "Torque": "192 lb-ft @ 4350 RPM\n260 Nm @ 4350 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 191.73,
+               "Width": 68.89,
+               "Height": 55.9,
+               "Front/rear Track": "59.05/59.84 in (1,500/1,520 mm)",
+               "Wheelbase": 109.05,
+               "Ground Clearance": 6.2,
+               "Cargo Volume": 17.3,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3401.7,
+               "Gross Weight Limit": 4431.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.6,
+               "Highway": 29.4,
+               "Combined": 21.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V90 Cross Country 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "183.9 KW @ 5500-6000 RPM\n250 HP @ 5500-6000 RPM\n247 BHP @ 5500-6000 RPM",
+               "Torque": "258 lb-ft @ 1800-4800 RPM\n350 Nm @ 1800-4800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50R19"
+          },
+          "DIMENSIONS": {
+               "Length": 194.3,
+               "Width": 74.6,
+               "Height": 58.1,
+               "Front/rear Track": "64.1/64.1 in (1,628/1,628 mm)",
+               "Wheelbase": 115.8,
+               "Ground Clearance": 6,
+               "Cargo Volume": 19.8,
+               "Aerodynamics (frontal area)": "2.37 m2",
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4043,
+               "Gross Weight Limit": 5269
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "19.6 mpg US (12 L/100Km)",
+               "CO2 Emissions (Low)": "274 g/km",
+               "Medium": "26.7 mpg US (8.8 L/100Km)",
+               "CO2 Emissions (Medium)": "199 g/km",
+               "High": "31.8 mpg US (7.4 L/100Km)",
+               "CO2 Emissions (High)": "166 g/km",
+               "Extra high": "27.7 mpg US (8.5 L/100Km)",
+               "CO2 Emissions (Extra high)": "191 g/km",
+               "Combined": 27,
+               "CO2 Emissions (Combined)": "196 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V90 Cross Country 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "183.9 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
+               "Torque": "258 lb-ft @ - RPM\n350 Nm @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P 235/55 R 18"
+          },
+          "DIMENSIONS": {
+               "Length": 194.3,
+               "Width": 74.6,
+               "Height": 60.7,
+               "Front/rear Track": "65/64.7 in (1,651/1,643 mm)",
+               "Wheelbase": 115.8,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 19.8,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4101,
+               "Gross Weight Limit": 5335
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 32.2,
+               "CO2 Emissions": 167
+          },
+          "NOTES": {
+               "AdBlue tank": "11.5L"
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V90 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "139.7 KW @ 5000-6000 RPM\n190 HP @ 5000-6000 RPM\n187 BHP @ 5000-6000 RPM",
+               "Torque": "221 lb-ft @ 1620-4020 RPM\n300 Nm @ 1620-4020 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50R19"
+          },
+          "DIMENSIONS": {
+               "Length": 194.3,
+               "Width": 74.6,
+               "Height": 58.1,
+               "Front/rear Track": "64.1/64.1 in (1,628/1,628 mm)",
+               "Wheelbase": 115.8,
+               "Ground Clearance": 6,
+               "Cargo Volume": 19.8,
+               "Aerodynamics (frontal area)": "2.3 m2",
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3770,
+               "Gross Weight Limit": 4982
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 34.1,
+               "CO2 Emissions": 158
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "21.6 mpg US (10.9 L/100Km)",
+               "CO2 Emissions (Low)": "246 g/km",
+               "Medium": "30.5 mpg US (7.7 L/100Km)",
+               "CO2 Emissions (Medium)": "176 g/km",
+               "High": "36.8 mpg US (6.4 L/100Km)",
+               "CO2 Emissions (High)": "144 g/km",
+               "Extra high": "33.6 mpg US (7 L/100Km)",
+               "CO2 Emissions (Extra high)": "159 g/km",
+               "Combined": 31.4,
+               "CO2 Emissions (Combined)": "169 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V90 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "139.7 KW @ 5000 RPM\n190 HP @ 5000 RPM\n187 BHP @ 5000 RPM",
+               "Torque": "221 lb-ft @ 2700-6700 RPM\n300 Nm @ 2700-6700 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 194.3,
+               "Width": 79.5,
+               "Height": 58.1,
+               "Front/rear Track": "64.1/63.7 in (1,628/1,618 mm)",
+               "Wheelbase": 115.8,
+               "Ground Clearance": 6,
+               "Cargo Volume": 19.8,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4242,
+               "Gross Weight Limit": 5291
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 34.1,
+               "CO2 Emissions": 156
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V90 1997-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2922,
+               "Power": "150 KW @ 6000 RPM\n204 HP @ 6000 RPM\n201 BHP @ 6000 RPM",
+               "Torque": "197 lb-ft @ 4300 RPM\n267 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 191.33,
+               "Width": 68.89,
+               "Height": 57.08,
+               "Front/rear Track": "59.05/59.84 in (1,500/1,520 mm)",
+               "Wheelbase": 109.05,
+               "Ground Clearance": 6.2,
+               "Cargo Volume": 35,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3542.8,
+               "Gross Weight Limit": 4629.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.2,
+               "Highway": 28,
+               "Combined": 20.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S60 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "139.7 KW @ 5000 RPM\n190 HP @ 5000 RPM\n187 BHP @ 5000 RPM",
+               "Torque": "221 lb-ft @ 1680-4020 RPM\n300 Nm @ 1680-4020 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40R19"
+          },
+          "DIMENSIONS": {
+               "Length": 187.4,
+               "Width": 77.2,
+               "Height": 56.3,
+               "Front/rear Track": "63.1/63.1 in (1,603/1,603 mm)",
+               "Wheelbase": 113.1,
+               "Ground Clearance": 5.6,
+               "Cargo Volume": 13.8,
+               "Aerodynamics (frontal area)": "2.22 m2",
+               "Aerodynamics (Cd)": 0.27,
+               "Turning circle (curb to curb)": "36.1 ft (11.0 m)",
+               "Turning circle (wall to wall)": "37.4 ft (11.4 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3697,
+               "Gross Weight Limit": 4828
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion",
+               "Nominal Capacity": 11.6,
+               "Range": 30.4
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "21.6 mpg US (10.9 L/100Km)",
+               "CO2 Emissions (Low)": "247 g/km",
+               "Medium": "31.8 mpg US (7.4 L/100Km)",
+               "CO2 Emissions (Medium)": "169 g/km",
+               "High": "39.9 mpg US (5.9 L/100Km)",
+               "CO2 Emissions (High)": "135 g/km",
+               "Extra high": "36.2 mpg US (6.5 L/100Km)",
+               "CO2 Emissions (Extra high)": "147 g/km",
+               "Combined": 33.1,
+               "CO2 Emissions (Combined)": "161 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S60 2013-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "110 KW @ 5700 RPM\n150 HP @ 5700 RPM\n148 BHP @ 5700 RPM",
+               "Torque": "177 lb-ft @ 1600-4000 RPM\n240 Nm @ 1600-4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6 speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 182.2,
+               "Width": 82.5,
+               "Height": 58.4,
+               "Front/rear Track": "62.5/62.4 in (1,588/1,585 mm)",
+               "Wheelbase": 109.3,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 13.4,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3704,
+               "Gross Weight Limit": 4894
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.8,
+               "Highway": 43.6,
+               "Combined": 34.6,
+               "CO2 Emissions": 159
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S60 2010-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "110 KW @ 5700 RPM\n150 HP @ 5700 RPM\n148 BHP @ 5700 RPM",
+               "Torque": "177 lb-ft @ 1600-4000 RPM\n240 Nm @ 1600-4000 RPM",
+               "Fuel System": "Turbocharged direct injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 182.2,
+               "Width": 82.5,
+               "Height": 58.4,
+               "Front/rear Track": "62.5/62.4 in (1,588/1,585 mm)",
+               "Wheelbase": 109.3,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 13.4,
+               "Aerodynamics (Cd)": 0.28,
+               "Turning circle": 37.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3704,
+               "Gross Weight Limit": 4894
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.8,
+               "Highway": 42.8,
+               "Combined": 33.1,
+               "CO2 Emissions": 159
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S60 2008-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 1984,
+               "Power": "132 KW @ 5500 RPM\n179 HP @ 5500 RPM\n177 BHP @ 5500 RPM",
+               "Torque": "177 lb-ft @ 1850-5000 RPM\n240 Nm @ 1850-5000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 134,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 181.2,
+               "Width": 71,
+               "Height": 56.2,
+               "Front/rear Track": "61.5/60.7 in (1,562/1,542 mm)",
+               "Wheelbase": 107,
+               "Ground Clearance": 5.8,
+               "Cargo Volume": 13.9,
+               "Aerodynamics (Cd)": 0.29,
+               "Turning circle": 37.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3583,
+               "Gross Weight Limit": 4519
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.2,
+               "Highway": 33.1,
+               "Combined": 24.8,
+               "CO2 Emissions": 227
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S60 2004-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 1984,
+               "Power": "132 KW @ 5300 RPM\n179 HP @ 5300 RPM\n177 BHP @ 5300 RPM",
+               "Torque": "177 lb-ft @ 2200 RPM\n240 Nm @ 2200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 139.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55WR16"
+          },
+          "DIMENSIONS": {
+               "Length": 180.2,
+               "Width": 71,
+               "Height": 56.2,
+               "Front/rear Track": "61.5/61.4 in (1,562/1,560 mm)",
+               "Wheelbase": 106.9,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 15,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3400,
+               "Gross Weight Limit": 4431
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.4,
+               "Highway": 33.1,
+               "Combined": 25.6,
+               "CO2 Emissions": 212
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S60 R 2003-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2521,
+               "Power": "220 KW @ 5500 RPM\n300 HP @ 5500 RPM\n295 BHP @ 5500 RPM",
+               "Torque": "295 lb-ft @ 1950 RPM\n400 Nm @ 1950 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/45 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 180.3,
+               "Width": 70.9,
+               "Height": 56.3,
+               "Front/rear Track": "61.4/61.4 in (1,560/1,560 mm)",
+               "Wheelbase": 107,
+               "Cargo Volume": 14.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3503.1,
+               "Gross Weight Limit": 4629.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 28.3,
+               "Combined": 22,
+               "CO2 Emissions": 255
+          }
+     }
+},{
+     "model_name": "VOLVO S60 2000-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 1984,
+               "Power": "132 KW @ 5300 RPM\n179 HP @ 5300 RPM\n177 BHP @ 5300 RPM",
+               "Torque": "177 lb-ft @ 2200 RPM\n240 Nm @ 2200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 139.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 WR16"
+          },
+          "DIMENSIONS": {
+               "Length": 180.2,
+               "Width": 71,
+               "Height": 56.2,
+               "Front/rear Track": "61.5/61.4 in (1,562/1,560 mm)",
+               "Wheelbase": 106.9,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 15,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3249.6,
+               "Gross Weight Limit": 4431.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.4,
+               "Highway": 33.1,
+               "Combined": 25.6,
+               "CO2 Emissions": 210
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V60 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "139.7 KW @ 5000 RPM\n190 HP @ 5000 RPM\n187 BHP @ 5000 RPM",
+               "Torque": "221 lb-ft @ 1680-4020 RPM\n300 Nm @ 1680-4020 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60R16"
+          },
+          "DIMENSIONS": {
+               "Length": 187.4,
+               "Width": 72.8,
+               "Height": 56.2,
+               "Front/rear Track": "63.1/63.1 in (1,603/1,603 mm)",
+               "Wheelbase": 113.1,
+               "Ground Clearance": 5.6,
+               "Cargo Volume": 18.7,
+               "Aerodynamics (Cd)": 0.29,
+               "Aerodynamics (frontal area)": "2.23 m2",
+               "Turning circle (curb to curb)": "36.1 ft (11.0 m)",
+               "Turning circle (wall to wall)": "37.4 ft (11.4 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3737,
+               "Gross Weight Limit": 4872
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "20.8 mpg US (11.3 L/100Km)",
+               "CO2 Emissions (Low)": "254 g/km",
+               "Medium": "30.9 mpg US (7.6 L/100Km)",
+               "CO2 Emissions (Medium)": "172 g/km",
+               "High": "38.6 mpg US (6.1 L/100Km)",
+               "CO2 Emissions (High)": "139 g/km",
+               "Extra high": "35.1 mpg US (6.7 L/100Km)",
+               "CO2 Emissions (Extra high)": "153 g/km",
+               "Combined": 32.2,
+               "CO2 Emissions (Combined)": "166 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V60 2014-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1595,
+               "Power": "110 KW @ 5700 RPM\n150 HP @ 5700 RPM\n148 BHP @ 5700 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/50/R17"
+          },
+          "DIMENSIONS": {
+               "Length": 182,
+               "Width": 82.5,
+               "Height": 58.4,
+               "Front/rear Track": "62.5/62.4 in (1,588/1,585 mm)",
+               "Wheelbase": 109.2,
+               "Ground Clearance": 4.8,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.28,
+               "Turning circle": 37.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3609,
+               "Gross Weight Limit": 4630
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.8,
+               "Highway": 40.6,
+               "Combined": 32.7,
+               "CO2 Emissions": 167
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V60 2010-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1595,
+               "Power": "110 KW @ 5700 RPM\n150 HP @ 5700 RPM\n148 BHP @ 5700 RPM",
+               "Fuel System": "Turbocharged direct injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 182,
+               "Width": 82.5,
+               "Height": 58.4,
+               "Front/rear Track": "62.5/62.4 in (1,588/1,585 mm)",
+               "Wheelbase": 109.2,
+               "Ground Clearance": 4.8,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.28,
+               "Turning circle": 37.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3609,
+               "Gross Weight Limit": 4630
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.8,
+               "Highway": 40.6,
+               "Combined": 32.7,
+               "CO2 Emissions": 167
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V60 Polestar 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "269.9 KW @ 6000 RPM\n367 HP @ 6000 RPM\n362 BHP @ 6000 RPM",
+               "Torque": "347 lb-ft @ 3100 RPM\n470 Nm @ 3100 RPM",
+               "Fuel System": "Supercharged and Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 182.5,
+               "Width": 73.4,
+               "Height": 58.4,
+               "Front/rear Track": "62.1/62 in (1,577/1,575 mm)",
+               "Wheelbase": 109.3,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3530,
+               "Gross Weight Limit": 5004
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.8,
+               "Highway": 35.6,
+               "Combined": 29,
+               "CO2 Emissions": 186
+          }
+     }
+},{
+     "model_name": "2013 Volvo V60 Polestar",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "269.9 KW @ 6000 RPM\n367 HP @ 6000 RPM\n362 BHP @ 6000 RPM",
+               "Torque": "347 lb-ft @ 3100 RPM\n470 Nm @ 3100 RPM",
+               "Fuel System": "Supercharged and Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 182.2,
+               "Width": 73.4,
+               "Height": 58.4,
+               "Front/rear Track": "62.5/62.4 in (1,588/1,585 mm)",
+               "Wheelbase": 109.3,
+               "Ground Clearance": 5.4,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3530,
+               "Gross Weight Limit": 5004
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.8,
+               "Highway": 35.6,
+               "Combined": 29,
+               "CO2 Emissions": 186
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V60 Cross Country 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "183.9 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
+               "Torque": "258 lb-ft @ 1800-4800 RPM\n350 Nm @ 1800-4800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55R18"
+          },
+          "DIMENSIONS": {
+               "Length": 188.3,
+               "Width": 80.3,
+               "Height": 59.1,
+               "Front/rear Track": "164.9/163.3 in (4,188/4,148 mm)",
+               "Wheelbase": 113.2,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 18.7,
+               "Aerodynamics (frontal area)": "2.3 m2",
+               "Aerodynamics (Cd)": 0.33,
+               "Turning circle (curb to curb)": "37.1 ft (11.3 m)",
+               "Turning circle (wall to wall)": "38.4 ft (11.7 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4001,
+               "Gross Weight Limit": 5115
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.2,
+               "CO2 Emissions": 178
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 29.8,
+               "CO2 Emissions (Combined)": "180 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V60 Cross Country 2015-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "180 KW @ 5500 RPM\n245 HP @ 5500 RPM\n241 BHP @ 5500 RPM",
+               "Torque": "258 lb-ft @ 1500-4800 RPM\n350 Nm @ 1500-4800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Disks",
+               "Rear": "Disks"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 182.6,
+               "Width": 74.8,
+               "Height": 60.8,
+               "Front/rear Track": "63.7/62.1 in (1,618/1,577 mm)",
+               "Wheelbase": 109.2,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3774,
+               "Gross Weight Limit": 4784
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 35.6,
+               "CO2 Emissions": 153
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S60 Polestar 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "269.9 KW @ 6000 RPM\n367 HP @ 6000 RPM\n362 BHP @ 6000 RPM",
+               "Torque": "347 lb-ft @ 3100 RPM\n470 Nm @ 3100 RPM",
+               "Fuel System": "Supercharged and Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 182.5,
+               "Width": 73.4,
+               "Height": 58.4,
+               "Front/rear Track": "62.1/62 in (1,577/1,575 mm)",
+               "Wheelbase": 109.3,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 13.4,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3858,
+               "Gross Weight Limit": 4806
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.4,
+               "Highway": 37.3,
+               "Combined": 30.2,
+               "CO2 Emissions": 179
+          }
+     }
+},{
+     "model_name": "2014 Volvo S60 Polestar",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2953,
+               "Power": "257.4 KW @ 5250 RPM\n350 HP @ 5250 RPM\n345 BHP @ 5250 RPM",
+               "Torque": "369 lb-ft @ 3000 RPM\n500 Nm @ 3000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 182.5,
+               "Width": 73.4,
+               "Height": 58.4,
+               "Front/rear Track": "62.1/62 in (1,577/1,575 mm)",
+               "Wheelbase": 109.3,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 13.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3600,
+               "Gross Weight Limit": 4894
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.2,
+               "Highway": 32.2,
+               "Combined": 23.8,
+               "CO2 Emissions": 231
+          }
+     }
+},{
+     "model_name": "VOLVO XC60 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "186.8 KW @ 5500 RPM\n254 HP @ 5500 RPM\n251 BHP @ 5500 RPM",
+               "Torque": "258 lb-ft @ 1500-4800 RPM\n350 Nm @ 1500-4800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 184.6,
+               "Width": 78.7,
+               "Height": 65.3,
+               "Front/rear Track": "65.1/64.9 in (1,654/1,648 mm)",
+               "Wheelbase": 112.8,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 17.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 32.2,
+               "CO2 Emissions": 167
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO XC60 2013-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "180 KW @ 5500 RPM\n245 HP @ 5500 RPM\n241 BHP @ 5500 RPM",
+               "Torque": "258 lb-ft @ 1500-4800 RPM\n350 Nm @ 1500-4800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 182.8,
+               "Width": 74.5,
+               "Height": 67.4,
+               "Front/rear Track": "64.3/62.4 in (1,633/1,585 mm)",
+               "Wheelbase": 109.2,
+               "Ground Clearance": 9.1,
+               "Cargo Volume": 17.3,
+               "Aerodynamics (Cd)": 0.35,
+               "Turning circle": 39.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4041,
+               "Gross Weight Limit": 5137
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26.4,
+               "Highway": 42.8,
+               "Combined": 35.1,
+               "CO2 Emissions": 157
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO XC60 2008-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "177 KW @ 5500 RPM\n241 HP @ 5500 RPM\n237 BHP @ 5500 RPM",
+               "Torque": "236 lb-ft @ 1800-5000 RPM\n320 Nm @ 1800-5000 RPM",
+               "Fuel System": "Integrated fuel (SFI) / ignition control system",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65/R17"
+          },
+          "DIMENSIONS": {
+               "Length": 182.2,
+               "Width": 74.4,
+               "Height": 67.3,
+               "Front/rear Track": "64.1/62.5 in (1,628/1,588 mm)",
+               "Wheelbase": 109,
+               "Ground Clearance": 9.1,
+               "Cargo Volume": 17.5,
+               "Aerodynamics (Cd)": 0.35,
+               "Turning circle": 39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4034,
+               "Gross Weight Limit": 5004
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.6,
+               "Highway": 34.6,
+               "Combined": 27.7,
+               "CO2 Emissions": 198
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO EX90 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "180.2 kw (245 hp)",
+               "Electrical motor torque": "309.8 lb-ft (420 Nm)",
+               "Total maximum power": "300.1 kw (408 hp)",
+               "Total maximum torque": "567.9 lb-ft (770 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 198.3,
+               "Width": 77.3,
+               "Height": 68.7,
+               "Front/rear Track": "65.9/65.6 in (1,674/1,666 mm)",
+               "Wheelbase": 117.5,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 10.9,
+               "Aerodynamics (Cd)": 0.29,
+               "Turning circle": 38.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 6213
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 107,
+               "Maximum Capacity": "111 kWh",
+               "Range": 372.8
+          },
+          "NOTES": {
+               "Electric motor 2 power": "163 HP\nElectric motor 2 Torque: 350 Nm"
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO C40 Recharge 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 69,
+               "Range": 269.7
+          }
+     }
+},{
+     "model_name": "VOLVO C40 Recharge 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "300.1 kw (408 hp)",
+               "Electrical motor torque": "486.8 lb-ft (660 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 174.4,
+               "Width": 80.1,
+               "Height": 62.3,
+               "Front/rear Track": "62.9/63.9 in (1,598/1,623 mm)",
+               "Wheelbase": 106.4,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 14.6,
+               "Aerodynamics (Cd)": 0.329,
+               "Aerodynamics (frontal area)": "2.56 m2",
+               "Turning circle (curb to curb)": "37.4 ft (11.4 m)",
+               "Turning circle (wall to wall)": "38.7 ft (11.8 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3468,
+               "Gross Weight Limit": 4542
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion",
+               "Nominal Capacity": 75,
+               "Maximum Capacity": "78 kWh",
+               "Range": 261
+          }
+     }
+},{
+     "model_name": "2025 Volvo EX30",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "197.1 kw (268 hp)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Maximum Capacity": "51 kWh"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Volvo EM90",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "200 kw (272 hp)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 8.3
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Maximum Capacity": "116 kWh kWh",
+               "Range": 458.6
+          }
+     }
+},{
+     "model_name": "VOLVO 142 1967-1974",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1986,
+               "Power": "87 KW @ 5800 RPM\n118 HP @ 5800 RPM\n117 BHP @ 5800 RPM",
+               "Torque": "123 lb-ft @ 3500 RPM\n167 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 101
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165 SR 15"
+          },
+          "DIMENSIONS": {
+               "Length": 182.7,
+               "Width": 68.1,
+               "Height": 56.7,
+               "Front/rear Track": "53.1/53.1 in (1,349/1,349 mm)",
+               "Wheelbase": 103.1,
+               "Ground Clearance": 7.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2535
+          },
+          "": {}
+     }
+},{
+     "model_name": "1967 Volvo 144",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1782,
+               "Power": "77.2 KW @ 5600 RPM\n105 HP @ 5600 RPM\n104 BHP @ 5600 RPM",
+               "Torque": "108 lb-ft @ 3800 RPM\n146 Nm @ 3800 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 92,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 183.1,
+               "Width": 68,
+               "Height": 57,
+               "Front/rear Track": "53/53 in (1,346/1,346 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 21.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2733.7
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 145 1967-1974",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1782,
+               "Power": "77 KW @ 5600 RPM\n105 HP @ 5600 RPM\n103 BHP @ 5600 RPM",
+               "Torque": "108 lb-ft @ 3800 RPM\n146 Nm @ 3800 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165S15"
+          },
+          "DIMENSIONS": {
+               "Length": 183.1,
+               "Width": 68,
+               "Height": 57,
+               "Front/rear Track": "53/53 in (1,346/1,346 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 8.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2867,
+               "Gross Weight Limit": 4013
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 244 1975-1990",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1986,
+               "Power": "66.2 KW @ 5000 RPM\n90 HP @ 5000 RPM\n89 BHP @ 5000 RPM",
+               "Torque": "112 lb-ft @ 2500 RPM\n152 Nm @ 2500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 93,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175SR14"
+          },
+          "DIMENSIONS": {
+               "Length": 188.18,
+               "Width": 67.32,
+               "Height": 56.29,
+               "Front/rear Track": "56.29/53.54 in (1,430/1,360 mm)",
+               "Wheelbase": 103.93,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 13.9,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2756,
+               "Gross Weight Limit": 3924
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 21.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 245 1975-1990",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1986,
+               "Power": "71 KW @ 5500 RPM\n97 HP @ 5500 RPM\n95 BHP @ 5500 RPM",
+               "Torque": "114 lb-ft @ 2500 RPM\n154 Nm @ 2500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 96.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185SR14"
+          },
+          "DIMENSIONS": {
+               "Length": 188.18,
+               "Width": 67.32,
+               "Height": 57.48,
+               "Front/rear Track": "56.29/53.54 in (1,430/1,360 mm)",
+               "Wheelbase": 103.93,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 42.4,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2905.7,
+               "Gross Weight Limit": 4299
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 20.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 262 C 1977-1981",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2664,
+               "Power": "103 KW @ 6000 RPM\n140 HP @ 6000 RPM\n138 BHP @ 6000 RPM",
+               "Torque": "151 lb-ft @ 3000 RPM\n204 Nm @ 3000 RPM",
+               "Fuel System": "Monopoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/70 HR 14"
+          },
+          "DIMENSIONS": {
+               "Length": 192.1,
+               "Width": 67.2,
+               "Height": 53.5,
+               "Front/rear Track": "56.3/53.2 in (1,430/1,351 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 21.7,
+               "Aerodynamics (Cd)": 0.45
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3142,
+               "Gross Weight Limit": 3968
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 264 1980-1982",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2664,
+               "Power": "95 KW @ 5250 RPM\n129 HP @ 5250 RPM\n127 BHP @ 5250 RPM",
+               "Torque": "156 lb-ft @ 3000 RPM\n212 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175HR14"
+          },
+          "DIMENSIONS": {
+               "Length": 188.18,
+               "Width": 67.32,
+               "Height": 56.29,
+               "Front/rear Track": "56.29/53.54 in (1,430/1,360 mm)",
+               "Wheelbase": 103.93,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 13.9,
+               "Aerodynamics (Cd)": 0.45
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2976.2,
+               "Gross Weight Limit": 4243.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 17.7
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 265 1980-1982",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2849,
+               "Power": "114 KW @ 5500 RPM\n155 HP @ 5500 RPM\n153 BHP @ 5500 RPM",
+               "Torque": "170 lb-ft @ 3000 RPM\n230 Nm @ 3000 RPM",
+               "Fuel System": "Monopoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 10
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185HR14"
+          },
+          "DIMENSIONS": {
+               "Length": 188.18,
+               "Width": 67.32,
+               "Height": 57.48,
+               "Front/rear Track": "56.29/53.54 in (1,430/1,360 mm)",
+               "Wheelbase": 103.93,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 42.4,
+               "Aerodynamics (Cd)": 0.44
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3210,
+               "Gross Weight Limit": 3968
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 18.7
+          }
+     }
+},{
+     "model_name": "VOLVO 343 1976-1982",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1397,
+               "Power": "47 KW @ 5500 RPM\n64 HP @ 5500 RPM\n63 BHP @ 5500 RPM",
+               "Torque": "77 lb-ft @ 2500 RPM\n105 Nm @ 2500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 93.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 16.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155SR13"
+          },
+          "DIMENSIONS": {
+               "Length": 165.74,
+               "Width": 65.35,
+               "Height": 54.72,
+               "Front/rear Track": "53.93/55.11 in (1,370/1,400 mm)",
+               "Wheelbase": 94.48,
+               "Ground Clearance": 7.5,
+               "Cargo Volume": 13.4,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2127.5,
+               "Gross Weight Limit": 3174.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24,
+               "Highway": 26.1,
+               "Combined": 26.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 345 1979-1982",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1397,
+               "Power": "47 KW @ 5500 RPM\n64 HP @ 5500 RPM\n63 BHP @ 5500 RPM",
+               "Torque": "77 lb-ft @ 2500 RPM\n105 Nm @ 2500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 93.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 16.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/SR13"
+          },
+          "DIMENSIONS": {
+               "Length": 165.74,
+               "Width": 65.35,
+               "Height": 54.72,
+               "Front/rear Track": "53.93/55.11 in (1,370/1,400 mm)",
+               "Wheelbase": 94.48,
+               "Ground Clearance": 7.5,
+               "Cargo Volume": 13.4,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2171.6,
+               "Gross Weight Limit": 3174.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24,
+               "Highway": 26.1,
+               "Combined": 26.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 440 1993-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "61 KW @ 5500 RPM\n83 HP @ 5500 RPM\n82 BHP @ 5500 RPM",
+               "Torque": "92 lb-ft @ 4000 RPM\n125 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65TR14"
+          },
+          "DIMENSIONS": {
+               "Length": 170.86,
+               "Width": 66.53,
+               "Height": 54.72,
+               "Front/rear Track": "55.9/56.29 in (1,420/1,430 mm)",
+               "Wheelbase": 98.42,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 13.4,
+               "Aerodynamics (Cd)": 0.62
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2162.7,
+               "Gross Weight Limit": 3483.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 440 1988-1993",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "61 KW @ 5500 RPM\n83 HP @ 5500 RPM\n82 BHP @ 5500 RPM",
+               "Torque": "92 lb-ft @ 4000 RPM\n125 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65TR14"
+          },
+          "DIMENSIONS": {
+               "Length": 169.68,
+               "Width": 66.53,
+               "Height": 55.11,
+               "Front/rear Track": "55.9/56.29 in (1,420/1,430 mm)",
+               "Wheelbase": 98.42,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 13.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2164.9,
+               "Gross Weight Limit": 3329
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 460 1993-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "61 KW @ 5500 RPM\n83 HP @ 5500 RPM\n82 BHP @ 5500 RPM",
+               "Torque": "92 lb-ft @ 4000 RPM\n125 Nm @ 4000 RPM",
+               "Fuel System": "Monopoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65TR14"
+          },
+          "DIMENSIONS": {
+               "Length": 174.8,
+               "Width": 66.53,
+               "Height": 54.72,
+               "Front/rear Track": "55.9/56.29 in (1,420/1,430 mm)",
+               "Wheelbase": 98.42,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 16,
+               "Aerodynamics (Cd)": 0.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2206.8,
+               "Gross Weight Limit": 3483.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 460 1990-1993",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1721,
+               "Power": "75 KW @ 5600 RPM\n102 HP @ 5600 RPM\n101 BHP @ 5600 RPM",
+               "Torque": "105 lb-ft @ 3900 RPM\n142 Nm @ 3900 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65TR14"
+          },
+          "DIMENSIONS": {
+               "Length": 173.22,
+               "Width": 66.14,
+               "Height": 55.11,
+               "Front/rear Track": "55.9/56.29 in (1,420/1,430 mm)",
+               "Wheelbase": 98.42,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 16,
+               "Aerodynamics (Cd)": 0.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2211.3,
+               "Gross Weight Limit": 3483.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.8,
+               "Highway": 40.6,
+               "Combined": 30.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 480 1986-1995",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1721,
+               "Power": "75 KW @ 5600 RPM\n102 HP @ 5600 RPM\n101 BHP @ 5600 RPM",
+               "Torque": "105 lb-ft @ 3900 RPM\n142 Nm @ 3900 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65HR14"
+          },
+          "DIMENSIONS": {
+               "Length": 167.71,
+               "Width": 67.32,
+               "Height": 51.96,
+               "Front/rear Track": "55.9/56.29 in (1,420/1,430 mm)",
+               "Wheelbase": 98.42,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 5.7,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2211.3,
+               "Gross Weight Limit": 3108.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 29
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 66 1975-1981",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1108,
+               "Power": "35 KW @ 5000 RPM\n47 HP @ 5000 RPM\n47 BHP @ 5000 RPM",
+               "Torque": "55 lb-ft @ 2700 RPM\n75 Nm @ 2700 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 82,
+               "Acceleration 0-62 Mph (0-100 kph)": 23.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "CVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "135SR13"
+          },
+          "DIMENSIONS": {
+               "Length": 153.7,
+               "Width": 60.5,
+               "Height": 54.8,
+               "Front/rear Track": "51.5/48.8 in (1,308/1,240 mm)",
+               "Wheelbase": 88.5,
+               "Ground Clearance": 7.5,
+               "Cargo Volume": 10.24
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1836,
+               "Gross Weight Limit": 2645.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 760 1982-1990",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2316,
+               "Power": "130 KW @ 5700 RPM\n177 HP @ 5700 RPM\n174 BHP @ 5700 RPM",
+               "Torque": "187 lb-ft @ 3400 RPM\n253 Nm @ 3400 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 188.18,
+               "Width": 68.89,
+               "Height": 56.69,
+               "Front/rear Track": "57.87/57.48 in (1,470/1,460 mm)",
+               "Wheelbase": 109.05,
+               "Ground Clearance": 8.6,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2921.1,
+               "Gross Weight Limit": 4012.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 21.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 760 Estate 1985-1990",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2849,
+               "Power": "108 KW @ 5100 RPM\n147 HP @ 5100 RPM\n145 BHP @ 5100 RPM",
+               "Torque": "173 lb-ft @ 3750 RPM\n235 Nm @ 3750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60HR15"
+          },
+          "DIMENSIONS": {
+               "Length": 188.18,
+               "Width": 68.89,
+               "Height": 56.69,
+               "Front/rear Track": "57.87/57.48 in (1,470/1,460 mm)",
+               "Wheelbase": 109.5,
+               "Ground Clearance": 9.2,
+               "Cargo Volume": 35,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3181.3,
+               "Gross Weight Limit": 4299
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 20.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 780 1986-1990",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1986,
+               "Power": "147.1 KW @ 5300 RPM\n200 HP @ 5300 RPM\n197 BHP @ 5300 RPM",
+               "Torque": "214 lb-ft @ 3500 RPM\n290 Nm @ 3500 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 132,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 HR 15"
+          },
+          "DIMENSIONS": {
+               "Length": 188.6,
+               "Width": 68.9,
+               "Height": 55.1,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 109.1,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 17.1,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3439,
+               "Gross Weight Limit": 4277
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.8,
+               "Highway": 23.8,
+               "Combined": 23.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 850 R 1994-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2319,
+               "Power": "177 KW @ 5600 RPM\n240 HP @ 5600 RPM\n237 BHP @ 5600 RPM",
+               "Torque": "243 lb-ft @ 3000 RPM\n330 Nm @ 3000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 152.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/45ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 183.9,
+               "Width": 69.3,
+               "Height": 55.5,
+               "Front/rear Track": "59.8/57.9 in (1,519/1,471 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 5,
+               "Cargo Volume": 15.7,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3245,
+               "Gross Weight Limit": 4255
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Highway": 26.1,
+               "Combined": 24.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 850 1992-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 1984,
+               "Power": "93 KW @ 6250 RPM\n126 HP @ 6250 RPM\n125 BHP @ 6250 RPM",
+               "Torque": "125 lb-ft @ 4800 RPM\n170 Nm @ 4800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 183.46,
+               "Width": 69.26,
+               "Height": 55.11,
+               "Front/rear Track": "59.84/57.87 in (1,520/1,470 mm)",
+               "Wheelbase": 105.11,
+               "Cargo Volume": 15.7,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2923.3,
+               "Gross Weight Limit": 4166.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 26.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 850 Estate R 1994-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2319,
+               "Power": "177 KW @ 5600 RPM\n240 HP @ 5600 RPM\n237 BHP @ 5600 RPM",
+               "Torque": "243 lb-ft @ 3000 RPM\n330 Nm @ 3000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 152.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed Automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/45ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 185.8,
+               "Width": 69.3,
+               "Height": 56.3,
+               "Front/rear Track": "59.8/57.9 in (1,519/1,471 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 5,
+               "Cargo Volume": 33.9,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3284.9,
+               "Gross Weight Limit": 4409.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 23.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 850 Estate 1993-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 1984,
+               "Power": "93 KW @ 6250 RPM\n126 HP @ 6250 RPM\n125 BHP @ 6250 RPM",
+               "Torque": "125 lb-ft @ 4800 RPM\n170 Nm @ 4800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 185.43,
+               "Width": 69.26,
+               "Height": 56.29,
+               "Front/rear Track": "59.84/57.87 in (1,520/1,470 mm)",
+               "Wheelbase": 105.11,
+               "Ground Clearance": 5,
+               "Cargo Volume": 33.9,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3029.2,
+               "Gross Weight Limit": 4343.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 26.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 940 1990-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1986,
+               "Power": "82 KW @ 5700 RPM\n111 HP @ 5700 RPM\n110 BHP @ 5700 RPM",
+               "Torque": "117 lb-ft @ 2800 RPM\n158 Nm @ 2800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 13
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 191.7,
+               "Width": 68.9,
+               "Height": 55.5,
+               "Front/rear Track": "57.8/58.3 in (1,468/1,481 mm)",
+               "Wheelbase": 109,
+               "Ground Clearance": 4.2,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2948,
+               "Gross Weight Limit": 4112
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 25
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 940 Estate 1990-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1986,
+               "Power": "82 KW @ 5700 RPM\n111 HP @ 5700 RPM\n110 BHP @ 5700 RPM",
+               "Torque": "117 lb-ft @ 2800 RPM\n158 Nm @ 2800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 13
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 189.4,
+               "Width": 68.9,
+               "Height": 56.7,
+               "Front/rear Track": "57.9/58.3 in (1,471/1,481 mm)",
+               "Wheelbase": 109,
+               "Ground Clearance": 4.2,
+               "Cargo Volume": 35,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3024.7,
+               "Gross Weight Limit": 4299
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 24.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 960 1994-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2473,
+               "Power": "125 KW @ 5700 RPM\n170 HP @ 5700 RPM\n168 BHP @ 5700 RPM",
+               "Torque": "172 lb-ft @ 4550 RPM\n233 Nm @ 4550 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 10
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 191.73,
+               "Width": 68.89,
+               "Height": 56.69,
+               "Front/rear Track": "57.87/59.84 in (1,470/1,520 mm)",
+               "Wheelbase": 109.05,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 17.3,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3256,
+               "Gross Weight Limit": 4321
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 21.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "1990 Volvo 960",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2922,
+               "Power": "150 KW @ 6000 RPM\n204 HP @ 6000 RPM\n201 BHP @ 6000 RPM",
+               "Torque": "197 lb-ft @ 4300 RPM\n267 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.48,
+               "Acceleration 0-62 Mph (0-100 kph)": 9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 191.73,
+               "Width": 68.89,
+               "Height": 55.51,
+               "Front/rear Track": "57.87/59.84 in (1,470/1,520 mm)",
+               "Wheelbase": 109.05,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3306.93,
+               "Gross Weight Limit": 4431.29
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 21.38
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO 960 Estate 1994-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2473,
+               "Power": "125 KW @ 5700 RPM\n170 HP @ 5700 RPM\n168 BHP @ 5700 RPM",
+               "Torque": "172 lb-ft @ 4550 RPM\n233 Nm @ 4550 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 191.33,
+               "Width": 68.89,
+               "Height": 57.48,
+               "Front/rear Track": "57.87/59.84 in (1,470/1,520 mm)",
+               "Wheelbase": 109.05,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 35,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3369,
+               "Gross Weight Limit": 4542
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 21.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO C30 2009-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "74 KW @ 6000 RPM\n101 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
+               "Torque": "110 lb-ft @ 4000 RPM\n149 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 167.9,
+               "Width": 70.1,
+               "Height": 56.9,
+               "Front/rear Track": "60.4/60.2 in (1,534/1,529 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 8.2,
+               "Aerodynamics (Cd)": 0.31,
+               "Turning circle": 34.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2819,
+               "Gross Weight Limit": 3748
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.3,
+               "Highway": 41.3,
+               "Combined": 33.6,
+               "CO2 Emissions": 167
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO C30 2006-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "74 KW @ 6000 RPM\n100 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
+               "Torque": "110 lb-ft @ 4000 RPM\n149 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 167.4,
+               "Width": 70.1,
+               "Height": 57,
+               "Front/rear Track": "60.9/60.7 in (1,547/1,542 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 8.9,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2819,
+               "Gross Weight Limit": 3747.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.3,
+               "Highway": 41.3,
+               "Combined": 33.6,
+               "CO2 Emissions": 167
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO C70 2005-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2435,
+               "Power": "125 KW @ 6000 RPM\n170 HP @ 6000 RPM\n168 BHP @ 6000 RPM",
+               "Torque": "170 lb-ft @ 4400 RPM\n230 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 134,
+               "Acceleration 0-62 Mph (0-100 kph)": 10
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 180.3,
+               "Width": 71.7,
+               "Height": 55.9,
+               "Front/rear Track": "61/61.4 in (1,549/1,560 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 7,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3913,
+               "Gross Weight Limit": 4608
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "CO2 Emissions": 229
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO C70 Convertible 1999-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 1984,
+               "Power": "120 KW @ 5100 RPM\n163 HP @ 5100 RPM\n161 BHP @ 5100 RPM",
+               "Torque": "170 lb-ft @ 1800 RPM\n230 Nm @ 1800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 WR16"
+          },
+          "DIMENSIONS": {
+               "Length": 185.82,
+               "Width": 71.65,
+               "Height": 55.51,
+               "Front/rear Track": "59.84/59.84 in (1,520/1,520 mm)",
+               "Wheelbase": 104.72,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 9.2,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3521,
+               "Gross Weight Limit": 4475
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.1,
+               "Highway": 30.5,
+               "Combined": 22.2,
+               "CO2 Emissions": 253
+          },
+          "": {}
+     }
+},{
+     "model_name": "1996 Volvo C70 Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 1984,
+               "Power": "120 KW @ 4000 RPM\n163 HP @ 4000 RPM\n161 BHP @ 4000 RPM",
+               "Torque": "170 lb-ft @ 1800 RPM\n230 Nm @ 1800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 WR16"
+          },
+          "DIMENSIONS": {
+               "Length": 185.82,
+               "Width": 71.65,
+               "Height": 55.51,
+               "Front/rear Track": "59.84/59.84 in (1,520/1,520 mm)",
+               "Wheelbase": 104.72,
+               "Cargo Volume": 14.2,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3194.5,
+               "Gross Weight Limit": 4166.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.4,
+               "Highway": 31.8,
+               "Combined": 24.2,
+               "CO2 Emissions": 230
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO P1800 1961-1973",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1782,
+               "Power": "72 KW @ 5800 RPM\n97 HP @ 5800 RPM\n97 BHP @ 5800 RPM",
+               "Torque": "103 lb-ft @ 3800 RPM\n140 Nm @ 3800 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "DIMENSIONS": {
+               "Length": 173.2,
+               "Width": 66,
+               "Height": 50.4,
+               "Front/rear Track": "52/52 in (1,321/1,321 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 6,
+               "Cargo Volume": 15
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2359
+          }
+     }
+},{
+     "model_name": "VOLVO S40 2007-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "74 KW @ 6000 RPM\n101 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
+               "Torque": "111 lb-ft @ 4000 RPM\n150 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55R16"
+          },
+          "DIMENSIONS": {
+               "Length": 175.9,
+               "Width": 69.7,
+               "Height": 57.2,
+               "Front/rear Track": "60.4/60.3 in (1,534/1,532 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 14.3,
+               "Aerodynamics (Cd)": 0.31,
+               "Turning circle": 36.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2674.2,
+               "Gross Weight Limit": 3968.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.8,
+               "Highway": 40.6,
+               "Combined": 32.7,
+               "CO2 Emissions": 171
+          },
+          "": {}
+     }
+},{
+     "model_name": "2004 Volvo S40",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "74 KW @ 6000 RPM\n101 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
+               "Torque": "111 lb-ft @ 4000 RPM\n150 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 176.2,
+               "Width": 69.7,
+               "Height": 57.2,
+               "Front/rear Track": "60.4/60.3 in (1,534/1,532 mm)",
+               "Wheelbase": 103.9,
+               "Cargo Volume": 14.3,
+               "Turning circle": 36.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2698.5,
+               "Gross Weight Limit": 3968.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.8,
+               "Highway": 40.6,
+               "Combined": 32.7,
+               "CO2 Emissions": 171
+          },
+          "": {}
+     }
+},{
+     "model_name": "2000 Volvo S40",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1588,
+               "Power": "80 KW @ 5800 RPM\n109 HP @ 5800 RPM\n107 BHP @ 5800 RPM",
+               "Torque": "107 lb-ft @ 4000 RPM\n145 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 176.37,
+               "Width": 67.71,
+               "Height": 55.51,
+               "Front/rear Track": "57.08/57.87 in (1,450/1,470 mm)",
+               "Wheelbase": 100.39,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2711.7,
+               "Gross Weight Limit": 3858.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.2,
+               "Highway": 39.2,
+               "Combined": 30.5,
+               "CO2 Emissions": 185
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S40 1996-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1588,
+               "Power": "77 KW @ 5500 RPM\n105 HP @ 5500 RPM\n103 BHP @ 5500 RPM",
+               "Torque": "106 lb-ft @ 4200 RPM\n143 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 13
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/55 HR15"
+          },
+          "DIMENSIONS": {
+               "Length": 176.37,
+               "Width": 67.71,
+               "Height": 55.51,
+               "Front/rear Track": "57.08/57.87 in (1,450/1,470 mm)",
+               "Wheelbase": 100.39,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 16.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2733.7,
+               "Gross Weight Limit": 3858.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.9,
+               "Highway": 36.2,
+               "Combined": 27.7
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S60 Cross Country 2015-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2497,
+               "Power": "187 KW @ 5400 RPM\n254 HP @ 5400 RPM\n251 BHP @ 5400 RPM",
+               "Torque": "266 lb-ft @ 1800-4200 RPM\n361 Nm @ 1800-4200 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 182.6,
+               "Width": 74.8,
+               "Height": 60.6,
+               "Front/rear Track": "63.3/61.7 in (1,608/1,567 mm)",
+               "Wheelbase": 109.2,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 13.4,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3713,
+               "Gross Weight Limit": 4916
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 27.7,
+               "CO2 Emissions": 198
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S70 1997-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 1984,
+               "Power": "166.2 KW @ 5700 RPM\n226 HP @ 5700 RPM\n223 BHP @ 5700 RPM",
+               "Torque": "229 lb-ft @ 2700 RPM\n310 Nm @ 2700 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 185.82,
+               "Width": 69.29,
+               "Height": 54.72,
+               "Front/rear Track": "59.84/57.87 in (1,520/1,470 mm)",
+               "Wheelbase": 104.72,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3219,
+               "Gross Weight Limit": 4211
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14,
+               "Highway": 27.7
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S70 R 1997-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2319,
+               "Power": "174.3 KW @ 6000 RPM\n237 HP @ 6000 RPM\n234 BHP @ 6000 RPM",
+               "Torque": "243 lb-ft @ 2700 RPM\n330 Nm @ 2700 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/45 ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 185.82,
+               "Width": 69.29,
+               "Height": 54.72,
+               "Front/rear Track": "59.84/57.87 in (1,520/1,470 mm)",
+               "Wheelbase": 104.72,
+               "Cargo Volume": 16.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3139.4,
+               "Gross Weight Limit": 4210.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.2,
+               "Highway": 28.3,
+               "Combined": 20.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S80 2009-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1595,
+               "Power": "132.4 KW @ 5700 RPM\n180 HP @ 5700 RPM\n178 BHP @ 5700 RPM",
+               "Torque": "177 lb-ft @ 1600-5000 RPM\n240 Nm @ 1600-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 191,
+               "Width": 73.3,
+               "Height": 58.8,
+               "Front/rear Track": "62.1/62 in (1,577/1,575 mm)",
+               "Wheelbase": 111.6,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.29,
+               "Turning circle": 36.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3840,
+               "Gross Weight Limit": 5137
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.5,
+               "Highway": 38.6,
+               "Combined": 31.4,
+               "CO2 Emissions": 175
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S80 2006-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "107 KW @ 6000 RPM\n145 HP @ 6000 RPM\n143 BHP @ 6000 RPM",
+               "Torque": "136 lb-ft @ 4500 RPM\n185 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55R16"
+          },
+          "DIMENSIONS": {
+               "Length": 191,
+               "Width": 73.2,
+               "Height": 58.7,
+               "Front/rear Track": "62.1/62 in (1,577/1,575 mm)",
+               "Wheelbase": 111.6,
+               "Ground Clearance": 5.8,
+               "Cargo Volume": 16.8,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3366,
+               "Gross Weight Limit": 4541.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.6,
+               "Highway": 36.2,
+               "Combined": 28.3,
+               "CO2 Emissions": 199
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S80 2003-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2435,
+               "Power": "103 KW @ 4500 RPM\n140 HP @ 4500 RPM\n138 BHP @ 4500 RPM",
+               "Torque": "162 lb-ft @ 3750 RPM\n220 Nm @ 3750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/65R15"
+          },
+          "DIMENSIONS": {
+               "Length": 189.8,
+               "Width": 72.1,
+               "Height": 57.2,
+               "Front/rear Track": "62.3/61.4 in (1,582/1,560 mm)",
+               "Wheelbase": 109.9,
+               "Ground Clearance": 5.8,
+               "Cargo Volume": 16.2,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3519,
+               "Gross Weight Limit": 4453
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.7,
+               "Highway": 34.1,
+               "Combined": 26.1,
+               "CO2 Emissions": 212
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO S80 1998-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2435,
+               "Power": "147 KW @ 6000 RPM\n200 HP @ 6000 RPM\n197 BHP @ 6000 RPM",
+               "Torque": "210 lb-ft @ 1800 RPM\n285 Nm @ 1800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 142.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55WR16"
+          },
+          "DIMENSIONS": {
+               "Length": 189.8,
+               "Width": 72.1,
+               "Height": 57.2,
+               "Front/rear Track": "62.3/61.4 in (1,582/1,560 mm)",
+               "Wheelbase": 109.9,
+               "Ground Clearance": 5.8,
+               "Cargo Volume": 16.2,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3324.6,
+               "Gross Weight Limit": 4519.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.4,
+               "Highway": 32.7,
+               "Combined": 25.3,
+               "CO2 Emissions": 222
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V40 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1498,
+               "Power": "89.7 KW @ 5000 RPM\n122 HP @ 5000 RPM\n120 BHP @ 5000 RPM",
+               "Torque": "162 lb-ft @ 1600-3500 RPM\n220 Nm @ 1600-3500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 73.1,
+               "Height": 56.7,
+               "Front/rear Track": "61.4/60.9 in (1,560/1,547 mm)",
+               "Wheelbase": 104.2,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 11.4,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3426,
+               "Gross Weight Limit": 4332
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 32.2,
+               "Highway": 52.3,
+               "Combined": 42.8,
+               "CO2 Emissions": 129
+          },
+          "": {}
+     }
+},{
+     "model_name": "2012 Volvo V40",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "88 KW @ 4500 RPM\n120 HP @ 4500 RPM\n118 BHP @ 4500 RPM",
+               "Torque": "18 lb-ft @ 1600-3000 RPM\n24 Nm @ 1600-3000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 70.9,
+               "Height": 56.7,
+               "Front/rear Track": "60.9/60.4 in (1,547/1,534 mm)",
+               "Wheelbase": 104.2,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 11.4,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3225,
+               "Gross Weight Limit": 4211
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 34.6,
+               "Highway": 52.3,
+               "Combined": 44.4,
+               "CO2 Emissions": 124
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V40 2000-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1588,
+               "Power": "80 KW @ 5800 RPM\n109 HP @ 5800 RPM\n107 BHP @ 5800 RPM",
+               "Torque": "107 lb-ft @ 4000 RPM\n145 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 176.37,
+               "Width": 67.71,
+               "Height": 55.51,
+               "Front/rear Track": "57.08/57.87 in (1,450/1,470 mm)",
+               "Wheelbase": 100.39,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.6,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2711.7,
+               "Gross Weight Limit": 3858.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.2,
+               "Highway": 39.2,
+               "Combined": 30.5,
+               "CO2 Emissions": 185
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V40 1996-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1588,
+               "Power": "80 KW @ 5800 RPM\n109 HP @ 5800 RPM\n107 BHP @ 5800 RPM",
+               "Torque": "107 lb-ft @ 4000 RPM\n145 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/55VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 176.37,
+               "Width": 67.71,
+               "Height": 55.51,
+               "Front/rear Track": "57.08/57.87 in (1,450/1,470 mm)",
+               "Wheelbase": 100.39,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2733.7,
+               "Gross Weight Limit": 3858.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.9,
+               "Highway": 36.2,
+               "Combined": 27.7,
+               "CO2 Emissions": 192
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V40 Cross Country 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1498,
+               "Power": "111.8 KW @ 5000 RPM\n152 HP @ 5000 RPM\n150 BHP @ 5000 RPM",
+               "Torque": "184 lb-ft @ 1700-4000 RPM\n250 Nm @ 1700-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60R16"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 73.1,
+               "Height": 57.9,
+               "Front/rear Track": "61.1/60.6 in (1,552/1,539 mm)",
+               "Wheelbase": 104.2,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 11.4,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3468,
+               "Gross Weight Limit": 4354
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 31.8,
+               "Highway": 51.1,
+               "Combined": 42,
+               "CO2 Emissions": 131
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V40 Cross Country 2012-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "132 KW @ 5700 RPM\n179 HP @ 5700 RPM\n177 BHP @ 5700 RPM",
+               "Torque": "177 lb-ft @ 1600-5000 RPM\n240 Nm @ 1600-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 134,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 80.4,
+               "Height": 57.4,
+               "Front/rear Track": "61.1/60.6 in (1,552/1,539 mm)",
+               "Wheelbase": 104.2,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 11.8,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2996,
+               "Gross Weight Limit": 4211
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 29.8,
+               "Highway": 46.1,
+               "Combined": 38.6,
+               "CO2 Emissions": 143
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V50 2007-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "74.3 KW @ 4000 RPM\n101 HP @ 4000 RPM\n100 BHP @ 4000 RPM",
+               "Torque": "111 lb-ft @ - RPM\n150 Nm @ - RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55R16"
+          },
+          "DIMENSIONS": {
+               "Length": 177.7,
+               "Width": 69.7,
+               "Height": 57.2,
+               "Front/rear Track": "60.4/60.3 in (1,534/1,532 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 14.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2930.4,
+               "Gross Weight Limit": 4079.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.8,
+               "Highway": 40.6,
+               "Combined": 32.7,
+               "CO2 Emissions": 171
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V50 2004-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "75.3 KW @ 4000 RPM\n102.4 HP @ 4000 RPM\n101 BHP @ 4000 RPM",
+               "Torque": "111 lb-ft @ - RPM\n150 Nm @ - RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 177.7,
+               "Width": 69.7,
+               "Height": 57.2,
+               "Front/rear Track": "60.6/60.2 in (1,539/1,529 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 14.7,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2722.7,
+               "Gross Weight Limit": 4078.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.8,
+               "Highway": 40.6,
+               "Combined": 32.7,
+               "CO2 Emissions": 171
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V70 2007-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "132 KW @ 5700 RPM\n179 HP @ 5700 RPM\n177 BHP @ 5700 RPM",
+               "Torque": "177 lb-ft @ 1600-5000 RPM\n240 Nm @ 1600-5000 RPM",
+               "Fuel System": "direct high-pressure fuel injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 134,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55R16"
+          },
+          "DIMENSIONS": {
+               "Length": 189.6,
+               "Width": 73.2,
+               "Height": 60.6,
+               "Front/rear Track": "62.6/62.6 in (1,590/1,590 mm)",
+               "Wheelbase": 111,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 20.3,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3779,
+               "Gross Weight Limit": 4828
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24,
+               "Highway": 40.6,
+               "Combined": 32.7,
+               "CO2 Emissions": 168
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V70 2004-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 1984,
+               "Power": "132 KW @ 5500 RPM\n179 HP @ 5500 RPM\n177 BHP @ 5500 RPM",
+               "Torque": "177 lb-ft @ 1850 RPM\n240 Nm @ 1850 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5 Speed Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55R16"
+          },
+          "DIMENSIONS": {
+               "Length": 185.4,
+               "Width": 70.9,
+               "Height": 58.7,
+               "Front/rear Track": "61.4/61.4 in (1,560/1,560 mm)",
+               "Wheelbase": 108.7,
+               "Cargo Volume": 17
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3309.1,
+               "Gross Weight Limit": 4717.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.5,
+               "Highway": 33.6,
+               "Combined": 25.8,
+               "CO2 Emissions": 217
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V70 R 2003-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2521,
+               "Power": "220 KW @ 5500 RPM\n300 HP @ 5500 RPM\n295 BHP @ 5500 RPM",
+               "Torque": "295 lb-ft @ 1950 RPM\n400 Nm @ 1950 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/45 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 185.4,
+               "Width": 70.9,
+               "Height": 58.7,
+               "Front/rear Track": "61.4/61.4 in (1,560/1,560 mm)",
+               "Wheelbase": 108.7,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 17.1,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3708.2,
+               "Gross Weight Limit": 4894.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.8,
+               "Highway": 27.4,
+               "Combined": 21.6,
+               "CO2 Emissions": 261
+          }
+     }
+},{
+     "model_name": "VOLVO V70 2000-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2435,
+               "Power": "103 KW @ 5700 RPM\n140 HP @ 5700 RPM\n138 BHP @ 5700 RPM",
+               "Torque": "162 lb-ft @ 3750 RPM\n220 Nm @ 3750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 185.4,
+               "Width": 70.9,
+               "Height": 58.7,
+               "Front/rear Track": "61.4/61.4 in (1,560/1,560 mm)",
+               "Wheelbase": 108.7,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 17,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3388.5,
+               "Gross Weight Limit": 4629.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.7,
+               "Highway": 35.1,
+               "Combined": 27.4,
+               "CO2 Emissions": 206
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO V70 R 1997-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2319,
+               "Power": "184 KW @ 6000 RPM\n250 HP @ 6000 RPM\n247 BHP @ 6000 RPM",
+               "Torque": "258 lb-ft @ 2400 RPM\n350 Nm @ 2400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/45 ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 185.82,
+               "Width": 69.29,
+               "Height": 55.51,
+               "Front/rear Track": "59.84/57.87 in (1,520/1,470 mm)",
+               "Wheelbase": 104.72,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 16.7,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3258.4,
+               "Gross Weight Limit": 4409.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.2,
+               "Highway": 28.3,
+               "Combined": 20.6
+          }
+     }
+},{
+     "model_name": "VOLVO V70 1997-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "107 KW @ 6000 RPM\n145 HP @ 6000 RPM\n143 BHP @ 6000 RPM",
+               "Torque": "140 lb-ft @ 4500 RPM\n190 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 185.8,
+               "Width": 73.3,
+               "Height": 60.9,
+               "Front/rear Track": "62.5 in (1588 mm)",
+               "Wheelbase": 62.4,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 20.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3472.9,
+               "Gross Weight Limit": 4983.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.6,
+               "Highway": 29,
+               "Combined": 27.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO XC60 Polestar 2018-2021",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1969,
+               "Power": "233.2 KW @ 5800-6100 RPM\n317 HP @ 5800-6100 RPM\n313 BHP @ 5800-6100 RPM",
+               "Torque": "317 lb-ft @ - RPM\n430 Nm @ - RPM",
+               "Electrical motor power": "64.7 kw (88 hp)",
+               "Electrical motor torque": "177 lb-ft (240 Nm)",
+               "Total maximum power": "297.9 kw (405 hp)",
+               "Total maximum torque": "494.2 lb-ft (670 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Hybrid Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 184.6,
+               "Width": 78.7,
+               "Height": 65.3,
+               "Front/rear Track": "64.9/65.1 in (1,648/1,654 mm)",
+               "Wheelbase": 112.8,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 16.5,
+               "Turning circle (curb to curb)": "38.7 ft (11.8 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4883
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 117.6,
+               "CO2 Emissions": 45
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion",
+               "Nominal Capacity": 11.6,
+               "Range": 27.3
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "VOLVO XC70 2007-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "6",
+               "Displacement": 2953,
+               "Power": "224 KW @ 5600 RPM\n305 HP @ 5600 RPM\n300 BHP @ 5600 RPM",
+               "Torque": "325 lb-ft @ 2100-4200 RPM\n441 Nm @ 2100-4200 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed, Automatic Geartronic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 190.6,
+               "Width": 74.4,
+               "Height": 63,
+               "Front/rear Track": "63.4/62.2 in (1,610/1,580 mm)",
+               "Wheelbase": 111,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 20.3,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4295,
+               "Gross Weight Limit": 5313
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.6,
+               "Highway": 29,
+               "Combined": 22.2,
+               "CO2 Emissions": 248
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO XC70 2004-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2521,
+               "Power": "154 KW @ 5000 RPM\n209 HP @ 5000 RPM\n207 BHP @ 5000 RPM",
+               "Torque": "236 lb-ft @ 1500 RPM\n320 Nm @ 1500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65 HR16"
+          },
+          "DIMENSIONS": {
+               "Length": 186.22,
+               "Width": 73.22,
+               "Height": 61.41,
+               "Front/rear Track": "63.4/60.9 in (1,610/1,547 mm)",
+               "Wheelbase": 108.66,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 17.1,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3737,
+               "Gross Weight Limit": 4894
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 29
+          },
+          "": {}
+     }
+},{
+     "model_name": "VOLVO XC70/ V70XC 2000-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2435,
+               "Power": "147 KW @ 6000 RPM\n200 HP @ 6000 RPM\n197 BHP @ 6000 RPM",
+               "Torque": "210 lb-ft @ 1800 RPM\n285 Nm @ 1800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65 HR16"
+          },
+          "DIMENSIONS": {
+               "Length": 186.3,
+               "Width": 73.2,
+               "Height": 61.5,
+               "Front/rear Track": "63.4/60.9 in (1,610/1,547 mm)",
+               "Wheelbase": 108.8,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 17.1,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3606.7,
+               "Gross Weight Limit": 4850.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.7,
+               "Highway": 28,
+               "Combined": 22.4,
+               "CO2 Emissions": 251
+          },
+          "": {}
+     }
+},	
+ ] } 

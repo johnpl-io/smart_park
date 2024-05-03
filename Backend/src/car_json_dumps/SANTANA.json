@@ -1,0 +1,168 @@
+{ "brand_name" : "SANTANA", "models": [
+{
+     "model_name": "SANTANA PS 10 Pickup 2003-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2798,
+               "Power": "92 KW @ 3600 RPM\n125 HP @ 3600 RPM\n123 BHP @ 3600 RPM",
+               "Torque": "203 lb-ft @ 1800 RPM\n275 Nm @ 1800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/85 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 178.8,
+               "Width": 68.9,
+               "Height": 78.8,
+               "Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
+               "Wheelbase": 109.7,
+               "Ground Clearance": 7.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4290,
+               "Gross Weight Limit": 5203
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 23,
+               "CO2 Emissions": 261.1
+          }
+     }
+},{
+     "model_name": "SANTANA PS 10 Shortline 2006-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2798,
+               "Power": "92 KW @ 3600 RPM\n125 HP @ 3600 RPM\n123 BHP @ 3600 RPM",
+               "Torque": "203 lb-ft @ 1800 RPM\n275 Nm @ 1800 RPM",
+               "Fuel System": "Common Rail",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/85 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 168.5,
+               "Width": 68.9,
+               "Height": 78.7,
+               "Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
+               "Ground Clearance": 7.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 23,
+               "CO2 Emissions": 261.1
+          }
+     }
+},{
+     "model_name": "SANTANA 300 - 350 2005-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1560,
+               "Power": "66 KW @ 4000 RPM\n90 HP @ 4000 RPM\n89 BHP @ 4000 RPM",
+               "Torque": "158 lb-ft @ 1750 RPM\n214 Nm @ 1750 RPM",
+               "Fuel System": "Common Rail",
+               "Fuel": "Diesel",
+               "Fuel capacity": 11.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 100
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 144.5,
+               "Width": 64.1,
+               "Height": 65.5,
+               "Front/rear Track": "54.9/55.1 in (1,394/1,400 mm)",
+               "Wheelbase": 86.6,
+               "Ground Clearance": 8.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3018
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 34.5,
+               "Highway": 46.1,
+               "Combined": 41.2,
+               "CO2 Emissions": 149
+          },
+          "": {}
+     }
+},{
+     "model_name": "SANTANA PS 10 Plus 2002-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2798,
+               "Power": "92 KW @ 3600 RPM\n125 HP @ 3600 RPM\n123 BHP @ 3600 RPM",
+               "Torque": "203 lb-ft @ 1800 RPM\n275 Nm @ 1800 RPM",
+               "Fuel System": "Common Rail",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/85 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 184.1,
+               "Width": 68.9,
+               "Height": 78.7,
+               "Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
+               "Wheelbase": 109.7,
+               "Ground Clearance": 7.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4576,
+               "Gross Weight Limit": 6776
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 23
+          }
+     }
+},	
+ ] } 

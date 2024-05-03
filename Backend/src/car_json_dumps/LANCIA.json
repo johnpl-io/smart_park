@@ -1,0 +1,2482 @@
+{ "brand_name" : "LANCIA", "models": [
+{
+     "model_name": "2025 Lancia Ypsilon",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "114.7 kw (156 hp)",
+               "Electrical motor torque": "191.8 lb-ft (260 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 160.6,
+               "Width": 69.3,
+               "Height": 56.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3492
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 51,
+               "Range": 250.4
+          },
+          "NOTES": {
+               "Energy consumption": "14.3 to 14.6 kWh per 100 km\nCharging time: DC: 24 minutes (20% to 80%)"
+          }
+     }
+},{
+     "model_name": "2021 Lancia Ypsilon",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L2",
+               "Displacement": 875,
+               "Power": "61.8 KW @ 5500 RPM\n84 HP @ 5500 RPM\n83 BHP @ 5500 RPM",
+               "Torque": "107 lb-ft @ 1900 RPM\n145 Nm @ 1900 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 10.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 13
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/55 R15 82 H"
+          },
+          "DIMENSIONS": {
+               "Length": 151.3,
+               "Width": 73.8,
+               "Height": 59.8,
+               "Front/rear Track": "56/55.7 in (1,422/1,415 mm)",
+               "Wheelbase": 91.3,
+               "Cargo Volume": 8.7,
+               "Turning circle": 30.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2568
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 36.2,
+               "CO2 Emissions (Combined)": "147 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2015 Lancia Ypsilon",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L2",
+               "Displacement": 875,
+               "Power": "61.8 KW @ 5500 RPM\n84 HP @ 5500 RPM\n83 BHP @ 5500 RPM",
+               "Torque": "107 lb-ft @ 1900 RPM\n145 Nm @ 1900 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 10.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/55 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 151.1,
+               "Width": 66,
+               "Height": 59.8,
+               "Front/rear Track": "55.6/55.4 in (1,412/1,407 mm)",
+               "Wheelbase": 94.1,
+               "Ground Clearance": 6,
+               "Cargo Volume": 8.7,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2326
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 48,
+               "Highway": 63.6,
+               "Combined": 57.4,
+               "CO2 Emissions": 97
+          },
+          "": {}
+     }
+},{
+     "model_name": "2011 Lancia Ypsilon",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L2",
+               "Displacement": 875,
+               "Power": "62.5 KW @ 5500 RPM\n85 HP @ 5500 RPM\n84 BHP @ 5500 RPM",
+               "Torque": "107 lb-ft @ 1900 RPM\n145 Nm @ 1900 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/55 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 151.3,
+               "Width": 66,
+               "Height": 59.7,
+               "Front/rear Track": "56/55.7 in (1,422/1,415 mm)",
+               "Wheelbase": 94.1,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 8.7,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2161,
+               "Gross Weight Limit": 3340
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 48,
+               "Highway": 63.6,
+               "Combined": 57.4,
+               "CO2 Emissions": 97
+          },
+          "": {}
+     }
+},{
+     "model_name": "2011 Lancia Ypsilon Unyca",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 1242,
+               "Power": "51 KW @ 5500 RPM\n69 HP @ 5500 RPM\n68 BHP @ 5500 RPM",
+               "Torque": "75 lb-ft @ 3000 RPM\n102 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed, Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/55 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 150,
+               "Width": 67.1,
+               "Height": 60.2,
+               "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
+               "Wheelbase": 94,
+               "Cargo Volume": 7.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2083
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 36.2,
+               "Highway": 58.8,
+               "Combined": 48,
+               "CO2 Emissions": 114
+          },
+          "": {}
+     }
+},{
+     "model_name": "2006 Lancia Ypsilon",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1242,
+               "Power": "58.8 KW @ 5000 RPM\n80 HP @ 5000 RPM\n79 BHP @ 5000 RPM",
+               "Torque": "84 lb-ft @ 25004000 RPM\n114 Nm @ 25004000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 103,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65R14"
+          },
+          "DIMENSIONS": {
+               "Length": 150,
+               "Width": 66.9,
+               "Height": 60.2,
+               "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
+               "Wheelbase": 94.1,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 7.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2028.3,
+               "Gross Weight Limit": 3218.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.5,
+               "Highway": 47,
+               "Combined": 39.2,
+               "CO2 Emissions": 142
+          },
+          "": {}
+     }
+},{
+     "model_name": "2003 Lancia Ypsilon",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1242,
+               "Power": "44 KW @ 5000 RPM\n60 HP @ 5000 RPM\n59 BHP @ 5000 RPM",
+               "Torque": "75 lb-ft @ 2500 RPM\n102 Nm @ 2500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 95.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 16.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65R14"
+          },
+          "DIMENSIONS": {
+               "Length": 148.8,
+               "Width": 66.9,
+               "Height": 60.2,
+               "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
+               "Wheelbase": 94.1,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 7.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2028.3,
+               "Gross Weight Limit": 3218.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.5,
+               "Highway": 47,
+               "Combined": 39.2,
+               "CO2 Emissions": 142
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA 2000 Coupe 1971-1974",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "H4",
+               "Displacement": 1991,
+               "Power": "84.6 KW @ 5500 RPM\n115 HP @ 5500 RPM\n113 BHP @ 5500 RPM",
+               "Torque": "123 lb-ft @ 3500 RPM\n167 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175 SR 14"
+          },
+          "DIMENSIONS": {
+               "Length": 179.3,
+               "Width": 63.2,
+               "Height": 52.4,
+               "Front/rear Track": "52.4/50.7 in (1,331/1,288 mm)",
+               "Wheelbase": 97.6,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.41
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2646,
+               "Gross Weight Limit": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 22
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA A112 1982-1986",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 903,
+               "Power": "31 KW @ 5500 RPM\n42 HP @ 5500 RPM\n42 BHP @ 5500 RPM",
+               "Torque": "49 lb-ft @ 3000 RPM\n67 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 80.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 18.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "135SR13"
+          },
+          "DIMENSIONS": {
+               "Length": 128.7,
+               "Width": 55.1,
+               "Height": 53.5,
+               "Front/rear Track": "49.2/48 in (1,250/1,219 mm)",
+               "Wheelbase": 80.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1444,
+               "Gross Weight Limit": 2325.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA A112 Abarth 1984-1986",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1050,
+               "Power": "51 KW @ 6600 RPM\n70 HP @ 6600 RPM\n68 BHP @ 6600 RPM",
+               "Torque": "64 lb-ft @ 4200 RPM\n87 Nm @ 4200 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 96.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "135SR13"
+          },
+          "DIMENSIONS": {
+               "Length": 128.7,
+               "Width": 55.1,
+               "Height": 53.5,
+               "Front/rear Track": "49.2/48 in (1,250/1,219 mm)",
+               "Wheelbase": 80.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1543.2,
+               "Gross Weight Limit": 2425.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 31.8,
+               "CO2 Emissions": 176
+          }
+     }
+},{
+     "model_name": "LANCIA Alpha 1907-1909",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2543,
+               "Power": "20.6 KW @ - RPM\n28 HP @ - RPM\n28 BHP @ - RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 50
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Wheelbase": 111
+          }
+     }
+},{
+     "model_name": "LANCIA Aprilia 1937-1939",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V4",
+               "Displacement": 1352,
+               "Power": "34 KW @ 4000 RPM\n47 HP @ 4000 RPM\n46 BHP @ 4000 RPM",
+               "Torque": "70 lb-ft @ 2000 RPM\n95 Nm @ 2000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 78,
+               "Acceleration 0-62 Mph (0-100 kph)": 27
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165 - 400"
+          },
+          "DIMENSIONS": {
+               "Length": 156,
+               "Width": 58,
+               "Height": 60.2,
+               "Front/rear Track": "50/50 in (1,270/1,270 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 7.5,
+               "Aerodynamics (Cd)": 0.47
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1940
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 23.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Ardea 1945-1953",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V4",
+               "Displacement": 903,
+               "Power": "22.4 KW @ 4600 RPM\n30.4 HP @ 4600 RPM\n30 BHP @ 4600 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 65
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "145 x 400"
+          },
+          "DIMENSIONS": {
+               "Length": 142.3,
+               "Width": 54.3,
+               "Front/rear Track": "46.5/46.5 in (1,181/1,181 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 6.7,
+               "Aerodynamics (Cd)": 0.47
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1720
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 31.4
+          }
+     }
+},{
+     "model_name": "LANCIA Ardea 1939-1946",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V4",
+               "Displacement": 903,
+               "Power": "19.4 KW @ 4600 RPM\n26.4 HP @ 4600 RPM\n26 BHP @ 4600 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 63
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "145x400"
+          },
+          "DIMENSIONS": {
+               "Length": 145.7,
+               "Width": 54.3,
+               "Front/rear Track": "46.5/46.5 in (1,181/1,181 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 6.7,
+               "Aerodynamics (Cd)": 0.47
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1720
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.2
+          }
+     }
+},{
+     "model_name": "LANCIA Artena 1934-1936",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V4",
+               "Displacement": 1927,
+               "Power": "39.7 KW @ 3600 RPM\n54 HP @ 3600 RPM\n53 BHP @ 3600 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 96
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 66.1,
+               "Front/rear Track": "55.5/55.5 in (1,410/1,410 mm)",
+               "Wheelbase": 116.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2976
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 18.1
+          }
+     }
+},{
+     "model_name": "LANCIA Astura 1933-1937",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2973,
+               "Power": "60 KW @ 4000 RPM\n82 HP @ 4000 RPM\n80 BHP @ 4000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 80
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 190.6,
+               "Width": 63.8,
+               "Front/rear Track": "55.1/55.1 in (1,400/1,400 mm)",
+               "Wheelbase": 136.7,
+               "Ground Clearance": 6.9
+          }
+     }
+},{
+     "model_name": "LANCIA Astura 1931-1933",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2606,
+               "Power": "53 KW @ 4000 RPM\n72 HP @ 4000 RPM\n71 BHP @ 4000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          }
+     }
+},{
+     "model_name": "LANCIA Augusta 1933-1937",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1196,
+               "Power": "26 KW @ 4000 RPM\n35 HP @ 4000 RPM\n35 BHP @ 4000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "400 X 140"
+          },
+          "DIMENSIONS": {
+               "Length": 159.4,
+               "Width": 57.1,
+               "Height": 61,
+               "Front/rear Track": "48.1/48.1 in (1,222/1,222 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 6.7
+          }
+     }
+},{
+     "model_name": "LANCIA Beta 1975-1982",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1585,
+               "Power": "74 KW @ 5800 RPM\n100 HP @ 5800 RPM\n99 BHP @ 5800 RPM",
+               "Torque": "99 lb-ft @ 3000 RPM\n134 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70SR14"
+          },
+          "DIMENSIONS": {
+               "Length": 170.1,
+               "Width": 67.3,
+               "Height": 55.1,
+               "Front/rear Track": "55.5/54.7 in (1,410/1,389 mm)",
+               "Wheelbase": 100
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2524.3,
+               "Gross Weight Limit": 3626.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 25.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Beta 1909-1909",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 3119,
+               "Power": "25 KW @ 1500 RPM\n34 HP @ 1500 RPM\n34 BHP @ 1500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          }
+     }
+},{
+     "model_name": "LANCIA Beta Coupe 1973-1984",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1585,
+               "Power": "74 KW @ 5800 RPM\n100 HP @ 5800 RPM\n99 BHP @ 5800 RPM",
+               "Torque": "99 lb-ft @ 3000 RPM\n134 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 110.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70SR14"
+          },
+          "DIMENSIONS": {
+               "Length": 157.5,
+               "Width": 65,
+               "Height": 50.4,
+               "Front/rear Track": "55.5/54.7 in (1,410/1,389 mm)",
+               "Wheelbase": 92.5,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 12.7,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2204.6,
+               "Gross Weight Limit": 3086.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.9,
+               "Highway": 37.3,
+               "Combined": 26.4,
+               "CO2 Emissions": 214
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Beta Montecarlo 1974-1979",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1995,
+               "Power": "88.3 KW @ 6000 RPM\n120 HP @ 6000 RPM\n118 BHP @ 6000 RPM",
+               "Torque": "125 lb-ft @ 3500 RPM\n170 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/70 HR 13"
+          },
+          "DIMENSIONS": {
+               "Length": 150,
+               "Width": 67,
+               "Height": 46.9,
+               "Front/rear Track": "55.6/57.3 in (1,412/1,455 mm)",
+               "Wheelbase": 90.6,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 7.1,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2293,
+               "Gross Weight Limit": 2756
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.6,
+               "Highway": 32.7,
+               "Combined": 23.5
+          }
+     }
+},{
+     "model_name": "LANCIA Beta Spider 1973-1982",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1585,
+               "Power": "74 KW @ 5800 RPM\n100 HP @ 5800 RPM\n99 BHP @ 5800 RPM",
+               "Torque": "99 lb-ft @ 3000 RPM\n134 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 110.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70SR14"
+          },
+          "DIMENSIONS": {
+               "Length": 159.1,
+               "Width": 65,
+               "Height": 49.6,
+               "Front/rear Track": "55.5/54.7 in (1,410/1,389 mm)",
+               "Wheelbase": 92.5,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 12.7,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2314.8,
+               "Gross Weight Limit": 3108.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.4,
+               "Highway": 27.4,
+               "Combined": 25.3,
+               "CO2 Emissions": 214
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Dedra 1995-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1581,
+               "Power": "66 KW @ 5750 RPM\n90 HP @ 5750 RPM\n89 BHP @ 5750 RPM",
+               "Torque": "94 lb-ft @ 2750 RPM\n127 Nm @ 2750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65TR14"
+          },
+          "DIMENSIONS": {
+               "Length": 170.9,
+               "Width": 66.9,
+               "Height": 56.3,
+               "Front/rear Track": "57.5/55.9 in (1,461/1,420 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 16.9,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2513.3,
+               "Gross Weight Limit": 3439.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.4,
+               "Highway": 38.6,
+               "Combined": 29.8,
+               "CO2 Emissions": 188
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Dedra 1990-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1581,
+               "Power": "59 KW @ 6000 RPM\n80 HP @ 6000 RPM\n79 BHP @ 6000 RPM",
+               "Torque": "92 lb-ft @ 3000 RPM\n124 Nm @ 3000 RPM",
+               "Fuel System": "Indirect Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65TR14"
+          },
+          "DIMENSIONS": {
+               "Length": 170.9,
+               "Width": 66.9,
+               "Height": 56.3,
+               "Front/rear Track": "56.7/55.9 in (1,440/1,420 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 16.9,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2385.4,
+               "Gross Weight Limit": 3439.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28.3,
+               "CO2 Emissions": 198
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Dedra Station Wagon 1994-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1581,
+               "Power": "66 KW @ 5750 RPM\n90 HP @ 5750 RPM\n89 BHP @ 5750 RPM",
+               "Torque": "94 lb-ft @ 2750 RPM\n127 Nm @ 2750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 108.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65 TR14"
+          },
+          "DIMENSIONS": {
+               "Length": 170.9,
+               "Width": 66.9,
+               "Height": 57.1,
+               "Front/rear Track": "57.5/55.9 in (1,461/1,420 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 15.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2601.5,
+               "Gross Weight Limit": 3703.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.2,
+               "Highway": 37.3,
+               "Combined": 29,
+               "CO2 Emissions": 193
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Delta 2013-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1368,
+               "Power": "88 KW @ 5000 RPM\n120 HP @ 5000 RPM\n118 BHP @ 5000 RPM",
+               "Torque": "152 lb-ft @ 1750 RPM\n206 Nm @ 1750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 177.9,
+               "Width": 70.7,
+               "Height": 59,
+               "Front/rear Track": "60.5/60.2 in (1,537/1,529 mm)",
+               "Wheelbase": 106.3,
+               "Cargo Volume": 13.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3075.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27,
+               "Highway": 43.5,
+               "Combined": 35.6,
+               "CO2 Emissions": 156
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Delta 2008-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1368,
+               "Power": "88 KW @ 5000 RPM\n120 HP @ 5000 RPM\n118 BHP @ 5000 RPM",
+               "Torque": "152 lb-ft @ 1750 RPM\n206 Nm @ 1750 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 177.9,
+               "Width": 70.7,
+               "Height": 59,
+               "Front/rear Track": "60.5/60.2 in (1,537/1,529 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 13.4,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3075.4,
+               "Gross Weight Limit": 4167
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28.3,
+               "Highway": 45.2,
+               "Combined": 37.3,
+               "CO2 Emissions": 149
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Delta 1993-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1581,
+               "Power": "76 KW @ 5750 RPM\n103 HP @ 5750 RPM\n102 BHP @ 5750 RPM",
+               "Torque": "106 lb-ft @ 4000 RPM\n144 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60 HR14"
+          },
+          "DIMENSIONS": {
+               "Length": 157.9,
+               "Width": 66.9,
+               "Height": 55.1,
+               "Front/rear Track": "56.7/55.9 in (1,440/1,420 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 11.3,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2491.2,
+               "Gross Weight Limit": 3681.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.9,
+               "CO2 Emissions": 181
+          },
+          "": {}
+     }
+},{
+     "model_name": "1979 Lancia Delta",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1301,
+               "Power": "55 KW @ 5800 RPM\n75 HP @ 5800 RPM\n74 BHP @ 5800 RPM",
+               "Torque": "77 lb-ft @ 3500 RPM\n105 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 96.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/80 R16 S"
+          },
+          "DIMENSIONS": {
+               "Length": 152.8,
+               "Width": 63.8,
+               "Height": 54.3,
+               "Front/rear Track": "55.1/55.1 in (1,400/1,400 mm)",
+               "Wheelbase": 96.9,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 9.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2105.4,
+               "Gross Weight Limit": 2987.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 27,
+               "CO2 Emissions": 207
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Delta HPE 1995-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1581,
+               "Power": "76 KW @ 5750 RPM\n103 HP @ 5750 RPM\n102 BHP @ 5750 RPM",
+               "Torque": "106 lb-ft @ 4000 RPM\n144 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60 HR14"
+          },
+          "DIMENSIONS": {
+               "Length": 157.9,
+               "Width": 69.3,
+               "Height": 56.3,
+               "Front/rear Track": "58.3/55.9 in (1,481/1,420 mm)",
+               "Wheelbase": 100,
+               "Cargo Volume": 11.3,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2491.2,
+               "Gross Weight Limit": 3681.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.9,
+               "CO2 Emissions": 181
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Dilambda 1928-1933",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3958,
+               "Power": "75 KW @ 4000 RPM\n101 HP @ 4000 RPM\n101 BHP @ 4000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          }
+     }
+},{
+     "model_name": "LANCIA Flaminia Coupe 1958-1967",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2458,
+               "Power": "95 KW @ 5600 RPM\n129 HP @ 5600 RPM\n127 BHP @ 5600 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 110
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 184.5,
+               "Width": 68.5,
+               "Height": 55.9,
+               "Wheelbase": 113
+          }
+     }
+},{
+     "model_name": "LANCIA Flaminia Sedan 1963-1970",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2775,
+               "Power": "95 KW @ 5000 RPM\n129 HP @ 5000 RPM\n127 BHP @ 5000 RPM",
+               "Torque": "169 lb-ft @ 2500 RPM\n229 Nm @ 2500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 - R16"
+          },
+          "DIMENSIONS": {
+               "Length": 189,
+               "Width": 68,
+               "Height": 51,
+               "Front/rear Track": "54.3/53.5 in (1,379/1,359 mm)",
+               "Wheelbase": 113,
+               "Ground Clearance": 5.1,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2749
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "CO2 Emissions": 247
+          }
+     }
+},{
+     "model_name": "LANCIA Flavia 2013-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2360,
+               "Power": "129 KW @ 6000 RPM\n175 HP @ 6000 RPM\n173 BHP @ 6000 RPM",
+               "Torque": "166 lb-ft @ 4400 RPM\n225 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55R17"
+          },
+          "DIMENSIONS": {
+               "Length": 194.8,
+               "Width": 72.6,
+               "Height": 57.9,
+               "Front/rear Track": "61.7/62.8 in (1,567/1,595 mm)",
+               "Wheelbase": 108.9,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 7,
+               "Aerodynamics (Cd)": 0.342
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3891,
+               "Gross Weight Limit": 4700
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.3,
+               "Highway": 33.6,
+               "Combined": 25,
+               "CO2 Emissions": 221
+          }
+     }
+},{
+     "model_name": "LANCIA Flavia Convertible 1960-1967",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "B4",
+               "Displacement": 1488,
+               "Power": "67 KW @ 5800 RPM\n92 HP @ 5800 RPM\n90 BHP @ 5800 RPM",
+               "Torque": "85 lb-ft @ 4500 RPM\n115 Nm @ 4500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 90
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 176.5,
+               "Width": 63.4,
+               "Height": 53
+          }
+     }
+},{
+     "model_name": "LANCIA Flavia Sedan 1967-1970",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "98 KW @ 5400 RPM\n134 HP @ 5400 RPM\n131 BHP @ 5400 RPM",
+               "Torque": "132 lb-ft @ 4200 RPM\n179 Nm @ 4200 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 110
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "DIMENSIONS": {
+               "Length": 184,
+               "Width": 53.5,
+               "Height": 59.5,
+               "Front/rear Track": "52/50.5 in (1,321/1,283 mm)",
+               "Wheelbase": 104.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2624
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Flavia Sedan 1960-1963",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "B4",
+               "Displacement": 1488,
+               "Power": "57 KW @ 5200 RPM\n78 HP @ 5200 RPM\n76 BHP @ 5200 RPM",
+               "Torque": "85 lb-ft @ 4500 RPM\n115 Nm @ 4500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 180.7,
+               "Width": 63.8,
+               "Height": 59.8,
+               "Wheelbase": 104.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2623.5
+          }
+     }
+},{
+     "model_name": "LANCIA Fulvia Berlina 1969-1972",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V4",
+               "Displacement": 1298,
+               "Power": "64 KW @ 6200 RPM\n87 HP @ 6200 RPM\n86 BHP @ 6200 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          }
+     }
+},{
+     "model_name": "LANCIA Fulvia Berlina 1963-1964",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V4",
+               "Displacement": 1091,
+               "Power": "43 KW @ 6000 RPM\n58 HP @ 6000 RPM\n58 BHP @ 6000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          }
+     }
+},{
+     "model_name": "LANCIA Fulvia Coupe 1965-1969",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1216,
+               "Power": "59 KW @ 6200 RPM\n80 HP @ 6200 RPM\n79 BHP @ 6200 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Gamma 1976-1980",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "B4",
+               "Displacement": 1999,
+               "Power": "86 KW @ 5500 RPM\n117 HP @ 5500 RPM\n115 BHP @ 5500 RPM",
+               "Torque": "127 lb-ft @ 3500 RPM\n172 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 180,
+               "Width": 68,
+               "Height": 56,
+               "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 4.9,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2910
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Gamma 20HP 1910",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 3456,
+               "Power": "29 KW @ 1500 RPM\n40 HP @ 1500 RPM\n39 BHP @ 1500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          }
+     }
+},{
+     "model_name": "LANCIA Gamma Coupe 1976-1980",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "B4",
+               "Displacement": 1999,
+               "Power": "86 KW @ 5500 RPM\n117 HP @ 5500 RPM\n115 BHP @ 5500 RPM",
+               "Torque": "127 lb-ft @ 3500 RPM\n172 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "DIMENSIONS": {
+               "Length": 176,
+               "Width": 68,
+               "Height": 53,
+               "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
+               "Wheelbase": 100.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2800
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Kappa 1995-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 1998,
+               "Power": "107 KW @ 6100 RPM\n145 HP @ 6100 RPM\n143 BHP @ 6100 RPM",
+               "Torque": "136 lb-ft @ 4500 RPM\n185 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65/R15"
+          },
+          "DIMENSIONS": {
+               "Length": 184.6,
+               "Width": 72,
+               "Height": 57.5,
+               "Front/rear Track": "61/60.2 in (1,549/1,529 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 18.5,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3139.4,
+               "Gross Weight Limit": 4387.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 24.5,
+               "CO2 Emissions": 228
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Kappa Coupe 1997-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2446,
+               "Power": "129 KW @ 6100 RPM\n175 HP @ 6100 RPM\n173 BHP @ 6100 RPM",
+               "Torque": "170 lb-ft @ 3750 RPM\n230 Nm @ 3750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 135.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55WR16"
+          },
+          "DIMENSIONS": {
+               "Length": 179.9,
+               "Width": 72,
+               "Height": 55.9,
+               "Front/rear Track": "61/60.2 in (1,549/1,529 mm)",
+               "Wheelbase": 101.6,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 17.6,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3141.6,
+               "Gross Weight Limit": 4332.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.7,
+               "Highway": 28.7,
+               "Combined": 22,
+               "CO2 Emissions": 256
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Kappa SW 1996-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 1998,
+               "Power": "114 KW @ 6500 RPM\n155 HP @ 6500 RPM\n153 BHP @ 6500 RPM",
+               "Torque": "137 lb-ft @ 4000 RPM\n186 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 10
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65/R15"
+          },
+          "DIMENSIONS": {
+               "Length": 184.6,
+               "Width": 72,
+               "Height": 57.5,
+               "Front/rear Track": "61/60.2 in (1,549/1,529 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 17.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3282.7,
+               "Gross Weight Limit": 4387.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.7,
+               "Highway": 28,
+               "Combined": 21.8,
+               "CO2 Emissions": 258
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Lambda 1922-1931",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V4",
+               "Displacement": 2119,
+               "Power": "37 KW @ 3250 RPM\n49 HP @ 3250 RPM\n50 BHP @ 3250 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 75
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "14 X 50"
+          },
+          "DIMENSIONS": {
+               "Length": 180,
+               "Width": 65.4,
+               "Height": 63,
+               "Front/rear Track": "53.5/53.5 in (1,359/1,359 mm)",
+               "Wheelbase": 134.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1764,
+               "Gross Weight Limit": 2463
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Lybra Sedan 1999-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1581,
+               "Power": "76 KW @ 5750 RPM\n103 HP @ 5750 RPM\n102 BHP @ 5750 RPM",
+               "Torque": "106 lb-ft @ 4000 RPM\n144 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65HR15"
+          },
+          "DIMENSIONS": {
+               "Length": 176,
+               "Width": 68.5,
+               "Height": 57.5,
+               "Front/rear Track": "59.1/57.5 in (1,501/1,461 mm)",
+               "Wheelbase": 102,
+               "Cargo Volume": 14.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2700.7,
+               "Gross Weight Limit": 3902.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.9,
+               "Highway": 37.3,
+               "Combined": 28,
+               "CO2 Emissions": 199
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Lybra SW 1999-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1581,
+               "Power": "76 KW @ 5750 RPM\n103 HP @ 5750 RPM\n102 BHP @ 5750 RPM",
+               "Torque": "106 lb-ft @ 4000 RPM\n144 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65HR15"
+          },
+          "DIMENSIONS": {
+               "Length": 176,
+               "Width": 68.5,
+               "Height": 57.9,
+               "Front/rear Track": "59.1/57.5 in (1,501/1,461 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2788.8,
+               "Gross Weight Limit": 4001.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.3,
+               "Highway": 36.8,
+               "Combined": 27.4,
+               "CO2 Emissions": 203
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Musa 2003-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1368,
+               "Power": "57 KW @ 6000 RPM\n77 HP @ 6000 RPM\n76 BHP @ 6000 RPM",
+               "Torque": "85 lb-ft @ 3000 RPM\n115 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 101.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60 R15 88T"
+          },
+          "DIMENSIONS": {
+               "Length": 156.9,
+               "Width": 66.9,
+               "Height": 66.5,
+               "Front/rear Track": "56.9/56.3 in (1,445/1,430 mm)",
+               "Wheelbase": 98.7,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 11.3,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2546.8,
+               "Gross Weight Limit": 3648.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 29.8,
+               "Highway": 45.2,
+               "Combined": 37.9,
+               "CO2 Emissions": 146
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Phedra 2002-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "100 KW @ 6000 RPM\n136 HP @ 6000 RPM\n134 BHP @ 6000 RPM",
+               "Torque": "140 lb-ft @ 4100 RPM\n190 Nm @ 4100 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/65R 15"
+          },
+          "DIMENSIONS": {
+               "Length": 111.2,
+               "Width": 186.2,
+               "Height": 68.9,
+               "Front/rear Track": "61.8/63 in (1,570/1,600 mm)",
+               "Wheelbase": 111.2,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 11.4,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3472,
+               "Gross Weight Limit": 5247
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.2,
+               "Highway": 32.2,
+               "Combined": 24.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Prisma 1983-1990",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1301,
+               "Power": "57 KW @ 5800 RPM\n77 HP @ 5800 RPM\n76 BHP @ 5800 RPM",
+               "Torque": "77 lb-ft @ 3400 RPM\n105 Nm @ 3400 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 101.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/70SR13"
+          },
+          "DIMENSIONS": {
+               "Length": 164.6,
+               "Width": 63.8,
+               "Height": 54.3,
+               "Front/rear Track": "55.1/55.1 in (1,400/1,400 mm)",
+               "Wheelbase": 97.6,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2061.3,
+               "Gross Weight Limit": 3053.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.9,
+               "CO2 Emissions": 181
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Stratos 1973-1975",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2419,
+               "Power": "139 KW @ 7000 RPM\n190 HP @ 7000 RPM\n186 BHP @ 7000 RPM",
+               "Torque": "166 lb-ft @ 4000 RPM\n225 Nm @ 4000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70 VR 14"
+          },
+          "DIMENSIONS": {
+               "Length": 146,
+               "Width": 68.9,
+               "Height": 43.7,
+               "Front/rear Track": "56.3/57.5 in (1,430/1,461 mm)",
+               "Wheelbase": 85.8,
+               "Ground Clearance": 5.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2161
+          }
+     }
+},{
+     "model_name": "2011 Lancia Thema",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3604,
+               "Power": "210 KW @ 6350 RPM\n286 HP @ 6350 RPM\n282 BHP @ 6350 RPM",
+               "Torque": "251 lb-ft @ 4650 RPM\n340 Nm @ 4650 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "345 x 28 Ventilated Discs",
+               "Rear": "320 x 22 Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55 R18 or 245/45 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 199.4,
+               "Width": 74.9,
+               "Height": 58.6,
+               "Front/rear Track": "63.9/64.6 in (1,623/1,641 mm)",
+               "Wheelbase": 120.2,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 16.3,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4136,
+               "Gross Weight Limit": 5201
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.9,
+               "Highway": 35.1,
+               "Combined": 25,
+               "CO2 Emissions": 219
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Thema 1992-1995",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1995,
+               "Power": "85 KW @ 5600 RPM\n116 HP @ 5600 RPM\n114 BHP @ 5600 RPM",
+               "Torque": "120 lb-ft @ 4000 RPM\n162 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70HR14"
+          },
+          "DIMENSIONS": {
+               "Length": 181.1,
+               "Width": 68.9,
+               "Height": 56.3,
+               "Front/rear Track": "58.3/57.9 in (1,481/1,471 mm)",
+               "Wheelbase": 104.7,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 19.4,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2647.8,
+               "Gross Weight Limit": 3747.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28.7,
+               "CO2 Emissions": 195
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Thema 1988-1992",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1995,
+               "Power": "85 KW @ 5600 RPM\n116 HP @ 5600 RPM\n114 BHP @ 5600 RPM",
+               "Torque": "120 lb-ft @ 4000 RPM\n162 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70HR14"
+          },
+          "DIMENSIONS": {
+               "Length": 180.7,
+               "Width": 68.9,
+               "Height": 56.3,
+               "Front/rear Track": "58.3/57.9 in (1,481/1,471 mm)",
+               "Wheelbase": 104.7,
+               "Cargo Volume": 19.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2524.3,
+               "Gross Weight Limit": 3736.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28.7,
+               "CO2 Emissions": 195
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Thema 1984-1988",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1995,
+               "Power": "85 KW @ 5600 RPM\n116 HP @ 5600 RPM\n114 BHP @ 5600 RPM",
+               "Torque": "120 lb-ft @ 4000 RPM\n162 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 180.7,
+               "Width": 69.3,
+               "Height": 56.3,
+               "Front/rear Track": "58.7/58.3 in (1,491/1,481 mm)",
+               "Wheelbase": 104.7,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 19.4,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2469.2,
+               "Gross Weight Limit": 3571.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28.7,
+               "CO2 Emissions": 195
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Thesis 2001-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 1998,
+               "Power": "136 KW @ 5500 RPM\n185 HP @ 5500 RPM\n182 BHP @ 5500 RPM",
+               "Torque": "227 lb-ft @ 2200 RPM\n308 Nm @ 2200 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 139.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60R 16"
+          },
+          "DIMENSIONS": {
+               "Length": 192.4,
+               "Width": 72,
+               "Height": 57.7,
+               "Front/rear Track": "61.8/60.7 in (1,570/1,542 mm)",
+               "Wheelbase": 110.4,
+               "Cargo Volume": 14.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3737.5,
+               "Gross Weight Limit": 4862
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.5,
+               "Highway": 28.3,
+               "Combined": 21.6,
+               "CO2 Emissions": 264
+          },
+          "": {}
+     }
+},{
+     "model_name": "1913 Lancia Theta",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 4942,
+               "Power": "51 KW @ 2500 RPM\n70 HP @ 2500 RPM\n68 BHP @ 2500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          }
+     }
+},{
+     "model_name": "LANCIA Trevi 1981-1985",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1995,
+               "Power": "85 KW @ 5500 RPM\n116 HP @ 5500 RPM\n114 BHP @ 5500 RPM",
+               "Torque": "130 lb-ft @ 2800 RPM\n176 Nm @ 2800 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70HR14"
+          },
+          "DIMENSIONS": {
+               "Length": 171.7,
+               "Width": 67.3,
+               "Height": 55.1,
+               "Front/rear Track": "55.5/54.7 in (1,410/1,389 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 15.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2568.4,
+               "Gross Weight Limit": 3670.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 23.8,
+               "CO2 Emissions": 236
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Voyager 2011-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3605,
+               "Power": "208 KW @ 6600 RPM\n283 HP @ 6600 RPM\n279 BHP @ 6600 RPM",
+               "Torque": "254 lb-ft @ 4400 RPM\n344 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/65R17"
+          },
+          "DIMENSIONS": {
+               "Length": 205.4,
+               "Width": 78.7,
+               "Height": 68.9,
+               "Front/rear Track": "65.5/64.8 in (1,664/1,646 mm)",
+               "Wheelbase": 121.2,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 33,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4610
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.9,
+               "Highway": 29.8,
+               "Combined": 21.8,
+               "CO2 Emissions": 251
+          },
+          "": {}
+     }
+},{
+     "model_name": "LANCIA Zeta 1994-2001",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "108 KW @ 5300 RPM\n147 HP @ 5300 RPM\n145 BHP @ 5300 RPM",
+               "Torque": "173 lb-ft @ 2500 RPM\n235 Nm @ 2500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/65HR15"
+          },
+          "DIMENSIONS": {
+               "Length": 176,
+               "Width": 72,
+               "Height": 67.7,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 111,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 12
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3417.2,
+               "Gross Weight Limit": 5158.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.9,
+               "Highway": 26.1,
+               "Combined": 21.2,
+               "CO2 Emissions": 264
+          },
+          "": {}
+     }
+},	
+ ] } 

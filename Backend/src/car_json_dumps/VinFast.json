@@ -1,0 +1,71 @@
+{ "brand_name" : "VinFast", "models": [
+{
+     "model_name": "VinFast VF 8 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "295.7 kw (402 hp)",
+               "Total maximum torque": "457.3 lb-ft (620 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 5.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated discs"
+          },
+          "DIMENSIONS": {
+               "Length": 187,
+               "Width": 74.8,
+               "Height": 65.4,
+               "Wheelbase": 116.1,
+               "Ground Clearance": 7.1
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion",
+               "Nominal Capacity": 87.7,
+               "Range": 277.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "VinFast VF 9 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "295.7 kw (402 hp)",
+               "Total maximum torque": "457.3 lb-ft (620 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated discs"
+          },
+          "DIMENSIONS": {
+               "Length": 201.6,
+               "Width": 78.7,
+               "Height": 67.8,
+               "Wheelbase": 128,
+               "Ground Clearance": 8
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion",
+               "Nominal Capacity": 123,
+               "Range": 360.4
+          },
+          "": {}
+     }
+},	
+ ] } 

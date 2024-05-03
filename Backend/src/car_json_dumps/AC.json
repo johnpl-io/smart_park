@@ -1,0 +1,244 @@
+{ "brand_name" : "AC", "models": [
+{
+     "model_name": "AC Ace 1993-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4942,
+               "Power": "191.2 KW @ 5250 RPM\n260 HP @ 5250 RPM\n256 BHP @ 5250 RPM",
+               "Torque": "320 lb-ft @ 3250 RPM\n434 Nm @ 3250 RPM",
+               "Fuel System": "Multipoint Injection Naturally aspirated",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 140
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 ZR16"
+          },
+          "DIMENSIONS": {
+               "Length": 174,
+               "Width": 73.6,
+               "Height": 51.2,
+               "Front/rear Track": "62.6/61.8 in (1,590/1,570 mm)",
+               "Wheelbase": 97.3,
+               "Cargo Volume": 6.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3175
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 27.4
+          }
+     }
+},{
+     "model_name": "AC Aceca 1998-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3506,
+               "Power": "257.4 KW @ 6500 RPM\n350 HP @ 6500 RPM\n345 BHP @ 6500 RPM",
+               "Torque": "300 lb-ft @ 4000 RPM\n407 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection Naturally aspirated",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 23.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/55 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 183.5,
+               "Width": 74.4,
+               "Height": 52.8,
+               "Front/rear Track": "62.6/61.8 in (1,590/1,570 mm)",
+               "Wheelbase": 107.1,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (frontal area)": "2.1 m2",
+               "Aerodynamics (Cd)": 0.35,
+               "Turning circle (wall to wall)": "37.1 ft (11.3 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3560
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.8,
+               "Highway": 26.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "AC Cobra MkIII 1965-1967",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4727,
+               "Power": "205.9 KW @ 5800 RPM\n280 HP @ 5800 RPM\n276 BHP @ 5800 RPM",
+               "Torque": "314 lb-ft @ 3400 RPM\n426 Nm @ 3400 RPM",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "DIMENSIONS": {
+               "Length": 151.5,
+               "Width": 61,
+               "Height": 49,
+               "Front/rear Track": "51.5/52.5 in (1,308/1,334 mm)",
+               "Wheelbase": 90,
+               "Aerodynamics (frontal area)": "1.6 m2"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2019
+          }
+     }
+},{
+     "model_name": "AC Cobra 378 MkIV 1965-1967",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Power": "328.1 KW @ - RPM\n446.1 HP @ - RPM\n440 BHP @ - RPM",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "DIMENSIONS": {
+               "Length": 153.5,
+               "Width": 70.1,
+               "Height": 46.9,
+               "Front/rear Track": "54.9/56.7 in (1,394/1,440 mm)",
+               "Wheelbase": 90,
+               "Ground Clearance": 5.1
+          }
+     }
+},{
+     "model_name": "AC Cobra MkII 1963-1965",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4727,
+               "Power": "199.3 KW @ 5800 RPM\n271 HP @ 5800 RPM\n267 BHP @ 5800 RPM",
+               "Torque": "312 lb-ft @ 3400 RPM\n423 Nm @ 3400 RPM",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 141,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "DIMENSIONS": {
+               "Length": 151.5,
+               "Width": 62.8,
+               "Height": 45,
+               "Front/rear Track": "51.5/52.5 in (1,308/1,334 mm)",
+               "Wheelbase": 90,
+               "Ground Clearance": 7,
+               "Aerodynamics (frontal area)": "1.47 m2",
+               "Turning circle (wall to wall)": "34.1 ft (10.4 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2019,
+               "Gross Weight Limit": 2205
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.5,
+               "Highway": 16.3,
+               "Combined": 14.5
+          }
+     }
+},{
+     "model_name": "AC 428 Convertible 1966-1971",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 7017,
+               "Power": "257.4 KW @ 4600 RPM\n350 HP @ 4600 RPM\n345 BHP @ 4600 RPM",
+               "Torque": "462 lb-ft @ 2800 RPM\n626 Nm @ 2800 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 174,
+               "Width": 67,
+               "Height": 51,
+               "Front/rear Track": "55/56 in (1,397/1,422 mm)",
+               "Wheelbase": 96,
+               "Ground Clearance": 6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3143
+          },
+          "": {}
+     }
+},{
+     "model_name": "AC 428 Coupe 1966-1973",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 7017,
+               "Power": "257.4 KW @ 4600 RPM\n350 HP @ 4600 RPM\n345 BHP @ 4600 RPM",
+               "Torque": "462 lb-ft @ 2800 RPM\n626 Nm @ 2800 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 174,
+               "Width": 67,
+               "Height": 51,
+               "Front/rear Track": "55/56 in (1,397/1,422 mm)",
+               "Wheelbase": 96,
+               "Ground Clearance": 6
+          },
+          "": {}
+     }
+},	
+ ] } 

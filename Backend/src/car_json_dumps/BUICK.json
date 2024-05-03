@@ -1,0 +1,1860 @@
+{ "brand_name" : "BUICK", "models": [
+{
+     "model_name": "2024 Buick Encore GX",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Power": "102.2 KW @ 5000 RPM\n139 HP @ 5000 RPM\n137 BHP @ 5000 RPM",
+               "Torque": "162 lb-ft @ 2500 RPM\n219 Nm @ 2500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "CVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 171.4,
+               "Width": 71.4,
+               "Height": 64.1,
+               "Front/rear Track": "61.1/61.9 in (1,552/1,572 mm)",
+               "Wheelbase": 102.2,
+               "Cargo Volume": 23.5,
+               "Turning circle": 36.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3025
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 29,
+               "Highway": 30
+          },
+          "": {}
+     }
+},{
+     "model_name": "2020 Buick Encore GX",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "100.8 KW @ 5000 RPM\n137 HP @ 5000 RPM\n135 BHP @ 5000 RPM",
+               "Torque": "162 lb-ft @ 2500 RPM\n219 Nm @ 2500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "CVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55R18"
+          },
+          "DIMENSIONS": {
+               "Length": 171.4,
+               "Width": 71.4,
+               "Height": 64.1,
+               "Front/rear Track": "61.1/61.9 in (1,552/1,572 mm)",
+               "Wheelbase": 102.2,
+               "Cargo Volume": 23.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3025
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26,
+               "Highway": 30
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Encore 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1364,
+               "Power": "103 KW @ 4900-6000 RPM\n140 HP @ 4900-6000 RPM\n138 BHP @ 4900-6000 RPM",
+               "Torque": "148 lb-ft @ 1850-4800 RPM\n200 Nm @ 1850-4800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 168.4,
+               "Width": 69.9,
+               "Height": 65.2,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 100.6,
+               "Ground Clearance": 6.2,
+               "Cargo Volume": 18.8,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3236,
+               "Gross Weight Limit": 4255
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25,
+               "Highway": 33.1,
+               "Combined": 28
+          },
+          "": {}
+     }
+},{
+     "model_name": "2014 Buick Encore",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1364,
+               "Power": "101 KW @ 4900 RPM\n137 HP @ 4900 RPM\n135 BHP @ 4900 RPM",
+               "Torque": "148 lb-ft @ 1850 RPM\n201 Nm @ 1850 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "300 x 26mm, ventilated discs",
+               "Rear": "268 x 12mm, solid discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P215/55R18"
+          },
+          "DIMENSIONS": {
+               "Length": 168.4,
+               "Width": 69.8,
+               "Height": 64.8,
+               "Front/rear Track": "2.4/2.4 in (61/61 mm)",
+               "Wheelbase": 100.6,
+               "Ground Clearance": 6.2,
+               "Cargo Volume": 18.8,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3309,
+               "Gross Weight Limit": 4374
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23,
+               "Highway": 30,
+               "Combined": 26
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Enclave 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Power": "228 KW @ - RPM\n310 HP @ - RPM\n306 BHP @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          }
+     }
+},{
+     "model_name": "2018 Buick Enclave",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3649,
+               "Power": "224.5 KW @ - RPM\n305 HP @ - RPM\n301 BHP @ - RPM",
+               "Torque": "260 lb-ft @ - RPM\n353 Nm @ - RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Cargo Volume": 23.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 20
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Enclave 2012-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3556,
+               "Power": "192 KW @ 6300 RPM\n262 HP @ 6300 RPM\n257 BHP @ 6300 RPM",
+               "Torque": "270 lb-ft @ 3400 RPM\n366 Nm @ 3400 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 201.9,
+               "Width": 79,
+               "Height": 70.3,
+               "Front/rear Track": "67.3/67.1 in (1,709/1,704 mm)",
+               "Wheelbase": 118.9,
+               "Ground Clearance": 7.6,
+               "Cargo Volume": 115.2,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4922
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 22,
+               "Combined": 18
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Enclave 2007-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3564,
+               "Power": "202 KW @ 6600 RPM\n275 HP @ 6600 RPM\n271 BHP @ 6600 RPM",
+               "Torque": "251 lb-ft @ 3200 RPM\n340 Nm @ 3200 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/65R18"
+          },
+          "DIMENSIONS": {
+               "Length": 201.8,
+               "Width": 79,
+               "Height": 72.7,
+               "Front/rear Track": "67.3/67.3 in (1,709/1,709 mm)",
+               "Wheelbase": 118.9,
+               "Ground Clearance": 7.2,
+               "Cargo Volume": 115.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4780,
+               "Gross Weight Limit": 6411
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 24
+          },
+          "": {}
+     }
+},{
+     "model_name": "2018 Buick Regal GS",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3556,
+               "Power": "231.2 KW @ 6800 RPM\n314 HP @ 6800 RPM\n310 BHP @ 6800 RPM",
+               "Torque": "260 lb-ft @ 5200 RPM\n353 Nm @ 5200 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P245/45R19"
+          },
+          "DIMENSIONS": {
+               "Length": 192.9,
+               "Width": 73.3,
+               "Height": 57.3,
+               "Front/rear Track": "62.8/63 in (1,595/1,600 mm)",
+               "Wheelbase": 111.4,
+               "Cargo Volume": 31.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4270
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 27
+          }
+     }
+},{
+     "model_name": "BUICK Regal 2013-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2384,
+               "Power": "133.9 KW @ 6700 RPM\n182 HP @ 6700 RPM\n180 BHP @ 6700 RPM",
+               "Torque": "171 lb-ft @ 4900 RPM\n232 Nm @ 4900 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.6
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 190.2,
+               "Width": 73.1,
+               "Height": 58.4,
+               "Front/rear Track": "62.4/62.5 in (1,585/1,588 mm)",
+               "Wheelbase": 107.8,
+               "Turning circle (curb to curb)": "38.1 ft (11.6 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3607
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.9,
+               "Highway": 30.9,
+               "Combined": 24
+          }
+     }
+},{
+     "model_name": "BUICK Regal GS 2012-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "201 KW @ 5300 RPM\n273 HP @ 5300 RPM\n270 BHP @ 5300 RPM",
+               "Torque": "295 lb-ft @ 2400 RPM\n400 Nm @ 2400 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 162,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "355 vented; four-piston aluminum Brembo caliper",
+               "Rear": "315 vented; single-piston, aluminum caliper"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40R19"
+          },
+          "DIMENSIONS": {
+               "Length": 190.2,
+               "Width": 71.3,
+               "Height": 58.3,
+               "Front/rear Track": "62.4/62.5 in (1,585/1,588 mm)",
+               "Wheelbase": 107.8,
+               "Ground Clearance": 6.4,
+               "Cargo Volume": 14.2,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3710
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 30
+          }
+     }
+},{
+     "model_name": "BUICK Regal 2010-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "164 KW @ 5300 RPM\n223 HP @ 5300 RPM\n220 BHP @ 5300 RPM",
+               "Torque": "258 lb-ft @ 2000 RPM\n350 Nm @ 2000 RPM",
+               "Fuel System": "Turbocharged direct injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 146,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 190.2,
+               "Width": 73.1,
+               "Height": 58.4,
+               "Front/rear Track": "62.4/62.5 in (1,585/1,588 mm)",
+               "Wheelbase": 107.8,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 14.25,
+               "Aerodynamics (Cd)": 0.3,
+               "Turning circle": 37.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3600,
+               "Gross Weight Limit": 4740
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.6,
+               "Highway": 30.5,
+               "Combined": 24
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Regal 1997-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "149 KW @ 5200 RPM\n203 HP @ 5200 RPM\n200 BHP @ 5200 RPM",
+               "Torque": "229 lb-ft @ 4000 RPM\n310 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Automatic, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 R 16"
+          },
+          "DIMENSIONS": {
+               "Length": 196.2,
+               "Width": 72.7,
+               "Height": 56.6,
+               "Front/rear Track": "62/61.3 in (1,575/1,557 mm)",
+               "Wheelbase": 109,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 16.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3435.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.9,
+               "Highway": 29,
+               "Combined": 24,
+               "CO2 Emissions": 233
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Regal 1988-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3128,
+               "Power": "101 KW @ 4400 RPM\n137 HP @ 4400 RPM\n135 BHP @ 4400 RPM",
+               "Torque": "180 lb-ft @ 3600 RPM\n244 Nm @ 3600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Automatic, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 194.5,
+               "Width": 70.9,
+               "Height": 53,
+               "Front/rear Track": "59.4/57.9 in (1,509/1,471 mm)",
+               "Wheelbase": 107.5,
+               "Ground Clearance": 5.7,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3164
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Buick Envista",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "101.4 KW @ 5000 RPM\n137.9 HP @ 5000 RPM\n136 BHP @ 5000 RPM",
+               "Torque": "162 lb-ft @ 2500-4000 RPM\n220 Nm @ 2500-4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "BRAKES SPECS": {
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60R17"
+          },
+          "DIMENSIONS": {
+               "Length": 182.6,
+               "Width": 71.5,
+               "Height": 61.3,
+               "Front/rear Track": "61.3/61.6 in (1,557/1,565 mm)",
+               "Wheelbase": 106.3,
+               "Cargo Volume": 20.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3029
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28,
+               "Highway": 32,
+               "Combined": 30
+          }
+     }
+},{
+     "model_name": "BUICK Regal Sportback 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "183.9 KW @ 5400 RPM\n250 HP @ 5400 RPM\n247 BHP @ 5400 RPM",
+               "Torque": "295 lb-ft @ 3000-4000 RPM\n400 Nm @ 3000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P225/55R17"
+          },
+          "DIMENSIONS": {
+               "Length": 192.9,
+               "Width": 73.3,
+               "Height": 57.3,
+               "Front/rear Track": "62.8/63 in (1,595/1,600 mm)",
+               "Wheelbase": 111.4,
+               "Cargo Volume": 31.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4090
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 29
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Cascada 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "149.1 KW @ 5500 RPM\n203 HP @ 5500 RPM\n200 BHP @ 5500 RPM",
+               "Torque": "207 lb-ft @ 1800-4500 RPM\n281 Nm @ 1800-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P245/40R20"
+          },
+          "DIMENSIONS": {
+               "Length": 184.9,
+               "Width": 72.4,
+               "Height": 56.8,
+               "Front/rear Track": "62.5/62.5 in (1,588/1,588 mm)",
+               "Wheelbase": 106.1,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 13.4,
+               "Aerodynamics (Cd)": 0.3,
+               "Turning circle": 38.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3600,
+               "Gross Weight Limit": 4707
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.7,
+               "Highway": 22.4
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "BUICK Century 1996-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3136,
+               "Power": "119.3 KW @ 5200 RPM\n162.2 HP @ 5200 RPM\n160 BHP @ 5200 RPM",
+               "Torque": "185 lb-ft @ 4000 RPM\n251 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P 205/70 R 15"
+          },
+          "DIMENSIONS": {
+               "Length": 194.9,
+               "Width": 72.7,
+               "Height": 56.6,
+               "Front/rear Track": "62/61.1 in (1,575/1,552 mm)",
+               "Wheelbase": 109,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3364,
+               "Gross Weight Limit": 4449
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.9,
+               "Highway": 29,
+               "Combined": 23.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "1989 Buick Century",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2471,
+               "Power": "82 KW @ 5200 RPM\n111 HP @ 5200 RPM\n110 BHP @ 5200 RPM",
+               "Torque": "135 lb-ft @ 3200 RPM\n183 Nm @ 3200 RPM",
+               "Fuel System": "Monopoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P 185/75 R 14"
+          },
+          "DIMENSIONS": {
+               "Length": 189,
+               "Width": 69.4,
+               "Height": 53.7,
+               "Front/rear Track": "58.7/56.7 in (1,491/1,440 mm)",
+               "Wheelbase": 104.9,
+               "Cargo Volume": 16,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2868
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 20.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Century 1939-1942",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L8",
+               "Displacement": 5231,
+               "Power": "105 KW @ 3600 RPM\n143 HP @ 3600 RPM\n141 BHP @ 3600 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 203.5,
+               "Width": 72,
+               "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
+               "Wheelbase": 125.5,
+               "Ground Clearance": 7.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3924
+          }
+     }
+},{
+     "model_name": "1970 Buick Gran Sport 455",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 7466,
+               "Power": "261.1 KW @ 4600 RPM\n355 HP @ 4600 RPM\n350 BHP @ 4600 RPM",
+               "Torque": "510 lb-ft @ 2800 RPM\n691 Nm @ 2800 RPM",
+               "Fuel System": "Carburettor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111,
+               "Acceleration 0-62 Mph (0-100 kph)": 6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drum"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "G60-15"
+          },
+          "DIMENSIONS": {
+               "Length": 202,
+               "Width": 77.3,
+               "Height": 53,
+               "Front/rear Track": "60.1/59 in (1,527/1,499 mm)",
+               "Wheelbase": 112,
+               "Ground Clearance": 6.4,
+               "Aerodynamics (frontal area)": "2.19 m2",
+               "Aerodynamics (Cd)": 0.54,
+               "Turning circle (wall to wall)": "43 ft (13.1 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3898
+          }
+     }
+},{
+     "model_name": "2018 Buick LaCrosse Avenir",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3556,
+               "Power": "231.2 KW @ 6800 RPM\n314.3 HP @ 6800 RPM\n310 BHP @ 6800 RPM",
+               "Torque": "268 lb-ft @ 5200 RPM\n363 Nm @ 5200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 197.5,
+               "Width": 73.5,
+               "Height": 57.5,
+               "Wheelbase": 114.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3840
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20,
+               "Highway": 29
+          }
+     }
+},{
+     "model_name": "2017 Buick LaCrosse",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3649,
+               "Power": "227.4 KW @ 6800 RPM\n309.2 HP @ 6800 RPM\n305 BHP @ 6800 RPM",
+               "Torque": "268 lb-ft @ 5200 RPM\n363 Nm @ 5200 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          }
+     }
+},{
+     "model_name": "2010 Buick LaCrosse",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2384,
+               "Power": "136 KW @ 6700 RPM\n185 HP @ 6700 RPM\n182 BHP @ 6700 RPM",
+               "Torque": "172 lb-ft @ 4900 RPM\n233 Nm @ 4900 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic (Hydra-Matic)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/50 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 197,
+               "Width": 73.1,
+               "Height": 58.9,
+               "Front/rear Track": "61.5/61.6 in (1,562/1,565 mm)",
+               "Wheelbase": 111.7,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 13.3,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3748,
+               "Gross Weight Limit": 4850
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25,
+               "Highway": 36,
+               "Combined": 27.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "2005 Buick LaCrosse",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3564,
+               "Power": "179 KW @ 6000 RPM\n243 HP @ 6000 RPM\n240 BHP @ 6000 RPM",
+               "Torque": "225 lb-ft @ 2000 RPM\n305 Nm @ 2000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60R16"
+          },
+          "DIMENSIONS": {
+               "Length": 198.1,
+               "Width": 73,
+               "Height": 57.4,
+               "Front/rear Track": "61.7/61.5 in (1,567/1,562 mm)",
+               "Wheelbase": 110.5,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 15.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3494.9,
+               "Gross Weight Limit": 7706.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 28,
+               "Combined": 22,
+               "CO2 Emissions": 254
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK LeSabre 1999-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "153 KW @ 5200 RPM\n208 HP @ 5200 RPM\n205 BHP @ 5200 RPM",
+               "Torque": "230 lb-ft @ 4000 RPM\n312 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 R 15"
+          },
+          "DIMENSIONS": {
+               "Length": 200,
+               "Width": 73.5,
+               "Height": 57,
+               "Front/rear Track": "62.3/62.3 in (1,582/1,582 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.4,
+               "Cargo Volume": 17.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3574
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.8,
+               "Highway": 32.2,
+               "Combined": 24,
+               "CO2 Emissions": 233
+          }
+     }
+},{
+     "model_name": "BUICK LeSabre 1991-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "127 KW @ 4800 RPM\n173 HP @ 4800 RPM\n170 BHP @ 4800 RPM",
+               "Torque": "225 lb-ft @ 3200 RPM\n305 Nm @ 3200 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 200,
+               "Width": 73.5,
+               "Height": 55.7,
+               "Front/rear Track": "60.4/60.5 in (1,534/1,537 mm)",
+               "Wheelbase": 110.8,
+               "Ground Clearance": 5.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3448
+          }
+     }
+},{
+     "model_name": "BUICK Lucerne 2005-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "147 KW @ 5200 RPM\n200 HP @ 5200 RPM\n197 BHP @ 5200 RPM",
+               "Torque": "227 lb-ft @ 3800 RPM\n308 Nm @ 3800 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 203.2,
+               "Width": 73.8,
+               "Height": 58,
+               "Front/rear Track": "62.6/62.1 in (1,590/1,577 mm)",
+               "Wheelbase": 115.6,
+               "Cargo Volume": 16.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3763.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 28,
+               "Combined": 25.3,
+               "CO2 Emissions": 221
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Model 21 1911-1911",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 4188,
+               "Power": "29.1 KW @ - RPM\n39.5 HP @ - RPM\n39 BHP @ - RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 35
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "34 X 4"
+          },
+          "DIMENSIONS": {
+               "Front/rear Track": "56/56 in (1,422/1,422 mm)",
+               "Wheelbase": 110
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2500
+          }
+     }
+},{
+     "model_name": "BUICK Model 26 1911",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 3295,
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 3 Speed"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "32 X 3.5"
+          },
+          "DIMENSIONS": {
+               "Front/rear Track": "56/56 in (1,422/1,422 mm)",
+               "Wheelbase": 100
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2101
+          }
+     }
+},{
+     "model_name": "BUICK Model 27 1911",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 3295,
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 3 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "32 X 3.5"
+          },
+          "DIMENSIONS": {
+               "Front/rear Track": "56/56 in (1,422/1,422 mm)",
+               "Wheelbase": 106
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2280
+          }
+     }
+},{
+     "model_name": "BUICK Model 32 1911",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2715,
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 2 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "30 X 3.5"
+          },
+          "DIMENSIONS": {
+               "Front/rear Track": "56/56 in (1,422/1,422 mm)",
+               "Wheelbase": 90
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1695
+          }
+     }
+},{
+     "model_name": "BUICK Model 33 1911",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2715,
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 2 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "30 X 3.5"
+          },
+          "DIMENSIONS": {
+               "Front/rear Track": "56/56 in (1,422/1,422 mm)",
+               "Wheelbase": 100
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1854
+          }
+     }
+},{
+     "model_name": "BUICK Model 38 1911",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 5212,
+               "Power": "36 KW @ - RPM\n49 HP @ - RPM\n48 BHP @ - RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 26.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 3 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "36 X 4"
+          },
+          "DIMENSIONS": {
+               "Front/rear Track": "56/56 in (1,422/1,422 mm)",
+               "Wheelbase": 116
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2650
+          }
+     }
+},{
+     "model_name": "BUICK Model 39 1911",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 5212,
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 3 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "36 X 4"
+          },
+          "DIMENSIONS": {
+               "Front/rear Track": "56/56 in (1,422/1,422 mm)",
+               "Wheelbase": 116
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3225
+          }
+     }
+},{
+     "model_name": "BUICK Model 41 1911",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 5212,
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 3 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "36 X 4 (Front) - 36 X 4.5 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Front/rear Track": "56/56 in (1,422/1,422 mm)",
+               "Wheelbase": 116
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3396.5
+          }
+     }
+},{
+     "model_name": "BUICK Model C 1905",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L2",
+               "Displacement": 2606,
+               "Power": "17 KW @ 1200 RPM\n22 HP @ 1200 RPM\n23 BHP @ 1200 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 2 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "39 X 3.5"
+          },
+          "DIMENSIONS": {
+               "Front/rear Track": "56/56 in (1,422/1,422 mm)",
+               "Wheelbase": 87
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1799
+          }
+     }
+},{
+     "model_name": "BUICK Park Avenue 1997-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "179 KW @ 5200 RPM\n243 HP @ 5200 RPM\n240 BHP @ 5200 RPM",
+               "Torque": "280 lb-ft @ 3600 RPM\n380 Nm @ 3600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 136.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60/R16"
+          },
+          "DIMENSIONS": {
+               "Length": 206.8,
+               "Width": 74.7,
+               "Height": 57.4,
+               "Front/rear Track": "62.7/62.3 in (1,593/1,582 mm)",
+               "Wheelbase": 113.8,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 18.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3776
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.6,
+               "Highway": 28.7,
+               "Combined": 21.2,
+               "CO2 Emissions": 264
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Park Avenue Ultra 1991-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "153 KW @ 4400 RPM\n208 HP @ 4400 RPM\n205 BHP @ 4400 RPM",
+               "Torque": "192 lb-ft @ 2600 RPM\n260 Nm @ 2600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Automatic, 4 Speed"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P215/75 R15 (Front) - 205/70 R15 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 205.3,
+               "Width": 73.6,
+               "Height": 55.1,
+               "Front/rear Track": "61.5/60.3 in (1,562/1,532 mm)",
+               "Wheelbase": 110.7,
+               "Ground Clearance": 5.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3638
+          }
+     }
+},{
+     "model_name": "BUICK Rainier 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 4160,
+               "Power": "205 KW @ 6000 RPM\n279 HP @ 6000 RPM\n275 BHP @ 6000 RPM",
+               "Torque": "275 lb-ft @ 3600 RPM\n373 Nm @ 3600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 193.4,
+               "Width": 75.4,
+               "Height": 71.9,
+               "Front/rear Track": "63.1/62.1 in (1,603/1,577 mm)",
+               "Wheelbase": 113,
+               "Ground Clearance": 7.7,
+               "Cargo Volume": 39.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4433.1,
+               "Gross Weight Limit": 5545
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 21,
+               "Combined": 18,
+               "CO2 Emissions": 311
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Reatta 1988-1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "123 KW @ 4400 RPM\n167 HP @ 4400 RPM\n165 BHP @ 4400 RPM",
+               "Torque": "210 lb-ft @ 2000 RPM\n285 Nm @ 2000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 125
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Automatic, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 183.7,
+               "Width": 73,
+               "Height": 51.2,
+               "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
+               "Wheelbase": 98.5,
+               "Ground Clearance": 5.9,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3377
+          }
+     }
+},{
+     "model_name": "BUICK Rendezvous 2002-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3350,
+               "Power": "138 KW @ 5200 RPM\n188 HP @ 5200 RPM\n185 BHP @ 5200 RPM",
+               "Torque": "210 lb-ft @ 4000 RPM\n285 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 R 16"
+          },
+          "DIMENSIONS": {
+               "Length": 186.5,
+               "Width": 73.7,
+               "Height": 68.9,
+               "Front/rear Track": "62.7/63.8 in (1,593/1,621 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 7,
+               "Cargo Volume": 18.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3993.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.7,
+               "Highway": 28.3,
+               "Combined": 22.2,
+               "CO2 Emissions": 252
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Riviera 1986-1993",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "127 KW @ 4800 RPM\n172 HP @ 4800 RPM\n170 BHP @ 4800 RPM",
+               "Torque": "220 lb-ft @ 3200 RPM\n298 Nm @ 3200 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 120
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Automatic, 3 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 198.3,
+               "Width": 73.1,
+               "Height": 52.9,
+               "Front/rear Track": "59.9/59.9 in (1,521/1,521 mm)",
+               "Wheelbase": 108
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3494
+          }
+     }
+},{
+     "model_name": "BUICK Riviera 1963-1965",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6555,
+               "Power": "242 KW @ 4400 RPM\n330 HP @ 4400 RPM\n325 BHP @ 4400 RPM",
+               "Torque": "445 lb-ft @ 2800 RPM\n603 Nm @ 2800 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Automatic, 3 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "7.10 X 15"
+          },
+          "DIMENSIONS": {
+               "Length": 208,
+               "Width": 76.3,
+               "Height": 53,
+               "Front/rear Track": "60/59 in (1,524/1,499 mm)",
+               "Wheelbase": 117,
+               "Ground Clearance": 5.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4191
+          }
+     }
+},{
+     "model_name": "BUICK Roadmaster 1949-1958",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5230,
+               "Power": "134 KW @ 4000 RPM\n182 HP @ 4000 RPM\n180 BHP @ 4000 RPM",
+               "Torque": "300 lb-ft @ 2400 RPM\n407 Nm @ 2400 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Automatic, 3 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 207.5,
+               "Width": 80,
+               "Height": 64.8,
+               "Front/rear Track": "60/60 in (1,524/1,524 mm)",
+               "Wheelbase": 121.5,
+               "Ground Clearance": 7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4043
+          }
+     }
+},{
+     "model_name": "1940 Buick Roadmaster",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L8",
+               "Displacement": 5231,
+               "Power": "105 KW @ 3600 RPM\n143 HP @ 3600 RPM\n141 BHP @ 3600 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 3 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 213.5,
+               "Width": 75.5,
+               "Front/rear Track": "59.6/59.6 in (1,514/1,514 mm)",
+               "Wheelbase": 133.5,
+               "Ground Clearance": 7.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4480
+          }
+     }
+},{
+     "model_name": "BUICK Skylark Gran Sport 1991-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3344,
+               "Power": "119 KW @ 5200 RPM\n160 HP @ 5200 RPM\n160 BHP @ 5200 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Automatic, 3 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 188.4,
+               "Width": 68.2,
+               "Height": 53.5,
+               "Wheelbase": 103.4
+          }
+     }
+},{
+     "model_name": "BUICK Skylark 1953-1954",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5277,
+               "Power": "147 KW @ 4100 RPM\n200 HP @ 4100 RPM\n197 BHP @ 4100 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "7.5"
+          }
+     }
+},{
+     "model_name": "BUICK Super Riviera Coupe 1958-1959",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5962,
+               "Power": "223.7 KW @ 4600 RPM\n304.2 HP @ 4600 RPM\n300 BHP @ 4600 RPM",
+               "Torque": "400 lb-ft @ 3200 RPM\n542 Nm @ 3200 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 219.1,
+               "Width": 79.8,
+               "Height": 59.4,
+               "Wheelbase": 127.5
+          }
+     }
+},{
+     "model_name": "1956 Super Riviera Sedan",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2630,
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Automatic, 3 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          }
+     }
+},{
+     "model_name": "BUICK Terraza 2005-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3498,
+               "Power": "149 KW @ 5200 RPM\n203 HP @ 5200 RPM\n200 BHP @ 5200 RPM",
+               "Torque": "220 lb-ft @ 4400 RPM\n298 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 25.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 205,
+               "Width": 72,
+               "Height": 72,
+               "Front/rear Track": "62.4/62.9 in (1,585/1,598 mm)",
+               "Wheelbase": 121.1,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 135.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4470,
+               "Gross Weight Limit": 5842
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 21.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUICK Verano 2012-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "l4",
+               "Displacement": 1998,
+               "Power": "187 KW @ 5300 RPM\n254 HP @ 5300 RPM\n251 BHP @ 5300 RPM",
+               "Torque": "260 lb-ft @ 2000 RPM\n353 Nm @ 2000 RPM",
+               "Fuel System": "direct injection and electronic throttle control",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6 speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "300mm vented; single-piston w/steel caliper",
+               "Rear": "292mm vented; single-piston w/steel caliper"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P235/45R18 94H"
+          },
+          "DIMENSIONS": {
+               "Length": 183.9,
+               "Width": 71.4,
+               "Height": 58.4,
+               "Front/rear Track": "60.7/61.3 in (1,542/1,557 mm)",
+               "Wheelbase": 105.7,
+               "Cargo Volume": 14.3,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3307,
+               "Gross Weight Limit": 4371
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 30
+          },
+          "": {}
+     }
+},	
+ ] } 

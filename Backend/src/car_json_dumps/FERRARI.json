@@ -1,0 +1,4807 @@
+{ "brand_name" : "FERRARI", "models": [
+{
+     "model_name": "2019 Ferrari F8 Spider",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3902,
+               "Power": "529.6 KW @ 8000 RPM\n720 HP @ 8000 RPM\n710 BHP @ 8000 RPM",
+               "Torque": "568 lb-ft @ 3250 RPM\n770 Nm @ 3250 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR 20 J9.0 // 305/30 ZR 20 J11.0"
+          },
+          "DIMENSIONS": {
+               "Length": 181.5,
+               "Width": 77.9,
+               "Height": 47.5,
+               "Front/rear Track": "66/64.8 in (1,676/1,646 mm)",
+               "Wheelbase": 104.3,
+               "Cargo Volume": 7.1
+          }
+     }
+},{
+     "model_name": "FERRARI F8 Tributo 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3902,
+               "Power": "522.2 KW @ 7000 RPM\n710 HP @ 7000 RPM\n700 BHP @ 7000 RPM",
+               "Torque": "568 lb-ft @ 3250 RPM\n770 Nm @ 3250 RPM",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR 20 J9,0 // 305/30 ZR 20 J11.0"
+          },
+          "DIMENSIONS": {
+               "Length": 181.5,
+               "Width": 77.9,
+               "Height": 47.5,
+               "Front/rear Track": "66/64.8 in (1,676/1,646 mm)",
+               "Wheelbase": 104.3,
+               "Cargo Volume": 7.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3164
+          }
+     }
+},{
+     "model_name": "FERRARI Portofino M 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3855,
+               "Power": "456 KW @ 7500 RPM\n620 HP @ 7500 RPM\n612 BHP @ 7500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 3.45
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          }
+     }
+},{
+     "model_name": "FERRARI Portofino 2017-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3855,
+               "Power": "441.3 KW @ 7500 RPM\n600 HP @ 7500 RPM\n592 BHP @ 7500 RPM",
+               "Torque": "561 lb-ft @ 5250 RPM\n760 Nm @ 5250 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 R20 // 285/35 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 180.6,
+               "Width": 76.3,
+               "Height": 51.9,
+               "Front/rear Track": "64.3/64.4 in (1,633/1,636 mm)",
+               "Wheelbase": 105.1,
+               "Cargo Volume": 10.3,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3834
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 22,
+               "CO2 Emissions": 245
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "12.3 mpg US (19.1 L/100Km)",
+               "Medium": "20.8 mpg US (11.3 L/100Km)",
+               "High": "23.3 mpg US (10.1 L/100Km)",
+               "Extra high": "22.2 mpg US (10.6 L/100Km)",
+               "Combined": 20.1,
+               "CO2 Emissions (Combined)": "267 g/km"
+          }
+     }
+},{
+     "model_name": "2023 Ferrari 296 GTS",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2992,
+               "Power": "487.6 KW @ - RPM\n663 HP @ - RPM\n654 BHP @ - RPM",
+               "Electrical motor power": "122.8 kw (167 hp)",
+               "Electrical motor torque": "545.8 lb-ft (740 Nm)",
+               "Total maximum power": "610.5 kw (830 hp)",
+               "Total maximum torque": "545.8 lb-ft (740 Nm)",
+               "Fuel System": "BiTurbo Direct Injection",
+               "Fuel": "Hybrid Gasoline",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 205,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 R20 // 305/35 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 179.7,
+               "Width": 77.1,
+               "Height": 46.9,
+               "Front/rear Track": "65.6/64.3 in (1,666/1,633 mm)",
+               "Wheelbase": 102.4,
+               "Cargo Volume": 1.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3395
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 7.45
+          }
+     }
+},{
+     "model_name": "FERRARI 488 Pista 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3902,
+               "Power": "529.6 KW @ 8000 RPM\n720.1 HP @ 8000 RPM\n710 BHP @ 8000 RPM",
+               "Torque": "568 lb-ft @ 3000 RPM\n770 Nm @ 3000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.85
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P245/35YR20 // P305/30YR20"
+          },
+          "DIMENSIONS": {
+               "Length": 181.3,
+               "Width": 77.8,
+               "Height": 47.5,
+               "Front/rear Track": "66.1x64.9 in (1679 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2822
+          }
+     }
+},{
+     "model_name": "FERRARI GTC4Lusso T 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3855,
+               "Power": "448.7 KW @ 7500 RPM\n610 HP @ 7500 RPM\n602 BHP @ 7500 RPM",
+               "Torque": "561 lb-ft @ 3000-5250 RPM\n760 Nm @ 3000-5250 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 193.8,
+               "Width": 78,
+               "Height": 54.5,
+               "Wheelbase": 117.7,
+               "Cargo Volume": 15.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3880
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 20.3,
+               "CO2 Emissions": 265
+          }
+     }
+},{
+     "model_name": "2019 Ferrari 812 GTS",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6496,
+               "Power": "588.4 KW @ 8500 RPM\n800 HP @ 8500 RPM\n789 BHP @ 8500 RPM",
+               "Torque": "530 lb-ft @ 7000 RPM\n718 Nm @ 7000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-automatic speed dual clutch"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35 ZR 20\u201d 10\u201d J // 315/35 ZR 20\u201d 11.5\u201d J"
+          },
+          "DIMENSIONS": {
+               "Length": 184.8,
+               "Width": 77.6,
+               "Height": 50.2,
+               "Front/rear Track": "65.8/64.8 in (1,671/1,646 mm)",
+               "Wheelbase": 107.1,
+               "Cargo Volume": 7.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3527
+          }
+     }
+},{
+     "model_name": "FERRARI 812 Superfast 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6496,
+               "Power": "588 KW @ 8500 RPM\n799.5 HP @ 8500 RPM\n789 BHP @ 8500 RPM",
+               "Torque": "530 lb-ft @ 7000 RPM\n718 Nm @ 7000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35 ZR 20\u201d 10\u201d J // 315/35 ZR 20\u201d 11.5\u201d J"
+          },
+          "DIMENSIONS": {
+               "Length": 183.3,
+               "Width": 77.6,
+               "Height": 50.2,
+               "Front/rear Track": "65.8/64.8 in (1,671/1,646 mm)",
+               "Wheelbase": 107.1,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 7.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3362
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.8,
+               "CO2 Emissions": 340
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "9.3 mpg US (25.3 L/100Km)",
+               "Medium": "15.5 mpg US (15.2 L/100Km)",
+               "High": "16.7 mpg US (14.1 L/100Km)",
+               "Extra high": "15.7 mpg US (15 L/100Km)",
+               "Combined": 14.6,
+               "CO2 Emissions (Combined)": "366 g/km"
+          }
+     }
+},{
+     "model_name": "FERRARI Daytona SP3 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6496,
+               "Power": "617.8 KW @ 9250 RPM\n840 HP @ 9250 RPM\n828 BHP @ 9250 RPM",
+               "Torque": "514 lb-ft @ 7250 RPM\n697 Nm @ 7250 RPM",
+               "Fuel System": "Direct injection Naturally aspirated",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.85
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic F1 DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/30 R20 // 345/30 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 184.5,
+               "Width": 80.7,
+               "Height": 45,
+               "Front/rear Track": "66.6/64.2 in (1,692/1,631 mm)",
+               "Wheelbase": 104.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3274
+          }
+     }
+},{
+     "model_name": "2022 Ferrari 296 GTB",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2992,
+               "Power": "487.6 KW @ 8000 RPM\n663 HP @ 8000 RPM\n654 BHP @ 8000 RPM",
+               "Torque": "546 lb-ft @ 3250 RPM\n740 Nm @ 3250 RPM",
+               "Electrical motor power": "122.8 kw (167 hp)",
+               "Total maximum power": "610.5 kw (830 hp)",
+               "Total maximum torque": "545.8 lb-ft (740 Nm)",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Plug-in Hybrid",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 205,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic F1 DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 R20 // 305/35 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 179.7,
+               "Width": 62.9,
+               "Height": 46.7,
+               "Front/rear Track": "65.6/64.3 in (1,666/1,633 mm)",
+               "Wheelbase": 102.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3241
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Maximum Capacity": "7.45 kWh",
+               "Range": 15.5
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 36.8,
+               "CO2 Emissions (Combined)": "149 g/km"
+          },
+          "NOTES": {
+               "Average Energy consumption WLTP": "14 kWh/100 km"
+          }
+     }
+},{
+     "model_name": "FERRARI Purosangue 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6496,
+               "Power": "533.2 KW @ 7750 RPM\n725 HP @ 7750 RPM\n715 BHP @ 7750 RPM",
+               "Torque": "528 lb-ft @ 6250 RPM\n716 Nm @ 6250 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 26.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 193,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic F1 DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 R22 // 315/30 R23"
+          },
+          "DIMENSIONS": {
+               "Length": 195.8,
+               "Width": 82.2,
+               "Height": 62.6,
+               "Front/rear Track": "68.4/67.7 in (1,737/1,720 mm)",
+               "Wheelbase": 118.8,
+               "Cargo Volume": 16.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4482
+          }
+     }
+},{
+     "model_name": "FERRARI SP1 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6496,
+               "Power": "603.1 KW @ 8500 RPM\n820 HP @ 8500 RPM\n809 BHP @ 8500 RPM",
+               "Torque": "530 lb-ft @ 7000 RPM\n719 Nm @ 7000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 183.3,
+               "Width": 78.6,
+               "Height": 45.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3307
+          }
+     }
+},{
+     "model_name": "FERRARI SP2 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6496,
+               "Power": "603.1 KW @ 8500 RPM\n820 HP @ 8500 RPM\n809 BHP @ 8500 RPM",
+               "Torque": "530 lb-ft @ 7000 RPM\n719 Nm @ 7000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 183.3,
+               "Width": 78.6,
+               "Height": 45.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3351
+          }
+     }
+},{
+     "model_name": "FERRARI F60 America 2014-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6262,
+               "Power": "544.3 KW @ 8250 RPM\n740 HP @ 8250 RPM\n730 BHP @ 8250 RPM",
+               "Torque": "509 lb-ft @ 6000 RPM\n690 Nm @ 6000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 24.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 205,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR 20 // 315/35 ZR 20"
+          },
+          "DIMENSIONS": {
+               "Front/rear Track": "65.3/63 in (1,659/1,600 mm)",
+               "Wheelbase": 107
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3527
+          }
+     }
+},{
+     "model_name": "2024 Ferrari Roma Spider",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3855,
+               "Power": "456 KW @ 5750-7500 RPM\n620 HP @ 5750-7500 RPM\n612 BHP @ 5750-7500 RPM",
+               "Torque": "561 lb-ft @ 3000-5750 RPM\n760 Nm @ 3000-5750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic F1 DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR 20 J8.0 // 285/35 ZR 20 J10.0"
+          },
+          "DIMENSIONS": {
+               "Length": 183.3,
+               "Width": 77.7,
+               "Height": 51.4,
+               "Front/rear Track": "65/66.1 in (1,651/1,679 mm)",
+               "Wheelbase": 105.1,
+               "Cargo Volume": 9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3430
+          }
+     }
+},{
+     "model_name": "2020 Ferrari Roma",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3855,
+               "Power": "456 KW @ 5750-7500 RPM\n620 HP @ 5750-7500 RPM\n612 BHP @ 5750-7500 RPM",
+               "Torque": "561 lb-ft @ 3000-5750 RPM\n760 Nm @ 3000-5750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR20 // 285/35 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 183.3,
+               "Width": 77.7,
+               "Height": 51.2,
+               "Front/rear Track": "61.5/0 in (1,562/0 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 9.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3461
+          }
+     }
+},{
+     "model_name": "FERRARI GTC4Lusso 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6262,
+               "Power": "507.5 KW @ 8000 RPM\n690 HP @ 8000 RPM\n681 BHP @ 8000 RPM",
+               "Torque": "514 lb-ft @ 5750 RPM\n697 Nm @ 5750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 208,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 R20 || 295/35 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 196.5,
+               "Width": 78,
+               "Height": 54.4,
+               "Front/rear Track": "65.9/65.7 in (1,674/1,669 mm)",
+               "Wheelbase": 117.7,
+               "Cargo Volume": 15.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3946
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.4,
+               "CO2 Emissions": 350
+          }
+     }
+},{
+     "model_name": "2024 Ferrari SF90 XX Stradale",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3990,
+               "Power": "586.2 KW @ 7900 RPM\n797 HP @ 7900 RPM\n786 BHP @ 7900 RPM",
+               "Torque": "593 lb-ft @ 6250 RPM\n804 Nm @ 6250 RPM",
+               "Electrical motor power": "171.4 kw (233 hp)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Hybrid Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic F1 DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR F20 // 315/30 ZR F20"
+          },
+          "DIMENSIONS": {
+               "Length": 190.9,
+               "Width": 79.3,
+               "Height": 48.2,
+               "Wheelbase": 104.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3439
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 7.9,
+               "Range": 15.5
+          }
+     }
+},{
+     "model_name": "2024 Ferrari SF90 XX Spider",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3990,
+               "Power": "586.2 KW @ 7900 RPM\n797 HP @ 7900 RPM\n786 BHP @ 7900 RPM",
+               "Torque": "593 lb-ft @ 6250-8000 RPM\n804 Nm @ 6250-8000 RPM",
+               "Electrical motor power": "171.4 kw (233 hp)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Hybrid Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic F1 DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR F20 // 315/30 ZR F20"
+          },
+          "DIMENSIONS": {
+               "Length": 190.9,
+               "Width": 79.3,
+               "Height": 48.2,
+               "Front/rear Track": "66.3/65.9 in (1,684/1,674 mm)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3660
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 7.9,
+               "Range": 15.5
+          }
+     }
+},{
+     "model_name": "FERRARI SF90 Spider (F173A) 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3990,
+               "Power": "573.7 KW @ 7500 RPM\n780 HP @ 7500 RPM\n769 BHP @ 7500 RPM",
+               "Torque": "590 lb-ft @ 6000 RPM\n800 Nm @ 6000 RPM",
+               "Electrical motor power": "162 kw (220 hp)",
+               "Total maximum power": "735.5 kw (1000 hp)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Hybrid Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR 20 J9.5 // 315/30 ZR 20 J11.5"
+          },
+          "DIMENSIONS": {
+               "Length": 185.2,
+               "Width": 77.7,
+               "Height": 46.9,
+               "Front/rear Track": "66.1/65 in (1,679/1,651 mm)",
+               "Wheelbase": 104.3,
+               "Cargo Volume": 2.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3682
+          },
+          "POWER SYSTEM SPECS": {
+               "Nominal Capacity": 7.9,
+               "Range": 15.5
+          }
+     }
+},{
+     "model_name": "FERRARI SF90 Stradale 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3990,
+               "Power": "735.5 KW @ 7500 RPM\n1000 HP @ 7500 RPM\n986 BHP @ 7500 RPM",
+               "Torque": "590 lb-ft @ 6000-8000 RPM\n800 Nm @ 6000-8000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Hybrid",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic F1 dual-clutch transmission"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR 20 J9.5 // 315/30 ZR 20 J11.5"
+          },
+          "DIMENSIONS": {
+               "Length": 185.4,
+               "Width": 77.6,
+               "Height": 46.7,
+               "Front/rear Track": "66.1/65 in (1,679/1,651 mm)",
+               "Wheelbase": 104.3,
+               "Cargo Volume": 2.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3461
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Li-ion",
+               "Nominal Capacity": 7.9,
+               "Range": 15
+          },
+          "NOTES": {
+               "Electric motors maximum speed": "135 km/h"
+          }
+     }
+},{
+     "model_name": "FERRARI 125 S 1947-1947",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 1496,
+               "Power": "87 KW @ 7000 RPM\n118.3 HP @ 7000 RPM\n117 BHP @ 7000 RPM",
+               "Torque": "92 lb-ft @ 5000 RPM\n125 Nm @ 5000 RPM",
+               "Fuel System": "3 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "5.50 - 15"
+          },
+          "DIMENSIONS": {
+               "Length": 177.2,
+               "Width": 58.3,
+               "Height": 43.3,
+               "Front/rear Track": "49.4/47.2 in (1,255/1,199 mm)",
+               "Wheelbase": 95.3,
+               "Aerodynamics (Cd)": 0.42
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1433,
+               "Gross Weight Limit": 1808
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 21.4
+          }
+     }
+},{
+     "model_name": "FERRARI 159 S 1947-1948",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 1903,
+               "Power": "91.9 KW @ 7000 RPM\n125 HP @ 7000 RPM\n123 BHP @ 7000 RPM",
+               "Torque": "96 lb-ft @ 5000 RPM\n130 Nm @ 5000 RPM",
+               "Fuel System": "3 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "5.50 - 15"
+          },
+          "DIMENSIONS": {
+               "Length": 177.2,
+               "Width": 58.3,
+               "Height": 43.3,
+               "Front/rear Track": "49.4/47.2 in (1,255/1,199 mm)",
+               "Wheelbase": 95.3,
+               "Aerodynamics (Cd)": 0.42
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1653,
+               "Gross Weight Limit": 1874
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 20.5
+          }
+     }
+},{
+     "model_name": "FERRARI 166 Spyder Corsa 1947-1950",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 1995,
+               "Power": "95.6 KW @ 7000 RPM\n130 HP @ 7000 RPM\n128 BHP @ 7000 RPM",
+               "Torque": "117 lb-ft @ 5000 RPM\n158 Nm @ 5000 RPM",
+               "Fuel System": "3 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "5 X 15 || 5 X 16"
+          },
+          "DIMENSIONS": {
+               "Length": 144,
+               "Width": 53.1,
+               "Height": 42.9,
+               "Front/rear Track": "47.2/47.2 in (1,199/1,199 mm)",
+               "Wheelbase": 90.6,
+               "Aerodynamics (Cd)": 0.45
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1764,
+               "Gross Weight Limit": 2028
+          }
+     }
+},{
+     "model_name": "FERRARI 166 MM Barchetta 1948-1950",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 1995,
+               "Power": "103 KW @ 7000 RPM\n140 HP @ 7000 RPM\n138 BHP @ 7000 RPM",
+               "Torque": "117 lb-ft @ 5000 RPM\n158 Nm @ 5000 RPM",
+               "Fuel System": "3 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "5.50 - 15"
+          },
+          "DIMENSIONS": {
+               "Length": 148.8,
+               "Width": 60,
+               "Height": 42.1,
+               "Front/rear Track": "50/49.2 in (1,270/1,250 mm)",
+               "Wheelbase": 86.6,
+               "Ground Clearance": 5.9,
+               "Aerodynamics (Cd)": 0.44
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1433,
+               "Gross Weight Limit": 1918
+          }
+     }
+},{
+     "model_name": "FERRARI 195 S 1950-1950",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 2341,
+               "Power": "125.1 KW @ 7000 RPM\n170 HP @ 7000 RPM\n168 BHP @ 7000 RPM",
+               "Torque": "152 lb-ft @ 5250 RPM\n206 Nm @ 5250 RPM",
+               "Fuel System": "3 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "5.50 x 15 || 6.00 x 15"
+          },
+          "DIMENSIONS": {
+               "Length": 161.4,
+               "Width": 60,
+               "Height": 53.1,
+               "Front/rear Track": "50.3/49.2 in (1,278/1,250 mm)",
+               "Wheelbase": 88.6,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1653,
+               "Gross Weight Limit": 2050
+          }
+     }
+},{
+     "model_name": "FERRARI 195 Inter 1950-1951",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 2341,
+               "Power": "99.3 KW @ 6000 RPM\n135 HP @ 6000 RPM\n133 BHP @ 6000 RPM",
+               "Torque": "114 lb-ft @ 5000 RPM\n154 Nm @ 5000 RPM",
+               "Fuel System": "1 Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "5.90 x 15"
+          },
+          "DIMENSIONS": {
+               "Length": 161.4,
+               "Width": 60,
+               "Height": 53.1,
+               "Front/rear Track": "50/49.2 in (1,270/1,250 mm)",
+               "Wheelbase": 98.4,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2094,
+               "Gross Weight Limit": 2535
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.7
+          }
+     }
+},{
+     "model_name": "FERRARI 212 Inter 1951-1953",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 2562,
+               "Power": "110.3 KW @ 6500 RPM\n150 HP @ 6500 RPM\n148 BHP @ 6500 RPM",
+               "Torque": "121 lb-ft @ 5000 RPM\n164 Nm @ 5000 RPM",
+               "Fuel System": "1 Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "5.90 x 15"
+          },
+          "DIMENSIONS": {
+               "Length": 161.4,
+               "Width": 60,
+               "Height": 53.1,
+               "Front/rear Track": "50/49.2 in (1,270/1,250 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 6.7,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2315,
+               "Gross Weight Limit": 2756
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 18.4
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "FERRARI 212 Inter Cabriolet 1951-1953",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 2562,
+               "Power": "110.3 KW @ 6500 RPM\n150 HP @ 6500 RPM\n148 BHP @ 6500 RPM",
+               "Torque": "121 lb-ft @ 5000 RPM\n164 Nm @ 5000 RPM",
+               "Fuel System": "1 Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "6.40 x 15"
+          },
+          "DIMENSIONS": {
+               "Length": 161.4,
+               "Width": 60,
+               "Height": 53.1,
+               "Front/rear Track": "50/49.2 in (1,270/1,250 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 6.7,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2094,
+               "Gross Weight Limit": 2535
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 18.4
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "FERRARI 212 Export 1951-1952",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 2562,
+               "Power": "121.3 KW @ 7000 RPM\n165 HP @ 7000 RPM\n163 BHP @ 7000 RPM",
+               "Torque": "134 lb-ft @ 5000 RPM\n182 Nm @ 5000 RPM",
+               "Fuel System": "3 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "5.50 x 16"
+          },
+          "DIMENSIONS": {
+               "Length": 151.6,
+               "Width": 57.1,
+               "Height": 51.2,
+               "Front/rear Track": "50/49.2 in (1,270/1,250 mm)",
+               "Wheelbase": 88.6,
+               "Ground Clearance": 5.5,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2205,
+               "Gross Weight Limit": 2646
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 18.5
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "FERRARI 250 GTO 1962-1964",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 2953,
+               "Power": "220.7 KW @ 7500 RPM\n300 HP @ 7500 RPM\n296 BHP @ 7500 RPM",
+               "Torque": "217 lb-ft @ 5500 RPM\n294 Nm @ 5500 RPM",
+               "Fuel System": "6 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "6.00 x 15 || 7.00 x 15"
+          },
+          "DIMENSIONS": {
+               "Length": 173.2,
+               "Width": 65.9,
+               "Height": 49,
+               "Front/rear Track": "53.2/53 in (1,351/1,346 mm)",
+               "Wheelbase": 94.5,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2094,
+               "Gross Weight Limit": 2535
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 13.8
+          }
+     }
+},{
+     "model_name": "FERRARI 250 GT 1954-1963",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 2953,
+               "Power": "161.8 KW @ 7000 RPM\n220 HP @ 7000 RPM\n217 BHP @ 7000 RPM",
+               "Torque": "196 lb-ft @ 5000 RPM\n265 Nm @ 5000 RPM",
+               "Fuel System": "3 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185 VR 16"
+          },
+          "DIMENSIONS": {
+               "Length": 175.2,
+               "Width": 65,
+               "Height": 49.2,
+               "Front/rear Track": "53.3/53.1 in (1,354/1,349 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 5.5,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2425,
+               "Gross Weight Limit": 2976
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 13.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 250 Europa 1953-1955",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 2963,
+               "Power": "147.1 KW @ 6300 RPM\n200 HP @ 6300 RPM\n197 BHP @ 6300 RPM",
+               "Torque": "175 lb-ft @ 5000 RPM\n237 Nm @ 5000 RPM",
+               "Fuel System": "3 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 135,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "7.10 x 15"
+          },
+          "DIMENSIONS": {
+               "Length": 169.3,
+               "Width": 63,
+               "Height": 48,
+               "Front/rear Track": "52.2/52 in (1,326/1,321 mm)",
+               "Wheelbase": 110.2,
+               "Ground Clearance": 5.5,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2590,
+               "Gross Weight Limit": 3142
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.9
+          }
+     }
+},{
+     "model_name": "FERRARI 275 GTS 1965-1968",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 3286,
+               "Power": "191 KW @ 7000 RPM\n260 HP @ 7000 RPM\n256 BHP @ 7000 RPM",
+               "Torque": "217 lb-ft @ 5500 RPM\n294 Nm @ 5500 RPM",
+               "Fuel System": "3 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "250-TR/59"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 67,
+               "Height": 48.5,
+               "Front/rear Track": "54.2/54.8 in (1,377/1,392 mm)",
+               "Wheelbase": 94.5,
+               "Ground Clearance": 5.1,
+               "Aerodynamics (Cd)": 0.45
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2800,
+               "Gross Weight Limit": 3527
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10,
+               "Highway": 14.1,
+               "Combined": 15.7
+          }
+     }
+},{
+     "model_name": "FERRARI 275 GTB 1964-1968",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 3286,
+               "Power": "206 KW @ 7600 RPM\n280 HP @ 7600 RPM\n276 BHP @ 7600 RPM",
+               "Torque": "217 lb-ft @ 5000 RPM\n294 Nm @ 5000 RPM",
+               "Fuel System": "3 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195 or 205 x 14"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 67,
+               "Height": 48.5,
+               "Front/rear Track": "54.2/54.8 in (1,377/1,392 mm)",
+               "Wheelbase": 94.5,
+               "Ground Clearance": 6,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2425,
+               "Gross Weight Limit": 3307
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.2,
+               "Highway": 15.1,
+               "Combined": 13.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI LaFerrari 2013-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6262,
+               "Power": "588 KW @ 9000 RPM\n800 HP @ 9000 RPM\n789 BHP @ 9000 RPM",
+               "Torque": "516 lb-ft @ 6750 RPM\n700 Nm @ 6750 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 218,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (DCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "398 x 223 x 36 mm Ventilated Ceramic Discs",
+               "Rear": "380 x 253 x 34 mm Ventilated Ceramic Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/30 R 19 || 345/30 R 20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.1,
+               "Width": 78.4,
+               "Height": 43.9,
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 3,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2976,
+               "Gross Weight Limit": 3439
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12,
+               "Highway": 16,
+               "Combined": 14,
+               "CO2 Emissions": 330
+          },
+          "NOTES": {
+               "Hybrid System": "\nElectric motor power: 120 kW (163 HP)\nTotal system power: 708 kW (963 HP)\nTotal system torque: 900 Nm (664 lb-ft)"
+          }
+     }
+},{
+     "model_name": "FERRARI Enzo 2002-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5998,
+               "Power": "485.4 KW @ 7800 RPM\n660 HP @ 7800 RPM\n651 BHP @ 7800 RPM",
+               "Torque": "485 lb-ft @ 5500 RPM\n657 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 217,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Carbon-Ceramic Ventilated Discs",
+               "Rear": "Carbon-Ceramic Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR 19 || 345/35 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 185,
+               "Width": 80,
+               "Height": 45,
+               "Front/rear Track": "65.3/65 in (1,659/1,651 mm)",
+               "Wheelbase": 104,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 2,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2989,
+               "Gross Weight Limit": 3571
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 6.5,
+               "Highway": 15.5,
+               "Combined": 10.2
+          }
+     }
+},{
+     "model_name": "FERRARI F50 1995-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 4698,
+               "Power": "382 KW @ 8500 RPM\n520 HP @ 8500 RPM\n512 BHP @ 8500 RPM",
+               "Torque": "347 lb-ft @ 6500 RPM\n470 Nm @ 6500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR18 || 335/30 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 176.4,
+               "Width": 78.2,
+               "Height": 44.1,
+               "Front/rear Track": "63.8/63.1 in (1,621/1,603 mm)",
+               "Wheelbase": 101.6,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 1.4,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2712,
+               "Gross Weight Limit": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 8,
+               "Highway": 11,
+               "Combined": 9
+          }
+     }
+},{
+     "model_name": "FERRARI F40 1987-1992",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2936,
+               "Power": "352 KW @ 7000 RPM\n478 HP @ 7000 RPM\n472 BHP @ 7000 RPM",
+               "Torque": "426 lb-ft @ 4000 RPM\n577 Nm @ 4000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 201,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/45ZR-17 || 335/35ZR-17"
+          },
+          "DIMENSIONS": {
+               "Length": 174.4,
+               "Width": 78,
+               "Height": 44.5,
+               "Front/rear Track": "62.8/63.4 in (1,595/1,610 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 1.1,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2756,
+               "Gross Weight Limit": 3153
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.8,
+               "Highway": 22.8,
+               "Combined": 19
+          }
+     }
+},{
+     "model_name": "FERRARI 288 GTO 1984-1986",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2855,
+               "Power": "294 KW @ 7000 RPM\n400 HP @ 7000 RPM\n394 BHP @ 7000 RPM",
+               "Torque": "366 lb-ft @ 3800 RPM\n496 Nm @ 3800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 VR16 // 265/50 VR16"
+          },
+          "DIMENSIONS": {
+               "Length": 168.9,
+               "Width": 75.2,
+               "Height": 44.1,
+               "Front/rear Track": "61.4/61.5 in (1,560/1,562 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 4.7,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2557,
+               "Gross Weight Limit": 3307
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.2,
+               "Highway": 23.1,
+               "Combined": 19
+          }
+     }
+},{
+     "model_name": "FERRARI 308 GTSi Quattrovalvole 1982-1985",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2927,
+               "Power": "171.5 KW @ 6800 RPM\n233.2 HP @ 6800 RPM\n230 BHP @ 6800 RPM",
+               "Torque": "188 lb-ft @ 5500 RPM\n255 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70 VR14 || 205/70 VR14"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 67.7,
+               "Height": 44,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 92.1,
+               "Ground Clearance": 4.6,
+               "Cargo Volume": 8.7,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2835,
+               "Gross Weight Limit": 3384
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.8,
+               "Highway": 20.5,
+               "Combined": 16.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 308 GTBi Quatrovalvole 1982-1985",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2927,
+               "Power": "171.5 KW @ 6800 RPM\n233.2 HP @ 6800 RPM\n230 BHP @ 6800 RPM",
+               "Torque": "188 lb-ft @ 5500 RPM\n255 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 VR 16 || 225/50 VR 16"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 67.7,
+               "Height": 44.1,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 92.1,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 8.7,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2932,
+               "Gross Weight Limit": 3549
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.5,
+               "Highway": 16.9,
+               "Combined": 16.6
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 308 GTSi 1980-1982",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2927,
+               "Power": "152.9 KW @ 6600 RPM\n207.8 HP @ 6600 RPM\n205 BHP @ 6600 RPM",
+               "Torque": "181 lb-ft @ 4600 RPM\n245 Nm @ 4600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 146,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 VR 16 || 225/55 VR 16"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 67.7,
+               "Height": 44.1,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 92.1,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 5.3,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2976,
+               "Gross Weight Limit": 3450
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11,
+               "Highway": 18,
+               "Combined": 13
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 308 GTBi 1980-1983",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2927,
+               "Power": "152.9 KW @ 6600 RPM\n207.8 HP @ 6600 RPM\n205 BHP @ 6600 RPM",
+               "Torque": "181 lb-ft @ 4600 RPM\n245 Nm @ 4600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 146,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 VR 16 || 225/55 VR 16"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 67.7,
+               "Height": 44.1,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 92.1,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 5.3,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2954,
+               "Gross Weight Limit": 3417
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11,
+               "Highway": 18,
+               "Combined": 13
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 308 GTS 1977-1980",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2927,
+               "Power": "179 KW @ 6600 RPM\n243.3 HP @ 6600 RPM\n240 BHP @ 6600 RPM",
+               "Torque": "195 lb-ft @ 5000 RPM\n264 Nm @ 5000 RPM",
+               "Fuel System": "4 Carburettors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70 VR 14"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 67.7,
+               "Height": 44.1,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 92.1,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 5.3,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2954,
+               "Gross Weight Limit": 3450
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9,
+               "Highway": 15.7,
+               "Combined": 13.8
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "1975 Ferrari 308 GTB",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2927,
+               "Power": "179 KW @ 6600 RPM\n243.3 HP @ 6600 RPM\n240 BHP @ 6600 RPM",
+               "Torque": "195 lb-ft @ 5000 RPM\n264 Nm @ 5000 RPM",
+               "Fuel System": "4 Carburettors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70 VR 14"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 67.7,
+               "Height": 44.1,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 92.1,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 5.3,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3109,
+               "Gross Weight Limit": 3583
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.1,
+               "Highway": 14.3,
+               "Combined": 13.8
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "1985 Ferrari 328 GTB",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3185,
+               "Power": "193.9 KW @ 7000 RPM\n263.6 HP @ 7000 RPM\n260 BHP @ 7000 RPM",
+               "Torque": "213 lb-ft @ 5500 RPM\n289 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 160,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 VR 16 || 225/50 VR 16"
+          },
+          "DIMENSIONS": {
+               "Length": 167.5,
+               "Width": 68.1,
+               "Height": 44.4,
+               "Front/rear Track": "58.5/57.7 in (1,486/1,466 mm)",
+               "Wheelbase": 92.5,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 8.7,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2972,
+               "Gross Weight Limit": 3549
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 18,
+               "Combined": 15
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "1985 Ferrari 328 GTS",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3185,
+               "Power": "193.9 KW @ 7000 RPM\n263.6 HP @ 7000 RPM\n260 BHP @ 7000 RPM",
+               "Torque": "213 lb-ft @ 5500 RPM\n289 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 160,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 VR 16 || 225/50 VR 16"
+          },
+          "DIMENSIONS": {
+               "Length": 167.5,
+               "Width": 68.1,
+               "Height": 44.4,
+               "Front/rear Track": "58.5/57.7 in (1,486/1,466 mm)",
+               "Wheelbase": 92.5,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 8.7,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2954,
+               "Gross Weight Limit": 3549
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 18,
+               "Combined": 15
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 348 GTB 1993-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3405,
+               "Power": "235.3 KW @ 7200 RPM\n320 HP @ 7200 RPM\n316 BHP @ 7200 RPM",
+               "Torque": "239 lb-ft @ 5000 RPM\n324 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/50 ZR 17 || 255/45 ZR 17"
+          },
+          "DIMENSIONS": {
+               "Length": 16.7,
+               "Width": 74.6,
+               "Height": 46.1,
+               "Front/rear Track": "59.1/62.1 in (1,501/1,577 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 7.5,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3241,
+               "Gross Weight Limit": 3704
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.8,
+               "Highway": 24.5,
+               "Combined": 18.5
+          }
+     }
+},{
+     "model_name": "FERRARI 348 GTS 1993-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3405,
+               "Power": "235.3 KW @ 7200 RPM\n320 HP @ 7200 RPM\n316 BHP @ 7200 RPM",
+               "Torque": "239 lb-ft @ 5000 RPM\n324 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/50 ZR 17 || 255/45 ZR 17"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 74.6,
+               "Height": 46.1,
+               "Front/rear Track": "59.1/62.1 in (1,501/1,577 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 8.5,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3263,
+               "Gross Weight Limit": 3704
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.8,
+               "Highway": 24.5,
+               "Combined": 18.5
+          }
+     }
+},{
+     "model_name": "FERRARI 348 tb 1989-1993",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3405,
+               "Power": "220 KW @ 7200 RPM\n300 HP @ 7200 RPM\n295 BHP @ 7200 RPM",
+               "Torque": "238 lb-ft @ 4200 RPM\n323 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 171,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225-50 ZR 17"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 74.6,
+               "Height": 46.1,
+               "Front/rear Track": "59.1/62.1 in (1,501/1,577 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 7.5,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3170,
+               "Gross Weight Limit": 3704
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.3,
+               "Highway": 23.8,
+               "Combined": 19.9
+          }
+     }
+},{
+     "model_name": "FERRARI 348 ts 1989-1993",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3405,
+               "Power": "220.7 KW @ 7200 RPM\n300 HP @ 7200 RPM\n296 BHP @ 7200 RPM",
+               "Torque": "238 lb-ft @ 4200 RPM\n323 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 171,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/50 ZR 17 || 255/50 ZR 17"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 74.6,
+               "Height": 46.1,
+               "Front/rear Track": "59.1/62.2 in (1,501/1,580 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 8.5,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3175,
+               "Gross Weight Limit": 3704
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.3,
+               "Highway": 23.8,
+               "Combined": 19.9
+          }
+     }
+},{
+     "model_name": "FERRARI 348 Spider 1993-1995",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3405,
+               "Power": "235.4 KW @ 7200 RPM\n320 HP @ 7200 RPM\n316 BHP @ 7200 RPM",
+               "Torque": "239 lb-ft @ 5000 RPM\n324 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225-50 ZR 17"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 74.6,
+               "Height": 46.1,
+               "Front/rear Track": "59.1/62.1 in (1,501/1,577 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 8.5,
+               "Aerodynamics (Cd)": 0.42
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3274,
+               "Gross Weight Limit": 3704
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.8,
+               "Highway": 24.5,
+               "Combined": 18.5
+          }
+     }
+},{
+     "model_name": "FERRARI 360 Challenge Stradale (F 131) 2003-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3586,
+               "Power": "313 KW @ 8500 RPM\n425 HP @ 8500 RPM\n420 BHP @ 8500 RPM",
+               "Torque": "275 lb-ft @ 4750 RPM\n373 Nm @ 4750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Composite Ventilated Discs",
+               "Rear": "Composite Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/35 ZR19 || 285/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 176.3,
+               "Width": 75.7,
+               "Height": 46.6,
+               "Front/rear Track": "65.7/63.7 in (1,669/1,618 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 7.7,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2822,
+               "Gross Weight Limit": 3373
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10,
+               "Highway": 16,
+               "Combined": 12.2
+          }
+     }
+},{
+     "model_name": "FERRARI 360 Modena 1999-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3586,
+               "Power": "294 KW @ 8500 RPM\n400 HP @ 8500 RPM\n394 BHP @ 8500 RPM",
+               "Torque": "275 lb-ft @ 4750 RPM\n373 Nm @ 4750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Composite Ventilated Discs",
+               "Rear": "Composite Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/45 ZR18 || 275/40 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 176.3,
+               "Width": 75.7,
+               "Height": 47.8,
+               "Front/rear Track": "65.7/63.7 in (1,669/1,618 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 7.7,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3064,
+               "Gross Weight Limit": 3748
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 8.4,
+               "Highway": 19.6,
+               "Combined": 13.1,
+               "CO2 Emissions": 312
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 360 Spider 2000-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3586,
+               "Power": "294 KW @ 8500 RPM\n400 HP @ 8500 RPM\n394 BHP @ 8500 RPM",
+               "Torque": "275 lb-ft @ 4750 RPM\n373 Nm @ 4750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 181,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/45 ZR18 || 275/40 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 176.3,
+               "Width": 75.7,
+               "Height": 47.8,
+               "Front/rear Track": "65.7/63.7 in (1,669/1,618 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 7.7,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3197,
+               "Gross Weight Limit": 3814
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 7.7,
+               "Highway": 17.8,
+               "Combined": 12,
+               "CO2 Emissions": 321
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 365 GTS/4 1969-1974",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 4390,
+               "Power": "259 KW @ 7500 RPM\n352 HP @ 7500 RPM\n347 BHP @ 7500 RPM",
+               "Torque": "319 lb-ft @ 5500 RPM\n432 Nm @ 5500 RPM",
+               "Fuel System": "6 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 X 15"
+          },
+          "DIMENSIONS": {
+               "Length": 174.2,
+               "Width": 69.3,
+               "Height": 49,
+               "Front/rear Track": "56.7/56.1 in (1,440/1,425 mm)",
+               "Wheelbase": 94.5,
+               "Ground Clearance": 5.1,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3351,
+               "Gross Weight Limit": 3880
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 16.5,
+               "CO2 Emissions": 428
+          }
+     }
+},{
+     "model_name": "1968 Ferrari 365 GTB/4",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 4390,
+               "Power": "259 KW @ 7500 RPM\n352 HP @ 7500 RPM\n347 BHP @ 7500 RPM",
+               "Torque": "319 lb-ft @ 5500 RPM\n432 Nm @ 5500 RPM",
+               "Fuel System": "6 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 VR 15"
+          },
+          "DIMENSIONS": {
+               "Length": 174.2,
+               "Width": 69.3,
+               "Height": 49,
+               "Front/rear Track": "56.7/56.1 in (1,440/1,425 mm)",
+               "Wheelbase": 94.5,
+               "Ground Clearance": 5.1,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2822,
+               "Gross Weight Limit": 3373
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 17,
+               "CO2 Emissions": 420
+          }
+     }
+},{
+     "model_name": "FERRARI 365GT4 BB/ 512BB/ 512 BBi 1973-1984",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "B12",
+               "Displacement": 4942,
+               "Power": "280 KW @ 7700 RPM\n380 HP @ 7700 RPM\n375 BHP @ 7700 RPM",
+               "Torque": "311 lb-ft @ 5500 RPM\n422 Nm @ 5500 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 188,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 VR15 // 225/70 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 71,
+               "Height": 44,
+               "Front/rear Track": "59.4/61.9 in (1,509/1,572 mm)",
+               "Wheelbase": 99
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2723
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 412 1985-1989",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 4943,
+               "Power": "250 KW @ 6000 RPM\n340 HP @ 6000 RPM\n335 BHP @ 6000 RPM",
+               "Torque": "333 lb-ft @ 4200 RPM\n451 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "240/55 VR 415"
+          },
+          "DIMENSIONS": {
+               "Length": 189.4,
+               "Width": 70.8,
+               "Height": 51.7,
+               "Front/rear Track": "58.1/59.4 in (1,476/1,509 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4034,
+               "Gross Weight Limit": 4850
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 8.9,
+               "Highway": 15.4,
+               "Combined": 12.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 400i 1979-1985",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 4823,
+               "Power": "228 KW @ 6400 RPM\n310 HP @ 6400 RPM\n306 BHP @ 6400 RPM",
+               "Torque": "289 lb-ft @ 4200 RPM\n392 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 VR 15"
+          },
+          "DIMENSIONS": {
+               "Length": 189.4,
+               "Width": 70.9,
+               "Height": 51.8,
+               "Front/rear Track": "57.9/59.1 in (1,471/1,501 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 17.2,
+               "Aerodynamics (Cd)": 0.47
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4101,
+               "Gross Weight Limit": 4850
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 8.1,
+               "Highway": 13.8,
+               "Combined": 11.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 400 1976-1979",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 4823,
+               "Power": "250 KW @ 6500 RPM\n340 HP @ 6500 RPM\n335 BHP @ 6500 RPM",
+               "Torque": "347 lb-ft @ 3600 RPM\n471 Nm @ 3600 RPM",
+               "Fuel System": "6 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 VR 15"
+          },
+          "DIMENSIONS": {
+               "Length": 189.4,
+               "Width": 70.9,
+               "Height": 51.8,
+               "Front/rear Track": "57.9/59.1 in (1,471/1,501 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 17.2,
+               "Aerodynamics (Cd)": 0.47
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4145,
+               "Gross Weight Limit": 4850
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.5,
+               "Highway": 13.2,
+               "Combined": 12.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 456 M GT 1998-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5474,
+               "Power": "325 KW @ 6250 RPM\n442 HP @ 6250 RPM\n436 BHP @ 6250 RPM",
+               "Torque": "406 lb-ft @ 4500 RPM\n550 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/40 ZR 17"
+          },
+          "DIMENSIONS": {
+               "Length": 186.2,
+               "Width": 75.6,
+               "Height": 51.2,
+               "Front/rear Track": "62.4/63.2 in (1,585/1,605 mm)",
+               "Wheelbase": 102.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3726,
+               "Gross Weight Limit": 4850
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 12.7,
+               "CO2 Emissions": 442
+          }
+     }
+},{
+     "model_name": "FERRARI 456 GT 1992-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5474,
+               "Power": "325 KW @ 6250 RPM\n442 HP @ 6250 RPM\n436 BHP @ 6250 RPM",
+               "Torque": "406 lb-ft @ 4500 RPM\n550 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 185,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/45 ZR17 || 285/40 ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 186.2,
+               "Width": 75.6,
+               "Height": 51.2,
+               "Front/rear Track": "62.4/63.2 in (1,585/1,605 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 11.2,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4167,
+               "Gross Weight Limit": 4960
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 6.7,
+               "Highway": 16,
+               "Combined": 10.5,
+               "CO2 Emissions": 470
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 458 Italia 2009-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4497,
+               "Power": "419 KW @ 9000 RPM\n570 HP @ 9000 RPM\n562 BHP @ 9000 RPM",
+               "Torque": "398 lb-ft @ 6000 RPM\n540 Nm @ 6000 RPM",
+               "Fuel System": "Turbocharged direct injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (GETRAG)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Carbo-ceramic Ventilated Discs",
+               "Rear": "Carbo-ceramic Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 ZR20 8.5\u201d || 295/35 ZR20 10.5\u201d"
+          },
+          "DIMENSIONS": {
+               "Length": 178.2,
+               "Width": 76.3,
+               "Height": 47.8,
+               "Front/rear Track": "65.8/63.2 in (1,671/1,605 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 8.1,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3274,
+               "Gross Weight Limit": 3715
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.9,
+               "Highway": 24.2,
+               "Combined": 17.2,
+               "CO2 Emissions": 307
+          }
+     }
+},{
+     "model_name": "FERRARI 458 Speciale 2013-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4497,
+               "Power": "445 KW @ 9000 RPM\n605 HP @ 9000 RPM\n597 BHP @ 9000 RPM",
+               "Torque": "398 lb-ft @ 6000 RPM\n540 Nm @ 6000 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed F1 dual-clutch automatic transmission"
+          },
+          "BRAKES SPECS": {
+               "Front": "Carbon ceramic 398x223x36 mm",
+               "Rear": "Carbon ceramic 360x233x32 mm"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR20 J9.0 || 305/30 ZR 20 J11.0"
+          },
+          "DIMENSIONS": {
+               "Length": 180,
+               "Width": 76.8,
+               "Height": 47.4,
+               "Front/rear Track": "66.1/64.3 in (1,679/1,633 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.45,
+               "Cargo Volume": 8.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3075
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19.9,
+               "CO2 Emissions": 275
+          }
+     }
+},{
+     "model_name": "2015 Ferrari 458 Speciale A (Aperta)",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4497,
+               "Power": "445 KW @ 9000 RPM\n605 HP @ 9000 RPM\n597 BHP @ 9000 RPM",
+               "Torque": "398 lb-ft @ 6000 RPM\n540 Nm @ 6000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Carbon-ceramic Ventilated Discs",
+               "Rear": "Carbon-ceramic Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 ZR20 || 295/35 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 178.2,
+               "Width": 76.3,
+               "Height": 47.7,
+               "Front/rear Track": "65.8/63.2 in (1,671/1,605 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.45,
+               "Cargo Volume": 8.1,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3186,
+               "Gross Weight Limit": 3598
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19.9,
+               "CO2 Emissions": 275
+          }
+     }
+},{
+     "model_name": "FERRARI 458 Spider 2011-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4497,
+               "Power": "419 KW @ 9000 RPM\n570 HP @ 9000 RPM\n562 BHP @ 9000 RPM",
+               "Torque": "398 lb-ft @ 6000 RPM\n540 Nm @ 6000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated disc"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 ZR20 || 295/35 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 178.2,
+               "Width": 76.3,
+               "Height": 47.7,
+               "Front/rear Track": "65.8/63.2 in (1,671/1,605 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 8.12
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3384
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19.9,
+               "CO2 Emissions": 275
+          }
+     }
+},{
+     "model_name": "FERRARI 488 GTB 2015-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3902,
+               "Power": "492.8 KW @ 8000 RPM\n670 HP @ 8000 RPM\n661 BHP @ 8000 RPM",
+               "Torque": "561 lb-ft @ 3000 RPM\n760 Nm @ 3000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 205,
+               "Acceleration 0-62 Mph (0-100 kph)": 3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR20 J9.0 // 305/30 ZR 20 J11.0"
+          },
+          "DIMENSIONS": {
+               "Length": 179.8,
+               "Width": 76.9,
+               "Height": 47.8,
+               "Front/rear Track": "66.1/64.8 in (1,679/1,646 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 8.1,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3362
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 20.6,
+               "CO2 Emissions": 260
+          }
+     }
+},{
+     "model_name": "FERRARI 488 Spider 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3902,
+               "Power": "492.8 KW @ 8000 RPM\n670 HP @ 8000 RPM\n661 BHP @ 8000 RPM",
+               "Torque": "561 lb-ft @ 3000 RPM\n760 Nm @ 3000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR20 J9.0 // 305/30 ZR 20 J11.0"
+          },
+          "DIMENSIONS": {
+               "Length": 179.8,
+               "Width": 76.9,
+               "Height": 47.8,
+               "Front/rear Track": "66.1/64.8 in (1,679/1,646 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 8.1,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3362
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 20.6,
+               "CO2 Emissions": 260
+          }
+     }
+},{
+     "model_name": "FERRARI 575 M Superamerica 2005-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5748,
+               "Power": "397 KW @ 7250 RPM\n540 HP @ 7250 RPM\n532 BHP @ 7250 RPM",
+               "Torque": "434 lb-ft @ 5250 RPM\n589 Nm @ 5250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR19 || 305/30 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 179.1,
+               "Width": 76.2,
+               "Height": 50.3,
+               "Front/rear Track": "64.3/62.4 in (1,633/1,585 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 4,
+               "Cargo Volume": 8.1,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3946,
+               "Gross Weight Limit": 4519
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 7.1,
+               "Highway": 16.8,
+               "Combined": 11.5,
+               "CO2 Emissions": 532
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 550 Barchetta Pininfarina 2000-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5474,
+               "Power": "357 KW @ 7000 RPM\n485 HP @ 7000 RPM\n479 BHP @ 7000 RPM",
+               "Torque": "419 lb-ft @ 5000 RPM\n568 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR18 || 295/35 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 179.1,
+               "Width": 76.2,
+               "Height": 50.3,
+               "Front/rear Track": "64.3/62.4 in (1,633/1,585 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 6.5,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3726,
+               "Gross Weight Limit": 4299
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 6.2,
+               "Highway": 14.3,
+               "Combined": 9.6,
+               "CO2 Emissions": 547
+          }
+     }
+},{
+     "model_name": "FERRARI 575M Maranello 2002-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5748,
+               "Power": "379 KW @ 7250 RPM\n515 HP @ 7250 RPM\n508 BHP @ 7250 RPM",
+               "Torque": "434 lb-ft @ 5250 RPM\n589 Nm @ 5250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR18 || 295/35 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 179.1,
+               "Width": 75.3,
+               "Height": 50.3,
+               "Front/rear Track": "64.3/62.4 in (1,633/1,585 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 4,
+               "Cargo Volume": 6.5,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3814,
+               "Gross Weight Limit": 4519
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 6.9,
+               "Highway": 16.8,
+               "Combined": 11.1,
+               "CO2 Emissions": 535
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 550 Maranello 1996-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5474,
+               "Power": "357 KW @ 7000 RPM\n485 HP @ 7000 RPM\n479 BHP @ 7000 RPM",
+               "Torque": "419 lb-ft @ 5000 RPM\n568 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR18 || 295/35 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 179.1,
+               "Width": 76.2,
+               "Height": 50.3,
+               "Front/rear Track": "64.3/62.4 in (1,633/1,585 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 6.5,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3726,
+               "Gross Weight Limit": 4299
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 6.6,
+               "Highway": 15.2,
+               "Combined": 10.3,
+               "CO2 Emissions": 547
+          }
+     }
+},{
+     "model_name": "FERRARI 599 GTO 2010-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5999,
+               "Power": "492.8 KW @ 8250 RPM\n670 HP @ 8250 RPM\n661 BHP @ 8250 RPM",
+               "Torque": "457 lb-ft @ 6500 RPM\n620 Nm @ 6500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-automatic speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Disc",
+               "Rear": "Ventilated Disc"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/30 ZR 20 // 315/35 ZR 20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.4,
+               "Width": 77.2,
+               "Height": 52.2,
+               "Front/rear Track": "67/63.7 in (1,702/1,618 mm)",
+               "Wheelbase": 108.3,
+               "Cargo Volume": 11.3,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3296
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 7.2,
+               "Highway": 16,
+               "Combined": 11
+          }
+     }
+},{
+     "model_name": "FERRARI 599 GTB Fiorano 2006-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5999,
+               "Power": "456 KW @ 7600 RPM\n620 HP @ 7600 RPM\n612 BHP @ 7600 RPM",
+               "Torque": "448 lb-ft @ 5600 RPM\n608 Nm @ 5600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 205,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR19 || 305/35 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 183.7,
+               "Width": 77.2,
+               "Height": 51.7,
+               "Front/rear Track": "66.5/63.7 in (1,689/1,618 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 5,
+               "Cargo Volume": 11.3,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3726,
+               "Gross Weight Limit": 4409
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 7.2,
+               "Highway": 16,
+               "Combined": 11,
+               "CO2 Emissions": 490
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 612 Scaglietti 2004-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5748,
+               "Power": "397 KW @ 7250 RPM\n540 HP @ 7250 RPM\n532 BHP @ 7250 RPM",
+               "Torque": "434 lb-ft @ 5250 RPM\n588 Nm @ 5250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 ZR18 || 285/40 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 193,
+               "Width": 77,
+               "Height": 52.9,
+               "Front/rear Track": "66.5/64.6 in (1,689/1,641 mm)",
+               "Wheelbase": 116.1,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 8.5,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4134,
+               "Gross Weight Limit": 4960
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 7.3,
+               "Highway": 16.8,
+               "Combined": 11.4,
+               "CO2 Emissions": 468
+          },
+          "": {}
+     }
+},{
+     "model_name": "2014 Ferrari California T",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3855,
+               "Power": "412 KW @ 7500 RPM\n560 HP @ 7500 RPM\n553 BHP @ 7500 RPM",
+               "Torque": "557 lb-ft @ 4750 RPM\n755 Nm @ 4750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 196,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Carbon-ceramic 390 x 34 mm",
+               "Rear": "Carbon-ceramic 360 x 32 mm"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR19 |// 285/40 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 179.9,
+               "Width": 75.2,
+               "Height": 52,
+               "Front/rear Track": "64.2/63.2 in (1,631/1,605 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 12,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3583,
+               "Gross Weight Limit": 4178
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 22.4,
+               "CO2 Emissions": 250
+          }
+     }
+},{
+     "model_name": "FERRARI Dino 208 GT4 1975-1980",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 1991,
+               "Power": "125.1 KW @ 7700 RPM\n170 HP @ 7700 RPM\n168 BHP @ 7700 RPM",
+               "Torque": "137 lb-ft @ 4900 RPM\n186 Nm @ 4900 RPM",
+               "Fuel System": "4 Carburettors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/70 VR 14"
+          },
+          "DIMENSIONS": {
+               "Length": 170.1,
+               "Width": 70.9,
+               "Height": 47.6,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 100.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 7.1,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2866,
+               "Gross Weight Limit": 3638
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.7,
+               "Highway": 17.7,
+               "Combined": 13.8
+          }
+     }
+},{
+     "model_name": "FERRARI Dino 308 GT4 1973-1980",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2927,
+               "Power": "152.9 KW @ 6600 RPM\n207.8 HP @ 6600 RPM\n205 BHP @ 6600 RPM",
+               "Torque": "209 lb-ft @ 5000 RPM\n283 Nm @ 5000 RPM",
+               "Fuel System": "4 Carburettors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 146,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70 VR 14"
+          },
+          "DIMENSIONS": {
+               "Length": 170.1,
+               "Width": 70.9,
+               "Height": 47.6,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 100.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 7.1,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2866,
+               "Gross Weight Limit": 3638
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.4,
+               "Highway": 16,
+               "Combined": 13.7
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "1969 Dino 246 GT",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2419,
+               "Power": "144 KW @ 7600 RPM\n195 HP @ 7600 RPM\n193 BHP @ 7600 RPM",
+               "Torque": "166 lb-ft @ 5500 RPM\n225 Nm @ 5500 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70 VR14"
+          },
+          "DIMENSIONS": {
+               "Length": 166.7,
+               "Width": 67.3,
+               "Height": 42,
+               "Front/rear Track": "54.4/53.4 in (1,382/1,356 mm)",
+               "Wheelbase": 92.1,
+               "Ground Clearance": 4.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2380
+          }
+     }
+},{
+     "model_name": "FERRARI Dino 206 GT 1968-1969",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 1987,
+               "Power": "132.4 KW @ 8000 RPM\n180 HP @ 8000 RPM\n178 BHP @ 8000 RPM",
+               "Torque": "137 lb-ft @ 6500 RPM\n186 Nm @ 6500 RPM",
+               "Fuel System": "3 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 146,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185 HR 14"
+          },
+          "DIMENSIONS": {
+               "Length": 165.4,
+               "Width": 66.9,
+               "Height": 45.3,
+               "Front/rear Track": "56.1/55.1 in (1,425/1,400 mm)",
+               "Wheelbase": 89.8,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1984,
+               "Gross Weight Limit": 2425
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.4,
+               "Highway": 22.8,
+               "Combined": 18.8
+          }
+     }
+},{
+     "model_name": "FERRARI F12 Berlinetta 2012-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6262,
+               "Power": "544 KW @ 8250 RPM\n740 HP @ 8250 RPM\n730 BHP @ 8250 RPM",
+               "Torque": "509 lb-ft @ 6000 RPM\n690 Nm @ 6000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Ceramic Discs",
+               "Rear": "Ventilated Ceramic Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR 20 || 315/35 ZR 20"
+          },
+          "DIMENSIONS": {
+               "Length": 181.8,
+               "Width": 76.5,
+               "Height": 50.1,
+               "Front/rear Track": "65.6/63.7 in (1,666/1,618 mm)",
+               "Wheelbase": 107.1,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 8.8,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3362,
+               "Gross Weight Limit": 3924
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.7,
+               "CO2 Emissions": 350
+          }
+     }
+},{
+     "model_name": "2014 FERRARI F12 TRS",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6262,
+               "Power": "544 KW @ 8250 RPM\n740 HP @ 8250 RPM\n730 BHP @ 8250 RPM",
+               "Torque": "509 lb-ft @ 6000 RPM\n690 Nm @ 6000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Ceramic Discs",
+               "Rear": "Ventilated Ceramic Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR 20 || 315/35 ZR 20"
+          },
+          "DIMENSIONS": {
+               "Length": 189.7,
+               "Width": 76.5,
+               "Height": 50.1,
+               "Front/rear Track": "65.2/63.7 in (1,656/1,618 mm)",
+               "Wheelbase": 107.1,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 11.3,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3594,
+               "Gross Weight Limit": 4255
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.7,
+               "CO2 Emissions": 350
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "FERRARI F12tdf 2015-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6262,
+               "Power": "573.7 KW @ 8500 RPM\n780 HP @ 8500 RPM\n769 BHP @ 8500 RPM",
+               "Torque": "520 lb-ft @ 6250 RPM\n705 Nm @ 6250 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (F1 Dual-Clutch)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35 ZR 20 10 J || 315/35 ZR 20 11.5J"
+          },
+          "DIMENSIONS": {
+               "Length": 183.3,
+               "Width": 77.2,
+               "Height": 50.1,
+               "Front/rear Track": "65.9/64.9 in (1,674/1,648 mm)",
+               "Wheelbase": 107.1,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 11.3,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.3,
+               "CO2 Emissions": 360
+          }
+     }
+},{
+     "model_name": "FERRARI F149 California 2012-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4297,
+               "Power": "360 KW @ 7750 RPM\n490 HP @ 7750 RPM\n483 BHP @ 7750 RPM",
+               "Torque": "372 lb-ft @ 5000 RPM\n504 Nm @ 5000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed dual-clutch automated or 6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "ceramic brakes 15.4 x 1.34 in",
+               "Rear": "ceramic brakes 15.4 x 1.34 in"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR19 || 285/40 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 179.6,
+               "Width": 75.1,
+               "Height": 52,
+               "Front/rear Track": "64.2/63.2 in (1,631/1,605 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 12,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3593
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 19,
+               "Combined": 15,
+               "CO2 Emissions": 299
+          }
+     }
+},{
+     "model_name": "FERRARI F149 California 2008-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4297,
+               "Power": "338 KW @ 7750 RPM\n460 HP @ 7750 RPM\n453 BHP @ 7750 RPM",
+               "Torque": "358 lb-ft @ 5000 RPM\n485 Nm @ 5000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 193,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "15.4 x 1.34 in Ventilated Ceramic Discs",
+               "Rear": "15.4 x 1.34 in Ventilated Ceramic Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR19 || 285/40 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 179.6,
+               "Width": 75.1,
+               "Height": 52,
+               "Front/rear Track": "64.2/63.2 in (1,631/1,605 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 12,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3593,
+               "Gross Weight Limit": 4850
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12,
+               "Highway": 25,
+               "Combined": 18,
+               "CO2 Emissions": 299
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI F355 GTS 1995-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3495,
+               "Power": "279.5 KW @ 8250 RPM\n380 HP @ 8250 RPM\n375 BHP @ 8250 RPM",
+               "Torque": "268 lb-ft @ 6000 RPM\n363 Nm @ 6000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/40 ZR 18 || 265/40 ZR 18"
+          },
+          "DIMENSIONS": {
+               "Length": 167.3,
+               "Width": 74.8,
+               "Height": 46.1,
+               "Front/rear Track": "59.6/63.6 in (1,514/1,615 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 7.8,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3197,
+               "Gross Weight Limit": 3704
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.6,
+               "Highway": 20.6,
+               "Combined": 15.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI F355 1994-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3496,
+               "Power": "279 KW @ 8250 RPM\n380 HP @ 8250 RPM\n374 BHP @ 8250 RPM",
+               "Torque": "268 lb-ft @ 6000 RPM\n363 Nm @ 6000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/40 ZR 18 || 265/40 ZR 18"
+          },
+          "DIMENSIONS": {
+               "Length": 167.3,
+               "Width": 74.8,
+               "Height": 46.1,
+               "Front/rear Track": "59.6/63.5 in (1,514/1,613 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 7.7,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3192,
+               "Gross Weight Limit": 3704
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 8.9,
+               "Highway": 15.9,
+               "Combined": 14.6,
+               "CO2 Emissions": 376
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI F355 Spider 1995-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3496,
+               "Power": "279 KW @ 8250 RPM\n380 HP @ 8250 RPM\n374 BHP @ 8250 RPM",
+               "Torque": "268 lb-ft @ 6000 RPM\n363 Nm @ 6000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/40 ZR 18"
+          },
+          "DIMENSIONS": {
+               "Length": 167.3,
+               "Width": 74.8,
+               "Height": 46.1,
+               "Front/rear Track": "59.6/63.6 in (1,514/1,615 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 7.7,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2974,
+               "Gross Weight Limit": 3703
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.6,
+               "Highway": 21.8,
+               "Combined": 15.2,
+               "CO2 Emissions": 370
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI 430 Scuderia 2007-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4308,
+               "Power": "375 KW @ 8500 RPM\n510 HP @ 8500 RPM\n503 BHP @ 8500 RPM",
+               "Torque": "347 lb-ft @ 5250 RPM\n470 Nm @ 5250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 X 19 || 285/35 X 19"
+          },
+          "DIMENSIONS": {
+               "Length": 177.6,
+               "Width": 75.7,
+               "Height": 47.8,
+               "Front/rear Track": "65.7/63.6 in (1,669/1,615 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 8.8,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2976,
+               "Gross Weight Limit": 3527
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10,
+               "Highway": 21.4,
+               "Combined": 15,
+               "CO2 Emissions": 360
+          }
+     }
+},{
+     "model_name": "FERRARI F430 2004-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4308,
+               "Power": "360 KW @ 8500 RPM\n489 HP @ 8500 RPM\n483 BHP @ 8500 RPM",
+               "Torque": "343 lb-ft @ 5250 RPM\n465 Nm @ 5250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 25.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 196,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 177.6,
+               "Width": 75.7,
+               "Height": 47.8,
+               "Front/rear Track": "65.7/63.6 in (1,669/1,615 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 7.7,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3197,
+               "Gross Weight Limit": 3747
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 8.7,
+               "Highway": 17.7,
+               "Combined": 12.8,
+               "CO2 Emissions": 420
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI F430 Spider 2005-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4308,
+               "Power": "360 KW @ 8500 RPM\n490 HP @ 8500 RPM\n483 BHP @ 8500 RPM",
+               "Torque": "343 lb-ft @ 5250 RPM\n465 Nm @ 5250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 193,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 177.6,
+               "Width": 75.7,
+               "Height": 48.6,
+               "Front/rear Track": "65.7/63.6 in (1,669/1,615 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 7.7,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3351,
+               "Gross Weight Limit": 3792
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 8.7,
+               "Highway": 17.7,
+               "Combined": 12.9,
+               "CO2 Emissions": 420
+          },
+          "": {}
+     }
+},{
+     "model_name": "FERRARI FF 2011-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6262,
+               "Power": "485 KW @ 8000 RPM\n660 HP @ 8000 RPM\n650 BHP @ 8000 RPM",
+               "Torque": "504 lb-ft @ 6000 RPM\n683 Nm @ 6000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 208.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic (dual clutch)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR 20 || 295/35 ZR 20"
+          },
+          "DIMENSIONS": {
+               "Length": 193.2,
+               "Width": 76.9,
+               "Height": 54.3,
+               "Front/rear Track": "66/65.4 in (1,676/1,661 mm)",
+               "Wheelbase": 117.7,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4144.7,
+               "Gross Weight Limit": 4861
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11,
+               "Highway": 16,
+               "Combined": 15.3,
+               "CO2 Emissions": 360
+          }
+     }
+},{
+     "model_name": "2005 Ferrari FXX",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6262,
+               "Power": "588.4 KW @ 8500 RPM\n800 HP @ 8500 RPM\n789 BHP @ 8500 RPM",
+               "Torque": "506 lb-ft @ 5750 RPM\n686 Nm @ 5750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 214,
+               "Acceleration 0-62 Mph (0-100 kph)": 3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Carbon-Ceramic Ventilated Discs",
+               "Rear": "Carbon-Ceramic Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR 19 || 345/35 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 185.1,
+               "Width": 80.1,
+               "Height": 45.2,
+               "Front/rear Track": "65.4/65 in (1,661/1,651 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 3.5,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2646,
+               "Gross Weight Limit": 2976
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 5.7,
+               "Highway": 12.6,
+               "Combined": 10.2
+          }
+     }
+},{
+     "model_name": "2017 Ferrari LaFerrari Aperta",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6262,
+               "Power": "588.4 KW @ 9000 RPM\n800 HP @ 9000 RPM\n789 BHP @ 9000 RPM",
+               "Torque": "516 lb-ft @ 6750 RPM\n700 Nm @ 6750 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 218,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (DCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "398 x 223 x 36 mm Ventilated Ceramic Discs",
+               "Rear": "380 x 253 x 34 mm Ventilated Ceramic Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/30 R 19 || 345/30 R 20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.1,
+               "Width": 78.4,
+               "Height": 43.9,
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 3,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12,
+               "Highway": 16,
+               "Combined": 14
+          },
+          "NOTES": {
+               "Hybrid System": "\nElectric motor power: 120 KW (163 HP)\nTotal system power: 708 kW (963 HP)\nTotal system torque: 900 Nm (664 lb-ft)"
+          }
+     }
+},{
+     "model_name": "1989 Ferrari Mondial T",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3405,
+               "Power": "220.7 KW @ 7200 RPM\n300 HP @ 7200 RPM\n296 BHP @ 7200 RPM",
+               "Torque": "238 lb-ft @ 4200 RPM\n323 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 158,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 ZR 16 || 225/55 ZR 16"
+          },
+          "DIMENSIONS": {
+               "Length": 178.5,
+               "Width": 71.3,
+               "Height": 48.6,
+               "Front/rear Track": "59.9/61.4 in (1,521/1,560 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3318,
+               "Gross Weight Limit": 4023
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.8,
+               "Highway": 21,
+               "Combined": 17.4
+          }
+     }
+},{
+     "model_name": "FERRARI Mondial 3.2 1985-1989",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3185,
+               "Power": "193.9 KW @ 7000 RPM\n263.6 HP @ 7000 RPM\n260 BHP @ 7000 RPM",
+               "Torque": "213 lb-ft @ 5500 RPM\n289 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 VR 16 || 225/55 VR 16"
+          },
+          "DIMENSIONS": {
+               "Length": 178.5,
+               "Width": 70.7,
+               "Height": 48.6,
+               "Front/rear Track": "59.8/59.4 in (1,519/1,509 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3395,
+               "Gross Weight Limit": 4167
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 18,
+               "Combined": 15
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "FERRARI Mondial Quattrovalvole 1982-1985",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2927,
+               "Power": "171.5 KW @ 7000 RPM\n233.2 HP @ 7000 RPM\n230 BHP @ 7000 RPM",
+               "Torque": "188 lb-ft @ 5000 RPM\n255 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "240/55 VR 390"
+          },
+          "DIMENSIONS": {
+               "Length": 180.3,
+               "Width": 70.5,
+               "Height": 49.6,
+               "Front/rear Track": "58.9/59.7 in (1,496/1,516 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3384,
+               "Gross Weight Limit": 4034
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11,
+               "Highway": 19,
+               "Combined": 13
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "1980 Ferrari Mondial 8",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2927,
+               "Power": "152.9 KW @ 6600 RPM\n207.8 HP @ 6600 RPM\n205 BHP @ 6600 RPM",
+               "Torque": "181 lb-ft @ 5000 RPM\n245 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "240/55VR390"
+          },
+          "DIMENSIONS": {
+               "Length": 182.7,
+               "Width": 70.5,
+               "Height": 49.6,
+               "Front/rear Track": "58.9/59.8 in (1,496/1,519 mm)",
+               "Wheelbase": 104.2,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3188,
+               "Gross Weight Limit": 4034
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11,
+               "Highway": 18,
+               "Combined": 13
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "1989 Ferrari Mondial T Cabriolet",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3405,
+               "Power": "220.7 KW @ 7200 RPM\n300 HP @ 7200 RPM\n296 BHP @ 7200 RPM",
+               "Torque": "238 lb-ft @ 4200 RPM\n323 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 158,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 ZR 16 || 225/55 ZR 16"
+          },
+          "DIMENSIONS": {
+               "Length": 178.5,
+               "Width": 71.3,
+               "Height": 49.8,
+               "Front/rear Track": "59.9/61.4 in (1,521/1,560 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3406,
+               "Gross Weight Limit": 4023
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.8,
+               "Highway": 21,
+               "Combined": 17.4
+          }
+     }
+},{
+     "model_name": "FERRARI Mondial 3.2 Cabriolet 1985-1988",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3185,
+               "Power": "193.9 KW @ 7000 RPM\n263.6 HP @ 7000 RPM\n260 BHP @ 7000 RPM",
+               "Torque": "213 lb-ft @ 5500 RPM\n289 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 147,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 VR 16 || 225/55 VR 16"
+          },
+          "DIMENSIONS": {
+               "Length": 178.5,
+               "Width": 70.7,
+               "Height": 49.8,
+               "Front/rear Track": "59.8/59.4 in (1,519/1,509 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3263,
+               "Gross Weight Limit": 4023
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 18,
+               "Combined": 15
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "FERRARI Mondial Quattrovalvole Cabriolet 1983-1985",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 2927,
+               "Power": "176.5 KW @ 7000 RPM\n240 HP @ 7000 RPM\n237 BHP @ 7000 RPM",
+               "Torque": "192 lb-ft @ 5000 RPM\n260 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "240/55 VR 390"
+          },
+          "DIMENSIONS": {
+               "Length": 180.3,
+               "Width": 70.5,
+               "Height": 49.6,
+               "Front/rear Track": "58.9/59.7 in (1,496/1,516 mm)",
+               "Wheelbase": 104.3,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3307,
+               "Gross Weight Limit": 4034
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.9,
+               "Highway": 21.8,
+               "Combined": 16.9
+          }
+     }
+},{
+     "model_name": "FERRARI Scuderia Spider 16M 2008-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4308,
+               "Power": "375.1 KW @ 8500 RPM\n510 HP @ 8500 RPM\n503 BHP @ 8500 RPM",
+               "Torque": "347 lb-ft @ 5250 RPM\n470 Nm @ 5250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 195.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 R19 / 285/35 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 177.6,
+               "Width": 75.7,
+               "Height": 47.9,
+               "Front/rear Track": "65.7/63.6 in (1,669/1,615 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 7.8,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3175,
+               "Gross Weight Limit": 3748
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11,
+               "Highway": 16,
+               "Combined": 15.7,
+               "CO2 Emissions": 360
+          }
+     }
+},{
+     "model_name": "FERRARI 512 M 1994-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 4943,
+               "Power": "324 KW @ 6750 RPM\n440 HP @ 6750 RPM\n434 BHP @ 6750 RPM",
+               "Torque": "369 lb-ft @ 5500 RPM\n500 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 195,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR18 (Front) - 295/35 ZR18 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 176.6,
+               "Width": 77.8,
+               "Height": 44.7,
+               "Front/rear Track": "60.3/64.7 in (1,532/1,643 mm)",
+               "Wheelbase": 100.4,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 8.8,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3268,
+               "Gross Weight Limit": 4056
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15,
+               "CO2 Emissions": 357
+          }
+     }
+},{
+     "model_name": "FERRARI 512 TR 1992-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 4943,
+               "Power": "314.8 KW @ 6750 RPM\n428 HP @ 6750 RPM\n422 BHP @ 6750 RPM",
+               "Torque": "362 lb-ft @ 5500 RPM\n491 Nm @ 5500 RPM",
+               "Fuel System": "Bosch Motronic M2.7 electronic injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 195,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR18 // 295/35 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 176.4,
+               "Width": 77.8,
+               "Height": 44.7,
+               "Front/rear Track": "60.3/64.7 in (1,532/1,643 mm)",
+               "Wheelbase": 100.4,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 8.8,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3247,
+               "Gross Weight Limit": 3505
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.4,
+               "Highway": 19.9,
+               "Combined": 23.5
+          }
+     }
+},{
+     "model_name": "FERRARI Testarossa 1984-1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "B12",
+               "Displacement": 4942,
+               "Power": "287 KW @ 6300 RPM\n390 HP @ 6300 RPM\n385 BHP @ 6300 RPM",
+               "Torque": "361 lb-ft @ 4500 RPM\n490 Nm @ 4500 RPM",
+               "Fuel System": "Electronic Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 181,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "240/45 VR415 TRX"
+          },
+          "DIMENSIONS": {
+               "Length": 176.6,
+               "Width": 77.8,
+               "Height": 44.5,
+               "Front/rear Track": "59.8/65.4 in (1,519/1,661 mm)",
+               "Wheelbase": 100.4,
+               "Ground Clearance": 5.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3320
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.6,
+               "CO2 Emissions": 371
+          }
+     }
+},	
+ ] } 

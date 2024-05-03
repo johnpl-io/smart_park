@@ -1,0 +1,116 @@
+{ "brand_name" : "HINDUSTAN", "models": [
+{
+     "model_name": "HINDUSTAN Pushpak/Trekker 1999-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1489,
+               "Power": "28 KW @ 4000 RPM\n38 HP @ 4000 RPM\n38 BHP @ 4000 RPM",
+               "Torque": "59 lb-ft @ 2250 RPM\n80 Nm @ 2250 RPM",
+               "Fuel": "Diesel"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "6.40 - 15.8 PR"
+          },
+          "DIMENSIONS": {
+               "Length": 150.9,
+               "Width": 64.9,
+               "Front/rear Track": "55.6/53.5 in (1,412/1,359 mm)",
+               "Wheelbase": 91
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2579.8,
+               "Gross Weight Limit": 4399
+          },
+          "": {}
+     }
+},{
+     "model_name": "HINDUSTAN RTV/Ranger 1998-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1995,
+               "Power": "40 KW @ 4500 RPM\n54 HP @ 4500 RPM\n54 BHP @ 4500 RPM",
+               "Torque": "80 lb-ft @ 2500 RPM\n108 Nm @ 2500 RPM",
+               "Fuel": "Diesel"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "7.00 X 15 X 10 PR"
+          },
+          "DIMENSIONS": {
+               "Length": 182.1,
+               "Width": 66.9,
+               "Height": 97.6,
+               "Front/rear Track": "56.1/56.1 in (1,425/1,425 mm)",
+               "Wheelbase": 100.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4608.4,
+               "Gross Weight Limit": 7497
+          },
+          "": {}
+     }
+},{
+     "model_name": "HINDUSTAN Ambassador 1959-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1817,
+               "Power": "55 KW @ 5000 RPM\n75 HP @ 5000 RPM\n74 BHP @ 5000 RPM",
+               "Torque": "100 lb-ft @ 3000 RPM\n135 Nm @ 3000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/80 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 170.3,
+               "Width": 63.9,
+               "Height": 62.7,
+               "Front/rear Track": "53.5/53.1 in (1,359/1,349 mm)",
+               "Wheelbase": 97,
+               "Ground Clearance": 6,
+               "Cargo Volume": 15.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2434.3,
+               "Gross Weight Limit": 2434.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.5,
+               "Highway": 33.6,
+               "Combined": 27.7,
+               "CO2 Emissions": 202
+          },
+          "": {}
+     }
+},	
+ ] } 

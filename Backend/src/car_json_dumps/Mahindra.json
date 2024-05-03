@@ -1,0 +1,139 @@
+{ "brand_name" : "Mahindra", "models": [
+{
+     "model_name": "Mahindra Thar 2010-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2523,
+               "Power": "47 KW @ 3400 RPM\n63.9 HP @ 3400 RPM\n63 BHP @ 3400 RPM",
+               "Torque": "135 lb-ft @ 1500-1800 RPM\n182 Nm @ 1500-1800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Diesel"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 148,
+               "Width": 64.6,
+               "Height": 75,
+               "Front/rear Track": "51.7/51 in (1,313/1,295 mm)",
+               "Wheelbase": 95.7,
+               "Ground Clearance": 7.4,
+               "Cargo Volume": 13.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 42.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mahindra Bolero 2011-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2523,
+               "Power": "46 KW @ 3200 RPM\n63 HP @ 3200 RPM\n62 BHP @ 3200 RPM",
+               "Torque": "144 lb-ft @ 1400-2200 RPM\n195 Nm @ 1400-2200 RPM",
+               "Fuel System": "Common Rail Direct Injection",
+               "Fuel": "Diesel"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215 / 75 R 15"
+          },
+          "DIMENSIONS": {
+               "Length": 161.7,
+               "Width": 68.7,
+               "Height": 74,
+               "Wheelbase": 105.5,
+               "Ground Clearance": 7.1
+          }
+     }
+},{
+     "model_name": "Mahindra Scorpio / Goa 2002-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2179,
+               "Power": "87 KW @ 4000 RPM\n118 HP @ 4000 RPM\n117 BHP @ 4000 RPM",
+               "Torque": "214 lb-ft @ 1800-2800 RPM\n290 Nm @ 1800-2800 RPM",
+               "Fuel System": "Common Rail",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5 speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P235 / 70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 174.4,
+               "Width": 71.5,
+               "Height": 77.8,
+               "Wheelbase": 105.5
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 5754
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mahindra Verito 2012-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 1390,
+               "Power": "55 KW @ 5500 RPM\n75 HP @ 5500 RPM\n74 BHP @ 5500 RPM",
+               "Torque": "81 lb-ft @ 3000 RPM\n110 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5 speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/70 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 168.4,
+               "Width": 68.5,
+               "Height": 60.6,
+               "Wheelbase": 103.5,
+               "Ground Clearance": 6.8,
+               "Cargo Volume": 18
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2381,
+               "Gross Weight Limit": 3527
+          },
+          "": {}
+     }
+},	
+ ] } 

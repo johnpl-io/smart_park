@@ -1,0 +1,3118 @@
+{ "brand_name" : "JAGUAR", "models": [
+{
+     "model_name": "JAGUAR F-Pace SVR 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "404.5 KW @ - RPM\n550 HP @ - RPM\n542 BHP @ - RPM",
+               "Torque": "516 lb-ft @ - RPM\n700 Nm @ - RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 178,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Aerodynamics (Cd)": 0.36
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 19.3,
+               "CO2 Emissions (Combined)": "275 g/km"
+          }
+     }
+},{
+     "model_name": "JAGUAR F-Pace SVR 2018-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "404.5 KW @ 6500 RPM\n550 HP @ 6500 RPM\n542 BHP @ 6500 RPM",
+               "Torque": "502 lb-ft @ 3500 RPM\n680 Nm @ 3500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 176,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic Quickshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Wheelbase": 113.1,
+               "Ground Clearance": 8.4
+          }
+     }
+},{
+     "model_name": "JAGUAR F-Type Coupe 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "220.6 KW @ 5500 RPM\n300 HP @ 5500 RPM\n296 BHP @ 5500 RPM",
+               "Torque": "295 lb-ft @ 1500-4500 RPM\n400 Nm @ 1500-4500 RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35/ZR20 // 305/30/ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 176.5,
+               "Width": 75.7,
+               "Height": 51.6,
+               "Front/rear Track": "62.9/64.9 in (1,598/1,648 mm)",
+               "Wheelbase": 103.2,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 10.9,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3516,
+               "Gross Weight Limit": 4244
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.8,
+               "Highway": 34.6,
+               "Combined": 29,
+               "CO2 Emissions": 184
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "17.7 mpg US (13.3 L/100Km)",
+               "CO2 Emissions (Low)": "302 g/km",
+               "Medium": "24.5 mpg US (9.6 L/100Km)",
+               "CO2 Emissions (Medium)": "218 g/km",
+               "High": "28.3 mpg US (8.3 L/100Km)",
+               "CO2 Emissions (High)": "190 g/km",
+               "Extra high": "26.4 mpg US (8.9 L/100Km)",
+               "CO2 Emissions (Extra high)": "201 g/km",
+               "Combined": 25,
+               "CO2 Emissions (Combined)": "215 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR F-Type 400 Coupe 2017-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2995,
+               "Power": "294.2 KW @ 6500 RPM\n400 HP @ 6500 RPM\n395 BHP @ 6500 RPM",
+               "Torque": "339 lb-ft @ 3500-5500 RPM\n460 Nm @ 3500-5500 RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 171,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 176.5,
+               "Width": 75.7,
+               "Height": 51.6,
+               "Front/rear Track": "62.4/64.1 in (1,585/1,628 mm)",
+               "Wheelbase": 103.2,
+               "Ground Clearance": 4,
+               "Cargo Volume": 10.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3514,
+               "Gross Weight Limit": 4519
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.6,
+               "Highway": 35.6,
+               "Combined": 27.4,
+               "CO2 Emissions": 203
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR F-Type Coupe 2017-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "220.7 KW @ 5500 RPM\n300 HP @ 5500 RPM\n296 BHP @ 5500 RPM",
+               "Torque": "295 lb-ft @ 1500-4500 RPM\n400 Nm @ 1500-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 176.5,
+               "Width": 75.7,
+               "Height": 51.6,
+               "Front/rear Track": "62.9/64.9 in (1,598/1,648 mm)",
+               "Wheelbase": 103.2,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 10.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3362,
+               "Gross Weight Limit": 4244
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26.7,
+               "Highway": 37.9,
+               "Combined": 32.7,
+               "CO2 Emissions": 163
+          },
+          "": {}
+     }
+},{
+     "model_name": "2014 Jaguar F-Type Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2995,
+               "Power": "250 KW @ 6500 RPM\n340 HP @ 6500 RPM\n335 BHP @ 6500 RPM",
+               "Torque": "332 lb-ft @ 3500-5000 RPM\n450 Nm @ 3500-5000 RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 162,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R18 || 275/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 176,
+               "Width": 75.7,
+               "Height": 51.5,
+               "Front/rear Track": "62.9/64.9 in (1,598/1,648 mm)",
+               "Wheelbase": 103.2,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 11.1,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3455,
+               "Gross Weight Limit": 4409
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.4,
+               "Highway": 30.9,
+               "Combined": 24,
+               "CO2 Emissions": 234
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR F-Pace 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "183.9 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
+               "Torque": "269 lb-ft @ 1300-4500 RPM\n365 Nm @ 1300-4500 RPM",
+               "Fuel System": "Electronic control, direct injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 186.9,
+               "Width": 81.5,
+               "Height": 64.7,
+               "Front/rear Track": "64.6/65 in (1,641/1,651 mm)",
+               "Wheelbase": 113.1,
+               "Ground Clearance": 8.4,
+               "Cargo Volume": 28,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4182,
+               "Gross Weight Limit": 5291
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 25.3,
+               "CO2 Emissions (Combined)": "209 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2015 Jaguar F-Pace",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "183.9 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
+               "Torque": "269 lb-ft @ 1200-4500 RPM\n365 Nm @ 1200-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 135,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/60 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 186.3,
+               "Width": 76.2,
+               "Height": 65,
+               "Front/rear Track": "64.6/65.1 in (1,641/1,654 mm)",
+               "Wheelbase": 113.1,
+               "Ground Clearance": 8.4,
+               "Cargo Volume": 23,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3880,
+               "Gross Weight Limit": 5423
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.8,
+               "Highway": 35.6,
+               "Combined": 31.8,
+               "CO2 Emissions": 170
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR F-Type Convertible 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "220.6 KW @ 5500 RPM\n300 HP @ 5500 RPM\n296 BHP @ 5500 RPM",
+               "Torque": "295 lb-ft @ 1500-4500 RPM\n400 Nm @ 1500-4500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic Quickshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40ZR19 // 245/40R19"
+          },
+          "DIMENSIONS": {
+               "Length": 176,
+               "Width": 75.7,
+               "Height": 51.5,
+               "Front/rear Track": "62.8/64.8 in (1,595/1,646 mm)",
+               "Wheelbase": 103.2,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 8.2,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3560,
+               "Gross Weight Limit": 4244
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.8,
+               "Highway": 34.6,
+               "Combined": 29,
+               "CO2 Emissions": 184
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "17.7 mpg US (13.3 L/100Km)",
+               "CO2 Emissions (Low)": "303 g/km",
+               "Medium": "24.2 mpg US (9.7 L/100Km)",
+               "CO2 Emissions (Medium)": "220 g/km",
+               "High": "28 mpg US (8.4 L/100Km)",
+               "CO2 Emissions (High)": "192 g/km",
+               "Extra high": "26.1 mpg US (9 L/100Km)",
+               "CO2 Emissions (Extra high)": "205 g/km",
+               "Combined": 24.5,
+               "CO2 Emissions (Combined)": "217 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR F-Type Convertible 2017-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "220.7 KW @ 5500 RPM\n300 HP @ 5500 RPM\n296 BHP @ 5500 RPM",
+               "Torque": "295 lb-ft @ 1500-4500 RPM\n400 Nm @ 1500-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R18 // 275/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 176.5,
+               "Width": 75.7,
+               "Height": 51.5,
+               "Front/rear Track": "62.9/64.9 in (1,598/1,648 mm)",
+               "Wheelbase": 103.2,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 10.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3406,
+               "Gross Weight Limit": 4244
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26.7,
+               "Highway": 37.9,
+               "Combined": 32.7,
+               "CO2 Emissions": 163
+          },
+          "": {}
+     }
+},{
+     "model_name": "2014 Jaguar F-Type",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2995,
+               "Power": "250 KW @ 6500 RPM\n340 HP @ 6500 RPM\n335 BHP @ 6500 RPM",
+               "Torque": "332 lb-ft @ 3500-5000 RPM\n450 Nm @ 3500-5000 RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 162,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R18 || 275/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 176,
+               "Width": 75.7,
+               "Height": 51,
+               "Front/rear Track": "62.4/64.1 in (1,585/1,628 mm)",
+               "Wheelbase": 103.2,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 7.1,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3499,
+               "Gross Weight Limit": 4409
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.4,
+               "Highway": 30.9,
+               "Combined": 24,
+               "CO2 Emissions": 234
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XF Sportbrake (X260) 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "183.9 KW @ - RPM\n250 HP @ - RPM\n247 BHP @ - RPM",
+               "Torque": "196 lb-ft @ - RPM\n265 Nm @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XF Sportbrake 2017-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "183.9 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
+               "Torque": "269 lb-ft @ 1200-4500 RPM\n365 Nm @ 1200-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 150,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 195.1,
+               "Width": 78.2,
+               "Height": 58.9,
+               "Front/rear Track": "62.9/63 in (1,598/1,600 mm)",
+               "Wheelbase": 116.5,
+               "Ground Clearance": 4.6,
+               "Cargo Volume": 20,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3759,
+               "Gross Weight Limit": 5049
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27.7,
+               "Highway": 39.9,
+               "Combined": 34.6,
+               "CO2 Emissions": 155
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XF Sportbrake (X250) 2012-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2179,
+               "Power": "120 KW @ 3500 RPM\n163 HP @ 3500 RPM\n161 BHP @ 3500 RPM",
+               "Torque": "295 lb-ft @ 2000 RPM\n400 Nm @ 2000 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Diesel",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50R17"
+          },
+          "DIMENSIONS": {
+               "Length": 195.5,
+               "Width": 73.9,
+               "Height": 58.3,
+               "Front/rear Track": "61.4/63.2 in (1,560/1,605 mm)",
+               "Wheelbase": 114.5,
+               "Ground Clearance": 4.6,
+               "Cargo Volume": 19.4,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4021,
+               "Gross Weight Limit": 5269
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 39,
+               "Highway": 55,
+               "Combined": 46,
+               "CO2 Emissions": 135
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XE 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "183.9 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
+               "Torque": "269 lb-ft @ 1300-4500 RPM\n365 Nm @ 1300-4500 RPM",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 184.2,
+               "Width": 81.7,
+               "Height": 55.7,
+               "Front/rear Track": "39.4/63.1 in (1,001/1,603 mm)",
+               "Wheelbase": 111.6,
+               "Cargo Volume": 14.5,
+               "Aerodynamics (Cd)": 0.27
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3552
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 33.6,
+               "CO2 Emissions": 159
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XE 300 Sport 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "220.6 KW @ 5500 RPM\n300 HP @ 5500 RPM\n296 BHP @ 5500 RPM",
+               "Torque": "295 lb-ft @ 1500-4500 RPM\n400 Nm @ 1500-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 183.9,
+               "Width": 72.8,
+               "Height": 55.7,
+               "Front/rear Track": "63.1/63.1 in (1,603/1,603 mm)",
+               "Wheelbase": 111.6,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3571,
+               "Gross Weight Limit": 4872
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "CO2 Emissions": 157
+          }
+     }
+},{
+     "model_name": "2015 Jaguar XE",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "147 KW @ 5500 RPM\n200 HP @ 5500 RPM\n197 BHP @ 5500 RPM",
+               "Torque": "236 lb-ft @ 1750-4000 RPM\n320 Nm @ 1750-4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 147,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 183.9,
+               "Width": 72.8,
+               "Height": 55.7,
+               "Front/rear Track": "63.1/63.1 in (1,603/1,603 mm)",
+               "Wheelbase": 111.6,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3373,
+               "Gross Weight Limit": 4674
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.1,
+               "Highway": 39.2,
+               "Combined": 31.4,
+               "CO2 Emissions": 179
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XJR575 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "422.9 KW @ 6250-6500 RPM\n575 HP @ 6250-6500 RPM\n567 BHP @ 6250-6500 RPM",
+               "Torque": "516 lb-ft @ 3500-4500 RPM\n700 Nm @ 3500-4500 RPM",
+               "Fuel System": "Supercharged Direct Injection"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 202,
+               "Width": 76.8,
+               "Height": 57.5,
+               "Front/rear Track": "64/63.1 in (1,626/1,603 mm)",
+               "Wheelbase": 119.4,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 16.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4134,
+               "Gross Weight Limit": 5291
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 21.2,
+               "CO2 Emissions": 264
+          }
+     }
+},{
+     "model_name": "2013 Jaguar XJR (X351)",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "405 KW @ 6500 RPM\n550 HP @ 6500 RPM\n543 BHP @ 6500 RPM",
+               "Torque": "502 lb-ft @ 2500-5500 RPM\n681 Nm @ 2500-5500 RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic transmission"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 R20 || 295/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 206.8,
+               "Width": 74.8,
+               "Height": 57.4,
+               "Front/rear Track": "64/63.1 in (1,626/1,603 mm)",
+               "Wheelbase": 124.3,
+               "Ground Clearance": 5,
+               "Cargo Volume": 18.4,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4145,
+               "Gross Weight Limit": 5225
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.9,
+               "Highway": 27.4,
+               "Combined": 20.3,
+               "CO2 Emissions": 270
+          }
+     }
+},{
+     "model_name": "JAGUAR XJR 2007-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "298 KW @ 6100 RPM\n400 HP @ 6100 RPM\n400 BHP @ 6100 RPM",
+               "Torque": "408 lb-ft @ 3500 RPM\n553 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-automatic speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 200.4,
+               "Width": 73.2,
+               "Height": 57,
+               "Front/rear Track": "61.3/60.9 in (1,557/1,547 mm)",
+               "Wheelbase": 119.4,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 16.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3659,
+               "Gross Weight Limit": 4989
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.1,
+               "Highway": 27,
+               "Combined": 19.4,
+               "CO2 Emissions": 289
+          }
+     }
+},{
+     "model_name": "JAGUAR XJR 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "298 KW @ 6100 RPM\n400 HP @ 6100 RPM\n400 BHP @ 6100 RPM",
+               "Torque": "408 lb-ft @ 3500 RPM\n553 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-automatic speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 200.4,
+               "Width": 73.2,
+               "Height": 57,
+               "Front/rear Track": "61.3/60.9 in (1,557/1,547 mm)",
+               "Wheelbase": 119.4,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 16.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3589,
+               "Gross Weight Limit": 4989
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.6,
+               "Highway": 26.1,
+               "Combined": 19.1,
+               "CO2 Emissions": 299
+          }
+     }
+},{
+     "model_name": "JAGUAR XJR 1997-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3996,
+               "Power": "276 KW @ 6150 RPM\n370 HP @ 6150 RPM\n370 BHP @ 6150 RPM",
+               "Torque": "387 lb-ft @ 3600 RPM\n525 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-automatic speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 197.6,
+               "Width": 70.9,
+               "Height": 51.2,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 113,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 14.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3913.2,
+               "Gross Weight Limit": 4982.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.7,
+               "Highway": 23.5,
+               "Combined": 18,
+               "CO2 Emissions": 313
+          }
+     }
+},{
+     "model_name": "JAGUAR XJR 1994-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3980,
+               "Power": "240 KW @ 5000 RPM\n326 HP @ 5000 RPM\n322 BHP @ 5000 RPM",
+               "Torque": "378 lb-ft @ 3050 RPM\n512 Nm @ 3050 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-automatic speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/45 ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 197.6,
+               "Width": 70.9,
+               "Height": 51.2,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 113,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 14.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3913.2,
+               "Gross Weight Limit": 5059.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 18.8,
+               "CO2 Emissions": 278
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XJR15 1990-1992",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5993,
+               "Power": "330.9 KW @ 6250 RPM\n450 HP @ 6250 RPM\n444 BHP @ 6250 RPM",
+               "Torque": "420 lb-ft @ 4500 RPM\n570 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 185,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "9.5 J17 || 13 J17"
+          },
+          "DIMENSIONS": {
+               "Length": 189,
+               "Width": 74.8,
+               "Height": 43.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2315
+          }
+     }
+},{
+     "model_name": "JAGUAR XF (X260) 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "183.9 KW @ - RPM\n250 HP @ - RPM\n247 BHP @ - RPM",
+               "Torque": "269 lb-ft @ - RPM\n365 Nm @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 6.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 29.4,
+               "CO2 Emissions": 181
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XF 2015-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "147.1 KW @ 5500 RPM\n200 HP @ 5500 RPM\n197 BHP @ 5500 RPM",
+               "Torque": "236 lb-ft @ 1200-4500 RPM\n320 Nm @ 1200-4500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 146,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 195,
+               "Width": 74,
+               "Height": 57.4,
+               "Front/rear Track": "63.2/62.8 in (1,605/1,595 mm)",
+               "Wheelbase": 116.5,
+               "Ground Clearance": 4.6,
+               "Cargo Volume": 19.1,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3605,
+               "Gross Weight Limit": 4982
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28,
+               "Highway": 40.6,
+               "Combined": 34.6,
+               "CO2 Emissions": 154
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XF (X250) 2012-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "177 KW @ 5500 RPM\n241 HP @ 5500 RPM\n237 BHP @ 5500 RPM",
+               "Torque": "251 lb-ft @ 2000-4000 RPM\n340 Nm @ 2000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 195.3,
+               "Width": 73.9,
+               "Height": 57.5,
+               "Front/rear Track": "63/63.2 in (1,600/1,605 mm)",
+               "Wheelbase": 114.5,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3660,
+               "Gross Weight Limit": 4916
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.6,
+               "Highway": 37.9,
+               "Combined": 26.4,
+               "CO2 Emissions": 207
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XFR 2011-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "283.2 KW @ 6500 RPM\n385 HP @ 6500 RPM\n380 BHP @ 6500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 195.3,
+               "Width": 73.9,
+               "Height": 57.5,
+               "Front/rear Track": "61.4/63.2 in (1,560/1,605 mm)",
+               "Wheelbase": 114.5,
+               "Cargo Volume": 32.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3924,
+               "Gross Weight Limit": 5038
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.6,
+               "Highway": 30.2,
+               "Combined": 21.2
+          }
+     }
+},{
+     "model_name": "JAGUAR XF (X250) 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2967,
+               "Power": "175 KW @ 6800 RPM\n238 HP @ 6800 RPM\n235 BHP @ 6800 RPM",
+               "Torque": "216 lb-ft @ 4100 RPM\n293 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 147.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50 ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 195.3,
+               "Width": 74,
+               "Height": 57.5,
+               "Front/rear Track": "61.4/63 in (1,560/1,600 mm)",
+               "Wheelbase": 114.6,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 19.1,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3701.6,
+               "Gross Weight Limit": 4883.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.9,
+               "Highway": 31.4,
+               "Combined": 22.4,
+               "CO2 Emissions": 249
+          },
+          "": {}
+     }
+},{
+     "model_name": "2017 Jaguar E-Pace",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "147.1 KW @ 5500 RPM\n200 HP @ 5500 RPM\n197 BHP @ 5500 RPM",
+               "Torque": "251 lb-ft @ 1250 RPM\n340 Nm @ 1250 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 134,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 173.7,
+               "Width": 78.1,
+               "Height": 64.9,
+               "Front/rear Track": "64/63.9 in (1,626/1,623 mm)",
+               "Wheelbase": 105.6,
+               "Cargo Volume": 20.4,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3874
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28.7,
+               "CO2 Emissions": 186
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR I-PACE 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "EV400",
+               "Power": "289.8 KW @ 4250 RPM\n394 HP @ 4250 RPM\n389 BHP @ 4250 RPM",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Automatic"
+          },
+          "DIMENSIONS": {
+               "Length": 184.3,
+               "Width": 84.2,
+               "Height": 61.3,
+               "Front/rear Track": "64.7x65.5 in (1643 mm)",
+               "Wheelbase": 117.7,
+               "Ground Clearance": 5.6,
+               "Cargo Volume": 17.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4784,
+               "Gross Weight Limit": 5886
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion battery",
+               "Nominal Capacity": 90,
+               "Charging time (normal)": "12.9 hours",
+               "Range": 292
+          },
+          "NOTES": {
+               "Charge Time": "Level 2 - 0-80% (hours) / 0-100% (hours) / DC 50 kW - 0-80% (mins)"
+          }
+     }
+},{
+     "model_name": "JAGUAR XE SV Project 8 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4999,
+               "Power": "441.3 KW @ - RPM\n600 HP @ - RPM\n592 BHP @ - RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 200,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 185.6,
+               "Width": 81.8,
+               "Height": 56.5,
+               "Wheelbase": 111.6,
+               "Cargo Volume": 15.9
+          }
+     }
+},{
+     "model_name": "2016 Jaguar F-Type SVR Roadster",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "422.9 KW @ 6500 RPM\n575 HP @ 6500 RPM\n567 BHP @ 6500 RPM",
+               "Torque": "516 lb-ft @ 3500-5000 RPM\n700 Nm @ 3500-5000 RPM",
+               "Fuel System": "Supercharged Direct injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 195,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35/ZR20 || 305/30/ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 176.2,
+               "Width": 75.7,
+               "Height": 51.5,
+               "Front/rear Track": "62.4/63.4 in (1,585/1,610 mm)",
+               "Wheelbase": 103.2,
+               "Ground Clearance": 4.2,
+               "Cargo Volume": 7.3,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3792,
+               "Gross Weight Limit": 4740
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.5,
+               "Highway": 27.7,
+               "Combined": 20.8,
+               "CO2 Emissions": 269
+          }
+     }
+},{
+     "model_name": "2017 Jaguar F-Type SVR",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "422.9 KW @ 6500 RPM\n575 HP @ 6500 RPM\n567 BHP @ 6500 RPM",
+               "Torque": "516 lb-ft @ 3500 RPM\n700 Nm @ 3500 RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 195,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 176.2,
+               "Width": 75.7,
+               "Height": 51.5,
+               "Front/rear Track": "62.4/63.4 in (1,585/1,610 mm)",
+               "Wheelbase": 103.2,
+               "Ground Clearance": 4.2,
+               "Cargo Volume": 10.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3792,
+               "Gross Weight Limit": 4740
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.5,
+               "Highway": 27.7,
+               "Combined": 20.8,
+               "CO2 Emissions": 269
+          }
+     }
+},{
+     "model_name": "JAGUAR S-Type 2004-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2497,
+               "Power": "150 KW @ 6800 RPM\n204 HP @ 6800 RPM\n201 BHP @ 6800 RPM",
+               "Torque": "184 lb-ft @ 4000 RPM\n250 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 141.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 ZR16"
+          },
+          "DIMENSIONS": {
+               "Length": 192.9,
+               "Width": 71.7,
+               "Height": 57.1,
+               "Front/rear Track": "60.2/60.6 in (1,529/1,539 mm)",
+               "Wheelbase": 114.6,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 14.1,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3571.5,
+               "Gross Weight Limit": 4689.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.7,
+               "Highway": 32.2,
+               "Combined": 24.8,
+               "CO2 Emissions": 229
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR S-Type 1999-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2967,
+               "Power": "179 KW @ 6800 RPM\n243 HP @ 6800 RPM\n240 BHP @ 6800 RPM",
+               "Torque": "221 lb-ft @ 4500 RPM\n300 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 146,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 ZR16"
+          },
+          "DIMENSIONS": {
+               "Length": 191.33,
+               "Width": 71.7,
+               "Height": 57,
+               "Front/rear Track": "60.4/60.7 in (1,534/1,542 mm)",
+               "Wheelbase": 114.5,
+               "Ground Clearance": 5.6,
+               "Cargo Volume": 13.1,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3593.5,
+               "Gross Weight Limit": 4475.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.8,
+               "Highway": 33.6,
+               "Combined": 23.5,
+               "CO2 Emissions": 249
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR S-Type R 2004-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "298 KW @ 6100 RPM\n400 HP @ 6100 RPM\n400 BHP @ 6100 RPM",
+               "Torque": "399 lb-ft @ 3500 RPM\n541 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR18 (Front) - 275/35 ZR18 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 192.9,
+               "Width": 71.7,
+               "Height": 57.1,
+               "Front/rear Track": "60.2/60.6 in (1,529/1,539 mm)",
+               "Wheelbase": 114.6,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 14.1,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4034.5,
+               "Gross Weight Limit": 5015.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.6,
+               "Highway": 25.3,
+               "Combined": 19,
+               "CO2 Emissions": 294
+          }
+     }
+},{
+     "model_name": "JAGUAR S-Type R 2002-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "298 KW @ 6100 RPM\n400 HP @ 6100 RPM\n400 BHP @ 6100 RPM",
+               "Torque": "398 lb-ft @ 3500 RPM\n540 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Automatic, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR18 (Front) - 275/35 ZR18 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 192.1,
+               "Width": 71.7,
+               "Height": 57.1,
+               "Front/rear Track": "60.2/60.6 in (1,529/1,539 mm)",
+               "Wheelbase": 114.6,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 13.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3968.3,
+               "Gross Weight Limit": 4938.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.7,
+               "Highway": 25.6,
+               "Combined": 18.8,
+               "CO2 Emissions": 314
+          }
+     }
+},{
+     "model_name": "JAGUAR X-Type 2001-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2099,
+               "Power": "117 KW @ 6800 RPM\n159 HP @ 6800 RPM\n157 BHP @ 6800 RPM",
+               "Torque": "148 lb-ft @ 4100 RPM\n200 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 183.9,
+               "Width": 70.4,
+               "Height": 54.8,
+               "Front/rear Track": "59.9/60.5 in (1,521/1,537 mm)",
+               "Wheelbase": 106.7,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 16,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3196.7,
+               "Gross Weight Limit": 4277
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.5,
+               "Highway": 33.1,
+               "Combined": 25.6,
+               "CO2 Emissions": 219
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR X-Type Estate 2004-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2099,
+               "Power": "117 KW @ 6800 RPM\n159 HP @ 6800 RPM\n157 BHP @ 6800 RPM",
+               "Torque": "148 lb-ft @ 4100 RPM\n200 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 128.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 183.9,
+               "Width": 70.4,
+               "Height": 54.8,
+               "Front/rear Track": "59.9/60.5 in (1,521/1,537 mm)",
+               "Wheelbase": 106.7,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 16,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3329,
+               "Gross Weight Limit": 4387.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.2,
+               "Highway": 32.7,
+               "Combined": 25.3,
+               "CO2 Emissions": 224
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XFR 2009-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "375 KW @ 6000-6500 RPM\n510 HP @ 6000-6500 RPM\n503 BHP @ 6000-6500 RPM",
+               "Torque": "461 lb-ft @ 2500-5000 RPM\n625 Nm @ 2500-5000 RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR20 // 285/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 195.3,
+               "Width": 81.8,
+               "Height": 57.5,
+               "Front/rear Track": "61.4/ 63.2 in (1,560/1,605 mm)",
+               "Wheelbase": 114.5,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 17.65,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4167,
+               "Gross Weight Limit": 5104
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.5,
+               "Highway": 27,
+               "Combined": 18.8,
+               "CO2 Emissions": 292
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XJ 2012-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "177 KW @ 5500 RPM\n241 HP @ 5500 RPM\n237 BHP @ 5500 RPM",
+               "Torque": "251 lb-ft @ 2000-4000 RPM\n340 Nm @ 2000-4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 150,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 201.6,
+               "Width": 83,
+               "Height": 57,
+               "Front/rear Track": "64/63.1 in (1,626/1,603 mm)",
+               "Wheelbase": 119.3,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 18.3,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3660,
+               "Gross Weight Limit": 4927
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.3,
+               "Highway": 34.6,
+               "Combined": 25.3,
+               "CO2 Emissions": 216
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XJ 2009-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "177 KW @ 5500 RPM\n241 HP @ 5500 RPM\n237 BHP @ 5500 RPM",
+               "Torque": "251 lb-ft @ 1900 RPM\n340 Nm @ 1900 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 150,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50R18"
+          },
+          "DIMENSIONS": {
+               "Length": 206.6,
+               "Width": 83,
+               "Height": 57,
+               "Front/rear Track": "64/63.1 in (1,626/1,603 mm)",
+               "Wheelbase": 119.3,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 18.3,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3743,
+               "Gross Weight Limit": 4938
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.3,
+               "Highway": 34.6,
+               "Combined": 25.3,
+               "CO2 Emissions": 216
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XJ 2007-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2967,
+               "Power": "176.5 KW @ 6800 RPM\n240 HP @ 6800 RPM\n237 BHP @ 6800 RPM",
+               "Torque": "221 lb-ft @ 4100 RPM\n300 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 145,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 200.4,
+               "Width": 73.2,
+               "Height": 57,
+               "Front/rear Track": "61.3/60.9 in (1,557/1,547 mm)",
+               "Wheelbase": 119.4,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3393,
+               "Gross Weight Limit": 4812
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.1,
+               "Highway": 29.8,
+               "Combined": 22,
+               "CO2 Emissions": 249
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XJ 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2967,
+               "Power": "179 KW @ 6800 RPM\n243 HP @ 6800 RPM\n240 BHP @ 6800 RPM",
+               "Torque": "221 lb-ft @ 4100 RPM\n300 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 145,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 200.4,
+               "Width": 73.2,
+               "Height": 57,
+               "Front/rear Track": "61.3/60.9 in (1,557/1,547 mm)",
+               "Wheelbase": 119.4,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3324,
+               "Gross Weight Limit": 4812
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.4,
+               "Highway": 30.5,
+               "Combined": 22.4,
+               "CO2 Emissions": 249
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XJ 1997-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3248,
+               "Power": "179 KW @ 6350 RPM\n240 HP @ 6350 RPM\n240 BHP @ 6350 RPM",
+               "Torque": "233 lb-ft @ 4350 RPM\n316 Nm @ 4350 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 139.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 ZR16"
+          },
+          "DIMENSIONS": {
+               "Length": 197.6,
+               "Width": 70.9,
+               "Height": 51.6,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 113,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 14.5,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3769.9,
+               "Gross Weight Limit": 4982.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.8,
+               "Highway": 26.1,
+               "Combined": 19.4,
+               "CO2 Emissions": 289
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XJ 1994-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3239,
+               "Power": "161 KW @ 5100 RPM\n219 HP @ 5100 RPM\n216 BHP @ 5100 RPM",
+               "Torque": "232 lb-ft @ 4500 RPM\n315 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60 ZR16"
+          },
+          "DIMENSIONS": {
+               "Length": 197.6,
+               "Width": 70.9,
+               "Height": 51.6,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 113,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 14.5,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XJ 1986-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2919,
+               "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
+               "Torque": "166 lb-ft @ 4300 RPM\n225 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 24
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "220/65 R390"
+          },
+          "DIMENSIONS": {
+               "Length": 117.7,
+               "Width": 70.5,
+               "Height": 54.3,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 113,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 15.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3792,
+               "Gross Weight Limit": 4717.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 22.8,
+               "CO2 Emissions": 245
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XJ 1979-1992",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3442,
+               "Power": "119 KW @ 5250 RPM\n162 HP @ 5250 RPM\n160 BHP @ 5250 RPM",
+               "Torque": "188 lb-ft @ 4000 RPM\n255 Nm @ 4000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 195.3,
+               "Width": 69.7,
+               "Height": 54.3,
+               "Front/rear Track": "58.3/59.1 in (1,481/1,501 mm)",
+               "Wheelbase": 112.6,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 17
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3747.9,
+               "Gross Weight Limit": 4960.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 18.8,
+               "CO2 Emissions": 297
+          },
+          "": {}
+     }
+},{
+     "model_name": "JAGUAR XJ220 1992-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3498,
+               "Power": "404 KW @ 7000 RPM\n542 HP @ 7000 RPM\n542 BHP @ 7000 RPM",
+               "Torque": "472 lb-ft @ 4500 RPM\n640 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 216.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/45 ZR17 // 345/35ZR 18"
+          },
+          "DIMENSIONS": {
+               "Length": 191.3,
+               "Width": 78.7,
+               "Height": 45.3,
+               "Wheelbase": 103.9,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3439.2
+          }
+     }
+},{
+     "model_name": "JAGUAR XK 2010-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "283 KW @ 6500 RPM\n385 HP @ 6500 RPM\n380 BHP @ 6500 RPM",
+               "Torque": "380 lb-ft @ 3500 RPM\n515 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6 speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 188.7,
+               "Width": 74.5,
+               "Height": 52,
+               "Wheelbase": 108.3,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 11.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3660,
+               "Gross Weight Limit": 4575
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.8,
+               "Highway": 29.4,
+               "Combined": 21,
+               "CO2 Emissions": 264
+          }
+     }
+},{
+     "model_name": "JAGUAR XK 2006-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3555,
+               "Power": "190 KW @ 6250 RPM\n258 HP @ 6250 RPM\n255 BHP @ 6250 RPM",
+               "Torque": "264 lb-ft @ 4200 RPM\n358 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 151,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/40ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 188.6,
+               "Width": 74.4,
+               "Height": 52,
+               "Front/rear Track": "61.4/63 in (1,560/1,600 mm)",
+               "Wheelbase": 108.2,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 11.7,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3516.4,
+               "Gross Weight Limit": 4486.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.7,
+               "Highway": 29,
+               "Combined": 20.8,
+               "CO2 Emissions": 269
+          },
+          "": {}
+     }
+},{
+     "model_name": "2002 Jaguar XK8",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "224 KW @ 6000 RPM\n300 HP @ 6000 RPM\n300 BHP @ 6000 RPM",
+               "Torque": "310 lb-ft @ 4100 RPM\n420 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Automatic, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/50 ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 188.18,
+               "Width": 72.04,
+               "Height": 51.18,
+               "Front/rear Track": "59.05/59.05 in (1,500/1,500 mm)",
+               "Wheelbase": 101.96,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 11.7,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3714.8,
+               "Gross Weight Limit": 4552.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.1,
+               "Highway": 28.3,
+               "Combined": 20.8,
+               "CO2 Emissions": 284
+          }
+     }
+},{
+     "model_name": "1996 Jaguar XK8",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "219.2 KW @ 6800 RPM\n298 HP @ 6800 RPM\n294 BHP @ 6800 RPM",
+               "Torque": "303 lb-ft @ 4100 RPM\n411 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-automatic speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/50 ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 187.4,
+               "Width": 72,
+               "Height": 51.2,
+               "Front/rear Track": "59.1/58.7 in (1,501/1,491 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 11.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3560.5,
+               "Gross Weight Limit": 4431.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.7,
+               "Highway": 27.4,
+               "Combined": 20.1,
+               "CO2 Emissions": 281
+          }
+     }
+},{
+     "model_name": "JAGUAR XK Cabrio 2010-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "283 KW @ 6500 RPM\n385 HP @ 6500 RPM\n380 BHP @ 6500 RPM",
+               "Torque": "380 lb-ft @ 3500 RPM\n515 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6 speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 188.7,
+               "Width": 74.5,
+               "Height": 52,
+               "Wheelbase": 108.3,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 11.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3680,
+               "Gross Weight Limit": 4453
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.8,
+               "Highway": 29.4,
+               "Combined": 21,
+               "CO2 Emissions": 264
+          }
+     }
+},{
+     "model_name": "JAGUAR XK Convertible (X150) 2006-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "219.2 KW @ 6000 RPM\n298 HP @ 6000 RPM\n294 BHP @ 6000 RPM",
+               "Torque": "303 lb-ft @ 4100 RPM\n411 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 147.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R18 // 275/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 188.6,
+               "Width": 74.4,
+               "Height": 52.4,
+               "Front/rear Track": "61.4/63 in (1,560/1,600 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 8.1,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3604.6,
+               "Gross Weight Limit": 4574.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.7,
+               "Highway": 29,
+               "Combined": 20.8,
+               "CO2 Emissions": 269
+          },
+          "": {}
+     }
+},{
+     "model_name": "2002 Jaguar XK8 Convertible",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "224 KW @ 6000 RPM\n300 HP @ 6000 RPM\n300 BHP @ 6000 RPM",
+               "Torque": "310 lb-ft @ 4100 RPM\n420 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/50 ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 188.2,
+               "Width": 72,
+               "Height": 51.6,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 10.8,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3913.2,
+               "Gross Weight Limit": 4762
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14,
+               "Highway": 28.3,
+               "Combined": 20.6,
+               "CO2 Emissions": 279
+          }
+     }
+},{
+     "model_name": "1996 Jaguar XK8",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3996,
+               "Power": "216 KW @ 6100 RPM\n294 HP @ 6100 RPM\n290 BHP @ 6100 RPM",
+               "Torque": "290 lb-ft @ 4250 RPM\n393 Nm @ 4250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-automatic speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/50 ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 187.4,
+               "Width": 72,
+               "Height": 51.6,
+               "Front/rear Track": "59.1/58.7 in (1,501/1,491 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 10.8,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3758.9,
+               "Gross Weight Limit": 4629.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.5,
+               "Highway": 27.4,
+               "Combined": 19.9,
+               "CO2 Emissions": 284
+          }
+     }
+},{
+     "model_name": "2011 Jaguar XKR-S",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "405 KW @ 6000-6500 RPM\n550 HP @ 6000-6500 RPM\n543 BHP @ 6000-6500 RPM",
+               "Torque": "502 lb-ft @ 2500-5500 RPM\n681 Nm @ 2500-5500 RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35ZR20 || 295/30ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 188.7,
+               "Width": 74.5,
+               "Height": 51.7,
+               "Front/rear Track": "61.4/63.3 in (1,560/1,608 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 11.65,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3968,
+               "Gross Weight Limit": 4817
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12,
+               "Highway": 27,
+               "Combined": 19,
+               "CO2 Emissions": 292
+          }
+     }
+},{
+     "model_name": "2009 Jaguar XKR",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "375.1 KW @ 6000-6500 RPM\n510 HP @ 6000-6500 RPM\n503 BHP @ 6000-6500 RPM",
+               "Torque": "461 lb-ft @ 2500-5500 RPM\n625 Nm @ 2500-5500 RPM",
+               "Fuel System": "Supercharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "Front: 255/35 ZR20 || 285/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 188.7,
+               "Width": 79.8,
+               "Height": 52,
+               "Front/rear Track": "61.4/62.8 in (1,560/1,595 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 11.7,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3968,
+               "Gross Weight Limit": 4817
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.4,
+               "Highway": 27,
+               "Combined": 19,
+               "CO2 Emissions": 292
+          }
+     }
+},{
+     "model_name": "2008 Jaguar XKR-S",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "305 KW @ 6250 RPM\n415 HP @ 6250 RPM\n409 BHP @ 6250 RPM",
+               "Torque": "413 lb-ft @ 4000 RPM\n560 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Automatic, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35ZR20 (Front) - Rear 295/30ZR20 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 188.6,
+               "Width": 74.5,
+               "Height": 51.7,
+               "Front/rear Track": "61.4/63.3 in (1,560/1,608 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 4.3,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3671
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.3,
+               "Highway": 27.3,
+               "Combined": 19.1,
+               "CO2 Emissions": 294
+          }
+     }
+},{
+     "model_name": "2006 Jaguar XKR Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "306 KW @ 6250 RPM\n420 HP @ 6250 RPM\n410 BHP @ 6250 RPM",
+               "Torque": "413 lb-ft @ 4000 RPM\n560 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR19 // 275/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 188.6,
+               "Width": 74.4,
+               "Height": 52,
+               "Front/rear Track": "61.4/63 in (1,560/1,600 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 11.7,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3670.7,
+               "Gross Weight Limit": 4586
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.3,
+               "Highway": 27.4,
+               "Combined": 19.1,
+               "CO2 Emissions": 294
+          }
+     }
+},{
+     "model_name": "2002 Jaguar XKR Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3998,
+               "Power": "267 KW @ 6150 RPM\n363 HP @ 6150 RPM\n358 BHP @ 6150 RPM",
+               "Torque": "373 lb-ft @ 3600 RPM\n505 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/50 ZR18 // 255/50 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 188.2,
+               "Width": 72,
+               "Height": 51.2,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 11.7,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3825,
+               "Gross Weight Limit": 4638.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.6,
+               "Highway": 25.8,
+               "Combined": 19,
+               "CO2 Emissions": 304
+          },
+          "": {}
+     }
+},{
+     "model_name": "1998 Jaguar XKR Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3996,
+               "Power": "276 KW @ 6150 RPM\n375 HP @ 6150 RPM\n370 BHP @ 6150 RPM",
+               "Torque": "387 lb-ft @ 3600 RPM\n525 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-automatic speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "Front: 245/45 ZR18 - Rear: 255/45 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 187.4,
+               "Width": 72,
+               "Height": 51.2,
+               "Front/rear Track": "59.1/58.6 in (1,501/1,488 mm)",
+               "Wheelbase": 102,
+               "Cargo Volume": 11.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3615.6,
+               "Gross Weight Limit": 4431.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.1,
+               "Highway": 25,
+               "Combined": 18.8,
+               "CO2 Emissions": 301
+          }
+     }
+},{
+     "model_name": "2012 Jaguar XKR-S Convertible",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "405 KW @ 6000-6500 RPM\n550 HP @ 6000-6500 RPM\n543 BHP @ 6000-6500 RPM",
+               "Torque": "502 lb-ft @ 2500-5500 RPM\n681 Nm @ 2500-5500 RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "ventilated disks",
+               "Rear": "Solid Disks"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35R19"
+          },
+          "DIMENSIONS": {
+               "Length": 188.7,
+               "Width": 74.5,
+               "Height": 52,
+               "Front/rear Track": "61.4/63.3 in (1,560/1,608 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 7,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3957,
+               "Gross Weight Limit": 4817
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12,
+               "Highway": 27,
+               "Combined": 19,
+               "CO2 Emissions": 292
+          }
+     }
+},{
+     "model_name": "2010 Jaguar XKR Convertible",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "313.2 KW @ 6000 RPM\n426 HP @ 6000 RPM\n420 BHP @ 6000 RPM",
+               "Torque": "413 lb-ft @ 4000 RPM\n560 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 XR19 || 275/35 XR19"
+          },
+          "DIMENSIONS": {
+               "Length": 188.6,
+               "Width": 74.4,
+               "Height": 52,
+               "Front/rear Track": "61.4/63 in (1,560/1,600 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 11.7,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3671,
+               "Gross Weight Limit": 4519
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15,
+               "Highway": 23,
+               "Combined": 19.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "2006 Jaguar XKR Convertible",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "306 KW @ 6250 RPM\n420 HP @ 6250 RPM\n410 BHP @ 6250 RPM",
+               "Torque": "413 lb-ft @ 4000 RPM\n560 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Automatic, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "Front: 245/40 ZR19 - Rear: 275/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 188.6,
+               "Width": 74.4,
+               "Height": 52.4,
+               "Front/rear Track": "61.4/63 in (1,560/1,600 mm)",
+               "Wheelbase": 108.2,
+               "Cargo Volume": 8.1,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3780.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.3,
+               "Highway": 27.4,
+               "Combined": 19.1,
+               "CO2 Emissions": 294
+          }
+     }
+},{
+     "model_name": "Jaguar XKR Convertible",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "298 KW @ 6100 RPM\n400 HP @ 6100 RPM\n400 BHP @ 6100 RPM",
+               "Torque": "408 lb-ft @ 3500 RPM\n553 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Automatic, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/50 ZR18 (Front) - 255/50 ZR18 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 188.2,
+               "Width": 72,
+               "Height": 51.6,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 10.8,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4001.4,
+               "Gross Weight Limit": 4808.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 25.6,
+               "Combined": 18.8,
+               "CO2 Emissions": 304
+          }
+     }
+},{
+     "model_name": "1998 Jaguar XKR Convertible",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3996,
+               "Power": "276 KW @ 6150 RPM\n375 HP @ 6150 RPM\n370 BHP @ 6150 RPM",
+               "Torque": "387 lb-ft @ 3600 RPM\n525 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/45 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 187.4,
+               "Width": 72,
+               "Height": 51.6,
+               "Front/rear Track": "59.1/58.7 in (1,501/1,491 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 5.4,
+               "Cargo Volume": 10.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3836,
+               "Gross Weight Limit": 4629.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.1,
+               "Highway": 24.5,
+               "Combined": 18.5,
+               "CO2 Emissions": 305
+          }
+     }
+},	
+ ] } 

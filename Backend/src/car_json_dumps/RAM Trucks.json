@@ -1,0 +1,778 @@
+{ "brand_name" : "RAM Trucks", "models": [
+{
+     "model_name": "2025 Ram 1500 REV",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "481 kw (654 hp)",
+               "Total maximum torque": "620 lb-ft (841 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/50 R22"
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Maximum Capacity": "168 kWh",
+               "Range": 500
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 1500 TRX 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Power": "516.3 KW @ - RPM\n702 HP @ - RPM\n692 BHP @ - RPM",
+               "Torque": "650 lb-ft @ - RPM\n881 Nm @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "325/65/R18"
+          },
+          "DIMENSIONS": {
+               "Length": 232.9,
+               "Width": 88,
+               "Height": 80.9,
+               "Wheelbase": 145.1,
+               "Ground Clearance": 11.8
+          }
+     }
+},{
+     "model_name": "RAM Trucks 1500 Crew Cab 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 5654,
+               "Power": "224.3 KW @ - RPM\n305 HP @ - RPM\n301 BHP @ - RPM",
+               "Torque": "269 lb-ft @ 4175 RPM\n365 Nm @ 4175 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275 / 65R18 BSW"
+          },
+          "DIMENSIONS": {
+               "Length": 229,
+               "Width": 79.4,
+               "Height": 77.5,
+               "Front/rear Track": "68.2/67.5 in (1,732/1,715 mm)",
+               "Wheelbase": 140.5,
+               "Cargo Volume": 125.3
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 10340
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18,
+               "Highway": 25
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 1500 Quad Cab 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3604,
+               "Power": "224.3 KW @ 6400 RPM\n305 HP @ 6400 RPM\n301 BHP @ 6400 RPM",
+               "Torque": "269 lb-ft @ 4175 RPM\n365 Nm @ 4175 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 231,
+               "Width": 79.4,
+               "Height": 77.2,
+               "Front/rear Track": "68.1/67.5 in (1,730/1,715 mm)",
+               "Wheelbase": 140.5,
+               "Cargo Volume": 116.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4610,
+               "Gross Weight Limit": 7599
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15,
+               "Highway": 22
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 1500 Regular Cab 2015-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3605,
+               "Power": "224.3 KW @ 6400 RPM\n305 HP @ 6400 RPM\n301 BHP @ 6400 RPM",
+               "Torque": "269 lb-ft @ 4175 RPM\n364 Nm @ 4175 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 32
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/70 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 209,
+               "Width": 79.4,
+               "Height": 74.6,
+               "Front/rear Track": "68/67.5 in (1,727/1,715 mm)",
+               "Wheelbase": 120.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4525,
+               "Gross Weight Limit": 6025
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 25,
+               "Combined": 20
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 1500 Quad Cab 2015-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3605,
+               "Power": "224.3 KW @ 6400 RPM\n305 HP @ 6400 RPM\n301 BHP @ 6400 RPM",
+               "Torque": "269 lb-ft @ 4175 RPM\n365 Nm @ 4175 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 25.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 229,
+               "Width": 79.4,
+               "Height": 77.2,
+               "Front/rear Track": "68/67.5 in (1,727/1,715 mm)",
+               "Wheelbase": 140.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4910,
+               "Gross Weight Limit": 6800
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 25,
+               "Combined": 20
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 1500 Crew Cab 2015-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3605,
+               "Power": "227.4 KW @ 6400 RPM\n309 HP @ 6400 RPM\n305 BHP @ 6400 RPM",
+               "Torque": "269 lb-ft @ 4175 RPM\n365 Nm @ 4175 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 25.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 229,
+               "Width": 79.4,
+               "Height": 76.9,
+               "Front/rear Track": "68/68.2 in (1,727/1,732 mm)",
+               "Wheelbase": 140.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4970,
+               "Gross Weight Limit": 6800
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 25,
+               "Combined": 20
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 1500 Regular Cab 2013-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3604,
+               "Power": "227 KW @ 6400 RPM\n308.6 HP @ 6400 RPM\n304 BHP @ 6400 RPM",
+               "Torque": "269 lb-ft @ 4175 RPM\n365 Nm @ 4175 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 209,
+               "Width": 79.4,
+               "Height": 74.6,
+               "Front/rear Track": "68/67.5 in (1,727/1,715 mm)",
+               "Wheelbase": 120.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4580,
+               "Gross Weight Limit": 6010
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 25
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 1500 Quad Cab 2013-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3604,
+               "Power": "294.6 KW @ 6400 RPM\n400.5 HP @ 6400 RPM\n395 BHP @ 6400 RPM",
+               "Torque": "269 lb-ft @ 4175 RPM\n365 Nm @ 4175 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 229,
+               "Width": 79.4,
+               "Height": 75.9,
+               "Front/rear Track": "68.6/67.5 in (1,742/1,715 mm)",
+               "Wheelbase": 140.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4900,
+               "Gross Weight Limit": 6700
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 25,
+               "Combined": 20
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 1500 Crew Cab 2013-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3604,
+               "Power": "226.7 KW @ 6400 RPM\n308.2 HP @ 6400 RPM\n304 BHP @ 6400 RPM",
+               "Torque": "269 lb-ft @ 4175 RPM\n365 Nm @ 4175 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 229,
+               "Width": 79.4,
+               "Height": 75,
+               "Front/rear Track": "68.6/67.5 in (1,742/1,715 mm)",
+               "Wheelbase": 140.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4950,
+               "Gross Weight Limit": 6700
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 25,
+               "Combined": 20
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 2500 Regular Cab 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5653,
+               "Power": "285.6 KW @ 5600 RPM\n388 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "400 lb-ft @ 4000 RPM\n542 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 32
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 231,
+               "Width": 78.9,
+               "Height": 73.3,
+               "Wheelbase": 140.5,
+               "Ground Clearance": 7.4,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5490,
+               "Gross Weight Limit": 9000
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 2500 Crew Cab 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5653,
+               "Power": "285.6 KW @ 5600 RPM\n388 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "400 lb-ft @ 4000 RPM\n542 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 32
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 237.4,
+               "Width": 79.1,
+               "Height": 77.7,
+               "Wheelbase": 169.4,
+               "Ground Clearance": 7.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 6310,
+               "Gross Weight Limit": 9000
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 2500 Mega Cab 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5653,
+               "Power": "285.6 KW @ 5600 RPM\n388 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "400 lb-ft @ 4000 RPM\n542 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 32
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 248.4,
+               "Width": 79.1,
+               "Height": 78.3,
+               "Wheelbase": 160,
+               "Ground Clearance": 7.7,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 6790,
+               "Gross Weight Limit": 9000
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 2500 Regular Cab 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5654,
+               "Power": "285.6 KW @ 5600 RPM\n388.3 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "400 lb-ft @ 4000 RPM\n542 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 230.4,
+               "Width": 103.5,
+               "Height": 73.8,
+               "Front/rear Track": "68.6/68.2 in (1,742/1,732 mm)",
+               "Wheelbase": 140,
+               "Ground Clearance": 7.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5480,
+               "Gross Weight Limit": 8650
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 2500 Mega Cab 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5654,
+               "Power": "285.6 KW @ 5600 RPM\n388.3 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "400 lb-ft @ 4000 RPM\n542 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 237.4,
+               "Width": 103.5,
+               "Height": 74.2,
+               "Front/rear Track": "68.6/68.2 in (1,742/1,732 mm)",
+               "Wheelbase": 149.4,
+               "Ground Clearance": 7.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 6220,
+               "Gross Weight Limit": 8800
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 2500 Crew Cab 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5654,
+               "Power": "285.6 KW @ 5600 RPM\n388.3 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "400 lb-ft @ 4000 RPM\n542 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 248.4,
+               "Width": 103.5,
+               "Height": 74.1,
+               "Front/rear Track": "68.6/68.2 in (1,742/1,732 mm)",
+               "Wheelbase": 160.5,
+               "Ground Clearance": 7.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5870,
+               "Gross Weight Limit": 8800
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 3500 Regular Cab 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5653,
+               "Power": "285.6 KW @ 5600 RPM\n388 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "400 lb-ft @ 4000 RPM\n542 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 32
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 230.4,
+               "Width": 79.4,
+               "Height": 77.7,
+               "Front/rear Track": "67.7/67.1 in (1,720/1,704 mm)",
+               "Wheelbase": 140,
+               "Ground Clearance": 6.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5920,
+               "Gross Weight Limit": 10000
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 3500 Crew Cab 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5653,
+               "Power": "285.6 KW @ 5600 RPM\n388 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "400 lb-ft @ 4000 RPM\n542 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 32
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 237.3,
+               "Width": 79.4,
+               "Height": 78.4,
+               "Front/rear Track": "67.7/67.1 in (1,720/1,704 mm)",
+               "Wheelbase": 148.9,
+               "Ground Clearance": 7.3,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 6410,
+               "Gross Weight Limit": 10500
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 3500 Mega Cab 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5653,
+               "Power": "285.6 KW @ 5600 RPM\n388 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "400 lb-ft @ 4000 RPM\n542 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 30.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 248.4,
+               "Width": 79.4,
+               "Height": 78.3,
+               "Front/rear Track": "67.7/67.1 in (1,720/1,704 mm)",
+               "Wheelbase": 160,
+               "Ground Clearance": 7.3,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 6700,
+               "Gross Weight Limit": 11000
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 3500 Regular Cab 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5654,
+               "Power": "285.6 KW @ 5600 RPM\n388 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "400 lb-ft @ 4000 RPM\n542 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 30.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/70 R18 118T"
+          },
+          "DIMENSIONS": {
+               "Length": 230.4,
+               "Width": 103.5,
+               "Height": 73.6,
+               "Front/rear Track": "68.6/75.8 in (1,742/1,925 mm)",
+               "Wheelbase": 140.5,
+               "Ground Clearance": 7.4,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5970,
+               "Gross Weight Limit": 10100
+          },
+          "": {}
+     }
+},{
+     "model_name": "2013 RAM 3500 Crew Cab",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5654,
+               "Power": "285.6 KW @ 5600 RPM\n388.3 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "400 lb-ft @ 4000 RPM\n542 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 259.4,
+               "Width": 103.5,
+               "Height": 74.1,
+               "Front/rear Track": "68.6/75.8 in (1,742/1,925 mm)",
+               "Wheelbase": 169.4,
+               "Ground Clearance": 7.3,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 6790,
+               "Gross Weight Limit": 10500
+          },
+          "": {}
+     }
+},{
+     "model_name": "RAM Trucks 3500 Mega Cab 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5654,
+               "Power": "285.6 KW @ 5600 RPM\n388.3 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "400 lb-ft @ 4000 RPM\n542 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 248.4,
+               "Width": 103.5,
+               "Height": 78,
+               "Front/rear Track": "68.6/75.8 in (1,742/1,925 mm)",
+               "Wheelbase": 160.5,
+               "Ground Clearance": 7.3,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 6570,
+               "Gross Weight Limit": 11000
+          },
+          "": {}
+     }
+},	
+ ] } 

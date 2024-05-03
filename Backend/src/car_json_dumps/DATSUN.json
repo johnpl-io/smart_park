@@ -1,0 +1,205 @@
+{ "brand_name" : "DATSUN", "models": [
+{
+     "model_name": "DATSUN GO 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1198,
+               "Power": "50 KW @ 5000 RPM\n68 HP @ 5000 RPM\n67 BHP @ 5000 RPM",
+               "Torque": "77 lb-ft @ 4000 RPM\n104 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/70 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 149.1,
+               "Width": 64.4,
+               "Height": 59.3,
+               "Wheelbase": 96.5,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 9.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1865
+          }
+     }
+},{
+     "model_name": "DATSUN GO 2013-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1198,
+               "Power": "50 KW @ 5000 RPM\n68 HP @ 5000 RPM\n67 BHP @ 5000 RPM",
+               "Torque": "77 lb-ft @ 4000 RPM\n104 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/70R13"
+          },
+          "DIMENSIONS": {
+               "Length": 149,
+               "Width": 63.5,
+               "Height": 58.5,
+               "Front/rear Track": "56.7/56.9 in (1,440/1,445 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 9.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 48.5
+          }
+     }
+},{
+     "model_name": "DATSUN GO+ 2018-Present",
+     "technical_specs": {}
+},{
+     "model_name": "DATSUN GO+ 2013-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1200,
+               "Power": "51 KW @ 5000 RPM\n69 HP @ 5000 RPM\n68 BHP @ 5000 RPM",
+               "Torque": "77 lb-ft @ 4000 RPM\n104 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5 speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/70R13"
+          },
+          "DIMENSIONS": {
+               "Length": 157.3,
+               "Width": 64.4,
+               "Height": 58.5,
+               "Front/rear Track": "56.7/56.9 in (1,440/1,445 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 9.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 48.5
+          }
+     }
+},{
+     "model_name": "DATSUN Mi-Do 2014-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "65 KW @ 5100 RPM\n88 HP @ 5100 RPM\n87 BHP @ 5100 RPM",
+               "Torque": "103 lb-ft @ 3800 RPM\n140 Nm @ 3800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 103,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 155.5,
+               "Width": 66.9,
+               "Height": 59.1,
+               "Wheelbase": 97.5,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 8.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2557,
+               "Gross Weight Limit": 3439
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.6,
+               "Highway": 38.6,
+               "Combined": 30.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "DATSUN on-Do 2014-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "60 KW @ 5100 RPM\n82 HP @ 5100 RPM\n80 BHP @ 5100 RPM",
+               "Torque": "97 lb-ft @ 3800 RPM\n132 Nm @ 3800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 103,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 170.7,
+               "Width": 66.9,
+               "Height": 59.1,
+               "Wheelbase": 97.5,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 18.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2557,
+               "Gross Weight Limit": 3439
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.6,
+               "Highway": 38.6,
+               "Combined": 30.5
+          },
+          "": {}
+     }
+},	
+ ] } 

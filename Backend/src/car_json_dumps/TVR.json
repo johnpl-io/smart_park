@@ -1,0 +1,634 @@
+{ "brand_name" : "TVR", "models": [
+{
+     "model_name": "TVR Griffith 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4951,
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 200,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 ZR19 || 275/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 169.8,
+               "Width": 72.8,
+               "Height": 48.8,
+               "Front/rear Track": "63/61.3 in (1,600/1,557 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 5.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2756
+          }
+     }
+},{
+     "model_name": "TVR Griffith 1992-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3948,
+               "Power": "177 KW @ 5250 RPM\n241 HP @ 5250 RPM\n237 BHP @ 5250 RPM",
+               "Torque": "270 lb-ft @ 4000 RPM\n366 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 158,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 ZR15 //245/45 ZR16"
+          },
+          "DIMENSIONS": {
+               "Length": 153.2,
+               "Width": 67.7,
+               "Height": 47.4,
+               "Front/rear Track": "57.5/57.9 in (1,461/1,471 mm)",
+               "Wheelbase": 90,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 10.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2337,
+               "Gross Weight Limit": 2866
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.4,
+               "Highway": 19.6,
+               "Combined": 15.2,
+               "CO2 Emissions": 369
+          },
+          "": {}
+     }
+},{
+     "model_name": "TVR 280i/ 350i Convertible 1983-1987",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2792,
+               "Power": "118 KW @ 5700 RPM\n160 HP @ 5700 RPM\n158 BHP @ 5700 RPM",
+               "Torque": "162 lb-ft @ 4300 RPM\n220 Nm @ 4300 RPM",
+               "Fuel System": "Mechanical Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 158,
+               "Width": 68,
+               "Height": 47.5,
+               "Front/rear Track": "56.5/56.7 in (1,435/1,440 mm)",
+               "Wheelbase": 94.8,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "": {}
+     }
+},{
+     "model_name": "TVR Cerbera 2000-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3996,
+               "Power": "258 KW @ 6800 RPM\n350 HP @ 6800 RPM\n346 BHP @ 6800 RPM",
+               "Torque": "330 lb-ft @ 5000 RPM\n448 Nm @ 5000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 170,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 168.5,
+               "Width": 73.4,
+               "Height": 48,
+               "Front/rear Track": "57.6/57.9 in (1,463/1,471 mm)",
+               "Wheelbase": 101,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 13.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2491,
+               "Gross Weight Limit": 3087
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.7,
+               "CO2 Emissions": 354.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "TVR Cerbera 1996-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3996,
+               "Power": "258 KW @ 6800 RPM\n350 HP @ 6800 RPM\n346 BHP @ 6800 RPM",
+               "Torque": "330 lb-ft @ 5000 RPM\n448 Nm @ 5000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 170,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 ZR 16"
+          },
+          "DIMENSIONS": {
+               "Length": 168.5,
+               "Width": 73.4,
+               "Height": 48,
+               "Front/rear Track": "57.6/57.9 in (1,463/1,471 mm)",
+               "Wheelbase": 101,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 13.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2491,
+               "Gross Weight Limit": 3087
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.7,
+               "CO2 Emissions": 357
+          },
+          "": {}
+     }
+},{
+     "model_name": "TVR Chimaera 1992-2001",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3950,
+               "Power": "178.7 KW @ 5250 RPM\n243 HP @ 5250 RPM\n240 BHP @ 5250 RPM",
+               "Torque": "270 lb-ft @ 4000 RPM\n366 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 ZR15 // 245/45 ZR16"
+          },
+          "DIMENSIONS": {
+               "Length": 158.1,
+               "Width": 67.7,
+               "Height": 47.8,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 90,
+               "Ground Clearance": 5,
+               "Cargo Volume": 10.9,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2315,
+               "Gross Weight Limit": 2866
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19.6,
+               "CO2 Emissions": 285.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "TVR Sagaris 2004-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3996,
+               "Power": "283 KW @ 7000 RPM\n380 HP @ 7000 RPM\n380 BHP @ 7000 RPM",
+               "Torque": "349 lb-ft @ 5000 RPM\n473 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 159.7,
+               "Width": 72.8,
+               "Height": 46.3,
+               "Front/rear Track": "59.4/59.8 in (1,509/1,519 mm)",
+               "Wheelbase": 93,
+               "Ground Clearance": 3.3,
+               "Cargo Volume": 17.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2376.58
+          }
+     }
+},{
+     "model_name": "TVR T350 T 2002-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3605,
+               "Power": "257 KW @ 7200 RPM\n350 HP @ 7200 RPM\n345 BHP @ 7200 RPM",
+               "Torque": "288 lb-ft @ 5500 RPM\n391 Nm @ 5500 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 175,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/35 ZR18 (front) - 235/40 ZR18 (rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 156.5,
+               "Width": 72.2,
+               "Height": 47.4,
+               "Front/rear Track": "56.9/59.1 in (1,445/1,501 mm)",
+               "Wheelbase": 93,
+               "Ground Clearance": 3.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2617,
+               "Gross Weight Limit": 2821.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "2002 TVR T350 C",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3605,
+               "Power": "257 KW @ 7200 RPM\n350 HP @ 7200 RPM\n345 BHP @ 7200 RPM",
+               "Torque": "288 lb-ft @ 5500 RPM\n391 Nm @ 5500 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 175,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/35 ZR18 // 235/40 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 156.5,
+               "Width": 72.2,
+               "Height": 47.4,
+               "Front/rear Track": "57.9/57.9 in (1,471/1,471 mm)",
+               "Wheelbase": 93,
+               "Ground Clearance": 3.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2617
+          },
+          "": {}
+     }
+},{
+     "model_name": "2002 TVR Tamora",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3605,
+               "Power": "261 KW @ 7500 RPM\n350 HP @ 7500 RPM\n350 BHP @ 7500 RPM",
+               "Torque": "290 lb-ft @ 5750 RPM\n393 Nm @ 5750 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 ZR16 (front) - 255/50 R16 (rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 154.5,
+               "Width": 67.5,
+               "Height": 47.2,
+               "Wheelbase": 93,
+               "Ground Clearance": 4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2337.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.4,
+               "Highway": 18.1,
+               "Combined": 14.7,
+               "CO2 Emissions": 380.8
+          }
+     }
+},{
+     "model_name": "TVR Tuscan 2001-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3605,
+               "Power": "257 KW @ 7500 RPM\n350 HP @ 7500 RPM\n345 BHP @ 7500 RPM",
+               "Torque": "287 lb-ft @ 5750 RPM\n389 Nm @ 5750 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 175,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "Front 225/50 ZR16 - Rear 255/55 ZR16"
+          },
+          "DIMENSIONS": {
+               "Length": 166.7,
+               "Width": 71.3,
+               "Height": 47.2,
+               "Front/rear Track": "56.9/59.1 in (1,445/1,501 mm)",
+               "Wheelbase": 93,
+               "Ground Clearance": 4,
+               "Cargo Volume": 9.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2425,
+               "Gross Weight Limit": 2821.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.4,
+               "Highway": 16.8,
+               "Combined": 14.3
+          }
+     }
+},{
+     "model_name": "TVR Tuscan R/T 440R/ T 400R/Typhon 2000-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3996,
+               "Power": "294 KW @ 7000 RPM\n400 HP @ 7000 RPM\n394 BHP @ 7000 RPM",
+               "Torque": "333 lb-ft @ 5250 RPM\n451 Nm @ 5250 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 195,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/35 ZR18 (front) - 235/40 ZR18 (rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 171.9,
+               "Width": 74,
+               "Height": 47.6,
+               "Wheelbase": 101
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2304
+          },
+          "": {}
+     }
+},{
+     "model_name": "TVR Tuscan S 2005-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3996,
+               "Power": "294 KW @ 7000 RPM\n400 HP @ 7000 RPM\n394 BHP @ 7000 RPM",
+               "Torque": "333 lb-ft @ 5250 RPM\n451 Nm @ 5250 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 195,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/35 ZR18 (front) - 235/40 ZR18 (rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 166.7,
+               "Width": 71.3,
+               "Height": 47.2,
+               "Front/rear Track": "56.9/59.1 in (1,445/1,501 mm)",
+               "Wheelbase": 93,
+               "Ground Clearance": 4,
+               "Cargo Volume": 9.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2425,
+               "Gross Weight Limit": 2821.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.8,
+               "Highway": 15.7,
+               "Combined": 13.4,
+               "CO2 Emissions": 416.5
+          }
+     }
+},{
+     "model_name": "TVR Tuscan S 2001-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3996,
+               "Power": "290 KW @ 7000 RPM\n394 HP @ 7000 RPM\n389 BHP @ 7000 RPM",
+               "Torque": "310 lb-ft @ 5250 RPM\n420 Nm @ 5250 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 ZR18 (front) - 245/40 ZR18 (rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 166.7,
+               "Width": 71.3,
+               "Height": 47.2,
+               "Front/rear Track": "56.9/59.1 in (1,445/1,501 mm)",
+               "Wheelbase": 93,
+               "Ground Clearance": 4,
+               "Cargo Volume": 9.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2425,
+               "Gross Weight Limit": 2821.9
+          }
+     }
+},{
+     "model_name": "TVR Tuscan S Convertible 2005-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3996,
+               "Power": "264.8 KW @ 7000 RPM\n360 HP @ 7000 RPM\n355 BHP @ 7000 RPM",
+               "Torque": "310 lb-ft @ 5250 RPM\n420 Nm @ 5250 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR18 // 245/40 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 166.7,
+               "Width": 71.3,
+               "Height": 47.2,
+               "Front/rear Track": "56.9/59.1 in (1,445/1,501 mm)",
+               "Wheelbase": 93,
+               "Ground Clearance": 4,
+               "Cargo Volume": 9.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2546.8,
+               "Gross Weight Limit": 2821.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.8,
+               "Highway": 15.7,
+               "Combined": 13.4
+          },
+          "": {}
+     }
+},	
+ ] } 

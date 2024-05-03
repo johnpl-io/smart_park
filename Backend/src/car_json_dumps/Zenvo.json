@@ -1,0 +1,194 @@
+{ "brand_name" : "Zenvo", "models": [
+{
+     "model_name": "2026 Zenvo Aurora Agil",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Power": "919.4 KW @ 9800 RPM\n1250 HP @ 9800 RPM\n1233 BHP @ 9800 RPM",
+               "Electrical motor power": "147.1 kw (200 hp)",
+               "Total maximum power": "1081.9 kw (1471 hp)",
+               "Total maximum torque": "1032.6 lb-ft (1400 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Hybrid Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 227,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Hybridised seven-speed paddle shift gearbox with >150 kW output"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 R20 // 325/30 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 190.4,
+               "Width": 79.5,
+               "Height": 43.2,
+               "Wheelbase": 110.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2866
+          }
+     }
+},{
+     "model_name": "2026 Zenvo Aurora Tur",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Power": "919.4 KW @ 9800 RPM\n1250 HP @ 9800 RPM\n1233 BHP @ 9800 RPM",
+               "Electrical motor power": "147.1 kw (200 hp)",
+               "Total maximum power": "1379.1 kw (1875 hp)",
+               "Total maximum torque": "1253.9 lb-ft (1700 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Mild Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 280,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 R20 // 325/30 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 189.7,
+               "Width": 79.5,
+               "Height": 44,
+               "Wheelbase": 110.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3197
+          }
+     }
+},{
+     "model_name": "Zenvo TS1 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5800,
+               "Power": "822.3 KW @ 7100 RPM\n1118 HP @ 7100 RPM\n1103 BHP @ 7100 RPM",
+               "Torque": "840 lb-ft @ - RPM\n1139 Nm @ - RPM",
+               "Fuel System": "Supercharged Multipoint Injection"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 233,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 ZR19 || 345/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 184.3,
+               "Width": 84.8,
+               "Height": 47.2,
+               "Wheelbase": 114.3,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 4.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3483
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "Zenvo TSR-S 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5800,
+               "Power": "877.7 KW @ 7100 RPM\n1193.3 HP @ 7100 RPM\n1177 BHP @ 7100 RPM",
+               "Torque": "840 lb-ft @ - RPM\n1139 Nm @ - RPM",
+               "Fuel System": "Sequential Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35-20/325/30-21"
+          },
+          "DIMENSIONS": {
+               "Length": 189.6,
+               "Width": 80.2,
+               "Height": 47.2,
+               "Wheelbase": 114.4,
+               "Ground Clearance": 3.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3296
+          }
+     }
+},{
+     "model_name": "Zenvo ST1 2009-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6800,
+               "Power": "812 KW @ 6900 RPM\n1104 HP @ 6900 RPM\n1089 BHP @ 6900 RPM",
+               "Torque": "1055 lb-ft @ 4500 RPM\n1430 Nm @ 4500 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 233,
+               "Acceleration 0-62 Mph (0-100 kph)": 3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35 R19 || 345/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 183.7,
+               "Width": 80.4,
+               "Height": 47.2,
+               "Wheelbase": 120.3,
+               "Cargo Volume": 4.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3721
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.7,
+               "Highway": 16.8,
+               "Combined": 23.5
+          }
+     }
+},	
+ ] } 

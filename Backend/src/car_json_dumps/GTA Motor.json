@@ -1,0 +1,40 @@
+{ "brand_name" : "GTA Motor", "models": [
+{
+     "model_name": "GTA Motor GTA Spano 2012-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 8300,
+               "Power": "612 KW @ 6300 RPM\n820 HP @ 6300 RPM\n821 BHP @ 6300 RPM",
+               "Torque": "708 lb-ft @ - RPM\n960 Nm @ - RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 217,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 R19 || 335/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 183,
+               "Width": 77.9,
+               "Height": 78.7,
+               "Wheelbase": 110.2,
+               "Cargo Volume": 10.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2976
+          }
+     }
+},	
+ ] } 

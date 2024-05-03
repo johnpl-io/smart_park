@@ -1,0 +1,1154 @@
+{ "brand_name" : "MG", "models": [
+{
+     "model_name": "MG ZS EV 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion",
+               "Nominal Capacity": 70,
+               "Range": 273.4
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "MG ZS 2017-2021",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1498,
+               "Power": "81.6 KW @ 520 RPM\n111 HP @ 520 RPM\n109 BHP @ 520 RPM",
+               "Torque": "118 lb-ft @ 1800-4700 RPM\n160 Nm @ 1800-4700 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/50 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 169.8,
+               "Width": 80.6,
+               "Height": 63.4,
+               "Front/rear Track": "60.2/60.5 in (1,529/1,537 mm)",
+               "Wheelbase": 101.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2714,
+               "Gross Weight Limit": 3814
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 32.2,
+               "Highway": 26.1,
+               "Combined": 35.1,
+               "CO2 Emissions": 145
+          },
+          "": {}
+     }
+},{
+     "model_name": "2025 MG 3 Hybrid+",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Power": "75 KW @ - RPM\n102 HP @ - RPM\n101 BHP @ - RPM",
+               "Torque": "94 lb-ft @ - RPM\n128 Nm @ - RPM",
+               "Electrical motor power": "100 kw (136 hp)",
+               "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+               "Total maximum power": "143 kw (194 hp)",
+               "Fuel": "Hybrid Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "DIMENSIONS": {
+               "Length": 161.9,
+               "Width": 70.7,
+               "Height": 59.1,
+               "Wheelbase": 101.2,
+               "Cargo Volume": 8.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2833
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 1.83
+          }
+     }
+},{
+     "model_name": "2014 MG 3",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1343,
+               "Power": "68 KW @ 6000 RPM\n92 HP @ 6000 RPM\n91 BHP @ 6000 RPM",
+               "Torque": "87 lb-ft @ 5000 RPM\n118 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 107
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed semi-automatic (e-shift)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/70 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 158.1,
+               "Width": 68,
+               "Height": 59.8,
+               "Front/rear Track": "59.3/58.8 in (1,506/1,494 mm)",
+               "Wheelbase": 99.2,
+               "Ground Clearance": 6.2,
+               "Cargo Volume": 10.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2480,
+               "Gross Weight Limit": 3693
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 38.6
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "MG MG 5 EV 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive"
+          },
+          "DIMENSIONS": {
+               "Cargo Volume": 16.9
+          },
+          "POWER SYSTEM SPECS": {
+               "Nominal Capacity": 50.3,
+               "Range": 198.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG Marvel R 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "132.4 kw (180 hp)",
+               "Electrical motor torque": "302.4 lb-ft (410 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 7.9
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 184,
+               "Width": 75.6,
+               "Height": 63.5,
+               "Wheelbase": 110.4,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 12.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3990
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion",
+               "Nominal Capacity": 70,
+               "Range": 249.8
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "2019 MG HS",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1490,
+               "Power": "119.2 KW @ 5500 RPM\n162 HP @ 5500 RPM\n160 BHP @ 5500 RPM",
+               "Torque": "184 lb-ft @ 1500-4400 RPM\n250 Nm @ 1500-4400 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 180.1,
+               "Width": 73.9,
+               "Height": 65.5,
+               "Front/rear Track": "61.9/62.4 in (1,572/1,585 mm)",
+               "Wheelbase": 107.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3283,
+               "Gross Weight Limit": 4411
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG MG6 GT 2011-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "l4",
+               "Displacement": 1796,
+               "Power": "118 KW @ 5500 RPM\n160 HP @ 5500 RPM\n158 BHP @ 5500 RPM",
+               "Torque": "159 lb-ft @ 1750-4500 RPM\n216 Nm @ 1750-4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 120,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-manual speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 183.1,
+               "Width": 71.9,
+               "Height": 58,
+               "Front/rear Track": "61.3/61.2 in (1,557/1,554 mm)",
+               "Wheelbase": 106.5,
+               "Cargo Volume": 17.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3274,
+               "Gross Weight Limit": 4497
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27.7,
+               "Highway": 48.7,
+               "Combined": 33.7,
+               "CO2 Emissions": 174
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG MG6 Magnette 2011-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "118 KW @ 5500 RPM\n160 HP @ 5500 RPM\n158 BHP @ 5500 RPM",
+               "Torque": "159 lb-ft @ 1750-4500 RPM\n216 Nm @ 1750-4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 120,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 183.1,
+               "Width": 71.9,
+               "Height": 58,
+               "Front/rear Track": "61.3/61.2 in (1,557/1,554 mm)",
+               "Wheelbase": 106.5,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 16.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3274,
+               "Gross Weight Limit": 4497
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27.7,
+               "Highway": 48.7,
+               "Combined": 37.7,
+               "CO2 Emissions": 174
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 MG 4 XPower",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "150 kw (204 hp)",
+               "Total maximum power": "319.9 kw (435 hp)",
+               "Total maximum torque": "442.5 lb-ft (600 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "NOTES": {
+               "Front motor": "204 HP (150 KW)\nRear motor: 231 HP (170 KW)"
+          }
+     }
+},{
+     "model_name": "2023 MG 4 EV",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "125 kw (170 hp)",
+               "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "100 mph (161 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 7.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 168.8,
+               "Width": 72.3,
+               "Height": 59.2,
+               "Front/rear Track": "61/61.1 in (1,549/1,552 mm)",
+               "Wheelbase": 81.7,
+               "Cargo Volume": 12.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3649,
+               "Gross Weight Limit": 4636
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion",
+               "Nominal Capacity": 50.8,
+               "Maximum Capacity": "51 kWh",
+               "Range": 218.1
+          },
+          "NOTES": {
+               "Average Energy consumption (WLTP)": "17 kWh/100 km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG TF 2002-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1588,
+               "Power": "85 KW @ 6250 RPM\n116 HP @ 6250 RPM\n114 BHP @ 6250 RPM",
+               "Torque": "107 lb-ft @ 4700 RPM\n145 Nm @ 4700 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/55R15V - 205/50R15V"
+          },
+          "DIMENSIONS": {
+               "Length": 155.2,
+               "Width": 64.1,
+               "Height": 49.6,
+               "Front/rear Track": "55.3/55.5 in (1,405/1,410 mm)",
+               "Wheelbase": 93.5,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 7.4,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2414,
+               "Gross Weight Limit": 2910
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.2,
+               "Highway": 42,
+               "Combined": 33.1,
+               "CO2 Emissions": 169
+          },
+          "": {}
+     }
+},{
+     "model_name": "1995 MG F",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "88 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
+               "Torque": "112 lb-ft @ 3000 RPM\n152 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 123,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/55R15V - 205/50R15V"
+          },
+          "DIMENSIONS": {
+               "Length": 154.1,
+               "Width": 64.1,
+               "Height": 49.6,
+               "Front/rear Track": "55.1/55.5 in (1,400/1,410 mm)",
+               "Wheelbase": 93.5,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 7.4,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2282,
+               "Gross Weight Limit": 2910
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23,
+               "Highway": 41.3,
+               "Combined": 31.8,
+               "CO2 Emissions": 170
+          },
+          "": {}
+     }
+},{
+     "model_name": "2015 MG GS",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1490,
+               "Power": "122.1 KW @ 5600 RPM\n166 HP @ 5600 RPM\n164 BHP @ 5600 RPM",
+               "Torque": "184 lb-ft @ 1600-4300 RPM\n250 Nm @ 1600-4300 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60R17"
+          },
+          "DIMENSIONS": {
+               "Length": 177.2,
+               "Width": 81.9,
+               "Height": 65.6,
+               "Front/rear Track": "62/62.7 in (1,575/1,593 mm)",
+               "Wheelbase": 104.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3053,
+               "Gross Weight Limit": 4336
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 31.4,
+               "Highway": 44.4,
+               "Combined": 38.6,
+               "CO2 Emissions": 139
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG XPower 2004-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4600,
+               "Power": "235 KW @ 6000 RPM\n320 HP @ 6000 RPM\n315 BHP @ 6000 RPM",
+               "Torque": "302 lb-ft @ 4750 RPM\n409 Nm @ 4750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 165,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/40R18Z - 265/40R18Z"
+          },
+          "DIMENSIONS": {
+               "Length": 176.4,
+               "Width": 74.8,
+               "Height": 52,
+               "Front/rear Track": "66.1/64 in (1,679/1,626 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 5,
+               "Cargo Volume": 8.8,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3395,
+               "Gross Weight Limit": 3792
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG ZR 3 Doors 2004-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1396,
+               "Power": "76 KW @ 6000 RPM\n105 HP @ 6000 RPM\n102 BHP @ 6000 RPM",
+               "Torque": "91 lb-ft @ 4500 RPM\n123 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50R16"
+          },
+          "DIMENSIONS": {
+               "Length": 157.9,
+               "Width": 66.5,
+               "Height": 55.1,
+               "Front/rear Track": "57.9/57.9 in (1,471/1,471 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 10.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2414,
+               "Gross Weight Limit": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.8,
+               "Highway": 42.8,
+               "Combined": 34.6,
+               "CO2 Emissions": 164
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG ZR 3 Doors 2001-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1396,
+               "Power": "76 KW @ 6000 RPM\n103 HP @ 6000 RPM\n102 BHP @ 6000 RPM",
+               "Torque": "91 lb-ft @ 4500 RPM\n123 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/45 R16V"
+          },
+          "DIMENSIONS": {
+               "Length": 157.9,
+               "Width": 66.5,
+               "Height": 55.1,
+               "Front/rear Track": "58/57.4 in (1,473/1,458 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 10.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2248,
+               "Gross Weight Limit": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.8,
+               "Highway": 42.8,
+               "Combined": 34.6,
+               "CO2 Emissions": 164
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG ZR 5 Doors 2004-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1396,
+               "Power": "76 KW @ 6000 RPM\n105 HP @ 6000 RPM\n102 BHP @ 6000 RPM",
+               "Torque": "91 lb-ft @ 4500 RPM\n123 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50R16"
+          },
+          "DIMENSIONS": {
+               "Length": 157.9,
+               "Width": 66.5,
+               "Height": 55.1,
+               "Wheelbase": 98.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 10.7,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2414,
+               "Gross Weight Limit": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.8,
+               "Highway": 42.8,
+               "Combined": 34.6,
+               "CO2 Emissions": 164
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG ZR 5 Doors 2001-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1396,
+               "Power": "76 KW @ 6000 RPM\n105 HP @ 6000 RPM\n102 BHP @ 6000 RPM",
+               "Torque": "91 lb-ft @ 4500 RPM\n123 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50R16"
+          },
+          "DIMENSIONS": {
+               "Length": 157.9,
+               "Width": 66.5,
+               "Height": 55.1,
+               "Front/rear Track": "58/57.4 in (1,473/1,458 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 10.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2248,
+               "Gross Weight Limit": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.8,
+               "Highway": 42.8,
+               "Combined": 34.6,
+               "CO2 Emissions": 164
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG ZS 4 Doors 2004-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "89 KW @ 5500 RPM\n120 HP @ 5500 RPM\n119 BHP @ 5500 RPM",
+               "Torque": "118 lb-ft @ 2750 RPM\n160 Nm @ 2750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 122,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 178.7,
+               "Width": 75.6,
+               "Height": 54.6,
+               "Front/rear Track": "58.3/57.9 in (1,481/1,471 mm)",
+               "Wheelbase": 103.1,
+               "Cargo Volume": 13.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2436,
+               "Gross Weight Limit": 3616
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.2,
+               "Highway": 40.6,
+               "Combined": 32.2,
+               "CO2 Emissions": 174
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG ZS 5 Doors 2002-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "86 KW @ 5500 RPM\n117 HP @ 5500 RPM\n115 BHP @ 5500 RPM",
+               "Torque": "118 lb-ft @ 2750 RPM\n160 Nm @ 2750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 122.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50R16"
+          },
+          "DIMENSIONS": {
+               "Length": 171.6,
+               "Width": 66.9,
+               "Height": 54.3,
+               "Front/rear Track": "58.2/57.4 in (1,478/1,458 mm)",
+               "Wheelbase": 103.1,
+               "Cargo Volume": 13.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2480.2,
+               "Gross Weight Limit": 3615.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.2,
+               "Highway": 40.5,
+               "Combined": 32.2,
+               "CO2 Emissions": 174
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG ZS 4 Doors 2004-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "89 KW @ 5500 RPM\n120 HP @ 5500 RPM\n119 BHP @ 5500 RPM",
+               "Torque": "118 lb-ft @ 2750 RPM\n160 Nm @ 2750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 122,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 178.7,
+               "Width": 75.6,
+               "Height": 54.6,
+               "Front/rear Track": "58.3/57.9 in (1,481/1,471 mm)",
+               "Wheelbase": 103.1,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2436,
+               "Gross Weight Limit": 3616
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.2,
+               "Highway": 40.6,
+               "Combined": 32.2,
+               "CO2 Emissions": 174
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG ZS 4 Doors 2001-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "86 KW @ 5500 RPM\n117 HP @ 5500 RPM\n115 BHP @ 5500 RPM",
+               "Torque": "118 lb-ft @ 2750 RPM\n160 Nm @ 2750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 122.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50R16"
+          },
+          "DIMENSIONS": {
+               "Length": 178.3,
+               "Width": 66.9,
+               "Height": 54.3,
+               "Front/rear Track": "58.2/57.4 in (1,478/1,458 mm)",
+               "Wheelbase": 103.1,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 16.4,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2480.2,
+               "Gross Weight Limit": 3615.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.2,
+               "Highway": 40.5,
+               "Combined": 32.2,
+               "CO2 Emissions": 174
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG ZT 2004-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "118 KW @ 5500 RPM\n160 HP @ 5500 RPM\n158 BHP @ 5500 RPM",
+               "Torque": "159 lb-ft @ 2100 RPM\n215 Nm @ 2100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 132,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 186.9,
+               "Width": 70,
+               "Height": 55.8,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 108.1,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 15.3,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3163,
+               "Gross Weight Limit": 4277
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.6,
+               "Highway": 38,
+               "Combined": 29,
+               "CO2 Emissions": 194
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG ZT 2001-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1795,
+               "Power": "88.3 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
+               "Torque": "118 lb-ft @ 4000 RPM\n160 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 113,
+               "Acceleration 0-62 Mph (0-100 kph)": 14
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 186.9,
+               "Width": 70,
+               "Height": 55.8,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 108.1,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 14.1,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3417,
+               "Gross Weight Limit": 4475
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.7,
+               "Highway": 31.4,
+               "Combined": 25
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG ZT-T 2004-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "118 KW @ 5500 RPM\n160 HP @ 5500 RPM\n158 BHP @ 5500 RPM",
+               "Torque": "159 lb-ft @ 2100 RPM\n215 Nm @ 2100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 188.7,
+               "Width": 70,
+               "Height": 57.9,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 108.1,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 14.1,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3307,
+               "Gross Weight Limit": 4431
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.6,
+               "Highway": 37.9,
+               "Combined": 29,
+               "CO2 Emissions": 194
+          },
+          "": {}
+     }
+},{
+     "model_name": "MG ZT-T 2001-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "118 KW @ 5500 RPM\n160 HP @ 5500 RPM\n158 BHP @ 5500 RPM",
+               "Torque": "159 lb-ft @ 2100 RPM\n215 Nm @ 2100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 188.7,
+               "Width": 70,
+               "Height": 57.9,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 108.1,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 14.1,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3307,
+               "Gross Weight Limit": 4431
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.6,
+               "Highway": 37.9,
+               "Combined": 29,
+               "CO2 Emissions": 194
+          },
+          "": {}
+     }
+},	
+ ] } 

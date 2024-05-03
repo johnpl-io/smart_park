@@ -1,0 +1,210 @@
+{ "brand_name" : "ARIEL", "models": [
+{
+     "model_name": "ARIEL Atom 500 V8 2011-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3000,
+               "Power": "373 KW @ 10600 RPM\n507 HP @ 10600 RPM\n500 BHP @ 10600 RPM",
+               "Torque": "296 lb-ft @ 6100 RPM\n401 Nm @ 6100 RPM",
+               "Fuel System": "sequential port fuel injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 200,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Quaife 6-speed pneumatically controlled paddle shift sequential gearbox"
+          },
+          "BRAKES SPECS": {
+               "Front": "290mm ventilated crescent grooved discs, 4 piston calipers",
+               "Rear": "290mm ventilated crescent grooved discs, 4 piston calipers"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50R15 || 245/45R16"
+          },
+          "DIMENSIONS": {
+               "Length": 145.5,
+               "Width": 72.8,
+               "Height": 47,
+               "Front/rear Track": "63/63 in (1,600/1,600 mm)",
+               "Wheelbase": 92.3,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1213
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 33
+          }
+     }
+},{
+     "model_name": "ARIEL Atom 3 2008-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "180 KW @ 8200 RPM\n245 HP @ 8200 RPM\n241 BHP @ 8200 RPM",
+               "Torque": "154 lb-ft @ 6100 RPM\n209 Nm @ 6100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "190/50 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 134,
+               "Width": 70.8,
+               "Height": 47,
+               "Front/rear Track": "63/63 in (1,600/1,600 mm)",
+               "Wheelbase": 92.3,
+               "Ground Clearance": 4,
+               "Cargo Volume": 0.5,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1019,
+               "Gross Weight Limit": 1565
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30
+          },
+          "": {}
+     }
+},{
+     "model_name": "ARIEL Atom 2 2003-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "164 KW @ 8200 RPM\n223 HP @ 8200 RPM\n220 BHP @ 8200 RPM",
+               "Torque": "145 lb-ft @ 6100 RPM\n197 Nm @ 6100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60 R 14"
+          },
+          "DIMENSIONS": {
+               "Length": 134.3,
+               "Width": 70.8,
+               "Height": 47,
+               "Front/rear Track": "63/63 in (1,600/1,600 mm)",
+               "Wheelbase": 92.3,
+               "Ground Clearance": 3.5,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1105,
+               "Gross Weight Limit": 1590
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 32
+          },
+          "": {}
+     }
+},{
+     "model_name": "ARIEL Atom 1 1999-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1588,
+               "Power": "83 KW @ 5000 RPM\n113 HP @ 5000 RPM\n111 BHP @ 5000 RPM",
+               "Torque": "107 lb-ft @ 3000 RPM\n145 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60 R 14"
+          },
+          "DIMENSIONS": {
+               "Length": 134.3,
+               "Width": 70.8,
+               "Height": 47,
+               "Front/rear Track": "63/63 in (1,600/1,600 mm)",
+               "Wheelbase": 92.3,
+               "Ground Clearance": 3.5,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1005,
+               "Gross Weight Limit": 1490
+          }
+     }
+},{
+     "model_name": "ARIEL Nomad 2015-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2354,
+               "Power": "175 KW @ 7200 RPM\n238 HP @ 7200 RPM\n235 BHP @ 7200 RPM",
+               "Torque": "221 lb-ft @ 4300 RPM\n300 Nm @ 4300 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 125,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/75R15"
+          },
+          "DIMENSIONS": {
+               "Length": 126.6,
+               "Width": 72.8,
+               "Height": 56.1,
+               "Front/rear Track": "62.4/62.4 in (1,585/1,585 mm)",
+               "Wheelbase": 92.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1477
+          }
+     }
+},	
+ ] } 

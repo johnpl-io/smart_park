@@ -1,0 +1,514 @@
+{ "brand_name" : "KOENIGSEGG", "models": [
+{
+     "model_name": "KOENIGSEGG Gemera 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Electrical motor power": "820.1 kw (1115 hp)",
+               "Electrical motor torque": "2138.9 lb-ft (2900 Nm)",
+               "Total maximum power": "1267.3 kw (1723 hp)",
+               "Total maximum torque": "2581.5 lb-ft (3500 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Ethanol",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 249,
+               "Acceleration 0-62 Mph (0-100 kph)": 1.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Hydracopu Direct Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "295/30/ZR21 // 317/30/ZR22"
+          },
+          "DIMENSIONS": {
+               "Length": 195.9,
+               "Width": 78.3,
+               "Height": 51,
+               "Wheelbase": 118.1,
+               "Cargo Volume": 7.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3781,
+               "Gross Weight Limit": 4079
+          },
+          "POWER SYSTEM SPECS": {
+               "Nominal Capacity": 16.6,
+               "Range": 31.1
+          }
+     }
+},{
+     "model_name": "Koenigsegg Jesko",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Power": "941.4 KW @ 7800-8500 RPM\n1280 HP @ 7800-8500 RPM\n1262 BHP @ 7800-8500 RPM",
+               "Torque": "1106 lb-ft @ 5100 RPM\n1500 Nm @ 5100 RPM",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-Speed automatic Light Speed Transmission (LST)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 \u2013 20 // 325/30 \u2013 21"
+          },
+          "DIMENSIONS": {
+               "Length": 181.5,
+               "Width": 79.9,
+               "Height": 47.6,
+               "Wheelbase": 106.3,
+               "Cargo Volume": 5.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3131
+          }
+     }
+},{
+     "model_name": "2015 Koenigsegg Regera",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5065,
+               "Power": "820 KW @ 7800 RPM\n1115 HP @ 7800 RPM\n1100 BHP @ 7800 RPM",
+               "Torque": "738 lb-ft @ 2700-6170 RPM\n1001 Nm @ 2700-6170 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Hybrid"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "single gear (Koenigsegg Direct Drive)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35 R19 || 345/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 179.5,
+               "Width": 80.7,
+               "Height": 43.7,
+               "Wheelbase": 104.8,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 5.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3589,
+               "Gross Weight Limit": 4251
+          },
+          "NOTES": {
+               "Plug-in Hybrid System\n\nCombustion Engine Power": "820 kW (1,115 HP)\nCombustion Engine Torque: 1,000 Nm (737 lb-ft)\nElectric Motor Power: 520 kW (707 HP)\nElectric Motor Torque: 820 Nm (605 lb-ft)\nTotal System Power: 1,11 MW (1,509 HP)\nTotal System Torque: over 2,000 Nm (1,475 lb-ft)"
+          }
+     }
+},{
+     "model_name": "KOENIGSEGG Agera RS 2015-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5065,
+               "Power": "865 KW @ 7800 RPM\n1176 HP @ 7800 RPM\n1160 BHP @ 7800 RPM",
+               "Torque": "738 lb-ft @ 2700-6170 RPM\n1001 Nm @ 2700-6170 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 275
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 R19 || 345/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 169,
+               "Width": 80.7,
+               "Height": 44.1,
+               "Front/rear Track": "66.9/65 in (1,699/1,651 mm)",
+               "Wheelbase": 104.8,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 5.3,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3075,
+               "Gross Weight Limit": 3594
+          }
+     }
+},{
+     "model_name": "KOENIGSEGG Agera S 2013-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5065,
+               "Power": "831 KW @ 7100 RPM\n1130 HP @ 7100 RPM\n1114 BHP @ 7100 RPM",
+               "Torque": "811 lb-ft @ 4100 RPM\n1100 Nm @ 4100 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 273,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 R19 || 345/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 169,
+               "Width": 78.6,
+               "Height": 44.1,
+               "Front/rear Track": "66.9/65 in (1,699/1,651 mm)",
+               "Wheelbase": 104.8,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 4.2,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3120,
+               "Gross Weight Limit": 3638
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Highway": 18.8,
+               "Combined": 16
+          }
+     }
+},{
+     "model_name": "KOENIGSEGG Agera R 2011-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5065,
+               "Power": "820 KW @ 6900 RPM\n1115 HP @ 6900 RPM\n1100 BHP @ 6900 RPM",
+               "Torque": "811 lb-ft @ 4000 RPM\n1100 Nm @ 4000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 273,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 R19 || 345/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 169,
+               "Width": 78.6,
+               "Height": 44.1,
+               "Front/rear Track": "66.9/65 in (1,699/1,651 mm)",
+               "Wheelbase": 104.8,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 4.2,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3164,
+               "Gross Weight Limit": 3638
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Highway": 18.8,
+               "Combined": 16
+          },
+          "": {}
+     }
+},{
+     "model_name": "KOENIGSEGG Agera 2010-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5065,
+               "Power": "706 KW @ 7100 RPM\n960 HP @ 7100 RPM\n947 BHP @ 7100 RPM",
+               "Torque": "811 lb-ft @ 4000 RPM\n1100 Nm @ 4000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 261,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 x 19 Y || 345/30 x 20 Y"
+          },
+          "DIMENSIONS": {
+               "Length": 169,
+               "Width": 78.6,
+               "Height": 44.1,
+               "Front/rear Track": "66.9/65 in (1,699/1,651 mm)",
+               "Wheelbase": 104.8,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 4.2,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3164,
+               "Gross Weight Limit": 3638
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Highway": 18.8,
+               "Combined": 16
+          }
+     }
+},{
+     "model_name": "KOENIGSEGG CC8S 2002-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4700,
+               "Power": "482 KW @ 6800 RPM\n655 HP @ 6800 RPM\n646 BHP @ 6800 RPM",
+               "Torque": "555 lb-ft @ 5000 RPM\n752 Nm @ 5000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 240,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR 18 || 335/30 ZR 20"
+          },
+          "DIMENSIONS": {
+               "Length": 165,
+               "Width": 78.3,
+               "Height": 42.1,
+               "Wheelbase": 104.7,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 4.2,
+               "Aerodynamics (Cd)": 0.297
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2590,
+               "Gross Weight Limit": 3142
+          }
+     }
+},{
+     "model_name": "KOENIGSEGG CCR 2004-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4700,
+               "Power": "601 KW @ 6900 RPM\n806 HP @ 6900 RPM\n806 BHP @ 6900 RPM",
+               "Torque": "679 lb-ft @ 5700 RPM\n921 Nm @ 5700 RPM",
+               "Fuel System": "Supercharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 245,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R 19 || 335/30 x 20"
+          },
+          "DIMENSIONS": {
+               "Length": 165,
+               "Width": 78.3,
+               "Height": 42.1,
+               "Wheelbase": 104.7,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 4.2,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2601,
+               "Gross Weight Limit": 3153
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.7,
+               "Highway": 18.1,
+               "Combined": 13.8
+          }
+     }
+},{
+     "model_name": "KOENIGSEGG CCX 2006-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4700,
+               "Power": "601 KW @ 7000 RPM\n817 HP @ 7000 RPM\n806 BHP @ 7000 RPM",
+               "Torque": "679 lb-ft @ 5500 RPM\n921 Nm @ 5500 RPM",
+               "Fuel System": "Supercharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 245,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 R19 || 335/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 169,
+               "Width": 78.6,
+               "Height": 44.1,
+               "Wheelbase": 104.7,
+               "Ground Clearance": 3.94,
+               "Cargo Volume": 4.2,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2821,
+               "Gross Weight Limit": 3384
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.2,
+               "Highway": 18,
+               "Combined": 13.8
+          }
+     }
+},{
+     "model_name": "KOENIGSEGG CCXR 2007-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4700,
+               "Power": "759 KW @ 7000 RPM\n1032 HP @ 7000 RPM\n1018 BHP @ 7000 RPM",
+               "Torque": "782 lb-ft @ 5600 RPM\n1060 Nm @ 5600 RPM",
+               "Fuel System": "Supercharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 250,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 R19 || 335/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 169,
+               "Width": 78.6,
+               "Height": 44.1,
+               "Wheelbase": 104.7,
+               "Ground Clearance": 3.94,
+               "Cargo Volume": 4.2,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2821,
+               "Gross Weight Limit": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9,
+               "Highway": 13,
+               "Combined": 10.7
+          }
+     }
+},{
+     "model_name": "KOENIGSEGG One:1 2014-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5065,
+               "Power": "1000 KW @ 7500 RPM\n1360 HP @ 7500 RPM\n1341 BHP @ 7500 RPM",
+               "Torque": "1011 lb-ft @ 6000 RPM\n1371 Nm @ 6000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 281,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 R19 || 345/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 177.2,
+               "Width": 81.1,
+               "Height": 45.3,
+               "Front/rear Track": "66.9/65 in (1,699/1,651 mm)",
+               "Wheelbase": 104.8,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 2.5,
+               "Aerodynamics (Cd)": 0.45
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2998,
+               "Gross Weight Limit": 3527
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 16
+          }
+     }
+},	
+ ] } 

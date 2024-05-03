@@ -1,0 +1,158 @@
+{ "brand_name" : "Polestar", "models": [
+{
+     "model_name": "2024 Polestar 2",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "309.6 kw (421 hp)",
+               "Electrical motor torque": "545.8 lb-ft (740 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Maximum Capacity": "82 kWh",
+               "Range": 367.9
+          },
+          "NOTES": {
+               "Max charging speed DC": "205 KW\n\nBattery capacity and charging speed for Long range Dual motor remains 78 kWh and 155 kW DC for United States, Canada, China and South Korea. The Long range Single motor version in Korea also retains a 78 kWh battery and 155 kW DC charging speed maximum.\n\nStandard range version not available in North America."
+          },
+          "": {}
+     }
+},{
+     "model_name": "2022 Polestar 2",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "350 kw (476 hp)",
+               "Total maximum torque": "501.5 lb-ft (680 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Single speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 181.4,
+               "Width": 73.2,
+               "Height": 58.2,
+               "Wheelbase": 107.7,
+               "Cargo Volume": 15.5
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion"
+          },
+          "": {}
+     }
+},{
+     "model_name": "Polestar Polestar 1 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "441.3 KW @ - RPM\n600 HP @ - RPM\n592 BHP @ - RPM",
+               "Torque": "738 lb-ft @ - RPM\n1000 Nm @ - RPM",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Hybrid"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/30 R21 // 295/30 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 180.5,
+               "Width": 81.5,
+               "Height": 53.2,
+               "Wheelbase": 108
+          }
+     }
+},{
+     "model_name": "Polestar Polestar 3 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "360 kw (489 hp)",
+               "Total maximum torque": "619.6 lb-ft (840 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/45 R21 // 295/40 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 1960.6,
+               "Width": 83.5,
+               "Height": 64.1,
+               "Wheelbase": 117.5,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 17.1,
+               "Aerodynamics (Cd)": 0.29,
+               "Turning circle": 38.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5697
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 107,
+               "Maximum Capacity": "111 kWh",
+               "Range": 379
+          },
+          "NOTES": {
+               "Charging capacity (DC)": "Up to 250 KW\nCharging capacity (AC): Up to 11 KW\n\nAverage Energy consumption WLTP: 20.1-21.1 kWh/100 km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Polestar 4",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "400.1 kw (544 hp)",
+               "Total maximum torque": "506 lb-ft (686 Nm)"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+          },
+          "DIMENSIONS": {
+               "Length": 190.5,
+               "Width": 84.2,
+               "Height": 60.8,
+               "Wheelbase": 118.1
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Range": 372.8
+          },
+          "": {}
+     }
+},	
+ ] } 

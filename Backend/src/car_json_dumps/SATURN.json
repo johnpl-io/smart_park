@@ -1,0 +1,467 @@
+{ "brand_name" : "SATURN", "models": [
+{
+     "model_name": "SATURN Astra (5 Doors) 2008-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "103 KW @ 6300 RPM\n140 HP @ 6300 RPM\n138 BHP @ 6300 RPM",
+               "Torque": "125 lb-ft @ 3800 RPM\n170 Nm @ 3800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 170.5,
+               "Width": 69,
+               "Height": 57.4,
+               "Front/rear Track": "58.6/58.6 in (1,488/1,488 mm)",
+               "Wheelbase": 102.9,
+               "Ground Clearance": 6.8,
+               "Cargo Volume": 12.2,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2778
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.2,
+               "Highway": 42,
+               "Combined": 33.1,
+               "CO2 Emissions": 169
+          }
+     }
+},{
+     "model_name": "SATURN Astra XR (3 Doors) 2007-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "103 KW @ 6300 RPM\n140 HP @ 6300 RPM\n138 BHP @ 6300 RPM",
+               "Torque": "125 lb-ft @ 3800 RPM\n170 Nm @ 3800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 170.5,
+               "Width": 69,
+               "Height": 55.8,
+               "Front/rear Track": "58.6/58.6 in (1,488/1,488 mm)",
+               "Wheelbase": 102.9,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 12,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2668,
+               "Gross Weight Limit": 3935
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.6,
+               "Highway": 38.6,
+               "Combined": 30.5,
+               "CO2 Emissions": 185
+          },
+          "": {}
+     }
+},{
+     "model_name": "SATURN Aura 2006-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2384,
+               "Power": "126 KW @ 5800 RPM\n171 HP @ 5800 RPM\n169 BHP @ 5800 RPM",
+               "Torque": "162 lb-ft @ 4500 RPM\n220 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P225/50 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 190,
+               "Width": 70.3,
+               "Height": 57.6,
+               "Front/rear Track": "59.9/60.3 in (1,521/1,532 mm)",
+               "Wheelbase": 112.3,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3446,
+               "Gross Weight Limit": 4447
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 30,
+               "Combined": 25,
+               "CO2 Emissions": 223.7
+          },
+          "": {}
+     }
+},{
+     "model_name": "SATURN Ion Quad Coupe 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "153 KW @ 5600 RPM\n208 HP @ 5600 RPM\n205 BHP @ 5600 RPM",
+               "Torque": "200 lb-ft @ 4400 RPM\n271 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 6.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/45 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 185,
+               "Width": 67.9,
+               "Height": 55.6,
+               "Front/rear Track": "58.8/58.4 in (1,494/1,483 mm)",
+               "Wheelbase": 103.5,
+               "Cargo Volume": 14.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2930
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23,
+               "Highway": 29,
+               "Combined": 25
+          },
+          "": {}
+     }
+},{
+     "model_name": "SATURN Ion Sedan 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2384,
+               "Power": "126 KW @ 6200 RPM\n171 HP @ 6200 RPM\n169 BHP @ 6200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 184.5,
+               "Width": 67.2,
+               "Height": 57.4,
+               "Front/rear Track": "58.8/58.4 in (1,494/1,483 mm)",
+               "Wheelbase": 103.2,
+               "Cargo Volume": 14.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2692
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25,
+               "Highway": 34,
+               "Combined": 29
+          },
+          "": {}
+     }
+},{
+     "model_name": "SATURN Outlook 2006-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3564,
+               "Power": "199 KW @ 6600 RPM\n270 HP @ 6600 RPM\n267 BHP @ 6600 RPM",
+               "Torque": "248 lb-ft @ 3200 RPM\n336 Nm @ 3200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Automatic, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 201.1,
+               "Width": 78.9,
+               "Height": 72.5,
+               "Front/rear Track": "67.3/67.3 in (1,709/1,709 mm)",
+               "Wheelbase": 118.9,
+               "Cargo Volume": 19.7,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4685
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 24,
+               "Combined": 19,
+               "CO2 Emissions": 295.1
+          }
+     }
+},{
+     "model_name": "SATURN Relay 2004-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3498,
+               "Power": "150 KW @ 5600 RPM\n201 HP @ 5600 RPM\n201 BHP @ 5600 RPM",
+               "Torque": "216 lb-ft @ 4000 RPM\n293 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 204.9,
+               "Width": 72,
+               "Height": 68.6,
+               "Front/rear Track": "62.4/62.6 in (1,585/1,590 mm)",
+               "Wheelbase": 121.1,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 26.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4231,
+               "Gross Weight Limit": 5626
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18,
+               "Highway": 25,
+               "Combined": 21,
+               "CO2 Emissions": 266.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "SATURN Sky 2006-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "194 KW @ 5300 RPM\n264 HP @ 5300 RPM\n260 BHP @ 5300 RPM",
+               "Torque": "258 lb-ft @ 2500-5200 RPM\n350 Nm @ 2500-5200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 142.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R18 96V"
+          },
+          "DIMENSIONS": {
+               "Length": 161.1,
+               "Width": 71.4,
+               "Height": 50.1,
+               "Front/rear Track": "60.7/61.4 in (1,542/1,560 mm)",
+               "Wheelbase": 95.1,
+               "Ground Clearance": 3.6,
+               "Cargo Volume": 2.3,
+               "Aerodynamics (Cd)": 0.42
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3036
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 29.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "SATURN Vue 2007-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2384,
+               "Power": "125 KW @ 5800 RPM\n170 HP @ 5800 RPM\n168 BHP @ 5800 RPM",
+               "Torque": "162 lb-ft @ 5100 RPM\n220 Nm @ 5100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P215/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 180.1,
+               "Width": 72.8,
+               "Height": 66.3,
+               "Front/rear Track": "40.6/41.3 in (1,031/1,049 mm)",
+               "Wheelbase": 106.6,
+               "Cargo Volume": 13.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4325
+          },
+          "": {}
+     }
+},{
+     "model_name": "SATURN Vue 2005-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2198,
+               "Power": "106 KW @ 5400 RPM\n143 HP @ 5400 RPM\n142 BHP @ 5400 RPM",
+               "Torque": "152 lb-ft @ 4000 RPM\n206 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65-16R"
+          },
+          "DIMENSIONS": {
+               "Length": 181.3,
+               "Width": 71.6,
+               "Height": 66.3,
+               "Front/rear Track": "61/61 in (1,549/1,549 mm)",
+               "Wheelbase": 106.6,
+               "Ground Clearance": 8,
+               "Cargo Volume": 30.8,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3279
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23,
+               "Highway": 29,
+               "Combined": 25,
+               "CO2 Emissions": 223.7
+          },
+          "": {}
+     }
+},{
+     "model_name": "SATURN Vue 2001-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2198,
+               "Power": "106 KW @ 5400 RPM\n144 HP @ 5400 RPM\n142 BHP @ 5400 RPM",
+               "Torque": "152 lb-ft @ 4000 RPM\n206 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 181.3,
+               "Width": 71.6,
+               "Height": 66.3,
+               "Front/rear Track": "61/61 in (1,549/1,549 mm)",
+               "Wheelbase": 106.6,
+               "Ground Clearance": 8,
+               "Cargo Volume": 30.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3279
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23,
+               "Highway": 29,
+               "Combined": 25,
+               "CO2 Emissions": 223.7
+          },
+          "": {}
+     }
+},	
+ ] } 

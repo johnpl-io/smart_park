@@ -1,0 +1,2509 @@
+{ "brand_name" : "DODGE", "models": [
+{
+     "model_name": "2015 Dodge Challenger",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3604,
+               "Power": "227 KW @ 6350 RPM\n309 HP @ 6350 RPM\n304 BHP @ 6350 RPM",
+               "Torque": "268 lb-ft @ 4800 RPM\n363 Nm @ 4800 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated disc"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P235/55 R 18"
+          },
+          "DIMENSIONS": {
+               "Length": 197.7,
+               "Width": 75.7,
+               "Height": 57.1,
+               "Front/rear Track": "63.4/63.8 in (1,610/1,621 mm)",
+               "Wheelbase": 116,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 16.2,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3834,
+               "Gross Weight Limit": 5450
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 30
+          },
+          "": {}
+     }
+},{
+     "model_name": "2011 Dodge Challenger",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "6",
+               "Displacement": 3564,
+               "Power": "227 KW @ 6350 RPM\n309 HP @ 6350 RPM\n304 BHP @ 6350 RPM",
+               "Torque": "268 lb-ft @ 4800 RPM\n363 Nm @ 4800 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P235/55 R 18"
+          },
+          "DIMENSIONS": {
+               "Length": 197.7,
+               "Width": 75.7,
+               "Height": 57.1,
+               "Wheelbase": 116,
+               "Ground Clearance": 5.2,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3834
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18,
+               "Highway": 27
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Challenger 2007-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3518,
+               "Power": "186 KW @ 6400 RPM\n253 HP @ 6400 RPM\n249 BHP @ 6400 RPM",
+               "Torque": "250 lb-ft @ 3800 RPM\n339 Nm @ 3800 RPM",
+               "Fuel System": "Multipoint Fuel Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 197.7,
+               "Width": 75.7,
+               "Height": 57.1,
+               "Front/rear Track": "63/63.1 in (1,600/1,603 mm)",
+               "Wheelbase": 116,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 16.2,
+               "Aerodynamics (Cd)": 0.35,
+               "Turning circle": 37.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3819,
+               "Gross Weight Limit": 4950
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 25,
+               "Combined": 21
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Challenger 1969-1974",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3249,
+               "Power": "78.3 KW @ 4400 RPM\n106 HP @ 4400 RPM\n105 BHP @ 4400 RPM",
+               "Torque": "180 lb-ft @ 2000 RPM\n244 Nm @ 2000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "E78 - 14"
+          },
+          "DIMENSIONS": {
+               "Length": 191.3,
+               "Width": 76.1,
+               "Height": 50.9,
+               "Front/rear Track": "59.7/60.7 in (1,516/1,542 mm)",
+               "Wheelbase": 110,
+               "Cargo Volume": 8,
+               "Aerodynamics (Cd)": 0.45
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3120
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 17.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Durango 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3604,
+               "Power": "215.5 KW @ 6400 RPM\n293 HP @ 6400 RPM\n289 BHP @ 6400 RPM",
+               "Torque": "260 lb-ft @ 4000 RPM\n353 Nm @ 4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 24.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P265/60R18"
+          },
+          "DIMENSIONS": {
+               "Length": 200.8,
+               "Width": 75.8,
+               "Height": 70.1,
+               "Front/rear Track": "63.9/64.1 in (1,623/1,628 mm)",
+               "Wheelbase": 119.8,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 17.2,
+               "Aerodynamics (Cd)": 0.36,
+               "Turning circle (curb to curb)": "41 ft (12.5 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4691,
+               "Gross Weight Limit": 6579
+          },
+          "": {}
+     }
+},{
+     "model_name": "2014 Dodge Durango",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3604,
+               "Power": "216 KW @ 6400 RPM\n294 HP @ 6400 RPM\n290 BHP @ 6400 RPM",
+               "Torque": "260 lb-ft @ 4800 RPM\n353 Nm @ 4800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 24.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7 speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P265/60R18"
+          },
+          "DIMENSIONS": {
+               "Length": 201.2,
+               "Width": 75.7,
+               "Height": 70.9,
+               "Front/rear Track": "63.9/64.1 in (1,623/1,628 mm)",
+               "Wheelbase": 119.8,
+               "Ground Clearance": 11.7,
+               "Cargo Volume": 47.7,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4987,
+               "Gross Weight Limit": 6499
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Durango 2004-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3701,
+               "Power": "157 KW @ 5200 RPM\n213 HP @ 5200 RPM\n211 BHP @ 5200 RPM",
+               "Torque": "235 lb-ft @ 4000 RPM\n319 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 25.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 200.8,
+               "Width": 76,
+               "Height": 74.3,
+               "Front/rear Track": "65/64.4 in (1,651/1,636 mm)",
+               "Wheelbase": 119.2,
+               "Cargo Volume": 18.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4672.4,
+               "Gross Weight Limit": 6601.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 21
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Durango 1997-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4701,
+               "Power": "175 KW @ 4800 RPM\n238 HP @ 4800 RPM\n235 BHP @ 4800 RPM",
+               "Torque": "295 lb-ft @ 3200 RPM\n400 Nm @ 3200 RPM",
+               "Fuel System": "Electonic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Automatic, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/70 R 17"
+          },
+          "DIMENSIONS": {
+               "Length": 193.3,
+               "Width": 71.5,
+               "Height": 72.9,
+               "Front/rear Track": "62/61.9 in (1,575/1,572 mm)",
+               "Wheelbase": 116,
+               "Cargo Volume": 87.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4376.9,
+               "Gross Weight Limit": 6401.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14,
+               "Highway": 19
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Durango SRT 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6417,
+               "Power": "349.4 KW @ 6000 RPM\n475 HP @ 6000 RPM\n469 BHP @ 6000 RPM",
+               "Torque": "470 lb-ft @ 4300 RPM\n637 Nm @ 4300 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 24.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 200.1,
+               "Width": 75.7,
+               "Height": 70.5,
+               "Front/rear Track": "63.9/64.1 in (1,623/1,628 mm)",
+               "Wheelbase": 119.8,
+               "Ground Clearance": 8.1,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Durango SRT 2017-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6417,
+               "Power": "354.2 KW @ 6000 RPM\n481.6 HP @ 6000 RPM\n475 BHP @ 6000 RPM",
+               "Torque": "470 lb-ft @ 4300 RPM\n637 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P295/45ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 189.8,
+               "Width": 76.5,
+               "Height": 67.6,
+               "Front/rear Track": "64.4/64.3 in (1,636/1,633 mm)",
+               "Wheelbase": 119.8,
+               "Ground Clearance": 8,
+               "Cargo Volume": 36.3,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5509,
+               "Gross Weight Limit": 6499
+          }
+     }
+},{
+     "model_name": "DODGE Charger SRT Hellcat Widebody 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6200,
+               "Power": "520 KW @ 6000 RPM\n707 HP @ 6000 RPM\n697 BHP @ 6000 RPM",
+               "Torque": "650 lb-ft @ 4800 RPM\n881 Nm @ 4800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 196
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "305/35 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 201,
+               "Width": 78.3,
+               "Height": 57.6,
+               "Front/rear Track": "65.6/65.3 in (1,666/1,659 mm)",
+               "Wheelbase": 120,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 16.5,
+               "Aerodynamics (Cd)": 0.381
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4586
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12,
+               "Highway": 21,
+               "Combined": 15
+          }
+     }
+},{
+     "model_name": "DODGE Charger SRT 2015-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6166,
+               "Power": "527 KW @ 6000 RPM\n717 HP @ 6000 RPM\n707 BHP @ 6000 RPM",
+               "Torque": "650 lb-ft @ 4000 RPM\n881 Nm @ 4000 RPM",
+               "Fuel System": "Supercharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 204,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 200.8,
+               "Width": 75,
+               "Height": 58.3,
+               "Front/rear Track": "64/63.7 in (1,626/1,618 mm)",
+               "Wheelbase": 120.4,
+               "Ground Clearance": 4.6,
+               "Cargo Volume": 16.5,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4575,
+               "Gross Weight Limit": 5567
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 22,
+               "Combined": 16
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Charger SRT8 2012-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6417,
+               "Power": "351 KW @ 6000 RPM\n477 HP @ 6000 RPM\n471 BHP @ 6000 RPM",
+               "Torque": "470 lb-ft @ 4300 RPM\n637 Nm @ 4300 RPM",
+               "Fuel System": "Sequential, multi-port, electronic, returnless; automatic features Fuel Saver mode",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "W5A580 FIVE-SPEED AUTOMATIC"
+          },
+          "BRAKES SPECS": {
+               "Front": "(360 x 32) vented and slotted",
+               "Rear": "(350 x 28) vented and slotted"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45R20"
+          },
+          "DIMENSIONS": {
+               "Length": 200.33,
+               "Width": 74.24,
+               "Height": 58.26,
+               "Front/rear Track": "63.4/63.1 in (1,610/1,603 mm)",
+               "Wheelbase": 120.2,
+               "Ground Clearance": 4.37,
+               "Cargo Volume": 0.6,
+               "Aerodynamics (Cd)": 0.338
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4365
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14,
+               "Highway": 23
+          }
+     }
+},{
+     "model_name": "DODGE Charger SRT8 2006-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3489,
+               "Power": "183.9 KW @ 6400 RPM\n250 HP @ 6400 RPM\n247 BHP @ 6400 RPM",
+               "Torque": "390 lb-ft @ 3800 RPM\n529 Nm @ 3800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P245/45 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 200.1,
+               "Width": 74.4,
+               "Height": 58.2,
+               "Front/rear Track": "63/63.1 in (1,600/1,603 mm)",
+               "Wheelbase": 120,
+               "Cargo Volume": 16.1,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4160.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 20,
+               "Combined": 16
+          },
+          "": {}
+     }
+},{
+     "model_name": "2023 Dodge Challenger SRT Demon 170",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6166,
+               "Power": "671.1 KW @ 6500 RPM\n912 HP @ 6500 RPM\n900 BHP @ 6500 RPM",
+               "Torque": "810 lb-ft @ 4200 RPM\n1098 Nm @ 4200 RPM",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 215,
+               "Acceleration 0-62 Mph (0-100 kph)": 1.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/55 R18 // 315/50 R17"
+          },
+          "NOTES": {
+               "E85 ethanol": "1025 HP"
+          }
+     }
+},{
+     "model_name": "2018 Dodge Challenger SRT Demon",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6166,
+               "Power": "617.8 KW @ 6300 RPM\n840 HP @ 6300 RPM\n828 BHP @ 6300 RPM",
+               "Torque": "770 lb-ft @ 4500 RPM\n1044 Nm @ 4500 RPM",
+               "Fuel System": "Supercharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 2.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "315/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 197.4,
+               "Width": 78.8,
+               "Height": 57.4,
+               "Front/rear Track": "65.8/65.6 in (1,671/1,666 mm)",
+               "Wheelbase": 116.1,
+               "Ground Clearance": 0.4,
+               "Cargo Volume": 16.2,
+               "Aerodynamics (Cd)": 0.37,
+               "Turning circle": 38.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4279
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 22,
+               "Combined": 16
+          }
+     }
+},{
+     "model_name": "DODGE Challenger SRT 2015-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6166,
+               "Power": "527 KW @ 6000 RPM\n717 HP @ 6000 RPM\n707 BHP @ 6000 RPM",
+               "Torque": "650 lb-ft @ 4000 RPM\n881 Nm @ 4000 RPM",
+               "Fuel System": "Supercharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated disc"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/40 ZR 20"
+          },
+          "DIMENSIONS": {
+               "Length": 197.7,
+               "Width": 75.7,
+               "Height": 57.1,
+               "Front/rear Track": "63.4/63.1 in (1,610/1,603 mm)",
+               "Wheelbase": 116,
+               "Ground Clearance": 4.8,
+               "Cargo Volume": 16.2,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4160,
+               "Gross Weight Limit": 5450
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 21,
+               "Combined": 16
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Challenger SRT8 2008-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6059,
+               "Power": "317 KW @ 6200 RPM\n431 HP @ 6200 RPM\n425 BHP @ 6200 RPM",
+               "Torque": "420 lb-ft @ 4800 RPM\n569 Nm @ 4800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 170,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 197.7,
+               "Width": 75.7,
+               "Height": 57.1,
+               "Front/rear Track": "63/63.1 in (1,600/1,603 mm)",
+               "Wheelbase": 116,
+               "Ground Clearance": 4.8,
+               "Cargo Volume": 16.2,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4140,
+               "Gross Weight Limit": 4950
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 19,
+               "Combined": 16
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Dodge Charger Daytona",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "364.8 kw (496 hp)",
+               "Total maximum torque": "404 lb-ft (548 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "137 mph (220 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 206.6,
+               "Width": 79.8,
+               "Height": 58.9,
+               "Front/rear Track": "68.7/69.1 in (1,745/1,755 mm)",
+               "Wheelbase": 121,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 22.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5838,
+               "Gross Weight Limit": 6700
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 939,
+               "Maximum Capacity": "100.5 kWh",
+               "Range": 317
+          },
+          "NOTES": {
+               "Peak Charge Rate w/ 350 kW (500A) EVSE": "183 KW\nOn Board Charger Level 2AC Max Charge Rate: 11 KW\nCharging Time Level 2 AC11 kW 5-80% / 20-80%: 411.2 min / 329 min\nCharging Time DCFC 175 kW EVSE 5-80% / 20-80%: 52.4 min / 41.9 min\nCharging Time DCFC 350 kW EVSE 5-80% / 20-80%: 32.5 min / 27.6 min"
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Journey 2014-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2360,
+               "Power": "129 KW @ 6000 RPM\n175 HP @ 6000 RPM\n173 BHP @ 6000 RPM",
+               "Torque": "166 lb-ft @ 4000 RPM\n225 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P 225/65 R 17"
+          },
+          "DIMENSIONS": {
+               "Length": 192.4,
+               "Width": 72.2,
+               "Height": 66.6,
+               "Front/rear Track": "61.9/62.3 in (1,572/1,582 mm)",
+               "Wheelbase": 113.8,
+               "Ground Clearance": 7.3,
+               "Cargo Volume": 39.6,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3825,
+               "Gross Weight Limit": 5004
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 26,
+               "Combined": 22
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "DODGE Journey 2011-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2360,
+               "Power": "129 KW @ 6000 RPM\n175 HP @ 6000 RPM\n173 BHP @ 6000 RPM",
+               "Torque": "166 lb-ft @ 4000 RPM\n225 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 192.4,
+               "Width": 72.2,
+               "Height": 66.6,
+               "Front/rear Track": "61.9/62.3 in (1,572/1,582 mm)",
+               "Wheelbase": 113.8,
+               "Ground Clearance": 7.2,
+               "Cargo Volume": 37,
+               "Aerodynamics (Cd)": 0.368
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3825,
+               "Gross Weight Limit": 5004
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 26,
+               "Combined": 22
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Journey 2008-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2360,
+               "Power": "125.1 KW @ 6000 RPM\n170 HP @ 6000 RPM\n168 BHP @ 6000 RPM",
+               "Torque": "162 lb-ft @ 4500 RPM\n220 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 20.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/65 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 192.4,
+               "Width": 72.2,
+               "Height": 65.8,
+               "Front/rear Track": "61.8/62.3 in (1,570/1,582 mm)",
+               "Wheelbase": 113.8,
+               "Ground Clearance": 7.3,
+               "Cargo Volume": 39.6,
+               "Aerodynamics (Cd)": 0.37,
+               "Turning circle": 39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3704,
+               "Gross Weight Limit": 5346
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.1,
+               "Highway": 30.9,
+               "Combined": 24.5,
+               "CO2 Emissions": 228
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Ram 1500 2009-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3701,
+               "Power": "156 KW @ 5200 RPM\n212 HP @ 5200 RPM\n209 BHP @ 5200 RPM",
+               "Torque": "235 lb-ft @ 4000 RPM\n319 Nm @ 4000 RPM",
+               "Fuel System": "Sequential Multi-port Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 34.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/70 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 229,
+               "Width": 79.4,
+               "Height": 75.7,
+               "Front/rear Track": "67.8/67.5 in (1,722/1,715 mm)",
+               "Wheelbase": 140.6,
+               "Ground Clearance": 9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14,
+               "Highway": 20,
+               "Combined": 17
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Ram 1993-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3900,
+               "Power": "128.7 KW @ 4800 RPM\n175 HP @ 4800 RPM\n173 BHP @ 4800 RPM",
+               "Torque": "230 lb-ft @ 3200 RPM\n312 Nm @ 3200 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 30.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 244,
+               "Width": 79.4,
+               "Height": 71.5,
+               "Wheelbase": 154.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5151
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 20
+          },
+          "": {}
+     }
+},{
+     "model_name": "2023 Dodge Hornet",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1995,
+               "Power": "199.8 KW @ - RPM\n271.7 HP @ - RPM\n268 BHP @ - RPM",
+               "Torque": "295 lb-ft @ - RPM\n400 Nm @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 178.3,
+               "Width": 82,
+               "Height": 63.8,
+               "Wheelbase": 103.8,
+               "Ground Clearance": 8,
+               "Cargo Volume": 27,
+               "Turning circle": 38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3527
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Aries Coupe 1981-1989",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2213,
+               "Power": "62.5 KW @ 4800 RPM\n85 HP @ 4800 RPM\n84 BHP @ 4800 RPM",
+               "Torque": "111 lb-ft @ 2800 RPM\n151 Nm @ 2800 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 95,
+               "Acceleration 0-62 Mph (0-100 kph)": 16
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P 175/75 R 13"
+          },
+          "DIMENSIONS": {
+               "Length": 176,
+               "Width": 68.6,
+               "Height": 52.4,
+               "Front/rear Track": "57.6/57 in (1,463/1,448 mm)",
+               "Wheelbase": 99.6,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.45
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2366
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24,
+               "Highway": 35,
+               "Combined": 28
+          },
+          "": {}
+     }
+},{
+     "model_name": "2011 Dodge Avenger",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2360,
+               "Power": "128.7 KW @ 6000 RPM\n175 HP @ 6000 RPM\n173 BHP @ 6000 RPM",
+               "Torque": "166 lb-ft @ 4400 RPM\n225 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 192.6,
+               "Width": 72.8,
+               "Height": 58.4,
+               "Front/rear Track": "61.7/62.8 in (1,567/1,595 mm)",
+               "Wheelbase": 108.9,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 13.5,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3395,
+               "Gross Weight Limit": 4630
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 30,
+               "Combined": 24
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Avenger 2007-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "115 KW @ 6300 RPM\n156 HP @ 6300 RPM\n154 BHP @ 6300 RPM",
+               "Torque": "140 lb-ft @ 5100 RPM\n190 Nm @ 5100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 190.9,
+               "Width": 72.6,
+               "Height": 58.9,
+               "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
+               "Wheelbase": 108.9,
+               "Ground Clearance": 6,
+               "Cargo Volume": 13.8,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3263,
+               "Gross Weight Limit": 4497
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 38.6,
+               "Combined": 30.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "2007 Dodge Caliber",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "110 KW @ 6500 RPM\n150 HP @ 6500 RPM\n148 BHP @ 6500 RPM",
+               "Torque": "125 lb-ft @ 5200 RPM\n169 Nm @ 5200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 173.8,
+               "Width": 68.8,
+               "Height": 60.4,
+               "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 12.4,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2910,
+               "Gross Weight Limit": 4167
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.5,
+               "Highway": 39.2,
+               "Combined": 32.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "2007 Dodge Caliber SRT4",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2360,
+               "Power": "213.3 KW @ 5700-6400 RPM\n290 HP @ 5700-6400 RPM\n286 BHP @ 5700-6400 RPM",
+               "Torque": "265 lb-ft @ 2000-5000 RPM\n359 Nm @ 2000-5000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 173.8,
+               "Width": 68.8,
+               "Height": 60.4,
+               "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 12.4,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3190
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 26,
+               "Combined": 26
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "DODGE Grand Caravan 2007-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3301,
+               "Power": "129 KW @ 5000 RPM\n175 HP @ 5000 RPM\n173 BHP @ 5000 RPM",
+               "Torque": "205 lb-ft @ 4000 RPM\n278 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4 speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 208.8,
+               "Width": 87.7,
+               "Height": 68.9,
+               "Front/rear Track": "65.6/64.8 in (1,666/1,646 mm)",
+               "Wheelbase": 121.2,
+               "Ground Clearance": 5.8,
+               "Aerodynamics (Cd)": 0.316
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Caravan 2001-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2429,
+               "Power": "112 KW @ 5100 RPM\n152 HP @ 5100 RPM\n150 BHP @ 5100 RPM",
+               "Torque": "167 lb-ft @ 4000 RPM\n226 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65R16"
+          },
+          "DIMENSIONS": {
+               "Length": 189.3,
+               "Width": 78.6,
+               "Height": 68.9,
+               "Front/rear Track": "63/64 in (1,600/1,626 mm)",
+               "Wheelbase": 113.3,
+               "Ground Clearance": 5.6,
+               "Cargo Volume": 15.3,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3920
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.9,
+               "Highway": 25.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Caravan 1995-2001",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2429,
+               "Power": "110.3 KW @ 5200 RPM\n150 HP @ 5200 RPM\n148 BHP @ 5200 RPM",
+               "Torque": "167 lb-ft @ 4000 RPM\n226 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "3-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/75 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 186.3,
+               "Width": 75.6,
+               "Height": 68.5,
+               "Wheelbase": 113.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3549,
+               "Gross Weight Limit": 5410
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.9,
+               "Highway": 25
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Grand Caravan 1987-1990",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "72 KW @ 5200 RPM\n98 HP @ 5200 RPM\n97 BHP @ 5200 RPM",
+               "Torque": "119 lb-ft @ 3200 RPM\n161 Nm @ 3200 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Caravan 1983-1990",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2213,
+               "Power": "75 KW @ 5200 RPM\n102 HP @ 5200 RPM\n101 BHP @ 5200 RPM",
+               "Torque": "121 lb-ft @ 3200 RPM\n164 Nm @ 3200 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P 185/75 R 14"
+          },
+          "DIMENSIONS": {
+               "Length": 175.9,
+               "Width": 69.6,
+               "Height": 64.2,
+               "Front/rear Track": "59.9/62.1 in (1,521/1,577 mm)",
+               "Wheelbase": 112,
+               "Aerodynamics (Cd)": 0.43
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2910
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24,
+               "Highway": 36.8,
+               "Combined": 29
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Dakota 1996-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2458,
+               "Power": "88 KW @ 5200 RPM\n120 HP @ 5200 RPM\n118 BHP @ 5200 RPM",
+               "Torque": "148 lb-ft @ 3250 RPM\n201 Nm @ 3250 RPM",
+               "Fuel System": "Electonic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 215.1,
+               "Width": 71.5,
+               "Height": 65.3,
+               "Wheelbase": 123.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3556
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20,
+               "Highway": 25
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Dakota Club Cab 2004-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3701,
+               "Power": "157 KW @ 5200 RPM\n213 HP @ 5200 RPM\n211 BHP @ 5200 RPM",
+               "Torque": "235 lb-ft @ 3600 RPM\n319 Nm @ 3600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/70SR16"
+          },
+          "DIMENSIONS": {
+               "Length": 218.8,
+               "Width": 71.7,
+               "Height": 68.6,
+               "Front/rear Track": "62.8/62.9 in (1,595/1,598 mm)",
+               "Wheelbase": 131.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 22
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Dakota Quad Cab 2004-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3701,
+               "Power": "157 KW @ 5200 RPM\n213 HP @ 5200 RPM\n211 BHP @ 5200 RPM",
+               "Torque": "235 lb-ft @ 3600 RPM\n319 Nm @ 3600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/70SR16"
+          },
+          "DIMENSIONS": {
+               "Length": 218.8,
+               "Width": 71.7,
+               "Height": 68.7,
+               "Front/rear Track": "62.8/62.9 in (1,595/1,598 mm)",
+               "Wheelbase": 131.3,
+               "Ground Clearance": 9.9,
+               "Cargo Volume": 38.1
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 7055
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 22
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Dart 2012-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1368,
+               "Power": "119 KW @ 5500 RPM\n162 HP @ 5500 RPM\n160 BHP @ 5500 RPM",
+               "Torque": "184 lb-ft @ 2500-4000 RPM\n249 Nm @ 2500-4000 RPM",
+               "Fuel System": "Sequential, multi-port, electronic, returnles",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "SIX-SPEED DUAL DRY CLUTCH TRANMISSION"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "solid discs"
+          },
+          "DIMENSIONS": {
+               "Length": 183.9,
+               "Width": 72,
+               "Height": 57.7,
+               "Front/rear Track": "61.7/61.6 in (1,567/1,565 mm)",
+               "Wheelbase": 106.4,
+               "Cargo Volume": 13.1,
+               "Aerodynamics (Cd)": 0.285
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3242
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27,
+               "Highway": 37,
+               "Combined": 31
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Magnum 2007-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2736,
+               "Power": "142 KW @ 6400 RPM\n193 HP @ 6400 RPM\n190 BHP @ 6400 RPM",
+               "Torque": "190 lb-ft @ 4000 RPM\n258 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65/R17"
+          },
+          "DIMENSIONS": {
+               "Length": 197.7,
+               "Width": 74.1,
+               "Height": 58.3,
+               "Front/rear Track": "63/63.1 in (1,600/1,603 mm)",
+               "Wheelbase": 120,
+               "Cargo Volume": 71.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3858.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 28
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Magnum 2004-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2736,
+               "Power": "142 KW @ 6400 RPM\n193 HP @ 6400 RPM\n190 BHP @ 6400 RPM",
+               "Torque": "190 lb-ft @ 4000 RPM\n258 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60/R18"
+          },
+          "DIMENSIONS": {
+               "Length": 197.7,
+               "Width": 74.1,
+               "Height": 58.3,
+               "Front/rear Track": "63/63.1 in (1,600/1,603 mm)",
+               "Wheelbase": 120,
+               "Ground Clearance": 5.6,
+               "Cargo Volume": 71.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3858.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 26.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Magnum SRT8 2007-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6059,
+               "Power": "318 KW @ 6000 RPM\n432 HP @ 6000 RPM\n426 BHP @ 6000 RPM",
+               "Torque": "420 lb-ft @ 4800 RPM\n569 Nm @ 4800 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Sequential, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 197.7,
+               "Width": 74.1,
+               "Height": 57.9,
+               "Front/rear Track": "63/63.1 in (1,600/1,603 mm)",
+               "Wheelbase": 120,
+               "Cargo Volume": 71.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4260.1
+          }
+     }
+},{
+     "model_name": "DODGE Magnum SRT8 2005-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6059,
+               "Power": "317 KW @ 6200 RPM\n425 HP @ 6200 RPM\n425 BHP @ 6200 RPM",
+               "Torque": "420 lb-ft @ 4800 RPM\n570 Nm @ 4800 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed automatic, Sequential"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventiated Discs",
+               "Rear": "Ventiated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 197.7,
+               "Width": 74.1,
+               "Height": 57.9,
+               "Front/rear Track": "63/63.1 in (1,600/1,603 mm)",
+               "Wheelbase": 120,
+               "Ground Clearance": 5.6,
+               "Cargo Volume": 71.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4260.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 14,
+               "CO2 Emissions": "-"
+          }
+     }
+},{
+     "model_name": "DODGE Neon 2003-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1995,
+               "Power": "112 KW @ 6600 RPM\n152 HP @ 6600 RPM\n150 BHP @ 6600 RPM",
+               "Torque": "135 lb-ft @ 4800 RPM\n183 Nm @ 4800 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60/R15"
+          },
+          "DIMENSIONS": {
+               "Length": 174.4,
+               "Width": 67.4,
+               "Height": 55.9,
+               "Front/rear Track": "58/58.1 in (1,473/1,476 mm)",
+               "Wheelbase": 105,
+               "Cargo Volume": 13
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2626.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27,
+               "Highway": 33.1,
+               "Combined": 30.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Neon SRT-4 2003-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2429,
+               "Power": "158 KW @ 5400 RPM\n215 HP @ 5400 RPM\n212 BHP @ 5400 RPM",
+               "Torque": "245 lb-ft @ 3200 RPM\n332 Nm @ 3200 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 147.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50 ZR 17"
+          },
+          "DIMENSIONS": {
+               "Length": 175.7,
+               "Width": 67.3,
+               "Height": 56.5,
+               "Front/rear Track": "57.7/57.7 in (1,466/1,466 mm)",
+               "Wheelbase": 105,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 13
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2948.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.8,
+               "Highway": 29.4,
+               "Combined": 21.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Neon 1999-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "85 KW @ 5600 RPM\n116 HP @ 5600 RPM\n114 BHP @ 5600 RPM",
+               "Torque": "116 lb-ft @ 4550 RPM\n157 Nm @ 4550 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R 14"
+          },
+          "DIMENSIONS": {
+               "Length": 172.8,
+               "Width": 67.5,
+               "Height": 55.9,
+               "Front/rear Track": "58/58 in (1,473/1,473 mm)",
+               "Wheelbase": 105,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 13
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2657,
+               "Gross Weight Limit": 3528
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.2,
+               "Highway": 38.6,
+               "Combined": 31.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Neon 1994-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1996,
+               "Power": "96 KW @ 5850 RPM\n130 HP @ 5850 RPM\n129 BHP @ 5850 RPM",
+               "Torque": "128 lb-ft @ 4970 RPM\n174 Nm @ 4970 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/75-R13"
+          },
+          "DIMENSIONS": {
+               "Length": 171,
+               "Width": 67.5,
+               "Height": 52.8,
+               "Front/rear Track": "58/58 in (1,473/1,473 mm)",
+               "Wheelbase": 104,
+               "Cargo Volume": 11.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1062,
+               "Gross Weight Limit": 3461
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28,
+               "Highway": 38
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Nitro 2006-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3700,
+               "Power": "157 KW @ 5200 RPM\n213 HP @ 5200 RPM\n211 BHP @ 5200 RPM",
+               "Torque": "235 lb-ft @ 4000 RPM\n319 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/75R16"
+          },
+          "DIMENSIONS": {
+               "Length": 178.9,
+               "Width": 73.1,
+               "Height": 69.9,
+               "Front/rear Track": "61/61 in (1,549/1,549 mm)",
+               "Wheelbase": 108.8,
+               "Ground Clearance": 8.7,
+               "Cargo Volume": 42
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3933.7,
+               "Gross Weight Limit": 5600
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Polara 1962-1965",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5916,
+               "Power": "220 KW @ 4600 RPM\n299 HP @ 4600 RPM\n295 BHP @ 4600 RPM",
+               "Torque": "390 lb-ft @ 2400 RPM\n529 Nm @ 2400 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Automatic, 3 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 212.6,
+               "Width": 78.3,
+               "Height": 56.7,
+               "Front/rear Track": "60.7/60.2 in (1,542/1,529 mm)",
+               "Wheelbase": 122
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3748
+          }
+     }
+},{
+     "model_name": "DODGE Stratus 2001-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2429,
+               "Power": "112 KW @ 5500 RPM\n152 HP @ 5500 RPM\n150 BHP @ 5500 RPM",
+               "Torque": "161 lb-ft @ 4200 RPM\n218 Nm @ 4200 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Automatic, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60R16 91T"
+          },
+          "DIMENSIONS": {
+               "Length": 191.2,
+               "Width": 70.6,
+               "Height": 54.9,
+               "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
+               "Wheelbase": 108,
+               "Cargo Volume": 15.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3135.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 30.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Stratus 1994-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1996,
+               "Power": "96 KW @ 5850 RPM\n131 HP @ 5850 RPM\n129 BHP @ 5850 RPM",
+               "Torque": "128 lb-ft @ 5000 RPM\n174 Nm @ 5000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/70 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 186.2,
+               "Width": 71.3,
+               "Height": 54.3,
+               "Wheelbase": 108.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 15.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2976
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25,
+               "Highway": 36
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE Stratus Coupe 2001-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2429,
+               "Power": "104 KW @ 5500 RPM\n141 HP @ 5500 RPM\n139 BHP @ 5500 RPM",
+               "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4 speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 HR16"
+          },
+          "DIMENSIONS": {
+               "Length": 190.9,
+               "Width": 70.3,
+               "Height": 53.9,
+               "Front/rear Track": "59.4 in (1509 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 16.2,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3133
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 28
+          },
+          "": {}
+     }
+},{
+     "model_name": "DODGE SRT Viper 2012-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 8390,
+               "Power": "477 KW @ 6150 RPM\n649 HP @ 6150 RPM\n640 BHP @ 6150 RPM",
+               "Torque": "600 lb-ft @ 4950 RPM\n813 Nm @ 4950 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "295/30ZR18 || P355/30ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 175.7,
+               "Width": 76.4,
+               "Height": 49.1,
+               "Front/rear Track": "62.9/61 in (1,598/1,549 mm)",
+               "Wheelbase": 98.8,
+               "Ground Clearance": 5,
+               "Cargo Volume": 14.65,
+               "Aerodynamics (Cd)": 0.365
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3354,
+               "Gross Weight Limit": 3926
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12,
+               "Highway": 21,
+               "Combined": 15
+          }
+     }
+},{
+     "model_name": "DODGE Viper SRT10 Roadster 2007-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 8382,
+               "Power": "447 KW @ 6100 RPM\n608 HP @ 6100 RPM\n599 BHP @ 6100 RPM",
+               "Torque": "560 lb-ft @ 5000 RPM\n759 Nm @ 5000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35 ZR 18 // 345/30 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 175.6,
+               "Width": 75.2,
+               "Height": 47.6,
+               "Front/rear Track": "61.6/60.9 in (1,565/1,547 mm)",
+               "Wheelbase": 98.8,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 8.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3439,
+               "Gross Weight Limit": 4012
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12,
+               "Highway": 19.9
+          }
+     }
+},{
+     "model_name": "DODGE Viper SRT10 Coupe 2007-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 8382,
+               "Power": "447 KW @ 6100 RPM\n608 HP @ 6100 RPM\n599 BHP @ 6100 RPM",
+               "Torque": "560 lb-ft @ 5000 RPM\n759 Nm @ 5000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "Front 275/35 ZR 18 Rear 345/30 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 175.6,
+               "Width": 75.2,
+               "Height": 47.6,
+               "Front/rear Track": "61.6/60.9 in (1,565/1,547 mm)",
+               "Wheelbase": 98.8,
+               "Ground Clearance": 5.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3450
+          }
+     }
+},{
+     "model_name": "DODGE Viper SRT10 Roadster 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 8285,
+               "Power": "372 KW @ 5600 RPM\n506 HP @ 5600 RPM\n499 BHP @ 5600 RPM",
+               "Torque": "525 lb-ft @ 4200 RPM\n712 Nm @ 4200 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 195.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "Front 275/35ZR18 Rear 345/30ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 175.6,
+               "Width": 75.2,
+               "Height": 47.6,
+               "Front/rear Track": "57.8/60.9 in (1,468/1,547 mm)",
+               "Wheelbase": 98.8,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 6.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3386.9,
+               "Gross Weight Limit": 3872
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 6.8,
+               "Highway": 17.8,
+               "Combined": 12.1
+          }
+     }
+},{
+     "model_name": "DODGE Viper SRT10 Coupe 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 8285,
+               "Power": "372 KW @ 5600 RPM\n506 HP @ 5600 RPM\n499 BHP @ 5600 RPM",
+               "Torque": "525 lb-ft @ 4200 RPM\n712 Nm @ 4200 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "Front 275/35 ZR18 Rear 345/30 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 175.6,
+               "Width": 75.2,
+               "Height": 48.6,
+               "Front/rear Track": "61.6/60.9 in (1,565/1,547 mm)",
+               "Wheelbase": 98.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3408.9
+          }
+     }
+},{
+     "model_name": "DODGE Viper ACR 1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 7990,
+               "Power": "343 KW @ 5200 RPM\n466 HP @ 5200 RPM\n460 BHP @ 5200 RPM",
+               "Torque": "500 lb-ft @ 3700 RPM\n678 Nm @ 3700 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 180,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35ZR18 // 335/30ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 176.7,
+               "Width": 75.7,
+               "Height": 47,
+               "Front/rear Track": "59.6/60.6 in (1,514/1,539 mm)",
+               "Wheelbase": 96.2,
+               "Ground Clearance": 5,
+               "Cargo Volume": 9.1,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3444,
+               "Gross Weight Limit": 3865
+          }
+     }
+},{
+     "model_name": "DODGE Viper GT2 1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 7990,
+               "Power": "338 KW @ 5200 RPM\n460 HP @ 5200 RPM\n453 BHP @ 5200 RPM",
+               "Torque": "500 lb-ft @ 3600 RPM\n678 Nm @ 3600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 180,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 176.7,
+               "Width": 75.7,
+               "Height": 47,
+               "Front/rear Track": "59.6/60.6 in (1,514/1,539 mm)",
+               "Wheelbase": 96.2,
+               "Cargo Volume": 9.1,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3444,
+               "Gross Weight Limit": 3865
+          }
+     }
+},{
+     "model_name": "DODGE Viper GTS 1996-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 7990,
+               "Power": "335 KW @ 5200 RPM\n455 HP @ 5200 RPM\n449 BHP @ 5200 RPM",
+               "Torque": "490 lb-ft @ 3700 RPM\n664 Nm @ 3700 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 180.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "335/30 ZR 18"
+          },
+          "DIMENSIONS": {
+               "Length": 176.7,
+               "Width": 75.7,
+               "Height": 47,
+               "Front/rear Track": "59.6/60.6 in (1,514/1,539 mm)",
+               "Wheelbase": 96.2,
+               "Cargo Volume": 9.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3459.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11,
+               "Highway": 19.9
+          }
+     }
+},{
+     "model_name": "1990 Dodge Viper RT/10",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 7990,
+               "Power": "335 KW @ 5200 RPM\n455 HP @ 5200 RPM\n449 BHP @ 5200 RPM",
+               "Torque": "490 lb-ft @ 3700 RPM\n664 Nm @ 3700 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 180.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "335/30 ZR 18"
+          },
+          "DIMENSIONS": {
+               "Length": 176.2,
+               "Width": 75.7,
+               "Height": 44,
+               "Front/rear Track": "59.6/60.6 in (1,514/1,539 mm)",
+               "Wheelbase": 96.2,
+               "Cargo Volume": 6.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3439.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11,
+               "Highway": 19.9
+          }
+     }
+},	
+ ] } 

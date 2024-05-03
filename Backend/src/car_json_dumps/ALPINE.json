@@ -1,0 +1,325 @@
+{ "brand_name" : "ALPINE", "models": [
+{
+     "model_name": "ALPINE A110 S 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "223.7 KW @ 6300 RPM\n304 HP @ 6300 RPM\n300 BHP @ 6300 RPM",
+               "Torque": "251 lb-ft @ 2400-6000 RPM\n340 Nm @ 2400-6000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/40 R18 // 245/40 R18"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2445,
+               "Gross Weight Limit": 2998
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 34.6,
+               "CO2 Emissions (Combined)": "153 g/km"
+          }
+     }
+},{
+     "model_name": "ALPINE A110S 2019-2021",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "214.8 KW @ 6400 RPM\n292 HP @ 6400 RPM\n288 BHP @ 6400 RPM",
+               "Torque": "236 lb-ft @ 2000-6400 RPM\n320 Nm @ 2000-6400 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 162,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-automatic speed dual clutch"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/40R18 // 245/40R18"
+          },
+          "DIMENSIONS": {
+               "Length": 164.6,
+               "Width": 70.8,
+               "Height": 49.1,
+               "Front/rear Track": "61.3/61.1 in (1,557/1,552 mm)",
+               "Wheelbase": 95.2,
+               "Cargo Volume": 6.9,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2522
+          }
+     }
+},{
+     "model_name": "2023 Alpine A 110 R",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "220.6 KW @ 6300 RPM\n300 HP @ 6300 RPM\n296 BHP @ 6300 RPM",
+               "Torque": "251 lb-ft @ 2400-6000 RPM\n340 Nm @ 2400-6000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 177,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/40 R18 // 245/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 167.6,
+               "Width": 70.8,
+               "Height": 49.3,
+               "Front/rear Track": "61.3/61.1 in (1,557/1,552 mm)",
+               "Wheelbase": 95.3,
+               "Ground Clearance": 4.2,
+               "Aerodynamics (Cd)": 0.637,
+               "Turning circle": 37.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2513,
+               "Gross Weight Limit": 2998
+          }
+     }
+},{
+     "model_name": "2021 Alpine A110",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "187.9 KW @ 6000 RPM\n255 HP @ 6000 RPM\n252 BHP @ 6000 RPM",
+               "Torque": "236 lb-ft @ 2000-4800 RPM\n320 Nm @ 2000-4800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/45 R17 // 235/45 R17"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2429,
+               "Gross Weight Limit": 2998
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 35.1,
+               "CO2 Emissions (Combined)": "152 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "ALPINE A110 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1800,
+               "Power": "185.4 KW @ 6000 RPM\n252 HP @ 6000 RPM\n249 BHP @ 6000 RPM",
+               "Torque": "236 lb-ft @ 2000 RPM\n320 Nm @ 2000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/40 R18 || 235/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 164.5,
+               "Width": 70.8,
+               "Height": 49.3,
+               "Front/rear Track": "61.3/61.1 in (1,557/1,552 mm)",
+               "Wheelbase": 95.2,
+               "Cargo Volume": 3.5,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2381
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 37.9,
+               "CO2 Emissions": 140
+          },
+          "": {}
+     }
+},{
+     "model_name": "ALPINE A110 Berlinette 1962-1977",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 956,
+               "Power": "37.5 KW @ 5500 RPM\n51 HP @ 5500 RPM\n50 BHP @ 5500 RPM",
+               "Torque": "55 lb-ft @ 3500 RPM\n74 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "145-380"
+          },
+          "DIMENSIONS": {
+               "Length": 151.6,
+               "Width": 57.5,
+               "Height": 44.1,
+               "Front/rear Track": "49.2/48 in (1,250/1,219 mm)",
+               "Wheelbase": 82.7,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1246,
+               "Gross Weight Limit": 1687
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 33.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "ALPINE A106 1955-1964",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 747,
+               "Power": "19.1 KW @ 4100 RPM\n26 HP @ 4100 RPM\n26 BHP @ 4100 RPM",
+               "Torque": "41 lb-ft @ 2000 RPM\n55 Nm @ 2000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 75
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "135-380"
+          },
+          "DIMENSIONS": {
+               "Length": 145.7,
+               "Width": 57.1,
+               "Height": 48,
+               "Front/rear Track": "48/48 in (1,219/1,219 mm)",
+               "Wheelbase": 82.7,
+               "Ground Clearance": 7.1,
+               "Aerodynamics (Cd)": 0.45
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1102
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 33.6
+          }
+     }
+},{
+     "model_name": "ALPINE A108 1958-1965",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 845,
+               "Power": "29.5 KW @ 5000 RPM\n40 HP @ 5000 RPM\n40 BHP @ 5000 RPM",
+               "Torque": "48 lb-ft @ 3300 RPM\n65 Nm @ 3300 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 88
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "145-380"
+          },
+          "DIMENSIONS": {
+               "Length": 156.7,
+               "Width": 58.7,
+               "Height": 48.8,
+               "Front/rear Track": "49.2/48 in (1,250/1,219 mm)",
+               "Wheelbase": 85.8,
+               "Ground Clearance": 7.1,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1246
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 31.4
+          },
+          "": {}
+     }
+},	
+ ] } 

@@ -1,0 +1,3447 @@
+	
+{ "brand_name" : "ASTON MARTIN", "models": [
+{
+     "model_name": "ASTON MARTIN V12 Vantage 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Power": "507.5 KW @ 6500 RPM\n690 HP @ 6500 RPM\n681 BHP @ 6500 RPM",
+               "Torque": "555 lb-ft @ 1800-6000 RPM\n753 Nm @ 1800-6000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 200,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35 R21 // 315/30 R21"
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN V12 Vantage Roadster 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5204,
+               "Power": "514.8 KW @ 6500 RPM\n700 HP @ 6500 RPM\n690 BHP @ 6500 RPM",
+               "Torque": "555 lb-ft @ 1800-6000 RPM\n753 Nm @ 1800-6000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 200,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35/R21 // 315/30/R21"
+          },
+          "DIMENSIONS": {
+               "Length": 177.7,
+               "Width": 78,
+               "Height": 50.2,
+               "Wheelbase": 106.5,
+               "Cargo Volume": 7.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4090
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 16.9,
+               "CO2 Emissions (Combined)": "315 g/km"
+          },
+          "NOTES": {
+               "Roof opening/ closing time": "6.7/6.8 seconds (max speed for operation 50km/h)"
+          }
+     }
+},{
+     "model_name": "2018 Aston Martin V12 Vantage V600 Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "435.4 KW @ 6750 RPM\n592 HP @ 6750 RPM\n584 BHP @ 6750 RPM",
+               "Torque": "457 lb-ft @ 5750 RPM\n620 Nm @ 5750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 195,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40/20 // 295/35/20"
+          },
+          "DIMENSIONS": {
+               "Length": 175.8,
+               "Width": 76.5,
+               "Height": 50.1,
+               "Front/rear Track": "61.8/62 in (1,570/1,575 mm)",
+               "Wheelbase": 106.5,
+               "Cargo Volume": 9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3373,
+               "Gross Weight Limit": 4034
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.8,
+               "Highway": 28.7,
+               "Combined": 22.4,
+               "CO2 Emissions": 245
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN V12 Vantage S 2013-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "421 KW @ 6750 RPM\n573 HP @ 6750 RPM\n565 BHP @ 6750 RPM",
+               "Torque": "457 lb-ft @ 5750 RPM\n620 Nm @ 5750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 203,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed Sportshift III automatic transmission"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR19 // 295/30ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 172.6,
+               "Width": 79.6,
+               "Height": 49.2,
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 10.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3671,
+               "Gross Weight Limit": 4200
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN V12 Vantage 2009-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "380.3 KW @ 6500 RPM\n517.1 HP @ 6500 RPM\n510 BHP @ 6500 RPM",
+               "Torque": "420 lb-ft @ 5750 RPM\n570 Nm @ 5750 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR19 || 295/30 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 172.5,
+               "Width": 73.5,
+               "Height": 49,
+               "Front/rear Track": "61.8/61.4 in (1,570/1,560 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 5,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3704,
+               "Gross Weight Limit": 4475
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.6,
+               "Highway": 24,
+               "Combined": 17.3,
+               "CO2 Emissions": 388
+          }
+     }
+},{
+     "model_name": "2025 Aston Martin Vantage",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "489.1 KW @ 6000 RPM\n665 HP @ 6000 RPM\n656 BHP @ 6000 RPM",
+               "Torque": "590 lb-ft @ 2750-6000 RPM\n800 Nm @ 2750-6000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 20.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35 R21 (103Y) // 325/30 R21 (108Y)"
+          },
+          "DIMENSIONS": {
+               "Length": 177,
+               "Width": 80.5,
+               "Height": 50.2,
+               "Wheelbase": 106.5,
+               "Ground Clearance": 3.7,
+               "Cargo Volume": 8.3,
+               "Turning circle": 39.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3538
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "10.5 mpg US (22.4 L/100Km)",
+               "Medium": "19.9 mpg US (11.8 L/100Km)",
+               "High": "24 mpg US (9.8 L/100Km)",
+               "Extra high": "22.6 mpg US (10.4 L/100Km)",
+               "Combined": 19.4,
+               "CO2 Emissions (Combined)": "274 g/km"
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Vantage AMR 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Power": "375.1 KW @ 6000 RPM\n510 HP @ 6000 RPM\n503 BHP @ 6000 RPM",
+               "Torque": "461 lb-ft @ 2000-5000 RPM\n625 Nm @ 2000-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 195,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40/20 // 295/35/20"
+          },
+          "DIMENSIONS": {
+               "Length": 175.8,
+               "Width": 84.8,
+               "Height": 50.2,
+               "Front/rear Track": "61.8/62 in (1,570/1,575 mm)",
+               "Wheelbase": 106.5,
+               "Cargo Volume": 10.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3305
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "CO2 Emissions": 285
+          }
+     }
+},{
+     "model_name": "2018 Aston Martin Vantage",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3983,
+               "Power": "375.1 KW @ 6000 RPM\n510 HP @ 6000 RPM\n503 BHP @ 6000 RPM",
+               "Torque": "498 lb-ft @ 2000-5000 RPM\n675 Nm @ 2000-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 195,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40/20 || 295/35/20"
+          },
+          "DIMENSIONS": {
+               "Length": 175.8,
+               "Width": 76.5,
+               "Height": 50.1,
+               "Wheelbase": 106.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3505
+          }
+     }
+},{
+     "model_name": "2014 Aston Martin Vantage N430",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "8",
+               "Displacement": 4735,
+               "Power": "321 KW @ 7300 RPM\n436 HP @ 7300 RPM\n430 BHP @ 7300 RPM",
+               "Torque": "361 lb-ft @ 5000 RPM\n489 Nm @ 5000 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated disc"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR19 || 285/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 172.5,
+               "Width": 73.5,
+               "Height": 49.5,
+               "Cargo Volume": 10.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3552
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN V8 Vantage N420 2010-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4735,
+               "Power": "313 KW @ 7300 RPM\n426 HP @ 7300 RPM\n420 BHP @ 7300 RPM",
+               "Torque": "347 lb-ft @ 5000 RPM\n470 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 180,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR19 front and 275/35 ZR19 rear"
+          },
+          "DIMENSIONS": {
+               "Length": 172.6,
+               "Width": 79.7,
+               "Height": 49.6,
+               "Front/rear Track": "62/61.5 in (1,575/1,562 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3536,
+               "Gross Weight Limit": 4021
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.7,
+               "Highway": 30.5,
+               "Combined": 22,
+               "CO2 Emissions": 299
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN V8 Vantage 2008-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4735,
+               "Power": "313 KW @ 7300 RPM\n426 HP @ 7300 RPM\n420 BHP @ 7300 RPM",
+               "Torque": "346 lb-ft @ 5000 RPM\n469 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 180,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed, Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated and Grooved Steel Discs",
+               "Rear": "Ventilated and Grooved Steel Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR19 front and 275/35 ZR19 rear"
+          },
+          "DIMENSIONS": {
+               "Length": 172.5,
+               "Width": 73.5,
+               "Height": 49.5,
+               "Front/rear Track": "62/61.5 in (1,575/1,562 mm)",
+               "Wheelbase": 102.5,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3595
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.8,
+               "Highway": 22.6,
+               "Combined": 16.9,
+               "CO2 Emissions": 328
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN V8 Vantage 2005-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4280,
+               "Power": "283 KW @ 7300 RPM\n380 HP @ 7300 RPM\n380 BHP @ 7300 RPM",
+               "Torque": "302 lb-ft @ 5000 RPM\n410 Nm @ 5000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/45 ZR18 (Front) - 275/40 ZR18 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 172.6,
+               "Width": 73.5,
+               "Height": 49.4,
+               "Front/rear Track": "62.4/61.5 in (1,585/1,562 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 10.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3461.8,
+               "Gross Weight Limit": 4034.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.3,
+               "Highway": 18.8,
+               "Combined": 13.7,
+               "CO2 Emissions": 358
+          }
+     }
+},{
+     "model_name": "1999 Aston Martin V8 Vantage Le Mans",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5340,
+               "Power": "447 KW @ 6200 RPM\n608 HP @ 6200 RPM\n599 BHP @ 6200 RPM",
+               "Torque": "600 lb-ft @ 4400 RPM\n814 Nm @ 4400 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 200,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "Front: 285/45 ZR18 - Rear: 285/45ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 186.8,
+               "Width": 76.5,
+               "Height": 52.4,
+               "Wheelbase": 102.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4343
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN V8 Coupe 1996-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5430,
+               "Power": "260 KW @ 6000 RPM\n354 HP @ 6000 RPM\n349 BHP @ 6000 RPM",
+               "Torque": "369 lb-ft @ 4300 RPM\n500 Nm @ 4300 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Automatic, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/50 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 187,
+               "Width": 76.8,
+               "Height": 52.4,
+               "Front/rear Track": "60.6/62.2 in (1,539/1,580 mm)",
+               "Wheelbase": 102.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4299,
+               "Gross Weight Limit": 5004
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 11.6,
+               "CO2 Emissions": 482
+          }
+     }
+},{
+     "model_name": "1993 Aston Martin V8 Vantage",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5431,
+               "Power": "416 KW @ 6500 RPM\n557 HP @ 6500 RPM\n558 BHP @ 6500 RPM",
+               "Torque": "550 lb-ft @ 4000 RPM\n745 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/45 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 186.8,
+               "Width": 75.7,
+               "Height": 52.4,
+               "Front/rear Track": "59.4/59.9 in (1,509/1,521 mm)",
+               "Wheelbase": 102.8,
+               "Cargo Volume": 9,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4387.2,
+               "Gross Weight Limit": 5169.9
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN V8 Vantage 1977-1989",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5340,
+               "Power": "290 KW @ 5800 RPM\n394 HP @ 5800 RPM\n389 BHP @ 5800 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 170,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 180.5,
+               "Width": 72,
+               "Height": 53,
+               "Front/rear Track": "59/59 in (1,499/1,499 mm)",
+               "Wheelbase": 102.8,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 11.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4001.4
+          }
+     }
+},{
+     "model_name": "Aston Martin V8 Series 2",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5340,
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 182,
+               "Width": 72,
+               "Height": 52.2,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 102.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3924
+          }
+     }
+},{
+     "model_name": "2024 Aston Martin DBS770 Ultimate",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5204,
+               "Power": "566.3 KW @ 6500 RPM\n770 HP @ 6500 RPM\n759 BHP @ 6500 RPM",
+               "Torque": "664 lb-ft @ 1800-5000 RPM\n900 Nm @ 1800-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 20.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35/R21 // 305/30/R21"
+          },
+          "DIMENSIONS": {
+               "Length": 185.6,
+               "Width": 84.4,
+               "Height": 50.6,
+               "Wheelbase": 110.4,
+               "Ground Clearance": 3.5,
+               "Cargo Volume": 9.5,
+               "Turning circle": 39.4
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 4068
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DBS Superleggera Volante 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5204,
+               "Power": "533.2 KW @ 6500 RPM\n725 HP @ 6500 RPM\n715 BHP @ 6500 RPM",
+               "Torque": "664 lb-ft @ 1800-5000 RPM\n900 Nm @ 1800-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35/21 // 305/30/21"
+          },
+          "DIMENSIONS": {
+               "Length": 185.6,
+               "Width": 84.4,
+               "Height": 51,
+               "Front/rear Track": "65.6/64.8 in (1,666/1,646 mm)",
+               "Wheelbase": 110.4,
+               "Ground Clearance": 4.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4107
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 16.8,
+               "CO2 Emissions": 295
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DBS Superleggera 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5204,
+               "Power": "533.2 KW @ 6500 RPM\n725 HP @ 6500 RPM\n715 BHP @ 6500 RPM",
+               "Torque": "664 lb-ft @ 1800-5000 RPM\n900 Nm @ 1800-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35/21 // 305/30/21"
+          },
+          "DIMENSIONS": {
+               "Length": 185.5,
+               "Width": 84.5,
+               "Height": 50.4,
+               "Front/rear Track": "65.6/64.8 in (1,666/1,646 mm)",
+               "Wheelbase": 110.4,
+               "Ground Clearance": 4.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3732
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19.2,
+               "CO2 Emissions": 285
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DBS 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "380 KW @ 6500 RPM\n517 HP @ 6500 RPM\n510 BHP @ 6500 RPM",
+               "Torque": "420 lb-ft @ 5750 RPM\n569 Nm @ 5750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 191,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 R20 || 295/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.9,
+               "Width": 75,
+               "Height": 50.4,
+               "Front/rear Track": "61.8/61.4 in (1,570/1,560 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 6.6,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3836,
+               "Gross Weight Limit": 4542
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.7,
+               "Highway": 22.4,
+               "Combined": 15.2,
+               "CO2 Emissions": 367
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN DBS 1967-1972",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3996,
+               "Power": "210.4 KW @ 5500 RPM\n286 HP @ 5500 RPM\n282 BHP @ 5500 RPM",
+               "Torque": "280 lb-ft @ 4500 RPM\n380 Nm @ 4500 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 141,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "8.15X15"
+          },
+          "DIMENSIONS": {
+               "Length": 180.5,
+               "Width": 72,
+               "Height": 52.3,
+               "Front/rear Track": "59/59 in (1,499/1,499 mm)",
+               "Wheelbase": 102.8,
+               "Ground Clearance": 5.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3501
+          }
+     }
+},{
+     "model_name": "2024 Aston Martin DB12 Volante",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Power": "500.1 KW @ 6000 RPM\n680 HP @ 6000 RPM\n671 BHP @ 6000 RPM",
+               "Torque": "590 lb-ft @ 2750-6000 RPM\n800 Nm @ 2750-6000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated discs"
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN V12 Vantage S Roadster 2014-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "421 KW @ 6750 RPM\n573 HP @ 6750 RPM\n565 BHP @ 6750 RPM",
+               "Torque": "457 lb-ft @ 5750 RPM\n620 Nm @ 5750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 144
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic Sportshift III"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Carbon Ceramic Discs",
+               "Rear": "Ventilated Carbon Ceramic Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR19 || 295/30 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 172.6,
+               "Width": 73.4,
+               "Height": 49.6,
+               "Front/rear Track": "61.8/62 in (1,570/1,575 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 5.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3847,
+               "Gross Weight Limit": 4200
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.2,
+               "Highway": 23.1,
+               "Combined": 16,
+               "CO2 Emissions": 343
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DB11 AMR 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5204,
+               "Power": "463.4 KW @ 6500 RPM\n630 HP @ 6500 RPM\n621 BHP @ 6500 RPM",
+               "Torque": "516 lb-ft @ 1500 RPM\n700 Nm @ 1500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 208,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR20 // 295/35 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 187,
+               "Width": 81.1,
+               "Height": 75.6,
+               "Front/rear Track": "65.6/64.8 in (1,666/1,646 mm)",
+               "Wheelbase": 110.4,
+               "Ground Clearance": 4,
+               "Cargo Volume": 7.9,
+               "Aerodynamics (Cd)": 0.24
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4123
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 33.2,
+               "Combined": 24.8,
+               "CO2 Emissions": 265
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DB11 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3983,
+               "Power": "375.1 KW @ 6000 RPM\n510 HP @ 6000 RPM\n503 BHP @ 6000 RPM",
+               "Torque": "498 lb-ft @ 2000-5000 RPM\n675 Nm @ 2000-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR20 || 295/35 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 186.6,
+               "Width": 76.4,
+               "Height": 50.4,
+               "Wheelbase": 110.4,
+               "Cargo Volume": 7.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3880
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.2,
+               "Highway": 27.7,
+               "Combined": 20.6,
+               "CO2 Emissions": 265
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Aston Martin DB12",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Power": "500.1 KW @ 6000 RPM\n680 HP @ 6000 RPM\n671 BHP @ 6000 RPM",
+               "Torque": "590 lb-ft @ 2750-6000 RPM\n800 Nm @ 2750-6000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 20.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35 R21 // 315/30 R21 108Y"
+          },
+          "DIMENSIONS": {
+               "Length": 186,
+               "Width": 81.1,
+               "Height": 51,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 9.3,
+               "Turning circle": 40.7
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Vantage GT8 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4735,
+               "Power": "328 KW @ 7300 RPM\n446 HP @ 7300 RPM\n440 BHP @ 7300 RPM",
+               "Torque": "361 lb-ft @ 5000 RPM\n490 Nm @ 5000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 178.7,
+               "Width": 75.7,
+               "Height": 49.5,
+               "Front/rear Track": "62.6/64 in (1,590/1,626 mm)",
+               "Wheelbase": 102.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3329
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN V8 Vantage S Roadster 2011-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4735,
+               "Power": "321 KW @ 7300 RPM\n436 HP @ 7300 RPM\n430 BHP @ 7300 RPM",
+               "Torque": "361 lb-ft @ 5000 RPM\n489 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 189,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R19 || 285/35 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 172.6,
+               "Width": 73.5,
+               "Height": 50,
+               "Front/rear Track": "62/62.6 in (1,575/1,590 mm)",
+               "Wheelbase": 102.5,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 5,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3726,
+               "Gross Weight Limit": 4145
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.7,
+               "Highway": 30.4,
+               "Combined": 21.9,
+               "CO2 Emissions": 299
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DB11 Volante 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3983,
+               "Power": "370 KW @ 6000 RPM\n503 HP @ 6000 RPM\n496 BHP @ 6000 RPM",
+               "Torque": "498 lb-ft @ 2000-5000 RPM\n675 Nm @ 2000-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 200,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR20 || 295/35 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 187,
+               "Width": 81.1,
+               "Height": 51.2
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DBX707 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "519.8 KW @ 4500 RPM\n707 HP @ 4500 RPM\n697 BHP @ 4500 RPM",
+               "Torque": "664 lb-ft @ 6000 RPM\n900 Nm @ 6000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 23
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 193,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/40 YR22 // 325/35 YR22"
+          },
+          "DIMENSIONS": {
+               "Length": 198.4,
+               "Width": 78.7,
+               "Height": 66.1,
+               "Front/rear Track": "66.9/65.5 in (1,699/1,664 mm)",
+               "Wheelbase": 120.5,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 22.5,
+               "Turning circle (curb to curb)": "40.7 ft (12.4 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4949,
+               "Gross Weight Limit": 6658
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "10.7 mpg US (22 L/100Km)",
+               "Medium": "16.9 mpg US (13.9 L/100Km)",
+               "High": "19.6 mpg US (12 L/100Km)",
+               "Extra high": "17.7 mpg US (13.3 L/100Km)",
+               "Combined": 16.6,
+               "CO2 Emissions (Combined)": "323 g/km"
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DBX 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "404.5 KW @ 6500 RPM\n550 HP @ 6500 RPM\n542 BHP @ 6500 RPM",
+               "Torque": "516 lb-ft @ 2200-5000 RPM\n700 Nm @ 2200-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 181,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/40 YR22 // 325/35 YR22"
+          },
+          "DIMENSIONS": {
+               "Length": 198.4,
+               "Width": 78.7,
+               "Height": 66.1,
+               "Wheelbase": 120.5,
+               "Ground Clearance": 7.5,
+               "Cargo Volume": 22.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4949,
+               "Gross Weight Limit": 5952
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 16.4,
+               "CO2 Emissions": 269
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "ASTON MARTIN V12 Zagato 2012-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "380 KW @ 6500 RPM\n517 HP @ 6500 RPM\n510 BHP @ 6500 RPM",
+               "Torque": "420 lb-ft @ 5750 RPM\n569 Nm @ 5750 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "front: ventilated carbon ceramic discs, 398 mm diameter with six-piston monobloc calipers",
+               "Rear": "rear: ventilated carbon ceramic discs, 360 mm diameter with four-piston monobloc calipers"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "front:255/35 R19, Rear 295/30 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 172.6,
+               "Width": 73.4,
+               "Height": 49.2,
+               "Front/rear Track": "61.8/62 in (1,570/1,575 mm)",
+               "Wheelbase": 102.4,
+               "Cargo Volume": 10.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3704
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.7,
+               "Highway": 20.3,
+               "Combined": 14.3
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Rapide AMR 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "443.5 KW @ 7000 RPM\n603 HP @ 7000 RPM\n595 BHP @ 7000 RPM",
+               "Torque": "465 lb-ft @ - RPM\n630 Nm @ - RPM",
+               "Fuel System": "Electronic Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 205,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR 21 91Y // 295/30 ZR 21 91Y"
+          },
+          "DIMENSIONS": {
+               "Length": 197.6,
+               "Width": 75.9,
+               "Height": 53.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4387
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN V8 Vantage S 2011-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4735,
+               "Power": "321 KW @ 7300 RPM\n436 HP @ 7300 RPM\n430 BHP @ 7300 RPM",
+               "Torque": "361 lb-ft @ 5000 RPM\n489 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R19 || 285/35 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 172.5,
+               "Width": 79.6,
+               "Height": 49.6,
+               "Front/rear Track": "62/62.6 in (1,575/1,590 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3549,
+               "Gross Weight Limit": 4034
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.7,
+               "Highway": 30.4,
+               "Combined": 21.9,
+               "CO2 Emissions": 299
+          }
+     }
+},{
+     "model_name": "2019 Aston Martin Rapide E",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Power": "448.7 KW @ 11500 RPM\n610 HP @ 11500 RPM\n602 BHP @ 11500 RPM",
+               "Torque": "715 lb-ft @ - RPM\n970 Nm @ - RPM",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Single speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 Pirelli P-Zero // 295/30 Pirelli P-Zero"
+          },
+          "DIMENSIONS": {
+               "Length": 197.6,
+               "Width": 84.3,
+               "Height": 53.1,
+               "Wheelbase": 117.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4718
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion battery",
+               "Nominal Capacity": 65,
+               "Range": 200
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Valhalla 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Electrical motor power": "150 kw (204 hp)",
+               "Total maximum power": "689.2 kw (937 hp)",
+               "Total maximum torque": "737.6 lb-ft (1000 Nm)",
+               "Fuel": "Hybrid Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 205,
+               "Top speed (electrical)": "81 mph (130 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 2.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated discs"
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN V12 Speedster 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5204,
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Vantage Roadster 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "375.1 KW @ 6000 RPM\n510 HP @ 6000 RPM\n503 BHP @ 6000 RPM",
+               "Torque": "505 lb-ft @ 2000-5000 RPM\n685 Nm @ 2000-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 R20 // 295/35 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 175.8,
+               "Width": 76.5,
+               "Height": 50.1,
+               "Wheelbase": 106.5,
+               "Cargo Volume": 7.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3589
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Cygnet 2011-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1329,
+               "Power": "72 KW @ 6000 RPM\n98 HP @ 6000 RPM\n97 BHP @ 6000 RPM",
+               "Torque": "92 lb-ft @ 4400 RPM\n125 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "solid discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 118.1,
+               "Width": 66.9,
+               "Height": 59.1,
+               "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
+               "Wheelbase": 78.7,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 1.1,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2178,
+               "Gross Weight Limit": 2579
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 40.6,
+               "Highway": 52.3,
+               "Combined": 47,
+               "CO2 Emissions": 116
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN DB AR1 2003-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "309 KW @ 6000 RPM\n420 HP @ 6000 RPM\n414 BHP @ 6000 RPM",
+               "Torque": "400 lb-ft @ 5000 RPM\n542 Nm @ 5000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR18 (Front) - 265/35 ZR18 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 184.7,
+               "Width": 72,
+               "Height": 50,
+               "Front/rear Track": "60/61 in (1,524/1,549 mm)",
+               "Wheelbase": 102
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 12.6,
+               "CO2 Emissions": 444
+          }
+     }
+},{
+     "model_name": "1957 Aston Martin DB Mark III",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2922,
+               "Power": "121 KW @ 5500 RPM\n164 HP @ 5500 RPM\n162 BHP @ 5500 RPM",
+               "Torque": "180 lb-ft @ 4000 RPM\n244 Nm @ 4000 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 120,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "6.00 - 16"
+          },
+          "DIMENSIONS": {
+               "Length": 171.4,
+               "Width": 64.9,
+               "Height": 54.3,
+               "Front/rear Track": "54/54 in (1,372/1,372 mm)",
+               "Wheelbase": 99
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2800
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DB2 1950-1953",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2580,
+               "Power": "78 KW @ 5000 RPM\n106 HP @ 5000 RPM\n105 BHP @ 5000 RPM",
+               "Torque": "125 lb-ft @ 3100 RPM\n170 Nm @ 3100 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "5.75X16"
+          },
+          "DIMENSIONS": {
+               "Length": 169.3,
+               "Width": 65,
+               "Height": 53.5,
+               "Front/rear Track": "54/54 in (1,372/1,372 mm)",
+               "Wheelbase": 99
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2661
+          }
+     }
+},{
+     "model_name": "1959 Aston Martin DB4 GT",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3670,
+               "Power": "225 KW @ 6000 RPM\n306 HP @ 6000 RPM\n302 BHP @ 6000 RPM",
+               "Torque": "270 lb-ft @ 5000 RPM\n366 Nm @ 5000 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "6.00X16"
+          },
+          "DIMENSIONS": {
+               "Length": 171.4,
+               "Width": 66,
+               "Height": 52,
+               "Front/rear Track": "54/54 in (1,372/1,372 mm)",
+               "Wheelbase": 93,
+               "Ground Clearance": 6.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2705
+          }
+     }
+},{
+     "model_name": "1958 Aston Martin DB4",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3670,
+               "Power": "179 KW @ 5500 RPM\n240 HP @ 5500 RPM\n240 BHP @ 5500 RPM",
+               "Torque": "240 lb-ft @ 4250 RPM\n325 Nm @ 4250 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 141,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "16.0X6.0"
+          },
+          "DIMENSIONS": {
+               "Length": 176.4,
+               "Width": 66,
+               "Height": 52,
+               "Front/rear Track": "54/54 in (1,372/1,372 mm)",
+               "Wheelbase": 98,
+               "Ground Clearance": 7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2884
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 16
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DB5 1963-1965",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3996,
+               "Power": "210 KW @ 5500 RPM\n286 HP @ 5500 RPM\n282 BHP @ 5500 RPM",
+               "Torque": "288 lb-ft @ 3850 RPM\n390 Nm @ 3850 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 142,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 180,
+               "Width": 66,
+               "Height": 53,
+               "Front/rear Track": "54/53.5 in (1,372/1,359 mm)",
+               "Wheelbase": 98
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3230
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DB6 1965-1970",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3996,
+               "Power": "213 KW @ 5500 RPM\n286 HP @ 5500 RPM\n286 BHP @ 5500 RPM",
+               "Torque": "273 lb-ft @ 4500 RPM\n370 Nm @ 4500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 150,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "38.1 X 17.0 / 15 X 6.7"
+          },
+          "DIMENSIONS": {
+               "Length": 182,
+               "Width": 66,
+               "Height": 53.5,
+               "Front/rear Track": "54/53.5 in (1,372/1,359 mm)",
+               "Wheelbase": 101.7,
+               "Ground Clearance": 4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3417
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DB6 Volante 1965-1970",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3996,
+               "Power": "210 KW @ 5500 RPM\n286 HP @ 5500 RPM\n282 BHP @ 5500 RPM",
+               "Torque": "273 lb-ft @ 4500 RPM\n370 Nm @ 4500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 182,
+               "Width": 66,
+               "Height": 53,
+               "Front/rear Track": "54/53.5 in (1,372/1,359 mm)",
+               "Wheelbase": 101.7,
+               "Ground Clearance": 4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3232
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DB7 GT 2003-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "320 KW @ 6000 RPM\n435 HP @ 6000 RPM\n429 BHP @ 6000 RPM",
+               "Torque": "410 lb-ft @ 5000 RPM\n556 Nm @ 5000 RPM",
+               "Fuel System": "Electronic Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 185,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/30R18"
+          },
+          "DIMENSIONS": {
+               "Length": 184.7,
+               "Width": 72,
+               "Height": 48.9,
+               "Front/rear Track": "60/61 in (1,524/1,549 mm)",
+               "Wheelbase": 102,
+               "Cargo Volume": 6.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3913.9,
+               "Gross Weight Limit": 4630.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "CO2 Emissions": 469
+          }
+     }
+},{
+     "model_name": "2003 Aston Martin DB7 Zagato",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "323.6 KW @ 6000 RPM\n440 HP @ 6000 RPM\n434 BHP @ 6000 RPM",
+               "Torque": "410 lb-ft @ 5000 RPM\n556 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR 18 || 265/35 ZR 18"
+          },
+          "DIMENSIONS": {
+               "Length": 176.4,
+               "Width": 73.3,
+               "Height": 49,
+               "Front/rear Track": "60.4/60.6 in (1,534/1,539 mm)",
+               "Wheelbase": 99.6,
+               "Ground Clearance": 4.7,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3836
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DB7 Vantage 1999-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "309 KW @ 6000 RPM\n420 HP @ 6000 RPM\n414 BHP @ 6000 RPM",
+               "Torque": "398 lb-ft @ 5000 RPM\n540 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 185,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR18 - 265/35 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 184.7,
+               "Width": 72,
+               "Height": 48.9,
+               "Front/rear Track": "60/61 in (1,524/1,549 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 6.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3924,
+               "Gross Weight Limit": 4630.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "CO2 Emissions": 450
+          },
+          "": {}
+     }
+},{
+     "model_name": "1993 Aston Martin DB7",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3229,
+               "Power": "250 KW @ 5600 RPM\n340 HP @ 5600 RPM\n335 BHP @ 5600 RPM",
+               "Torque": "369 lb-ft @ 3000 RPM\n500 Nm @ 3000 RPM",
+               "Fuel System": "Supercharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 160,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR18 || 265/35 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 182.3,
+               "Width": 71.7,
+               "Height": 49.9,
+               "Front/rear Track": "60/60.2 in (1,524/1,529 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 6,
+               "Cargo Volume": 6.3,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3638,
+               "Gross Weight Limit": 4519
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.2,
+               "CO2 Emissions": 370
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN DB7 Vantage Volante 1999-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "309 KW @ 6000 RPM\n420 HP @ 6000 RPM\n414 BHP @ 6000 RPM",
+               "Torque": "398 lb-ft @ 5000 RPM\n540 Nm @ 5000 RPM",
+               "Fuel System": "Electronic Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 165,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR18 || 265/35 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 183.7,
+               "Width": 72,
+               "Height": 49.6,
+               "Front/rear Track": "60/61 in (1,524/1,549 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 5.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4134,
+               "Gross Weight Limit": 4630
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "CO2 Emissions": 450
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN DB7 Volante 1996-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3239,
+               "Power": "250 KW @ 5600 RPM\n340 HP @ 5600 RPM\n335 BHP @ 5600 RPM",
+               "Torque": "369 lb-ft @ 3000 RPM\n500 Nm @ 3000 RPM",
+               "Fuel System": "Supercharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR18 || 265/35 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 183.7,
+               "Width": 72,
+               "Height": 49.6,
+               "Front/rear Track": "60/61 in (1,524/1,549 mm)",
+               "Wheelbase": 102,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 5.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4079,
+               "Gross Weight Limit": 4630
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 16,
+               "CO2 Emissions": 351
+          },
+          "": {}
+     }
+},{
+     "model_name": "2015 Aston Martin DB9 Carbon Edition",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "380 KW @ 6500 RPM\n517 HP @ 6500 RPM\n510 BHP @ 6500 RPM",
+               "Torque": "457 lb-ft @ 5500 RPM\n620 Nm @ 5500 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs 398mm",
+               "Rear": "Ventilated discs 360mm"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR20 || 295/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.8,
+               "Width": 81.1,
+               "Height": 50.5,
+               "Front/rear Track": "62/61.5 in (1,575/1,562 mm)",
+               "Wheelbase": 97.2,
+               "Cargo Volume": 5.5,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3935,
+               "Gross Weight Limit": 4597
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18,
+               "Highway": 8.3,
+               "Combined": 11.9,
+               "CO2 Emissions": 333
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN DB9 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "380 KW @ 6500 RPM\n517 HP @ 6500 RPM\n510 BHP @ 6500 RPM",
+               "Torque": "457 lb-ft @ 5500 RPM\n620 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR20 || 295/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.8,
+               "Width": 81.1,
+               "Height": 50.5,
+               "Front/rear Track": "62.4/62.2 in (1,585/1,580 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 7.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3935,
+               "Gross Weight Limit": 4597
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.9,
+               "Highway": 23.5,
+               "Combined": 16.4,
+               "CO2 Emissions": 333
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN DB9 Coupe 2010-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "351 KW @ 6000 RPM\n477 HP @ 6000 RPM\n471 BHP @ 6000 RPM",
+               "Torque": "442 lb-ft @ 5000 RPM\n599 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR19 || 275/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 185.4,
+               "Width": 73.8,
+               "Height": 50,
+               "Front/rear Track": "62/61.5 in (1,575/1,562 mm)",
+               "Wheelbase": 108.1,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 6.6,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3880,
+               "Gross Weight Limit": 4784
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.5,
+               "Highway": 23.1,
+               "Combined": 16.1,
+               "CO2 Emissions": 345
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN DB9 Coupe 2004-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "335 KW @ 6000 RPM\n450 HP @ 6000 RPM\n449 BHP @ 6000 RPM",
+               "Torque": "420 lb-ft @ 5000 RPM\n570 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR19 || 275/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 184.9,
+               "Width": 73.8,
+               "Height": 51.9,
+               "Front/rear Track": "61.7/61.5 in (1,567/1,562 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 6.2,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3770
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.4,
+               "Highway": 20.1,
+               "Combined": 14.3,
+               "CO2 Emissions": 394
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN DB9 Volante 2013-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "380 KW @ 6500 RPM\n517 HP @ 6500 RPM\n510 BHP @ 6500 RPM",
+               "Torque": "457 lb-ft @ 5500 RPM\n620 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR20 // 295/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.8,
+               "Width": 81.1,
+               "Height": 50.5,
+               "Wheelbase": 97.2,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 6.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4167,
+               "Gross Weight Limit": 4729
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.9,
+               "Highway": 23.5,
+               "Combined": 16.4,
+               "CO2 Emissions": 333
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN DB9 Volante 2010-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "350 KW @ 6000 RPM\n477 HP @ 6000 RPM\n469 BHP @ 6000 RPM",
+               "Torque": "442 lb-ft @ 5000 RPM\n599 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR19 || 275/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 185.4,
+               "Width": 73.8,
+               "Height": 50,
+               "Front/rear Track": "61.8/61.4 in (1,570/1,560 mm)",
+               "Wheelbase": 108.1,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 6.6,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3924,
+               "Gross Weight Limit": 4828
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.5,
+               "Highway": 23.1,
+               "Combined": 16.1,
+               "CO2 Emissions": 345
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN DB9 Volante 2004-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "335 KW @ 6000 RPM\n450 HP @ 6000 RPM\n449 BHP @ 6000 RPM",
+               "Torque": "420 lb-ft @ 5000 RPM\n570 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR19 || 275/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 185.4,
+               "Width": 73.8,
+               "Height": 51.9,
+               "Front/rear Track": "61.7/61.5 in (1,567/1,562 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 6.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4034,
+               "Gross Weight Limit": 4751
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.4,
+               "Highway": 20.1,
+               "Combined": 14.3,
+               "CO2 Emissions": 394
+          },
+          "": {}
+     }
+},{
+     "model_name": "2009 Aston Martin DBS Volante",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "380 KW @ 6500 RPM\n517 HP @ 6500 RPM\n510 BHP @ 6500 RPM",
+               "Torque": "420 lb-ft @ 5750 RPM\n569 Nm @ 5750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 20.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 191,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 R20 || 295/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.9,
+               "Width": 75,
+               "Height": 50.4,
+               "Front/rear Track": "61.8/61.4 in (1,570/1,560 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 6.6,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3858,
+               "Gross Weight Limit": 4740
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.7,
+               "Highway": 22.4,
+               "Combined": 15.2,
+               "CO2 Emissions": 367
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN Lagonda 1986-1989",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5341,
+               "Power": "230 KW @ 5500 RPM\n313 HP @ 5500 RPM\n308 BHP @ 5500 RPM",
+               "Torque": "320 lb-ft @ 4000 RPM\n434 Nm @ 4000 RPM",
+               "Fuel System": "Electronic injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 145
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/70 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 207.9,
+               "Width": 70.5,
+               "Height": 51.3,
+               "Front/rear Track": "59/59 in (1,499/1,499 mm)",
+               "Wheelbase": 114.8,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 13.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4462
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Lagonda 1976-1986",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5341,
+               "Power": "206 KW @ 5000 RPM\n280 HP @ 5000 RPM\n276 BHP @ 5000 RPM",
+               "Torque": "360 lb-ft @ 3500 RPM\n488 Nm @ 3500 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/70 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 208,
+               "Width": 70.5,
+               "Height": 51.3,
+               "Front/rear Track": "59/59 in (1,499/1,499 mm)",
+               "Wheelbase": 114.8,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 13.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4551
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.4,
+               "Highway": 13.1
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN One-77 2009-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 7312,
+               "Power": "559 KW @ 7500 RPM\n760 HP @ 7500 RPM\n750 BHP @ 7500 RPM",
+               "Torque": "553 lb-ft @ 6000 RPM\n750 Nm @ 6000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 220,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR20 || 335/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 181.1,
+               "Width": 78.7,
+               "Height": 48.1,
+               "Front/rear Track": "67.2/64.1 in (1,707/1,628 mm)",
+               "Wheelbase": 109.9,
+               "Ground Clearance": 4.25,
+               "Cargo Volume": 17.1,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3593,
+               "Gross Weight Limit": 4057
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.4,
+               "Highway": 14.2,
+               "CO2 Emissions": 572
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Rapide 2010-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "350 KW @ 6000 RPM\n476 HP @ 6000 RPM\n469 BHP @ 6000 RPM",
+               "Torque": "443 lb-ft @ 5000 RPM\n601 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 23.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 188,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic (Touchtronic 2)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Dual cast brake discs 390mm diameter with six piston calipers",
+               "Rear": "Dual cast brake discs 360mm diameter with four piston calipers"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R20 || 295/35 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 197.6,
+               "Width": 84.3,
+               "Height": 53.5,
+               "Front/rear Track": "62.6/63.6 in (1,590/1,615 mm)",
+               "Wheelbase": 117.7,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 11.1,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4299,
+               "Gross Weight Limit": 5313
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.4,
+               "Highway": 22.6,
+               "Combined": 15.8,
+               "CO2 Emissions": 355
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Rapide S 2013-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "v12",
+               "Displacement": 5935,
+               "Power": "410 KW @ 6750 RPM\n558 HP @ 6750 RPM\n550 BHP @ 6750 RPM",
+               "Torque": "457 lb-ft @ 5500 RPM\n620 Nm @ 5500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "six-speed gearbox with electronic shift-by-wire control system"
+          },
+          "BRAKES SPECS": {
+               "Front": "DUAL CAST DISCS, 398 MM DIAMETER WITH SIX-PISTON MONOBLOC CALIPERS",
+               "Rear": "DUAL CAST DISCS, 360 MM DIAMETER WITH FOUR-PISTON MONOBLOC CALIPERS"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "Front: 245/35 ZR20; Rear: 295/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 197.6,
+               "Width": 84.3,
+               "Height": 53.1,
+               "Front/rear Track": "62.6/63.5 in (1,590/1,613 mm)",
+               "Wheelbase": 117.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4387
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11,
+               "Highway": 23.3,
+               "Combined": 16.4,
+               "CO2 Emissions": 332
+          }
+     }
+},{
+     "model_name": "2017 Aston Martin Vantage AMR V12",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "443.5 KW @ 7000 RPM\n603 HP @ 7000 RPM\n595 BHP @ 7000 RPM",
+               "Torque": "465 lb-ft @ 5500 RPM\n630 Nm @ 5500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 205,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 172.6,
+               "Width": 73.4,
+               "Height": 49.2,
+               "Front/rear Track": "61.8/62 in (1,570/1,575 mm)",
+               "Wheelbase": 102.4,
+               "Cargo Volume": 10.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3847
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.5,
+               "Highway": 23.1,
+               "Combined": 16,
+               "CO2 Emissions": 343
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN V8 Vantage N420 Roadster 2010-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4735,
+               "Power": "309 KW @ 7000 RPM\n420 HP @ 7000 RPM\n414 BHP @ 7000 RPM",
+               "Torque": "346 lb-ft @ 5000 RPM\n469 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 180,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR19 front and 275/35 ZR19 rear"
+          },
+          "DIMENSIONS": {
+               "Length": 172.5,
+               "Width": 73.5,
+               "Height": 50,
+               "Front/rear Track": "62/61.5 in (1,575/1,562 mm)",
+               "Wheelbase": 102.5,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 5,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3711,
+               "Gross Weight Limit": 4195
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14,
+               "Highway": 21,
+               "Combined": 16
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN V8 Vantage Roadster 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4735,
+               "Power": "313 KW @ 7300 RPM\n426 HP @ 7300 RPM\n420 BHP @ 7300 RPM",
+               "Torque": "346 lb-ft @ 5000 RPM\n469 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 180,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR19 || 275/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 172.5,
+               "Width": 73.5,
+               "Height": 50,
+               "Front/rear Track": "62/61.5 in (1,575/1,562 mm)",
+               "Wheelbase": 102.5,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 5,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3814,
+               "Gross Weight Limit": 4255
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.4,
+               "Highway": 23.5,
+               "Combined": 18.1,
+               "CO2 Emissions": 322
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN V8 Vantage Roadster 2006-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4280,
+               "Power": "283 KW @ 7000 RPM\n385 HP @ 7000 RPM\n380 BHP @ 7000 RPM",
+               "Torque": "302 lb-ft @ 5000 RPM\n410 Nm @ 5000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/45 ZR18 // 275/40 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 172.4,
+               "Width": 73.4,
+               "Height": 49.8,
+               "Front/rear Track": "61.8/61.4 in (1,570/1,560 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 5.1,
+               "Aerodynamics (Cd)": 0.35,
+               "Turning circle": 36.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3461
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.5,
+               "Highway": 22.2,
+               "Combined": 15.7,
+               "CO2 Emissions": 358
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN V8 Vantage Volante LWB 1998-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 5340,
+               "Power": "409 KW @ 6500 RPM\n557 HP @ 6500 RPM\n548 BHP @ 6500 RPM",
+               "Torque": "550 lb-ft @ 4000 RPM\n745 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 300,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/45 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 186.8,
+               "Width": 75.7,
+               "Height": 52.5,
+               "Front/rear Track": "59.4/59.9 in (1,509/1,521 mm)",
+               "Wheelbase": 102.8,
+               "Ground Clearance": 5,
+               "Cargo Volume": 11.1,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4233
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN V8 Volante 1978-1989",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5341,
+               "Power": "224.3 KW @ 5000 RPM\n305 HP @ 5000 RPM\n301 BHP @ 5000 RPM",
+               "Torque": "320 lb-ft @ 3000 RPM\n434 Nm @ 3000 RPM",
+               "Fuel System": "Mechanical Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 184,
+               "Width": 72,
+               "Height": 53,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 102.8,
+               "Cargo Volume": 8.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4008,
+               "Gross Weight Limit": 5016
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Vanquish 2012-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "v12",
+               "Displacement": 5935,
+               "Power": "421 KW @ 6750 RPM\n573 HP @ 6750 RPM\n565 BHP @ 6750 RPM",
+               "Torque": "457 lb-ft @ 5500 RPM\n620 Nm @ 5500 RPM",
+               "Fuel System": "Direct Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "six-speed automatic (Touchtronic 2)"
+          },
+          "BRAKES SPECS": {
+               "Front": "398 mm x 36 mm Ceramic Disc",
+               "Rear": "360 mm x 32mm Ceramic Disc"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "Front: 255/ZR20, Rear: 305/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.8,
+               "Width": 81.4,
+               "Height": 50.4,
+               "Wheelbase": 107.9,
+               "Cargo Volume": 13
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3834
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.2,
+               "Highway": 27.7,
+               "Combined": 19.6,
+               "CO2 Emissions": 335
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Vanquish 2001-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "336 KW @ 6500 RPM\n457 HP @ 6500 RPM\n451 BHP @ 6500 RPM",
+               "Torque": "410 lb-ft @ 5000 RPM\n556 Nm @ 5000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR19 // 285/40 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 183.7,
+               "Width": 75.7,
+               "Height": 51.9,
+               "Front/rear Track": "61/61.8 in (1,549/1,570 mm)",
+               "Wheelbase": 105.9,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 8.4,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4046.2,
+               "Gross Weight Limit": 4630.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 14.1,
+               "CO2 Emissions": 397
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Vanquish S 2016-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "432.5 KW @ 7000 RPM\n588 HP @ 7000 RPM\n580 BHP @ 7000 RPM",
+               "Torque": "465 lb-ft @ 5500 RPM\n630 Nm @ 5500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR20 || 305/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 186.2,
+               "Width": 75.2,
+               "Height": 51,
+               "Wheelbase": 107.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3834
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Vanquish S 2004-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "388 KW @ 7000 RPM\n530 HP @ 7000 RPM\n520 BHP @ 7000 RPM",
+               "Torque": "427 lb-ft @ 5800 RPM\n578 Nm @ 5800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR19 || 285/40 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 183.7,
+               "Width": 75.7,
+               "Height": 51.9,
+               "Front/rear Track": "61/61.8 in (1,549/1,570 mm)",
+               "Wheelbase": 105.9,
+               "Cargo Volume": 8.5,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4134,
+               "Gross Weight Limit": 4630.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 8.3,
+               "Highway": 12.4,
+               "Combined": 11.2,
+               "CO2 Emissions": 448
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Vanquish Volante 2013-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "421 KW @ 6750 RPM\n572 HP @ 6750 RPM\n565 BHP @ 6750 RPM",
+               "Torque": "457 lb-ft @ 5500 RPM\n620 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 20.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Touchtronic 2 six-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated disc"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR20 // 305/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 186.1,
+               "Width": 81.4,
+               "Height": 50.9,
+               "Wheelbase": 107.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4065
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11,
+               "Highway": 23.1,
+               "Combined": 16.3,
+               "CO2 Emissions": 335
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Vantage GT12 2015-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "441.3 KW @ - RPM\n600 HP @ - RPM\n592 BHP @ - RPM",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3450
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Virage 2011-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "365 KW @ 6500 RPM\n496 HP @ 6500 RPM\n489 BHP @ 6500 RPM",
+               "Torque": "420 lb-ft @ 5750 RPM\n569 Nm @ 5750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 R20 || 295/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.2,
+               "Width": 75,
+               "Height": 50.5,
+               "Front/rear Track": "62.4/62.2 in (1,585/1,580 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 4,
+               "Cargo Volume": 6.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3935,
+               "Gross Weight Limit": 4420
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.5,
+               "Highway": 21.8,
+               "Combined": 15.7,
+               "CO2 Emissions": 349
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Virage Coupe 1988-1995",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5431,
+               "Power": "243 KW @ 6000 RPM\n330 HP @ 6000 RPM\n326 BHP @ 6000 RPM",
+               "Torque": "350 lb-ft @ 3700 RPM\n475 Nm @ 3700 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/60 ZR16"
+          },
+          "DIMENSIONS": {
+               "Length": 187.8,
+               "Width": 73.6,
+               "Height": 52.4,
+               "Front/rear Track": "55/56.3 in (1,397/1,430 mm)",
+               "Wheelbase": 102.8,
+               "Cargo Volume": 9,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4243.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "ASTON MARTIN Virage Volante 2011-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5935,
+               "Power": "365 KW @ 6500 RPM\n497 HP @ 6500 RPM\n489 BHP @ 6500 RPM",
+               "Torque": "420 lb-ft @ 5750 RPM\n569 Nm @ 5750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 R20 || 295/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.2,
+               "Width": 75,
+               "Height": 50.7,
+               "Front/rear Track": "62.4/62.2 in (1,585/1,580 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 4,
+               "Cargo Volume": 5.4,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4166,
+               "Gross Weight Limit": 4652
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 18,
+               "Combined": 15
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Virage Volante 1992-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5341,
+               "Power": "243 KW @ 6000 RPM\n330 HP @ 6000 RPM\n326 BHP @ 6000 RPM",
+               "Torque": "343 lb-ft @ 4700 RPM\n465 Nm @ 4700 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 146,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/60 ZR16"
+          },
+          "DIMENSIONS": {
+               "Length": 187.8,
+               "Width": 73.6,
+               "Height": 52.4,
+               "Front/rear Track": "55/56.3 in (1,397/1,430 mm)",
+               "Wheelbase": 102.8,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 9,
+               "Aerodynamics (Cd)": 2.03
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3616,
+               "Gross Weight Limit": 4233
+          }
+     }
+},{
+     "model_name": "ASTON MARTIN Vulcan 2015-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 6999,
+               "Power": "588.4 KW @ - RPM\n800 HP @ - RPM\n789 BHP @ - RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 225,
+               "Acceleration 0-62 Mph (0-100 kph)": 3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "305/30 R19 // 345/30 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 189.3,
+               "Width": 81.2,
+               "Height": 48.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2976
+          }
+     }
+},	
+ ] } 

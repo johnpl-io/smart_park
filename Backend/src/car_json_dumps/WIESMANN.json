@@ -1,0 +1,489 @@
+{ "brand_name" : "WIESMANN", "models": [
+{
+     "model_name": "WIESMANN GT MF5 2011-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4395,
+               "Power": "408 KW @ 5750-6250 RPM\n555 HP @ 5750-6250 RPM\n547 BHP @ 5750-6250 RPM",
+               "Torque": "502 lb-ft @ 1500-5650 RPM\n681 Nm @ 1500-5650 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 193,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed sports automatic gearbox"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 166.1,
+               "Width": 76.8,
+               "Height": 46.5,
+               "Wheelbase": 98.7,
+               "Cargo Volume": 9.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3241,
+               "Gross Weight Limit": 3704
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.6,
+               "Highway": 24.8,
+               "Combined": 18.2,
+               "CO2 Emissions": 299
+          }
+     }
+},{
+     "model_name": "WIESMANN GT MF5 2008-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 4999,
+               "Power": "373 KW @ 7750 RPM\n507 HP @ 7750 RPM\n500 BHP @ 7750 RPM",
+               "Torque": "383 lb-ft @ 6100 RPM\n519 Nm @ 6100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 193,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR19 || 275/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 169.3,
+               "Width": 76.4,
+               "Height": 46.4,
+               "Front/rear Track": "61.4/64.4 in (1,560/1,636 mm)",
+               "Wheelbase": 98.7,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 13.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3075,
+               "Gross Weight Limit": 3703
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.2,
+               "Highway": 24.5,
+               "Combined": 17.9,
+               "CO2 Emissions": 346
+          }
+     }
+},{
+     "model_name": "2010 Wiesmann MF4",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4395,
+               "Power": "300 KW @ 5500-6400 RPM\n408 HP @ 5500-6400 RPM\n402 BHP @ 5500-6400 RPM",
+               "Torque": "443 lb-ft @ 1750-4500 RPM\n601 Nm @ 1750-4500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 181,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6 speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 74,
+               "Height": 46.9,
+               "Wheelbase": 98.7,
+               "Cargo Volume": 9.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3208,
+               "Gross Weight Limit": 3660
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.7,
+               "Highway": 25,
+               "Combined": 19.1,
+               "CO2 Emissions": 285
+          }
+     }
+},{
+     "model_name": "WIESMANN GT MF4 2003-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4799,
+               "Power": "270 KW @ 6300 RPM\n367 HP @ 6300 RPM\n362 BHP @ 6300 RPM",
+               "Torque": "317 lb-ft @ 3400 RPM\n430 Nm @ 3400 RPM",
+               "Fuel System": "Multipoint injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R 18"
+          },
+          "DIMENSIONS": {
+               "Length": 166.1,
+               "Width": 73.2,
+               "Height": 47.2,
+               "Front/rear Track": "61.6/63.8 in (1,565/1,621 mm)",
+               "Wheelbase": 98.7,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2822,
+               "Gross Weight Limit": 3527
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.9,
+               "Highway": 30.5,
+               "Combined": 24.5,
+               "CO2 Emissions": 264
+          }
+     }
+},{
+     "model_name": "WIESMANN MF4 Roadster 2010-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4395,
+               "Power": "299 KW @ 6400 RPM\n407 HP @ 6400 RPM\n401 BHP @ 6400 RPM",
+               "Torque": "443 lb-ft @ 1750-4500 RPM\n601 Nm @ 1750-4500 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 181,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 74,
+               "Height": 46.9,
+               "Wheelbase": 98.7,
+               "Ground Clearance": 4,
+               "Cargo Volume": 7.6,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3064,
+               "Gross Weight Limit": 3417
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.4,
+               "Highway": 33.6,
+               "Combined": 24.5,
+               "CO2 Emissions": 253
+          }
+     }
+},{
+     "model_name": "WIESMANN MF4 Roadster 2009-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4799,
+               "Power": "270 KW @ 6300 RPM\n367 HP @ 6300 RPM\n362 BHP @ 6300 RPM",
+               "Torque": "361 lb-ft @ 3400 RPM\n489 Nm @ 3400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 181,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 166.9,
+               "Width": 74,
+               "Height": 48.4,
+               "Wheelbase": 98.7,
+               "Ground Clearance": 4,
+               "Cargo Volume": 7.6,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2901,
+               "Gross Weight Limit": 3417
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.9,
+               "Highway": 30.5,
+               "Combined": 21.2,
+               "CO2 Emissions": 264
+          }
+     }
+},{
+     "model_name": "WIESMANN MF5 Roadster 2012-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4395,
+               "Power": "408 KW @ 5750-6250 RPM\n555 HP @ 5750-6250 RPM\n547 BHP @ 5750-6250 RPM",
+               "Torque": "502 lb-ft @ 1500-5650 RPM\n681 Nm @ 1500-5650 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 193,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed sports automatic gearbox"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 166.1,
+               "Width": 76.8,
+               "Height": 46.5,
+               "Wheelbase": 98.7,
+               "Cargo Volume": 7.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3241,
+               "Gross Weight Limit": 3704
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.6,
+               "Highway": 24.8,
+               "Combined": 18.2,
+               "CO2 Emissions": 299
+          }
+     }
+},{
+     "model_name": "WIESMANN MF5 Roadster 2009-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 4395,
+               "Power": "373 KW @ 6200 RPM\n507 HP @ 6200 RPM\n500 BHP @ 6200 RPM",
+               "Torque": "384 lb-ft @ 4650 RPM\n521 Nm @ 4650 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 192,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR 19 || 275/35 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 166.1,
+               "Width": 76.7,
+               "Height": 46.4,
+               "Front/rear Track": "61.4/64.4 in (1,560/1,636 mm)",
+               "Wheelbase": 98.7,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 7.6,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3075,
+               "Gross Weight Limit": 3703
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.1,
+               "Highway": 24.5,
+               "Combined": 17.9,
+               "CO2 Emissions": 346
+          }
+     }
+},{
+     "model_name": "WIESMANN GT MF4-CS 2013-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3999,
+               "Power": "309 KW @ 8300 RPM\n420 HP @ 8300 RPM\n414 BHP @ 8300 RPM",
+               "Torque": "295 lb-ft @ 3900 RPM\n400 Nm @ 3900 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 182,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 166.1,
+               "Width": 78.7,
+               "Height": 47.2,
+               "Wheelbase": 98.7,
+               "Cargo Volume": 9.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2976,
+               "Gross Weight Limit": 3571
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.1,
+               "Highway": 26.1,
+               "Combined": 19.3,
+               "CO2 Emissions": 275
+          }
+     }
+},{
+     "model_name": "2010 Wiesmann MF4-S Roadster",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3999,
+               "Power": "309 KW @ 8300 RPM\n420 HP @ 8300 RPM\n414 BHP @ 8300 RPM",
+               "Torque": "295 lb-ft @ 3900 RPM\n400 Nm @ 3900 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 74,
+               "Height": 46.9,
+               "Wheelbase": 98.7,
+               "Ground Clearance": 4,
+               "Cargo Volume": 7.6,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2888,
+               "Gross Weight Limit": 3417
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.4,
+               "Highway": 26.1,
+               "Combined": 24.5,
+               "CO2 Emissions": 295
+          },
+          "": {}
+     }
+},{
+     "model_name": "WIESMANN MF4-S 2010-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3999,
+               "Power": "309 KW @ 8300 RPM\n420 HP @ 8300 RPM\n414 BHP @ 8300 RPM",
+               "Torque": "295 lb-ft @ 3900 RPM\n400 Nm @ 3900 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 182,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed double clutch transmission"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 166.5,
+               "Width": 74,
+               "Height": 46.9,
+               "Wheelbase": 98.7,
+               "Cargo Volume": 9.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3020,
+               "Gross Weight Limit": 3571
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.1,
+               "Highway": 26.1,
+               "Combined": 19.3,
+               "CO2 Emissions": 275
+          }
+     }
+},	
+ ] } 

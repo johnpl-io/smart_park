@@ -1,0 +1,86 @@
+{ "brand_name" : "AURUS", "models": [
+{
+     "model_name": "AURUS Senat 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4400,
+               "Power": "439.8 KW @ 5500 RPM\n598 HP @ 5500 RPM\n590 BHP @ 5500 RPM",
+               "Torque": "656 lb-ft @ 2200-4750 RPM\n889 Nm @ 2200-4750 RPM",
+               "Electrical motor power": "45.6 kw (62 hp)",
+               "Fuel System": "BiTurbo Direct Injection",
+               "Fuel": "Hybrid Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/55 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 221.7,
+               "Width": 79.5,
+               "Height": 66.3,
+               "Wheelbase": 129.9,
+               "Ground Clearance": 7.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 6041,
+               "Gross Weight Limit": 6911
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.8,
+               "Highway": 22.2,
+               "Combined": 18.1
+          }
+     }
+},{
+     "model_name": "AURUS Senat Limousine 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4400,
+               "Power": "439.8 KW @ 5500 RPM\n598 HP @ 5500 RPM\n590 BHP @ 5500 RPM",
+               "Torque": "649 lb-ft @ 2200-4750 RPM\n880 Nm @ 2200-4750 RPM",
+               "Electrical motor power": "45.6 kw (62 hp)",
+               "Fuel System": "BiTurbo Direct Injection",
+               "Fuel": "Hybrid Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/55 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 261,
+               "Width": 79.5,
+               "Height": 66.7,
+               "Wheelbase": 169.3,
+               "Ground Clearance": 6.7
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 15322
+          }
+     }
+},	
+ ] } 

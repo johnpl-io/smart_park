@@ -1,0 +1,3765 @@
+{ "brand_name" : "Mercedes-AMG", "models": [
+{
+     "model_name": "2025 Mercedes-AMG E53 Hybrid",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "330.2 KW @ 5800-6100 RPM\n449 HP @ 5800-6100 RPM\n443 BHP @ 5800-6100 RPM",
+               "Torque": "413 lb-ft @ 2200-5000 RPM\n560 Nm @ 2200-5000 RPM",
+               "Electrical motor power": "88.3 kw (120 hp)",
+               "Electrical motor torque": "354 lb-ft (480 Nm)",
+               "Total maximum power": "430.3 kw (585 hp)",
+               "Total maximum torque": "553.2 lb-ft (750 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Hybrid Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 21.22,
+               "Maximum Capacity": "28.6 kWh",
+               "Range": 57.8
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 25.6,
+               "CO2 Emissions (Combined)": "23 g/km"
+          },
+          "NOTES": {
+               "System performance AMG DYNAMIC PLUS package": "612 HP (450 Kw)\nEnergy consumption combined, weighted: 25.9-24.1, 1.1-0.8 KWh/100 km"
+          }
+     }
+},{
+     "model_name": "2021 Mercedes-AMG E53",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 1800-5800 RPM\n520 Nm @ 1800-5800 RPM",
+               "Electrical motor power": "16.2 kw (22 hp)",
+               "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Mild Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speedshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/65 R 16"
+          },
+          "DIMENSIONS": {
+               "Length": 193.8,
+               "Width": 72.9,
+               "Height": 57.8,
+               "Front/rear Track": "63.7/63.7 in (1,618/1,618 mm)",
+               "Wheelbase": 115.7,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 19.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 26.7,
+               "CO2 Emissions": 200
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG E53 AMG T-Modell (S213) 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 1800-5800 RPM\n520 Nm @ 1800-5800 RPM",
+               "Electrical motor power": "16.2 kw (22 hp)",
+               "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Mild Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG SPeedshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 26.1,
+               "CO2 Emissions": 207
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion"
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG E 63 AMG (W213) 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "420 KW @ 5750-6500 RPM\n571 HP @ 5750-6500 RPM\n563 BHP @ 5750-6500 RPM",
+               "Torque": "553 lb-ft @ 2250-5000 RPM\n750 Nm @ 2250-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 20.3,
+               "CO2 Emissions": 265
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mercedes-AMG E 63 AMG T-Modell (S213) 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "420 KW @ 5750-6500 RPM\n571 HP @ 5750-6500 RPM\n563 BHP @ 5750-6500 RPM",
+               "Torque": "553 lb-ft @ 2250-5000 RPM\n750 Nm @ 2250-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19.9,
+               "CO2 Emissions": 270
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mercedes-AMG E53 AMG (W213) 2018-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 1800-5800 RPM\n520 Nm @ 1800-5800 RPM",
+               "Electrical motor power": "16.2 kw (22 hp)",
+               "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Mild Hybrid",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speedshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR19 // 275/35 ZR19"
+          },
+          "DIMENSIONS": {
+               "Length": 193.8,
+               "Width": 72.9,
+               "Height": 57.8,
+               "Front/rear Track": "63.6/63.7 in (1,615/1,618 mm)",
+               "Wheelbase": 115.7,
+               "Cargo Volume": 19.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4123,
+               "Gross Weight Limit": 5501
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.6,
+               "Highway": 33.6,
+               "Combined": 27.4,
+               "CO2 Emissions": 200
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG E53 AMG T-Modell (S213) 2018-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2996,
+               "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
+               "Electrical motor power": "16 kw (22 hp)",
+               "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Mild Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 194.2,
+               "Width": 72.9,
+               "Height": 58.1,
+               "Front/rear Track": "63/63.3 in (1,600/1,608 mm)",
+               "Wheelbase": 115.7,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 22.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 26.4,
+               "CO2 Emissions": 203
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG E 63 AMG T-Modell (S213) 2017-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "420 KW @ 5750-6500 RPM\n571 HP @ 5750-6500 RPM\n563 BHP @ 5750-6500 RPM",
+               "Torque": "553 lb-ft @ 2250-5000 RPM\n750 Nm @ 2250-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/40 ZR 19 || 295/35 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 194.2,
+               "Width": 72.9,
+               "Height": 58.1,
+               "Front/rear Track": "63/63.3 in (1,600/1,608 mm)",
+               "Wheelbase": 115.7,
+               "Cargo Volume": 22.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4542,
+               "Gross Weight Limit": 5809
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.4,
+               "Highway": 30.2,
+               "Combined": 25,
+               "CO2 Emissions": 214
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mercedes-AMG E43 AMG T-Modell (S213) 2016-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2996,
+               "Power": "294.9 KW @ 6100 RPM\n401 HP @ 6100 RPM\n395 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 2500-5000 RPM\n520 Nm @ 2500-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR 19 || 275/35 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 194.2,
+               "Width": 72.9,
+               "Height": 58.1,
+               "Front/rear Track": "63/63.3 in (1,600/1,608 mm)",
+               "Wheelbase": 115.7,
+               "Cargo Volume": 22.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4255,
+               "Gross Weight Limit": 5523
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.2,
+               "Highway": 33.1,
+               "Combined": 27.4,
+               "CO2 Emissions": 197
+          }
+     }
+},{
+     "model_name": "2024 Mercedes-Benz CLA 35 Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
+               "Torque": "295 lb-ft @ 3000-4000 RPM\n400 Nm @ 3000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic AMG Speedshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 27.7,
+               "CO2 Emissions (Combined)": "193 g/km"
+          }
+     }
+},{
+     "model_name": "2024 Mercedes-AMG CLA 45 S 4MATIC+",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "309.6 KW @ 6750 RPM\n421 HP @ 6750 RPM\n415 BHP @ 6750 RPM",
+               "Torque": "369 lb-ft @ 5000-5250 RPM\n500 Nm @ 5000-5250 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic AMG Speedshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 26.1,
+               "CO2 Emissions (Combined)": "205 g/km"
+          }
+     }
+},{
+     "model_name": "2019 Mercedes-AMG CLA 35 Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
+               "Torque": "295 lb-ft @ 3000-4000 RPM\n400 Nm @ 3000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 32.2,
+               "CO2 Emissions": 167
+          }
+     }
+},{
+     "model_name": "2019 Mercedes-AMG CLA 45 Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "284.6 KW @ 6500 RPM\n387 HP @ 6500 RPM\n382 BHP @ 6500 RPM",
+               "Torque": "354 lb-ft @ 4750-5000 RPM\n480 Nm @ 4750-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic AMG Speedshift DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 175,
+               "Width": 72.8,
+               "Height": 55.4,
+               "Front/rear Track": "62.9/61.3 in (1,598/1,557 mm)",
+               "Wheelbase": 107.4,
+               "Cargo Volume": 13.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.4,
+               "Highway": 32.7,
+               "Combined": 28,
+               "CO2 Emissions": 192
+          },
+          "": {}
+     }
+},{
+     "model_name": "2017 Mercedes-AMG CLA 45 Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "280.2 KW @ 6000 RPM\n381 HP @ 6000 RPM\n376 BHP @ 6000 RPM",
+               "Torque": "350 lb-ft @ 2250-5000 RPM\n475 Nm @ 2250-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT DCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 R 18"
+          },
+          "DIMENSIONS": {
+               "Length": 182.7,
+               "Width": 70,
+               "Height": 56.4,
+               "Front/rear Track": "61/60.9 in (1,549/1,547 mm)",
+               "Wheelbase": 106.3,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3494,
+               "Gross Weight Limit": 4575
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.5,
+               "Highway": 39.2,
+               "Combined": 32.2,
+               "CO2 Emissions": 171
+          }
+     }
+},{
+     "model_name": "2024 Mercedes-AMG GLS 63",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "443.5 KW @ 5750-6500 RPM\n603 HP @ 5750-6500 RPM\n595 BHP @ 5750-6500 RPM",
+               "Torque": "627 lb-ft @ 2500-4500 RPM\n850 Nm @ 2500-4500 RPM",
+               "Electrical motor power": "15.4 kw (21 hp)",
+               "Electrical motor torque": "135.7 lb-ft (184 Nm)",
+               "Fuel": "Hybrid Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          }
+     }
+},{
+     "model_name": "2017 Mercedes-AMG GLS 63",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5461,
+               "Power": "430.3 KW @ 5500 RPM\n585 HP @ 5500 RPM\n577 BHP @ 5500 RPM",
+               "Torque": "561 lb-ft @ 1750-5250 RPM\n760 Nm @ 1750-5250 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 26.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT PLUS)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "295/40 ZR 21"
+          },
+          "DIMENSIONS": {
+               "Length": 202,
+               "Width": 76.1,
+               "Height": 72.8,
+               "Front/rear Track": "65.2/65.9 in (1,656/1,674 mm)",
+               "Wheelbase": 121.1,
+               "Ground Clearance": 7.8,
+               "Cargo Volume": 24,
+               "Aerodynamics (Cd)": 0.37,
+               "Turning circle": 40.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5688,
+               "Gross Weight Limit": 7253
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.9,
+               "Highway": 22.8,
+               "Combined": 19.1,
+               "CO2 Emissions": 288
+          }
+     }
+},{
+     "model_name": "2024 Mercedes-AMG GLA 35",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
+               "Torque": "295 lb-ft @ 3000-4000 RPM\n400 Nm @ 3000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic AMG Speedshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 25.6,
+               "CO2 Emissions (Combined)": "209 g/km"
+          }
+     }
+},{
+     "model_name": "2024 Mercedes-AMG GLA45 S",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "309.6 KW @ 6750 RPM\n421 HP @ 6750 RPM\n415 BHP @ 6750 RPM",
+               "Torque": "369 lb-ft @ 5000-5250 RPM\n500 Nm @ 5000-5250 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 23.5,
+               "CO2 Emissions (Combined)": "227 g/km"
+          }
+     }
+},{
+     "model_name": "2021 Mercedes-AMG GLA 35",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
+               "Torque": "295 lb-ft @ 3000-400 RPM\n400 Nm @ 3000-400 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 31.4,
+               "CO2 Emissions": 171
+          }
+     }
+},{
+     "model_name": "2021 Mercedes-AMG GLA45",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "284.6 KW @ 6500 RPM\n387 HP @ 6500 RPM\n382 BHP @ 6500 RPM",
+               "Torque": "354 lb-ft @ 4750-5000 RPM\n480 Nm @ 4750-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-Speed automatic AMG SPEEDSHIFT DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/45 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 174.2,
+               "Width": 71,
+               "Height": 58.8,
+               "Front/rear Track": "61.8/61.4 in (1,570/1,560 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 25.6,
+               "CO2 Emissions": 211
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mercedes-AMG GLA 45 AMG (X156) 2017-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "279.5 KW @ 6000 RPM\n380 HP @ 6000 RPM\n375 BHP @ 6000 RPM",
+               "Torque": "350 lb-ft @ 2250-5000 RPM\n475 Nm @ 2250-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT DCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/45 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 174.2,
+               "Width": 71,
+               "Height": 58.8,
+               "Front/rear Track": "61.8/61.4 in (1,570/1,560 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3494,
+               "Gross Weight Limit": 4641
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.5,
+               "Highway": 38.6,
+               "Combined": 31.8,
+               "CO2 Emissions": 172
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG GLA 45 AMG (X156) 2014-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "265 KW @ 6000 RPM\n360 HP @ 6000 RPM\n355 BHP @ 6000 RPM",
+               "Torque": "332 lb-ft @ 2250-5000 RPM\n450 Nm @ 2250-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT DCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/45 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 173.9,
+               "Width": 71,
+               "Height": 58.8,
+               "Front/rear Track": "61.8/61.4 in (1,570/1,560 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3494,
+               "Gross Weight Limit": 4641
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.8,
+               "Highway": 38.6,
+               "Combined": 31.4,
+               "CO2 Emissions": 175
+          },
+          "": {}
+     }
+},{
+     "model_name": "2023 Mercedes-AMG GT53 4-Door",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 1800-5800 RPM\n520 Nm @ 1800-5800 RPM",
+               "Electrical motor power": "16.2 kw (22 hp)",
+               "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Mild Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 177,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          }
+     }
+},{
+     "model_name": "2021 Mercedes-AMG GT 53",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 1800-5800 RPM\n520 Nm @ 1800-5800 RPM",
+               "Electrical motor power": "16.2 kw (22 hp)",
+               "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Mild Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 177,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 27,
+               "CO2 Emissions": 198
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 23.5,
+               "CO2 Emissions (Combined)": "226 g/km"
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG AMG GT 43 4MATIC 4-Door 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "269.9 KW @ 5500-6100 RPM\n367 HP @ 5500-6100 RPM\n362 BHP @ 5500-6100 RPM",
+               "Torque": "369 lb-ft @ 1800-4500 RPM\n500 Nm @ 1800-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic Speedshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/45 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 199,
+               "Width": 73.7,
+               "Height": 57.3,
+               "Front/rear Track": "65.9/65.6 in (1,674/1,666 mm)",
+               "Wheelbase": 116.2,
+               "Cargo Volume": 16.1,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4332,
+               "Gross Weight Limit": 5545
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.1,
+               "Highway": 29.4,
+               "Combined": 25,
+               "CO2 Emissions": 215
+          }
+     }
+},{
+     "model_name": "2018 Mercedes-AMG GT 4-Door coupe 63 4Matic+",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "430.3 KW @ 5500-6500 RPM\n585 HP @ 5500-6500 RPM\n577 BHP @ 5500-6500 RPM",
+               "Torque": "590 lb-ft @ 2350-5000 RPM\n800 Nm @ 2350-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 193,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-Speed automatic (AMG SPEEDSHIFT MCT 9G)"
+          },
+          "BRAKES SPECS": {
+               "Front": "265/40 R20",
+               "Rear": "295/35 R20"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/40 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 199,
+               "Width": 73.7,
+               "Height": 56.8,
+               "Front/rear Track": "65.9/65.7 in (1,674/1,669 mm)",
+               "Wheelbase": 116.2,
+               "Cargo Volume": 16.3,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4464,
+               "Gross Weight Limit": 5622
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.5,
+               "Highway": 26.4,
+               "Combined": 21,
+               "CO2 Emissions": 256
+          },
+          "": {}
+     }
+},{
+     "model_name": "2019 Mercedes-AMG GT 53 4MATIC+ (X290",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 5800 RPM\n520 Nm @ 5800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 177,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "AMG SPEEDSHIFT TCT 9G"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/40 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 199,
+               "Width": 73.7,
+               "Height": 57.3,
+               "Front/rear Track": "65.9/65.6 in (1,674/1,666 mm)",
+               "Wheelbase": 116.2,
+               "Cargo Volume": 16.1,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4343,
+               "Gross Weight Limit": 5545
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.1,
+               "Highway": 29.4,
+               "Combined": 25,
+               "CO2 Emissions": 215
+          },
+          "NOTES": {
+               "Add. output with EQ Boost": "22 HP (16 Kw)\nAdd. torque with EQ Boost: 250 Nm"
+          }
+     }
+},{
+     "model_name": "2024 Mercedes-AMG CLA 35 4MATIC Shooting Brake",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
+               "Torque": "295 lb-ft @ 3000-4000 RPM\n400 Nm @ 3000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic DCT"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 27,
+               "CO2 Emissions (Combined)": "197 g/km"
+          }
+     }
+},{
+     "model_name": "2019 Mercedes-AMG CLA 35 4MATIC Shooting Brake",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
+               "Torque": "295 lb-ft @ 3000-4000 RPM\n400 Nm @ 3000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic AMG SPEEDSHIFT DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 31.4,
+               "CO2 Emissions": 171
+          }
+     }
+},{
+     "model_name": "2019 Mercedes-AMG CLA 45 4MATIC+ Shooting Brake",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "284.6 KW @ 6500 RPM\n387 HP @ 6500 RPM\n382 BHP @ 6500 RPM",
+               "Torque": "354 lb-ft @ 4750-5000 RPM\n480 Nm @ 4750-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic AMG Speedshift DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Cargo Volume": 17.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28.3,
+               "CO2 Emissions": 191
+          },
+          "": {}
+     }
+},{
+     "model_name": "2015 Mercedes-AMG CLA 45 Shooting Brake",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "265 KW @ 6000 RPM\n360 HP @ 6000 RPM\n355 BHP @ 6000 RPM",
+               "Torque": "332 lb-ft @ 2250-5000 RPM\n450 Nm @ 2250-5000 RPM",
+               "Fuel System": "Turbocharged direct injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT MCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 R 18"
+          },
+          "DIMENSIONS": {
+               "Length": 182.3,
+               "Width": 70,
+               "Height": 56.5,
+               "Front/rear Track": "61/60.9 in (1,549/1,547 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 17.5,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3560,
+               "Gross Weight Limit": 4674
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.8,
+               "Highway": 39.9,
+               "Combined": 33.1,
+               "CO2 Emissions": 165
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Mercedes-AMG GLE 53 4MATIC+ Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 5800-6100 RPM\n435 HP @ 5800-6100 RPM\n429 BHP @ 5800-6100 RPM",
+               "Torque": "413 lb-ft @ 2200\u20135800 RPM\n560 Nm @ 2200\u20135800 RPM",
+               "Electrical motor power": "16.2 kw (22 hp)",
+               "Electrical motor torque": "147.5 lb-ft (200 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          }
+     }
+},{
+     "model_name": "2024 Mercedes-AMG GLE 63 S 4Matic+ Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "450.1 KW @ 5750-6500 RPM\n612 HP @ 5750-6500 RPM\n604 BHP @ 5750-6500 RPM",
+               "Torque": "627 lb-ft @ 2500\u20134500 RPM\n850 Nm @ 2500\u20134500 RPM",
+               "Electrical motor power": "16.2 kw (22 hp)",
+               "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          }
+     }
+},{
+     "model_name": "2020 Mercedes-AMG GLE 63 4MATIC+ Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "420 KW @ 5750-6500 RPM\n571 HP @ 5750-6500 RPM\n563 BHP @ 5750-6500 RPM",
+               "Torque": "553 lb-ft @ 2250-5000 RPM\n750 Nm @ 2250-5000 RPM",
+               "Electrical motor power": "16.2 kw (22 hp)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Mild Hybrid",
+               "Fuel capacity": 22.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/45 R21 // 315/40 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 195.3,
+               "Width": 84.9,
+               "Height": 67.7,
+               "Front/rear Track": "66.2/0 in (1,681/0 mm)",
+               "Wheelbase": 115.6,
+               "Cargo Volume": 23.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5214,
+               "Gross Weight Limit": 6878
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "19.3 mpg US (12.2 L/100Km)",
+               "Extra high": "18.8 mpg US (12.5 L/100Km)",
+               "CO2 Emissions (Combined)": "276 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2020 Mercedes-AMG GLE 53 4MATIC+ Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 1800-5800 RPM\n520 Nm @ 1800-5800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/50 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 193.9,
+               "Width": 76.7,
+               "Height": 69.8,
+               "Front/rear Track": "65.6/65.6 in (1,666/1,666 mm)",
+               "Wheelbase": 117.9,
+               "Cargo Volume": 22.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4916,
+               "Gross Weight Limit": 6724
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.3,
+               "Highway": 29.8,
+               "Combined": 25.3,
+               "CO2 Emissions": 212
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG GLE Coupe (C292) 2015-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5461,
+               "Power": "409 KW @ 5750 RPM\n557 HP @ 5750 RPM\n548 BHP @ 5750 RPM",
+               "Torque": "516 lb-ft @ 1750-5500 RPM\n700 Nm @ 1750-5500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic (G TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/45 ZR21 || 325/40 ZR21"
+          },
+          "DIMENSIONS": {
+               "Length": 192.9,
+               "Width": 78.9,
+               "Height": 66.9,
+               "Front/rear Track": "65.3/67.9 in (1,659/1,725 mm)",
+               "Wheelbase": 114.8,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 23,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5181,
+               "Gross Weight Limit": 6724
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.9,
+               "Highway": 24.2,
+               "Combined": 19.8,
+               "CO2 Emissions": 278
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mercedes-AMG GLE 43 Coupe 2015-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2996,
+               "Torque": "384 lb-ft @ 1400-4200 RPM\n520 Nm @ 1400-4200 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-Speed automatic Gtronic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/45 R 21"
+          },
+          "DIMENSIONS": {
+               "Length": 192.9,
+               "Width": 78.9,
+               "Height": 68.1,
+               "Front/rear Track": "65.3/67.9 in (1,659/1,725 mm)",
+               "Wheelbase": 114.8
+          }
+     }
+},{
+     "model_name": "2024 Mercedes-AMG GLE 53",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 5800-6100 RPM\n435 HP @ 5800-6100 RPM\n429 BHP @ 5800-6100 RPM",
+               "Torque": "413 lb-ft @ 2200\u20135800 RPM\n560 Nm @ 2200\u20135800 RPM",
+               "Electrical motor power": "16.2 kw (22 hp)",
+               "Electrical motor torque": "147.5 lb-ft (200 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 22,
+               "CO2 Emissions (Combined)": "244 g/km"
+          }
+     }
+},{
+     "model_name": "2024 Mercedes-AMG GLE 63 S",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "450.1 KW @ 5750-6500 RPM\n612 HP @ 5750-6500 RPM\n604 BHP @ 5750-6500 RPM",
+               "Torque": "413 lb-ft @ 2200-5800 RPM\n560 Nm @ 2200-5800 RPM",
+               "Electrical motor power": "16.2 kw (22 hp)",
+               "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 18.4,
+               "CO2 Emissions (Combined)": "291 g/km"
+          }
+     }
+},{
+     "model_name": "2020 Mercedes-AMG GLE",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 1800-5800 RPM\n520 Nm @ 1800-5800 RPM",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "9-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/50 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 193.9,
+               "Width": 76.7,
+               "Height": 69.8,
+               "Front/rear Track": "65.6/65.6 in (1,666/1,666 mm)",
+               "Wheelbase": 117.9,
+               "Cargo Volume": 22.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4916,
+               "Gross Weight Limit": 6724
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 25.3,
+               "CO2 Emissions": 212
+          }
+     }
+},{
+     "model_name": "Mercedes-Benz GLE 43 AMG",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2996,
+               "Power": "269.9 KW @ 5500-6000 RPM\n367 HP @ 5500-6000 RPM\n362 BHP @ 5500-6000 RPM",
+               "Torque": "384 lb-ft @ 2000-4200 RPM\n520 Nm @ 2000-4200 RPM",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-Speed automatic Gtronic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/45 R 20"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 27.4,
+               "CO2 Emissions": 199
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG GLE AMG (W166) 2015-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5461,
+               "Power": "410 KW @ 5750 RPM\n557 HP @ 5750 RPM\n550 BHP @ 5750 RPM",
+               "Torque": "516 lb-ft @ 1750-5500 RPM\n700 Nm @ 1750-5500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic (G TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/45 R 20"
+          },
+          "DIMENSIONS": {
+               "Length": 189.7,
+               "Width": 76.2,
+               "Height": 70.7,
+               "Front/rear Track": "64.9/65.5 in (1,648/1,664 mm)",
+               "Wheelbase": 114.8,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 24.4,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5170,
+               "Gross Weight Limit": 6724
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15,
+               "Highway": 24.5,
+               "Combined": 19.9,
+               "CO2 Emissions": 276
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Mercedes-AMG GLB 35",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
+               "Torque": "295 lb-ft @ 3000-4000 RPM\n400 Nm @ 3000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic AMG Speedshift"
+          },
+          "BRAKES SPECS": {
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 25,
+               "CO2 Emissions (Combined)": "214 g/km"
+          }
+     }
+},{
+     "model_name": "2020 Mercedes-AMG GLB 35",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "225.1 KW @ 5800-6100 RPM\n306 HP @ 5800-6100 RPM\n302 BHP @ 5800-6100 RPM",
+               "Torque": "295 lb-ft @ 3000-4000 RPM\n400 Nm @ 3000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic AMG SpeedShift DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.9,
+               "CO2 Emissions": 173
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG C43 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "300.1 KW @ 6750 RPM\n408 HP @ 6750 RPM\n402 BHP @ 6750 RPM",
+               "Torque": "369 lb-ft @ 5000 RPM\n500 Nm @ 5000 RPM",
+               "Electrical motor power": "10.3 kw (14 hp)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 188.6,
+               "Width": 71.8,
+               "Height": 57.1,
+               "Front/rear Track": "62.6/63.1 in (1,590/1,603 mm)",
+               "Wheelbase": 112.8,
+               "Cargo Volume": 16.1,
+               "Turning circle": 39.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3891
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 26.1,
+               "CO2 Emissions (Combined)": "206 g/km"
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG C63 S E Performance 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "350.1 KW @ 6750 RPM\n476 HP @ 6750 RPM\n469 BHP @ 6750 RPM",
+               "Torque": "402 lb-ft @ 5250-5500 RPM\n545 Nm @ 5250-5500 RPM",
+               "Electrical motor power": "150 kw (204 hp)",
+               "Electrical motor torque": "236 lb-ft (320 Nm)",
+               "Total maximum power": "500.1 kw (680 hp)",
+               "Total maximum torque": "752.3 lb-ft (1020 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Plug-in Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4654
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 6.1,
+               "Range": 8.1
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 34.1,
+               "CO2 Emissions (Combined)": "156 g/km"
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG C43 (W205) 2018-2022",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2996,
+               "Power": "287 KW @ 6100 RPM\n390.2 HP @ 6100 RPM\n385 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 5000 RPM\n520 Nm @ 5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R18 || 245/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 185.1,
+               "Width": 71.3,
+               "Height": 56.3,
+               "Front/rear Track": "62.5/61.8 in (1,588/1,570 mm)",
+               "Wheelbase": 111.8,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 17,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3726,
+               "Gross Weight Limit": 4905
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.3,
+               "Combined": 25.8,
+               "CO2 Emissions": 213
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG C 43 (W205) 2015-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2996,
+               "Power": "269.9 KW @ 5500-6000 RPM\n367 HP @ 5500-6000 RPM\n362 BHP @ 5500-6000 RPM",
+               "Torque": "384 lb-ft @ 2000-4200 RPM\n520 Nm @ 2000-4200 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R18 || 245/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 185.1,
+               "Width": 71.3,
+               "Height": 56.3,
+               "Front/rear Track": "62.5/61.8 in (1,588/1,570 mm)",
+               "Wheelbase": 111.8,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 17,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3726,
+               "Gross Weight Limit": 4905
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.8,
+               "Highway": 36.8,
+               "Combined": 29.4,
+               "CO2 Emissions": 183
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG C 63 (W205) 2015-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "350 KW @ 5500-6250 RPM\n476 HP @ 5500-6250 RPM\n469 BHP @ 5500-6250 RPM",
+               "Torque": "479 lb-ft @ 1750-4500 RPM\n649 Nm @ 1750-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT MCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR18 || 265/40 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 187.2,
+               "Width": 72.4,
+               "Height": 56.1,
+               "Front/rear Track": "63.3/60.9 in (1,608/1,547 mm)",
+               "Wheelbase": 111.8,
+               "Ground Clearance": 3.6,
+               "Cargo Volume": 15.4,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3781,
+               "Gross Weight Limit": 4795
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.4,
+               "Highway": 34.1,
+               "Combined": 28,
+               "CO2 Emissions": 196
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mercedes-AMG CLS 53 AMG 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 5500-6100 RPM\n435 HP @ 5500-6100 RPM\n429 BHP @ 5500-6100 RPM",
+               "Torque": "384 lb-ft @ 1800-5800 RPM\n520 Nm @ 1800-5800 RPM",
+               "Electrical motor power": "16.2 kw (22 hp)",
+               "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Mild Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 26.1,
+               "CO2 Emissions": 206
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG CLS 53 Sedan (C257) 2018-2021",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Power": "319.9 KW @ - RPM\n435 HP @ - RPM\n429 BHP @ - RPM",
+               "Torque": "384 lb-ft @ - RPM\n520 Nm @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (AMG SPEEDSHIFT TCT)"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28,
+               "CO2 Emissions": 200
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG C 43 4MATIC (C205) 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2996,
+               "Power": "286.8 KW @ 6100 RPM\n390 HP @ 6100 RPM\n385 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 2500-5000 RPM\n520 Nm @ 2500-5000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-Speed automatic (AMG SPEEDSHIFT MCT 9G)"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 184.9,
+               "Width": 79.4,
+               "Height": 55.3,
+               "Wheelbase": 111.8,
+               "Cargo Volume": 10.5
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 3986
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 24.8,
+               "CO2 Emissions": 217
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG C 63 Coupe (C205) 2018-2021",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "350.1 KW @ 5500-6250 RPM\n476 HP @ 5500-6250 RPM\n469 BHP @ 5500-6250 RPM",
+               "Torque": "479 lb-ft @ 1750-4500 RPM\n650 Nm @ 1750-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "9-Speed automatic (AMG SPEEDSHIFT MCT 9G)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR 18 || 285/35 ZR 18"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 23.3,
+               "CO2 Emissions": 230
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mercedes-AMG C 63 Coupe (C205) 2016-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "350 KW @ 5500-6250 RPM\n475.9 HP @ 5500-6250 RPM\n469 BHP @ 5500-6250 RPM",
+               "Torque": "479 lb-ft @ 1750-4500 RPM\n650 Nm @ 1750-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT MCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR 18 || 285/35 ZR 18"
+          },
+          "DIMENSIONS": {
+               "Length": 184.5,
+               "Width": 71.3,
+               "Height": 55.3,
+               "Front/rear Track": "61.5/60.9 in (1,562/1,547 mm)",
+               "Wheelbase": 111.8,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 12.5,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3935,
+               "Gross Weight Limit": 4751
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.8,
+               "Highway": 33.1,
+               "Combined": 26.4,
+               "CO2 Emissions": 209
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mercedes-AMG GT Roadster 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "389.8 KW @ - RPM\n530 HP @ - RPM\n523 BHP @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT DCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 R19 // 295/30 R 20"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 18.1,
+               "CO2 Emissions": 297
+          }
+     }
+},{
+     "model_name": "2019 Mercedes-AMG GT R Roadster",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "430.3 KW @ 6250 RPM\n585 HP @ 6250 RPM\n577 BHP @ 6250 RPM",
+               "Torque": "516 lb-ft @ 2100-5500 RPM\n700 Nm @ 2100-5500 RPM",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 197,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35 R 19 // 325/30 R 20"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3605
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19,
+               "CO2 Emissions": 284
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG GT C Roadster (R190) 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "409.7 KW @ 5750-6750 RPM\n557 HP @ 5750-6750 RPM\n549 BHP @ 5750-6750 RPM",
+               "Torque": "502 lb-ft @ 2100-5500 RPM\n680 Nm @ 2100-5500 RPM",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 197,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT DCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 R19 || 305/30 R 20"
+          },
+          "DIMENSIONS": {
+               "Length": 178.9,
+               "Width": 81.7,
+               "Height": 49.6,
+               "Front/rear Track": "66.3/65 in (1,684/1,651 mm)",
+               "Wheelbase": 103.5,
+               "Cargo Volume": 5.8,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3825,
+               "Gross Weight Limit": 4277
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19,
+               "CO2 Emissions": 284
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG GT S Roadster (R190) 2018-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "383.9 KW @ 6250 RPM\n522 HP @ 6250 RPM\n515 BHP @ 6250 RPM",
+               "Torque": "494 lb-ft @ 1900-5000 RPM\n670 Nm @ 1900-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 191,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic 7-speed automatic (AMG SPEEDSHIFT DCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 R 19 // 295/30 R 20"
+          },
+          "DIMENSIONS": {
+               "Length": 178.9,
+               "Width": 81.7,
+               "Height": 49.6,
+               "Front/rear Track": "66.3/65 in (1,684/1,651 mm)",
+               "Wheelbase": 103.5,
+               "Cargo Volume": 5.8,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3583,
+               "Gross Weight Limit": 4277
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.8,
+               "Highway": 25.8,
+               "Combined": 20.5,
+               "CO2 Emissions": 262
+          }
+     }
+},{
+     "model_name": "2016 Mercedes-AMG GT Roadster (R190)",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "350.1 KW @ 6000 RPM\n476 HP @ 6000 RPM\n469 BHP @ 6000 RPM",
+               "Torque": "465 lb-ft @ 1700-5000 RPM\n630 Nm @ 1700-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 188,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT DCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 R 19 || 295/35 R 19"
+          },
+          "DIMENSIONS": {
+               "Length": 178.9,
+               "Width": 81.7,
+               "Height": 49.6,
+               "Front/rear Track": "66.3/65 in (1,684/1,651 mm)",
+               "Wheelbase": 103.5,
+               "Cargo Volume": 5.8,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3682,
+               "Gross Weight Limit": 4277
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.8,
+               "Highway": 29.8,
+               "Combined": 24.5,
+               "CO2 Emissions": 224
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG GT C Roadster (R190) 2016-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "409.7 KW @ 5750-6750 RPM\n557 HP @ 5750-6750 RPM\n549 BHP @ 5750-6750 RPM",
+               "Torque": "502 lb-ft @ 1900-5750 RPM\n680 Nm @ 1900-5750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 196,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT DCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 R19 || 305/30 R 20"
+          },
+          "DIMENSIONS": {
+               "Length": 178.9,
+               "Width": 81.7,
+               "Height": 49.6,
+               "Front/rear Track": "66.3/65 in (1,684/1,651 mm)",
+               "Wheelbase": 103.5,
+               "Cargo Volume": 5.8,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3825,
+               "Gross Weight Limit": 4277
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.6,
+               "Highway": 26.1,
+               "Combined": 20.6,
+               "CO2 Emissions": 259
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG E 53 Coupe (C238) 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 1800-5800 RPM\n520 Nm @ 1800-5800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R19 // 275/35 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 190.9,
+               "Width": 73.2,
+               "Height": 56.2,
+               "Front/rear Track": "64.1/62.8 in (1,628/1,595 mm)",
+               "Wheelbase": 113.1,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 15
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 26.4,
+               "CO2 Emissions": 204
+          },
+          "NOTES": {
+               "Output with EQ Boost": "16 KW (22 HP)\nTorque with EQ Boost: 250 Nm"
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG E53 Coupe (C238) 2018-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 1800-5800 RPM\n520 Nm @ 1800-5800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (AMG SPEEDSHIFT TCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R19 // 275/35 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 190.9,
+               "Width": 73.2,
+               "Height": 56.2,
+               "Front/rear Track": "64.1/62.8 in (1,628/1,595 mm)",
+               "Wheelbase": 113.1,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 15
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4343,
+               "Gross Weight Limit": 5346
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.5,
+               "Highway": 39.9,
+               "Combined": 32.7,
+               "CO2 Emissions": 200
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG E53 AMG Cabriolet (A238) 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "319.9 KW @ 6100 RPM\n435 HP @ 6100 RPM\n429 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 1800-5800 RPM\n520 Nm @ 1800-5800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 25.6,
+               "CO2 Emissions": 210
+          },
+          "NOTES": {
+               "Add. output with EQ Boost": "22 HP (16 KW)\nAdd. torque with EQ Boost: 250 Nm"
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG E 53 Cabrio (A238) 2018-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Power": "319.9 KW @ - RPM\n435 HP @ - RPM\n429 BHP @ - RPM",
+               "Torque": "384 lb-ft @ - RPM\n520 Nm @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (AMG SPEEDSHIFT TCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          }
+     }
+},{
+     "model_name": "2024 Mercedes-AMG GLC 63 S E Performance",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "350.1 KW @ 6750 RPM\n476 HP @ 6750 RPM\n469 BHP @ 6750 RPM",
+               "Torque": "402 lb-ft @ 5250-5500 RPM\n545 Nm @ 5250-5500 RPM",
+               "Electrical motor power": "150 kw (204 hp)",
+               "Electrical motor torque": "236 lb-ft (320 Nm)",
+               "Total maximum power": "500.1 kw (680 hp)",
+               "Total maximum torque": "752.3 lb-ft (1020 Nm)",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Plug-in Hybrid",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 171,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/45 R20 // 295/40 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 187,
+               "Width": 75.6,
+               "Height": 64.4,
+               "Front/rear Track": "64.8/64.8 in (1,646/1,646 mm)",
+               "Wheelbase": 113.7,
+               "Cargo Volume": 16.6,
+               "Turning circle": 42.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5093,
+               "Gross Weight Limit": 6360
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 4.8,
+               "Maximum Capacity": "6.1 kWh",
+               "Range": 7.5
+          },
+          "NOTES": {
+               "Average Energy consumption WLTP": "12.7 kWh/100 km"
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG GLC 63 4MATIC 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "350.1 KW @ 500-6250 RPM\n476 HP @ 500-6250 RPM\n469 BHP @ 500-6250 RPM",
+               "Torque": "479 lb-ft @ 1750-4500 RPM\n650 Nm @ 1750-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55 R 19 // 255/50 R 19"
+          },
+          "DIMENSIONS": {
+               "Length": 183.3,
+               "Width": 74.4,
+               "Height": 64.5,
+               "Front/rear Track": "63.8/63.7 in (1,621/1,618 mm)",
+               "Wheelbase": 113.1,
+               "Cargo Volume": 19.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19,
+               "CO2 Emissions": 283
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mercedes-AMG GLC 43 4MATIC 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2996,
+               "Power": "286.8 KW @ 5500-6000 RPM\n390 HP @ 5500-6000 RPM\n385 BHP @ 5500-6000 RPM",
+               "Torque": "384 lb-ft @ 2500-4500 RPM\n520 Nm @ 2500-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speedshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55 R 19"
+          },
+          "DIMENSIONS": {
+               "Length": 183.3,
+               "Width": 74.4,
+               "Height": 64.5,
+               "Front/rear Track": "63.8/63.7 in (1,621/1,618 mm)",
+               "Wheelbase": 113.1,
+               "Ground Clearance": 7.26,
+               "Cargo Volume": 19.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 22.2,
+               "CO2 Emissions": 242
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG GLC 63 (X253) 2017-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "350.1 KW @ 5500-6250 RPM\n476 HP @ 5500-6250 RPM\n469 BHP @ 5500-6250 RPM",
+               "Torque": "479 lb-ft @ 1750-4500 RPM\n650 Nm @ 1750-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55 R 19"
+          },
+          "DIMENSIONS": {
+               "Length": 183.3,
+               "Width": 74.4,
+               "Height": 64.5,
+               "Front/rear Track": "63.8/63.7 in (1,621/1,618 mm)",
+               "Wheelbase": 113.1,
+               "Cargo Volume": 19.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4409,
+               "Gross Weight Limit": 5688
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.7,
+               "Highway": 27,
+               "Combined": 22,
+               "CO2 Emissions": 244
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG GLC 43 (X253) 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2996,
+               "Power": "269.9 KW @ 5500-6000 RPM\n367 HP @ 5500-6000 RPM\n362 BHP @ 5500-6000 RPM",
+               "Torque": "384 lb-ft @ 2500-4500 RPM\n520 Nm @ 2500-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55 R 19"
+          },
+          "DIMENSIONS": {
+               "Length": 183.3,
+               "Width": 74.4,
+               "Height": 64.5,
+               "Front/rear Track": "63.8/63.7 in (1,621/1,618 mm)",
+               "Wheelbase": 113.1,
+               "Ground Clearance": 7.26,
+               "Cargo Volume": 19.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4068,
+               "Gross Weight Limit": 5423
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 32.2,
+               "Combined": 27,
+               "CO2 Emissions": 199
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG C 43 4MATIC 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2996,
+               "Power": "286.8 KW @ 6100 RPM\n390 HP @ 6100 RPM\n385 BHP @ 6100 RPM",
+               "Torque": "384 lb-ft @ 2500-5000 RPM\n520 Nm @ 2500-5000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "AMG Speedshift TCT 9G"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/40 R19 // 245/35 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 185.1,
+               "Width": 71.3,
+               "Height": 56.8,
+               "Wheelbase": 111.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3880,
+               "Gross Weight Limit": 5115
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.4,
+               "Highway": 35.1,
+               "Combined": 24.5,
+               "CO2 Emissions": 220
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG C 43 T-Modell (S205) 2015-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2996,
+               "Power": "269.9 KW @ 5500-6000 RPM\n367 HP @ 5500-6000 RPM\n362 BHP @ 5500-6000 RPM",
+               "Torque": "384 lb-ft @ 2000-4200 RPM\n520 Nm @ 2000-4200 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R18 || 245/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 185.7,
+               "Width": 71.3,
+               "Height": 56.7,
+               "Front/rear Track": "62.5/61.8 in (1,588/1,570 mm)",
+               "Wheelbase": 111.8,
+               "Cargo Volume": 17.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3825
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.8,
+               "Highway": 36.2,
+               "Combined": 29,
+               "CO2 Emissions": 185
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG S 63 Cabriolet (A217) 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "450.1 KW @ 5500-6000 RPM\n612 HP @ 5500-6000 RPM\n604 BHP @ 5500-6000 RPM",
+               "Torque": "664 lb-ft @ 2750-4500 RPM\n900 Nm @ 2750-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (AMG SPEEDSHIFT MCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 198.6,
+               "Width": 75.3,
+               "Height": 56.2,
+               "Wheelbase": 115.9,
+               "Cargo Volume": 12.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4817
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 23.3,
+               "CO2 Emissions": 229
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG S 65 Cabriolet (A217) 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5980,
+               "Power": "463.4 KW @ 4800-5400 RPM\n630 HP @ 4800-5400 RPM\n621 BHP @ 4800-5400 RPM",
+               "Torque": "738 lb-ft @ 2300-4300 RPM\n1000 Nm @ 2300-4300 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic (7G-TRONIC PLUS)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 198.6,
+               "Width": 75.2,
+               "Height": 56.2,
+               "Wheelbase": 115.9,
+               "Cargo Volume": 12.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4971
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19.6,
+               "CO2 Emissions": 272
+          }
+     }
+},{
+     "model_name": "2016 Mercedes-AMG S 63 Cabriolet",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5461,
+               "Power": "430.3 KW @ 5500 RPM\n585 HP @ 5500 RPM\n577 BHP @ 5500 RPM",
+               "Torque": "664 lb-ft @ 2250-3750 RPM\n900 Nm @ 2250-3750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT MCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/45 ZR 19 || 285/40 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 197.9,
+               "Width": 74.8,
+               "Height": 55.8,
+               "Front/rear Track": "64/64.9 in (1,626/1,648 mm)",
+               "Wheelbase": 115.9,
+               "Ground Clearance": 4.8,
+               "Cargo Volume": 12.4,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4817,
+               "Gross Weight Limit": 5809
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.4,
+               "Highway": 28.7,
+               "Combined": 22.6,
+               "CO2 Emissions": 244
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG S 65 Cabriolet (A217) 2016-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5980,
+               "Power": "463.4 KW @ 4800-5400 RPM\n630 HP @ 4800-5400 RPM\n621 BHP @ 4800-5400 RPM",
+               "Torque": "738 lb-ft @ 2300-4300 RPM\n1000 Nm @ 2300-4300 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT PLUS)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 ZR 20"
+          },
+          "DIMENSIONS": {
+               "Length": 158.5,
+               "Width": 74.8,
+               "Height": 55.8,
+               "Front/rear Track": "64/64.9 in (1,626/1,648 mm)",
+               "Wheelbase": 115.9,
+               "Ground Clearance": 4.8,
+               "Cargo Volume": 12.4,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4971,
+               "Gross Weight Limit": 5787
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.8,
+               "Highway": 26.4,
+               "Combined": 19.6,
+               "CO2 Emissions": 272
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG C43 AMG Estate 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "300.1 KW @ 4750 RPM\n408 HP @ 4750 RPM\n402 BHP @ 4750 RPM",
+               "Torque": "369 lb-ft @ 5000 RPM\n500 Nm @ 5000 RPM",
+               "Electrical motor power": "10.3 kw (14 hp)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 188.6,
+               "Width": 71.8,
+               "Height": 57.7,
+               "Front/rear Track": "62.6/63.1 in (1,590/1,603 mm)",
+               "Wheelbase": 112.8,
+               "Cargo Volume": 17.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3990
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 25.6,
+               "CO2 Emissions (Combined)": "209 g/km"
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG C 63 S E PERFORMANCE 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "350.1 KW @ 6750 RPM\n476 HP @ 6750 RPM\n469 BHP @ 6750 RPM",
+               "Torque": "402 lb-ft @ 5250-5500 RPM\n545 Nm @ 5250-5500 RPM",
+               "Fuel System": "Turbocharged Direct Injection"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4729
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 6.1,
+               "Range": 8.1
+          }
+     }
+},{
+     "model_name": "2023 Mercedes-AMG ONE",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 1599,
+               "Power": "422.2 KW @ 9000 RPM\n574 HP @ 9000 RPM\n566 BHP @ 9000 RPM",
+               "Electrical motor power": "89.7 kw (122 hp)",
+               "Total maximum power": "781.8 kw (1063 hp)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Plug-in Hybrid",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 219,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/35 R19 // 335/30 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 187.2,
+               "Width": 79.1,
+               "Height": 49.6,
+               "Front/rear Track": "67.8/65.7 in (1,722/1,669 mm)",
+               "Wheelbase": 107.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3737
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Maximum Capacity": "8.4 kWh",
+               "Range": 11.2
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 27,
+               "CO2 Emissions (Combined)": "198 g/km"
+          },
+          "NOTES": {
+               "Electric motor 2 power": "163 HP\nElectric motor 3 power: 163 HP\nElectric motor 4 power: 163 HP\nAverage Energy consumption WLTP: 32 kWh/100 km"
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG A 35 4MATIC Sedan 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "225.1 KW @ 5800 RPM\n306 HP @ 5800 RPM\n302 BHP @ 5800 RPM",
+               "Torque": "295 lb-ft @ 3000-4000 RPM\n400 Nm @ 3000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 32.2,
+               "CO2 Emissions": 167
+          }
+     }
+},{
+     "model_name": "2019 Mercedes-AMG A45 4MATIC+",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "284.6 KW @ 6500 RPM\n387 HP @ 6500 RPM\n382 BHP @ 6500 RPM",
+               "Torque": "354 lb-ft @ 4750-5000 RPM\n480 Nm @ 4750-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic AMG Speedshift DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 ZR 18"
+          },
+          "DIMENSIONS": {
+               "Length": 175,
+               "Width": 72.8,
+               "Height": 55.4,
+               "Front/rear Track": "62.9/61.3 in (1,598/1,557 mm)",
+               "Wheelbase": 107.4,
+               "Cargo Volume": 13.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3406,
+               "Gross Weight Limit": 4586
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28,
+               "CO2 Emissions": 192
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mercedes-AMG A 35 AMG 4MATIC 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 19991,
+               "Power": "225.1 KW @ 5800-6100 RPM\n306 HP @ 5800-6100 RPM\n302 BHP @ 5800-6100 RPM",
+               "Torque": "295 lb-ft @ 3000-4000 RPM\n400 Nm @ 3000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-Speed automatic with AMG Speedshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 31.8,
+               "CO2 Emissions": 167
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG A45 (W176) 2015-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "280.2 KW @ 6000 RPM\n381 HP @ 6000 RPM\n376 BHP @ 6000 RPM",
+               "Torque": "350 lb-ft @ 2250-5000 RPM\n475 Nm @ 2250-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT DCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 R 18"
+          },
+          "DIMENSIONS": {
+               "Length": 169.3,
+               "Width": 70.1,
+               "Height": 56.4,
+               "Front/rear Track": "61.1/61.1 in (1,552/1,552 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 12,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3428,
+               "Gross Weight Limit": 4519
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.5,
+               "Highway": 39.2,
+               "Combined": 32.2,
+               "CO2 Emissions": 171
+          }
+     }
+},{
+     "model_name": "2024 Mercedes-AMG CLE 53 Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "330.2 KW @ 5800-6100 RPM\n449 HP @ 5800-6100 RPM\n443 BHP @ 5800-6100 RPM",
+               "Torque": "413 lb-ft @ 2200-5000 RPM\n560 Nm @ 2200-5000 RPM",
+               "Electrical motor power": "16.9 kw (23 hp)",
+               "Electrical motor torque": "151.2 lb-ft (205 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Mild Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 24.2,
+               "CO2 Emissions (Combined)": "220 g/km"
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "2024 Mercedes-AMG SL63 S E Performance",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "450.1 KW @ 5750-6500 RPM\n612 HP @ 5750-6500 RPM\n604 BHP @ 5750-6500 RPM",
+               "Torque": "627 lb-ft @ 2500-4500 RPM\n850 Nm @ 2500-4500 RPM",
+               "Electrical motor power": "150 kw (204 hp)",
+               "Electrical motor torque": "236 lb-ft (320 Nm)",
+               "Total maximum power": "600.2 kw (816 hp)",
+               "Total maximum torque": "796.6 lb-ft (1080 Nm)",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Plug-in Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 197,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/40 R20 // 295/35 R20"
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 6.1,
+               "Range": 8.1
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 30.5,
+               "CO2 Emissions (Combined)": "175 g/km"
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG SL-Class AMG 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "350.1 KW @ 5500-6500 RPM\n476 HP @ 5500-6500 RPM\n469 BHP @ 5500-6500 RPM",
+               "Torque": "516 lb-ft @ 2250-4500 RPM\n700 Nm @ 2250-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/40 ZR 20 // 295/35 ZR 20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.2,
+               "Width": 75.4,
+               "Height": 53.3,
+               "Front/rear Track": "65.4/64 in (1,661/1,626 mm)",
+               "Wheelbase": 106.3,
+               "Cargo Volume": 7.5,
+               "Turning circle": 42.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4299
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 18.5,
+               "CO2 Emissions (Combined)": "288 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2025 Mercedes-AMG E53 Hybrid Estate",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2999,
+               "Power": "330.2 KW @ 5800-6100 RPM\n449 HP @ 5800-6100 RPM\n443 BHP @ 5800-6100 RPM",
+               "Torque": "413 lb-ft @ 2200-5000 RPM\n560 Nm @ 2200-5000 RPM",
+               "Electrical motor power": "88.3 kw (120 hp)",
+               "Electrical motor torque": "354 lb-ft (480 Nm)",
+               "Total maximum power": "430.3 kw (585 hp)",
+               "Total maximum torque": "553.2 lb-ft (750 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Hybrid Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic AMG Speepshift"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 21.22,
+               "Maximum Capacity": "28.6 kWh",
+               "Range": 55.9
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 24.8,
+               "CO2 Emissions (Combined)": "24 g/km"
+          },
+          "NOTES": {
+               "System performance AMG DYNAMIC PLUS package": "612 HP (450 Kw)\nEnergy consumption combined, weighted: 26.7-25.0, 1.1-0.9 KWh/100 km"
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG EQE 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "350 kw (476 hp)",
+               "Total maximum torque": "632.8 lb-ft (858 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "DIMENSIONS": {
+               "Length": 195.4,
+               "Width": 75,
+               "Height": 57.6,
+               "Cargo Volume": 15.2
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 5567
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 90.6,
+               "Range": 287.1
+          },
+          "NOTES": {
+               "On-board charger (standard/optional)": "11/22 KW\nMax. DC charging output: 170 KW\nCombined electrical consumption (WLTP) KWh/100 KM: 22.5"
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mercedes-AMG EQE SUV 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "350.1 kw (476 hp)",
+               "Total maximum torque": "632.8 lb-ft (858 Nm)",
+               "Fuel": "Plug-in Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/40 R21 // 275/40 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 192.1,
+               "Width": 76,
+               "Height": 65.8,
+               "Front/rear Track": "65.1/65.3 in (1,654/1,659 mm)",
+               "Wheelbase": 119.3,
+               "Cargo Volume": 18.4,
+               "Turning circle": 35.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5732,
+               "Gross Weight Limit": 7044
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 90.6,
+               "Range": 267.8
+          },
+          "NOTES": {
+               "Combined power consumption (WLTP)": "kWh/100 km: 25.1\u201322.0"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Mercedes-AMG S63 E Performance",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "443.5 KW @ 5500-6500 RPM\n603 HP @ 5500-6500 RPM\n595 BHP @ 5500-6500 RPM",
+               "Torque": "664 lb-ft @ 2500-4500 RPM\n900 Nm @ 2500-4500 RPM",
+               "Electrical motor power": "138.3 kw (188 hp)",
+               "Electrical motor torque": "236 lb-ft (320 Nm)",
+               "Total maximum power": "581.8 kw (791 hp)",
+               "Total maximum torque": "1054.7 lb-ft (1430 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Plug-in Hybrid",
+               "Fuel capacity": 20.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/45 ZR20 // 285/40 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 210.1,
+               "Width": 75.6,
+               "Height": 59.6,
+               "Front/rear Track": "65.8/64.6 in (1,671/1,641 mm)",
+               "Wheelbase": 126.6,
+               "Cargo Volume": 10.8,
+               "Turning circle": 10.4
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG S 65 L (V222) 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5980,
+               "Power": "463.4 KW @ 5000 RPM\n630 HP @ 5000 RPM\n621 BHP @ 5000 RPM",
+               "Torque": "738 lb-ft @ 2300-4300 RPM\n1000 Nm @ 2300-4300 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 206.9,
+               "Width": 74.8,
+               "Height": 58.8,
+               "Front/rear Track": "63.9/63.9 in (1,623/1,623 mm)",
+               "Wheelbase": 124.6,
+               "Ground Clearance": 5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4960,
+               "Gross Weight Limit": 6063
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.8,
+               "Highway": 27.4,
+               "Combined": 19.8,
+               "CO2 Emissions": 279
+          }
+     }
+},{
+     "model_name": "2017 Mercedes-AMG S 63 L",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "450.1 KW @ 5500-6000 RPM\n612 HP @ 5500-6000 RPM\n604 BHP @ 5500-6000 RPM",
+               "Torque": "664 lb-ft @ 2750-4500 RPM\n900 Nm @ 2750-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/45 ZR 19 || 285/40 ZR 19"
+          },
+          "DIMENSIONS": {
+               "Length": 207.5,
+               "Width": 75,
+               "Height": 58.9,
+               "Front/rear Track": "64.2/64.7 in (1,631/1,643 mm)",
+               "Wheelbase": 124.6,
+               "Cargo Volume": 18
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4564,
+               "Gross Weight Limit": 6052
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.1,
+               "Highway": 32.2,
+               "Combined": 26.4,
+               "CO2 Emissions": 203
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG 53 AMG 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "560 kw (761 hp)",
+               "Total maximum torque": "752.3 lb-ft (1020 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/40 R21 // 275/35 R22"
+          },
+          "DIMENSIONS": {
+               "Length": 205.4,
+               "Width": 75.8,
+               "Height": 59.5,
+               "Front/rear Track": "65.4/65.1 in (1,661/1,654 mm)",
+               "Wheelbase": 126.4,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 21.5,
+               "Aerodynamics (Cd)": 0.23
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5853
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 107.8,
+               "Maximum Capacity": "120 kWh",
+               "Range": 364.1
+          },
+          "NOTES": {
+               "Max. recuperation power": "300 kW\nOnboard charger (standard/option): 11/22 kW\nMax. DC charging power: 200 kW"
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mercedes-AMG S 65 Coupe (C217) 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5980,
+               "Power": "463.4 KW @ 4800-5400 RPM\n630 HP @ 4800-5400 RPM\n621 BHP @ 4800-5400 RPM",
+               "Torque": "738 lb-ft @ 2300-4300 RPM\n1000 Nm @ 2300-4300 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (7G-TRONIC PLUS)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 198.6,
+               "Width": 75.3,
+               "Height": 56,
+               "Wheelbase": 115.9,
+               "Cargo Volume": 14.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4817
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19.8,
+               "CO2 Emissions": 279
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG S 63 AMG Coupe (C217) 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "450.1 KW @ 5500-6000 RPM\n612 HP @ 5500-6000 RPM\n604 BHP @ 5500-6000 RPM",
+               "Torque": "664 lb-ft @ 2750-4500 RPM\n900 Nm @ 2750-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 198.6,
+               "Width": 75.3,
+               "Height": 56,
+               "Wheelbase": 115.9,
+               "Cargo Volume": 14.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4586
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 25.3,
+               "CO2 Emissions": 211
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG G 63 (W464) 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "430.3 KW @ 6500 RPM\n585 HP @ 6500 RPM\n577 BHP @ 6500 RPM",
+               "Torque": "627 lb-ft @ 2500-3500 RPM\n850 Nm @ 2500-3500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 189.6,
+               "Width": 76,
+               "Height": 77.5,
+               "Wheelbase": 113.8,
+               "Cargo Volume": 17.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5644
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 17.8,
+               "CO2 Emissions": 299
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG SLC 43 (R172) 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2996,
+               "Power": "269.9 KW @ 5500-6000 RPM\n367 HP @ 5500-6000 RPM\n362 BHP @ 5500-6000 RPM",
+               "Torque": "384 lb-ft @ 2000-4200 RPM\n520 Nm @ 2000-4200 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "9-speed automatic (9G-TRONIC)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR 18 || 255/35 ZR 18"
+          },
+          "DIMENSIONS": {
+               "Length": 162.7,
+               "Width": 71.3,
+               "Height": 51.2,
+               "Front/rear Track": "61.4/61.6 in (1,560/1,565 mm)",
+               "Wheelbase": 95.7,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 10.1,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3516,
+               "Gross Weight Limit": 4167
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 42.8,
+               "Highway": 56,
+               "Combined": 50,
+               "CO2 Emissions": 123
+          }
+     }
+},{
+     "model_name": "Mercedes-AMG C 63 Cabriolet (A205) 2016-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3982,
+               "Power": "350 KW @ 5500-620 RPM\n475.9 HP @ 5500-620 RPM\n469 BHP @ 5500-620 RPM",
+               "Torque": "479 lb-ft @ 1750-4500 RPM\n650 Nm @ 1750-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-speed automatic (AMG SPEEDSHIFT MCT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 R 18 || 285/35 R 18"
+          },
+          "DIMENSIONS": {
+               "Length": 184.5,
+               "Width": 71.3,
+               "Height": 55.5,
+               "Front/rear Track": "61.5/60.9 in (1,562/1,547 mm)",
+               "Wheelbase": 111.8,
+               "Cargo Volume": 12.7,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4211,
+               "Gross Weight Limit": 5016
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 31.4,
+               "Combined": 25.3,
+               "CO2 Emissions": 218
+          },
+          "": {}
+     }
+},	
+ ] } 
