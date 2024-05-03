@@ -16,6 +16,7 @@ def user_lookup(email):
     if result == None:
         return False, None, None
     
+    session.close()
     return True, result[0], result[1]
 
 
@@ -27,6 +28,7 @@ def user_exists(username):
                             .where(User.username == username)
                             .scalar())
 
+    session.close()
     return result != None
 
 
@@ -41,4 +43,6 @@ def create_user(username, email_address, password):
     session.add(new_user)
 
     session.commit()
+
+    session.close()
 

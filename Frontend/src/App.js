@@ -1,7 +1,8 @@
 import './App.css';
 import MapPage from './Map.js';
-import LoginPage from './Login.js'
-import CreateAccountPage from './MakeAccount.js'
+import LoginPage from './Login.js';
+import CreateAccountPage from './MakeAccount.js';
+import ForgotPasswordPage from './ForgotPassword.js';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import firebase from 'firebase/compat/app';
@@ -23,9 +24,10 @@ function App() {
   return (
     <Router>
         <Routes>
-            <Route path="/Map" element={<MapPage/>} />
+            <Route path="/map" element={<MapPage/>} />
             <Route path="/" element={<LoginPage/>} />
             <Route path="/create-account" element={<CreateAccountPage/>} />
+            <Route path="/ForgotPassword" element={<ForgotPasswordPage/>} />
         </Routes>
     </Router>
     );
