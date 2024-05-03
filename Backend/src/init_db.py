@@ -41,7 +41,7 @@ class Car(Base):
     width = Column(Float, nullable=True)
     len = Column(Float, nullable=True)
     height = Column(Float, nullable=True)
-    
+
     owns = relationship("Owns", back_populates="car")
     park = relationship("Park", back_populates="car")
 
@@ -51,7 +51,8 @@ class Car(Base):
 
 class Owns(Base):
     __tablename__ = 'owns'
-    
+    __table_args__ = (PrimaryKeyConstraint("user_id", "car_id"), {})
+    #user can only own one of each car for now
     user_id = Column(Integer, ForeignKey('users.user_id',  ondelete='CASCADE'), primary_key=True)
     car_id = Column(Integer, ForeignKey('cars.car_id',  ondelete='CASCADE'), primary_key=True)
     
