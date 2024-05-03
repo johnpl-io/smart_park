@@ -1,7 +1,10 @@
 from park_mgmt import *
 from user_mgmt import *
+<<<<<<< HEAD
 from car_mgmt import *
+=======
 from park_finder import *
+>>>>>>> 369f28519a1b8fc434f9cb48df0417b2081af29a
 from flask import Flask,request, jsonify
 from flask_cors import CORS, cross_origin
 from geojson import Point
@@ -18,9 +21,8 @@ def park():
 
     data = request.get_json()
 
-    print(data['location'])
-    log_park(int(data['user_id']), 
-             int(data['car_id']),
+    log_park(data['user_id'], 
+             data['car_id'],
              data['location'])
     
     return jsonify({

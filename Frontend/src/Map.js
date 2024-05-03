@@ -28,6 +28,7 @@ const MapComponent = () => {
         setSidebarOpen(!sidebarOpen);
     };
 
+
     useEffect(() => {
         if (selectedSpot && mapRef.current) {
             if (routingControlRef.current) {
@@ -150,8 +151,16 @@ const MapComponent = () => {
     
     useEffect(() => {
         const fetchParkedStatus = async () => {
-            const user_id = 1;
-            const car_id = 1;
+            
+            const user_id = localStorage.getItem('user_id');
+            const car_id = localStorage.getItem('car_id');
+
+            if (car_id == null) {
+                alert("Please first select a car in the garage!");
+                return;
+            }
+            console.log(user_id);
+            console.log(car_id);
             const url = `http://localhost:5000/check-parked?user_id=${user_id}&car_id=${car_id}`;
 
             const response = await fetch(url, {
@@ -176,14 +185,21 @@ const MapComponent = () => {
 
         const dotLatLng = dotRef.current.getLatLng();
 
+        const user_id = localStorage.getItem('user_id');
+        const car_id = localStorage.getItem('car_id');
+        if (car_id == null) {
+            alert("Please first select a car in the garage!");
+            return;
+        }
+
         checkIfOnStreetRef.current(dotLatLng, async (isOnStreet) => {
             if (isOnStreet) {
                 const response = await fetch("http://localhost:5000/park", {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
-                    user_id: 1, // Example user ID
-                    car_id: 1, // Example car ID
+                    user_id: user_id,
+                    car_id: car_id,
                     location: [dotLatLng.lat, dotLatLng.lng] // Using the current position
                 })
             });
@@ -205,12 +221,21 @@ const MapComponent = () => {
     };
 
     const handleUnparkButtonClick = async () => {
+        
+        const user_id = localStorage.getItem('user_id');
+        const car_id = localStorage.getItem('car_id');
+
+        if (car_id == null) {
+            alert("Please first select a car in the garage!");
+            return;
+        }
+
         const response = await fetch("http://localhost:5000/leave", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({
-                user_id: 1,
-                car_id: 1
+                user_id: user_id,
+                car_id: car_id
             })
         });
 

@@ -4,7 +4,6 @@ const CarsDisplay = () => {
     const [cars, setCars] = useState([]);
     const [currentIndex, setCurrentIndex] = useState(0);
 
-    // Fetching the cars from the API on component mount
     useEffect(() => {
         const fetchCars = async () => {
             const user_id = localStorage.getItem("user_id");
@@ -18,7 +17,6 @@ const CarsDisplay = () => {
         fetchCars();
     }, []);
 
-    // Handler functions for previous and next buttons
     const handlePrev = () => {
         setCurrentIndex((prevIndex) => (prevIndex > 0 ? prevIndex - 1 : 0));
     };
