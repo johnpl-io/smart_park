@@ -54,8 +54,12 @@ def find_cars(search_term):
 def register(user_id, car_id):
     session = create_session()
 
-    new_ownership = Owns(user_id=user_id, car_id=car_id)
+    try:
+        new_ownership = Owns(user_id=user_id, car_id=car_id)
 
-    session.add(new_ownership)
-
-    session.commit()
+        session.add(new_ownership)
+        
+        session.commit()
+        return True
+    except:
+        return False

@@ -53,13 +53,15 @@ const CarBrowser = () => {
                 },
                 body: JSON.stringify({ user_id: localStorage.getItem('user_id'), car_id: car_id })
             });
+            console.log(response);
             if (response.ok) {
                 alert('Car registered successfully to your collection!');
             } else {
-                alert('Failed to register car. Please try again.');
+                
+                alert('You already registered this car!');
             }
         } catch (error) {
-            console.error('Error registering car:', error);
+            
             alert('An error occurred. Please try again.');
         }
     };

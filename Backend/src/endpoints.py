@@ -173,10 +173,15 @@ def register_car():
 
     data = request.get_json()
 
-    register(int(data["user_id"]),
+    success = register(int(data["user_id"]),
                   int(data["car_id"]))
     
+    if success:
+        return jsonify({
+            "message": "Successfully created user!"
+            }), 200
     
+    return jsonify({"error": "User already registered this car!"}), 400
 
 
 if __name__ == '__main__':
