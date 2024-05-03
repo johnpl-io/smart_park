@@ -5,7 +5,7 @@ from sqlalchemy.dialects.postgresql import BYTEA
 from sqlalchemy.orm import relationship, sessionmaker, declarative_base, Session
 from geoalchemy2 import Geography
 from sqlalchemy.schema import CreateSchema
-
+from sqlalchemy import PrimaryKeyConstraint
 
 Base = declarative_base()
 
@@ -102,6 +102,16 @@ class Park(Base):
     def __repr__(self):
         return f"Park(pid={self.pid}, spot_id={self.spot_id}, user_id={self.user_id}, car_id={self.car_id}, time_arrived={self.time_arrived})"
 
+class Hold(Base):
+    __tablename__ = 'hold'
+    __table_args__ = (PrimaryKeyConstraint("user_id", "car_id", "spot_id"), {})
+    user_id = Column(Integer, ForeignKey('users.user_id', ondelete='CASCADE'))
+    car_id = Column(Integer, ForeignKey('cars.car_id', ondelete='CASCADE'))
+    spot_id = Column(Integer, ForeignKey('spot.spot_id', ondelete='CASCADE'))
+    time_start = Column(TIMESTAMP, nullable=False, default=func.now())
+
+    def __repr__(self):
+        return f"Hold(user_id={self.user_id}, spot_id={self.spot_id}, time_start={self.time_start})"
 """
 class Violation(Base):
     __tablename__ = 'violation'
