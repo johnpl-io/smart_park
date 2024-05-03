@@ -7,6 +7,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import firebase from 'firebase/compat/app';
 import 'firebase/compat/auth';
+import useUser from "./useUser.js";
 
 const firebaseConfig = {
   apiKey: "AIzaSyBJXSdjGa3Lyq5iNRLQQXidjuGRCNK-4CQ",
@@ -21,16 +22,33 @@ const firebaseConfig = {
 const app = firebase.initializeApp(firebaseConfig);
 
 function App() {
-  return (
-    <Router>
+
+  const {user, isLoading} = useUser();
+
+  if(user != null && user.emailVerified){
+    return (
+      <Router>
+        <Routes>
+            <Route path="/login" element={<LoginPage/>} />
+            <Route path="/" element={<MapPage/>} />
+            <Route path="/create-account" element={<CreateAccountPage/>} />
+            <Route path="/ForgotPassword" element={<ForgotPasswordPage/>} />
+        </Routes>
+      </Router>
+      );
+  }
+  else {
+    return (
+      <Router>
         <Routes>
             <Route path="/map" element={<MapPage/>} />
             <Route path="/" element={<LoginPage/>} />
             <Route path="/create-account" element={<CreateAccountPage/>} />
             <Route path="/ForgotPassword" element={<ForgotPasswordPage/>} />
         </Routes>
-    </Router>
-    );
+      </Router>
+      );
+    }
   }
 
 export default App;
