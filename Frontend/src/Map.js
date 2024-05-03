@@ -3,6 +3,9 @@ import './Map.css';
 import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet-routing-machine';
+import { FaInfoCircle, FaCar, FaSignOutAlt, FaSearch, FaCog } from 'react-icons/fa';
+
+
 
 
 const MapComponent = () => {
@@ -19,6 +22,11 @@ const MapComponent = () => {
     const checkIfOnStreetRef = useRef(null);
     const [loading, setLoading] = useState(false);
 
+    const [sidebarOpen, setSidebarOpen] = useState(true);
+
+    const toggleSidebar = () => {
+        setSidebarOpen(!sidebarOpen);
+    };
 
     useEffect(() => {
         if (selectedSpot && mapRef.current) {
@@ -282,9 +290,28 @@ const MapComponent = () => {
 
 
 
+
+
     return (
-        <div>
-            <div id="map">
+        <div className="map-container">
+                {/* Sidebar */}
+                <div className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
+                    {/* Sidebar content */}
+                    <div className="menu">
+                    <ul className="menu-list">
+                        <li><button onClick={() => { window.location.href = "/AboutUs"; }}><FaInfoCircle /> About Us</button></li>
+                        <li><button onClick={() => { window.location.href = "/UserProfile"; }}><FaCog /> Account Settings</button></li> {/* Changed icon to FaCog */}
+                        <li><button onClick={() => { window.location.href = "/Garage"; }}><FaCar /> Garage</button></li>
+                        <li><button onClick={() => { window.location.href = "/BrowseCars"; }}><FaSearch /> Browse Cars</button></li> {/* Changed icon to FaSearch */}
+                        <li><button onClick={() => { window.location.href = "/Logout"; }}><FaSignOutAlt /> Logout</button></li>
+                    </ul>
+                    </div>
+                </div>
+
+            <button className={`toggle-button ${sidebarOpen ? 'open' : ''}`} onClick={toggleSidebar}>
+                <span></span>
+            </button>
+            <div id="map" className={`map ${sidebarOpen ? 'shifted' : ''}`}>
                 <div className="select-container">
                     {parkingSpots.length > 0 && (
                         <select onChange={(e) => setSelectedSpot(parkingSpots[parseInt(e.target.value, 10)])}>

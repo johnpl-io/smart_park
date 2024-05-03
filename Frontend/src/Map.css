@@ -100,3 +100,124 @@
 @keyframes spin {
     to { transform: translate(-50%, -50%) rotate(360deg); }
 }
+
+
+.map-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.sidebar {
+    position: absolute;
+    top: 0;
+    left: -250px;
+    width: 250px;
+    height: 100%;
+    /*background-color: #215782;*/
+    background: linear-gradient(to bottom, #4e8cbf, #255e7d);
+    color: #fff;
+    transition: left 0.3s ease-in-out;
+    z-index: 1000;
+}
+
+.sidebar.open {
+    left: 0; /* Slide in when open */
+}
+
+.toggle-button {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    background-color: #4daad8; /* Light blue background */
+    border: 1px solid #ccc; /* Grey border */
+    border-radius: 0 5px 5px 0; /* Rounded border on the right side */
+    cursor: pointer;
+    overflow: hidden;
+    z-index: 1000;
+}
+
+.toggle-button::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    transform: translateY(-50%) translateX(50%) rotate(45deg); /* Rotate to form a triangle */
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent; /* Adjust size of triangle */
+    border-right: 8px solid transparent; /* Adjust size of triangle */
+    border-top: 8px solid #fff; /* Adjust size of triangle */
+}
+
+.toggle-button span {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(90deg);
+    color: #fff; /* White color for the arrow */
+    font-size: 20px;
+}
+
+
+.toggle-button.open span {
+    transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.toggle-button.open span:before,
+.toggle-button.open span:after {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 2px;
+    background-color: #fff;
+    top: 50%;
+    left: 50%;
+    transition: transform 0.3s ease-in-out;
+}
+
+.toggle-button.open span:before {
+    transform: translate(-50%, -50%) rotate(-90deg);
+}
+
+.toggle-button.open span:after {
+    transform: translate(-50%, -50%) rotate(90deg);
+}
+
+.menu-list {
+    list-style: none; /* Remove bullets */
+    padding: 0; /* Remove default padding */
+}
+
+.menu-list li {
+    margin-bottom: 10px; /* Space out the buttons */
+}
+
+.menu-list button {
+    display: block;
+    width: 100%;
+    padding: 15px; /* Increase padding for larger buttons */
+    border: none;
+    border-bottom: 4px solid #2e6a4e;  /* Thick dividers between buttons */
+    background-color: #5db87b; /* Sea green background */
+    color: #fff; /* White text */
+    text-align: left;
+    transition: background-color 0.3s;
+    z-index: 1000;
+}
+
+.menu-list button:hover {
+    background-color: #508e64; /* Darker background on hover */
+}
+
+.menu-list button svg {
+    margin-right: 10px; /* Add space between icon and text */
+}
+
+.leaflet-control {
+    z-index: 999; /* Lower z-index value */
+}
+
