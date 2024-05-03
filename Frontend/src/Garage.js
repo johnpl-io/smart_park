@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import backgroundImage from './Garage.jpg';
 import './Garage.css';
-import { FaInfoCircle, FaCar, FaSignOutAlt, FaSearch, FaCog, FaCheckCircle} from 'react-icons/fa';
+import { FaInfoCircle, FaCar, FaSignOutAlt, FaSearch, FaCog, FaCheckCircle, FaPlayCircle} from 'react-icons/fa';
 
 const CarsDisplay = () => {
     const [cars, setCars] = useState([]);
@@ -49,6 +49,7 @@ const CarsDisplay = () => {
                         <li><button onClick={() => { window.location.href = "/UserProfile"; }}><FaCog /> Account Settings</button></li> {/* Changed icon to FaCog */}
                         <li><button onClick={() => { window.location.href = "/Garage"; }}><FaCar /> Garage</button></li>
                         <li><button onClick={() => { window.location.href = "/BrowseCars"; }}><FaSearch /> Browse Cars</button></li> {/* Changed icon to FaSearch */}
+                        <li><button onClick={() => { window.location.href = "/"; }}><FaPlayCircle /> Start Driving</button></li> {/* Changed icon to FaSearch */}
                         <li><button onClick={() => { window.location.href = "/Logout"; }}><FaSignOutAlt /> Logout</button></li>
                     </ul>
                     </div>
