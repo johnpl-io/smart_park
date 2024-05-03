@@ -1,0 +1,24 @@
+.about-us-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.about-us-description {
+  margin-bottom: 20px;
+}
+
+.why-choose-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.why-choose-list li {
+  margin-bottom: 10px;
+}
+
+.our-vision,
+.get-started,
+.join-us {
+  margin-bottom: 20px;
+}

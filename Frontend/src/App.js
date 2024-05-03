@@ -5,6 +5,7 @@ import CreateAccountPage from './MakeAccount.js';
 import ForgotPasswordPage from './ForgotPassword.js';
 import GaragePage from './Garage.js';
 import BrowseCarsPage from './BrowseCars.js';
+import AboutUsPage from './AboutUs.js';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import firebase from 'firebase/compat/app';
@@ -37,6 +38,7 @@ function App() {
             <Route path="/ForgotPassword" element={<ForgotPasswordPage/>} />
             <Route path="/Garage" element={<GaragePage/>} />
             <Route path="/BrowseCars" element={<BrowseCarsPage/>} />
+            <Route path="/AboutUs" element={<AboutUsPage/>} />
         </Routes>
       </Router>
       );
