@@ -61,7 +61,7 @@ const LoginPage = () => {
           <li><a href="/create-account" className="make-account-btn" role="button">Make an Account</a></li>
         </ul>
       </nav>
-      <div className = "container">
+      <div className = "login-container">
         <main className="login-form">
 
           <h2>Sign In</h2>

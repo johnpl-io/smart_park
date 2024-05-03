@@ -1,13 +1,17 @@
 import React, { useState, useEffect } from 'react';
+import { useNavigate } from 'react-router-dom';
 import backgroundImage from './Garage.jpg';
 import './Garage.css';
 import { FaInfoCircle, FaCar, FaSignOutAlt, FaSearch, FaCog, FaCheckCircle, FaPlayCircle} from 'react-icons/fa';
+import {getAuth, signOut} from "firebase/auth";
 
 const CarsDisplay = () => {
     const [cars, setCars] = useState([]);
     const [currentIndex, setCurrentIndex] = useState(0);
     const [sidebarOpen, setSidebarOpen] = useState(true);
     const [carId, setCarID] = useState(localStorage.getItem('car_id'));
+    const auth = getAuth();
+    const navigate = useNavigate();
 
     useEffect(() => {
         const fetchCars = async () => {
@@ -21,6 +25,18 @@ const CarsDisplay = () => {
 
         fetchCars();
     }, []);
+
+    const handleLogout = (event) => {       
+    
+        event.preventDefault();
+        signOut(auth).then(() => {
+        // Sign-out successful.
+            navigate("/");
+            console.log("Signed out successfully")
+        }).catch((error) => {
+        // An error happened.
+        });
+    }
 
     const handlePrev = () => {
         setCurrentIndex((prevIndex) => (prevIndex > 0 ? prevIndex - 1 : 0));
@@ -50,7 +66,7 @@ const CarsDisplay = () => {
                         <li><button onClick={() => { window.location.href = "/Garage"; }}><FaCar /> Garage</button></li>
                         <li><button onClick={() => { window.location.href = "/BrowseCars"; }}><FaSearch /> Browse Cars</button></li> {/* Changed icon to FaSearch */}
                         <li><button onClick={() => { window.location.href = "/"; }}><FaPlayCircle /> Start Driving</button></li> {/* Changed icon to FaSearch */}
-                        <li><button onClick={() => { window.location.href = "/Logout"; }}><FaSignOutAlt /> Logout</button></li>
+                        <li><button onClick={(e) => handleLogout(e)}><FaSignOutAlt /> Logout</button></li>
                     </ul>
                     </div>
             </div>

@@ -4,7 +4,8 @@ import L from 'leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet-routing-machine';
 import { FaInfoCircle, FaCar, FaSignOutAlt, FaSearch, FaCog, FaPlayCircle } from 'react-icons/fa';
-
+import {getAuth, signOut} from "firebase/auth";
+import { useNavigate } from 'react-router-dom';
 
 
 
@@ -23,11 +24,24 @@ const MapComponent = () => {
     const [loading, setLoading] = useState(false);
 
     const [sidebarOpen, setSidebarOpen] = useState(true);
+    const auth = getAuth();
+    const navigate = useNavigate();
+
+    const handleLogout = (event) => {       
+    
+        event.preventDefault();
+        signOut(auth).then(() => {
+        // Sign-out successful.
+            navigate("/");
+            console.log("Signed out successfully")
+        }).catch((error) => {
+        // An error happened.
+        });
+    }
 
     const toggleSidebar = () => {
         setSidebarOpen(!sidebarOpen);
     };
-
 
     useEffect(() => {
         if (selectedSpot && mapRef.current) {
@@ -327,7 +341,7 @@ const MapComponent = () => {
                         <li><button onClick={() => { window.location.href = "/Garage"; }}><FaCar /> Garage</button></li>
                         <li><button onClick={() => { window.location.href = "/BrowseCars"; }}><FaSearch /> Browse Cars</button></li> {/* Changed icon to FaSearch */}
                         <li><button onClick={() => { window.location.href = "/"; }}><FaPlayCircle /> Start Driving</button></li> {/* Changed icon to FaSearch */}
-                        <li><button onClick={() => { window.location.href = "/Logout"; }}><FaSignOutAlt /> Logout</button></li>
+                        <li><button onClick={(e) => handleLogout(e)}><FaSignOutAlt /> Logout</button></li>
                     </ul>
                     </div>
                 </div>
