@@ -10,8 +10,8 @@ fake = Faker()
 NUM_ENTRIES = 10000
 def populate_database():
     engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
-    Session = sessionmaker(bind=engine)
-    session = Session()
+    session = sessionmaker(bind=engine)()
+
 
     # Create random users
     users = []
