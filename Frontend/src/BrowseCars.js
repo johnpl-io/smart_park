@@ -2,12 +2,35 @@ import React, { useState, useEffect, useRef } from 'react';
 import './BrowseCars.css';
 import $ from 'jquery';
 import 'jquery-ui/ui/widgets/autocomplete'; 
+import { FaInfoCircle, FaCar, FaSignOutAlt, FaSearch, FaCog, FaPlayCircle } from 'react-icons/fa';
+import {getAuth, signOut} from "firebase/auth";
+import { useNavigate } from 'react-router-dom';
 
 const CarBrowser = () => {
     const [query, setQuery] = useState('');
     const [cars, setCars] = useState([]);
     const [suggestions, setSuggestions] = useState([]);
     const searchRef = useRef(null);
+
+    const [sidebarOpen, setSidebarOpen] = useState(true);
+    const auth = getAuth();
+    const navigate = useNavigate();
+
+    const handleLogout = (event) => {       
+    
+        event.preventDefault();
+        signOut(auth).then(() => {
+        // Sign-out successful.
+            navigate("/");
+            console.log("Signed out successfully")
+        }).catch((error) => {
+        // An error happened.
+        });
+    }
+
+    const toggleSidebar = () => {
+        setSidebarOpen(!sidebarOpen);
+    };
 
     useEffect(() => {
         // Fetch car model names from the backend
@@ -88,6 +111,23 @@ const CarBrowser = () => {
                     </div>
                 ))}
             </div>
+
+            <div className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
+                    <div className="menu">
+                    <ul className="menu-list">
+                        <li><button onClick={() => { window.location.href = "/AboutUs"; }}><FaInfoCircle /> About Us</button></li>
+                        <li><button onClick={() => { window.location.href = "/UserProfile"; }}><FaCog /> Account Settings</button></li> {/* Changed icon to FaCog */}
+                        <li><button onClick={() => { window.location.href = "/Garage"; }}><FaCar /> Garage</button></li>
+                        <li><button onClick={() => { window.location.href = "/BrowseCars"; }}><FaSearch /> Browse Cars</button></li> {/* Changed icon to FaSearch */}
+                        <li><button onClick={() => { window.location.href = "/"; }}><FaPlayCircle /> Start Driving</button></li> {/* Changed icon to FaSearch */}
+                        <li><button onClick={(e) => handleLogout(e)}><FaSignOutAlt /> Logout</button></li>
+                    </ul>
+                    </div>
+            </div>
+            
+            <button className={`toggle-button ${sidebarOpen ? 'open' : ''}`} onClick={toggleSidebar}>
+                <span></span>
+            </button>
         </div>
     );
 };
