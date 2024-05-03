@@ -1,0 +1,4811 @@
+{ "brand_name" : "MITSUBISHI", "models": [
+{
+     "model_name": "2023 Mitsubishi ASX",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 999,
+               "Power": "66.9 KW @ 4600 RPM\n91 HP @ 4600 RPM\n90 BHP @ 4600 RPM",
+               "Torque": "118 lb-ft @ 2000-3750 RPM\n160 Nm @ 2000-3750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 104,
+               "Acceleration 0-62 Mph (0-100 kph)": 14
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 166.4,
+               "Width": 70.7,
+               "Height": 62.4,
+               "Front/rear Track": "61.4/60.9 in (1,560/1,547 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 13.4,
+               "Turning circle": 36.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2776,
+               "Gross Weight Limit": 3823
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 3.5,
+               "Range": 29.8
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "35.1 mpg US (6.7 L/100Km)",
+               "Medium": "44.4 mpg US (5.3 L/100Km)",
+               "High": "48 mpg US (4.9 L/100Km)",
+               "Extra high": "37.9 mpg US (6.2 L/100Km)",
+               "Combined": 41.3,
+               "CO2 Emissions (Combined)": "129 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2020 Mitsubishi ASX",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "110.3 KW @ 6000 RPM\n150 HP @ 6000 RPM\n148 BHP @ 6000 RPM",
+               "Torque": "144 lb-ft @ 4200 RPM\n195 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 117,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 171.9,
+               "Width": 69.7,
+               "Height": 64.6,
+               "Front/rear Track": "60/60.2 in (1,524/1,529 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 7.5,
+               "Cargo Volume": 14.3,
+               "Turning circle (curb to curb)": "34.8 ft (10.6 m)"
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI ASX / RVR / Outlander Sport 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1590,
+               "Power": "86.1 KW @ 6000 RPM\n117 HP @ 6000 RPM\n115 BHP @ 6000 RPM",
+               "Torque": "114 lb-ft @ 4000 RPM\n154 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R 18 V"
+          },
+          "DIMENSIONS": {
+               "Length": 171.5,
+               "Width": 71.3,
+               "Height": 64.6,
+               "Front/rear Track": "60.8/60.8 in (1,544/1,544 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 14.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2778,
+               "Gross Weight Limit": 4123
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 34.1,
+               "Highway": 48,
+               "Combined": 41.3,
+               "CO2 Emissions": 131
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI ASX / RVR / Outlander Sport 2012-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1590,
+               "Power": "86.1 KW @ 6000 RPM\n117 HP @ 6000 RPM\n115 BHP @ 6000 RPM",
+               "Torque": "114 lb-ft @ 4000 RPM\n154 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65 R16 98H"
+          },
+          "DIMENSIONS": {
+               "Length": 169.1,
+               "Width": 69.7,
+               "Height": 63.6,
+               "Front/rear Track": "60/60.4 in (1,524/1,534 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 14.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2778,
+               "Gross Weight Limit": 4123
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.5,
+               "Highway": 48,
+               "Combined": 39.2,
+               "CO2 Emissions": 137
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI ASX / RVR / Outlander Sport 2010-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1590,
+               "Power": "85 KW @ 6000 RPM\n116 HP @ 6000 RPM\n114 BHP @ 6000 RPM",
+               "Torque": "112 lb-ft @ 4000 RPM\n152 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 113.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 169.1,
+               "Width": 69.9,
+               "Height": 63.6,
+               "Front/rear Track": "60/60 in (1,524/1,524 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 14.7,
+               "Aerodynamics (Cd)": 0.32,
+               "Turning circle": 34.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2800,
+               "Gross Weight Limit": 4123
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.1,
+               "Highway": 47,
+               "Combined": 39.2,
+               "CO2 Emissions": 139
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Outlander 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2488,
+               "Power": "133.1 KW @ 6000 RPM\n181 HP @ 6000 RPM\n178 BHP @ 6000 RPM",
+               "Torque": "181 lb-ft @ 3600 RPM\n245 Nm @ 3600 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "CVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/60/R18"
+          },
+          "DIMENSIONS": {
+               "Length": 185.4,
+               "Width": 74.7,
+               "Height": 68.7,
+               "Front/rear Track": "62.7/63.1 in (1,593/1,603 mm)",
+               "Wheelbase": 106.5,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 11.7,
+               "Turning circle": 36.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3594,
+               "Gross Weight Limit": 5192
+          },
+          "": {}
+     }
+},{
+     "model_name": "2016 Mitsubishi Outlander / Airtrek",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2360,
+               "Power": "124 KW @ 6000 RPM\n169 HP @ 6000 RPM\n166 BHP @ 6000 RPM",
+               "Torque": "162 lb-ft @ 4200 RPM\n220 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "CVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 184.8,
+               "Width": 71.3,
+               "Height": 66.1,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 10.3,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3318,
+               "Gross Weight Limit": 4795
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Outlander PHEV 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "89 KW @ 4500 RPM\n121 HP @ 4500 RPM\n119 BHP @ 4500 RPM",
+               "Torque": "140 lb-ft @ 4500 RPM\n190 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "CVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55R18"
+          },
+          "DIMENSIONS": {
+               "Length": 184.8,
+               "Width": 70.9,
+               "Height": 67.3,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 16.4,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4068,
+               "Gross Weight Limit": 5159
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 130.7,
+               "CO2 Emissions": 42
+          },
+          "NOTES": {
+               "Plug-in Hybrid System\nFront electric motor power": "60 kW (82 HP)\nFront electric motor torque: 137 Nm (101 lb-ft)\nRear electric motor power: 60 kW (82 HP)\nRear electric motor torque: 195 Nm (144 lb-ft)\nTotal system power: 149 kW (203 HP)\n\nBattery: Lithium-ion 300 V 12 kWh\nCharging time: regular - 5 hours; quick 30 min (up to 80% capacity)\n\nEV driving range: 52 km (32 miles)"
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Outlander 2012-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "110 KW @ 6000 RPM\n150 HP @ 6000 RPM\n148 BHP @ 6000 RPM",
+               "Torque": "144 lb-ft @ 4100-4250 RPM\n195 Nm @ 4100-4250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215 / 70 R 16"
+          },
+          "DIMENSIONS": {
+               "Length": 182.8,
+               "Width": 70.9,
+               "Height": 66.1,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 19.4,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3439,
+               "Gross Weight Limit": 4564
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 29,
+               "Highway": 41,
+               "Combined": 36,
+               "CO2 Emissions": 150
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Outlander/Airtrek 2007-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2359,
+               "Power": "125 KW @ 6000 RPM\n170 HP @ 6000 RPM\n168 BHP @ 6000 RPM",
+               "Torque": "167 lb-ft @ 4100 RPM\n226 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "CVT Gearbox"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70R16"
+          },
+          "DIMENSIONS": {
+               "Length": 182.7,
+               "Width": 70.9,
+               "Height": 66.1,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 27.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3395.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 27.4,
+               "CO2 Emissions": 204
+          },
+          "": {}
+     }
+},{
+     "model_name": "2003 Mitsubishi Outlander / Airtrek",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "100 KW @ 6000 RPM\n136 HP @ 6000 RPM\n134 BHP @ 6000 RPM",
+               "Torque": "130 lb-ft @ 4500 RPM\n176 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 119,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60R16"
+          },
+          "DIMENSIONS": {
+               "Length": 178.7,
+               "Width": 68.9,
+               "Height": 63.8,
+               "Front/rear Track": "59/59 in (1,499/1,499 mm)",
+               "Wheelbase": 103.1,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 14.2,
+               "Aerodynamics (Cd)": 0.43
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3108.5,
+               "Gross Weight Limit": 4343.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.4,
+               "Highway": 31.8,
+               "Combined": 25.8,
+               "CO2 Emissions": 215
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Eclipse Cross 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "CVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Eclipse Cross 2017-2021",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "119.9 KW @ - RPM\n163 HP @ - RPM\n161 BHP @ - RPM",
+               "Torque": "184 lb-ft @ - RPM\n250 Nm @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28.7,
+               "Highway": 41.3,
+               "Combined": 35.6,
+               "CO2 Emissions": 151
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Mirage 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1193,
+               "Power": "57.4 KW @ 6000 RPM\n78 HP @ 6000 RPM\n77 BHP @ 6000 RPM",
+               "Torque": "74 lb-ft @ 4000 RPM\n100 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 9.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/65 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 151.4,
+               "Width": 301.8,
+               "Height": 177.4,
+               "Front/rear Track": "56.3/55.7 in (1,430/1,415 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 6.2,
+               "Turning circle (curb to curb)": "30.2 ft (9.2 m)",
+               "Turning circle (wall to wall)": "32.1 ft (9.8 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1929,
+               "Gross Weight Limit": 2954
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "CO2 Emissions": 105
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Mirage GT 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1193,
+               "Power": "57.4 KW @ 6000 RPM\n78 HP @ 6000 RPM\n77 BHP @ 6000 RPM",
+               "Torque": "74 lb-ft @ 4000 RPM\n100 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/65 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 149.4,
+               "Width": 65.6,
+               "Height": 59.4,
+               "Front/rear Track": "56.3/55.7 in (1,430/1,415 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 17.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2017,
+               "Gross Weight Limit": 2910
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 33.1,
+               "Highway": 41.3,
+               "Combined": 36.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Mirage 2012-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 999,
+               "Power": "51 KW @ 6000 RPM\n69 HP @ 6000 RPM\n68 BHP @ 6000 RPM",
+               "Torque": "63 lb-ft @ 5000 RPM\n85 Nm @ 5000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "CVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/65R14"
+          },
+          "DIMENSIONS": {
+               "Length": 146.1,
+               "Width": 65.6,
+               "Height": 58.7,
+               "Front/rear Track": "56.3/55.7 in (1,430/1,415 mm)",
+               "Wheelbase": 2450,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 17.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1896
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 65
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Mirage G4 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1193,
+               "Power": "56.7 KW @ 6000 RPM\n77.1 HP @ 6000 RPM\n76 BHP @ 6000 RPM",
+               "Torque": "74 lb-ft @ 4000 RPM\n100 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 107,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 167.1,
+               "Width": 65.7,
+               "Height": 59.6,
+               "Front/rear Track": "56.9/56.3 in (1,445/1,430 mm)",
+               "Wheelbase": 100.4,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 16,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1918,
+               "Gross Weight Limit": 2888
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 51.1,
+               "CO2 Emissions": 96
+          },
+          "": {}
+     }
+},{
+     "model_name": "2015 Mitsubishi Mirage G4/Attrage",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1193,
+               "Power": "56.7 KW @ 6000 RPM\n77.1 HP @ 6000 RPM\n76 BHP @ 6000 RPM",
+               "Torque": "74 lb-ft @ 4000 RPM\n100 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 107,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 167.1,
+               "Width": 65.7,
+               "Height": 59.6,
+               "Front/rear Track": "56.9/56.3 in (1,445/1,430 mm)",
+               "Wheelbase": 100.4,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1918,
+               "Gross Weight Limit": 2877
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 33.6,
+               "Highway": 42.8,
+               "Combined": 36.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Lancer 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "108.9 KW @ 6000 RPM\n148 HP @ 6000 RPM\n146 BHP @ 6000 RPM",
+               "Torque": "107 lb-ft @ 4200 RPM\n145 Nm @ 4200 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 182.1,
+               "Width": 69.4,
+               "Height": 58.3,
+               "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 12.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2888,
+               "Gross Weight Limit": 3969
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Ralliart 2008-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "177 KW @ 6000 RPM\n240 HP @ 6000 RPM\n237 BHP @ 6000 RPM",
+               "Torque": "253 lb-ft @ 2500-4750 RPM\n343 Nm @ 2500-4750 RPM",
+               "Fuel System": "Turbocharged direct injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 1780,
+               "Width": 69.3,
+               "Height": 58.7,
+               "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 10,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3462,
+               "Gross Weight Limit": 4388
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 25,
+               "Combined": 23.5,
+               "CO2 Emissions": 243
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Lancer 2007-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1499,
+               "Power": "80 KW @ 6000 RPM\n109 HP @ 6000 RPM\n107 BHP @ 6000 RPM",
+               "Torque": "105 lb-ft @ 4000 RPM\n142 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 179.9,
+               "Width": 69.3,
+               "Height": 58.7,
+               "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 12.3,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2657,
+               "Gross Weight Limit": 3858
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26.4,
+               "Highway": 39.2,
+               "Combined": 33.6,
+               "CO2 Emissions": 168
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Lancer 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1299,
+               "Power": "60 KW @ 5000 RPM\n82 HP @ 5000 RPM\n80 BHP @ 5000 RPM",
+               "Torque": "89 lb-ft @ 4000 RPM\n121 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60 R15S"
+          },
+          "DIMENSIONS": {
+               "Length": 176.4,
+               "Width": 66.7,
+               "Height": 56.9,
+               "Front/rear Track": "57.9/57.9 in (1,471/1,471 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2734.2,
+               "Gross Weight Limit": 3858.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27.7,
+               "Highway": 44.4,
+               "Combined": 36.2,
+               "CO2 Emissions": 155
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Lancer 2000-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1468,
+               "Power": "66 KW @ 5250 RPM\n90 HP @ 5250 RPM\n89 BHP @ 5250 RPM",
+               "Torque": "98 lb-ft @ 3750 RPM\n133 Nm @ 3750 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65R14"
+          },
+          "DIMENSIONS": {
+               "Length": 171.7,
+               "Width": 66.7,
+               "Height": 56.5,
+               "Front/rear Track": "56.5/57.9 in (1,435/1,471 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2381
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 38.6,
+               "CO2 Emissions": 145
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Lancer 1994-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1299,
+               "Power": "55 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+               "Torque": "80 lb-ft @ 3000 RPM\n108 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 13
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155 R13S"
+          },
+          "DIMENSIONS": {
+               "Length": 168.5,
+               "Width": 66.1,
+               "Height": 54.3,
+               "Front/rear Track": "57.1/57.5 in (1,450/1,461 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 13.2,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2083.4,
+               "Gross Weight Limit": 3086.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 33.6,
+               "CO2 Emissions": 167
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Lancer 1988-1993",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1298,
+               "Power": "51 KW @ 6000 RPM\n69 HP @ 6000 RPM\n68 BHP @ 6000 RPM",
+               "Torque": "75 lb-ft @ 4000 RPM\n102 Nm @ 4000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 101,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 166.9,
+               "Width": 65.7,
+               "Height": 55.1,
+               "Front/rear Track": "56.3/56.3 in (1,430/1,430 mm)",
+               "Wheelbase": 96.8,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 11.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2083.4,
+               "Gross Weight Limit": 3174.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 32.7,
+               "CO2 Emissions": 171
+          },
+          "": {}
+     }
+},{
+     "model_name": "2015 Mitsubishi L200 Double Cab",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2442,
+               "Power": "133 KW @ 3500 RPM\n181 HP @ 3500 RPM\n178 BHP @ 3500 RPM",
+               "Torque": "339 lb-ft @ 2500 RPM\n460 Nm @ 2500 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Diesel",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/65R17"
+          },
+          "DIMENSIONS": {
+               "Length": 204.9,
+               "Width": 71.5,
+               "Height": 70.1,
+               "Front/rear Track": "59.8/59.6 in (1,519/1,514 mm)",
+               "Wheelbase": 118.1,
+               "Ground Clearance": 8.1,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4134,
+               "Gross Weight Limit": 6415
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27.7,
+               "Highway": 36.2,
+               "Combined": 32.7,
+               "CO2 Emissions": 189
+          },
+          "": {}
+     }
+},{
+     "model_name": "2015 Mitsubishi L200 Club Cab",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2442,
+               "Power": "113.3 KW @ 3500 RPM\n154 HP @ 3500 RPM\n152 BHP @ 3500 RPM",
+               "Torque": "280 lb-ft @ 1500-2500 RPM\n380 Nm @ 1500-2500 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Diesel",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/65R17"
+          },
+          "DIMENSIONS": {
+               "Length": 204.5,
+               "Width": 70.3,
+               "Height": 70.1,
+               "Front/rear Track": "59.8/59.6 in (1,519/1,514 mm)",
+               "Wheelbase": 118.1,
+               "Ground Clearance": 7.9,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3979,
+               "Gross Weight Limit": 6261
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 36.8,
+               "CO2 Emissions": 169
+          },
+          "": {}
+     }
+},{
+     "model_name": "2005 Mitsubishi L200/Triton Double Cab",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3496,
+               "Power": "131 KW @ 4750 RPM\n178 HP @ 4750 RPM\n176 BHP @ 4750 RPM",
+               "Torque": "218 lb-ft @ 3500 RPM\n295 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 201.2,
+               "Width": 70.9,
+               "Height": 73.6,
+               "Front/rear Track": "59.8/59.6 in (1,519/1,514 mm)",
+               "Wheelbase": 118.1,
+               "Ground Clearance": 8.1,
+               "Aerodynamics (Cd)": 0.46
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4057,
+               "Gross Weight Limit": 5545
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 18.4,
+               "CO2 Emissions": 304
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI L 200/Triton Crew Cab 2005-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2477,
+               "Power": "103 KW @ 4000 RPM\n140 HP @ 4000 RPM\n138 BHP @ 4000 RPM",
+               "Torque": "237 lb-ft @ 2000 RPM\n321 Nm @ 2000 RPM",
+               "Fuel System": "Common Rail",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 81
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 201.2,
+               "Width": 70.9,
+               "Height": 73.6,
+               "Front/rear Track": "59.8/59.6 in (1,519/1,514 mm)",
+               "Wheelbase": 118.1,
+               "Ground Clearance": 7.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3980
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI L 200/Triton Single Cab 2005-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2477,
+               "Power": "100 KW @ 4000 RPM\n136 HP @ 4000 RPM\n134 BHP @ 4000 RPM",
+               "Torque": "232 lb-ft @ 2000 RPM\n314 Nm @ 2000 RPM",
+               "Fuel System": "Common Rail",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 103.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/80 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 198,
+               "Width": 68.9,
+               "Height": 65.2,
+               "Front/rear Track": "59.3/59.1 in (1,506/1,501 mm)",
+               "Wheelbase": 118.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3902.8,
+               "Gross Weight Limit": 6284.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 31.8,
+               "Combined": 27.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI L200 Crew Cab 1995-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2351,
+               "Power": "97 KW @ 5250 RPM\n132 HP @ 5250 RPM\n130 BHP @ 5250 RPM",
+               "Torque": "142 lb-ft @ 4000 RPM\n192 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185 R14C"
+          },
+          "DIMENSIONS": {
+               "Length": 201.8,
+               "Width": 69.9,
+               "Height": 70.7,
+               "Front/rear Track": "57.7/58.3 in (1,466/1,481 mm)",
+               "Wheelbase": 116.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3042.9,
+               "Gross Weight Limit": 5380.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI L200 Double Cab 1995-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "90 KW @ 5750 RPM\n122 HP @ 5750 RPM\n121 BHP @ 5750 RPM",
+               "Torque": "122 lb-ft @ 4000 RPM\n165 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195 R15C"
+          },
+          "DIMENSIONS": {
+               "Length": 193.7,
+               "Width": 66.7,
+               "Height": 63.4,
+               "Front/rear Track": "55.9/56.5 in (1,420/1,435 mm)",
+               "Wheelbase": 116.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2998.8,
+               "Gross Weight Limit": 5490.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI L200 Single Cab 1995-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2477,
+               "Power": "66 KW @ 4000 RPM\n90 HP @ 4000 RPM\n89 BHP @ 4000 RPM",
+               "Torque": "145 lb-ft @ 2000 RPM\n197 Nm @ 2000 RPM",
+               "Fuel System": "Indirect Injection",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 91,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 197.2,
+               "Width": 66.7,
+               "Height": 62.4,
+               "Front/rear Track": "57.1/56.5 in (1,450/1,435 mm)",
+               "Wheelbase": 116.1,
+               "Ground Clearance": 8.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3109,
+               "Gross Weight Limit": 5666
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.5,
+               "Highway": 25,
+               "Combined": 22.2
+          }
+     }
+},{
+     "model_name": "2024 Mitsubishi Colt",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 1.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Colt Ralliart 5 Doors 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1468,
+               "Power": "110 KW @ 6000 RPM\n150 HP @ 6000 RPM\n148 BHP @ 6000 RPM",
+               "Torque": "155 lb-ft @ 3500 RPM\n210 Nm @ 3500 RPM",
+               "Fuel System": "Turbocharged multipoint injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/45 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 151.2,
+               "Width": 66.7,
+               "Height": 61,
+               "Front/rear Track": "57.5/56.9 in (1,461/1,445 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 7.5,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2403,
+               "Gross Weight Limit": 3417
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27.3,
+               "Highway": 41.2,
+               "Combined": 34,
+               "CO2 Emissions": 161
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Colt 5 Doors 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1124,
+               "Power": "55 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+               "Torque": "74 lb-ft @ 4000 RPM\n100 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 103,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 155.1,
+               "Width": 66.7,
+               "Height": 61,
+               "Front/rear Track": "57.5/56.8 in (1,461/1,443 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 6,
+               "Cargo Volume": 6.5,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2128,
+               "Gross Weight Limit": 3197
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 33.6,
+               "Highway": 51.1,
+               "Combined": 42.7,
+               "CO2 Emissions": 130
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Colt 5 Doors 2004-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1124,
+               "Power": "55 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+               "Torque": "74 lb-ft @ 4000 RPM\n100 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 103,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 152.4,
+               "Width": 66.9,
+               "Height": 62,
+               "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 7.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2072.3,
+               "Gross Weight Limit": 3196.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 33.6,
+               "Highway": 51.1,
+               "Combined": 42.8,
+               "CO2 Emissions": 130
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Sportback 2008-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1590,
+               "Power": "86 KW @ 6000 RPM\n117 HP @ 6000 RPM\n115 BHP @ 6000 RPM",
+               "Torque": "114 lb-ft @ 4000 RPM\n155 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 117,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 180.5,
+               "Width": 69.3,
+               "Height": 59.6,
+               "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 10.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2866
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.2,
+               "Highway": 49,
+               "Combined": 39.9,
+               "CO2 Emissions": 137
+          },
+          "": {}
+     }
+},{
+     "model_name": "2010 Lancer Sportback Ralliart",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "177 KW @ 6000 RPM\n240 HP @ 6000 RPM\n237 BHP @ 6000 RPM",
+               "Torque": "253 lb-ft @ 2500-4725 RPM\n343 Nm @ 2500-4725 RPM",
+               "Fuel System": "Turbocharged direct injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 136.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 180.5,
+               "Width": 69.2,
+               "Height": 59.6,
+               "Front/rear Track": "0.9/0.8 in (23/20 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 13.8,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3516,
+               "Gross Weight Limit": 4508
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 29,
+               "Highway": 16.9,
+               "Combined": 23,
+               "CO2 Emissions": 243
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Hatchback 1988-1993",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1299,
+               "Power": "55.2 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+               "Torque": "75 lb-ft @ 4000 RPM\n102 Nm @ 4000 RPM",
+               "Fuel System": "Carburettor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 101,
+               "Acceleration 0-62 Mph (0-100 kph)": 16.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/80/R13"
+          },
+          "DIMENSIONS": {
+               "Length": 166.9,
+               "Width": 65.7,
+               "Height": 55.1,
+               "Front/rear Track": "56.3/56.3 in (1,430/1,430 mm)",
+               "Wheelbase": 96.8,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 11.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2380.1,
+               "Gross Weight Limit": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26.1,
+               "Highway": 39.2,
+               "Combined": 39.9,
+               "CO2 Emissions": 156
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Pajero/Montero/Shogun 2006-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3828,
+               "Power": "184 KW @ 6000 RPM\n250 HP @ 6000 RPM\n247 BHP @ 6000 RPM",
+               "Torque": "243 lb-ft @ 2750 RPM\n329 Nm @ 2750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/60R18"
+          },
+          "DIMENSIONS": {
+               "Length": 192.9,
+               "Width": 74,
+               "Height": 73.6,
+               "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
+               "Wheelbase": 109.4,
+               "Ground Clearance": 8.8,
+               "Cargo Volume": 14.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4883.2,
+               "Gross Weight Limit": 6415.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.3,
+               "Highway": 21,
+               "Combined": 17.4,
+               "CO2 Emissions": 324
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Pajero/Montero/Shogun Sport 2004-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2972,
+               "Power": "125 KW @ 5000 RPM\n170 HP @ 5000 RPM\n168 BHP @ 5000 RPM",
+               "Torque": "188 lb-ft @ 4500 RPM\n255 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Automatic, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 181.5,
+               "Width": 66.9,
+               "Height": 67.7,
+               "Front/rear Track": "55.9/56.7 in (1,420/1,440 mm)",
+               "Wheelbase": 107.1,
+               "Cargo Volume": 17.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4056.5,
+               "Gross Weight Limit": 5533.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.4,
+               "Highway": 21.6,
+               "Combined": 17.7,
+               "CO2 Emissions": 310
+          },
+          "": {}
+     }
+},{
+     "model_name": "2003 Mitsubishi Pajero/Montero/Shogun 5-doors",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3497,
+               "Power": "149 KW @ 5000 RPM\n202 HP @ 5000 RPM\n200 BHP @ 5000 RPM",
+               "Torque": "235 lb-ft @ 4000 RPM\n318 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Automatic, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/70R16"
+          },
+          "DIMENSIONS": {
+               "Length": 190.1,
+               "Width": 74.8,
+               "Height": 73.2,
+               "Front/rear Track": "61.4/61.4 in (1,560/1,560 mm)",
+               "Wheelbase": 109.4,
+               "Ground Clearance": 8.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4651.7,
+               "Gross Weight Limit": 6084.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.5,
+               "Highway": 21.6,
+               "Combined": 17,
+               "CO2 Emissions": 331
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Pajero/Montero/Shogun LWB 2000-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3497,
+               "Power": "149 KW @ 5000 RPM\n202 HP @ 5000 RPM\n200 BHP @ 5000 RPM",
+               "Torque": "235 lb-ft @ 4000 RPM\n319 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/70R16"
+          },
+          "DIMENSIONS": {
+               "Length": 192.9,
+               "Width": 74,
+               "Height": 73.6,
+               "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
+               "Wheelbase": 109.4,
+               "Ground Clearance": 8.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4376.2,
+               "Gross Weight Limit": 6084.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.5,
+               "Highway": 21.8,
+               "Combined": 17.8,
+               "CO2 Emissions": 315
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Pajero 5 Doors 1992-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2972,
+               "Power": "110 KW @ 5000 RPM\n150 HP @ 5000 RPM\n148 BHP @ 5000 RPM",
+               "Torque": "174 lb-ft @ 4000 RPM\n236 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 102.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/70 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 185.8,
+               "Width": 70.1,
+               "Height": 73.6,
+               "Front/rear Track": "57.5/58.3 in (1,461/1,481 mm)",
+               "Wheelbase": 107.1,
+               "Ground Clearance": 8.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4277,
+               "Gross Weight Limit": 5842.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.2,
+               "Highway": 22.2,
+               "Combined": 16.8,
+               "CO2 Emissions": 333
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Pajero Wagon 1986-1990",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2477,
+               "Power": "62 KW @ 4200 RPM\n84 HP @ 4200 RPM\n83 BHP @ 4200 RPM",
+               "Torque": "148 lb-ft @ 2000 RPM\n201 Nm @ 2000 RPM",
+               "Fuel System": "Indirect Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 83.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 23
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205SR16"
+          },
+          "DIMENSIONS": {
+               "Length": 181.1,
+               "Width": 66.1,
+               "Height": 76.4,
+               "Front/rear Track": "55.1/54.3 in (1,400/1,379 mm)",
+               "Wheelbase": 106.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3836,
+               "Gross Weight Limit": 5401.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 20.1,
+               "CO2 Emissions": 278
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Pajero 5 Doors 1983-1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2972,
+               "Power": "104 KW @ 5000 RPM\n141 HP @ 5000 RPM\n139 BHP @ 5000 RPM",
+               "Torque": "166 lb-ft @ 3000 RPM\n225 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 98,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205SR16"
+          },
+          "DIMENSIONS": {
+               "Length": 181.1,
+               "Width": 66.14,
+               "Height": 74.01,
+               "Front/rear Track": "55.11/55.9 in (1,400/1,420 mm)",
+               "Wheelbase": 106.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4034.4,
+               "Gross Weight Limit": 5511.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 17.2,
+               "CO2 Emissions": 325
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Pajero/Montero/Shogun 3 doors 2006-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3828,
+               "Power": "184 KW @ 6000 RPM\n250 HP @ 6000 RPM\n247 BHP @ 6000 RPM",
+               "Torque": "243 lb-ft @ 2750 RPM\n329 Nm @ 2750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 10
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Automatic, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/65R17"
+          },
+          "DIMENSIONS": {
+               "Length": 172.44,
+               "Width": 74.01,
+               "Height": 72.83,
+               "Front/rear Track": "61.41/61.41 in (1,560/1,560 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 8.8,
+               "Cargo Volume": 14.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4477,
+               "Gross Weight Limit": 5566
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.3,
+               "Highway": 21.8,
+               "Combined": 17.5,
+               "CO2 Emissions": 324
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Pajero/Montero/Shogun SWB 2003-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3497,
+               "Power": "149 KW @ 5000 RPM\n203 HP @ 5000 RPM\n200 BHP @ 5000 RPM",
+               "Torque": "235 lb-ft @ 4000 RPM\n318 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/70R16"
+          },
+          "DIMENSIONS": {
+               "Length": 170.1,
+               "Width": 74.8,
+               "Height": 72.4,
+               "Front/rear Track": "61.41/61.41 in (1,560/1,560 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 8.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4299,
+               "Gross Weight Limit": 5533.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.5,
+               "Highway": 21.6,
+               "Combined": 17,
+               "CO2 Emissions": 331
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Pajero/Montero/Shogun SWB 2000-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3497,
+               "Power": "149 KW @ 5000 RPM\n202 HP @ 5000 RPM\n200 BHP @ 5000 RPM",
+               "Torque": "235 lb-ft @ 4000 RPM\n319 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 10
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 172.4,
+               "Width": 74,
+               "Height": 72.8,
+               "Front/rear Track": "61.4/61.4 in (1,560/1,560 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 8.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4078.5,
+               "Gross Weight Limit": 5533.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.5,
+               "Highway": 21.8,
+               "Combined": 17.8,
+               "CO2 Emissions": 315
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Pajero 3 Doors 1992-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2972,
+               "Power": "133 KW @ 5500 RPM\n181 HP @ 5500 RPM\n178 BHP @ 5500 RPM",
+               "Torque": "188 lb-ft @ 4500 RPM\n255 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/70R15"
+          },
+          "DIMENSIONS": {
+               "Length": 163,
+               "Width": 70.1,
+               "Height": 71.6,
+               "Front/rear Track": "57.5/58.3 in (1,461/1,481 mm)",
+               "Wheelbase": 95.3,
+               "Ground Clearance": 8.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3946.3,
+               "Gross Weight Limit": 5180.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 17.8,
+               "CO2 Emissions": 314
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Pajero 3 Doors 1982-1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2972,
+               "Power": "104 KW @ 5000 RPM\n141 HP @ 5000 RPM\n139 BHP @ 5000 RPM",
+               "Torque": "166 lb-ft @ 3000 RPM\n225 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215SR15"
+          },
+          "DIMENSIONS": {
+               "Length": 157.5,
+               "Width": 66.1,
+               "Height": 72.8,
+               "Front/rear Track": "55.1/55.9 in (1,400/1,420 mm)",
+               "Wheelbase": 92.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3637.6,
+               "Gross Weight Limit": 4850.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.6,
+               "Highway": 23.5,
+               "Combined": 17.3,
+               "CO2 Emissions": 323
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Space Star 2013-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "3",
+               "Displacement": 999,
+               "Power": "52 KW @ 6000 RPM\n71 HP @ 6000 RPM\n70 BHP @ 6000 RPM",
+               "Torque": "65 lb-ft @ 5000 RPM\n88 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 9.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 107,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5 speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165 / 65 R 14"
+          },
+          "DIMENSIONS": {
+               "Length": 146.1,
+               "Width": 65.6,
+               "Height": 58.7,
+               "Front/rear Track": "56.3/55.7 in (1,430/1,415 mm)",
+               "Wheelbase": 96.5,
+               "Cargo Volume": 8.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1863,
+               "Gross Weight Limit": 2844
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 47,
+               "Highway": 65.3,
+               "Combined": 56,
+               "CO2 Emissions": 96
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Space Star 2002-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1299,
+               "Power": "63 KW @ 6000 RPM\n86 HP @ 6000 RPM\n84 BHP @ 6000 RPM",
+               "Torque": "86 lb-ft @ 3000 RPM\n117 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65R14"
+          },
+          "DIMENSIONS": {
+               "Length": 159.4,
+               "Width": 67.5,
+               "Height": 59.6,
+               "Front/rear Track": "58.1/57.9 in (1,476/1,471 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 13.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2502.2,
+               "Gross Weight Limit": 3648.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26.1,
+               "Highway": 42,
+               "Combined": 34.6,
+               "CO2 Emissions": 162
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Pajero Pinin / Shogun Pinin / Montero iO LWB 2001-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1834,
+               "Torque": "118 lb-ft @ 4000 RPM\n160 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 96,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65 R16S"
+          },
+          "DIMENSIONS": {
+               "Length": 159,
+               "Width": 66.9,
+               "Height": 66.9,
+               "Front/rear Track": "56.7/56.7 in (1,440/1,440 mm)",
+               "Wheelbase": 96.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3009.3,
+               "Gross Weight Limit": 4166.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.3,
+               "Highway": 29.8,
+               "Combined": 25.3,
+               "CO2 Emissions": 225
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Pajero Pinin / Shogun Pinin / Montero iO SWB 1998-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1834,
+               "Power": "88 KW @ 5250 RPM\n120 HP @ 5250 RPM\n118 BHP @ 5250 RPM",
+               "Torque": "128 lb-ft @ 3500 RPM\n174 Nm @ 3500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 104.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65SR16"
+          },
+          "DIMENSIONS": {
+               "Length": 147.2,
+               "Width": 66.9,
+               "Height": 66.9,
+               "Front/rear Track": "56.7/56.7 in (1,440/1,440 mm)",
+               "Wheelbase": 89.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2777.8,
+               "Gross Weight Limit": 3725.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 30.1,
+               "Combined": 26.1,
+               "CO2 Emissions": 217
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI i-MiEV 2009-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Power": "49 KW @ 3000-6000 RPM\n67 HP @ 3000-6000 RPM\n66 BHP @ 3000-6000 RPM",
+               "Torque": "145 lb-ft @ 0-300 RPM\n197 Nm @ 0-300 RPM",
+               "Fuel System": "Electricity",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 81,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "ingle speed, Fixed reduction gear"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "145/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 144.7,
+               "Width": 73.8,
+               "Height": 63.6,
+               "Front/rear Track": "55.9/54.3 in (1,420/1,379 mm)",
+               "Wheelbase": 100.4,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 13.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2579,
+               "Gross Weight Limit": 3329
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 99,
+               "Highway": 126,
+               "Combined": 112
+          },
+          "NOTES": {
+               "Range Combined (EPA official label)": "62 miles\nRange City (EPA LA4 city unadjusted): 98 miles"
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Attrage 2013-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 1193,
+               "Power": "57 KW @ 6000 RPM\n78 HP @ 6000 RPM\n76 BHP @ 6000 RPM",
+               "Torque": "78 lb-ft @ 4000 RPM\n106 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 107
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5 speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 167.1,
+               "Width": 65.7,
+               "Height": 59.6,
+               "Front/rear Track": "56.9/56.3 in (1,445/1,430 mm)",
+               "Wheelbase": 100.4,
+               "Ground Clearance": 6.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1918,
+               "Gross Weight Limit": 2877
+          },
+          "": {}
+     }
+},{
+     "model_name": "1994 Mitsubishi 3000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "6",
+               "Displacement": 2972,
+               "Power": "166 KW @ 6000 RPM\n226 HP @ 6000 RPM\n223 BHP @ 6000 RPM",
+               "Torque": "204 lb-ft @ 4500 RPM\n277 Nm @ 4500 RPM",
+               "Fuel System": "Turbocharged ECI-Mitsu fuel injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic/ 5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 178.9,
+               "Width": 72.4,
+               "Height": 49.5,
+               "Front/rear Track": "61.4/62.2 in (1,560/1,580 mm)",
+               "Wheelbase": 97.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3790
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI 3000 GT 1994-2001",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2972,
+               "Power": "210.4 KW @ 6000 RPM\n286 HP @ 6000 RPM\n282 BHP @ 6000 RPM",
+               "Torque": "300 lb-ft @ 3000 RPM\n407 Nm @ 3000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55VR16"
+          },
+          "DIMENSIONS": {
+               "Length": 179.7,
+               "Width": 72.4,
+               "Height": 49,
+               "Front/rear Track": "61.4/62.2 in (1,560/1,580 mm)",
+               "Wheelbase": 97.2,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 11,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3814,
+               "Gross Weight Limit": 4674
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.6,
+               "Highway": 22,
+               "Combined": 21.2,
+               "CO2 Emissions": 311
+          }
+     }
+},{
+     "model_name": "MITSUBISHI 3000 GT 1990-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2972,
+               "Power": "221 KW @ 6000 RPM\n300 HP @ 6000 RPM\n296 BHP @ 6000 RPM",
+               "Torque": "306 lb-ft @ 2500 RPM\n415 Nm @ 2500 RPM",
+               "Fuel System": "Turbocharged ECI-Mitsu fuel injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 159,
+               "Acceleration 0-62 Mph (0-100 kph)": 6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 178.9,
+               "Width": 72.4,
+               "Height": 49.5,
+               "Front/rear Track": "61.4/62.2 in (1,560/1,580 mm)",
+               "Wheelbase": 97.2,
+               "Cargo Volume": 5.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3803
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI 3000 GT 1990-1993",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2972,
+               "Power": "165 KW @ 6000 RPM\n224 HP @ 6000 RPM\n221 BHP @ 6000 RPM",
+               "Torque": "201 lb-ft @ 4500 RPM\n273 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 179.5,
+               "Width": 72.4,
+               "Height": 50.4,
+               "Front/rear Track": "61.4/62.2 in (1,560/1,580 mm)",
+               "Wheelbase": 97.2,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3197
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.7,
+               "Highway": 26.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Carisma Sedan 1995-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1597,
+               "Power": "66 KW @ 5500 RPM\n90 HP @ 5500 RPM\n89 BHP @ 5500 RPM",
+               "Torque": "101 lb-ft @ 4000 RPM\n137 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4 speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65R14"
+          },
+          "DIMENSIONS": {
+               "Length": 174.6,
+               "Width": 66.7,
+               "Height": 55.3,
+               "Wheelbase": 98.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2502
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Colt Ralliart 3 Doors 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1468,
+               "Power": "110 KW @ 6000 RPM\n150 HP @ 6000 RPM\n148 BHP @ 6000 RPM",
+               "Torque": "155 lb-ft @ 3500 RPM\n210 Nm @ 3500 RPM",
+               "Fuel System": "Turbocharged direct injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/45 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 152.7,
+               "Width": 66.7,
+               "Height": 59.8,
+               "Front/rear Track": "57.5/56.9 in (1,461/1,445 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 5.9,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2337,
+               "Gross Weight Limit": 3417
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27.3,
+               "Highway": 41.2,
+               "Combined": 34,
+               "CO2 Emissions": 161
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Colt 3 Doors 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1124,
+               "Power": "55 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+               "Torque": "74 lb-ft @ 4000 RPM\n100 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 102.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/50 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 152.7,
+               "Width": 66.7,
+               "Height": 59.8,
+               "Front/rear Track": "57.5/56.9 in (1,461/1,445 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 6,
+               "Cargo Volume": 7.8,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2237.7,
+               "Gross Weight Limit": 3142
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 39.8,
+               "Highway": 54.7,
+               "Combined": 48,
+               "CO2 Emissions": 115
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Colt CZT 2005-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1468,
+               "Power": "110 KW @ 6000 RPM\n150 HP @ 6000 RPM\n148 BHP @ 6000 RPM",
+               "Torque": "155 lb-ft @ 3500 RPM\n210 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/45R16"
+          },
+          "DIMENSIONS": {
+               "Length": 150.4,
+               "Width": 66.9,
+               "Height": 59.8,
+               "Front/rear Track": "57.5/56.7 in (1,461/1,440 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 7.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2303.8,
+               "Gross Weight Limit": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27.3,
+               "Highway": 41.3,
+               "Combined": 34.6,
+               "CO2 Emissions": 161
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Colt CZ3 2004-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1124,
+               "Power": "55 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+               "Torque": "74 lb-ft @ 4000 RPM\n100 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 103,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 150,
+               "Width": 66.9,
+               "Height": 59.8,
+               "Front/rear Track": "57.5/56.7 in (1,461/1,440 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 7.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1995.2,
+               "Gross Weight Limit": 3130.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 33.6,
+               "Highway": 51.1,
+               "Combined": 42.8,
+               "CO2 Emissions": 130
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Colt 3 Doors 1996-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1298,
+               "Power": "55 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+               "Torque": "80 lb-ft @ 3000 RPM\n108 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 152.7,
+               "Width": 66.1,
+               "Height": 53.5,
+               "Front/rear Track": "57.1/57.5 in (1,450/1,461 mm)",
+               "Wheelbase": 95.3,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 8.4,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2083,
+               "Gross Weight Limit": 3230
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.2,
+               "Highway": 36.2,
+               "Combined": 29.4,
+               "CO2 Emissions": 188
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Colt 3 Doors 1992-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1299,
+               "Power": "55 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+               "Torque": "80 lb-ft @ 3000 RPM\n108 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155 SR13"
+          },
+          "DIMENSIONS": {
+               "Length": 155.9,
+               "Width": 66.5,
+               "Height": 53.5,
+               "Front/rear Track": "57.1/57.5 in (1,450/1,461 mm)",
+               "Wheelbase": 96.1,
+               "Cargo Volume": 8.5,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1984.2,
+               "Gross Weight Limit": 3196.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 34.1,
+               "CO2 Emissions": 164
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Colt 3 Doors 1988-1992",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1299,
+               "Power": "51 KW @ 6000 RPM\n69 HP @ 6000 RPM\n68 BHP @ 6000 RPM",
+               "Torque": "75 lb-ft @ 4000 RPM\n102 Nm @ 4000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 101,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 155.5,
+               "Width": 65.3,
+               "Height": 54.3,
+               "Front/rear Track": "56.3/56.3 in (1,430/1,430 mm)",
+               "Wheelbase": 93.7,
+               "Cargo Volume": 11.1,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2050.3,
+               "Gross Weight Limit": 3174.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 32.7,
+               "CO2 Emissions": 171
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Colt CZC 2006-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1499,
+               "Power": "80 KW @ 6000 RPM\n109 HP @ 6000 RPM\n107 BHP @ 6000 RPM",
+               "Torque": "107 lb-ft @ 4000 RPM\n145 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/50R15"
+          },
+          "DIMENSIONS": {
+               "Length": 152.7,
+               "Width": 66.9,
+               "Height": 57.1,
+               "Front/rear Track": "57.5/56.7 in (1,461/1,440 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 6,
+               "Cargo Volume": 6.7,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2447.1,
+               "Gross Weight Limit": 3218.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27,
+               "Highway": 43.5,
+               "Combined": 35.6,
+               "CO2 Emissions": 157
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Eclipse 2009-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2378,
+               "Power": "121 KW @ 6000 RPM\n165 HP @ 6000 RPM\n162 BHP @ 6000 RPM",
+               "Torque": "162 lb-ft @ 4000 RPM\n220 Nm @ 4000 RPM",
+               "Fuel System": "Turbocharged multipoint injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic (Sportronic)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 R17 93V"
+          },
+          "DIMENSIONS": {
+               "Length": 180.4,
+               "Width": 72.2,
+               "Height": 53.5,
+               "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
+               "Wheelbase": 101.4,
+               "Ground Clearance": 5.8,
+               "Cargo Volume": 15.7,
+               "Aerodynamics (Cd)": 0.34,
+               "Turning circle": 40
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3305,
+               "Gross Weight Limit": 4090
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.6,
+               "Highway": 27.7,
+               "Combined": 23.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Eclipse 2005-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2378,
+               "Power": "121 KW @ 6000 RPM\n165 HP @ 6000 RPM\n162 BHP @ 6000 RPM",
+               "Torque": "162 lb-ft @ 4000 RPM\n220 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 179.7,
+               "Width": 72.2,
+               "Height": 53.5,
+               "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
+               "Wheelbase": 101.4,
+               "Ground Clearance": 5.8,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3274.4,
+               "Gross Weight Limit": 4068.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18,
+               "Highway": 26,
+               "Combined": 21,
+               "CO2 Emissions": 267
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Eclipse 2000-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2351,
+               "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
+               "Torque": "158 lb-ft @ 3000 RPM\n214 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55R 16"
+          },
+          "DIMENSIONS": {
+               "Length": 175.4,
+               "Width": 68.9,
+               "Height": 51.6,
+               "Front/rear Track": "59.6/59.3 in (1,514/1,506 mm)",
+               "Wheelbase": 100.8,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 16.9,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2910.6,
+               "Gross Weight Limit": 3858.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.8,
+               "Highway": 33.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Eclipse 1995-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "107 KW @ 6000 RPM\n146 HP @ 6000 RPM\n143 BHP @ 6000 RPM",
+               "Torque": "144 lb-ft @ 5000 RPM\n195 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 136.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60R15"
+          },
+          "DIMENSIONS": {
+               "Length": 172.4,
+               "Width": 68.5,
+               "Height": 51.2,
+               "Front/rear Track": "59.8/59 in (1,519/1,499 mm)",
+               "Wheelbase": 98.8,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 8.5,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2855,
+               "Gross Weight Limit": 3858
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.9,
+               "Highway": 32.2,
+               "Combined": 24.2,
+               "CO2 Emissions": 225
+          },
+          "": {}
+     }
+},{
+     "model_name": "1990 Mitsubishi Eclipse",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1755,
+               "Power": "67 KW @ 5000 RPM\n91 HP @ 5000 RPM\n90 BHP @ 5000 RPM",
+               "Torque": "105 lb-ft @ 3500 RPM\n142 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60 R15V"
+          },
+          "DIMENSIONS": {
+               "Length": 172.8,
+               "Width": 66.7,
+               "Height": 51.4,
+               "Front/rear Track": "57.5/57.1 in (1,461/1,450 mm)",
+               "Wheelbase": 97.2,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 10.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2524
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Eclipse Spyder 2009-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2378,
+               "Power": "121 KW @ 6000 RPM\n165 HP @ 6000 RPM\n162 BHP @ 6000 RPM",
+               "Torque": "162 lb-ft @ 4000 RPM\n220 Nm @ 4000 RPM",
+               "Fuel System": "Turbocharged multipoint injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 R17 93V"
+          },
+          "DIMENSIONS": {
+               "Length": 180.4,
+               "Width": 72.2,
+               "Height": 54.4,
+               "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
+               "Wheelbase": 101.4,
+               "Ground Clearance": 5.8,
+               "Cargo Volume": 5.2,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3516,
+               "Gross Weight Limit": 4266
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 26,
+               "Combined": 22,
+               "CO2 Emissions": 243
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Eclipse Spyder 2006-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2378,
+               "Power": "121 KW @ 6000 RPM\n165 HP @ 6000 RPM\n162 BHP @ 6000 RPM",
+               "Torque": "162 lb-ft @ 4000 RPM\n220 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 179.7,
+               "Width": 72.2,
+               "Height": 54.4,
+               "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
+               "Wheelbase": 101.4,
+               "Ground Clearance": 5.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3472.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20,
+               "Highway": 28,
+               "Combined": 23,
+               "CO2 Emissions": 243
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Eclipse Spyder 2000-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2351,
+               "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
+               "Torque": "158 lb-ft @ 3000 RPM\n214 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 HR16"
+          },
+          "DIMENSIONS": {
+               "Length": 175.4,
+               "Width": 68.9,
+               "Height": 51.6,
+               "Front/rear Track": "59.6/59.3 in (1,514/1,506 mm)",
+               "Wheelbase": 100.8,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 16.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2910.6,
+               "Gross Weight Limit": 3858.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.8,
+               "Highway": 33.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Endeavor 2008-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3800,
+               "Power": "165 KW @ 5000 RPM\n225 HP @ 5000 RPM\n221 BHP @ 5000 RPM",
+               "Torque": "255 lb-ft @ 2750 RPM\n346 Nm @ 2750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P235/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 190.8,
+               "Width": 73.6,
+               "Height": 69.6,
+               "Front/rear Track": "63/63 in (1,600/1,600 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 40.7,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3902,
+               "Gross Weight Limit": 4894
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15,
+               "Highway": 22,
+               "Combined": 20
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "MITSUBISHI Endeavor 2002-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3828,
+               "Power": "160 KW @ 5000 RPM\n218 HP @ 5000 RPM\n215 BHP @ 5000 RPM",
+               "Torque": "251 lb-ft @ 3750 RPM\n340 Nm @ 3750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 190.2,
+               "Width": 73.6,
+               "Height": 67.3,
+               "Front/rear Track": "63/63 in (1,600/1,600 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 40.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3847.7,
+               "Gross Weight Limit": 5049.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 29
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Galant 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2378,
+               "Power": "120 KW @ 5500 RPM\n163 HP @ 5500 RPM\n161 BHP @ 5500 RPM",
+               "Torque": "157 lb-ft @ 4000 RPM\n213 Nm @ 4000 RPM",
+               "Fuel System": "Turbocharged multipoint injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic (Sportronic)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60 R16 94H"
+          },
+          "DIMENSIONS": {
+               "Length": 191.1,
+               "Width": 72.4,
+               "Height": 58,
+               "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 13.3,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3439,
+               "Gross Weight Limit": 4376
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.4,
+               "Highway": 32.7,
+               "Combined": 24.8,
+               "CO2 Emissions": 225
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Galant (US) 2004-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2378,
+               "Power": "118 KW @ 5500 RPM\n160 HP @ 5500 RPM\n158 BHP @ 5500 RPM",
+               "Torque": "156 lb-ft @ 4000 RPM\n212 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 190.6,
+               "Width": 72.4,
+               "Height": 57.9,
+               "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 6.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.1,
+               "Highway": 30.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Galant 1997-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "100 KW @ 6000 RPM\n136 HP @ 6000 RPM\n134 BHP @ 6000 RPM",
+               "Torque": "131 lb-ft @ 4500 RPM\n178 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65R14"
+          },
+          "DIMENSIONS": {
+               "Length": 182.3,
+               "Width": 68.5,
+               "Height": 55.9,
+               "Front/rear Track": "59.4/59 in (1,509/1,499 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2722.7,
+               "Gross Weight Limit": 4078.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.1,
+               "Highway": 35.6,
+               "Combined": 27.7,
+               "CO2 Emissions": 195
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Galant VR-4 1997-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2498,
+               "Power": "206 KW @ 5500 RPM\n280 HP @ 5500 RPM\n276 BHP @ 5500 RPM",
+               "Torque": "268 lb-ft @ 4000 RPM\n363 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 150,
+               "Acceleration 0-62 Mph (0-100 kph)": 6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55R 16"
+          },
+          "DIMENSIONS": {
+               "Length": 184.3,
+               "Width": 68.5,
+               "Height": 55.9,
+               "Front/rear Track": "59.4/59.3 in (1,509/1,506 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3263.4,
+               "Gross Weight Limit": 3980
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.1,
+               "Highway": 35.1,
+               "Combined": 26.1,
+               "CO2 Emissions": 214
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Galant 1993-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1834,
+               "Power": "93 KW @ 6000 RPM\n126 HP @ 6000 RPM\n125 BHP @ 6000 RPM",
+               "Torque": "119 lb-ft @ 4500 RPM\n161 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 10
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/70R14"
+          },
+          "DIMENSIONS": {
+               "Length": 181.9,
+               "Width": 68.1,
+               "Height": 55.1,
+               "Front/rear Track": "59.4/59 in (1,509/1,499 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 15.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2524.3,
+               "Gross Weight Limit": 3758.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.2,
+               "Highway": 41.3,
+               "Combined": 31.4,
+               "CO2 Emissions": 178
+          },
+          "": {}
+     }
+},{
+     "model_name": "1993 Mitsubishi Galant Hatchback",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1934,
+               "Power": "93 KW @ 6000 RPM\n126 HP @ 6000 RPM\n125 BHP @ 6000 RPM",
+               "Torque": "119 lb-ft @ 4500 RPM\n161 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/70/R14"
+          },
+          "DIMENSIONS": {
+               "Length": 181.9,
+               "Width": 68.1,
+               "Height": 55.1,
+               "Front/rear Track": "59.4/59 in (1,509/1,499 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 15.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2634.5,
+               "Gross Weight Limit": 3847.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 31.4,
+               "CO2 Emissions": 178
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Galant 1988-1993",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1755,
+               "Power": "66 KW @ 5000 RPM\n90 HP @ 5000 RPM\n89 BHP @ 5000 RPM",
+               "Torque": "106 lb-ft @ 3500 RPM\n144 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 107.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/70HR14"
+          },
+          "DIMENSIONS": {
+               "Length": 178.7,
+               "Width": 66.9,
+               "Height": 55.9,
+               "Front/rear Track": "57.5/57.1 in (1,461/1,450 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2425.1,
+               "Gross Weight Limit": 3593.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 29,
+               "CO2 Emissions": 193
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Galant Station Wagon 1997-2001",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "107 KW @ 5700 RPM\n145 HP @ 5700 RPM\n143 BHP @ 5700 RPM",
+               "Torque": "141 lb-ft @ 3750 RPM\n191 Nm @ 3750 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60/R15"
+          },
+          "DIMENSIONS": {
+               "Length": 182.3,
+               "Width": 68.5,
+               "Height": 55.9,
+               "Front/rear Track": "59.4/59 in (1,509/1,499 mm)",
+               "Wheelbase": 103.9,
+               "Cargo Volume": 14.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3197.2,
+               "Gross Weight Limit": 4024.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.2,
+               "Highway": 30.9,
+               "Combined": 24,
+               "CO2 Emissions": 183
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Galant Station Wagon VR-4 1997-2001",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2498,
+               "Power": "206 KW @ 5500 RPM\n280 HP @ 5500 RPM\n276 BHP @ 5500 RPM",
+               "Torque": "268 lb-ft @ 4000 RPM\n363 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50R 16"
+          },
+          "DIMENSIONS": {
+               "Length": 186.6,
+               "Width": 69.3,
+               "Height": 57.9,
+               "Front/rear Track": "60/59.8 in (1,524/1,519 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3351
+          }
+     }
+},{
+     "model_name": "2005 Mitsubishi Grandis",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2378,
+               "Power": "121 KW @ 6000 RPM\n165 HP @ 6000 RPM\n162 BHP @ 6000 RPM",
+               "Torque": "160 lb-ft @ 4000 RPM\n217 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 10
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60/R16"
+          },
+          "DIMENSIONS": {
+               "Length": 187.4,
+               "Width": 70.9,
+               "Height": 65.3,
+               "Front/rear Track": "61/61.4 in (1,549/1,560 mm)",
+               "Wheelbase": 111.4,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 11.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3571.5,
+               "Gross Weight Limit": 4960.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.4,
+               "Highway": 31.8,
+               "Combined": 25,
+               "CO2 Emissions": 223
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI L300 1986-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1983,
+               "Power": "66 KW @ 5500 RPM\n90 HP @ 5500 RPM\n89 BHP @ 5500 RPM",
+               "Torque": "109 lb-ft @ 3000 RPM\n148 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87,
+               "Acceleration 0-62 Mph (0-100 kph)": 21.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 168.3,
+               "Width": 66.7,
+               "Height": 72.2,
+               "Wheelbase": 88
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.4,
+               "Highway": 25.3,
+               "Combined": 19.9,
+               "CO2 Emissions": 281
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Combi 2003-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1584,
+               "Power": "72 KW @ 5000 RPM\n96 HP @ 5000 RPM\n97 BHP @ 5000 RPM",
+               "Torque": "111 lb-ft @ 4000 RPM\n150 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 176.2,
+               "Width": 66.7,
+               "Height": 58.3,
+               "Front/rear Track": "57.9/57.9 in (1,471/1,471 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 14.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2811.4,
+               "Gross Weight Limit": 3924.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26.4,
+               "Highway": 40.6,
+               "Combined": 33.6,
+               "CO2 Emissions": 166
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Combi 1992-2001",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1597,
+               "Power": "83 KW @ 6000 RPM\n113 HP @ 6000 RPM\n111 BHP @ 6000 RPM",
+               "Torque": "101 lb-ft @ 5000 RPM\n137 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70R13"
+          },
+          "DIMENSIONS": {
+               "Length": 168.5,
+               "Width": 66.53,
+               "Height": 55.9,
+               "Front/rear Track": "57.08/55.9 in (1,450/1,420 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 16.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2314.8,
+               "Gross Weight Limit": 3527.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.4,
+               "Highway": 35.6,
+               "Combined": 29.4,
+               "CO2 Emissions": 172
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Combi 1989-1992",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1458,
+               "Power": "66 KW @ 6000 RPM\n90 HP @ 6000 RPM\n89 BHP @ 6000 RPM",
+               "Torque": "93 lb-ft @ 3000 RPM\n126 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 164.6,
+               "Width": 64.6,
+               "Height": 55.9,
+               "Front/rear Track": "55.5/52.7 in (1,410/1,339 mm)",
+               "Wheelbase": 93.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2202.4,
+               "Gross Weight Limit": 3273.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 29.8,
+               "CO2 Emissions": 188
+          },
+          "": {}
+     }
+},{
+     "model_name": "Mitsubishi Lancer Evolution X",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "217 KW @ 6500 RPM\n295 HP @ 6500 RPM\n291 BHP @ 6500 RPM",
+               "Torque": "270 lb-ft @ 3500 RPM\n366 Nm @ 3500 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 150,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 177.3,
+               "Width": 71.3,
+               "Height": 58.3,
+               "Front/rear Track": "60.8/60.8 in (1,544/1,544 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 11.4,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3450,
+               "Gross Weight Limit": 4497
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.9,
+               "Highway": 27.7,
+               "Combined": 22.4,
+               "CO2 Emissions": 250
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Evolution IX 2005-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "206 KW @ 6500 RPM\n280 HP @ 6500 RPM\n276 BHP @ 6500 RPM",
+               "Torque": "262 lb-ft @ 3500 RPM\n355 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/45WR17"
+          },
+          "DIMENSIONS": {
+               "Length": 176.8,
+               "Width": 69.7,
+               "Height": 57.1,
+               "Front/rear Track": "59.6/59.6 in (1,514/1,514 mm)",
+               "Wheelbase": 103.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 15.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3174.7,
+               "Gross Weight Limit": 4155.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.1,
+               "Highway": 28.7,
+               "Combined": 22.2,
+               "CO2 Emissions": 251
+          }
+     }
+},{
+     "model_name": "2003 Mitsubishi Lancer Evolution VIII",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "194.9 KW @ 6500 RPM\n265 HP @ 6500 RPM\n261 BHP @ 6500 RPM",
+               "Torque": "262 lb-ft @ 3500 RPM\n355 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/45/R17"
+          },
+          "DIMENSIONS": {
+               "Length": 176.8,
+               "Width": 69.7,
+               "Height": 57.1,
+               "Front/rear Track": "59.6/59.6 in (1,514/1,514 mm)",
+               "Wheelbase": 103.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 15.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3109,
+               "Gross Weight Limit": 4156
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.3,
+               "Highway": 28.3,
+               "Combined": 21.6,
+               "CO2 Emissions": 258
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Evolution VII 2000-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "206 KW @ 6500 RPM\n280 HP @ 6500 RPM\n276 BHP @ 6500 RPM",
+               "Torque": "282 lb-ft @ 3500 RPM\n382 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 157.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/45 ZR 17"
+          },
+          "DIMENSIONS": {
+               "Length": 175.4,
+               "Width": 69.7,
+               "Height": 57.1,
+               "Front/rear Track": "59.6/59.6 in (1,514/1,514 mm)",
+               "Wheelbase": 103.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 14.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3086
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "CO2 Emissions": 247
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Evolution VI 1999-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "206 KW @ 6500 RPM\n280 HP @ 6500 RPM\n276 BHP @ 6500 RPM",
+               "Torque": "275 lb-ft @ 3000 RPM\n373 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 150,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 ZR 17"
+          },
+          "DIMENSIONS": {
+               "Length": 171.3,
+               "Width": 69.7,
+               "Height": 55.7,
+               "Front/rear Track": "59.4/59.3 in (1,509/1,506 mm)",
+               "Wheelbase": 98.8,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2998
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Evolution V 1998-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "206 KW @ 6500 RPM\n280 HP @ 6500 RPM\n276 BHP @ 6500 RPM",
+               "Torque": "275 lb-ft @ 3000 RPM\n373 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 147,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 171.3,
+               "Width": 69.7,
+               "Height": 55.7,
+               "Front/rear Track": "59.4/59.3 in (1,509/1,506 mm)",
+               "Wheelbase": 98.8,
+               "Ground Clearance": 5.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2998
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Evolution IV 1996-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "206 KW @ 6500 RPM\n280 HP @ 6500 RPM\n276 BHP @ 6500 RPM",
+               "Torque": "260 lb-ft @ 3000 RPM\n353 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50 R 16 87V"
+          },
+          "DIMENSIONS": {
+               "Length": 170.5,
+               "Width": 66.5,
+               "Height": 55.7,
+               "Front/rear Track": "57.9/57.9 in (1,471/1,471 mm)",
+               "Wheelbase": 98.8,
+               "Ground Clearance": 6.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2976
+          }
+     }
+},{
+     "model_name": "1995 Mitsubishi Lancer Evo III",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "198 KW @ 6250 RPM\n270 HP @ 6250 RPM\n266 BHP @ 6250 RPM",
+               "Torque": "228 lb-ft @ 3000 RPM\n309 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 169.7,
+               "Width": 66.7,
+               "Height": 55.9,
+               "Front/rear Track": "57.7/57.9 in (1,466/1,471 mm)",
+               "Wheelbase": 98.8,
+               "Ground Clearance": 6.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2778
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Evolution II 1994-1995",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "191 KW @ 6000 RPM\n260 HP @ 6000 RPM\n256 BHP @ 6000 RPM",
+               "Torque": "228 lb-ft @ 3000 RPM\n309 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 169.7,
+               "Width": 66.7,
+               "Height": 55.9,
+               "Front/rear Track": "57.7/57.9 in (1,466/1,471 mm)",
+               "Wheelbase": 98.8,
+               "Ground Clearance": 6.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2756
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Lancer Evolution I 1992-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "184 KW @ 6000 RPM\n250 HP @ 6000 RPM\n247 BHP @ 6000 RPM",
+               "Torque": "228 lb-ft @ 3000 RPM\n309 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 169.7,
+               "Width": 66.7,
+               "Height": 54.9,
+               "Front/rear Track": "57.1/57.5 in (1,450/1,461 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 5.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2734
+          }
+     }
+},{
+     "model_name": "MITSUBISHI Raider Crew Cab 2005-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3701,
+               "Power": "156 KW @ 5200 RPM\n210 HP @ 5200 RPM\n209 BHP @ 5200 RPM",
+               "Torque": "235 lb-ft @ 3600 RPM\n319 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 219.9,
+               "Width": 71.9,
+               "Height": 68.6,
+               "Front/rear Track": "62.8/62.9 in (1,595/1,598 mm)",
+               "Wheelbase": 131.3,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 37.1
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 6002
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Raider Double Cab 2005-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3701,
+               "Power": "154.5 KW @ 5200 RPM\n210 HP @ 5200 RPM\n207 BHP @ 5200 RPM",
+               "Torque": "235 lb-ft @ 3600 RPM\n319 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/65R16"
+          },
+          "DIMENSIONS": {
+               "Length": 219.9,
+               "Width": 71.9,
+               "Height": 68.6,
+               "Front/rear Track": "62.8/62.9 in (1,595/1,598 mm)",
+               "Wheelbase": 131.3,
+               "Ground Clearance": 7.9
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 6002
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 17.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Sigma 1991-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2972,
+               "Power": "125 KW @ 5500 RPM\n170 HP @ 5500 RPM\n168 BHP @ 5500 RPM",
+               "Torque": "183 lb-ft @ 3000 RPM\n248 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/65VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 187,
+               "Width": 70.1,
+               "Height": 56.7,
+               "Front/rear Track": "60.6/60.2 in (1,539/1,529 mm)",
+               "Wheelbase": 107.1,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 14.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3472.3,
+               "Gross Weight Limit": 4563.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.3,
+               "Highway": 30.2,
+               "Combined": 22.8,
+               "CO2 Emissions": 245
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Space Runner 1991-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1834,
+               "Power": "89.7 KW @ 5500 RPM\n122 HP @ 5500 RPM\n120 BHP @ 5500 RPM",
+               "Torque": "119 lb-ft @ 4500 RPM\n161 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/70HR14"
+          },
+          "DIMENSIONS": {
+               "Length": 168.1,
+               "Width": 66.9,
+               "Height": 65.3,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 99.2,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 18.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2707,
+               "Gross Weight Limit": 3792
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 27.7
+          },
+          "": {}
+     }
+},{
+     "model_name": "MITSUBISHI Starion 1982-1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "125 KW @ 5500 RPM\n170 HP @ 5500 RPM\n168 BHP @ 5500 RPM",
+               "Torque": "181 lb-ft @ 3500 RPM\n245 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 136.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/70VR14"
+          },
+          "DIMENSIONS": {
+               "Length": 174,
+               "Width": 68.5,
+               "Height": 52,
+               "Front/rear Track": "55.5/55.1 in (1,410/1,400 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2623.5,
+               "Gross Weight Limit": 3637.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 24.5,
+               "CO2 Emissions": 228
+          },
+          "": {}
+     }
+},	
+ ] } 

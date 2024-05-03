@@ -1,0 +1,474 @@
+{ "brand_name" : "GENESIS", "models": [
+{
+     "model_name": "2025 Genesis GV80",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "220.6 KW @ - RPM\n300 HP @ - RPM\n296 BHP @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2021 Genesis GV80",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2996,
+               "Power": "204.5 KW @ 3800 RPM\n278 HP @ 3800 RPM\n274 BHP @ 3800 RPM",
+               "Torque": "434 lb-ft @ 1500-3000 RPM\n588 Nm @ 1500-3000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Diesel",
+               "Fuel capacity": 21.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/55 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 194.7,
+               "Width": 77.8,
+               "Height": 67.5,
+               "Front/rear Track": "65.9/66.5 in (1,674/1,689 mm)",
+               "Wheelbase": 117.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.8,
+               "Highway": 30.2,
+               "Combined": 26.4,
+               "CO2 Emissions": 173
+          },
+          "": {}
+     }
+},{
+     "model_name": "GENESIS G90 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Displacement": 3470,
+               "Power": "279.5 KW @ - RPM\n380 HP @ - RPM\n375 BHP @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "DIMENSIONS": {
+               "Length": 207.7,
+               "Width": 76,
+               "Height": 58.7,
+               "Wheelbase": 125.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "2020 Genesis G90",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3342,
+               "Power": "268.5 KW @ 6000 RPM\n365 HP @ 6000 RPM\n360 BHP @ 6000 RPM",
+               "Torque": "376 lb-ft @ 1300-4500 RPM\n510 Nm @ 1300-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P 245/45 R19 // P 275/40 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 204.9,
+               "Width": 75.4,
+               "Height": 58.9,
+               "Front/rear Track": "64.6/64.5 in (1,641/1,638 mm)",
+               "Wheelbase": 124.4,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 15.7,
+               "Aerodynamics (Cd)": 0.27
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18,
+               "Highway": 25.3,
+               "Combined": 20.6,
+               "CO2 Emissions": 190
+          },
+          "": {}
+     }
+},{
+     "model_name": "GENESIS G90 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3342,
+               "Power": "272.1 KW @ 6000 RPM\n370 HP @ 6000 RPM\n365 BHP @ 6000 RPM",
+               "Torque": "376 lb-ft @ 1300-4500 RPM\n510 Nm @ 1300-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P 245/45 R 19 || P 275/40 R 19"
+          },
+          "DIMENSIONS": {
+               "Length": 204.9,
+               "Width": 75.4,
+               "Height": 58.9,
+               "Front/rear Track": "64.6/64.5 in (1,641/1,638 mm)",
+               "Wheelbase": 124.4,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 15.7,
+               "Aerodynamics (Cd)": 0.27
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4630
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 24,
+               "Combined": 20
+          },
+          "": {}
+     }
+},{
+     "model_name": "GENESIS G70 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "180.2 KW @ 6200 RPM\n245 HP @ 6200 RPM\n242 BHP @ 6200 RPM",
+               "Torque": "260 lb-ft @ 3500 RPM\n353 Nm @ 3500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/40 R19 // 225/50 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 184.4,
+               "Width": 72.8,
+               "Height": 55.1,
+               "Front/rear Track": "62.7/63.1 in (1,593/1,603 mm)",
+               "Wheelbase": 111.6,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 11.7,
+               "Aerodynamics (Cd)": 0.28,
+               "Turning circle": 36.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3836,
+               "Gross Weight Limit": 4850
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "16.4 mpg US (14.3 L/100Km)",
+               "Medium": "26.4 mpg US (8.9 L/100Km)",
+               "High": "30.9 mpg US (7.6 L/100Km)",
+               "Extra high": "28 mpg US (8.4 L/100Km)",
+               "Combined": 23.8,
+               "CO2 Emissions (Combined)": "206 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "GENESIS G70 2017-2021",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "185.3 KW @ - RPM\n252 HP @ - RPM\n248 BHP @ - RPM",
+               "Torque": "260 lb-ft @ - RPM\n353 Nm @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 6.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 184.4,
+               "Width": 72.8,
+               "Height": 55.1,
+               "Front/rear Track": "62.8/63.1 in (1,595/1,603 mm)",
+               "Wheelbase": 111.6,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3594
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.2,
+               "Highway": 30.2,
+               "Combined": 25.3,
+               "CO2 Emissions": 156
+          },
+          "": {}
+     }
+},{
+     "model_name": "GENESIS G80 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2497,
+               "Power": "220.6 KW @ 5800 RPM\n300 HP @ 5800 RPM\n296 BHP @ 5800 RPM",
+               "Torque": "311 lb-ft @ 1650-4000 RPM\n422 Nm @ 1650-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated disc"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P245/45R18 A/S"
+          },
+          "DIMENSIONS": {
+               "Length": 196.7,
+               "Width": 75.8,
+               "Height": 57.7,
+               "Wheelbase": 118.5,
+               "Ground Clearance": 5.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3990
+          },
+          "": {}
+     }
+},{
+     "model_name": "GENESIS G80 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3342,
+               "Power": "207.4 KW @ 6000 RPM\n282 HP @ 6000 RPM\n278 BHP @ 6000 RPM",
+               "Torque": "256 lb-ft @ 5000 RPM\n347 Nm @ 5000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 20.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55R17"
+          },
+          "DIMENSIONS": {
+               "Length": 196.5,
+               "Width": 74.4,
+               "Height": 58.3,
+               "Front/rear Track": "64.1/65.3 in (1,628/1,659 mm)",
+               "Wheelbase": 118.5,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 17.4,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4189
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.8,
+               "Highway": 27.4,
+               "Combined": 22.6,
+               "CO2 Emissions": 184
+          },
+          "": {}
+     }
+},{
+     "model_name": "GENESIS G70 Shooting Brake 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "144.9 KW @ 6200 RPM\n197 HP @ 6200 RPM\n194 BHP @ 6200 RPM",
+               "Torque": "260 lb-ft @ 1450-3500 RPM\n353 Nm @ 1450-3500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 135,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 R17 // 225/50 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 184.4,
+               "Width": 72.8,
+               "Height": 55.1,
+               "Front/rear Track": "62.7/62.8 in (1,593/1,595 mm)",
+               "Wheelbase": 111.6,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 14.2,
+               "Aerodynamics (Cd)": 0.28,
+               "Turning circle": 36.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3785,
+               "Gross Weight Limit": 4795
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "18 mpg US (13.1 L/100Km)",
+               "Medium": "28.7 mpg US (8.2 L/100Km)",
+               "High": "33.1 mpg US (7.1 L/100Km)",
+               "Extra high": "28.7 mpg US (8.2 L/100Km)",
+               "Combined": 27.7,
+               "CO2 Emissions (Combined)": "194 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "GENESIS GV70 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2497,
+               "Power": "223.6 KW @ 5800 RPM\n304 HP @ 5800 RPM\n300 BHP @ 5800 RPM",
+               "Torque": "311 lb-ft @ 1650-4000 RPM\n422 Nm @ 1650-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 185.6,
+               "Width": 75.2,
+               "Height": 64.2,
+               "Front/rear Track": "64.6/65.2 in (1,641/1,656 mm)",
+               "Wheelbase": 113.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4112
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.5,
+               "Highway": 27,
+               "Combined": 23.1,
+               "CO2 Emissions": 174
+          },
+          "": {}
+     }
+},{
+     "model_name": "2023 Genesis GV60",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "160.3 kw (218 hp)",
+               "Electrical motor torque": "258.1 lb-ft (350 Nm)",
+               "Total maximum power": "319.9 kw (435 hp)",
+               "Total maximum torque": "516.3 lb-ft (700 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 177.8,
+               "Width": 74.4,
+               "Height": 62.2,
+               "Front/rear Track": "64.3/64.6 in (1,633/1,641 mm)",
+               "Wheelbase": 114.2,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 15.3,
+               "Aerodynamics (Cd)": 0.29,
+               "Turning circle": 39.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4762
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Maximum Capacity": "77.4 kWh",
+               "Range": 228.7
+          },
+          "NOTES": {
+               "Electric motor 2 power": "218 HP\nElectric motor 2 Torque: 350 Nm\n\nAverage Energy consumption: 24.4 kWh/100 km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2025 Genesis GV80 Coupe",
+     "technical_specs": {}
+},	
+ ] } 

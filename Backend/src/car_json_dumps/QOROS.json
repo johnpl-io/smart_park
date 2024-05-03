@@ -1,0 +1,156 @@
+{ "brand_name" : "QOROS", "models": [
+{
+     "model_name": "QOROS 3 City SUV 2015-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "115.1 KW @ 5500 RPM\n156.4 HP @ 5500 RPM\n154 BHP @ 5500 RPM",
+               "Torque": "155 lb-ft @ 1750-5000 RPM\n210 Nm @ 1750-5000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 129,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 175.3,
+               "Width": 73,
+               "Height": 59.2,
+               "Front/rear Track": "62.5/62.1 in (1,588/1,577 mm)",
+               "Wheelbase": 106.1,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 14.2,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3153
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 34.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "QOROS 3 Hatchbach 2014-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "93 KW @ 6150 RPM\n126 HP @ 6150 RPM\n125 BHP @ 6150 RPM",
+               "Torque": "114 lb-ft @ 3900 RPM\n155 Nm @ 3900 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 120,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 174.7,
+               "Width": 72.4,
+               "Height": 56.9,
+               "Front/rear Track": "62.2/62.4 in (1,580/1,585 mm)",
+               "Wheelbase": 105.9,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 14.2,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2998
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 38.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "QOROS 3 Sedan 2013-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "93 KW @ 6150 RPM\n126 HP @ 6150 RPM\n125 BHP @ 6150 RPM",
+               "Torque": "114 lb-ft @ 3800 RPM\n155 Nm @ 3800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 122,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 181.7,
+               "Width": 72.4,
+               "Height": 56.9,
+               "Front/rear Track": "62.2/62.4 in (1,580/1,585 mm)",
+               "Wheelbase": 105.9,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2998
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 39.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "QOROS 5 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "115.1 KW @ 5500 RPM\n156 HP @ 5500 RPM\n154 BHP @ 5500 RPM",
+               "Torque": "155 lb-ft @ 1750-5000 RPM\n210 Nm @ 1750-5000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          }
+     }
+},	
+ ] } 

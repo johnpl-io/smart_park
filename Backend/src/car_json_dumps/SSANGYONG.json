@@ -1,0 +1,881 @@
+{ "brand_name" : "SSANGYONG", "models": [
+{
+     "model_name": "SSANGYONG Rexton 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "148.6 KW @ - RPM\n202 HP @ - RPM\n199 BHP @ - RPM",
+               "Torque": "325 lb-ft @ - RPM\n441 Nm @ - RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Diesel"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          }
+     }
+},{
+     "model_name": "SSANGYONG Rexton 2018-2021",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2157,
+               "Power": "133.1 KW @ 4000 RPM\n181 HP @ 4000 RPM\n178 BHP @ 4000 RPM",
+               "Torque": "295 lb-ft @ 1400-2800 RPM\n400 Nm @ 1400-2800 RPM",
+               "Fuel System": "Common Rail",
+               "Fuel": "Diesel",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/70R16H"
+          },
+          "DIMENSIONS": {
+               "Length": 190.9,
+               "Width": 77.2,
+               "Height": 71.9,
+               "Front/rear Track": "64.6/64.6 in (1,641/1,641 mm)",
+               "Wheelbase": 112.8,
+               "Cargo Volume": 29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4619,
+               "Gross Weight Limit": 6305
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28.7,
+               "Highway": 42.8,
+               "Combined": 36.2,
+               "CO2 Emissions": 204
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Rexton 2006-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2696,
+               "Power": "121 KW @ 4000 RPM\n165 HP @ 4000 RPM\n162 BHP @ 4000 RPM",
+               "Torque": "251 lb-ft @ 1800-3250 RPM\n340 Nm @ 1800-3250 RPM",
+               "Fuel System": "Common Rail",
+               "Fuel": "Diesel",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/70R 16H"
+          },
+          "DIMENSIONS": {
+               "Length": 185.8,
+               "Width": 73.6,
+               "Height": 69.3,
+               "Front/rear Track": "61/60.6 in (1,549/1,539 mm)",
+               "Wheelbase": 111,
+               "Ground Clearance": 8.7,
+               "Cargo Volume": 40
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4632,
+               "Gross Weight Limit": 6085
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18,
+               "Highway": 31.8,
+               "Combined": 25,
+               "CO2 Emissions": 250
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Rexton 2001-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2295,
+               "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
+               "Torque": "165 lb-ft @ 4000 RPM\n224 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/70 R16H"
+          },
+          "DIMENSIONS": {
+               "Length": 185.8,
+               "Width": 73.6,
+               "Height": 69.3,
+               "Front/rear Track": "61/60.6 in (1,549/1,539 mm)",
+               "Wheelbase": 111,
+               "Ground Clearance": 8.7,
+               "Cargo Volume": 40
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3941.9,
+               "Gross Weight Limit": 5621.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.9,
+               "Highway": 25,
+               "Combined": 20.1,
+               "CO2 Emissions": 278.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Korando 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1497,
+               "Power": "119.9 KW @ 5500 RPM\n163 HP @ 5500 RPM\n161 BHP @ 5500 RPM",
+               "Torque": "207 lb-ft @ 1500-4500 RPM\n280 Nm @ 1500-4500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 175.3,
+               "Width": 73.6,
+               "Height": 63.8,
+               "Wheelbase": 105.3,
+               "Cargo Volume": 19.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Korando 2017-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2157,
+               "Power": "130.9 KW @ 6000 RPM\n178 HP @ 6000 RPM\n176 BHP @ 6000 RPM",
+               "Torque": "110 lb-ft @ 6000 RPM\n149 Nm @ 6000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 173.6,
+               "Width": 72,
+               "Height": 67.3,
+               "Front/rear Track": "61.9/61.3 in (1,572/1,557 mm)",
+               "Wheelbase": 104.3,
+               "Cargo Volume": 17.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3627,
+               "Gross Weight Limit": 4630
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.2,
+               "Highway": 37.9,
+               "Combined": 31.4,
+               "CO2 Emissions": 175
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Korando C 2013-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 1998,
+               "Power": "109 KW @ 4000 RPM\n148 HP @ 4000 RPM\n146 BHP @ 4000 RPM",
+               "Torque": "266 lb-ft @ 1500-2800 RPM\n361 Nm @ 1500-2800 RPM",
+               "Fuel System": "Common Rail",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6 speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "solid discs"
+          },
+          "DIMENSIONS": {
+               "Length": 173.6,
+               "Width": 65.9,
+               "Height": 72,
+               "Front/rear Track": "61.9/61.3 in (1,572/1,557 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 17.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3508,
+               "Gross Weight Limit": 4806
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.9,
+               "Highway": 49,
+               "Combined": 40.6,
+               "CO2 Emissions": 147
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Korando 2010-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "109 KW @ 6000 RPM\n148 HP @ 6000 RPM\n146 BHP @ 6000 RPM",
+               "Torque": "110 lb-ft @ 6000 RPM\n149 Nm @ 6000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 103
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65R 16"
+          },
+          "DIMENSIONS": {
+               "Length": 173.6,
+               "Width": 65.9,
+               "Height": 72,
+               "Front/rear Track": "61.9/61.3 in (1,572/1,557 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 17.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3406,
+               "Gross Weight Limit": 4630
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.8,
+               "Highway": 35.6,
+               "Combined": 29.4,
+               "CO2 Emissions": 185
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Korando 1997-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2295,
+               "Power": "110 KW @ 6200 RPM\n150 HP @ 6200 RPM\n148 BHP @ 6200 RPM",
+               "Torque": "155 lb-ft @ 2860 RPM\n210 Nm @ 2860 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 103,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/75R15"
+          },
+          "DIMENSIONS": {
+               "Length": 170.5,
+               "Width": 72.5,
+               "Height": 72.4,
+               "Front/rear Track": "59.4/59.8 in (1,509/1,519 mm)",
+               "Wheelbase": 97.6,
+               "Ground Clearance": 7.7,
+               "Cargo Volume": 12.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3946,
+               "Gross Weight Limit": 5545
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.1,
+               "Highway": 22.6,
+               "Combined": 17.8,
+               "CO2 Emissions": 307
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Tivoli 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1197,
+               "Power": "94.1 KW @ 5000 RPM\n128 HP @ 5000 RPM\n126 BHP @ 5000 RPM",
+               "Torque": "170 lb-ft @ 1750-3500 RPM\n230 Nm @ 1750-3500 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/65 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 166.3,
+               "Width": 71.3,
+               "Height": 63.5,
+               "Front/rear Track": "61.2/61.2 in (1,554/1,554 mm)",
+               "Wheelbase": 102.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3018,
+               "Gross Weight Limit": 3847
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 40.9,
+               "Highway": 53.3,
+               "Combined": 47.9
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "34 mpg US (6.9 L/100Km)",
+               "Medium": "44.1 mpg US (5.3 L/100Km)",
+               "High": "47.1 mpg US (5 L/100Km)",
+               "Extra high": "36.7 mpg US (6.4 L/100Km)",
+               "Combined": 40.4,
+               "CO2 Emissions (Combined)": "158 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Tivoli 2015-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1597,
+               "Power": "94.1 KW @ 6000 RPM\n128 HP @ 6000 RPM\n126 BHP @ 6000 RPM",
+               "Torque": "118 lb-ft @ 4600 RPM\n160 Nm @ 4600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 99
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 165.2,
+               "Width": 70.7,
+               "Height": 62.6,
+               "Front/rear Track": "61.2/61.2 in (1,554/1,554 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 6.6,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2866,
+               "Gross Weight Limit": 3990
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24,
+               "Highway": 41.3,
+               "Combined": 32.7,
+               "CO2 Emissions": 167
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Musso 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2157,
+               "Power": "133.1 KW @ 4000 RPM\n181 HP @ 4000 RPM\n178 BHP @ 4000 RPM",
+               "Torque": "400 lb-ft @ 1400-2800 RPM\n542 Nm @ 1400-2800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Diesel",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 200.6,
+               "Width": 76.8,
+               "Height": 72.4,
+               "Front/rear Track": "64.6/43.5 in (1,641/1,105 mm)",
+               "Wheelbase": 122,
+               "Ground Clearance": 8.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4751,
+               "Gross Weight Limit": 7055
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.6,
+               "Highway": 32.7,
+               "Combined": 2.7,
+               "CO2 Emissions": 226
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Musso 1998-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2295,
+               "Power": "103 KW @ 5300 RPM\n140 HP @ 5300 RPM\n138 BHP @ 5300 RPM",
+               "Torque": "148 lb-ft @ 4500 RPM\n200 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/75R15"
+          },
+          "DIMENSIONS": {
+               "Length": 183.3,
+               "Width": 73.4,
+               "Height": 68.3,
+               "Front/rear Track": "59.4/59.8 in (1,509/1,519 mm)",
+               "Wheelbase": 103.5,
+               "Ground Clearance": 7.7,
+               "Cargo Volume": 40,
+               "Aerodynamics (Cd)": 0.42
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4023.4,
+               "Gross Weight Limit": 5335.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.5,
+               "Highway": 20.8,
+               "Combined": 17.4,
+               "CO2 Emissions": 291
+          },
+          "": {}
+     }
+},{
+     "model_name": "2016 SsangYong Tivoli XLV",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1597,
+               "Power": "94.1 KW @ 6000 RPM\n128 HP @ 6000 RPM\n126 BHP @ 6000 RPM",
+               "Torque": "118 lb-ft @ 4600 RPM\n160 Nm @ 4600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 107
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215 / 45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 174.8,
+               "Width": 70.8,
+               "Height": 64.4,
+               "Front/rear Track": "61.2/61.2 in (1,554/1,554 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 6.6,
+               "Cargo Volume": 26.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2965,
+               "Gross Weight Limit": 4123
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.8,
+               "Highway": 39.2,
+               "Combined": 30.9,
+               "CO2 Emissions": 176
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Actyon 2006-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2295,
+               "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
+               "Torque": "158 lb-ft @ 3500 RPM\n214 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 102,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/75 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 175.4,
+               "Width": 74,
+               "Height": 68.3,
+               "Front/rear Track": "61.8 / 61.8 in (1,570/1,570 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 7.6,
+               "Cargo Volume": 23.3,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4116,
+               "Gross Weight Limit": 5556
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.7,
+               "Highway": 22.6,
+               "Combined": 19,
+               "CO2 Emissions": 280
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Chairman 2008-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2799,
+               "Power": "145 KW @ 6000 RPM\n197 HP @ 6000 RPM\n194 BHP @ 6000 RPM",
+               "Torque": "199 lb-ft @ 4700 RPM\n270 Nm @ 4700 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "7-Speed Automatic Transmission with Winter Mode (Mercedes-Benz)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 202.2,
+               "Width": 74.6,
+               "Height": 59.3,
+               "Front/rear Track": "63/62.6 in (1,600/1,590 mm)",
+               "Wheelbase": 109.8,
+               "Ground Clearance": 6.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4198,
+               "Gross Weight Limit": 5490
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.8,
+               "Highway": 25.6,
+               "Combined": 19.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Chairman 2004-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2295,
+               "Power": "82 KW @ 5500 RPM\n110 HP @ 5500 RPM\n110 BHP @ 5500 RPM",
+               "Torque": "162 lb-ft @ 4000 RPM\n220 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Automatic, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 202.2,
+               "Width": 71.9,
+               "Height": 57.7,
+               "Front/rear Track": "61/60.6 in (1,549/1,539 mm)",
+               "Wheelbase": 114.2,
+               "Ground Clearance": 7.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3715,
+               "Gross Weight Limit": 5027
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.4,
+               "Highway": 25.8,
+               "Combined": 20.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "SSANGYONG Kyron 2004-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "104 KW @ 4000 RPM\n141 HP @ 4000 RPM\n139 BHP @ 4000 RPM",
+               "Torque": "229 lb-ft @ 1800-2750 RPM\n310 Nm @ 1800-2750 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Diesel",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 104,
+               "Acceleration 0-62 Mph (0-100 kph)": 16.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/75R16"
+          },
+          "DIMENSIONS": {
+               "Length": 183.5,
+               "Width": 74,
+               "Height": 68.5,
+               "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 22.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4015,
+               "Gross Weight Limit": 5578
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.8,
+               "Highway": 37.3,
+               "Combined": 30.5,
+               "CO2 Emissions": 197
+          }
+     }
+},{
+     "model_name": "SSANGYONG Musso Sports 1998-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2874,
+               "Power": "88 KW @ 4000 RPM\n120 HP @ 4000 RPM\n118 BHP @ 4000 RPM",
+               "Torque": "189 lb-ft @ 2400 RPM\n256 Nm @ 2400 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Diesel"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/75R15"
+          },
+          "DIMENSIONS": {
+               "Length": 194.3,
+               "Width": 73.4,
+               "Height": 69.3,
+               "Front/rear Track": "59.4/59.8 in (1,509/1,519 mm)",
+               "Wheelbase": 108.5,
+               "Ground Clearance": 7.7,
+               "Cargo Volume": 40,
+               "Aerodynamics (Cd)": 0.42
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4136,
+               "Gross Weight Limit": 5556
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.3,
+               "Highway": 32.7,
+               "Combined": 26.7,
+               "CO2 Emissions": 230
+          }
+     }
+},{
+     "model_name": "SSANGYONG Rodius 2004-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 2696,
+               "Power": "121 KW @ 4000 RPM\n165 HP @ 4000 RPM\n162 BHP @ 4000 RPM",
+               "Torque": "252 lb-ft @ 1800-3250 RPM\n342 Nm @ 1800-3250 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/65R16"
+          },
+          "DIMENSIONS": {
+               "Length": 201.8,
+               "Width": 75.4,
+               "Height": 71.7,
+               "Front/rear Track": "62.6/62.2 in (1,590/1,580 mm)",
+               "Wheelbase": 118.1,
+               "Ground Clearance": 7.2,
+               "Cargo Volume": 30.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4425,
+               "Gross Weight Limit": 6063
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.4,
+               "Highway": 32.7,
+               "Combined": 27.4,
+               "CO2 Emissions": 230
+          }
+     }
+},	
+ ] } 

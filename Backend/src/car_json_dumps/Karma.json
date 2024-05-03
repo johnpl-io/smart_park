@@ -1,0 +1,77 @@
+{ "brand_name" : "Karma", "models": [
+{
+     "model_name": "Karma Revero GT 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "296.4 KW @ - RPM\n403 HP @ - RPM\n397 BHP @ - RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 125,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 196.8,
+               "Width": 84,
+               "Height": 52.4,
+               "Wheelbase": 124.4
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 5509
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion Polymer",
+               "Nominal Capacity": 21.4,
+               "Charging time (normal)": "10 hours",
+               "Range": 50
+          }
+     }
+},{
+     "model_name": "Karma Revero GTS 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1499,
+               "Power": "394.2 KW @ - RPM\n536 HP @ - RPM\n529 BHP @ - RPM",
+               "Torque": "635 lb-ft @ - RPM\n861 Nm @ - RPM",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 R22"
+          },
+          "DIMENSIONS": {
+               "Length": 196.8,
+               "Width": 84,
+               "Height": 52.4,
+               "Wheelbase": 124.4
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 28,
+               "Range": 360
+          }
+     }
+},	
+ ] } 

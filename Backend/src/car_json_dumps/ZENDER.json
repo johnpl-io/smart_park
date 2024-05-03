@@ -1,0 +1,180 @@
+{ "brand_name" : "ZENDER", "models": [
+{
+     "model_name": "ZENDER Escape 6 2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2792,
+               "Power": "126.5 KW @ 5800 RPM\n172 HP @ 5800 RPM\n170 BHP @ 5800 RPM",
+               "Torque": "173 lb-ft @ 4200 RPM\n235 Nm @ 4200 RPM",
+               "Fuel System": "Multi-point Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 147,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5 Speed Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 150,
+               "Width": 68,
+               "Height": 50
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1870
+          }
+     }
+},{
+     "model_name": "ZENDER Fact 4 BiTurbo 1989",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3562,
+               "Power": "329.7 KW @ 6500 RPM\n448 HP @ 6500 RPM\n442 BHP @ 6500 RPM",
+               "Torque": "390 lb-ft @ 4000 RPM\n529 Nm @ 4000 RPM",
+               "Fuel System": "Electonic Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 194,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 160.6,
+               "Width": 78,
+               "Height": 43.7,
+               "Front/rear Track": "63.3 / 65 in (1,608/1,651 mm)",
+               "Wheelbase": 98.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2443
+          }
+     }
+},{
+     "model_name": "ZENDER Fact 4 Spider 1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "8",
+               "Displacement": 3562,
+               "Power": "329.7 KW @ 6500 RPM\n448 HP @ 6500 RPM\n442 BHP @ 6500 RPM",
+               "Torque": "390 lb-ft @ 4000 RPM\n529 Nm @ 4000 RPM",
+               "Fuel System": "Multi-point Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 194,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5 Speed Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 160.6,
+               "Width": 78,
+               "Height": 43.7,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2447
+          }
+     }
+},{
+     "model_name": "ZENDER Progetto 5 1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "6",
+               "Displacement": 2934,
+               "Power": "135.4 KW @ 5800 RPM\n184 HP @ 5800 RPM\n182 BHP @ 5800 RPM",
+               "Torque": "177 lb-ft @ 5200 RPM\n240 Nm @ 5200 RPM",
+               "Fuel System": "Electonic Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 134,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5 Speed Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2167
+          }
+     }
+},{
+     "model_name": "ZENDER Straight 8 2001",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "6",
+               "Displacement": 3201,
+               "Power": "239.3 KW @ 7400 RPM\n321 HP @ 7400 RPM\n321 BHP @ 7400 RPM",
+               "Torque": "258 lb-ft @ 3250 RPM\n350 Nm @ 3250 RPM",
+               "Fuel System": "Multi-point Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5 Speed Manual"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/30ZR-19"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2976
+          }
+     }
+},{
+     "model_name": "ZENDER Thirty 7 1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 1781,
+               "Fuel System": "Multi-point Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5 Speed Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1874.3
+          }
+     }
+},	
+ ] } 

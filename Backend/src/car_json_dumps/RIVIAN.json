@@ -1,0 +1,74 @@
+{ "brand_name" : "RIVIAN", "models": [
+{
+     "model_name": "RIVIAN R1T 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Power": "300 KW @ - RPM\n408 HP @ - RPM\n402 BHP @ - RPM",
+               "Torque": "413 lb-ft @ 7000 RPM\n560 Nm @ 7000 RPM",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "125 mph (201 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 5.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "DIMENSIONS": {
+               "Length": 215.6,
+               "Width": 67.3,
+               "Height": 71.5,
+               "Wheelbase": 135.8,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 11.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5886,
+               "Gross Weight Limit": 7650
+          },
+          "POWER SYSTEM SPECS": {
+               "Nominal Capacity": 105,
+               "Range": 230
+          },
+          "": {}
+     }
+},{
+     "model_name": "RIVIAN R1S 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "614.1 kw (835 hp)",
+               "Total maximum torque": "908 lb-ft (1231 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "125 mph (201 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 3.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/55R21 116H XL"
+          },
+          "DIMENSIONS": {
+               "Length": 198.4,
+               "Width": 67.3,
+               "Height": 71.7,
+               "Wheelbase": 121.1,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 11.7
+          },
+          "POWER SYSTEM SPECS": {
+               "Range": 320
+          },
+          "NOTES": {},
+          "": {}
+     }
+},	
+ ] } 

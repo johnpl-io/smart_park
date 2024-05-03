@@ -1,0 +1,3235 @@
+{ "brand_name" : "LEXUS", "models": [
+{
+     "model_name": "2024 Lexus GX",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Power": "260.4 KW @ - RPM\n354 HP @ - RPM\n349 BHP @ - RPM",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "10-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          }
+     }
+},{
+     "model_name": "2020 Lexus GX",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Power": "221.4 KW @ - RPM\n301 HP @ - RPM\n297 BHP @ - RPM",
+               "Torque": "329 lb-ft @ - RPM\n446 Nm @ - RPM",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 6500
+          }
+     }
+},{
+     "model_name": "LEXUS GX 460 2013-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4600,
+               "Power": "224 KW @ 5500 RPM\n305 HP @ 5500 RPM\n300 BHP @ 5500 RPM",
+               "Torque": "328 lb-ft @ 3500 RPM\n445 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed, Automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 192.1,
+               "Width": 74.2,
+               "Height": 74.2,
+               "Front/rear Track": "62.4/62.4 in (1,585/1,585 mm)",
+               "Wheelbase": 109.8,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 11.6,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5128,
+               "Gross Weight Limit": 6600
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15,
+               "Highway": 20,
+               "Combined": 17
+          }
+     }
+},{
+     "model_name": "LEXUS GX 2010-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4608,
+               "Power": "221 KW @ 5500 RPM\n301 HP @ 5500 RPM\n296 BHP @ 5500 RPM",
+               "Torque": "329 lb-ft @ 3500 RPM\n446 Nm @ 3500 RPM",
+               "Fuel System": "Turbocharged multipoint injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/60 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 189.2,
+               "Width": 74.2,
+               "Height": 72.6,
+               "Front/rear Track": "62.4/62.4 in (1,585/1,585 mm)",
+               "Wheelbase": 109.8,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 4.2,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5305,
+               "Gross Weight Limit": 6600
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15,
+               "Highway": 20,
+               "Combined": 17
+          }
+     }
+},{
+     "model_name": "LEXUS GX 2003-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4664,
+               "Power": "173 KW @ 4800 RPM\n235 HP @ 4800 RPM\n232 BHP @ 4800 RPM",
+               "Torque": "320 lb-ft @ 3400 RPM\n434 Nm @ 3400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 188.2,
+               "Width": 74,
+               "Height": 74.6,
+               "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
+               "Wheelbase": 109.8,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 49.7,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4740.8,
+               "Gross Weight Limit": 5997.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14,
+               "Highway": 17,
+               "Combined": 15,
+               "CO2 Emissions": 373
+          }
+     }
+},{
+     "model_name": "2024 Lexus ES",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Fuel": "Gasoline"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2022 Lexus ES",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2487,
+               "Power": "149.3 KW @ 6500 RPM\n203 HP @ 6500 RPM\n200 BHP @ 6500 RPM",
+               "Torque": "184 lb-ft @ 4000-5000 RPM\n249 Nm @ 4000-5000 RPM",
+               "Fuel System": "Multipoint Injection Naturally aspirated",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 131,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 195.9,
+               "Width": 73.4,
+               "Height": 56.9,
+               "Front/rear Track": "62.5/0 in (1,588/0 mm)",
+               "Wheelbase": 113,
+               "Cargo Volume": 13.9,
+               "Aerodynamics (Cd)": 0.26,
+               "Turning circle": 38.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3781,
+               "Gross Weight Limit": 4740
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25,
+               "Highway": 34.1,
+               "Combined": 28
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS ES 2018-2021",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2449,
+               "Power": "158.1 KW @ 6400 RPM\n215 HP @ 6400 RPM\n212 BHP @ 6400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55R17"
+          },
+          "DIMENSIONS": {
+               "Length": 195.8,
+               "Width": 73.5,
+               "Height": 56.9,
+               "Front/rear Track": "63/63.4 in (1,600/1,610 mm)",
+               "Wheelbase": 113
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3660,
+               "Gross Weight Limit": 4740
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "CO2 Emissions": 44
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS ES 2016-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3456,
+               "Power": "199.8 KW @ 6200 RPM\n271.7 HP @ 6200 RPM\n268 BHP @ 6200 RPM",
+               "Torque": "248 lb-ft @ 4700 RPM\n336 Nm @ 4700 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic (ECT-i)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55R17"
+          },
+          "DIMENSIONS": {
+               "Length": 193.3,
+               "Width": 71.7,
+               "Height": 57.1,
+               "Front/rear Track": "62.6/62 in (1,590/1,575 mm)",
+               "Wheelbase": 111,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.27
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3571,
+               "Gross Weight Limit": 4696
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 31,
+               "Combined": 24
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS ES 2012-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2494,
+               "Power": "135 KW @ 6000 RPM\n184 HP @ 6000 RPM\n181 BHP @ 6000 RPM",
+               "Torque": "173 lb-ft @ 4100 RPM\n235 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 123,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed, Automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 192.7,
+               "Width": 71.7,
+               "Height": 57.1,
+               "Front/rear Track": "62.6/42.7 in (1,590/1,085 mm)",
+               "Wheelbase": 111,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 17.3,
+               "Aerodynamics (Cd)": 0.27
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3660,
+               "Gross Weight Limit": 4630
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.4,
+               "Highway": 38.6,
+               "Combined": 29.8
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "LEXUS ES 2006-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3456,
+               "Power": "203 KW @ 6200 RPM\n276 HP @ 6200 RPM\n272 BHP @ 6200 RPM",
+               "Torque": "254 lb-ft @ 4700 RPM\n344 Nm @ 4700 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55R17"
+          },
+          "DIMENSIONS": {
+               "Length": 191.1,
+               "Width": 71.7,
+               "Height": 57.3,
+               "Front/rear Track": "62.2/61.7 in (1,580/1,567 mm)",
+               "Wheelbase": 109.3,
+               "Ground Clearance": 6.3,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3580.9,
+               "Gross Weight Limit": 4679
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 30.2
+          }
+     }
+},{
+     "model_name": "LEXUS ES 2002-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2994,
+               "Power": "156.7 KW @ 5800 RPM\n213 HP @ 5800 RPM\n210 BHP @ 5800 RPM",
+               "Torque": "221 lb-ft @ 4400 RPM\n299 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 139.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/60V R16"
+          },
+          "DIMENSIONS": {
+               "Length": 191.1,
+               "Width": 71.3,
+               "Height": 57.3,
+               "Front/rear Track": "60.8/60.4 in (1,544/1,534 mm)",
+               "Wheelbase": 107.1,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 14.5,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3351.6,
+               "Gross Weight Limit": 3935.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.9,
+               "Highway": 29,
+               "Combined": 23.1,
+               "CO2 Emissions": 242
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS RX 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "205.2 KW @ - RPM\n279 HP @ - RPM\n275 BHP @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "DIMENSIONS": {
+               "Length": 192.5,
+               "Width": 75.6,
+               "Height": 67.3,
+               "Front/rear Track": "65/65.9 in (1,651/1,674 mm)"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 26.7,
+               "CO2 Emissions (Combined)": "197 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS RX 2019-2022",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3456,
+               "Power": "217 KW @ 6300 RPM\n295 HP @ 6300 RPM\n291 BHP @ 6300 RPM",
+               "Torque": "267 lb-ft @ 4700-6300 RPM\n362 Nm @ 4700-6300 RPM",
+               "Fuel System": "Sequential Multiport Fuel Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 123,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65 VR18"
+          },
+          "DIMENSIONS": {
+               "Length": 192.5,
+               "Width": 74.6,
+               "Height": 67.7,
+               "Front/rear Track": "64.4/64 in (1,636/1,626 mm)",
+               "Wheelbase": 109.8,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 19.5,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4222,
+               "Gross Weight Limit": 5666
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.9,
+               "Highway": 28,
+               "Combined": 23
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS RX 2016-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "175 KW @ 4800-5600 RPM\n238 HP @ 4800-5600 RPM\n235 BHP @ 4800-5600 RPM",
+               "Torque": "258 lb-ft @ 1650-4000 RPM\n350 Nm @ 1650-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 192.5,
+               "Width": 74.6,
+               "Height": 66.5,
+               "Front/rear Track": "64.6/64.2 in (1,641/1,631 mm)",
+               "Wheelbase": 109.8,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 19.5,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4321,
+               "Gross Weight Limit": 5677
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.8,
+               "Highway": 35.6,
+               "Combined": 29.8,
+               "CO2 Emissions": 184
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS RX 2012-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2671,
+               "Power": "138.3 KW @ 5800 RPM\n188 HP @ 5800 RPM\n185 BHP @ 5800 RPM",
+               "Torque": "186 lb-ft @ 4200 RPM\n252 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/60R18"
+          },
+          "DIMENSIONS": {
+               "Length": 187.8,
+               "Width": 74.2,
+               "Height": 66.3,
+               "Front/rear Track": "64.2/63.8 in (1,631/1,621 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 7.3,
+               "Cargo Volume": 15.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4475,
+               "Gross Weight Limit": 5082
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 23.5
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "LEXUS RX 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3456,
+               "Power": "204 KW @ 6200 RPM\n277 HP @ 6200 RPM\n274 BHP @ 6200 RPM",
+               "Torque": "257 lb-ft @ 4700 RPM\n348 Nm @ 4700 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/60 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 187.7,
+               "Width": 74.2,
+               "Height": 66.3,
+               "Front/rear Track": "64.1/63.7 in (1,628/1,618 mm)",
+               "Wheelbase": 107.8,
+               "Ground Clearance": 6.88,
+               "Cargo Volume": 17.5,
+               "Aerodynamics (Cd)": 0.32,
+               "Turning circle": 40
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4343,
+               "Gross Weight Limit": 5610.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.4,
+               "Highway": 28,
+               "Combined": 22.1,
+               "CO2 Emissions": 250
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS RX 2004-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2995,
+               "Power": "150 KW @ 5600 RPM\n204 HP @ 5600 RPM\n201 BHP @ 5600 RPM",
+               "Torque": "209 lb-ft @ 4500 RPM\n283 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60R17"
+          },
+          "DIMENSIONS": {
+               "Length": 186.6,
+               "Width": 72.4,
+               "Height": 66.1,
+               "Front/rear Track": "62.2/61.4 in (1,580/1,560 mm)",
+               "Wheelbase": 107.1,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 15.5,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4045.5,
+               "Gross Weight Limit": 5247
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.9,
+               "Highway": 25,
+               "Combined": 19.3,
+               "CO2 Emissions": 288
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS RX 1998-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2362,
+               "Power": "118 KW @ 5600 RPM\n160 HP @ 5600 RPM\n158 BHP @ 5600 RPM",
+               "Torque": "163 lb-ft @ 4000 RPM\n221 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 180.1,
+               "Width": 71.5,
+               "Height": 65.6,
+               "Front/rear Track": "61.6/61 in (1,565/1,549 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 7.5,
+               "Cargo Volume": 17.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3792,
+               "Gross Weight Limit": 4949
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18,
+               "Highway": 22,
+               "Combined": 25,
+               "CO2 Emissions": 224
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS NX 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "149.3 KW @ - RPM\n203 HP @ - RPM\n200 BHP @ - RPM",
+               "Torque": "184 lb-ft @ - RPM\n249 Nm @ - RPM",
+               "Fuel System": "Naturally aspirated Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS NX 2017-2021",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "175.2 KW @ 4800-5600 RPM\n238 HP @ 4800-5600 RPM\n235 BHP @ 4800-5600 RPM",
+               "Torque": "258 lb-ft @ 1650-4000 RPM\n350 Nm @ 1650-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60R18"
+          },
+          "DIMENSIONS": {
+               "Length": 182.6,
+               "Width": 73.6,
+               "Height": 64.8,
+               "Wheelbase": 104.7,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3940,
+               "Gross Weight Limit": 5090
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 28,
+               "Combined": 28
+          },
+          "": {}
+     }
+},{
+     "model_name": "2014 Lexus NX",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "175 KW @ 4800-5600 RPM\n238 HP @ 4800-5600 RPM\n235 BHP @ 4800-5600 RPM",
+               "Torque": "258 lb-ft @ 1650-4000 RPM\n350 Nm @ 1650-4000 RPM",
+               "Fuel System": "Turbocharged direct injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 182.3,
+               "Width": 72.6,
+               "Height": 64.8,
+               "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
+               "Wheelbase": 104.7,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4050,
+               "Gross Weight Limit": 5200
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21,
+               "Highway": 28,
+               "Combined": 24
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS LX 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Power": "300.8 KW @ - RPM\n409 HP @ - RPM\n403 BHP @ - RPM",
+               "Torque": "479 lb-ft @ 3600 RPM\n649 Nm @ 3600 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Gearbox": "10-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Wheelbase": 112
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS LX 2015-2021",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5663,
+               "Power": "269.9 KW @ 5600 RPM\n367 HP @ 5600 RPM\n362 BHP @ 5600 RPM",
+               "Torque": "391 lb-ft @ 3200 RPM\n530 Nm @ 3200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 24.6,
+               "Fuel capacity (optional)": "11.9 gallons (45.0 L)"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic (ECT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/50R20"
+          },
+          "DIMENSIONS": {
+               "Length": 199.4,
+               "Width": 78,
+               "Height": 75.2,
+               "Front/rear Track": "64.6/64.4 in (1,641/1,636 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 8.9,
+               "Cargo Volume": 15.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 6041,
+               "Gross Weight Limit": 7826
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.6,
+               "Highway": 21.6,
+               "Combined": 16.3,
+               "CO2 Emissions": 334
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS LX 2012-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5663,
+               "Power": "285.6 KW @ 5600 RPM\n388.3 HP @ 5600 RPM\n383 BHP @ 5600 RPM",
+               "Torque": "403 lb-ft @ 3600 RPM\n546 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/50R20"
+          },
+          "DIMENSIONS": {
+               "Length": 196.5,
+               "Width": 77.6,
+               "Height": 75.6,
+               "Front/rear Track": "64.6/64.4 in (1,641/1,636 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 8.9,
+               "Cargo Volume": 15.5,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5908,
+               "Gross Weight Limit": 8501
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12,
+               "Highway": 17,
+               "Combined": 14
+          }
+     }
+},{
+     "model_name": "LEXUS LX 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5663,
+               "Power": "283 KW @ 5700 RPM\n383 HP @ 5700 RPM\n380 BHP @ 5700 RPM",
+               "Torque": "403 lb-ft @ 3600 RPM\n546 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "285/50R20"
+          },
+          "DIMENSIONS": {
+               "Length": 196.5,
+               "Width": 77.6,
+               "Height": 73.4,
+               "Front/rear Track": "64.6/64.4 in (1,641/1,636 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 8.9,
+               "Cargo Volume": 15.5,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5995,
+               "Gross Weight Limit": 7275
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12,
+               "Highway": 18,
+               "Combined": 15
+          }
+     }
+},{
+     "model_name": "LEXUS LX 1997-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4664,
+               "Power": "173 KW @ 4800 RPM\n235 HP @ 4800 RPM\n232 BHP @ 4800 RPM",
+               "Torque": "311 lb-ft @ 3400 RPM\n422 Nm @ 3400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 108.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/70 R 16"
+          },
+          "DIMENSIONS": {
+               "Length": 192.5,
+               "Width": 76.4,
+               "Height": 72.8,
+               "Front/rear Track": "63.8/63.6 in (1,621/1,615 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 9.8,
+               "Cargo Volume": 90.4,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5225.9,
+               "Gross Weight Limit": 7188.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.5,
+               "Highway": 17.7,
+               "Combined": 14.2,
+               "CO2 Emissions": 394
+          }
+     }
+},{
+     "model_name": "LEXUS LX 1996-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4477,
+               "Power": "158 KW @ 4600 RPM\n215 HP @ 4600 RPM\n212 BHP @ 4600 RPM",
+               "Torque": "275 lb-ft @ 3200 RPM\n373 Nm @ 3200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/70R16"
+          },
+          "DIMENSIONS": {
+               "Length": 189.8,
+               "Width": 72,
+               "Height": 75.2,
+               "Front/rear Track": "60.4/60.6 in (1,534/1,539 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 47,
+               "Aerodynamics (Cd)": 0.42
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4410,
+               "Gross Weight Limit": 6526.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.7,
+               "Highway": 15.7
+          }
+     }
+},{
+     "model_name": "LEXUS IS 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "177.3 KW @ - RPM\n241 HP @ - RPM\n238 BHP @ - RPM",
+               "Torque": "258 lb-ft @ 1650-4400 RPM\n350 Nm @ 1650-4400 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 185.4,
+               "Width": 72.4,
+               "Height": 56.5,
+               "Front/rear Track": "62.2/62 in (1,580/1,575 mm)",
+               "Wheelbase": 110.2,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 10.8,
+               "Aerodynamics (Cd)": 0.28,
+               "Turning circle": 34.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3583
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS IS 2016-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "179.7 KW @ 5800 RPM\n244 HP @ 5800 RPM\n241 BHP @ 5800 RPM",
+               "Torque": "258 lb-ft @ 1650-4400 RPM\n350 Nm @ 1650-4400 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/40 R18 // 255/35 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 183.7,
+               "Width": 71.3,
+               "Height": 56.3,
+               "Front/rear Track": "60.4/60.6 in (1,534/1,539 mm)",
+               "Wheelbase": 110.2,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 17,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3704,
+               "Gross Weight Limit": 4685
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 33.6,
+               "CO2 Emissions": 162
+          },
+          "": {}
+     }
+},{
+     "model_name": "2014 Lexus IS",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2494,
+               "Power": "150 KW @ 6400 RPM\n204 HP @ 6400 RPM\n201 BHP @ 6400 RPM",
+               "Torque": "185 lb-ft @ 4800 RPM\n251 Nm @ 4800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 131,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/40R18 (front) 255/35R18 (rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 183.7,
+               "Width": 71.3,
+               "Height": 56.3,
+               "Front/rear Track": "60.4/61 in (1,534/1,549 mm)",
+               "Wheelbase": 110.2,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 13.8,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3649
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20,
+               "Highway": 27,
+               "Combined": 23,
+               "CO2 Emissions": 200
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "LEXUS IS F 2013-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "8",
+               "Displacement": 4965,
+               "Power": "310 KW @ 6000 RPM\n422 HP @ 6000 RPM\n416 BHP @ 6000 RPM",
+               "Torque": "371 lb-ft @ 5200 RPM\n503 Nm @ 5200 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 170,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed direct shift automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs 360 mm",
+               "Rear": "Ventilated discs 345 mm"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/40YR19 front and 255/35YR19 rear"
+          },
+          "DIMENSIONS": {
+               "Length": 183.5,
+               "Width": 71.5,
+               "Height": 55.7,
+               "Wheelbase": 107.5,
+               "Cargo Volume": 13.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3781
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 23.1,
+               "Combined": 18
+          }
+     }
+},{
+     "model_name": "LEXUS IS C 2009-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2500,
+               "Power": "152 KW @ 6400 RPM\n207 HP @ 6400 RPM\n204 BHP @ 6400 RPM",
+               "Torque": "185 lb-ft @ 4800 RPM\n251 Nm @ 4800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 134,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 182.5,
+               "Width": 70.9,
+               "Height": 55.9,
+               "Front/rear Track": "60.4/60 in (1,534/1,524 mm)",
+               "Wheelbase": 107.5,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 10.8,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3840,
+               "Gross Weight Limit": 4574
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18,
+               "Highway": 26,
+               "Combined": 22,
+               "CO2 Emissions": 219
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS IS F 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4969,
+               "Power": "311 KW @ 6600 RPM\n423 HP @ 6600 RPM\n417 BHP @ 6600 RPM",
+               "Torque": "372 lb-ft @ 5200 RPM\n505 Nm @ 5200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 167.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35/R19"
+          },
+          "DIMENSIONS": {
+               "Length": 183.4,
+               "Width": 71.6,
+               "Height": 55.9,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 107.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 13.3,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3692.7,
+               "Gross Weight Limit": 4673.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14,
+               "Highway": 28.3,
+               "Combined": 20.6,
+               "CO2 Emissions": 270
+          }
+     }
+},{
+     "model_name": "LEXUS IS 2005-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2499,
+               "Power": "153 KW @ 6400 RPM\n208 HP @ 6400 RPM\n205 BHP @ 6400 RPM",
+               "Torque": "185 lb-ft @ 4800 RPM\n251 Nm @ 4800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 142.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55/R16"
+          },
+          "DIMENSIONS": {
+               "Length": 180.1,
+               "Width": 70.9,
+               "Height": 56.1,
+               "Front/rear Track": "60.4/60.4 in (1,534/1,534 mm)",
+               "Wheelbase": 107.5,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 13,
+               "Aerodynamics (Cd)": 0.27
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3461.2,
+               "Gross Weight Limit": 4530.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.4,
+               "Highway": 30.5,
+               "Combined": 24,
+               "CO2 Emissions": 231
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS IS Sport Cross 2001-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 1988,
+               "Power": "114 KW @ 6200 RPM\n155 HP @ 6200 RPM\n153 BHP @ 6200 RPM",
+               "Torque": "144 lb-ft @ 4400 RPM\n195 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 133.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/45/R17"
+          },
+          "DIMENSIONS": {
+               "Length": 177.2,
+               "Width": 67.7,
+               "Height": 56.3,
+               "Front/rear Track": "59/58.3 in (1,499/1,481 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 12.1,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3097.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.29,
+               "Highway": 30.15,
+               "Combined": 24,
+               "CO2 Emissions": 233
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS IS 1998-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 1988,
+               "Power": "114 KW @ 6200 RPM\n155 HP @ 6200 RPM\n153 BHP @ 6200 RPM",
+               "Torque": "144 lb-ft @ 4400 RPM\n195 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 133.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/45ZR17"
+          },
+          "DIMENSIONS": {
+               "Length": 173.2,
+               "Width": 67.7,
+               "Height": 55.9,
+               "Front/rear Track": "59/58.3 in (1,499/1,481 mm)",
+               "Wheelbase": 105.1,
+               "Ground Clearance": 5.4,
+               "Cargo Volume": 14.1,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2987.3,
+               "Gross Weight Limit": 4034.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.3,
+               "Highway": 30.1,
+               "Combined": 24,
+               "CO2 Emissions": 233
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS LS 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3455,
+               "Power": "306 KW @ 6000 RPM\n416 HP @ 6000 RPM\n410 BHP @ 6000 RPM",
+               "Torque": "442 lb-ft @ 1600-4800 RPM\n599 Nm @ 1600-4800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 136,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "10-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/50R19"
+          },
+          "DIMENSIONS": {
+               "Length": 206.1,
+               "Width": 74.8,
+               "Height": 57.1,
+               "Front/rear Track": "64.4/64.4 in (1,636/1,636 mm)",
+               "Wheelbase": 123,
+               "Cargo Volume": 16.95,
+               "Aerodynamics (Cd)": 0.3,
+               "Turning circle (curb to curb)": "39.4 ft (12.0 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4938,
+               "Gross Weight Limit": 6095
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18,
+               "Highway": 27,
+               "Combined": 21
+          },
+          "": {}
+     }
+},{
+     "model_name": "2017 Lexus LS",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3456,
+               "Power": "306 KW @ 6600 RPM\n416 HP @ 6600 RPM\n410 BHP @ 6600 RPM",
+               "Torque": "442 lb-ft @ 1600-4800 RPM\n599 Nm @ 1600-4800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 136,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "10-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/50RF19"
+          },
+          "DIMENSIONS": {
+               "Length": 206.1,
+               "Width": 74.8,
+               "Height": 57.5,
+               "Front/rear Track": "64.4/64.4 in (1,636/1,636 mm)",
+               "Wheelbase": 123,
+               "Cargo Volume": 16.95,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5093,
+               "Gross Weight Limit": 10692
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 30,
+               "Combined": 23,
+               "CO2 Emissions": 158
+          },
+          "NOTES": {
+               "Adjustable suspension": "Available F SPORT-tuned, height-adjustable Adaptive Variable Air Suspension with electronically controlled air\nsprings and rapid height function"
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS LS 2012-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4608,
+               "Power": "287 KW @ 6400 RPM\n390 HP @ 6400 RPM\n385 BHP @ 6400 RPM",
+               "Torque": "369 lb-ft @ 4100 RPM\n500 Nm @ 4100 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50VR18"
+          },
+          "DIMENSIONS": {
+               "Length": 200.4,
+               "Width": 73.8,
+               "Height": 57.3,
+               "Wheelbase": 116.9,
+               "Cargo Volume": 18,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4365
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 24,
+               "Combined": 19
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS LS 2009-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4608,
+               "Power": "279 KW @ 6400 RPM\n379 HP @ 6400 RPM\n374 BHP @ 6400 RPM",
+               "Torque": "367 lb-ft @ 4100 RPM\n498 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 199.2,
+               "Width": 73.8,
+               "Height": 58.1,
+               "Front/rear Track": "63.4/63.6 in (1,610/1,615 mm)",
+               "Wheelbase": 116.9,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 18,
+               "Aerodynamics (Cd)": 0.26,
+               "Turning circle": 39.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4244,
+               "Gross Weight Limit": 5291
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.1,
+               "Highway": 27,
+               "Combined": 21.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "2007 Lexus LS",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4608,
+               "Power": "280 KW @ 6400 RPM\n381 HP @ 6400 RPM\n375 BHP @ 6400 RPM",
+               "Torque": "364 lb-ft @ 4100 RPM\n493 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 202.7,
+               "Width": 74,
+               "Height": 58.3,
+               "Front/rear Track": "63.4/63.4 in (1,610/1,610 mm)",
+               "Wheelbase": 121.6,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 18,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4332.8,
+               "Gross Weight Limit": 5446.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 21.8,
+               "CO2 Emissions": 257
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS LS 2003-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4293,
+               "Power": "207 KW @ 5600 RPM\n282 HP @ 5600 RPM\n278 BHP @ 5600 RPM",
+               "Torque": "308 lb-ft @ 3500 RPM\n417 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45R18"
+          },
+          "DIMENSIONS": {
+               "Length": 197.6,
+               "Width": 72,
+               "Height": 57.9,
+               "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
+               "Wheelbase": 115,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 20.2,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4001.4,
+               "Gross Weight Limit": 5158.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.4,
+               "Highway": 27.7,
+               "Combined": 20.6,
+               "CO2 Emissions": 270
+          }
+     }
+},{
+     "model_name": "LEXUS LS 2000-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4293,
+               "Power": "207 KW @ 5600 RPM\n281 HP @ 5600 RPM\n278 BHP @ 5600 RPM",
+               "Torque": "308 lb-ft @ 3500 RPM\n417 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55R17"
+          },
+          "DIMENSIONS": {
+               "Length": 196.8,
+               "Width": 72,
+               "Height": 57.9,
+               "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
+               "Wheelbase": 115,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 19.5,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4034.4,
+               "Gross Weight Limit": 5180.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.4,
+               "Highway": 26.4,
+               "Combined": 19.4,
+               "CO2 Emissions": 289
+          }
+     }
+},{
+     "model_name": "LEXUS LS 1997-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3969,
+               "Power": "209 KW @ 5900 RPM\n284 HP @ 5900 RPM\n280 BHP @ 5900 RPM",
+               "Torque": "294 lb-ft @ 4100 RPM\n398 Nm @ 4100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60WR16"
+          },
+          "DIMENSIONS": {
+               "Length": 196.8,
+               "Width": 72,
+               "Height": 56.7,
+               "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 16.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3869.1,
+               "Gross Weight Limit": 4949.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.5,
+               "Highway": 25.6,
+               "Combined": 19.3,
+               "CO2 Emissions": 291
+          }
+     }
+},{
+     "model_name": "LEXUS LS 1995-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3969,
+               "Power": "194 KW @ 5400 RPM\n264 HP @ 5400 RPM\n260 BHP @ 5400 RPM",
+               "Torque": "269 lb-ft @ 4400 RPM\n365 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60WR16"
+          },
+          "DIMENSIONS": {
+               "Length": 196.85,
+               "Width": 72.04,
+               "Height": 56.69,
+               "Front/rear Track": "61.81/61.81 in (1,570/1,570 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 16.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3681.71,
+               "Gross Weight Limit": 4817.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 23,
+               "Combined": 19,
+               "CO2 Emissions": 293
+          }
+     }
+},{
+     "model_name": "LEXUS LS 1990-1995",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3969,
+               "Power": "180 KW @ 5400 RPM\n245 HP @ 5400 RPM\n241 BHP @ 5400 RPM",
+               "Torque": "258 lb-ft @ 4400 RPM\n350 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60ZR16"
+          },
+          "DIMENSIONS": {
+               "Length": 196.9,
+               "Width": 72,
+               "Height": 56.7,
+               "Front/rear Track": "61.4/61.4 in (1,560/1,560 mm)",
+               "Wheelbase": 111,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3959.5,
+               "Gross Weight Limit": 4982.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 21.4,
+               "CO2 Emissions": 262
+          }
+     }
+},{
+     "model_name": "LEXUS RC 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3456,
+               "Power": "228.7 KW @ - RPM\n311 HP @ - RPM\n307 BHP @ - RPM",
+               "Torque": "280 lb-ft @ 4800 RPM\n380 Nm @ 4800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35YR19 // 275/35YR19"
+          },
+          "DIMENSIONS": {
+               "Length": 185.2,
+               "Width": 72.6,
+               "Height": 54.7,
+               "Front/rear Track": "61.4/62.2 in (1,560/1,580 mm)",
+               "Wheelbase": 107.5,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 10.1,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3891,
+               "Gross Weight Limit": 4740
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.9,
+               "Highway": 28,
+               "Combined": 23.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS RC 2014-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3456,
+               "Power": "228 KW @ 6400 RPM\n310 HP @ 6400 RPM\n306 BHP @ 6400 RPM",
+               "Torque": "277 lb-ft @ 4800 RPM\n376 Nm @ 4800 RPM",
+               "Fuel System": "Direct and Indirect injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40R19 || 265/35R19"
+          },
+          "DIMENSIONS": {
+               "Length": 184.8,
+               "Width": 72.4,
+               "Height": 54.9,
+               "Front/rear Track": "62.2/61.8 in (1,580/1,570 mm)",
+               "Wheelbase": 107.5,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 10.4,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3748
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 18,
+               "Combined": 22
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS CT 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "72.8 KW @ 5200 RPM\n99 HP @ 5200 RPM\n98 BHP @ 5200 RPM",
+               "Torque": "105 lb-ft @ 2800-4400 RPM\n142 Nm @ 2800-4400 RPM",
+               "Fuel System": "Multipoint Injection, Atkinson Cycle",
+               "Fuel": "Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "eCVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3053,
+               "Gross Weight Limit": 4068
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 61.9,
+               "Highway": 61.9,
+               "Combined": 61.9,
+               "CO2 Emissions": 88
+          },
+          "NOTES": {
+               "Hybrid system\nElectric motor power": "60 kW (82 HP)\nElectric motor torque: 207 Nm (153 lb-ft)\nTotal system power: 100 kW (136 HP)\nTotal system torque: 207 Nm (153 lb-ft)"
+          }
+     }
+},{
+     "model_name": "LEXUS CT 2014-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "72.8 KW @ 5200 RPM\n99 HP @ 5200 RPM\n98 BHP @ 5200 RPM",
+               "Torque": "105 lb-ft @ 2800-4400 RPM\n142 Nm @ 2800-4400 RPM",
+               "Electrical motor power": "60.3 kw (82 hp)",
+               "Electrical motor torque": "152.7 lb-ft (207 Nm)",
+               "Total maximum power": "100 kw (136 hp)",
+               "Total maximum torque": "152.7 lb-ft (207 Nm)",
+               "Fuel System": "Multipoint Injection, Atkinson Cycle",
+               "Fuel": "Hybrid",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 113,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "eCVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs 254 mm",
+               "Rear": "Discs 278 mm"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/45 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 171.3,
+               "Width": 69.5,
+               "Height": 57.3,
+               "Front/rear Track": "60/59.8 in (1,524/1,519 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 13.2,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3053,
+               "Gross Weight Limit": 4068
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 61.9,
+               "Highway": 61.9,
+               "Combined": 61.9,
+               "CO2 Emissions": 88
+          }
+     }
+},{
+     "model_name": "LEXUS CT 2011-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "73 KW @ 5200 RPM\n99 HP @ 5200 RPM\n98 BHP @ 5200 RPM",
+               "Torque": "105 lb-ft @ 2800-4400 RPM\n142 Nm @ 2800-4400 RPM",
+               "Fuel System": "Multipoint Injection, Atkinson Cycle",
+               "Fuel": "Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 113,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "eCVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 170.1,
+               "Width": 69.5,
+               "Height": 56.3,
+               "Front/rear Track": "60/59.8 in (1,524/1,519 mm)",
+               "Wheelbase": 102.4,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 9.7,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3020,
+               "Gross Weight Limit": 3946
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 63.6,
+               "Highway": 63.6,
+               "Combined": 61.9,
+               "CO2 Emissions": 87
+          },
+          "NOTES": {
+               "Electric Engine\nPower": "60 kW (82 HP)\nTorque: 207 Nm\n\nSystem Power Output: 100 kW (136 HP)"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2015 Lexus GS F",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4969,
+               "Power": "344 KW @ 7100 RPM\n467 HP @ 7100 RPM\n461 BHP @ 7100 RPM",
+               "Torque": "389 lb-ft @ 4800 RPM\n527 Nm @ 4800 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated disc"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35R19 || 275/35R19"
+          },
+          "DIMENSIONS": {
+               "Length": 193.5,
+               "Width": 72.6,
+               "Height": 56.7,
+               "Front/rear Track": "61.2/61.4 in (1,554/1,560 mm)",
+               "Wheelbase": 112.2,
+               "Cargo Volume": 15.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4034
+          }
+     }
+},{
+     "model_name": "2021 Lexus LC 500 Convertible",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4998,
+               "Power": "346.4 KW @ 7100 RPM\n471 HP @ 7100 RPM\n465 BHP @ 7100 RPM",
+               "Torque": "398 lb-ft @ 4800 RPM\n540 Nm @ 4800 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "10-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45RF20 // 275/40RF20"
+          },
+          "DIMENSIONS": {
+               "Length": 187.4,
+               "Width": 75.6,
+               "Height": 53.1,
+               "Front/rear Track": "64.2/64.4 in (1,631/1,636 mm)",
+               "Wheelbase": 113,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 3.4,
+               "Aerodynamics (Cd)": 0.33,
+               "Turning circle": 8.5,
+               "Turning circle (curb to curb)": "17.7 ft (5.4 m)"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15,
+               "Highway": 25,
+               "Combined": 18
+          }
+     }
+},{
+     "model_name": "2017 Lexus LC",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4968,
+               "Power": "349.4 KW @ 7100 RPM\n475 HP @ 7100 RPM\n469 BHP @ 7100 RPM",
+               "Torque": "391 lb-ft @ 4800-5600 RPM\n530 Nm @ 4800-5600 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "10-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45RF20 || 275/40RF20"
+          },
+          "DIMENSIONS": {
+               "Length": 187.4,
+               "Width": 75.6,
+               "Height": 53,
+               "Front/rear Track": "64.2/64.5 in (1,631/1,638 mm)",
+               "Wheelbase": 113,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 7,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4266,
+               "Gross Weight Limit": 5236
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.5,
+               "Highway": 29.4,
+               "Combined": 20.5,
+               "CO2 Emissions": 263
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Lexus TX",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "202.3 KW @ - RPM\n275 HP @ - RPM\n271 BHP @ - RPM",
+               "Torque": "317 lb-ft @ - RPM\n430 Nm @ - RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-automatic speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 203.1,
+               "Width": 78.3,
+               "Height": 70.1,
+               "Front/rear Track": "67.4x67.8 in (1712 mm)",
+               "Wheelbase": 116.1,
+               "Cargo Volume": 20.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 LEXUS LBX",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1490,
+               "Electrical motor power": "69.1 kw (94 hp)",
+               "Total maximum power": "100 kw (136 hp)",
+               "Total maximum torque": "136.4 lb-ft (185 Nm)",
+               "Fuel System": "Multipoint Injection Naturally aspirated",
+               "Fuel": "Hybrid Gasoline",
+               "Fuel capacity": 9.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "e-CVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 165,
+               "Width": 71.9,
+               "Height": 60.8,
+               "Wheelbase": 101.6,
+               "Ground Clearance": 8.7,
+               "Cargo Volume": 11.7,
+               "Aerodynamics (Cd)": 0.34,
+               "Turning circle": 34.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2822,
+               "Gross Weight Limit": 3869
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 54.7,
+               "CO2 Emissions (Combined)": "100 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Lexus LM",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2487,
+               "Power": "183.9 KW @ - RPM\n250 HP @ - RPM\n247 BHP @ - RPM",
+               "Torque": "176 lb-ft @ 4300-4500 RPM\n239 Nm @ 4300-4500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Hybrid Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Hybrid transaxle"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 202,
+               "Width": 73.2,
+               "Height": 76.6,
+               "Wheelbase": 118.1
+          }
+     }
+},{
+     "model_name": "LEXUS RZ 450e 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "150 kw (204 hp)",
+               "Total maximum power": "230.2 kw (313 hp)",
+               "Total maximum torque": "320.8 lb-ft (435 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/60 R18 // 255/55 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 189.2,
+               "Width": 74.6,
+               "Height": 64.4,
+               "Wheelbase": 112.2
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 71.4,
+               "Range": 248.5
+          },
+          "NOTES": {
+               "Electric motor 2 power": "109 HP\nAverage Energy consumption WLTP: 18 kWh/100 km"
+          }
+     }
+},{
+     "model_name": "2015 Lexus RC F",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4969,
+               "Power": "344 KW @ 7100 RPM\n467 HP @ 7100 RPM\n461 BHP @ 7100 RPM",
+               "Torque": "391 lb-ft @ 4800-5600 RPM\n530 Nm @ 4800-5600 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 170,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed direct shift automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs 380 mm",
+               "Rear": "Ventilated disc 345 mm"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 R 19 || 275/35 R 19"
+          },
+          "DIMENSIONS": {
+               "Length": 185.2,
+               "Width": 72.6,
+               "Height": 54.7,
+               "Front/rear Track": "61.2/61.4 in (1,554/1,560 mm)",
+               "Wheelbase": 107.5,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 10.1,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4057,
+               "Gross Weight Limit": 4828
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 25,
+               "Combined": 19,
+               "CO2 Emissions": 251
+          }
+     }
+},{
+     "model_name": "LEXUS UX 300e 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "150 kw (204 hp)",
+               "Electrical motor torque": "221.3 lb-ft (300 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Single speed automayic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 177,
+               "Width": 72.4,
+               "Height": 60.8,
+               "Front/rear Track": "61.4/61.4 in (1,560/1,560 mm)",
+               "Wheelbase": 103.9,
+               "Cargo Volume": 13
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion 288 cell",
+               "Nominal Capacity": 54.3,
+               "Range": 186.4
+          }
+     }
+},{
+     "model_name": "LEXUS UX 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1987,
+               "Power": "124.3 KW @ 6000 RPM\n169 HP @ 6000 RPM\n167 BHP @ 6000 RPM",
+               "Torque": "151 lb-ft @ 4800 RPM\n205 Nm @ 4800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "CVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50RF18"
+          },
+          "DIMENSIONS": {
+               "Length": 177,
+               "Width": 72.4,
+               "Height": 59.8,
+               "Front/rear Track": "61/61 in (1,549/1,549 mm)",
+               "Wheelbase": 103.9,
+               "Cargo Volume": 13.1,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3307,
+               "Gross Weight Limit": 4409
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 29,
+               "Highway": 37,
+               "Combined": 33
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS GS 2015-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "179.5 KW @ 5800 RPM\n244 HP @ 5800 RPM\n241 BHP @ 5800 RPM",
+               "Torque": "258 lb-ft @ 1650-4400 RPM\n350 Nm @ 1650-4400 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P 235/50 R 17"
+          },
+          "DIMENSIONS": {
+               "Length": 192.1,
+               "Width": 72.4,
+               "Height": 57.3,
+               "Front/rear Track": "62/62.6 in (1,575/1,590 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.27
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3805,
+               "Gross Weight Limit": 4960
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 33.1,
+               "Combined": 26
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS GS 2012-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2500,
+               "Power": "154 KW @ 6400 RPM\n209 HP @ 6400 RPM\n207 BHP @ 6400 RPM",
+               "Torque": "187 lb-ft @ 4800 RPM\n254 Nm @ 4800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic (ECT-i)"
+          },
+          "BRAKES SPECS": {
+               "Front": "13.1-in Ventilated Discs",
+               "Rear": "12.2-in Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50VR17"
+          },
+          "DIMENSIONS": {
+               "Length": 190.9,
+               "Width": 72.4,
+               "Height": 57.3,
+               "Front/rear Track": "60.4/60.6 in (1,534/1,539 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 19.5,
+               "Aerodynamics (Cd)": 0.27
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3616,
+               "Gross Weight Limit": 4784
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.2,
+               "Highway": 34.1,
+               "Combined": 26.4,
+               "CO2 Emissions": 207
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS GS 2008-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2995,
+               "Power": "183 KW @ 6200 RPM\n249 HP @ 6200 RPM\n245 BHP @ 6200 RPM",
+               "Torque": "228 lb-ft @ 3500 RPM\n309 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 190,
+               "Width": 71.7,
+               "Height": 56.1,
+               "Front/rear Track": "60.4/60.6 in (1,534/1,539 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.27,
+               "Turning circle": 36.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3736,
+               "Gross Weight Limit": 4685
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.6,
+               "Highway": 33.6,
+               "Combined": 24.5,
+               "CO2 Emissions": 232
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "LEXUS GS 2005-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2994,
+               "Power": "170 KW @ 6200 RPM\n231 HP @ 6200 RPM\n228 BHP @ 6200 RPM",
+               "Torque": "221 lb-ft @ 3500 RPM\n300 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50/R17"
+          },
+          "DIMENSIONS": {
+               "Length": 190,
+               "Width": 71.7,
+               "Height": 56.1,
+               "Front/rear Track": "60.4/60.6 in (1,534/1,539 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 12.7,
+               "Aerodynamics (Cd)": 0.27,
+               "Turning circle": 36.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3539,
+               "Gross Weight Limit": 4542.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 32.7,
+               "Combined": 24,
+               "CO2 Emissions": 232
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS GS 2000-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2997,
+               "Power": "161.8 KW @ 5800 RPM\n220 HP @ 5800 RPM\n217 BHP @ 5800 RPM",
+               "Torque": "217 lb-ft @ 3800 RPM\n294 Nm @ 3800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 142.91,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55VR16"
+          },
+          "DIMENSIONS": {
+               "Length": 188.97,
+               "Width": 70.86,
+               "Height": 56.69,
+               "Front/rear Track": "60.62/59.44 in (1,540/1,510 mm)",
+               "Wheelbase": 110.23,
+               "Ground Clearance": 5,
+               "Cargo Volume": 18.2,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3615.7,
+               "Gross Weight Limit": 4673.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.3,
+               "Highway": 26.7,
+               "Combined": 20.3,
+               "CO2 Emissions": 281
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS GS 1997-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2997,
+               "Power": "163 KW @ 5800 RPM\n222 HP @ 5800 RPM\n219 BHP @ 5800 RPM",
+               "Torque": "220 lb-ft @ 3800 RPM\n298 Nm @ 3800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 142.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55VR16"
+          },
+          "DIMENSIONS": {
+               "Length": 189,
+               "Width": 70.9,
+               "Height": 56.7,
+               "Front/rear Track": "60.6/59.4 in (1,539/1,509 mm)",
+               "Wheelbase": 110.2,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 18.2,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3814,
+               "Gross Weight Limit": 4673.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.7,
+               "Highway": 26.7,
+               "Combined": 20.6,
+               "CO2 Emissions": 272
+          },
+          "": {}
+     }
+},{
+     "model_name": "LEXUS GS 1993-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2997,
+               "Power": "156 KW @ 5800 RPM\n212 HP @ 5800 RPM\n209 BHP @ 5800 RPM",
+               "Torque": "203 lb-ft @ 4800 RPM\n275 Nm @ 4800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 142.91,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55R16"
+          },
+          "DIMENSIONS": {
+               "Length": 195.27,
+               "Width": 70.86,
+               "Height": 55.9,
+               "Front/rear Track": "60.62/59.84 in (1,540/1,520 mm)",
+               "Wheelbase": 109.44,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 14.3,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3692.7,
+               "Gross Weight Limit": 4673.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 22.6,
+               "CO2 Emissions": 248
+          }
+     }
+},{
+     "model_name": "LEXUS HS 250h 2009-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2362,
+               "Power": "110 KW @ 6000 RPM\n149.6 HP @ 6000 RPM\n148 BHP @ 6000 RPM",
+               "Torque": "138 lb-ft @ 4000 RPM\n187 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Continuously Variable Transmission (CVT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P215/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 184.8,
+               "Width": 70.3,
+               "Height": 59.3,
+               "Front/rear Track": "60.4/60.2 in (1,534/1,529 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 12.1,
+               "Aerodynamics (Cd)": 0.27
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3660,
+               "Gross Weight Limit": 4266
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 35,
+               "Highway": 34,
+               "Combined": 35
+          },
+          "NOTES": {
+               "Front high-output, permanent-magnet, electric-drive motor with EV mode.\nTotal system power": "140 kW (190 HP)\nElectric motor power: 105 kW (143 HP)\nElectric motor torque: 270 Nm (199 lb-ft)"
+          }
+     }
+},{
+     "model_name": "2010 Lexus LFA",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V10",
+               "Displacement": 4805,
+               "Power": "412 KW @ 8700 RPM\n560 HP @ 8700 RPM\n553 BHP @ 8700 RPM",
+               "Torque": "354 lb-ft @ 6800 RPM\n480 Nm @ 6800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Carbon Ceramic Cross-drilled Discs",
+               "Rear": "Carbon Ceramic Cross-drilled Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 ZR20 || 305/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 177,
+               "Width": 74.6,
+               "Height": 48,
+               "Front/rear Track": "62.2/61.8 in (1,580/1,570 mm)",
+               "Wheelbase": 102.6,
+               "Ground Clearance": 4.5,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3263,
+               "Gross Weight Limit": 3748
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11,
+               "Highway": 16,
+               "Combined": 12
+          }
+     }
+},{
+     "model_name": "LEXUS SC 2005-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4293,
+               "Power": "210 KW @ 5600 RPM\n286 HP @ 5600 RPM\n282 BHP @ 5600 RPM",
+               "Torque": "309 lb-ft @ 3500 RPM\n419 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40R18 Z"
+          },
+          "DIMENSIONS": {
+               "Length": 178.5,
+               "Width": 72,
+               "Height": 53.1,
+               "Front/rear Track": "61/60.4 in (1,549/1,534 mm)",
+               "Wheelbase": 103.1,
+               "Ground Clearance": 5.6,
+               "Cargo Volume": 12.9,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3836,
+               "Gross Weight Limit": 4651.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 23,
+               "Combined": 19.5,
+               "CO2 Emissions": 269
+          }
+     }
+},{
+     "model_name": "LEXUS SC 2001-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4293,
+               "Power": "210 KW @ 5600 RPM\n286 HP @ 5600 RPM\n282 BHP @ 5600 RPM",
+               "Torque": "309 lb-ft @ 3500 RPM\n419 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 177.95,
+               "Width": 71.65,
+               "Height": 53.93,
+               "Front/rear Track": "61.02/60.62 in (1,550/1,540 mm)",
+               "Wheelbase": 103.14,
+               "Ground Clearance": 5.6,
+               "Cargo Volume": 4.7,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3836,
+               "Gross Weight Limit": 4651.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.7,
+               "Highway": 26.1,
+               "Combined": 19.6,
+               "CO2 Emissions": 287
+          }
+     }
+},{
+     "model_name": "LEXUS SC 1991-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2997,
+               "Power": "168 KW @ 6000 RPM\n228 HP @ 6000 RPM\n225 BHP @ 6000 RPM",
+               "Torque": "210 lb-ft @ 4800 RPM\n285 Nm @ 4800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 146,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 191.1,
+               "Width": 70.5,
+               "Height": 52.6,
+               "Front/rear Track": "59.9/60 in (1,521/1,524 mm)",
+               "Wheelbase": 105.9,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 9.3,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3576
+          },
+          "": {}
+     }
+},	
+ ] } 

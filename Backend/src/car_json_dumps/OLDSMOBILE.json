@@ -1,0 +1,541 @@
+{ "brand_name" : "OLDSMOBILE", "models": [
+{
+     "model_name": "OLDSMOBILE 442 Convertible 1970-1971",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 7456,
+               "Power": "268.5 KW @ 4800 RPM\n365 HP @ 4800 RPM\n360 BHP @ 4800 RPM",
+               "Torque": "500 lb-ft @ 3200 RPM\n678 Nm @ 3200 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "9.5 in Disks",
+               "Rear": "9.5 in Disks"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "G70 x 14"
+          },
+          "DIMENSIONS": {
+               "Length": 203.2,
+               "Width": 76.2,
+               "Height": 52.8,
+               "Front/rear Track": "59/59 in (1,499/1,499 mm)",
+               "Wheelbase": 112
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3686
+          }
+     }
+},{
+     "model_name": "OLDSMOBILE 88 1949-1953",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3438,
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          }
+     }
+},{
+     "model_name": "OLDSMOBILE Alero coupe 1999-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2198,
+               "Power": "104 KW @ 5600 RPM\n140 HP @ 5600 RPM\n139 BHP @ 5600 RPM",
+               "Torque": "150 lb-ft @ 4000 RPM\n203 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P215/60 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 186.7,
+               "Width": 70.1,
+               "Height": 54.5,
+               "Front/rear Track": "59.1/59.3 in (1,501/1,506 mm)",
+               "Wheelbase": 107,
+               "Ground Clearance": 5,
+               "Cargo Volume": 14.6,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2950
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24,
+               "Highway": 32,
+               "Combined": 28
+          },
+          "": {}
+     }
+},{
+     "model_name": "OLDSMOBILE Alero sedan 1999-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2198,
+               "Power": "104 KW @ 5600 RPM\n140 HP @ 5600 RPM\n139 BHP @ 5600 RPM",
+               "Torque": "150 lb-ft @ 4000 RPM\n203 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P215/60 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 186.7,
+               "Width": 70.1,
+               "Height": 54.5,
+               "Front/rear Track": "59.1/59.3 in (1,501/1,506 mm)",
+               "Wheelbase": 107,
+               "Ground Clearance": 5,
+               "Cargo Volume": 14.6,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3008
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24,
+               "Highway": 32,
+               "Combined": 28
+          },
+          "": {}
+     }
+},{
+     "model_name": "OLDSMOBILE Aurora 2000-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3473,
+               "Power": "160 KW @ 5600 RPM\n218 HP @ 5600 RPM\n215 BHP @ 5600 RPM",
+               "Torque": "260 lb-ft @ 4400 RPM\n353 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 126,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 199.3,
+               "Width": 72.9,
+               "Height": 56.7,
+               "Front/rear Track": "62.3/62.3 in (1,582/1,582 mm)",
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3627
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 25
+          },
+          "": {}
+     }
+},{
+     "model_name": "1995 Oldsmobile Aurora",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3995,
+               "Power": "186.4 KW @ 5600 RPM\n253.5 HP @ 5600 RPM\n250 BHP @ 5600 RPM",
+               "Torque": "260 lb-ft @ 4400 RPM\n353 Nm @ 4400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 135
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 205.4,
+               "Width": 74.4,
+               "Height": 55.4,
+               "Front/rear Track": "62.5/62.6 in (1,588/1,590 mm)",
+               "Wheelbase": 113.8,
+               "Ground Clearance": 5.9,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3829
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 13.1
+          }
+     }
+},{
+     "model_name": "OLDSMOBILE Bravada 2001-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 4195,
+               "Power": "201 KW @ 6000 RPM\n275 HP @ 6000 RPM\n270 BHP @ 6000 RPM",
+               "Torque": "275 lb-ft @ 3600 RPM\n373 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P245/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 191.8,
+               "Width": 75.4,
+               "Height": 74.5,
+               "Front/rear Track": "2.5/2.4 in (64/61 mm)",
+               "Wheelbase": 113,
+               "Ground Clearance": 8,
+               "Cargo Volume": 39.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4628,
+               "Gross Weight Limit": 5750
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14,
+               "Highway": 19
+          },
+          "": {}
+     }
+},{
+     "model_name": "OLDSMOBILE Curved Dash 1901-1907",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Displacement": 1564,
+               "Power": "4 KW @ 400 RPM\n5 HP @ 400 RPM\n5 BHP @ 400 RPM",
+               "Fuel System": "Carburator",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 20
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 1 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Front/rear Track": "47/47 in (1,194/1,194 mm)",
+               "Wheelbase": 69
+          }
+     }
+},{
+     "model_name": "OLDSMOBILE Cutlass S 1975",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5735,
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "DIMENSIONS": {
+               "Length": 222.1,
+               "Width": 79.5,
+               "Height": 53.4,
+               "Front/rear Track": "63.6/64.4 in (1,615/1,636 mm)",
+               "Wheelbase": 124,
+               "Ground Clearance": 5.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4295
+          }
+     }
+},{
+     "model_name": "1961 Oldsmobile Cutlass Sedan",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3523,
+               "Power": "136.1 KW @ 4800 RPM\n185 HP @ 4800 RPM\n183 BHP @ 4800 RPM",
+               "Torque": "155 lb-ft @ 3200 RPM\n210 Nm @ 3200 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed manual"
+          },
+          "DIMENSIONS": {
+               "Length": 188.2,
+               "Width": 71.6,
+               "Wheelbase": 112
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 5602
+          }
+     }
+},{
+     "model_name": "OLDSMOBILE Intrigue 1997-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3473,
+               "Power": "160 KW @ 5600 RPM\n218 HP @ 5600 RPM\n215 BHP @ 5600 RPM",
+               "Torque": "230 lb-ft @ 4400 RPM\n312 Nm @ 4400 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 126
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P225/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 195.6,
+               "Width": 73.6,
+               "Height": 56.6,
+               "Front/rear Track": "62.1/61.7 in (1,577/1,567 mm)",
+               "Wheelbase": 109,
+               "Ground Clearance": 5.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3435
+          },
+          "": {}
+     }
+},{
+     "model_name": "OLDSMOBILE Silhouette 1996-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3350,
+               "Power": "138 KW @ 5200 RPM\n185 HP @ 5200 RPM\n185 BHP @ 5200 RPM",
+               "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 201.4,
+               "Width": 72.2,
+               "Height": 68.1,
+               "Front/rear Track": "61.5/63.3 in (1,562/1,608 mm)",
+               "Wheelbase": 120,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 24.2,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3948
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 26
+          }
+     }
+},{
+     "model_name": "1986 Oldsmobile Toronado",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3785,
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive"
+          },
+          "DIMENSIONS": {
+               "Length": 185.5,
+               "Width": 72.8,
+               "Height": 53
+          }
+     }
+},{
+     "model_name": "1979 Oldsmobile Toronado",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 4121,
+               "Power": "93 KW @ 3800 RPM\n126 HP @ 3800 RPM\n125 BHP @ 3800 RPM",
+               "Torque": "209 lb-ft @ 2000 RPM\n283 Nm @ 2000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 100
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 205.6,
+               "Width": 80,
+               "Height": 54.2,
+               "Front/rear Track": "59.3/60 in (1,506/1,524 mm)",
+               "Wheelbase": 114,
+               "Ground Clearance": 5.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3536
+          },
+          "": {}
+     }
+},{
+     "model_name": "OLDSMOBILE Toronado 1971-1978",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 7467,
+               "Power": "198 KW @ 4200 RPM\n269 HP @ 4200 RPM\n266 BHP @ 4200 RPM",
+               "Torque": "375 lb-ft @ 2800 RPM\n508 Nm @ 2800 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Automatic, 3 Speed"
+          },
+          "DIMENSIONS": {
+               "Length": 220.1,
+               "Width": 79.7,
+               "Height": 54.7,
+               "Front/rear Track": "63.5/63.5 in (1,613/1,613 mm)",
+               "Wheelbase": 122.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4581
+          }
+     }
+},{
+     "model_name": "1966 Oldsmobile Toronado",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6970,
+               "Power": "287 KW @ 4800 RPM\n390 HP @ 4800 RPM\n385 BHP @ 4800 RPM",
+               "Torque": "475 lb-ft @ 3200 RPM\n644 Nm @ 3200 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "8.85 X 15"
+          },
+          "DIMENSIONS": {
+               "Length": 211,
+               "Width": 79,
+               "Height": 54.3,
+               "Front/rear Track": "63.5/63 in (1,613/1,600 mm)",
+               "Wheelbase": 119,
+               "Cargo Volume": 14.5,
+               "Aerodynamics (Cd)": 0.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4669
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 7.2,
+               "Highway": 13.1,
+               "Combined": 11.8,
+               "CO2 Emissions": "-"
+          }
+     }
+},	
+ ] } 

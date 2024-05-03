@@ -1,0 +1,2658 @@
+{ "brand_name" : "LAND ROVER", "models": [
+{
+     "model_name": "2024 Land Rover Range Rover Velar",
+     "technical_specs": {
+          "ENGINE SPECS": {},
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 19.2
+          }
+     }
+},{
+     "model_name": "2018 Land Rover Range Rover Velar",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "183.9 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
+               "Torque": "269 lb-ft @ 1200 RPM\n365 Nm @ 1200 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 135,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65 R18 110V"
+          },
+          "DIMENSIONS": {
+               "Length": 189.1,
+               "Width": 80,
+               "Height": 65.6,
+               "Front/rear Track": "64.7/65.5 in (1,643/1,664 mm)",
+               "Wheelbase": 113.1,
+               "Ground Clearance": 8.4,
+               "Cargo Volume": 18.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3977,
+               "Gross Weight Limit": 5445
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.9,
+               "CO2 Emissions": 173
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Land Rover Range Rover Sport SV",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4395,
+               "Power": "467 KW @ - RPM\n635 HP @ - RPM\n626 BHP @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Mild Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 180,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2023LAND ROVER Range Rover Sport",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4395,
+               "Power": "389.8 KW @ 5500-6000 RPM\n530 HP @ 5500-6000 RPM\n523 BHP @ 5500-6000 RPM",
+               "Torque": "553 lb-ft @ 1800-6000 RPM\n750 Nm @ 1800-6000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 23.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "DIMENSIONS": {
+               "Length": 194.7,
+               "Width": 80.4,
+               "Height": 71.8,
+               "Front/rear Track": "67/67.1 in (1,702/1,704 mm)",
+               "Wheelbase": 118,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5357,
+               "Gross Weight Limit": 7055
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 20.1,
+               "CO2 Emissions (Combined)": "266 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover Sport HST 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2995,
+               "Power": "294.2 KW @ - RPM\n400 HP @ - RPM\n395 BHP @ - RPM",
+               "Torque": "332 lb-ft @ - RPM\n450 Nm @ - RPM",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 190.9,
+               "Width": 81.6,
+               "Height": 70.1,
+               "Front/rear Track": "66.5/0 in (1,689/0 mm)",
+               "Wheelbase": 115.1,
+               "Ground Clearance": 10.9
+          }
+     }
+},{
+     "model_name": "LAND ROVER Range Rover Sport 2017-2022",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "176.5 KW @ 4000 RPM\n240 HP @ 4000 RPM\n237 BHP @ 4000 RPM",
+               "Torque": "369 lb-ft @ 1500 RPM\n500 Nm @ 1500 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 129,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 192.1,
+               "Width": 78.1,
+               "Height": 71,
+               "Front/rear Track": "66.7/66.4 in (1,694/1,687 mm)",
+               "Wheelbase": 115.1,
+               "Cargo Volume": 17.3,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4654
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 37.9,
+               "CO2 Emissions": 172
+          },
+          "": {}
+     }
+},{
+     "model_name": "2013 Land Rover Range Rover Sport",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2995,
+               "Power": "250 KW @ 6500 RPM\n340 HP @ 6500 RPM\n335 BHP @ 6500 RPM",
+               "Torque": "332 lb-ft @ 3500-5000 RPM\n450 Nm @ 3500-5000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "350mm ventilated disc",
+               "Rear": "350mm ventilated disc"
+          },
+          "DIMENSIONS": {
+               "Length": 190.9,
+               "Width": 81.6,
+               "Height": 70.1,
+               "Front/rear Track": "66.5/66.3 in (1,689/1,684 mm)",
+               "Wheelbase": 115.1,
+               "Ground Clearance": 10.4,
+               "Cargo Volume": 27.7,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4727,
+               "Gross Weight Limit": 6504
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19,
+               "CO2 Emissions": 249
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover Sport 2009-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4999.7,
+               "Power": "276 KW @ 6500 RPM\n375 HP @ 6500 RPM\n370 BHP @ 6500 RPM",
+               "Torque": "376 lb-ft @ 3500 RPM\n510 Nm @ 3500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 23.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed, Automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/50 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 188.3,
+               "Width": 78.9,
+               "Height": 70.2,
+               "Front/rear Track": "63.2/63.5 in (1,605/1,613 mm)",
+               "Wheelbase": 108,
+               "Ground Clearance": 8.9,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5487
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.9,
+               "Highway": 22.4,
+               "Combined": 16.9,
+               "CO2 Emissions": 327
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover Sport 2005-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4197,
+               "Power": "291 KW @ 5750 RPM\n396 HP @ 5750 RPM\n390 BHP @ 5750 RPM",
+               "Torque": "410 lb-ft @ 3500 RPM\n556 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 139.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/45R20"
+          },
+          "DIMENSIONS": {
+               "Length": 188.6,
+               "Width": 76,
+               "Height": 69.3,
+               "Front/rear Track": "63/63.4 in (1,600/1,610 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 6.8,
+               "Cargo Volume": 33.7,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5670,
+               "Gross Weight Limit": 6889
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.5,
+               "Highway": 19.3,
+               "Combined": 14.7,
+               "CO2 Emissions": 376
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover SWB 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4395,
+               "Power": "389.8 KW @ - RPM\n530 HP @ - RPM\n523 BHP @ - RPM",
+               "Torque": "553 lb-ft @ - RPM\n750 Nm @ - RPM",
+               "Fuel System": "Direct Injection Mechanical supercharging (Compressor)",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 23.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "DIMENSIONS": {
+               "Length": 198.9,
+               "Width": 80.6,
+               "Height": 73.6,
+               "Front/rear Track": "67/67.1 in (1,702/1,704 mm)",
+               "Wheelbase": 118,
+               "Ground Clearance": 11.6,
+               "Cargo Volume": 25.6,
+               "Aerodynamics (Cd)": 0.32,
+               "Turning circle": 37.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5534
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "CO2 Emissions": 275
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 20.6,
+               "CO2 Emissions (Combined)": "259 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover LWB 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4395,
+               "Power": "389.8 KW @ - RPM\n530 HP @ - RPM\n523 BHP @ - RPM",
+               "Torque": "553 lb-ft @ - RPM\n750 Nm @ - RPM",
+               "Fuel System": "Direct Injection Mechanical supercharging (Compressor)",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 23.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "DIMENSIONS": {
+               "Length": 206.8,
+               "Width": 80.6,
+               "Height": 73.6,
+               "Front/rear Track": "67/67.1 in (1,702/1,704 mm)",
+               "Wheelbase": 125.9,
+               "Cargo Volume": 37.1,
+               "Aerodynamics (Cd)": 0.33,
+               "Turning circle": 37.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5789
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "CO2 Emissions": 213
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 20.5,
+               "CO2 Emissions (Combined)": "272 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER SV COUPE 2018",
+     "technical_specs": {}
+},{
+     "model_name": "LAND ROVER Range Rover 2017-2021",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2995,
+               "Power": "250 KW @ 6500 RPM\n340 HP @ 6500 RPM\n335 BHP @ 6500 RPM",
+               "Torque": "332 lb-ft @ 3500-5000 RPM\n450 Nm @ 3500-5000 RPM",
+               "Fuel System": "Supercharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/55 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 196.9,
+               "Width": 78.1,
+               "Height": 73.6,
+               "Front/rear Track": "66.5/66.3 in (1,689/1,684 mm)",
+               "Wheelbase": 115,
+               "Ground Clearance": 8.7,
+               "Cargo Volume": 19.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5531,
+               "Gross Weight Limit": 7253
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.3,
+               "Highway": 27.7,
+               "Combined": 22,
+               "CO2 Emissions": 248
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover 2013-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2995,
+               "Power": "250 KW @ 6500 RPM\n340 HP @ 6500 RPM\n335 BHP @ 6500 RPM",
+               "Torque": "332 lb-ft @ 3500-5000 RPM\n450 Nm @ 3500-5000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 27.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-Speed automatic ZF 8HP70"
+          },
+          "BRAKES SPECS": {
+               "Front": "380mm ventilated disc",
+               "Rear": "365mm ventilated disc"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/55 R20 110W"
+          },
+          "DIMENSIONS": {
+               "Length": 196.8,
+               "Width": 78.1,
+               "Height": 72.2,
+               "Front/rear Track": "66.5/66.3 in (1,689/1,684 mm)",
+               "Wheelbase": 115,
+               "Ground Clearance": 8.68,
+               "Cargo Volume": 19.4,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4727,
+               "Gross Weight Limit": 6504
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.8,
+               "Highway": 26.7,
+               "Combined": 22
+          },
+          "": {}
+     }
+},{
+     "model_name": "2010 Land Rover Range Rover",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4394,
+               "Power": "226 KW @ 5750 RPM\n307 HP @ 5750 RPM\n303 BHP @ 5750 RPM",
+               "Fuel System": "Supercharge Direct injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 26.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/50 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 195.7,
+               "Width": 80,
+               "Height": 73.9,
+               "Front/rear Track": "64.1/64 in (1,628/1,626 mm)",
+               "Wheelbase": 113.4,
+               "Ground Clearance": 11.1,
+               "Cargo Volume": 18.9,
+               "Aerodynamics (Cd)": 0.38,
+               "Turning circle": 41.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5668,
+               "Gross Weight Limit": 6195
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13.6,
+               "Highway": 28.2,
+               "Combined": 20.2,
+               "CO2 Emissions": 326
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover 2005-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4196,
+               "Power": "291 KW @ 5750 RPM\n396 HP @ 5750 RPM\n390 BHP @ 5750 RPM",
+               "Torque": "413 lb-ft @ 4000 RPM\n560 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 27.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/50R20"
+          },
+          "DIMENSIONS": {
+               "Length": 194.9,
+               "Width": 77.2,
+               "Height": 71.7,
+               "Front/rear Track": "64.2/64.2 in (1,631/1,631 mm)",
+               "Wheelbase": 113.4,
+               "Ground Clearance": 8.8,
+               "Cargo Volume": 18.9,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5560.1,
+               "Gross Weight Limit": 6834.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.5,
+               "Highway": 19.3,
+               "Combined": 14.7,
+               "CO2 Emissions": 376
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover 2002-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4398,
+               "Power": "210 KW @ 5400 RPM\n286 HP @ 5400 RPM\n282 BHP @ 5400 RPM",
+               "Torque": "325 lb-ft @ 3600 RPM\n440 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 26.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 129.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/60 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 194.9,
+               "Width": 77.2,
+               "Height": 71.7,
+               "Front/rear Track": "64.2/64.2 in (1,631/1,631 mm)",
+               "Wheelbase": 113.4,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 18.9,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5368.3,
+               "Gross Weight Limit": 6724.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.6,
+               "Highway": 18.7,
+               "Combined": 14.5,
+               "CO2 Emissions": 389
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover 1994-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3950,
+               "Power": "136 KW @ 4750 RPM\n185 HP @ 4750 RPM\n182 BHP @ 4750 RPM",
+               "Torque": "251 lb-ft @ 2600 RPM\n340 Nm @ 2600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 26.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 116.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/70R16"
+          },
+          "DIMENSIONS": {
+               "Length": 185.4,
+               "Width": 74.4,
+               "Height": 71.7,
+               "Front/rear Track": "60.6/60.2 in (1,539/1,529 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 8.7,
+               "Cargo Volume": 18.4,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4426.9,
+               "Gross Weight Limit": 6128.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.8,
+               "Highway": 20.5,
+               "Combined": 15.4,
+               "CO2 Emissions": 363
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover 1988-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3528,
+               "Power": "123 KW @ 4750 RPM\n167 HP @ 4750 RPM\n165 BHP @ 4750 RPM",
+               "Torque": "206 lb-ft @ 3200 RPM\n279 Nm @ 3200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205R16"
+          },
+          "DIMENSIONS": {
+               "Length": 176.3,
+               "Width": 71.6,
+               "Height": 70.4,
+               "Front/rear Track": "58.6/58.6 in (1,488/1,488 mm)",
+               "Wheelbase": 99.9,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4210.8,
+               "Gross Weight Limit": 5533.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 16.6,
+               "CO2 Emissions": 337
+          },
+          "": {}
+     }
+},{
+     "model_name": "2019 Land Rover Defender 90",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "220.6 KW @ 5500 RPM\n300 HP @ 5500 RPM\n296 BHP @ 5500 RPM",
+               "Torque": "295 lb-ft @ 1500-4000 RPM\n400 Nm @ 1500-4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 119,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/70R18"
+          },
+          "DIMENSIONS": {
+               "Length": 180.4,
+               "Width": 79.1,
+               "Height": 78.6,
+               "Front/rear Track": "67/67 in (1,702/1,702 mm)",
+               "Wheelbase": 101.9,
+               "Ground Clearance": 11.5,
+               "Cargo Volume": 28,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4919
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 24,
+               "CO2 Emissions": 224
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Defender 90 Works V8 2018-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4997,
+               "Power": "297.9 KW @ 6000 RPM\n405 HP @ 6000 RPM\n399 BHP @ 6000 RPM",
+               "Torque": "380 lb-ft @ 5000 RPM\n515 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235x85 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 153.3,
+               "Width": 70.5,
+               "Height": 79.6,
+               "Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
+               "Wheelbase": 92.9
+          }
+     }
+},{
+     "model_name": "LAND ROVER Defender 90 2012-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2198,
+               "Power": "90 KW @ 3500 RPM\n122 HP @ 3500 RPM\n121 BHP @ 3500 RPM",
+               "Torque": "266 lb-ft @ 2000 RPM\n361 Nm @ 2000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 90
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/85R16"
+          },
+          "DIMENSIONS": {
+               "Length": 153.3,
+               "Width": 70.5,
+               "Height": 79.6,
+               "Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
+               "Wheelbase": 92.9,
+               "Ground Clearance": 9.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3904,
+               "Gross Weight Limit": 5523
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.5,
+               "Highway": 26.1,
+               "Combined": 23.5,
+               "CO2 Emissions": 266
+          }
+     }
+},{
+     "model_name": "LAND ROVER Defender 90 2007-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2401,
+               "Power": "90 KW @ 3500 RPM\n122 HP @ 3500 RPM\n121 BHP @ 3500 RPM",
+               "Torque": "266 lb-ft @ 2000 RPM\n360 Nm @ 2000 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 82,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 154.3,
+               "Width": 70.5,
+               "Height": 79.5,
+               "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
+               "Wheelbase": 92.9,
+               "Ground Clearance": 12.4,
+               "Cargo Volume": 56.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3611.2,
+               "Gross Weight Limit": 5291.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.8,
+               "Highway": 27.4,
+               "Combined": 23.5,
+               "CO2 Emissions": 266
+          }
+     }
+},{
+     "model_name": "LAND ROVER Defender 90 1991-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3947,
+               "Power": "134 KW @ 4750 RPM\n182 HP @ 4750 RPM\n180 BHP @ 4750 RPM",
+               "Torque": "232 lb-ft @ 3000 RPM\n314 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/80 R16 S"
+          },
+          "DIMENSIONS": {
+               "Length": 152.8,
+               "Width": 70.5,
+               "Height": 78,
+               "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
+               "Wheelbase": 92.9,
+               "Ground Clearance": 9,
+               "Cargo Volume": 56.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3593.5,
+               "Gross Weight Limit": 5291.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Discovery Sport 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "110.3 KW @ 2800 RPM\n150 HP @ 2800 RPM\n148 BHP @ 2800 RPM",
+               "Torque": "280 lb-ft @ 1750-2750 RPM\n380 Nm @ 1750-2750 RPM",
+               "Fuel System": "Common Rail",
+               "Fuel": "Diesel",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/65R17"
+          },
+          "DIMENSIONS": {
+               "Length": 181,
+               "Width": 85.6,
+               "Height": 68,
+               "Front/rear Track": "64/64.2 in (1,626/1,631 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 41.6,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3900,
+               "Gross Weight Limit": 5379
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 44.4,
+               "CO2 Emissions": 159
+          },
+          "NOTES": {
+               "AdBlue tank": "17L"
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Discovery Sport 2014-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "177 KW @ 5800 RPM\n241 HP @ 5800 RPM\n237 BHP @ 5800 RPM",
+               "Torque": "251 lb-ft @ 1750 RPM\n340 Nm @ 1750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 181.1,
+               "Width": 81.5,
+               "Height": 67.9,
+               "Front/rear Track": "63.8/64.2 in (1,621/1,631 mm)",
+               "Wheelbase": 107.9,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 16,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3845,
+               "Gross Weight Limit": 5523
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.2,
+               "Highway": 36.2,
+               "Combined": 29.4,
+               "CO2 Emissions": 251
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Land Rover Range Rover Evoque",
+     "technical_specs": {}
+},{
+     "model_name": "2019 Land Rover Range Rover Evoque",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "110.3 KW @ 2400 RPM\n150 HP @ 2400 RPM\n148 BHP @ 2400 RPM",
+               "Torque": "280 lb-ft @ 1750-2500 RPM\n380 Nm @ 1750-2500 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Diesel",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 125,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 172.1,
+               "Width": 75,
+               "Height": 64.9,
+               "Front/rear Track": "64/64.3 in (1,626/1,633 mm)",
+               "Wheelbase": 105.6,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 20.9,
+               "Aerodynamics (Cd)": 0.32,
+               "Turning circle (curb to curb)": "38.1 ft (11.6 m)"
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 3940
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 43.6,
+               "CO2 Emissions": 143
+          },
+          "NOTES": {
+               "AdBlue tank": "17.2L"
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover Evoque 5 Door 2015-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "177 KW @ 5800 RPM\n240 HP @ 5800 RPM\n237 BHP @ 5800 RPM",
+               "Torque": "251 lb-ft @ 1750 RPM\n340 Nm @ 1750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 135,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "325mm Ventilated Discs",
+               "Rear": "317mm Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 172.1,
+               "Width": 64.4,
+               "Height": 78.1,
+               "Front/rear Track": "63.8/66.2 in (1,621/1,681 mm)",
+               "Wheelbase": 104.7,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 20.3,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3653,
+               "Gross Weight Limit": 5181
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.2,
+               "CO2 Emissions": 181
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover Evoque 3 Door 2015-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "177 KW @ 5800 RPM\n240 HP @ 5800 RPM\n237 BHP @ 5800 RPM",
+               "Torque": "251 lb-ft @ 1750 RPM\n340 Nm @ 1750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 135,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "325mm Ventilated Discs",
+               "Rear": "317mm Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 172.1,
+               "Width": 64.4,
+               "Height": 78.1,
+               "Front/rear Track": "63.8/66.2 in (1,621/1,681 mm)",
+               "Wheelbase": 104.7,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 20.3,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3653,
+               "Gross Weight Limit": 5181
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.2,
+               "CO2 Emissions": 181
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover Evoque Coupe 2011-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "177 KW @ 5500 RPM\n241 HP @ 5500 RPM\n237 BHP @ 5500 RPM",
+               "Torque": "251 lb-ft @ 1750 RPM\n340 Nm @ 1750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 135,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "300mm Ventilated discs",
+               "Rear": "302mm Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/65 R 17 V"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 77.4,
+               "Height": 63.2,
+               "Front/rear Track": "64/64.2 in (1,626/1,631 mm)",
+               "Wheelbase": 104.8,
+               "Ground Clearance": 8.35,
+               "Cargo Volume": 20.3,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3615,
+               "Gross Weight Limit": 5181
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.7,
+               "Highway": 40.9,
+               "Combined": 32.5,
+               "CO2 Emissions": 199
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover Evoque 5 Door 2011-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "177 KW @ 5500 RPM\n241 HP @ 5500 RPM\n237 BHP @ 5500 RPM",
+               "Torque": "251 lb-ft @ 1750 RPM\n340 Nm @ 1750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 135,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 77.4,
+               "Height": 64.6,
+               "Front/rear Track": "64/64.2 in (1,626/1,631 mm)",
+               "Wheelbase": 104.8,
+               "Ground Clearance": 8.35,
+               "Cargo Volume": 20.3,
+               "Aerodynamics (Cd)": 0.35,
+               "Turning circle": 37.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3682,
+               "Gross Weight Limit": 5181
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.8,
+               "Highway": 34.1,
+               "Combined": 27.7,
+               "CO2 Emissions": 199
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover PHEV 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "220.7 KW @ 5500 RPM\n300 HP @ 5500 RPM\n296 BHP @ 5500 RPM",
+               "Torque": "295 lb-ft @ - RPM\n400 Nm @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/45 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 196.9,
+               "Width": 81.6,
+               "Height": 72.2,
+               "Front/rear Track": "66.5/66.3 in (1,689/1,684 mm)",
+               "Wheelbase": 117.8,
+               "Ground Clearance": 8.7,
+               "Cargo Volume": 19.4,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5531,
+               "Gross Weight Limit": 7077
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 84,
+               "CO2 Emissions": 64
+          },
+          "NOTES": {
+               "Hybrid system\nElectric motor power": "85 kW (115 HP)\nElectric motor torque: 275 Nm (203 lb-ft)\nTotal system power: 297 kW (404 HP)"
+          }
+     }
+},{
+     "model_name": "2013 Range Rover Hybrid",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2993,
+               "Power": "214.8 KW @ 4000 RPM\n292 HP @ 4000 RPM\n288 BHP @ 4000 RPM",
+               "Torque": "443 lb-ft @ 2000 RPM\n601 Nm @ 2000 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 135,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/45 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 196.8,
+               "Width": 78.1,
+               "Height": 72.2,
+               "Front/rear Track": "66.5/66.3 in (1,689/1,684 mm)",
+               "Wheelbase": 115,
+               "Ground Clearance": 8.7,
+               "Cargo Volume": 19.4,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5278,
+               "Gross Weight Limit": 6834
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 40.6,
+               "Highway": 35.1,
+               "Combined": 36.8,
+               "CO2 Emissions": 169
+          },
+          "NOTES": {
+               "Diesel-electric hybrid system\nElectric motor power": "35 kW (47 HP)\nElectric motor torque: 170 Nm (125 lb-ft)\nTotal system power: 250 kW (340 HP)\nTotal system torque: 700 Nm (516 lb-ft)"
+          }
+     }
+},{
+     "model_name": "LAND ROVER Range Rover Sport SVR 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "422.9 KW @ 6500 RPM\n575 HP @ 6500 RPM\n567 BHP @ 6500 RPM",
+               "Torque": "516 lb-ft @ 3500-5000 RPM\n700 Nm @ 3500-5000 RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 176,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/45 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 192.1,
+               "Width": 78.1,
+               "Height": 71,
+               "Front/rear Track": "66.7/66.4 in (1,694/1,687 mm)",
+               "Wheelbase": 115.1,
+               "Cargo Volume": 17.3,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5093
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 18.4,
+               "CO2 Emissions": 294
+          }
+     }
+},{
+     "model_name": "2015 Range Rover Sport SVR",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4999,
+               "Power": "405.3 KW @ 6000-6500 RPM\n551 HP @ 6000-6500 RPM\n544 BHP @ 6000-6500 RPM",
+               "Torque": "502 lb-ft @ 2500-5500 RPM\n681 Nm @ 2500-5500 RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 162,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "295/40 R22"
+          },
+          "DIMENSIONS": {
+               "Length": 190.9,
+               "Width": 81.6,
+               "Height": 70.1,
+               "Front/rear Track": "66.5/66.3 in (1,689/1,684 mm)",
+               "Wheelbase": 115.1,
+               "Ground Clearance": 10.4,
+               "Cargo Volume": 27.7,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5093,
+               "Gross Weight Limit": 6724
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.9,
+               "Highway": 24.2,
+               "Combined": 18.4,
+               "CO2 Emissions": 298
+          }
+     }
+},{
+     "model_name": "2020 Land Rover Defender 110",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "220.6 KW @ 5500 RPM\n300 HP @ 5500 RPM\n296 BHP @ 5500 RPM",
+               "Torque": "295 lb-ft @ 1500-4000 RPM\n400 Nm @ 1500-4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 23.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 119,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/70R18"
+          },
+          "DIMENSIONS": {
+               "Length": 197.6,
+               "Width": 79.1,
+               "Height": 78.6,
+               "Front/rear Track": "67.1/66.9 in (1,704/1,699 mm)",
+               "Wheelbase": 119,
+               "Ground Clearance": 8.6,
+               "Cargo Volume": 11.4,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4985
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 23.8,
+               "CO2 Emissions": 227
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Defender 110 2012-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2198,
+               "Power": "90 KW @ 3500 RPM\n122 HP @ 3500 RPM\n121 BHP @ 3500 RPM",
+               "Torque": "266 lb-ft @ 2000 RPM\n361 Nm @ 2000 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 90,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/85R16"
+          },
+          "DIMENSIONS": {
+               "Length": 188.4,
+               "Width": 79.6,
+               "Height": 70.5,
+               "Front/rear Track": "58.5/0 in (1,486/0 mm)",
+               "Wheelbase": 110,
+               "Ground Clearance": 9.8,
+               "Cargo Volume": 56.5,
+               "Aerodynamics (Cd)": 0.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4310,
+               "Gross Weight Limit": 6724
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.3,
+               "Highway": 24.2,
+               "Combined": 21.2,
+               "CO2 Emissions": 295
+          }
+     }
+},{
+     "model_name": "LAND ROVER Defender 110 2007-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2401,
+               "Power": "90 KW @ 3500 RPM\n122 HP @ 3500 RPM\n121 BHP @ 3500 RPM",
+               "Torque": "266 lb-ft @ 2000 RPM\n360 Nm @ 2000 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 82,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 182.7,
+               "Width": 70.5,
+               "Height": 79.9,
+               "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
+               "Wheelbase": 109.8,
+               "Ground Clearance": 12.4,
+               "Cargo Volume": 56.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4277,
+               "Gross Weight Limit": 6724
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.4,
+               "Highway": 24.7,
+               "Combined": 21.4,
+               "CO2 Emissions": 291
+          }
+     }
+},{
+     "model_name": "LAND ROVER Defender 110 1991-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3528,
+               "Power": "100 KW @ 5000 RPM\n136 HP @ 5000 RPM\n134 BHP @ 5000 RPM",
+               "Torque": "189 lb-ft @ 2500 RPM\n256 Nm @ 2500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 89.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/80 R16 S"
+          },
+          "DIMENSIONS": {
+               "Length": 181.1,
+               "Width": 70.5,
+               "Height": 80.3,
+               "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
+               "Wheelbase": 109.8,
+               "Ground Clearance": 7.8,
+               "Cargo Volume": 56.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4365.2,
+               "Gross Weight Limit": 6724.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 13,
+               "CO2 Emissions": 430
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Discovery 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "176.5 KW @ 4000 RPM\n240 HP @ 4000 RPM\n237 BHP @ 4000 RPM",
+               "Torque": "369 lb-ft @ 1500 RPM\n500 Nm @ 1500 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 195.7,
+               "Width": 81.6,
+               "Height": 74,
+               "Front/rear Track": "66.6/66.4 in (1,692/1,687 mm)",
+               "Wheelbase": 115.1,
+               "Ground Clearance": 11.1,
+               "Cargo Volume": 9.1,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4815,
+               "Gross Weight Limit": 6900
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 36.2,
+               "CO2 Emissions": 171
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Discovery - LR4 2013-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2998,
+               "Power": "250 KW @ 6500 RPM\n340 HP @ 6500 RPM\n335 BHP @ 6500 RPM",
+               "Torque": "332 lb-ft @ 3500-5000 RPM\n450 Nm @ 3500-5000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/55 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 190.1,
+               "Width": 85.7,
+               "Height": 74.1,
+               "Front/rear Track": "63/63.5 in (1,600/1,613 mm)",
+               "Wheelbase": 113.6,
+               "Ground Clearance": 7.3,
+               "Cargo Volume": 44.5,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5655,
+               "Gross Weight Limit": 7143
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27,
+               "Highway": 30.9,
+               "Combined": 29.4,
+               "CO2 Emissions": 213
+          },
+          "": {}
+     }
+},{
+     "model_name": "2010 Land Rover LR4",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3999,
+               "Power": "160 KW @ 4500 RPM\n218 HP @ 4500 RPM\n215 BHP @ 4500 RPM",
+               "Torque": "266 lb-ft @ 3000 RPM\n361 Nm @ 3000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed, Automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65 R18 110H"
+          },
+          "DIMENSIONS": {
+               "Length": 190.1,
+               "Width": 79.6,
+               "Height": 74.3,
+               "Front/rear Track": "63.2/63.5 in (1,605/1,613 mm)",
+               "Wheelbase": 113.6,
+               "Ground Clearance": 7.3,
+               "Turning circle": 38.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.5,
+               "CO2 Emissions": 359
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Discovery - LR3 2004-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4009,
+               "Power": "161 KW @ 4500 RPM\n219 HP @ 4500 RPM\n216 BHP @ 4500 RPM",
+               "Torque": "269 lb-ft @ 3000 RPM\n365 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-automatic speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/60R18"
+          },
+          "DIMENSIONS": {
+               "Length": 190.6,
+               "Width": 75.6,
+               "Height": 74.4,
+               "Front/rear Track": "63/63.4 in (1,600/1,610 mm)",
+               "Wheelbase": 113.4,
+               "Ground Clearance": 7.3,
+               "Cargo Volume": 42.1,
+               "Aerodynamics (Cd)": 0.41
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5787,
+               "Gross Weight Limit": 7121
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 11.3,
+               "Highway": 20.3,
+               "Combined": 15.7
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Discovery 2002-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3950,
+               "Power": "136 KW @ 4750 RPM\n185 HP @ 4750 RPM\n182 BHP @ 4750 RPM",
+               "Torque": "251 lb-ft @ 2600 RPM\n340 Nm @ 2600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Automatic, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/75R16"
+          },
+          "DIMENSIONS": {
+               "Length": 185,
+               "Width": 74,
+               "Height": 74.8,
+               "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4795.1,
+               "Gross Weight Limit": 6228.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.3,
+               "Highway": 18,
+               "Combined": 14.1,
+               "CO2 Emissions": 397
+          },
+          "": {}
+     }
+},{
+     "model_name": "1999 Land Rover Discovery II",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3947,
+               "Power": "136 KW @ 4750 RPM\n185 HP @ 4750 RPM\n182 BHP @ 4750 RPM",
+               "Torque": "251 lb-ft @ 2600 RPM\n340 Nm @ 2600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/75R16"
+          },
+          "DIMENSIONS": {
+               "Length": 185,
+               "Width": 74,
+               "Height": 76.4,
+               "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4398.2,
+               "Gross Weight Limit": 6228.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.1,
+               "Highway": 18.5,
+               "Combined": 14.2,
+               "CO2 Emissions": 396
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Discovery 3 Doors 1994-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3947,
+               "Power": "136 KW @ 4750 RPM\n185 HP @ 4750 RPM\n182 BHP @ 4750 RPM",
+               "Torque": "232 lb-ft @ 3100 RPM\n314 Nm @ 3100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205R16"
+          },
+          "DIMENSIONS": {
+               "Length": 176.4,
+               "Width": 70.5,
+               "Height": 75.2,
+               "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 45.5,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4354.1,
+               "Gross Weight Limit": 5996.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.9,
+               "Highway": 19.6,
+               "Combined": 14.3,
+               "CO2 Emissions": 390
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Discovery 1994-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3947,
+               "Power": "136 KW @ 4750 RPM\n185 HP @ 4750 RPM\n182 BHP @ 4750 RPM",
+               "Torque": "232 lb-ft @ 3100 RPM\n314 Nm @ 3100 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205R16"
+          },
+          "DIMENSIONS": {
+               "Length": 176.4,
+               "Width": 70.5,
+               "Height": 75.2,
+               "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 45.5,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4453.3,
+               "Gross Weight Limit": 5996.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.9,
+               "Highway": 19.6,
+               "Combined": 14.3,
+               "CO2 Emissions": 391
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Discovery 3 Doors 1990-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3528,
+               "Power": "114 KW @ 4750 RPM\n155 HP @ 4750 RPM\n153 BHP @ 4750 RPM",
+               "Torque": "192 lb-ft @ 3000 RPM\n260 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 101.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205R16"
+          },
+          "DIMENSIONS": {
+               "Length": 178,
+               "Width": 70.5,
+               "Height": 76,
+               "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 45.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4091.8,
+               "Gross Weight Limit": 5996.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.1,
+               "CO2 Emissions": 371
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Discovery 1990-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3528,
+               "Power": "114 KW @ 4750 RPM\n155 HP @ 4750 RPM\n153 BHP @ 4750 RPM",
+               "Torque": "192 lb-ft @ 3000 RPM\n260 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 101.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205R16"
+          },
+          "DIMENSIONS": {
+               "Length": 178,
+               "Width": 70.5,
+               "Height": 76,
+               "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
+               "Wheelbase": 100,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 45.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4206.4,
+               "Gross Weight Limit": 5996.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 15.1,
+               "CO2 Emissions": 370
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover Evoque Convertible 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "176.5 KW @ 5800 RPM\n240 HP @ 5800 RPM\n237 BHP @ 5800 RPM",
+               "Torque": "251 lb-ft @ 1750 RPM\n340 Nm @ 1750 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55R19"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 74.8,
+               "Height": 63.3,
+               "Front/rear Track": "63.8/64.1 in (1,621/1,628 mm)",
+               "Wheelbase": 104.7,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 8.9,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4268,
+               "Gross Weight Limit": 5313
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.6,
+               "Highway": 33.6,
+               "Combined": 27.4,
+               "CO2 Emissions": 201
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover L 2014-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "375 KW @ 3500 RPM\n510 HP @ 3500 RPM\n503 BHP @ 3500 RPM",
+               "Torque": "461 lb-ft @ 1300-3000 RPM\n625 Nm @ 1300-3000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 27.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed Automatic Transmission with Terrain Response"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 207.7,
+               "Width": 187.4,
+               "Height": 72.4,
+               "Front/rear Track": "66.5/66.3 in (1,689/1,684 mm)",
+               "Wheelbase": 122.8,
+               "Ground Clearance": 8.7,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5320
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.9,
+               "Highway": 24.2,
+               "Combined": 18.4,
+               "CO2 Emissions": 299
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover Sport PHEV 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2000,
+               "Power": "220.7 KW @ 5500 RPM\n300 HP @ 5500 RPM\n296 BHP @ 5500 RPM",
+               "Torque": "295 lb-ft @ 1500-4500 RPM\n400 Nm @ 1500-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Hybrid"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/55 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 192.1,
+               "Width": 78.1,
+               "Height": 71,
+               "Front/rear Track": "66.7/66.4 in (1,694/1,687 mm)",
+               "Wheelbase": 115.1,
+               "Cargo Volume": 17.3,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5448
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 84,
+               "CO2 Emissions": 64
+          },
+          "NOTES": {
+               "Plug-in Hybrid System\nElectric motor power": "85 kW (116 HP)\nTotal system power: 297 kW (404 HP)\nTotal system torque: 640 Nm"
+          }
+     }
+},{
+     "model_name": "LAND ROVER Discovery SVX 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 5000,
+               "Power": "386.1 KW @ 6000-6500 RPM\n525 HP @ 6000-6500 RPM\n518 BHP @ 6000-6500 RPM",
+               "Torque": "461 lb-ft @ 2500-5500 RPM\n625 Nm @ 2500-5500 RPM",
+               "Fuel System": "Supercharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 23.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 100,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 195.1,
+               "Width": 81.6,
+               "Height": 75.2,
+               "Front/rear Track": "66.6/66.4 in (1,692/1,687 mm)",
+               "Wheelbase": 115,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 40.2,
+               "Turning circle (curb to curb)": "40.7 ft (12.4 m)",
+               "Turning circle (wall to wall)": "40.7 ft (12.4 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5547,
+               "Gross Weight Limit": 7143
+          }
+     }
+},{
+     "model_name": "LAND ROVER Defender 130 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2997,
+               "Power": "180.9 KW @ 4000 RPM\n246 HP @ 4000 RPM\n243 BHP @ 4000 RPM",
+               "Torque": "443 lb-ft @ 1250-2250 RPM\n600 Nm @ 1250-2250 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Mild Hybrid Diesel",
+               "Fuel capacity": 23.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 117,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "DIMENSIONS": {
+               "Length": 210.9,
+               "Width": 79.1,
+               "Height": 77.6,
+               "Front/rear Track": "67.2/67 in (1,707/1,702 mm)",
+               "Wheelbase": 119,
+               "Ground Clearance": 8.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5622,
+               "Gross Weight Limit": 7452
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 25.3,
+               "CO2 Emissions (Combined)": "244 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Freelander - LR2 2009-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "177 KW @ 5500 RPM\n241 HP @ 5500 RPM\n237 BHP @ 5500 RPM",
+               "Torque": "251 lb-ft @ 3200 RPM\n340 Nm @ 3200 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 177.1,
+               "Width": 104.7,
+               "Height": 68.5,
+               "Front/rear Track": "63/63.2 in (1,600/1,605 mm)",
+               "Wheelbase": 104.7,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 26.7,
+               "Aerodynamics (Cd)": 0.39,
+               "Turning circle": 37.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3913,
+               "Gross Weight Limit": 5523
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.4,
+               "Highway": 31.4,
+               "Combined": 24.5,
+               "CO2 Emissions": 224
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Freelander - LR2 2006-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3192,
+               "Power": "171 KW @ 6300 RPM\n233 HP @ 6300 RPM\n229 BHP @ 6300 RPM",
+               "Torque": "234 lb-ft @ 3200 RPM\n317 Nm @ 3200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/65R17"
+          },
+          "DIMENSIONS": {
+               "Length": 177.2,
+               "Width": 75.2,
+               "Height": 68.5,
+               "Front/rear Track": "63.4/63.8 in (1,610/1,621 mm)",
+               "Wheelbase": 104.7,
+               "Ground Clearance": 7.5,
+               "Cargo Volume": 14.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3902.2,
+               "Gross Weight Limit": 5522.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.9,
+               "Highway": 27.4,
+               "Combined": 21,
+               "CO2 Emissions": 265
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Freelander 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "86 KW @ 5550 RPM\n117 HP @ 5550 RPM\n115 BHP @ 5550 RPM",
+               "Torque": "118 lb-ft @ 2750 RPM\n160 Nm @ 2750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/80R15"
+          },
+          "DIMENSIONS": {
+               "Length": 174,
+               "Width": 71.3,
+               "Height": 67.3,
+               "Front/rear Track": "60.2/60.6 in (1,529/1,539 mm)",
+               "Wheelbase": 100.8,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 12.5,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3130.6,
+               "Gross Weight Limit": 4497.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.3,
+               "Highway": 27.7,
+               "Combined": 22.6,
+               "CO2 Emissions": 248
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Freelander 2000-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "86 KW @ 5500 RPM\n117 HP @ 5500 RPM\n115 BHP @ 5500 RPM",
+               "Torque": "118 lb-ft @ 2750 RPM\n160 Nm @ 2750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/80R15"
+          },
+          "DIMENSIONS": {
+               "Length": 172.4,
+               "Width": 70.9,
+               "Height": 69.3,
+               "Front/rear Track": "60.2/60.6 in (1,529/1,539 mm)",
+               "Wheelbase": 100.8,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 12.5,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3146,
+               "Gross Weight Limit": 4497.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.3,
+               "Highway": 27.7,
+               "Combined": 22.6,
+               "CO2 Emissions": 248
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Freelander 1998-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "88 KW @ 5550 RPM\n120 HP @ 5550 RPM\n118 BHP @ 5550 RPM",
+               "Torque": "122 lb-ft @ 2750 RPM\n165 Nm @ 2750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 102.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/80 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 172.4,
+               "Width": 70.9,
+               "Height": 69.3,
+               "Front/rear Track": "60.2/60.6 in (1,529/1,539 mm)",
+               "Wheelbase": 100.8,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 12.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2987.3,
+               "Gross Weight Limit": 4321.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.1,
+               "Highway": 27.4,
+               "Combined": 23.1,
+               "CO2 Emissions": 244
+          },
+          "": {}
+     }
+},{
+     "model_name": "LAND ROVER Range Rover 3 Doors 1988-1993",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3528,
+               "Power": "123 KW @ 4750 RPM\n167 HP @ 4750 RPM\n165 BHP @ 4750 RPM",
+               "Torque": "206 lb-ft @ 3200 RPM\n279 Nm @ 3200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205R16"
+          },
+          "DIMENSIONS": {
+               "Length": 176.3,
+               "Width": 71.6,
+               "Height": 70.4,
+               "Front/rear Track": "58.6/58.6 in (1,488/1,488 mm)",
+               "Wheelbase": 99.9,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4135.8,
+               "Gross Weight Limit": 5533.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 16.6,
+               "CO2 Emissions": 338
+          },
+          "": {}
+     }
+},	
+ ] } 

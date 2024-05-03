@@ -1,0 +1,46 @@
+{ "brand_name" : "RIMAC", "models": [
+{
+     "model_name": "RIMAC Nevera 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "1388.6 kw (1888 hp)",
+               "Total maximum torque": "1740.6 lb-ft (2360 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "256 mph (412 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 1.97
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "2-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/35 R20 // 315/35 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 187,
+               "Width": 78.2,
+               "Height": 47.6,
+               "Wheelbase": 108.1,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4740
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium Manganese Nickel",
+               "Nominal Capacity": 120,
+               "Range": 341.8
+          },
+          "NOTES": {
+               "Recuperation output": "300 KW\nFront electric motors power (2): 229 HP each\nFront electric motors torque (2): 280 Nm each\nRear electric motors power (2): 653 HP each\nRear electric motors torque (2): 900 Nm each\nFront gearbox: Two single speed gearboxes (two independent gearboxes - one at each outer end of the axle)\nRear gearbox: Double single speed gearbox (two gearboxes in one housing between the motors)\n\nFast charge\n\n500 kW DC Combo (19 min 0-80% SOC)\n350 kW DC Combo (25 min 0-80% SOC)\n250 kW DC Combo (30 min 0-80% SOC)\n\nOn-board charging: 3-phase 22 kW"
+          }
+     }
+},	
+ ] } 

@@ -1,0 +1,159 @@
+{ "brand_name" : "KTM", "models": [
+{
+     "model_name": "KTM X-Bow GT 2013-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1984,
+               "Power": "209.6 KW @ 6400 RPM\n285 HP @ 6400 RPM\n281 BHP @ 6400 RPM",
+               "Torque": "310 lb-ft @ 3200 RPM\n420 Nm @ 3200 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 144,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/40 R17 || 255/35 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 147.2,
+               "Width": 75.4,
+               "Height": 47.3,
+               "Front/rear Track": "65.8/64 in (1,671/1,626 mm)",
+               "Wheelbase": 95.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1867
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28.3,
+               "CO2 Emissions": 189
+          }
+     }
+},{
+     "model_name": "KTM X-Bow RR 2012-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1984,
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/40 R17 || 255/35 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 147.2,
+               "Width": 75.4,
+               "Height": 47.3,
+               "Front/rear Track": "65.8/64 in (1,671/1,626 mm)",
+               "Wheelbase": 95.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1786
+          }
+     }
+},{
+     "model_name": "2011 KTM X-Bow R",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1984,
+               "Power": "220.7 KW @ 6300 RPM\n300 HP @ 6300 RPM\n296 BHP @ 6300 RPM",
+               "Torque": "295 lb-ft @ 3300 RPM\n400 Nm @ 3300 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 144,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/40 R17 || 255/35 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 147.2,
+               "Width": 75.4,
+               "Height": 47.3,
+               "Front/rear Track": "65.8/64 in (1,671/1,626 mm)",
+               "Wheelbase": 95.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1742
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28.3,
+               "CO2 Emissions": 189
+          }
+     }
+},{
+     "model_name": "KTM X-Bow 2008-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1984,
+               "Power": "176.5 KW @ 6500 RPM\n240 HP @ 6500 RPM\n237 BHP @ 6500 RPM",
+               "Torque": "229 lb-ft @ 2000-5500 RPM\n310 Nm @ 2000-5500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 10.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/40 R 17 // 235/40 R 18"
+          },
+          "DIMENSIONS": {
+               "Length": 144.5,
+               "Width": 73.6,
+               "Height": 45.7,
+               "Front/rear Track": "64.7/63.9 in (1,643/1,623 mm)",
+               "Wheelbase": 95.7,
+               "Aerodynamics (Cd)": 0.65
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1774
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 29.7,
+               "CO2 Emissions": 187.23
+          }
+     }
+},	
+ ] } 

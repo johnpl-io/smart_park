@@ -1,0 +1,226 @@
+{ "brand_name" : "CUPRA", "models": [
+{
+     "model_name": "2018 Cupra Ateca",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1984,
+               "Power": "220.6 KW @ 5300-6500 RPM\n300 HP @ 5300-6500 RPM\n296 BHP @ 5300-6500 RPM",
+               "Torque": "295 lb-ft @ 2000-5200 RPM\n400 Nm @ 2000-5200 RPM",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 153,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "7-Speed automatic DSG"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 172.3,
+               "Width": 72.5,
+               "Height": 63.4,
+               "Front/rear Track": "61.9/60.9 in (1,572/1,547 mm)",
+               "Wheelbase": 103.6,
+               "Ground Clearance": 7.5,
+               "Cargo Volume": 17.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3560,
+               "Gross Weight Limit": 4740
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26.4,
+               "Highway": 36.2,
+               "Combined": 31.8,
+               "CO2 Emissions": 168
+          }
+     }
+},{
+     "model_name": "CUPRA Leon Sportstourer 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 999,
+               "Power": "84.6 KW @ 5000-5500 RPM\n115 HP @ 5000-5500 RPM\n113 BHP @ 5000-5500 RPM",
+               "Torque": "148 lb-ft @ 2000-3500 RPM\n200 Nm @ 2000-3500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 122,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15 91H"
+          },
+          "": {}
+     }
+},{
+     "model_name": "CUPRA Born 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Total maximum power": "108.9 kw (148 hp)",
+               "Total maximum torque": "228.6 lb-ft (310 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 167.7,
+               "Width": 71.3,
+               "Height": 61
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion",
+               "Nominal Capacity": 45,
+               "Range": 211.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "CUPRA Leon 5 doors 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1984,
+               "Power": "180.2 KW @ - RPM\n245 HP @ - RPM\n242 BHP @ - RPM",
+               "Torque": "273 lb-ft @ - RPM\n370 Nm @ - RPM",
+               "Electrical motor power": "85 kw (116 hp)",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 70.9,
+               "Height": 57.3,
+               "Wheelbase": 105.7
+          },
+          "POWER SYSTEM SPECS": {
+               "Nominal Capacity": 13,
+               "Range": 37.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "CUPRA Formentor 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1498,
+               "Power": "110.3 KW @ 5000-6000 RPM\n150 HP @ 5000-6000 RPM\n148 BHP @ 5000-6000 RPM",
+               "Torque": "184 lb-ft @ 1500-3500 RPM\n250 Nm @ 1500-3500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 175.2,
+               "Width": 72.4,
+               "Height": 59.5,
+               "Front/rear Track": "62.4/61.4 in (1,585/1,560 mm)",
+               "Wheelbase": 105.5,
+               "Turning circle": 37.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3003,
+               "Gross Weight Limit": 4321
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 123.8,
+               "CO2 Emissions": 43
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 37.3,
+               "CO2 Emissions (Combined)": "142 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Cupra Tavascan",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "210 kw (286 hp)",
+               "Electrical motor torque": "402 lb-ft (545 Nm)",
+               "Total maximum power": "250.1 kw (340 hp)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 182.8,
+               "Width": 73.3,
+               "Height": 62.9,
+               "Wheelbase": 108.9
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Maximum Capacity": "77 kWh",
+               "Range": 321.2
+          },
+          "NOTES": {
+               "Front motor power": "109 HP (80 KW)\nFront motor torque: 134 Nm"
+          },
+          "": {}
+     }
+},	
+ ] } 

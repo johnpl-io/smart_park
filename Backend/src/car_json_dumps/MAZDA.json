@@ -1,0 +1,4708 @@
+{ "brand_name" : "MAZDA", "models": [
+{
+     "model_name": "2024 Mazda 2",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 1490,
+               "Power": "67.7 KW @ - RPM\n92 HP @ - RPM\n91 BHP @ - RPM",
+               "Electrical motor power": "59 kw (80 hp)",
+               "Total maximum power": "85.3 kw (116 hp)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Hybrid Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "e-CVT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 54.7,
+               "CO2 Emissions (Combined)": "97 g/km"
+          }
+     }
+},{
+     "model_name": "2020 Mazda 2",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1496,
+               "Power": "66.2 KW @ 6000 RPM\n90 HP @ 6000 RPM\n89 BHP @ 6000 RPM",
+               "Torque": "109 lb-ft @ 4000 RPM\n148 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65R15"
+          },
+          "DIMENSIONS": {
+               "Length": 160,
+               "Width": 66.7,
+               "Height": 58.9,
+               "Front/rear Track": "58.9/58.5 in (1,496/1,486 mm)",
+               "Wheelbase": 101.2,
+               "Ground Clearance": 5.6,
+               "Cargo Volume": 8.8,
+               "Turning circle (wall to wall)": "34.1 ft (10.4 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2271
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 45.2,
+               "CO2 Emissions": 118
+          },
+          "POWER SYSTEM SPECS": {
+               "Nominal Capacity": 0.01
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 39.9,
+               "CO2 Emissions (Combined)": "133 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 2 2014-2019",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1496,
+               "Power": "55 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+               "Torque": "100 lb-ft @ 3800 RPM\n136 Nm @ 3800 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 159.8,
+               "Width": 78.1,
+               "Height": 58.9,
+               "Front/rear Track": "58.9/58.5 in (1,496/1,486 mm)",
+               "Wheelbase": 101.2,
+               "Ground Clearance": 6,
+               "Cargo Volume": 9.9,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2304,
+               "Gross Weight Limit": 3307
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 38.6,
+               "Highway": 60.3,
+               "Combined": 50,
+               "CO2 Emissions": 110
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 2 2007-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1349,
+               "Power": "55 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+               "Torque": "89 lb-ft @ 3500 RPM\n121 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 104.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 14
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65R14"
+          },
+          "DIMENSIONS": {
+               "Length": 153.5,
+               "Width": 66.9,
+               "Height": 58.2,
+               "Front/rear Track": "58.2/57.4 in (1,478/1,458 mm)",
+               "Wheelbase": 98,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 8.8,
+               "Aerodynamics (Cd)": 0.31,
+               "Turning circle": 32.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2050.2,
+               "Gross Weight Limit": 3262.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 34,
+               "Highway": 51.1,
+               "Combined": 43.5,
+               "CO2 Emissions": 129
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 2 / Demio 2002-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1242,
+               "Power": "55.2 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+               "Torque": "81 lb-ft @ 4000 RPM\n110 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 101,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65R14T"
+          },
+          "DIMENSIONS": {
+               "Length": 154.5,
+               "Width": 66.1,
+               "Height": 60.2,
+               "Front/rear Track": "57.9/56.9 in (1,471/1,445 mm)",
+               "Wheelbase": 98,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 9.5,
+               "Aerodynamics (Cd)": 0.31,
+               "Turning circle": 32.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2304,
+               "Gross Weight Limit": 3285
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27.4,
+               "Highway": 47,
+               "Combined": 37.3,
+               "CO2 Emissions": 150
+          },
+          "": {}
+     }
+},{
+     "model_name": "2019 Mazda 3/Axela Hatchback",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "89.7 KW @ 6000 RPM\n122 HP @ 6000 RPM\n120 BHP @ 6000 RPM",
+               "Torque": "157 lb-ft @ 4000 RPM\n213 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 122,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 175.6,
+               "Width": 70.7,
+               "Height": 56.7,
+               "Front/rear Track": "61.8/62.2 in (1,570/1,580 mm)",
+               "Wheelbase": 107.3,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 13.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2864,
+               "Gross Weight Limit": 4204
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 34.6,
+               "Highway": 42,
+               "Combined": 42.8,
+               "CO2 Emissions": 126
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 3 / Axela Hatchback 2016-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1498,
+               "Power": "73.5 KW @ 6000 RPM\n100 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
+               "Torque": "111 lb-ft @ 4000 RPM\n150 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 113,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 176,
+               "Width": 70.7,
+               "Height": 57.1,
+               "Front/rear Track": "61.2/61.4 in (1,554/1,560 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 14,
+               "Aerodynamics (Cd)": 0.26,
+               "Turning circle (curb to curb)": "34.8 ft (10.6 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2612,
+               "Gross Weight Limit": 3968
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 36.2,
+               "Highway": 54.7,
+               "Combined": 46.1,
+               "CO2 Emissions": 119
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 3 / Axela Hatchback 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1496,
+               "Power": "74 KW @ 6000 RPM\n101 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
+               "Torque": "111 lb-ft @ 4000 RPM\n150 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 113,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/45R18"
+          },
+          "DIMENSIONS": {
+               "Length": 175.8,
+               "Width": 70.7,
+               "Height": 57.1,
+               "Front/rear Track": "61.2/61.4 in (1,554/1,560 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 12.4,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2624,
+               "Gross Weight Limit": 3968
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 38.6,
+               "Highway": 54.7,
+               "Combined": 46.1,
+               "CO2 Emissions": 119
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 3 / Axela Hatchback 2009-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "77 KW @ 6000 RPM\n105 HP @ 6000 RPM\n103 BHP @ 6000 RPM",
+               "Torque": "107 lb-ft @ 4000 RPM\n145 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 175.5,
+               "Width": 69,
+               "Height": 57.9,
+               "Front/rear Track": "60.4/59.8 in (1,534/1,519 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 12,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2766,
+               "Gross Weight Limit": 3902
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28.3,
+               "Highway": 45.2,
+               "Combined": 37.3,
+               "CO2 Emissions": 149
+          },
+          "": {}
+     }
+},{
+     "model_name": "2004 Mazda 3/Axela Hatchback",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1349,
+               "Power": "62 KW @ 6000 RPM\n84 HP @ 6000 RPM\n83 BHP @ 6000 RPM",
+               "Torque": "90 lb-ft @ 4000 RPM\n122 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 174,
+               "Width": 69.1,
+               "Height": 57.7,
+               "Front/rear Track": "60.2/59.6 in (1,529/1,514 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2767,
+               "Gross Weight Limit": 3737
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26.4,
+               "Highway": 38.6,
+               "Combined": 33.1,
+               "CO2 Emissions": 169
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA CX-3 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 119,
+               "Acceleration 0-62 Mph (0-100 kph)": 9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 168.3,
+               "Width": 69.5,
+               "Height": 60.4,
+               "Front/rear Track": "60/59.8 in (1,524/1,519 mm)",
+               "Wheelbase": 101.2,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 12.4,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2712,
+               "Gross Weight Limit": 3660
+          }
+     }
+},{
+     "model_name": "MAZDA CX-3 2015-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "88 KW @ 6000 RPM\n120 HP @ 6000 RPM\n118 BHP @ 6000 RPM",
+               "Torque": "150 lb-ft @ 2800 RPM\n203 Nm @ 2800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/50 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 168.3,
+               "Width": 69.5,
+               "Height": 60.4,
+               "Front/rear Track": "60/59.8 in (1,524/1,519 mm)",
+               "Wheelbase": 101.2,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 12.4,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2954,
+               "Gross Weight Limit": 3880
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.2,
+               "Highway": 42.8,
+               "Combined": 39.2,
+               "CO2 Emissions": 146
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 3 / Axela Sedan 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "89.7 KW @ 4000 RPM\n122 HP @ 4000 RPM\n120 BHP @ 4000 RPM",
+               "Torque": "157 lb-ft @ 4000-6500 RPM\n213 Nm @ 4000-6500 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 126,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 183.5,
+               "Width": 70.7,
+               "Height": 56.9,
+               "Front/rear Track": "61.8/62.2 in (1,570/1,580 mm)",
+               "Wheelbase": 107.3,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 15.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2866,
+               "Gross Weight Limit": 4193
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 33.6,
+               "Highway": 51.1,
+               "Combined": 42.8,
+               "CO2 Emissions": 127
+          },
+          "": {}
+     }
+},{
+     "model_name": "2016 Mazda 3 / Axela Sedan",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1498,
+               "Power": "73.5 KW @ 6000 RPM\n100 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
+               "Torque": "111 lb-ft @ 4000 RPM\n150 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Width": 70,
+               "Height": 57,
+               "Front/rear Track": "61.2/61.4 in (1,554/1,560 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 14.8,
+               "Aerodynamics (Cd)": 0
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 3 / Axela Sedan 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1496,
+               "Power": "74 KW @ 6000 RPM\n100 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
+               "Torque": "111 lb-ft @ 4000 RPM\n150 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 180.5,
+               "Width": 70.7,
+               "Height": 57.1,
+               "Front/rear Track": "61.2/61.4 in (1,554/1,560 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 14.8,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2624,
+               "Gross Weight Limit": 4001
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 36.8,
+               "Highway": 56,
+               "Combined": 47,
+               "CO2 Emissions": 118
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 3 / Axela Sedan 2009-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "77 KW @ 6000 RPM\n105 HP @ 6000 RPM\n103 BHP @ 6000 RPM",
+               "Torque": "107 lb-ft @ 4000 RPM\n145 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 180.3,
+               "Width": 69,
+               "Height": 57.8,
+               "Front/rear Track": "60.4/59.8 in (1,534/1,519 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2744.7,
+               "Gross Weight Limit": 3847
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28.3,
+               "Highway": 45.2,
+               "Combined": 37.3,
+               "CO2 Emissions": 149
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 3 / Axela Sedan 2004-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "77 KW @ 6000 RPM\n105 HP @ 6000 RPM\n103 BHP @ 6000 RPM",
+               "Torque": "107 lb-ft @ 4000 RPM\n145 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 176.8,
+               "Width": 69.1,
+               "Height": 57.7,
+               "Front/rear Track": "60.2/59.6 in (1,529/1,514 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 14.6,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2568,
+               "Gross Weight Limit": 3748
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.1,
+               "Highway": 36.8,
+               "Combined": 30.2,
+               "CO2 Emissions": 186
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 6 / Atenza Sedan 2018-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "121.4 KW @ 6000 RPM\n165 HP @ 6000 RPM\n163 BHP @ 6000 RPM",
+               "Torque": "157 lb-ft @ 4000 RPM\n213 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P225/45 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 192.7,
+               "Width": 72.4,
+               "Height": 57.1,
+               "Front/rear Track": "62.4x62.0 in (1585 mm)",
+               "Wheelbase": 111.4,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 17,
+               "Turning circle (curb to curb)": "36.7 ft (11.2 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3137,
+               "Gross Weight Limit": 4511
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 32.2,
+               "Highway": 43.6,
+               "Combined": 37.9,
+               "CO2 Emissions": 141
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 6 / Atenza Sedan 2015-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "121 KW @ 6000 RPM\n165 HP @ 6000 RPM\n162 BHP @ 6000 RPM",
+               "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 191.7,
+               "Width": 72.4,
+               "Height": 57.1,
+               "Front/rear Track": "62.4/62 in (1,585/1,575 mm)",
+               "Wheelbase": 111.4,
+               "Ground Clearance": 6.4,
+               "Cargo Volume": 17,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3097,
+               "Gross Weight Limit": 4354
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.5,
+               "Highway": 47,
+               "Combined": 39.2,
+               "CO2 Emissions": 139
+          },
+          "": {}
+     }
+},{
+     "model_name": "2012 Mazda 6/Atenza Sedan",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "107 KW @ 6000 RPM\n145 HP @ 6000 RPM\n143 BHP @ 6000 RPM",
+               "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
+               "Fuel System": "Direct Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 129,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6 speed, Automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "solid discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 191.7,
+               "Width": 72.4,
+               "Height": 57.1,
+               "Front/rear Track": "62.4/62 in (1,585/1,575 mm)",
+               "Wheelbase": 111.4,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 17.1,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3254,
+               "Gross Weight Limit": 4332
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30,
+               "Highway": 49,
+               "Combined": 40,
+               "CO2 Emissions": 136
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 6/Atenza Sedan 2007-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "88 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
+               "Torque": "122 lb-ft @ 4300 RPM\n165 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 186.4,
+               "Width": 70.7,
+               "Height": 56.7,
+               "Front/rear Track": "61/61 in (1,549/1,549 mm)",
+               "Wheelbase": 107.3,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 17.8,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2987.8,
+               "Gross Weight Limit": 4156.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.8,
+               "Highway": 45.2,
+               "Combined": 34.6,
+               "CO2 Emissions": 161
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 6 MPS 2006-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2261,
+               "Power": "191 KW @ 5500 RPM\n260 HP @ 5500 RPM\n256 BHP @ 5500 RPM",
+               "Torque": "280 lb-ft @ 3000 RPM\n380 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/45 R18 93Y"
+          },
+          "DIMENSIONS": {
+               "Length": 187.6,
+               "Width": 70.1,
+               "Height": 56.3,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 105.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3450,
+               "Gross Weight Limit": 4596
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.7,
+               "Highway": 29.4,
+               "Combined": 23,
+               "CO2 Emissions": 245
+          }
+     }
+},{
+     "model_name": "MAZDA 6/Atenza Sedan 2005-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "88 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
+               "Torque": "122 lb-ft @ 4300 RPM\n165 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 122,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 VR16"
+          },
+          "DIMENSIONS": {
+               "Length": 184.3,
+               "Width": 70.1,
+               "Height": 56.5,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 105.3,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2744,
+               "Gross Weight Limit": 4001
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.4,
+               "Highway": 39.9,
+               "Combined": 30.5,
+               "CO2 Emissions": 198
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 6/Atenza Sedan 2002-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "88 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
+               "Torque": "122 lb-ft @ 4300 RPM\n165 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 122,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 VR16"
+          },
+          "DIMENSIONS": {
+               "Length": 184.3,
+               "Width": 70.1,
+               "Height": 56.5,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 105.3,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (Cd)": 0.27
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2744,
+               "Gross Weight Limit": 4001
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.4,
+               "Highway": 39.9,
+               "Combined": 30.5,
+               "CO2 Emissions": 198
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA CX-5 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "114 KW @ 6000 RPM\n155 HP @ 6000 RPM\n153 BHP @ 6000 RPM",
+               "Torque": "145 lb-ft @ 4000 RPM\n196 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R19 99V"
+          },
+          "DIMENSIONS": {
+               "Length": 178.9,
+               "Width": 72.4,
+               "Height": 66.5,
+               "Front/rear Track": "62.8/62.8 in (1,595/1,595 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 17.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3329
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 37.9,
+               "CO2 Emissions": 145
+          },
+          "": {}
+     }
+},{
+     "model_name": "2016 Mazda CX-5",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "118 KW @ 6000 RPM\n160 HP @ 6000 RPM\n158 BHP @ 6000 RPM",
+               "Torque": "153 lb-ft @ 4000 RPM\n207 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 116,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 179.3,
+               "Width": 72.4,
+               "Height": 67.3,
+               "Front/rear Track": "62.4/62.6 in (1,585/1,590 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 16.4,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3263,
+               "Gross Weight Limit": 4486
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 29.4,
+               "Highway": 40.6,
+               "Combined": 35.6,
+               "CO2 Emissions": 155
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA CX-5 2012-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "118 KW @ 6000 RPM\n160 HP @ 6000 RPM\n158 BHP @ 6000 RPM",
+               "Torque": "153 lb-ft @ 4000 RPM\n207 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.3
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 116,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 178.7,
+               "Width": 72.4,
+               "Height": 65.7,
+               "Front/rear Track": "62.4/62.6 in (1,585/1,590 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 17.8,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3373,
+               "Gross Weight Limit": 4475
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 29,
+               "Highway": 40.6,
+               "Combined": 35.6,
+               "CO2 Emissions": 155
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA CX-9 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2488,
+               "Power": "183.9 KW @ 5000 RPM\n250 HP @ 5000 RPM\n247 BHP @ 5000 RPM",
+               "Torque": "229 lb-ft @ 2000 RPM\n310 Nm @ 2000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/60 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 199.4,
+               "Width": 77.5,
+               "Height": 67.6,
+               "Front/rear Track": "65.3/65.2 in (1,659/1,656 mm)",
+               "Wheelbase": 115.4,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 14.4,
+               "Turning circle (curb to curb)": "38.7 ft (11.8 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4050
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.2,
+               "Highway": 28
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA CX-9 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2488,
+               "Power": "186.4 KW @ 5000 RPM\n253 HP @ 5000 RPM\n250 BHP @ 5000 RPM",
+               "Torque": "310 lb-ft @ 2000 RPM\n420 Nm @ 2000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P255/60 r18"
+          },
+          "DIMENSIONS": {
+               "Length": 199.4,
+               "Width": 77.5,
+               "Height": 69,
+               "Front/rear Track": "65.3/65.2 in (1,659/1,656 mm)",
+               "Wheelbase": 115.3,
+               "Ground Clearance": 8.8,
+               "Cargo Volume": 14.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4054
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 28,
+               "Combined": 25
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA CX-9 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3726,
+               "Power": "203.6 KW @ 6250 RPM\n277 HP @ 6250 RPM\n273 BHP @ 6250 RPM",
+               "Torque": "270 lb-ft @ 4250 RPM\n366 Nm @ 4250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 20.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/50R20"
+          },
+          "DIMENSIONS": {
+               "Length": 200.6,
+               "Width": 76.2,
+               "Height": 68,
+               "Front/rear Track": "65.1/64.7 in (1,654/1,643 mm)",
+               "Wheelbase": 113.2,
+               "Ground Clearance": 8,
+               "Cargo Volume": 17.2,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17,
+               "Highway": 24
+          },
+          "": {}
+     }
+},{
+     "model_name": "2010 Mazda CX-9",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3726,
+               "Power": "204 KW @ 6250 RPM\n277 HP @ 6250 RPM\n274 BHP @ 6250 RPM",
+               "Torque": "270 lb-ft @ 4250 RPM\n366 Nm @ 4250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 20.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/50R20"
+          },
+          "DIMENSIONS": {
+               "Length": 200.4,
+               "Width": 76.2,
+               "Height": 68,
+               "Front/rear Track": "65.1/64.7 in (1,654/1,643 mm)",
+               "Wheelbase": 113.2,
+               "Ground Clearance": 8,
+               "Cargo Volume": 9.4,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4330
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 22
+          },
+          "": {}
+     }
+},{
+     "model_name": "2007 Mazda CX-9",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3726,
+               "Power": "200.8 KW @ 6250 RPM\n273 HP @ 6250 RPM\n269 BHP @ 6250 RPM",
+               "Torque": "270 lb-ft @ 4250 RPM\n366 Nm @ 4250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 20.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/60 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 199.8,
+               "Width": 76.2,
+               "Height": 68.3,
+               "Front/rear Track": "65.1/64.7 in (1,654/1,643 mm)",
+               "Wheelbase": 113.2,
+               "Ground Clearance": 8,
+               "Cargo Volume": 48.4,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4552,
+               "Gross Weight Limit": 5805
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15,
+               "Highway": 21,
+               "Combined": 17
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 6 / Atenza Wagon 2015-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "122 KW @ 6000 RPM\n166 HP @ 6000 RPM\n164 BHP @ 6000 RPM",
+               "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 128,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 189.2,
+               "Width": 72.4,
+               "Height": 58.3,
+               "Front/rear Track": "62.4/62 in (1,585/1,575 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 0.3,
+               "Cargo Volume": 18.4,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3120,
+               "Gross Weight Limit": 4453
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.5,
+               "Highway": 47,
+               "Combined": 39.2,
+               "CO2 Emissions": 139
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 6/Atenza Wagon 2013-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "79 KW @ 6000 RPM\n107 HP @ 6000 RPM\n106 BHP @ 6000 RPM",
+               "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 128,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/55 R17 or 255/45 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 189.2,
+               "Width": 72.4,
+               "Height": 58.1,
+               "Front/rear Track": "62.4/62 in (1,585/1,575 mm)",
+               "Wheelbase": 111.4,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 17.9,
+               "Aerodynamics (Cd)": 0.26
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3221,
+               "Gross Weight Limit": 4365
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 33,
+               "Highway": 50,
+               "Combined": 42,
+               "CO2 Emissions": 131
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 6/Atenza Wagon 2007-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "88 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
+               "Torque": "122 lb-ft @ 4300 RPM\n165 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 120.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 187.6,
+               "Width": 70.7,
+               "Height": 58.7,
+               "Front/rear Track": "61/61 in (1,549/1,549 mm)",
+               "Wheelbase": 107.3,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 17.8,
+               "Aerodynamics (Cd)": 0.28
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2845.9,
+               "Gross Weight Limit": 4243.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.2,
+               "Highway": 43.6,
+               "Combined": 33.6,
+               "CO2 Emissions": 165
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 6/Atenza Wagon 2005-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "88 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
+               "Torque": "122 lb-ft @ 4300 RPM\n165 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 119,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16V"
+          },
+          "DIMENSIONS": {
+               "Length": 185.4,
+               "Width": 70.1,
+               "Height": 58.2,
+               "Front/rear Track": "61/61 in (1,549/1,549 mm)",
+               "Wheelbase": 105.3,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 17.8,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2943.1,
+               "Gross Weight Limit": 4243.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.3,
+               "Highway": 38.5,
+               "Combined": 29.7,
+               "CO2 Emissions": 188
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 6/Atenza Wagon 2002-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "88 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
+               "Torque": "122 lb-ft @ 4300 RPM\n165 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 119,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16V"
+          },
+          "DIMENSIONS": {
+               "Length": 185,
+               "Width": 70.1,
+               "Height": 57.1,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 105.3,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 17.8,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2888,
+               "Gross Weight Limit": 4189
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.1,
+               "Highway": 37.3,
+               "Combined": 28.3,
+               "CO2 Emissions": 198
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA MX-5 / Miata RF 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1496,
+               "Power": "96.3 KW @ 7000 RPM\n131 HP @ 7000 RPM\n129 BHP @ 7000 RPM",
+               "Torque": "111 lb-ft @ 4800 RPM\n150 Nm @ 4800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 126,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/50 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 154.1,
+               "Width": 68.3,
+               "Height": 48.2,
+               "Front/rear Track": "58.9/59.2 in (1,496/1,504 mm)",
+               "Wheelbase": 90.9,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 4.6,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2403,
+               "Gross Weight Limit": 2789
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 29,
+               "Highway": 48,
+               "Combined": 38.6,
+               "CO2 Emissions": 142
+          },
+          "": {}
+     }
+},{
+     "model_name": "2015 Mazda MX-5/Miata (ND)",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1496,
+               "Power": "96.3 KW @ 7000 RPM\n131 HP @ 7000 RPM\n129 BHP @ 7000 RPM",
+               "Torque": "111 lb-ft @ 4800 RPM\n150 Nm @ 4800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/50 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 154.1,
+               "Width": 68.3,
+               "Height": 48.2,
+               "Front/rear Track": "58.9/59.2 in (1,496/1,504 mm)",
+               "Wheelbase": 90.9,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 4.6,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2315,
+               "Gross Weight Limit": 2712
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 29.8,
+               "Highway": 48,
+               "Combined": 39.2,
+               "CO2 Emissions": 139
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA MX-5 / Miata Roadster Coupe 2012-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "92.7 KW @ 6500 RPM\n126 HP @ 6500 RPM\n124 BHP @ 6500 RPM",
+               "Torque": "123 lb-ft @ 4500 RPM\n167 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 123,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/45 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 158.3,
+               "Width": 67.7,
+               "Height": 49.4,
+               "Front/rear Track": "58.7/58.9 in (1,491/1,496 mm)",
+               "Wheelbase": 91.7,
+               "Ground Clearance": 5.4,
+               "Cargo Volume": 5.3,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2315,
+               "Gross Weight Limit": 3031
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24,
+               "Highway": 42,
+               "Combined": 33.1,
+               "CO2 Emissions": 167
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA MX-5 / Miata 2008-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "93 KW @ 6500 RPM\n126 HP @ 6500 RPM\n125 BHP @ 6500 RPM",
+               "Torque": "123 lb-ft @ 4500 RPM\n167 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 157.3,
+               "Width": 67.7,
+               "Height": 49,
+               "Front/rear Track": "58.7/58.9 in (1,491/1,496 mm)",
+               "Wheelbase": 91.7,
+               "Ground Clearance": 5.4,
+               "Cargo Volume": 5.3,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2546,
+               "Gross Weight Limit": 2987
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.8,
+               "Highway": 40.6,
+               "Combined": 32.2,
+               "CO2 Emissions": 174
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA MX-5 / Miata 2005-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "93 KW @ 6500 RPM\n125 HP @ 6500 RPM\n125 BHP @ 6500 RPM",
+               "Torque": "123 lb-ft @ 4500 RPM\n167 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 122,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 157.3,
+               "Width": 67.7,
+               "Height": 49,
+               "Front/rear Track": "58.7/58.9 in (1,491/1,496 mm)",
+               "Wheelbase": 91.7,
+               "Ground Clearance": 5.4,
+               "Cargo Volume": 5.3,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2546,
+               "Gross Weight Limit": 2987
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.8,
+               "Highway": 40.6,
+               "Combined": 32.2,
+               "CO2 Emissions": 174
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA Mazda speed MX-5 / Miata 2004-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1839,
+               "Power": "133 KW @ 6000 RPM\n178 HP @ 6000 RPM\n178 BHP @ 6000 RPM",
+               "Torque": "154 lb-ft @ 5500 RPM\n209 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/40 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 156.1,
+               "Width": 66.1,
+               "Height": 48.6,
+               "Front/rear Track": "55.3/56.3 in (1,405/1,430 mm)",
+               "Wheelbase": 89.2,
+               "Ground Clearance": 4,
+               "Cargo Volume": 5.1,
+               "Aerodynamics (Cd)": 0.37
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2469.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28.7,
+               "CO2 Emissions": 195
+          }
+     }
+},{
+     "model_name": "MAZDA MX-5 / Miata 1998-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1597,
+               "Power": "81 KW @ 6500 RPM\n110 HP @ 6500 RPM\n109 BHP @ 6500 RPM",
+               "Torque": "99 lb-ft @ 5000 RPM\n134 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/50VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 156.6,
+               "Width": 66.1,
+               "Height": 48,
+               "Front/rear Track": "55.9/56.6 in (1,420/1,438 mm)",
+               "Wheelbase": 88.97,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 5.1,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2182.5,
+               "Gross Weight Limit": 2766.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.1,
+               "Highway": 35.6,
+               "Combined": 29,
+               "CO2 Emissions": 193
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA MX-5 / Miata 1989-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "85 KW @ 6500 RPM\n116 HP @ 6500 RPM\n114 BHP @ 6500 RPM",
+               "Torque": "100 lb-ft @ 5500 RPM\n136 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60 R14H"
+          },
+          "DIMENSIONS": {
+               "Length": 156.5,
+               "Width": 65.9,
+               "Height": 48.4,
+               "Front/rear Track": "55.5/56.2 in (1,410/1,427 mm)",
+               "Wheelbase": 89.2,
+               "Ground Clearance": 4.6,
+               "Cargo Volume": 4.8,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2094.3,
+               "Gross Weight Limit": 2623.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.5,
+               "Highway": 38.6,
+               "Combined": 30.2,
+               "CO2 Emissions": 186
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 5 / Premacy 2010-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "85 KW @ 5300 RPM\n116 HP @ 5300 RPM\n114 BHP @ 5300 RPM",
+               "Torque": "122 lb-ft @ 4000 RPM\n165 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 113,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/50 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 180.5,
+               "Width": 78.3,
+               "Height": 63.6,
+               "Front/rear Track": "60.2/59.8 in (1,529/1,519 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 15
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3241,
+               "Gross Weight Limit": 4597
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.3,
+               "Highway": 39.2,
+               "Combined": 32.7,
+               "CO2 Emissions": 168
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 5 / Premacy 2008-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "85 KW @ 5300 RPM\n116 HP @ 5300 RPM\n114 BHP @ 5300 RPM",
+               "Torque": "122 lb-ft @ 4000 RPM\n165 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 113.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 177.4,
+               "Width": 69.1,
+               "Height": 63.6,
+               "Front/rear Track": "60.2/59.8 in (1,529/1,519 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 3.9,
+               "Aerodynamics (Cd)": 0.29,
+               "Turning circle": 34.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3086.5,
+               "Gross Weight Limit": 4651.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.3,
+               "Highway": 39.2,
+               "Combined": 31.4,
+               "CO2 Emissions": 179
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 5 / Premacy 2005-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "84.6 KW @ 5300 RPM\n115 HP @ 5300 RPM\n113 BHP @ 5300 RPM",
+               "Torque": "122 lb-ft @ 4000 RPM\n165 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 113,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 177.4,
+               "Width": 69.1,
+               "Height": 65.6,
+               "Front/rear Track": "60.2/59.8 in (1,529/1,519 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 19,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3075,
+               "Gross Weight Limit": 4608
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 37.3,
+               "Combined": 29.8,
+               "CO2 Emissions": 190
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA Biante 2008-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1997,
+               "Power": "110 KW @ 6200 RPM\n150 HP @ 6200 RPM\n148 BHP @ 6200 RPM",
+               "Torque": "140 lb-ft @ 4500 RPM\n190 Nm @ 4500 RPM",
+               "Fuel System": "multi-point fuel injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5 speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60R16"
+          },
+          "DIMENSIONS": {
+               "Length": 185.6,
+               "Width": 69.7,
+               "Height": 72.2,
+               "Front/rear Track": "60.2/59.6 in (1,529/1,514 mm)",
+               "Wheelbase": 112.2,
+               "Cargo Volume": 9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3677
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA Flair 2012-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 658,
+               "Power": "38 KW @ 6000 RPM\n52 HP @ 6000 RPM\n51 BHP @ 6000 RPM",
+               "Torque": "46 lb-ft @ 4000 RPM\n62 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed, Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/65 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 133.7,
+               "Width": 58.1,
+               "Height": 64.6,
+               "Front/rear Track": "51/49.8 in (1,295/1,265 mm)",
+               "Wheelbase": 95.5,
+               "Ground Clearance": 6.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1653
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 60.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA CX-30 2019-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "89.7 KW @ 6000 RPM\n122 HP @ 6000 RPM\n120 BHP @ 6000 RPM",
+               "Torque": "157 lb-ft @ 4000 RPM\n213 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 116,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65R16 // 215/55R18"
+          },
+          "DIMENSIONS": {
+               "Length": 173,
+               "Width": 70.7,
+               "Height": 60.6,
+               "Front/rear Track": "61.6/61.6 in (1,565/1,565 mm)",
+               "Wheelbase": 104.5,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 15.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3166,
+               "Gross Weight Limit": 4314
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 46.1,
+               "CO2 Emissions": 116
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "34.1 mpg US (6.9 L/100Km)",
+               "Medium": "42.8 mpg US (5.5 L/100Km)",
+               "High": "37.3 mpg US (6.3 L/100Km)",
+               "Extra high": "27 mpg US (8.7 L/100Km)",
+               "Combined": 35.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA CX-8 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2488,
+               "Power": "169.2 KW @ 4250 RPM\n230 HP @ 4250 RPM\n227 BHP @ 4250 RPM",
+               "Torque": "310 lb-ft @ 2000 RPM\n420 Nm @ 2000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/65 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 192.9,
+               "Width": 72.4,
+               "Height": 68.1,
+               "Front/rear Track": "62.8/63 in (1,595/1,600 mm)",
+               "Wheelbase": 115.4,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 8.4,
+               "Turning circle (curb to curb)": "38.1 ft (11.6 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3990
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28.3
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "MAZDA CX-50 2021-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2488,
+               "Power": "167 KW @ 5000 RPM\n227 HP @ 5000 RPM\n224 BHP @ 5000 RPM",
+               "Torque": "310 lb-ft @ 2000 RPM\n420 Nm @ 2000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-automatic speed SKYACTIV-Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 185.8,
+               "Width": 72.9,
+               "Height": 63.9,
+               "Wheelbase": 110.8,
+               "Ground Clearance": 8.6,
+               "Cargo Volume": 31,
+               "Turning circle": 36.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3907
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.1,
+               "Highway": 29,
+               "Combined": 25
+          },
+          "": {}
+     }
+},{
+     "model_name": "2024 Mazda CX-90",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2488,
+               "Power": "139 KW @ 6000 RPM\n189 HP @ 6000 RPM\n186 BHP @ 6000 RPM",
+               "Torque": "192 lb-ft @ 4000 RPM\n260 Nm @ 4000 RPM",
+               "Electrical motor power": "127.2 kw (173 hp)",
+               "Electrical motor torque": "199.1 lb-ft (270 Nm)",
+               "Total maximum power": "237.6 kw (323 hp)",
+               "Total maximum torque": "368.8 lb-ft (500 Nm)",
+               "Fuel System": "Direct injection Naturally aspirated",
+               "Fuel": "Plug-in Hybrid",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 190
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "275/45 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 83.5,
+               "Width": 77.6,
+               "Height": 68.7,
+               "Front/rear Track": "67.1/67.2 in (1,704/1,707 mm)",
+               "Wheelbase": 122.8,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 14.9,
+               "Turning circle": 38.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5243
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Maximum Capacity": "17.8 kWh"
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA CX-60 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2488,
+               "Power": "141.2 KW @ 6000 RPM\n192 HP @ 6000 RPM\n189 BHP @ 6000 RPM",
+               "Torque": "193 lb-ft @ - RPM\n261 Nm @ - RPM",
+               "Electrical motor power": "100 kw (136 hp)",
+               "Electrical motor torque": "184.4 lb-ft (250 Nm)",
+               "Total maximum power": "241.2 kw (328 hp)",
+               "Total maximum torque": "368.8 lb-ft (500 Nm)",
+               "Fuel System": "Direct injection Naturally aspirated",
+               "Fuel": "Hybrid Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/60 R18 // 235/50 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 186.8,
+               "Width": 74.4,
+               "Height": 65.9,
+               "Front/rear Track": "64.6/64.8 in (1,641/1,646 mm)",
+               "Wheelbase": 2870,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 16.8,
+               "Turning circle": 35.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4167,
+               "Gross Weight Limit": 5880
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 17.8,
+               "Range": 39.1
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 156.8,
+               "CO2 Emissions (Combined)": "33 g/km"
+          }
+     }
+},{
+     "model_name": "2024 Mazda MX-30 e-Skyactiv R-EV",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Displacement": 830,
+               "Power": "55.2 KW @ 4700 RPM\n75 HP @ 4700 RPM\n74 BHP @ 4700 RPM",
+               "Torque": "86 lb-ft @ 4000 RPM\n116 Nm @ 4000 RPM",
+               "Electrical motor power": "125 kw (170 hp)",
+               "Electrical motor torque": "191.8 lb-ft (260 Nm)",
+               "Total maximum power": "125 kw (170 hp)",
+               "Total maximum torque": "191.8 lb-ft (260 Nm)",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Plug-in Hybrid",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Disc"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 173,
+               "Width": 70.7,
+               "Height": 61.2,
+               "Front/rear Track": "61.6/61.6 in (1,565/1,565 mm)",
+               "Wheelbase": 104.5,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 12.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3920,
+               "Gross Weight Limit": 5624
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Maximum Capacity": "17.8 kWh",
+               "Range": 52.8
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 235.2,
+               "Combined (CNG)": "21 kg/100Km"
+          }
+     }
+},{
+     "model_name": "2020 Mazda MX-30",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "105.2 kw (143 hp)",
+               "Electrical motor torque": "194.7 lb-ft (264 Nm)",
+               "Fuel": "Electric"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55R18"
+          },
+          "DIMENSIONS": {
+               "Length": 173,
+               "Width": 70.7,
+               "Height": 61.8,
+               "Wheelbase": 104.5
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 35.5,
+               "Range": 129.9
+          },
+          "NOTES": {
+               "Total voltage": "355V\nTotal electric power (battery capacity): 35.5 KWh\nMotor type: AC synchronous motor\nDC charging: COMBO spec\nAC charging: Maximum input 6.6kW"
+          }
+     }
+},{
+     "model_name": "2025 Mazda CX-70",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Electrical motor power": "66.2 kw (90 hp)",
+               "Electrical motor torque": "48.7 lb-ft (66 Nm)",
+               "Total maximum power": "237.6 kw (323 hp)",
+               "Total maximum torque": "368.8 lb-ft (500 Nm)",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Plug-in Hybrid"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 17.8,
+               "Range": 26.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 121/ Revue (Mk.2) 1991-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1138,
+               "Power": "39.7 KW @ 5600 RPM\n54 HP @ 5600 RPM\n53 BHP @ 5600 RPM",
+               "Torque": "63 lb-ft @ 3600 RPM\n86 Nm @ 3600 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 93,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/70 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 150,
+               "Width": 65.2,
+               "Height": 57.9,
+               "Front/rear Track": "55.9/55.1 in (1,420/1,400 mm)",
+               "Wheelbase": 94.1,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 10.2,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1775,
+               "Gross Weight Limit": 2866
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.9,
+               "Highway": 45.2,
+               "Combined": 35.6,
+               "CO2 Emissions": 152
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 121 (Mk.1) 1987-1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1138,
+               "Power": "41.2 KW @ 5800 RPM\n56 HP @ 5800 RPM\n55 BHP @ 5800 RPM",
+               "Torque": "65 lb-ft @ 3600 RPM\n88 Nm @ 3600 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 93,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/70 R12S"
+          },
+          "DIMENSIONS": {
+               "Length": 136.8,
+               "Width": 63.2,
+               "Height": 59.3,
+               "Front/rear Track": "55.1/54.3 in (1,400/1,379 mm)",
+               "Wheelbase": 90.4,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 6.7,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1598,
+               "Gross Weight Limit": 2800
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.2,
+               "Highway": 32.2,
+               "Combined": 34.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 2 2007-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1349,
+               "Power": "55 KW @ 6000 RPM\n75 HP @ 6000 RPM\n74 BHP @ 6000 RPM",
+               "Torque": "89 lb-ft @ 3500 RPM\n121 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 104.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 14
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65R14"
+          },
+          "DIMENSIONS": {
+               "Length": 153.5,
+               "Width": 66.9,
+               "Height": 58.2,
+               "Front/rear Track": "58.2/57.4 in (1,478/1,458 mm)",
+               "Wheelbase": 98,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 8.8,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2050.2,
+               "Gross Weight Limit": 3262.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 34,
+               "Highway": 51.1,
+               "Combined": 43.5,
+               "CO2 Emissions": 129
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 2 / Demio - sedan 2008-2014",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1349,
+               "Power": "66.2 KW @ 6000 RPM\n90 HP @ 6000 RPM\n89 BHP @ 6000 RPM",
+               "Torque": "89 lb-ft @ 3500 RPM\n120 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65R14"
+          },
+          "DIMENSIONS": {
+               "Length": 167.8,
+               "Width": 66.7,
+               "Height": 58.4,
+               "Front/rear Track": "58.1/57.7 in (1,476/1,466 mm)",
+               "Wheelbase": 98,
+               "Ground Clearance": 6,
+               "Cargo Volume": 15.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2205,
+               "Gross Weight Limit": 3258
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 41,
+               "CO2 Emissions": 138
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 3 MPS / MAZDASPEED3 2009-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2261,
+               "Power": "191 KW @ 5500 RPM\n260 HP @ 5500 RPM\n256 BHP @ 5500 RPM",
+               "Torque": "280 lb-ft @ 3000 RPM\n380 Nm @ 3000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P225/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 177.6,
+               "Width": 69.7,
+               "Height": 57.5,
+               "Front/rear Track": "60.4/60 in (1,534/1,524 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 17,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2998,
+               "Gross Weight Limit": 4244
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.8,
+               "Highway": 31.4,
+               "Combined": 24.5,
+               "CO2 Emissions": 224
+          }
+     }
+},{
+     "model_name": "MAZDA 3 MPS / MAZDASPEED3 2006-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2261,
+               "Power": "191.2 KW @ 5500 RPM\n260 HP @ 5500 RPM\n256 BHP @ 5500 RPM",
+               "Torque": "280 lb-ft @ 3000 RPM\n380 Nm @ 3000 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/45R18"
+          },
+          "DIMENSIONS": {
+               "Length": 174.8,
+               "Width": 69.2,
+               "Height": 57.4,
+               "Front/rear Track": "60.6/59.8 in (1,539/1,519 mm)",
+               "Wheelbase": 103.9,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 10.2,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3053.4,
+               "Gross Weight Limit": 4210.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.4,
+               "Highway": 31.3,
+               "Combined": 24.2,
+               "CO2 Emissions": 231
+          }
+     }
+},{
+     "model_name": "MAZDA 323 C (BH) 1994-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1324,
+               "Power": "54 KW @ 5500 RPM\n73 HP @ 5500 RPM\n72 BHP @ 5500 RPM",
+               "Torque": "77 lb-ft @ 4000 RPM\n104 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 102,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70 R13S"
+          },
+          "DIMENSIONS": {
+               "Length": 158.9,
+               "Width": 67.3,
+               "Height": 55.3,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 98.6,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2271,
+               "Gross Weight Limit": 3318
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28.7,
+               "Highway": 39.9,
+               "Combined": 32.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 323 F (CB) 1994-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1489,
+               "Power": "65 KW @ 5500 RPM\n88 HP @ 5500 RPM\n87 BHP @ 5500 RPM",
+               "Torque": "97 lb-ft @ 4000 RPM\n132 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70 R13T"
+          },
+          "DIMENSIONS": {
+               "Length": 167.1,
+               "Width": 66.7,
+               "Height": 53.3,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 102.6,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 12.2,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2458.1,
+               "Gross Weight Limit": 3483.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 29,
+               "Highway": 40.6,
+               "Combined": 32.7,
+               "CO2 Emissions": 171
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 323 (BG) Hatchback 1989-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1323,
+               "Power": "53.7 KW @ 6000 RPM\n73 HP @ 6000 RPM\n72 BHP @ 6000 RPM",
+               "Torque": "75 lb-ft @ 3700 RPM\n101 Nm @ 3700 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 98,
+               "Acceleration 0-62 Mph (0-100 kph)": 16
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70 R13T"
+          },
+          "DIMENSIONS": {
+               "Length": 157.3,
+               "Width": 65.9,
+               "Height": 54.3,
+               "Front/rear Track": "56.3/56.5 in (1,430/1,435 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 10.9,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2094,
+               "Gross Weight Limit": 3285
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": "Infinity mpg US (0 L/100Km)",
+               "Highway": "Infinity mpg US (0 L/100Km)",
+               "Combined": 29.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 323 (BG) Sedan 1989-1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1323,
+               "Power": "53.7 KW @ 6000 RPM\n73 HP @ 6000 RPM\n72 BHP @ 6000 RPM",
+               "Torque": "75 lb-ft @ 3700 RPM\n101 Nm @ 3700 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 62,
+               "Acceleration 0-62 Mph (0-100 kph)": 16
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70 R13T"
+          },
+          "DIMENSIONS": {
+               "Length": 165.9,
+               "Width": 65.9,
+               "Height": 54.1,
+               "Front/rear Track": "56.3/56.5 in (1,430/1,435 mm)",
+               "Wheelbase": 98.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.7,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2150,
+               "Gross Weight Limit": 3296
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 24.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 323 (BF) Station Wagon 1986-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1490,
+               "Power": "55.2 KW @ 5500 RPM\n75 HP @ 5500 RPM\n74 BHP @ 5500 RPM",
+               "Torque": "85 lb-ft @ 3500 RPM\n115 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70 R13S"
+          },
+          "DIMENSIONS": {
+               "Length": 166.1,
+               "Width": 64.8,
+               "Height": 56.3,
+               "Front/rear Track": "54.7/55.7 in (1,389/1,415 mm)",
+               "Wheelbase": 94.5,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 13.3,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2094,
+               "Gross Weight Limit": 3197
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.8,
+               "Highway": 29.8,
+               "Combined": 30.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 6/Atenza Hatchback 2007-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "88 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
+               "Torque": "122 lb-ft @ 4300 RPM\n165 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 123,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 186.4,
+               "Width": 70.7,
+               "Height": 56.7,
+               "Front/rear Track": "61/61 in (1,549/1,549 mm)",
+               "Wheelbase": 107.3,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 17.6,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3076,
+               "Gross Weight Limit": 4244.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.5,
+               "Highway": 44.4,
+               "Combined": 34.1,
+               "CO2 Emissions": 162
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 6/Atenza Hatchback 2002-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1798,
+               "Power": "88 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
+               "Torque": "122 lb-ft @ 4300 RPM\n165 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 122,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16V"
+          },
+          "DIMENSIONS": {
+               "Length": 184.3,
+               "Width": 70.1,
+               "Height": 56.5,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 105.3,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 22,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2800,
+               "Gross Weight Limit": 4034
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.4,
+               "Highway": 39.9,
+               "Combined": 30.2,
+               "CO2 Emissions": 198
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 626 (Mk.5) Hatchback 1997-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1840,
+               "Power": "74 KW @ 5500 RPM\n100 HP @ 5500 RPM\n99 BHP @ 5500 RPM",
+               "Torque": "112 lb-ft @ 4000 RPM\n152 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60R15"
+          },
+          "DIMENSIONS": {
+               "Length": 180.3,
+               "Width": 67.3,
+               "Height": 56.2,
+               "Front/rear Track": "58.2/58.2 in (1,478/1,478 mm)",
+               "Wheelbase": 102.7,
+               "Ground Clearance": 6,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2568.3,
+               "Gross Weight Limit": 3957.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.9,
+               "CO2 Emissions": 181
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 626 (Mk.4) Hatchback 1991-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1839,
+               "Power": "77 KW @ 5500 RPM\n105 HP @ 5500 RPM\n103 BHP @ 5500 RPM",
+               "Torque": "114 lb-ft @ 4300 RPM\n155 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R14H"
+          },
+          "DIMENSIONS": {
+               "Length": 184.8,
+               "Width": 68.9,
+               "Height": 55.1,
+               "Front/rear Track": "59/59 in (1,499/1,499 mm)",
+               "Wheelbase": 102.8,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 16.1,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2579.4,
+               "Gross Weight Limit": 3692.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.8,
+               "Highway": 41.3,
+               "Combined": 31.8,
+               "CO2 Emissions": 176
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 626 (Mk.3) Hatchback 1988-1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1984,
+               "Power": "66 KW @ 5000 RPM\n90 HP @ 5000 RPM\n89 BHP @ 5000 RPM",
+               "Torque": "113 lb-ft @ 2500 RPM\n153 Nm @ 2500 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/70 R14H"
+          },
+          "DIMENSIONS": {
+               "Length": 178.5,
+               "Width": 66.5,
+               "Height": 54.1,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 101.4,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 23,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2524.3,
+               "Gross Weight Limit": 4056.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.6,
+               "Highway": 36.2,
+               "Combined": 27.7,
+               "CO2 Emissions": 202
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 626 (Mk.5) Sedan 1997-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1840,
+               "Power": "74 KW @ 5500 RPM\n101 HP @ 5500 RPM\n99 BHP @ 5500 RPM",
+               "Torque": "112 lb-ft @ 4000 RPM\n152 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60R15"
+          },
+          "DIMENSIONS": {
+               "Length": 180.3,
+               "Width": 67.3,
+               "Height": 56.2,
+               "Front/rear Track": "58.2/58.2 in (1,478/1,478 mm)",
+               "Wheelbase": 102.7,
+               "Ground Clearance": 6,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2524.2,
+               "Gross Weight Limit": 3736.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 30.9,
+               "CO2 Emissions": 181
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 626 (Mk.5) Sedan 1991-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1839,
+               "Power": "77 KW @ 5500 RPM\n105 HP @ 5500 RPM\n103 BHP @ 5500 RPM",
+               "Torque": "114 lb-ft @ 4300 RPM\n155 Nm @ 4300 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R14H"
+          },
+          "DIMENSIONS": {
+               "Length": 184.8,
+               "Width": 68.9,
+               "Height": 55.1,
+               "Front/rear Track": "59/59 in (1,499/1,499 mm)",
+               "Wheelbase": 102.8,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 16,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.8,
+               "Highway": 41.3,
+               "Combined": 31.8,
+               "CO2 Emissions": 176
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 626 (Mk.3) Sedan 1988-1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1984,
+               "Power": "66 KW @ 5000 RPM\n90 HP @ 5000 RPM\n89 BHP @ 5000 RPM",
+               "Torque": "113 lb-ft @ 2500 RPM\n153 Nm @ 2500 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/70 R14H"
+          },
+          "DIMENSIONS": {
+               "Length": 178.5,
+               "Width": 66.5,
+               "Height": 55.5,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 101.4,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 16.5,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2420.8,
+               "Gross Weight Limit": 4056.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.6,
+               "Highway": 36.2,
+               "Combined": 27.7,
+               "CO2 Emissions": 202
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA 626 (Mk.3) Station Wagon 1988-1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "66 KW @ 5000 RPM\n90 HP @ 5000 RPM\n89 BHP @ 5000 RPM",
+               "Torque": "113 lb-ft @ 2500 RPM\n153 Nm @ 2500 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/70 R14H"
+          },
+          "DIMENSIONS": {
+               "Length": 181.5,
+               "Width": 66.5,
+               "Height": 56.3,
+               "Wheelbase": 101.4,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2645.5,
+               "Gross Weight Limit": 3858
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.6,
+               "Highway": 36.2,
+               "Combined": 27.7,
+               "CO2 Emissions": 202
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA B Series / Bravo Dual Cab 1999-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2260,
+               "Power": "106 KW @ 5250 RPM\n144 HP @ 5250 RPM\n142 BHP @ 5250 RPM",
+               "Torque": "154 lb-ft @ 3750 RPM\n209 Nm @ 3750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P225/70 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 197,
+               "Width": 66.7,
+               "Height": 68.5,
+               "Front/rear Track": "58.6/57.3 in (1,488/1,455 mm)",
+               "Wheelbase": 118.1,
+               "Ground Clearance": 6.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2999
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA B Series / Bravo Freestyle Cab 1999-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2260,
+               "Power": "106 KW @ 5250 RPM\n144 HP @ 5250 RPM\n142 BHP @ 5250 RPM",
+               "Torque": "154 lb-ft @ 3750 RPM\n209 Nm @ 3750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/70 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 197,
+               "Width": 66.7,
+               "Height": 68.5,
+               "Front/rear Track": "58.6/57.3 in (1,488/1,455 mm)",
+               "Wheelbase": 118.1,
+               "Ground Clearance": 6.7
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA BT-50 2018-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L5",
+               "Displacement": 3198,
+               "Power": "147.1 KW @ 3000 RPM\n200 HP @ 3000 RPM\n197 BHP @ 3000 RPM",
+               "Torque": "347 lb-ft @ 1750-2500 RPM\n470 Nm @ 1750-2500 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Diesel",
+               "Fuel capacity": 21.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drum"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/70 R16 111T"
+          },
+          "DIMENSIONS": {
+               "Length": 211.5,
+               "Width": 72.8,
+               "Height": 71.5,
+               "Front/rear Track": "61.4/61.4 in (1,560/1,560 mm)",
+               "Wheelbase": 126.8,
+               "Ground Clearance": 7.9,
+               "Turning circle": 40.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4275,
+               "Gross Weight Limit": 7055
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19.3,
+               "Highway": 30.2,
+               "Combined": 25.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA BT-50 2015-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2198,
+               "Power": "110.3 KW @ 3700 RPM\n150 HP @ 3700 RPM\n148 BHP @ 3700 RPM",
+               "Torque": "277 lb-ft @ 1500-2500 RPM\n375 Nm @ 1500-2500 RPM",
+               "Fuel System": "Turbocharged Common Rail",
+               "Fuel": "Diesel",
+               "Fuel capacity": 21.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 201.7,
+               "Width": 72.8,
+               "Height": 70.9,
+               "Front/rear Track": "61.4/61.4 in (1,560/1,560 mm)",
+               "Wheelbase": 126.8,
+               "Ground Clearance": 7.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3675,
+               "Gross Weight Limit": 7055
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 26.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA BT-50 2011-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2488,
+               "Power": "122.1 KW @ 5500 RPM\n166 HP @ 5500 RPM\n164 BHP @ 5500 RPM",
+               "Torque": "166 lb-ft @ 4500 RPM\n225 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 R16C"
+          },
+          "DIMENSIONS": {
+               "Length": 211.5,
+               "Width": 73,
+               "Height": 71.5,
+               "Wheelbase": 126.8,
+               "Ground Clearance": 9.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4114,
+               "Gross Weight Limit": 7055
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA BT-50 2006-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2500,
+               "Power": "105 KW @ 3500 RPM\n143 HP @ 3500 RPM\n141 BHP @ 3500 RPM",
+               "Torque": "243 lb-ft @ 1800 RPM\n329 Nm @ 1800 RPM",
+               "Fuel System": "Common Rail",
+               "Fuel": "Diesel"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 199.8,
+               "Width": 67.5,
+               "Height": 63.8,
+               "Front/rear Track": "56.9/57.1 in (1,445/1,450 mm)",
+               "Wheelbase": 117.5,
+               "Ground Clearance": 7.1,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3583,
+               "Gross Weight Limit": 6173
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 33,
+               "Combined": 28,
+               "CO2 Emissions": 227
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA CX-7 2009-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2261,
+               "Power": "191.2 KW @ 5500 RPM\n260 HP @ 5500 RPM\n256 BHP @ 5500 RPM",
+               "Torque": "280 lb-ft @ 3000 RPM\n380 Nm @ 3000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 131,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P235/60 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 184.3,
+               "Width": 73.7,
+               "Height": 64.8,
+               "Front/rear Track": "63.7/63.5 in (1,618/1,613 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 16.1,
+               "Aerodynamics (Cd)": 0.34,
+               "Turning circle": 51.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3836,
+               "Gross Weight Limit": 5073
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.8,
+               "Highway": 28,
+               "Combined": 22.6,
+               "CO2 Emissions": 243
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA CX-7 2007-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2260,
+               "Power": "182 KW @ 5000 RPM\n247 HP @ 5000 RPM\n244 BHP @ 5000 RPM",
+               "Torque": "258 lb-ft @ 2500 RPM\n350 Nm @ 2500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 117
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/60 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 184.1,
+               "Width": 73.7,
+               "Height": 64.8,
+               "Front/rear Track": "63.7/63.5 in (1,618/1,613 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 16,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3929
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18,
+               "Highway": 24,
+               "Combined": 20
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "MAZDA Flairwagon 2012-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 658,
+               "Power": "47 KW @ 6000 RPM\n64 HP @ 6000 RPM\n63 BHP @ 6000 RPM",
+               "Torque": "70 lb-ft @ 3000 RPM\n95 Nm @ 3000 RPM",
+               "Fuel System": "MPI",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "continuously variable transmission (CVT)"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/55R14"
+          },
+          "DIMENSIONS": {
+               "Length": 133.7,
+               "Width": 58.1,
+               "Height": 68.3,
+               "Wheelbase": 94.5,
+               "Ground Clearance": 5.9,
+               "Aerodynamics (Cd)": 0.658
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2205
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 41,
+               "CO2 Emissions": 135
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA MX-3 1991-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "81 KW @ 6200 RPM\n110 HP @ 6200 RPM\n109 BHP @ 6200 RPM",
+               "Torque": "99 lb-ft @ 3600 RPM\n134 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R14T"
+          },
+          "DIMENSIONS": {
+               "Length": 166.1,
+               "Width": 66.7,
+               "Height": 51.6,
+               "Front/rear Track": "57.4/57.4 in (1,458/1,458 mm)",
+               "Wheelbase": 96.7,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 10.2,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2336.8,
+               "Gross Weight Limit": 3284.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27.4,
+               "Highway": 41.3,
+               "Combined": 31.8,
+               "CO2 Emissions": 164
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA MX-6 1992-1997",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1991,
+               "Power": "85 KW @ 5500 RPM\n115 HP @ 5500 RPM\n114 BHP @ 5500 RPM",
+               "Torque": "127 lb-ft @ 4500 RPM\n172 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R14H"
+          },
+          "DIMENSIONS": {
+               "Length": 181.7,
+               "Width": 68.9,
+               "Height": 51.6,
+               "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
+               "Wheelbase": 102.8,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 14.3,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2599,
+               "Gross Weight Limit": 3328.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.8,
+               "Highway": 38.6,
+               "Combined": 29.4,
+               "CO2 Emissions": 190
+          },
+          "": {}
+     }
+},{
+     "model_name": "1992 Mazda RX-7",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "R2",
+               "Displacement": 2616,
+               "Power": "174 KW @ 6500 RPM\n237 HP @ 6500 RPM\n233 BHP @ 6500 RPM",
+               "Torque": "218 lb-ft @ 5000 RPM\n296 Nm @ 5000 RPM",
+               "Fuel System": "Electronic Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 R16Z"
+          },
+          "DIMENSIONS": {
+               "Length": 169.1,
+               "Width": 68.9,
+               "Height": 48.4,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 95.5,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 5.7,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2866,
+               "Gross Weight Limit": 3285
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.7,
+               "Highway": 30.9,
+               "Combined": 21.2,
+               "CO2 Emissions": 262
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA RX-7 (FC) 1985-1992",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "R2",
+               "Displacement": 2354,
+               "Power": "108 KW @ 6500 RPM\n147 HP @ 6500 RPM\n145 BHP @ 6500 RPM",
+               "Torque": "135 lb-ft @ 3000 RPM\n183 Nm @ 3000 RPM",
+               "Fuel System": "Electronic Fuel Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 168.9,
+               "Width": 66.5,
+               "Height": 48.8,
+               "Front/rear Track": "57/56.6 in (1,448/1,438 mm)",
+               "Wheelbase": 95.6,
+               "Cargo Volume": 7.1,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2696
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA RX-7 (SA/FB) 1978-1985",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "R2",
+               "Displacement": 2292,
+               "Power": "85 KW @ 7000 RPM\n115 HP @ 7000 RPM\n114 BHP @ 7000 RPM",
+               "Torque": "112 lb-ft @ 5000 RPM\n152 Nm @ 5000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 120,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 169,
+               "Width": 65.9,
+               "Height": 50,
+               "Front/rear Track": "55.9/55.1 in (1,420/1,400 mm)",
+               "Wheelbase": 95.3,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2194
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA RX-3 1971-1978",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "R2",
+               "Displacement": 1964,
+               "Power": "81 KW @ 7000 RPM\n110 HP @ 7000 RPM\n109 BHP @ 7000 RPM",
+               "Torque": "100 lb-ft @ 4000 RPM\n135 Nm @ 4000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/80-R13"
+          },
+          "DIMENSIONS": {
+               "Length": 160,
+               "Width": 63,
+               "Height": 54,
+               "Front/rear Track": "51/51 in (1,295/1,295 mm)",
+               "Wheelbase": 90,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1949
+          }
+     }
+},{
+     "model_name": "1970 Mazda Capella RX-2",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "R2",
+               "Displacement": 2292,
+               "Power": "96 KW @ 7000 RPM\n130 HP @ 7000 RPM\n129 BHP @ 7000 RPM",
+               "Torque": "115 lb-ft @ 4000 RPM\n156 Nm @ 4000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 163,
+               "Width": 62,
+               "Height": 55.5,
+               "Wheelbase": 97
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2105
+          }
+     }
+},{
+     "model_name": "MAZDA RX-8 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "2-rotor rotary",
+               "Displacement": 1308,
+               "Power": "155.9 KW @ 7500 RPM\n212 HP @ 7500 RPM\n209 BHP @ 7500 RPM",
+               "Torque": "159 lb-ft @ 5500 RPM\n216 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 175.6,
+               "Width": 69.7,
+               "Height": 52.8,
+               "Front/rear Track": "59.1/59.3 in (1,501/1,506 mm)",
+               "Wheelbase": 106.4,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 7.6,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3111,
+               "Gross Weight Limit": 3858
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 23,
+               "CO2 Emissions": 258
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA RX-8 2003-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "R2",
+               "Displacement": 1304,
+               "Power": "143 KW @ 7000 RPM\n192 HP @ 7000 RPM\n192 BHP @ 7000 RPM",
+               "Torque": "220 lb-ft @ 5000 RPM\n298 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 139,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R16Z"
+          },
+          "DIMENSIONS": {
+               "Length": 174.4,
+               "Width": 69.7,
+               "Height": 52.8,
+               "Front/rear Track": "59.1/59.3 in (1,501/1,506 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 10.2,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3027,
+               "Gross Weight Limit": 4012
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.8,
+               "Highway": 29,
+               "Combined": 22.2,
+               "CO2 Emissions": 284
+          },
+          "": {}
+     }
+},{
+     "model_name": "2009 Mazda Tribute Hybrid",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2488,
+               "Power": "128 KW @ 6000 RPM\n174 HP @ 6000 RPM\n172 BHP @ 6000 RPM",
+               "Torque": "171 lb-ft @ 4500 RPM\n232 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 174.9,
+               "Width": 71.1,
+               "Height": 67.9,
+               "Front/rear Track": "60.7/60.2 in (1,542/1,529 mm)",
+               "Wheelbase": 103.1,
+               "Ground Clearance": 8.4,
+               "Cargo Volume": 31.4,
+               "Aerodynamics (Cd)": 0.36,
+               "Turning circle": 36.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3272,
+               "Gross Weight Limit": 4320
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22,
+               "Highway": 28,
+               "Combined": 24
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA Tribute 2007-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2261,
+               "Power": "114 KW @ 5800 RPM\n155 HP @ 5800 RPM\n153 BHP @ 5800 RPM",
+               "Torque": "152 lb-ft @ 4250 RPM\n206 Nm @ 4250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 174.9,
+               "Width": 71.1,
+               "Height": 67.7,
+               "Front/rear Track": "61.1/60.4 in (1,552/1,534 mm)",
+               "Wheelbase": 103.1,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 29.2,
+               "Aerodynamics (Cd)": 0.36,
+               "Turning circle": 36.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3441,
+               "Gross Weight Limit": 4491
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 19,
+               "Highway": 24,
+               "Combined": 21
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA Tribute 2001-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1989,
+               "Power": "91 KW @ 5300 RPM\n124 HP @ 5300 RPM\n122 BHP @ 5300 RPM",
+               "Torque": "129 lb-ft @ 4500 RPM\n175 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105,
+               "Acceleration 0-62 Mph (0-100 kph)": 13
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70R16"
+          },
+          "DIMENSIONS": {
+               "Length": 174.4,
+               "Width": 72,
+               "Height": 70,
+               "Front/rear Track": "61.3/60.9 in (1,557/1,547 mm)",
+               "Wheelbase": 103.1,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 13,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3141.5,
+               "Gross Weight Limit": 4221.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.5,
+               "Highway": 31.3,
+               "Combined": 25,
+               "CO2 Emissions": 223
+          },
+          "": {}
+     }
+},{
+     "model_name": "2004 Mazda Verisa",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1498,
+               "Power": "83 KW @ 6000 RPM\n113 HP @ 6000 RPM\n111 BHP @ 6000 RPM",
+               "Torque": "103 lb-ft @ 4000 RPM\n140 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Disc",
+               "Rear": "Drum"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65R14"
+          },
+          "DIMENSIONS": {
+               "Length": 156.5,
+               "Width": 66.7,
+               "Height": 60.2,
+               "Front/rear Track": "58.1/57.1 in (1,476/1,450 mm)",
+               "Wheelbase": 98,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 11.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2425,
+               "Gross Weight Limit": 3031
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 38.9,
+               "CO2 Emissions": 141
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA Xedos 6 1992-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "78.7 KW @ 6200 RPM\n107 HP @ 6200 RPM\n106 BHP @ 6200 RPM",
+               "Torque": "102 lb-ft @ 4600 RPM\n138 Nm @ 4600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 14.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65HR14"
+          },
+          "DIMENSIONS": {
+               "Length": 179.5,
+               "Width": 66.9,
+               "Height": 53.3,
+               "Front/rear Track": "57.8/58.2 in (1,468/1,478 mm)",
+               "Wheelbase": 102.8,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 14.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2513,
+               "Gross Weight Limit": 3627
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.8,
+               "Highway": 41.3,
+               "Combined": 31.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "MAZDA Xedos 9 2001-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2497,
+               "Power": "120 KW @ 6000 RPM\n163 HP @ 6000 RPM\n161 BHP @ 6000 RPM",
+               "Torque": "156 lb-ft @ 5000 RPM\n212 Nm @ 5000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 128.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/55R16"
+          },
+          "DIMENSIONS": {
+               "Length": 192.1,
+               "Width": 69.6,
+               "Height": 55.1,
+               "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
+               "Wheelbase": 108.2,
+               "Cargo Volume": 14.7,
+               "Aerodynamics (Cd)": 0.29
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3240.7,
+               "Gross Weight Limit": 4310
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.5,
+               "Highway": 29,
+               "Combined": 21.9,
+               "CO2 Emissions": 258
+          }
+     }
+},{
+     "model_name": "MAZDA Xedos 9 1993-2001",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 1995,
+               "Power": "105.2 KW @ 6000 RPM\n143 HP @ 6000 RPM\n141 BHP @ 6000 RPM",
+               "Torque": "130 lb-ft @ 4900 RPM\n176 Nm @ 4900 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 126,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/65R15"
+          },
+          "DIMENSIONS": {
+               "Length": 190,
+               "Width": 69.7,
+               "Height": 54.9,
+               "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
+               "Wheelbase": 108.3,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 14.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3053.4,
+               "Gross Weight Limit": 4276.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.2,
+               "Highway": 37.3,
+               "Combined": 28,
+               "CO2 Emissions": 215
+          },
+          "": {}
+     }
+},	
+ ] } 

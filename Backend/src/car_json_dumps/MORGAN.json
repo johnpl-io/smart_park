@@ -1,0 +1,734 @@
+{ "brand_name" : "MORGAN", "models": [
+{
+     "model_name": "MORGAN Plus Six 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "246.4 KW @ - RPM\n335 HP @ - RPM\n330 BHP @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          }
+     }
+},{
+     "model_name": "MORGAN Plus Six 2019-2022",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Power": "250.1 KW @ 6500 RPM\n340 HP @ 6500 RPM\n335 BHP @ 6500 RPM",
+               "Torque": "369 lb-ft @ - RPM\n500 Nm @ - RPM",
+               "Fuel System": "Turbocharge Direct Injection"
+          },
+          "PERFORMANCE SPECS": {
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 153.1,
+               "Width": 69.1,
+               "Height": 48
+          }
+     }
+},{
+     "model_name": "MORGAN Plus Four 2022-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "187.6 KW @ - RPM\n255 HP @ - RPM\n252 BHP @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          }
+     }
+},{
+     "model_name": "MORGAN Plus Four 2020-2022",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "190.2 KW @ 5500 RPM\n258.5 HP @ 5500 RPM\n255 BHP @ 5500 RPM",
+               "Torque": "258 lb-ft @ 1000-5000 RPM\n350 Nm @ 1000-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2273
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 32.2,
+               "CO2 Emissions": 165
+          },
+          "": {}
+     }
+},{
+     "model_name": "MORGAN Plus 4 4 seater 2006-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 1999,
+               "Power": "106 KW @ 6000 RPM\n142 HP @ 6000 RPM\n142 BHP @ 6000 RPM",
+               "Torque": "187 lb-ft @ 4500 RPM\n254 Nm @ 4500 RPM",
+               "Fuel System": "direct petrol injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "five speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 157.9,
+               "Width": 67.7,
+               "Height": 48
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2044
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24,
+               "Highway": 44,
+               "Combined": 34,
+               "CO2 Emissions": 162
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "MORGAN Plus 4 2005-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1999,
+               "Power": "107 KW @ 6000 RPM\n145 HP @ 6000 RPM\n143 BHP @ 6000 RPM",
+               "Torque": "140 lb-ft @ 4500 RPM\n190 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/60 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 157.9,
+               "Width": 63.4,
+               "Height": 48,
+               "Front/rear Track": "53.1/57.1 in (1,349/1,450 mm)",
+               "Wheelbase": 98,
+               "Ground Clearance": 3.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1940,
+               "Gross Weight Limit": 3086
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24,
+               "Highway": 44,
+               "Combined": 34,
+               "CO2 Emissions": 171
+          }
+     }
+},{
+     "model_name": "2015 Morgan Aero 8",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4799,
+               "Power": "270 KW @ 6300 RPM\n367 HP @ 6300 RPM\n362 BHP @ 6300 RPM",
+               "Torque": "361 lb-ft @ - RPM\n489 Nm @ - RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 163.3,
+               "Width": 68.9,
+               "Height": 49.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2425
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.3,
+               "Highway": 29.8,
+               "Combined": 21.4,
+               "CO2 Emissions": 256
+          },
+          "": {}
+     }
+},{
+     "model_name": "MORGAN Aero 8 2008-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4799,
+               "Power": "270 KW @ 6300 RPM\n368 HP @ 6300 RPM\n362 BHP @ 6300 RPM",
+               "Torque": "370 lb-ft @ 3400 RPM\n502 Nm @ 3400 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 170,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 162.2,
+               "Width": 69.7,
+               "Height": 47.2,
+               "Front/rear Track": "61/59 in (1,549/1,499 mm)",
+               "Wheelbase": 99.6,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 7.4,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2524,
+               "Gross Weight Limit": 3285
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.2,
+               "Highway": 28.6,
+               "Combined": 21,
+               "CO2 Emissions": 269
+          }
+     }
+},{
+     "model_name": "MORGAN Aero 8 2004-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4398,
+               "Power": "239 KW @ 6100 RPM\n325 HP @ 6100 RPM\n321 BHP @ 6100 RPM",
+               "Torque": "330 lb-ft @ 3600 RPM\n447 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 160,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 162.2,
+               "Width": 69.7,
+               "Height": 47.2,
+               "Front/rear Track": "61/59.1 in (1,549/1,501 mm)",
+               "Wheelbase": 99.4,
+               "Ground Clearance": 5,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2491.2,
+               "Gross Weight Limit": 2976
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.7,
+               "Highway": 26.4,
+               "Combined": 18.9,
+               "CO2 Emissions": 295
+          }
+     }
+},{
+     "model_name": "2001 Morgan Aero 8",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4398,
+               "Power": "210 KW @ 5500 RPM\n286 HP @ 5500 RPM\n282 BHP @ 5500 RPM",
+               "Torque": "325 lb-ft @ 3600 RPM\n440 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 160,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/40 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 162.2,
+               "Width": 69.7,
+               "Height": 47.2,
+               "Front/rear Track": "61/59.1 in (1,549/1,501 mm)",
+               "Wheelbase": 99.4,
+               "Ground Clearance": 5,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2524,
+               "Gross Weight Limit": 2978
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12.8,
+               "Highway": 26.4,
+               "Combined": 19,
+               "CO2 Emissions": 264
+          }
+     }
+},{
+     "model_name": "MORGAN 3 wheeler 2011-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V2",
+               "Displacement": 1983,
+               "Power": "86 KW @ 3000 RPM\n117 HP @ 3000 RPM\n115 BHP @ 3000 RPM",
+               "Torque": "140 lb-ft @ 3000 RPM\n190 Nm @ 3000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 120,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "4.00 x 19 || 175/55R16"
+          },
+          "DIMENSIONS": {
+               "Length": 127,
+               "Width": 67.7,
+               "Height": 39.4,
+               "Front/rear Track": "60/0 in (1,524/0 mm)",
+               "Wheelbase": 92,
+               "Ground Clearance": 6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1102
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 32,
+               "Combined": 23,
+               "CO2 Emissions": 225
+          },
+          "": {}
+     }
+},{
+     "model_name": "MORGAN 4/4 2 seater 2008-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 1595,
+               "Power": "82 KW @ 6000 RPM\n110 HP @ 6000 RPM\n110 BHP @ 6000 RPM",
+               "Torque": "97 lb-ft @ 3400 RPM\n132 Nm @ 3400 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed, Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 157.9,
+               "Width": 64.2,
+               "Height": 48
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1753
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28,
+               "Highway": 45,
+               "Combined": 37,
+               "CO2 Emissions": 143
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "MORGAN Plus 8 2012-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "v8",
+               "Displacement": 4799,
+               "Power": "270 KW @ 6300 RPM\n362 HP @ 6300 RPM\n362 BHP @ 6300 RPM",
+               "Torque": "361 lb-ft @ 3400 RPM\n489 Nm @ 3400 RPM",
+               "Fuel System": "direct petrol injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6 speed manual or automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 157.9,
+               "Width": 68.9,
+               "Height": 48
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2425
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14,
+               "Highway": 27,
+               "Combined": 19,
+               "CO2 Emissions": 282
+          }
+     }
+},{
+     "model_name": "2012 Mortan Aero Coupe",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "v8",
+               "Displacement": 4799,
+               "Power": "270 KW @ 6300 RPM\n362 HP @ 6300 RPM\n362 BHP @ 6300 RPM",
+               "Torque": "361 lb-ft @ 3400 RPM\n489 Nm @ 3400 RPM",
+               "Fuel System": "direct petrol injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 170,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6 speed manual or automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 163.3,
+               "Width": 68.9,
+               "Height": 49.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2590
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 27,
+               "Combined": 19,
+               "CO2 Emissions": 282
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "MORGAN Roadster 4 seater 2006-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3721,
+               "Power": "209 KW @ 6000 RPM\n280 HP @ 6000 RPM\n280 BHP @ 6000 RPM",
+               "Torque": "260 lb-ft @ 4900 RPM\n353 Nm @ 4900 RPM",
+               "Fuel System": "Direct petrol injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 135,
+               "Acceleration 0-62 Mph (0-100 kph)": 6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "drums"
+          },
+          "DIMENSIONS": {
+               "Length": 157.9,
+               "Width": 67.7,
+               "Height": 52
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2205
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16,
+               "Highway": 34,
+               "Combined": 24,
+               "CO2 Emissions": 230
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "MORGAN Roadster 2004-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2987,
+               "Power": "166 KW @ 6150 RPM\n226 HP @ 6150 RPM\n223 BHP @ 6150 RPM",
+               "Torque": "207 lb-ft @ 4900 RPM\n280 Nm @ 4900 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 133.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 157.9,
+               "Width": 63.4,
+               "Height": 48,
+               "Front/rear Track": "50.8/56.7 in (1,290/1,440 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 4.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2072.3,
+               "Gross Weight Limit": 2645.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.9,
+               "Highway": 31.8,
+               "Combined": 24.2,
+               "CO2 Emissions": 231
+          },
+          "": {}
+     }
+},{
+     "model_name": "MORGAN 4/4 4 Seater 2006-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 1798,
+               "Torque": "119 lb-ft @ 4600 RPM\n161 Nm @ 4600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/80 R15T"
+          },
+          "DIMENSIONS": {
+               "Length": 158.1,
+               "Width": 59.7,
+               "Height": 51.8,
+               "Wheelbase": 96.1,
+               "Ground Clearance": 5.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2425.1,
+               "Gross Weight Limit": 3086.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27.7,
+               "Highway": 50.5,
+               "Combined": 38.7,
+               "CO2 Emissions": 164
+          }
+     }
+},{
+     "model_name": "2010 Morgan Aero SuperSports",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "v8",
+               "Displacement": 4799,
+               "Power": "270 KW @ 6300 RPM\n362 HP @ 6300 RPM\n362 BHP @ 6300 RPM",
+               "Torque": "361 lb-ft @ 3400 RPM\n489 Nm @ 3400 RPM",
+               "Fuel System": "direct petrol injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 170,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6 speed manual or automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 163.3,
+               "Width": 68.9,
+               "Height": 49.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2601
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 13,
+               "Highway": 27,
+               "Combined": 19,
+               "CO2 Emissions": 282
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "MORGAN AeroMax 2005-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4799,
+               "Power": "248 KW @ 6100 RPM\n337 HP @ 6100 RPM\n333 BHP @ 6100 RPM",
+               "Torque": "332 lb-ft @ 3600 RPM\n450 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 162,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/30 R 20"
+          },
+          "DIMENSIONS": {
+               "Length": 156.3,
+               "Width": 70.1,
+               "Height": 51.2,
+               "Front/rear Track": "59.4/58.3 in (1,509/1,481 mm)",
+               "Wheelbase": 96.5,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 7.4,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2205,
+               "Gross Weight Limit": 2866
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 14.4,
+               "Highway": 29.7,
+               "Combined": 21.6,
+               "CO2 Emissions": 264
+          }
+     }
+},	
+ ] } 

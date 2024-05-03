@@ -1,0 +1,2634 @@
+{ "brand_name" : "HOLDEN", "models": [
+{
+     "model_name": "2018 Holden Commodore",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "191.2 KW @ 5500 RPM\n260 HP @ 5500 RPM\n256 BHP @ 5500 RPM",
+               "Torque": "258 lb-ft @ 3000-4000 RPM\n350 Nm @ 3000-4000 RPM",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "9-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225x55 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 192.8,
+               "Width": 73.3,
+               "Height": 57.3,
+               "Front/rear Track": "63/62.8 in (1,600/1,595 mm)",
+               "Wheelbase": 111.4,
+               "Ground Clearance": 4.1,
+               "Cargo Volume": 17.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3384,
+               "Gross Weight Limit": 3968
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 31.8,
+               "CO2 Emissions": 169
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Commodore Sedan 2015-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2997,
+               "Power": "185.4 KW @ 6700 RPM\n252 HP @ 6700 RPM\n249 BHP @ 6700 RPM",
+               "Torque": "214 lb-ft @ 2600 RPM\n290 Nm @ 2600 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 147,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60 R 16 V"
+          },
+          "DIMENSIONS": {
+               "Length": 194.8,
+               "Width": 74.7,
+               "Height": 57.9,
+               "Front/rear Track": "63.1/63.7 in (1,603/1,618 mm)",
+               "Wheelbase": 114.8,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 17.5,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3571
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 22.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Commodore Sedan 2013-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2994,
+               "Power": "185.4 KW @ 6700 RPM\n252 HP @ 6700 RPM\n249 BHP @ 6700 RPM",
+               "Torque": "214 lb-ft @ 2400 RPM\n290 Nm @ 2400 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60 R 16 V"
+          },
+          "DIMENSIONS": {
+               "Length": 194.8,
+               "Width": 74.7,
+               "Height": 57.9,
+               "Front/rear Track": "63.1/63.7 in (1,603/1,618 mm)",
+               "Wheelbase": 114.8,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 17.5,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3571
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 22.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Commodore Sedan 2006-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2986,
+               "Power": "190 KW @ 6700 RPM\n258 HP @ 6700 RPM\n255 BHP @ 6700 RPM",
+               "Torque": "214 lb-ft @ 2400 RPM\n290 Nm @ 2400 RPM",
+               "Fuel System": "Spark Ignition Direct Injection (SIDI)",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-automatic speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60 R16 98V"
+          },
+          "DIMENSIONS": {
+               "Length": 192.7,
+               "Width": 72.5,
+               "Height": 56.7,
+               "Front/rear Track": "62.7/63.3 in (1,593/1,608 mm)",
+               "Wheelbase": 114.8,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 8.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3902.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 26,
+               "CO2 Emissions": 210
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Commodore Sedan 2004-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3565,
+               "Power": "175 KW @ 6000 RPM\n238 HP @ 6000 RPM\n235 BHP @ 6000 RPM",
+               "Torque": "236 lb-ft @ 2800 RPM\n320 Nm @ 2800 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 192.7,
+               "Width": 72.5,
+               "Height": 56.7,
+               "Front/rear Track": "61.8/62.1 in (1,570/1,577 mm)",
+               "Wheelbase": 109.8,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 16.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3499.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Commodore Sedan 1997-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "152 KW @ 5200 RPM\n207 HP @ 5200 RPM\n204 BHP @ 5200 RPM",
+               "Torque": "225 lb-ft @ 3600 RPM\n305 Nm @ 3600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/65 R 15"
+          },
+          "DIMENSIONS": {
+               "Length": 192.6,
+               "Width": 72.5,
+               "Height": 57.1,
+               "Wheelbase": 109.8,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 16.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.5,
+               "Highway": 35.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Caprice 2010-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "v6",
+               "Displacement": 3564,
+               "Power": "210 KW @ 6700 RPM\n286 HP @ 6700 RPM\n282 BHP @ 6700 RPM",
+               "Torque": "250 lb-ft @ 2800 RPM\n339 Nm @ 2800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6 speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50 r18"
+          },
+          "DIMENSIONS": {
+               "Length": 203.1,
+               "Width": 74.7,
+               "Height": 57.9,
+               "Front/rear Track": "62.7/63.3 in (1,593/1,608 mm)",
+               "Cargo Volume": 18.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Caprice/Satesman 2006-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3564,
+               "Power": "195 KW @ 6500 RPM\n265 HP @ 6500 RPM\n261 BHP @ 6500 RPM",
+               "Torque": "251 lb-ft @ 2600 RPM\n340 Nm @ 2600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R18 96V"
+          },
+          "DIMENSIONS": {
+               "Length": 203.1,
+               "Width": 74.8,
+               "Height": 58.3,
+               "Front/rear Track": "62.7/63.3 in (1,593/1,608 mm)",
+               "Wheelbase": 118.5,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 18.7,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4129,
+               "Gross Weight Limit": 4630
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 19.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Caprice/Statesman 2003-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3565,
+               "Power": "190 KW @ 6500 RPM\n258 HP @ 6500 RPM\n255 BHP @ 6500 RPM",
+               "Torque": "251 lb-ft @ 3200 RPM\n340 Nm @ 3200 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R16V"
+          },
+          "DIMENSIONS": {
+               "Length": 204.4,
+               "Width": 72.7,
+               "Height": 56.9,
+               "Front/rear Track": "61.4/62.1 in (1,560/1,577 mm)",
+               "Wheelbase": 115.7,
+               "Cargo Volume": 18.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3810.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Caprice/Satesman 1999-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "152 KW @ 5200 RPM\n207 HP @ 5200 RPM\n204 BHP @ 5200 RPM",
+               "Torque": "225 lb-ft @ 3600 RPM\n305 Nm @ 3600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R 16"
+          },
+          "DIMENSIONS": {
+               "Length": 206.2,
+               "Width": 72.7,
+               "Height": 57.4,
+               "Front/rear Track": "63/62.1 in (1,600/1,577 mm)",
+               "Wheelbase": 115.7,
+               "Cargo Volume": 18.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3719.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.5,
+               "Highway": 33.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Rodeo Space Cab 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3494,
+               "Power": "147 KW @ 5400 RPM\n200 HP @ 5400 RPM\n197 BHP @ 5400 RPM",
+               "Torque": "207 lb-ft @ 3000 RPM\n280 Nm @ 3000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/75 R15C"
+          },
+          "DIMENSIONS": {
+               "Length": 197.6,
+               "Width": 67.7,
+               "Height": 64.4,
+               "Front/rear Track": "57.5/57.5q in (1,461/1,461 mm)",
+               "Wheelbase": 120.1
+          },
+          "WEIGHT SPECS": {
+               "Gross Weight Limit": 6174
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Rodeo Double Cab 2003-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2405,
+               "Power": "94 KW @ 4800 RPM\n128 HP @ 4800 RPM\n126 BHP @ 4800 RPM",
+               "Torque": "153 lb-ft @ 3200 RPM\n207 Nm @ 3200 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195R14C - 245/75R15C"
+          },
+          "DIMENSIONS": {
+               "Length": 192.9,
+               "Width": 67.7,
+               "Height": 64.6,
+               "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
+               "Wheelbase": 120.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3748.5,
+               "Gross Weight Limit": 6174
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Rodeo Double Cab 1996-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2189,
+               "Power": "84 KW @ 4800 RPM\n114 HP @ 4800 RPM\n113 BHP @ 4800 RPM",
+               "Torque": "125 lb-ft @ 3800 RPM\n170 Nm @ 3800 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/75 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 196.1,
+               "Width": 66.5,
+               "Height": 64,
+               "Front/rear Track": "56.1/55.1 in (1,425/1,400 mm)",
+               "Wheelbase": 119.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2965.7,
+               "Gross Weight Limit": 5622.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.4,
+               "Highway": 21.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Combo 2002-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1364,
+               "Power": "66 KW @ 5600 RPM\n88 HP @ 5600 RPM\n89 BHP @ 5600 RPM",
+               "Torque": "92 lb-ft @ 4000 RPM\n125 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "solid discs"
+          },
+          "DIMENSIONS": {
+               "Length": 170.2,
+               "Width": 74.5,
+               "Height": 70.9,
+               "Cargo Volume": 81.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2646
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 36
+          }
+     }
+},{
+     "model_name": "HOLDEN Cruze 2008-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1364,
+               "Power": "103 KW @ 4900 RPM\n140 HP @ 4900 RPM\n138 BHP @ 4900 RPM",
+               "Torque": "148 lb-ft @ 1850 RPM\n201 Nm @ 1850 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Disc"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 181,
+               "Width": 70.4,
+               "Height": 58.1,
+               "Front/rear Track": "60.7/61.3 in (1,542/1,557 mm)",
+               "Wheelbase": 105.7,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 14.1,
+               "Aerodynamics (Cd)": 0.3,
+               "Turning circle": 35.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2888,
+               "Gross Weight Limit": 4074
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 27.4,
+               "Highway": 47,
+               "Combined": 37.3,
+               "CO2 Emissions": 147
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Malibu 2013-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 2384,
+               "Power": "123 KW @ 5800 RPM\n167 HP @ 5800 RPM\n165 BHP @ 5800 RPM",
+               "Torque": "166 lb-ft @ 4600 RPM\n225 Nm @ 4600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6 speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 191.5,
+               "Width": 57.3,
+               "Height": 73,
+               "Front/rear Track": "62.3/62.4 in (1,582/1,585 mm)",
+               "Wheelbase": 107.8,
+               "Cargo Volume": 19.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Barina RS 2014-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 1364,
+               "Power": "103 KW @ 4900 RPM\n140 HP @ 4900 RPM\n138 BHP @ 4900 RPM",
+               "Torque": "148 lb-ft @ 1850 RPM\n201 Nm @ 1850 RPM",
+               "Fuel System": "multi-point fuel injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed, Manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated discs",
+               "Rear": "Solid Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 159,
+               "Width": 68.3,
+               "Height": 59.5,
+               "Front/rear Track": "58.8/58.7 in (1,494/1,491 mm)",
+               "Wheelbase": 99.4,
+               "Cargo Volume": 10.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN 48-215 1948-1953",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2164,
+               "Torque": "100 lb-ft @ 2000 RPM\n136 Nm @ 2000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 75,
+               "Acceleration 0-62 Mph (0-100 kph)": 20
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums 229 mm",
+               "Rear": "Drums 229 mm"
+          },
+          "DIMENSIONS": {
+               "Length": 172,
+               "Width": 66.9,
+               "Height": 61.7,
+               "Front/rear Track": "5.3/5.4 in (135/137 mm)",
+               "Wheelbase": 103,
+               "Ground Clearance": 8.7,
+               "Aerodynamics (Cd)": 0.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2231
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": "Infinity mpg US (0 L/100Km)",
+               "Combined": 28.7
+          }
+     }
+},{
+     "model_name": "HOLDEN Adventra 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3565,
+               "Power": "190 KW @ 6500 RPM\n258 HP @ 6500 RPM\n255 BHP @ 6500 RPM",
+               "Torque": "251 lb-ft @ 3200 RPM\n340 Nm @ 3200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 134,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R 17 V"
+          },
+          "DIMENSIONS": {
+               "Length": 198.7,
+               "Width": 76.1,
+               "Height": 65.1,
+               "Front/rear Track": "63.7/63.9 in (1,618/1,623 mm)",
+               "Wheelbase": 116,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 93.9,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4178.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 17.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Astra 3 Doors 2004-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1364,
+               "Power": "66 KW @ 5600 RPM\n90 HP @ 5600 RPM\n89 BHP @ 5600 RPM",
+               "Torque": "92 lb-ft @ 4000 RPM\n125 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 168.9,
+               "Width": 69,
+               "Height": 55.7,
+               "Front/rear Track": "58.6/58.6 in (1,488/1,488 mm)",
+               "Wheelbase": 102.9,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 13.1,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2447,
+               "Gross Weight Limit": 3759
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28.7,
+               "Highway": 45.2,
+               "Combined": 37.3,
+               "CO2 Emissions": 150
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Astra 5 Doors 2005-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1364,
+               "Power": "66 KW @ 5600 RPM\n90 HP @ 5600 RPM\n89 BHP @ 5600 RPM",
+               "Torque": "92 lb-ft @ 4000 RPM\n125 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 167.3,
+               "Width": 69,
+               "Height": 57.5,
+               "Front/rear Track": "58.6/58.6 in (1,488/1,488 mm)",
+               "Wheelbase": 102.9,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 12.2,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2491,
+               "Gross Weight Limit": 3759
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28.7,
+               "Highway": 45.2,
+               "Combined": 37.3,
+               "CO2 Emissions": 151
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Astra Caravan 2003-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1364,
+               "Power": "66 KW @ 5600 RPM\n90 HP @ 5600 RPM\n89 BHP @ 5600 RPM",
+               "Torque": "92 lb-ft @ 4000 RPM\n125 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 110.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 177.8,
+               "Width": 69,
+               "Height": 58.9,
+               "Front/rear Track": "58.6/58.6 in (1,488/1,488 mm)",
+               "Wheelbase": 106.4,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 17.6,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2601.9,
+               "Gross Weight Limit": 3980
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28.7,
+               "Highway": 45.2,
+               "Combined": 37.3,
+               "CO2 Emissions": 156
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Astra TwinTop 2007-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "84.6 KW @ 6000 RPM\n115 HP @ 6000 RPM\n113 BHP @ 6000 RPM",
+               "Torque": "114 lb-ft @ 4000 RPM\n155 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 115.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55R 16"
+          },
+          "DIMENSIONS": {
+               "Length": 168,
+               "Width": 69.3,
+               "Height": 55.6,
+               "Front/rear Track": "58.6/58.3 in (1,488/1,481 mm)",
+               "Wheelbase": 102.9,
+               "Ground Clearance": 4.8,
+               "Cargo Volume": 7.2,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2612.9,
+               "Gross Weight Limit": 3539
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.8,
+               "Highway": 40.6,
+               "Combined": 33.6,
+               "CO2 Emissions": 167
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Barina 3 Doors 2005-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1150,
+               "Power": "53 KW @ 5400 RPM\n72 HP @ 5400 RPM\n71 BHP @ 5400 RPM",
+               "Torque": "77 lb-ft @ 4400 RPM\n104 Nm @ 4400 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 97.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/80R13"
+          },
+          "DIMENSIONS": {
+               "Length": 152.8,
+               "Width": 65.7,
+               "Height": 58.9,
+               "Front/rear Track": "57.1/55.5 in (1,450/1,410 mm)",
+               "Wheelbase": 97.6,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 34.3,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2183,
+               "Gross Weight Limit": 3208.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28,
+               "Highway": 45.2,
+               "Combined": 36.8,
+               "CO2 Emissions": 152
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Barina 3 Doors 2000-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 998,
+               "Power": "44 KW @ 5600 RPM\n60 HP @ 5600 RPM\n59 BHP @ 5600 RPM",
+               "Torque": "65 lb-ft @ 3800 RPM\n88 Nm @ 3800 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 96.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 15
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/80R 13"
+          },
+          "DIMENSIONS": {
+               "Length": 151.1,
+               "Width": 64.8,
+               "Height": 56.7,
+               "Front/rear Track": "56.5/56.1 in (1,435/1,425 mm)",
+               "Wheelbase": 98.1,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 37.1,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2028.6,
+               "Gross Weight Limit": 3098
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 34.1,
+               "Highway": 53.5,
+               "Combined": 44.4,
+               "CO2 Emissions": 126
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Barina 2016-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "85.3 KW @ 6000 RPM\n116 HP @ 6000 RPM\n114 BHP @ 6000 RPM",
+               "Torque": "114 lb-ft @ 4000 RPM\n155 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Barina 5 Doors 2011-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "85 KW @ 6000 RPM\n116 HP @ 6000 RPM\n114 BHP @ 6000 RPM",
+               "Torque": "114 lb-ft @ 4000 RPM\n155 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65 R 15 H"
+          },
+          "DIMENSIONS": {
+               "Length": 159,
+               "Width": 68.3,
+               "Height": 59.7,
+               "Front/rear Track": "59/58.9 in (1,499/1,496 mm)",
+               "Wheelbase": 99.4,
+               "Cargo Volume": 10.2,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2564
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9,
+               "Highway": 5.5,
+               "Combined": 6.8,
+               "CO2 Emissions": 162
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Barina 5 Doors 2005-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1150,
+               "Power": "53 KW @ 5400 RPM\n72 HP @ 5400 RPM\n71 BHP @ 5400 RPM",
+               "Torque": "77 lb-ft @ 4400 RPM\n104 Nm @ 4400 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 97.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/80R13"
+          },
+          "DIMENSIONS": {
+               "Length": 152.8,
+               "Width": 65.7,
+               "Height": 58.9,
+               "Front/rear Track": "57.1/55.5 in (1,450/1,410 mm)",
+               "Wheelbase": 97.6,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 34.3,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2183,
+               "Gross Weight Limit": 3208.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28,
+               "Highway": 45.2,
+               "Combined": 36.8,
+               "CO2 Emissions": 152
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Barina 5 Doors 2000-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 998,
+               "Power": "44 KW @ 5600 RPM\n60 HP @ 5600 RPM\n59 BHP @ 5600 RPM",
+               "Torque": "65 lb-ft @ 3800 RPM\n88 Nm @ 3800 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 96.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 15
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/80R 13"
+          },
+          "DIMENSIONS": {
+               "Length": 151.1,
+               "Width": 64.8,
+               "Height": 56.7,
+               "Front/rear Track": "56.5/56.1 in (1,435/1,425 mm)",
+               "Wheelbase": 98.1,
+               "Ground Clearance": 6,
+               "Cargo Volume": 37.1,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2088.1,
+               "Gross Weight Limit": 3098
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 34.1,
+               "Highway": 53.5,
+               "Combined": 44.4,
+               "CO2 Emissions": 126
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Barina Sedan 2012-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "85 KW @ 6000 RPM\n116 HP @ 6000 RPM\n114 BHP @ 6000 RPM",
+               "Torque": "114 lb-ft @ 4000 RPM\n155 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 173.2,
+               "Width": 68.3,
+               "Height": 59.7,
+               "Front/rear Track": "58.9/58.9 in (1,496/1,496 mm)",
+               "Wheelbase": 99.4,
+               "Cargo Volume": 17.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2564
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 35,
+               "CO2 Emissions": 162
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Barina Sedan 2006-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1150,
+               "Power": "53 KW @ 5400 RPM\n73 HP @ 5400 RPM\n71 BHP @ 5400 RPM",
+               "Torque": "77 lb-ft @ 4400 RPM\n104 Nm @ 4400 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 97.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/80 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 169.7,
+               "Width": 67.3,
+               "Height": 59.1,
+               "Front/rear Track": "57.1/56.3 in (1,450/1,430 mm)",
+               "Wheelbase": 97.6,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2198.4,
+               "Gross Weight Limit": 3285.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28,
+               "Highway": 45.2,
+               "Combined": 36.8,
+               "CO2 Emissions": 152
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Barina Spark 2010-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1206,
+               "Power": "59 KW @ 6400 RPM\n79 HP @ 6400 RPM\n79 BHP @ 6400 RPM",
+               "Torque": "79 lb-ft @ 4800 RPM\n107 Nm @ 4800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/70 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 141.5,
+               "Width": 62.9,
+               "Height": 59.9,
+               "Front/rear Track": "55.5/55.8 in (1,410/1,417 mm)",
+               "Wheelbase": 93.5,
+               "Cargo Volume": 6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 42,
+               "CO2 Emissions": 127
+          }
+     }
+},{
+     "model_name": "HOLDEN Captiva 2016-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2348,
+               "Power": "123 KW @ 5600 RPM\n167.2 HP @ 5600 RPM\n165 BHP @ 5600 RPM",
+               "Torque": "170 lb-ft @ 4600 RPM\n230 Nm @ 4600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/60R17"
+          },
+          "DIMENSIONS": {
+               "Length": 184,
+               "Width": 72.8,
+               "Height": 68,
+               "Front/rear Track": "61.8/62 in (1,570/1,575 mm)",
+               "Wheelbase": 106.6,
+               "Cargo Volume": 3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3774
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 25.3,
+               "CO2 Emissions": 218
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Captiva 2011-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2384,
+               "Power": "123 KW @ 5600 RPM\n167 HP @ 5600 RPM\n165 BHP @ 5600 RPM",
+               "Torque": "169 lb-ft @ 4600 RPM\n230 Nm @ 4600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/60 R 17"
+          },
+          "DIMENSIONS": {
+               "Length": 184,
+               "Width": 72.8,
+               "Height": 68,
+               "Wheelbase": 106.6,
+               "Ground Clearance": 7.8,
+               "Cargo Volume": 3.4,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3898,
+               "Gross Weight Limit": 4914
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20,
+               "Highway": 32,
+               "Combined": 26,
+               "CO2 Emissions": 219
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Captiva 2006-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2405,
+               "Power": "104 KW @ 5200 RPM\n141 HP @ 5200 RPM\n139 BHP @ 5200 RPM",
+               "Torque": "156 lb-ft @ 4000 RPM\n212 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 17.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 108.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 182.5,
+               "Width": 72.8,
+               "Height": 67.7,
+               "Front/rear Track": "61.5/61.9 in (1,562/1,572 mm)",
+               "Wheelbase": 106.5,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 16.4,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3402.3,
+               "Gross Weight Limit": 4747.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.8,
+               "Highway": 33.6,
+               "Combined": 25.8,
+               "CO2 Emissions": 217
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Captiva MaXX 2006-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2405,
+               "Power": "103 KW @ 5200 RPM\n140 HP @ 5200 RPM\n138 BHP @ 5200 RPM",
+               "Torque": "162 lb-ft @ 2400 RPM\n220 Nm @ 2400 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 108.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/70R16"
+          },
+          "DIMENSIONS": {
+               "Length": 180.1,
+               "Width": 72.8,
+               "Height": 67.1,
+               "Front/rear Track": "61.9/61.5 in (1,572/1,562 mm)",
+               "Wheelbase": 106.6,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 13.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3758.9,
+               "Gross Weight Limit": 4905.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.7,
+               "Highway": 32.2,
+               "Combined": 24.5,
+               "CO2 Emissions": 229
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Commodore Wagon 2015-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2997,
+               "Power": "185.4 KW @ 6700 RPM\n252 HP @ 6700 RPM\n249 BHP @ 6700 RPM",
+               "Torque": "214 lb-ft @ 2600 RPM\n290 Nm @ 2600 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 147,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60 R 16 V"
+          },
+          "DIMENSIONS": {
+               "Length": 193.7,
+               "Width": 74.7,
+               "Height": 58,
+               "Front/rear Track": "63.1/63.7 in (1,603/1,618 mm)",
+               "Wheelbase": 114.8,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 17.5,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3571
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 22.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Commodore Wagon 2013-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2994,
+               "Power": "185.4 KW @ 6700 RPM\n252 HP @ 6700 RPM\n249 BHP @ 6700 RPM",
+               "Torque": "214 lb-ft @ 2400 RPM\n290 Nm @ 2400 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60 R 16 V"
+          },
+          "DIMENSIONS": {
+               "Length": 193.7,
+               "Width": 78.3,
+               "Height": 58,
+               "Front/rear Track": "63.1/63.7 in (1,603/1,618 mm)",
+               "Wheelbase": 114.8,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 17.5,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3571
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 22.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Commodore Wagon 2003-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3565,
+               "Power": "175 KW @ 6000 RPM\n238 HP @ 6000 RPM\n235 BHP @ 6000 RPM",
+               "Torque": "236 lb-ft @ 2800 RPM\n320 Nm @ 2800 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 198.6,
+               "Width": 72.7,
+               "Height": 60.1,
+               "Front/rear Track": "61.8/62.1 in (1,570/1,577 mm)",
+               "Wheelbase": 115.7,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 102.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3616
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Commodore Wagon 1997-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "169.2 KW @ 5200 RPM\n230 HP @ 5200 RPM\n227 BHP @ 5200 RPM",
+               "Torque": "277 lb-ft @ 3000 RPM\n375 Nm @ 3000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/65 R 15"
+          },
+          "DIMENSIONS": {
+               "Length": 198.7,
+               "Width": 72.7,
+               "Height": 60.8,
+               "Front/rear Track": "61.8/62.4 in (1,570/1,585 mm)",
+               "Wheelbase": 115.7,
+               "Cargo Volume": 93.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3571
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 20.5,
+               "Highway": 33.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Crewman 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 5665,
+               "Power": "175 KW @ 6000 RPM\n238 HP @ 6000 RPM\n235 BHP @ 6000 RPM",
+               "Torque": "236 lb-ft @ 2400 RPM\n320 Nm @ 2400 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 208.9,
+               "Width": 73.6,
+               "Height": 59.1,
+               "Front/rear Track": "62.9/61.8 in (1,598/1,570 mm)",
+               "Wheelbase": 126,
+               "Ground Clearance": 5.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3999.9,
+               "Gross Weight Limit": 5589.7
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Cruze 2002-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1328,
+               "Power": "65 KW @ 6000 RPM\n88 HP @ 6000 RPM\n87 BHP @ 6000 RPM",
+               "Torque": "87 lb-ft @ 3400 RPM\n118 Nm @ 3400 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 10.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/65 R15 81S"
+          },
+          "DIMENSIONS": {
+               "Length": 142.7,
+               "Width": 63.4,
+               "Height": 61.4,
+               "Front/rear Track": "56.1/55.3 in (1,425/1,405 mm)",
+               "Wheelbase": 92.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2072.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 41.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Drover 1985-1987",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1298,
+               "Power": "47 KW @ 6000 RPM\n64 HP @ 6000 RPM\n63 BHP @ 6000 RPM",
+               "Torque": "74 lb-ft @ 3500 RPM\n100 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          }
+     }
+},{
+     "model_name": "HOLDEN Drover Deluxe 1985-1987",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1298,
+               "Power": "47 KW @ 6000 RPM\n64 HP @ 6000 RPM\n63 BHP @ 6000 RPM",
+               "Torque": "74 lb-ft @ 3500 RPM\n100 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          }
+     }
+},{
+     "model_name": "HOLDEN EJ Wagon 1962-1963",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 5049,
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          }
+     }
+},{
+     "model_name": "HOLDEN Epica 2007-2011",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2492,
+               "Power": "115 KW @ 5800 RPM\n155 HP @ 5800 RPM\n154 BHP @ 5800 RPM",
+               "Torque": "174 lb-ft @ 4600 RPM\n236 Nm @ 4600 RPM",
+               "Fuel System": "Multipoint injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 128,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/50 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 189.1,
+               "Width": 71.1,
+               "Height": 57,
+               "Front/rear Track": "61/60.8 in (1,549/1,544 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 16.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3304.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 25.3,
+               "CO2 Emissions": 221
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN FE 1956-1958",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2164,
+               "Power": "52.2 KW @ 4000 RPM\n71 HP @ 4000 RPM\n70 BHP @ 4000 RPM",
+               "Torque": "110 lb-ft @ 1200 RPM\n149 Nm @ 1200 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 81,
+               "Acceleration 0-62 Mph (0-100 kph)": 18.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 176,
+               "Width": 67,
+               "Height": 61,
+               "Front/rear Track": "54.5/54.5 in (1,384/1,384 mm)",
+               "Wheelbase": 105
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2381
+          }
+     }
+},{
+     "model_name": "HOLDEN FJ 1953-1956",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2164,
+               "Power": "44.7 KW @ 3800 RPM\n61 HP @ 3800 RPM\n60 BHP @ 3800 RPM",
+               "Torque": "100 lb-ft @ 2000 RPM\n135 Nm @ 2000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 75
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "5.50x15 four-ply"
+          },
+          "DIMENSIONS": {
+               "Length": 173.3,
+               "Width": 67,
+               "Front/rear Track": "53/54 in (1,346/1,372 mm)",
+               "Wheelbase": 103
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2231
+          }
+     }
+},{
+     "model_name": "HOLDEN Frontera MX 1997-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2198,
+               "Power": "100 KW @ 5200 RPM\n136 HP @ 5200 RPM\n134 BHP @ 5200 RPM",
+               "Torque": "148 lb-ft @ 4000 RPM\n200 Nm @ 4000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 177.8,
+               "Width": 70.3,
+               "Height": 66.4,
+               "Front/rear Track": "59.6/59.8 in (1,514/1,519 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 9.1,
+               "Cargo Volume": 13.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3671.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN HJ 1974-1976",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 2835,
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN HZ 1977-1980",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L6",
+               "Displacement": 3310,
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Jackaroo 1998-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 2581,
+               "Power": "90 KW @ 4600 RPM\n122 HP @ 4600 RPM\n121 BHP @ 4600 RPM",
+               "Torque": "151 lb-ft @ 2600 RPM\n204 Nm @ 2600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/70/R16"
+          },
+          "DIMENSIONS": {
+               "Length": 183.9,
+               "Width": 68.5,
+               "Height": 72.2,
+               "Front/rear Track": "58.7/58.9 in (1,491/1,496 mm)",
+               "Wheelbase": 108.7,
+               "Cargo Volume": 41.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3483.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Monaro 2001-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "171 KW @ 5200 RPM\n232 HP @ 5200 RPM\n229 BHP @ 5200 RPM",
+               "Torque": "277 lb-ft @ 3000 RPM\n375 Nm @ 3000 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55/R16"
+          },
+          "DIMENSIONS": {
+               "Length": 188.5,
+               "Width": 72.5,
+               "Height": 55,
+               "Front/rear Track": "61.4/62.1 in (1,560/1,577 mm)",
+               "Wheelbase": 109.8,
+               "Cargo Volume": 13
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3534.6
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.8,
+               "Highway": 31
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Statesman 2006-2010",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3561,
+               "Power": "195 KW @ 6500 RPM\n265 HP @ 6500 RPM\n261 BHP @ 6500 RPM",
+               "Torque": "251 lb-ft @ 2600 RPM\n340 Nm @ 2600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225x50 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 203.1,
+               "Width": 74.8,
+               "Height": 58.3,
+               "Front/rear Track": "63.1/63.7 in (1,603/1,618 mm)",
+               "Wheelbase": 118.5,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 18.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3699,
+               "Gross Weight Limit": 4630
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.4,
+               "Highway": 29.4,
+               "Combined": 20.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Statesman 1999-2006",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "147.1 KW @ 5200 RPM\n200 HP @ 5200 RPM\n197 BHP @ 5200 RPM",
+               "Torque": "224 lb-ft @ 3600 RPM\n304 Nm @ 3600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/50 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 204.4,
+               "Width": 72.7,
+               "Height": 56.9,
+               "Front/rear Track": "61.4/62.1 in (1,560/1,577 mm)",
+               "Wheelbase": 115.7,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 19.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3717
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.4,
+               "Highway": 29.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Tigra 2005-2009",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "92 KW @ 6000 RPM\n125 HP @ 6000 RPM\n123 BHP @ 6000 RPM",
+               "Torque": "122 lb-ft @ 4600 RPM\n165 Nm @ 4600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 126.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 154.4,
+               "Width": 66.3,
+               "Height": 53.7,
+               "Front/rear Track": "56.3/55.9 in (1,430/1,420 mm)",
+               "Wheelbase": 98.1,
+               "Cargo Volume": 15.4,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2624,
+               "Gross Weight Limit": 3263.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.6,
+               "Highway": 40.6,
+               "Combined": 30.5,
+               "CO2 Emissions": 183
+          }
+     }
+},{
+     "model_name": "2017 Holden Trax",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "103 KW @ 6300 RPM\n140 HP @ 6300 RPM\n138 BHP @ 6300 RPM",
+               "Torque": "129 lb-ft @ 3800 RPM\n175 Nm @ 3800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 167.2,
+               "Width": 69.5,
+               "Height": 65.9,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 100.6,
+               "Ground Clearance": 6.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3023
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 33.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Trax 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "103 KW @ 6300 RPM\n140 HP @ 6300 RPM\n138 BHP @ 6300 RPM",
+               "Torque": "129 lb-ft @ 3800 RPM\n175 Nm @ 3800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70R16"
+          },
+          "DIMENSIONS": {
+               "Length": 168.4,
+               "Width": 69.9,
+               "Height": 65.9,
+               "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
+               "Wheelbase": 100.6,
+               "Cargo Volume": 12.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Ute 2015-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3564,
+               "Power": "209.6 KW @ 6700 RPM\n285 HP @ 6700 RPM\n281 BHP @ 6700 RPM",
+               "Torque": "258 lb-ft @ 2800 RPM\n350 Nm @ 2800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 199.3,
+               "Width": 74.7,
+               "Height": 58.8,
+               "Front/rear Track": "63/63.5 in (1,600/1,613 mm)",
+               "Wheelbase": 11.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Ute 2013-2015",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3564,
+               "Power": "209.6 KW @ 6700 RPM\n285 HP @ 6700 RPM\n281 BHP @ 6700 RPM",
+               "Torque": "258 lb-ft @ 2800 RPM\n350 Nm @ 2800 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 20.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 199.3,
+               "Width": 74.7,
+               "Height": 58.8,
+               "Front/rear Track": "63/63.5 in (1,600/1,613 mm)",
+               "Wheelbase": 118.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Ute 2007-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2997,
+               "Power": "190 KW @ 6700 RPM\n258 HP @ 6700 RPM\n255 BHP @ 6700 RPM",
+               "Torque": "214 lb-ft @ 2400 RPM\n290 Nm @ 2400 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "P245/45 R18 96V"
+          },
+          "DIMENSIONS": {
+               "Length": 199,
+               "Width": 74.7,
+               "Height": 58.9,
+               "Front/rear Track": "63/63.7 in (1,600/1,618 mm)",
+               "Wheelbase": 118.4,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 42.7,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3571,
+               "Gross Weight Limit": 5512
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 24.5,
+               "CO2 Emissions": 229
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Ute 2003-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3565,
+               "Power": "175 KW @ 6000 RPM\n238 HP @ 6000 RPM\n235 BHP @ 6000 RPM",
+               "Torque": "236 lb-ft @ 3600 RPM\n320 Nm @ 3600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225x55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 198.9,
+               "Width": 72.6,
+               "Height": 58.1,
+               "Front/rear Track": "61.3/62 in (1,557/1,575 mm)",
+               "Wheelbase": 115.7,
+               "Ground Clearance": 4.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3384.7,
+               "Gross Weight Limit": 5016.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Vectra Liftback 2002-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "90 KW @ 6000 RPM\n122 HP @ 6000 RPM\n121 BHP @ 6000 RPM",
+               "Torque": "123 lb-ft @ 3800 RPM\n167 Nm @ 3800 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65R 15"
+          },
+          "DIMENSIONS": {
+               "Length": 180.9,
+               "Width": 70.8,
+               "Height": 57.5,
+               "Front/rear Track": "60.5/60 in (1,537/1,524 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 17.6,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3065,
+               "Gross Weight Limit": 4112.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.2,
+               "Highway": 38.6,
+               "Combined": 29.8,
+               "CO2 Emissions": 175
+          },
+          "": {}
+     }
+},{
+     "model_name": "1996 Holden Vectra Liftback",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "55.2 KW @ 5200 RPM\n75 HP @ 5200 RPM\n74 BHP @ 5200 RPM",
+               "Torque": "94 lb-ft @ 2800 RPM\n128 Nm @ 2800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65R 15"
+          },
+          "DIMENSIONS": {
+               "Length": 177,
+               "Width": 67.2,
+               "Height": 56.1,
+               "Front/rear Track": "57.6/57.8 in (1,463/1,468 mm)",
+               "Wheelbase": 103.8,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 16.9,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2612,
+               "Gross Weight Limit": 3781
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.4,
+               "Highway": 40.6,
+               "Combined": 35.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Vectra Sedan 2002-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1796,
+               "Power": "90 KW @ 6000 RPM\n122 HP @ 6000 RPM\n121 BHP @ 6000 RPM",
+               "Torque": "123 lb-ft @ 3800 RPM\n167 Nm @ 3800 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 127.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65R 15"
+          },
+          "DIMENSIONS": {
+               "Length": 180.9,
+               "Width": 70.8,
+               "Height": 57.5,
+               "Front/rear Track": "60.4/60 in (1,534/1,524 mm)",
+               "Wheelbase": 106.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 17.6,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3076,
+               "Gross Weight Limit": 4123.4
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 21.2,
+               "Highway": 38.6,
+               "Combined": 29.8,
+               "CO2 Emissions": 184
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Vectra Sedan 1995-2002",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "74 KW @ 6000 RPM\n101 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
+               "Torque": "111 lb-ft @ 3600 RPM\n150 Nm @ 3600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 119.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65R 15"
+          },
+          "DIMENSIONS": {
+               "Length": 177,
+               "Width": 67.2,
+               "Height": 56.1,
+               "Front/rear Track": "57.6/57.8 in (1,463/1,468 mm)",
+               "Wheelbase": 103.8,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 17.6,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2932.7,
+               "Gross Weight Limit": 3935.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.3,
+               "Highway": 40.6,
+               "Combined": 31.8,
+               "CO2 Emissions": 190
+          },
+          "": {}
+     }
+},{
+     "model_name": "HOLDEN Zafira 1999-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "74 KW @ 6000 RPM\n101 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
+               "Torque": "111 lb-ft @ 3600 RPM\n150 Nm @ 3600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/65R 15"
+          },
+          "DIMENSIONS": {
+               "Length": 170,
+               "Width": 68.6,
+               "Height": 64.3,
+               "Front/rear Track": "57.9/58.5 in (1,471/1,486 mm)",
+               "Wheelbase": 106.1,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 5,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3071.6,
+               "Gross Weight Limit": 4299.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.8,
+               "Highway": 36.2,
+               "Combined": 29.8,
+               "CO2 Emissions": 200
+          },
+          "": {}
+     }
+},	
+ ] } 

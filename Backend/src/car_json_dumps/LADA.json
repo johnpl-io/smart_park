@@ -1,0 +1,546 @@
+{ "brand_name" : "LADA", "models": [
+{
+     "model_name": "LADA Kalina Sedan 2006-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "60 KW @ 5200 RPM\n81 HP @ 5200 RPM\n80 BHP @ 5200 RPM",
+               "Torque": "90 lb-ft @ 2500 RPM\n122 Nm @ 2500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 102.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 13
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60R14"
+          },
+          "DIMENSIONS": {
+               "Length": 159,
+               "Width": 66.9,
+               "Height": 59,
+               "Front/rear Track": "56.3/55.5 in (1,430/1,410 mm)",
+               "Wheelbase": 97.2,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2381,
+               "Gross Weight Limit": 3428.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.5,
+               "Highway": 41.3,
+               "Combined": 33.1,
+               "CO2 Emissions": 177
+          }
+     }
+},{
+     "model_name": "LADA NIVA 1976-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1568,
+               "Power": "57 KW @ 5400 RPM\n77 HP @ 5400 RPM\n76 BHP @ 5400 RPM",
+               "Torque": "89 lb-ft @ 3000 RPM\n120 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 82,
+               "Acceleration 0-62 Mph (0-100 kph)": 23
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70SR16"
+          },
+          "DIMENSIONS": {
+               "Length": 147.2,
+               "Width": 66.1,
+               "Height": 64.6,
+               "Front/rear Track": "56.3/55.1 in (1,430/1,400 mm)",
+               "Wheelbase": 86.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2535.3,
+               "Gross Weight Limit": 3417.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 20.3,
+               "CO2 Emissions": 276
+          },
+          "": {}
+     }
+},{
+     "model_name": "LADA 110 1998-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1499,
+               "Power": "69 KW @ 5600 RPM\n94 HP @ 5600 RPM\n93 BHP @ 5600 RPM",
+               "Torque": "96 lb-ft @ 3600 RPM\n130 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 116.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70R14"
+          },
+          "DIMENSIONS": {
+               "Length": 167.7,
+               "Width": 66.1,
+               "Height": 55.9,
+               "Front/rear Track": "55.1/53.9 in (1,400/1,369 mm)",
+               "Wheelbase": 98,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 14.7,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2237.7,
+               "Gross Weight Limit": 3284.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 31.8,
+               "CO2 Emissions": 186
+          },
+          "": {}
+     }
+},{
+     "model_name": "LADA 111 1998-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1499,
+               "Power": "69 KW @ 5600 RPM\n94 HP @ 5600 RPM\n93 BHP @ 5600 RPM",
+               "Torque": "96 lb-ft @ 3600 RPM\n130 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70R14"
+          },
+          "DIMENSIONS": {
+               "Length": 168.5,
+               "Width": 66.1,
+               "Height": 59,
+               "Front/rear Track": "55.1/53.9 in (1,400/1,369 mm)",
+               "Wheelbase": 98,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2270.8,
+               "Gross Weight Limit": 3373.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.5,
+               "Highway": 41.3,
+               "Combined": 31.8,
+               "CO2 Emissions": 186
+          },
+          "": {}
+     }
+},{
+     "model_name": "LADA 112 1999-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1499,
+               "Power": "69 KW @ 5600 RPM\n94 HP @ 5600 RPM\n93 BHP @ 5600 RPM",
+               "Torque": "96 lb-ft @ 3600 RPM\n130 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70R14"
+          },
+          "DIMENSIONS": {
+               "Length": 164.2,
+               "Width": 66.1,
+               "Height": 55.9,
+               "Front/rear Track": "55.1/53.9 in (1,400/1,369 mm)",
+               "Wheelbase": 98,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 14.1,
+               "Aerodynamics (Cd)": 0.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2237.7,
+               "Gross Weight Limit": 3284.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.5,
+               "Highway": 41.3,
+               "Combined": 31.8,
+               "CO2 Emissions": 186
+          },
+          "": {}
+     }
+},{
+     "model_name": "LADA Kalina Hatchback 2007-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "60 KW @ 5200 RPM\n81 HP @ 5200 RPM\n80 BHP @ 5200 RPM",
+               "Torque": "90 lb-ft @ 2500 RPM\n122 Nm @ 2500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 102.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 13
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/70R13"
+          },
+          "DIMENSIONS": {
+               "Length": 151.6,
+               "Width": 66.9,
+               "Height": 59,
+               "Front/rear Track": "56.3/55.5 in (1,430/1,410 mm)",
+               "Wheelbase": 97.2,
+               "Cargo Volume": 9.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2314.8,
+               "Gross Weight Limit": 3362
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.5,
+               "Highway": 41.3,
+               "Combined": 33.1,
+               "CO2 Emissions": 177
+          },
+          "": {}
+     }
+},{
+     "model_name": "LADA Nova 1981-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1189,
+               "Power": "44 KW @ 5600 RPM\n60 HP @ 5600 RPM\n59 BHP @ 5600 RPM",
+               "Torque": "64 lb-ft @ 3400 RPM\n87 Nm @ 3400 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87,
+               "Acceleration 0-62 Mph (0-100 kph)": 20
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165 R13S"
+          },
+          "DIMENSIONS": {
+               "Length": 162.6,
+               "Width": 63.8,
+               "Height": 56.7,
+               "Wheelbase": 95.4,
+               "Cargo Volume": 13.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2193.59,
+               "Gross Weight Limit": 3075.44
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 25.56
+          },
+          "": {}
+     }
+},{
+     "model_name": "LADA Nova Combi 1985-1998",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1285,
+               "Power": "48 KW @ 5600 RPM\n65 HP @ 5600 RPM\n64 BHP @ 5600 RPM",
+               "Torque": "73 lb-ft @ 3400 RPM\n99 Nm @ 3400 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 85.12,
+               "Acceleration 0-62 Mph (0-100 kph)": 18
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 4 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165 R13S"
+          },
+          "DIMENSIONS": {
+               "Length": 162,
+               "Width": 63.8,
+               "Height": 57.4,
+               "Wheelbase": 95.4,
+               "Cargo Volume": 12.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2314.85,
+               "Gross Weight Limit": 3328.98
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26.1,
+               "Highway": 32.7,
+               "Combined": 26.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "LADA Priora 2008-2018",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1596,
+               "Power": "78 KW @ 5800 RPM\n106 HP @ 5800 RPM\n105 BHP @ 5800 RPM",
+               "Torque": "109 lb-ft @ 4200 RPM\n148 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 116,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/60 HR14"
+          },
+          "DIMENSIONS": {
+               "Length": 171.3,
+               "Width": 66.1,
+               "Height": 55.9,
+               "Front/rear Track": "55.5/54.3 in (1,410/1,379 mm)",
+               "Wheelbase": 98.1,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 15.2,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2326,
+               "Gross Weight Limit": 3373
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 34.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "LADA Samara 3 Doors 1986-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1099,
+               "Power": "39 KW @ 5500 RPM\n53 HP @ 5500 RPM\n52 BHP @ 5500 RPM",
+               "Torque": "58 lb-ft @ 3400 RPM\n79 Nm @ 3400 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 86,
+               "Acceleration 0-62 Mph (0-100 kph)": 20
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/70 R13S"
+          },
+          "DIMENSIONS": {
+               "Length": 157.7,
+               "Width": 63.8,
+               "Height": 54.3,
+               "Wheelbase": 96.9,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 11.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2006.2,
+               "Gross Weight Limit": 3020.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 32.2,
+               "CO2 Emissions": 174
+          },
+          "": {}
+     }
+},{
+     "model_name": "LADA Samara 5 Doors 1984",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1099,
+               "Power": "39 KW @ 5600 RPM\n53 HP @ 5600 RPM\n52 BHP @ 5600 RPM",
+               "Torque": "59 lb-ft @ 3400 RPM\n80 Nm @ 3400 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87,
+               "Acceleration 0-62 Mph (0-100 kph)": 20
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/70SR13"
+          },
+          "DIMENSIONS": {
+               "Length": 157.5,
+               "Width": 63.8,
+               "Height": 54.3,
+               "Front/rear Track": "55.1/53.9 in (1,400/1,369 mm)",
+               "Wheelbase": 96.9,
+               "Cargo Volume": 9.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2050.3,
+               "Gross Weight Limit": 3020.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 32.2,
+               "CO2 Emissions": 174
+          },
+          "": {}
+     }
+},{
+     "model_name": "LADA Samara 4 Doors 1984-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1288,
+               "Power": "48 KW @ 5600 RPM\n65 HP @ 5600 RPM\n64 BHP @ 5600 RPM",
+               "Torque": "68 lb-ft @ 3500 RPM\n92 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.4
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 92,
+               "Acceleration 0-62 Mph (0-100 kph)": 16
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/70 R13S"
+          },
+          "DIMENSIONS": {
+               "Length": 165.6,
+               "Width": 63.8,
+               "Height": 54.3,
+               "Wheelbase": 96.9,
+               "Cargo Volume": 12.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2094.39,
+               "Gross Weight Limit": 3075.44
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 33.12
+          },
+          "": {}
+     }
+},	
+ ] } 

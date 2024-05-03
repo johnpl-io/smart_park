@@ -1,0 +1,204 @@
+{ "brand_name" : "BUFORI", "models": [
+{
+     "model_name": "BUFORI Geneva (MKIV) 2010-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 6424,
+               "Power": "351 KW @ 6000 RPM\n477 HP @ 6000 RPM\n471 BHP @ 6000 RPM",
+               "Torque": "465 lb-ft @ 4200 RPM\n630 Nm @ 4200 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5 speed automatic Sequential Shift Transmission"
+          },
+          "BRAKES SPECS": {
+               "Front": "360 x 32 mm vented",
+               "Rear": "350 x 28 mm vented"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "Front: 245/45 R20. Rear: 255/45 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 215.4,
+               "Width": 75.2,
+               "Height": 59.8,
+               "Front/rear Track": "63.6/64 in (1,615/1,626 mm)",
+               "Wheelbase": 140.6
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 5401
+          },
+          "NOTES": {}
+     }
+},{
+     "model_name": "BUFORI La Joya (MKIII) 2004-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "v6",
+               "Displacement": 2656,
+               "Power": "127 KW @ 6000 RPM\n173 HP @ 6000 RPM\n170 BHP @ 6000 RPM",
+               "Torque": "181 lb-ft @ 4000 RPM\n245 Nm @ 4000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4 speed automatic Sequential Shift Transmission"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/40 R17"
+          },
+          "DIMENSIONS": {
+               "Length": 170.5,
+               "Width": 71.1,
+               "Height": 53.7,
+               "Front/rear Track": "60.4/0 in (1,534/0 mm)",
+               "Ground Clearance": 110.2,
+               "Cargo Volume": 8.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3285,
+               "Gross Weight Limit": 3616
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 25.8,
+               "CO2 Emissions": 298
+          }
+     }
+},{
+     "model_name": "BUFORI MK I 1988-1992",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 1584,
+               "Power": "55 KW @ 5000 RPM\n75 HP @ 5000 RPM\n74 BHP @ 5000 RPM",
+               "Torque": "72 lb-ft @ 3200 RPM\n98 Nm @ 3200 RPM",
+               "Fuel System": "Twin Carburator",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3 speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Solid disc",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175 / 65 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 151.6,
+               "Width": 65,
+               "Wheelbase": 95.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1962
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 29,
+               "Highway": 24.2
+          },
+          "": {}
+     }
+},{
+     "model_name": "1992 Buori MK I 2nd Series",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "4",
+               "Displacement": 1815,
+               "Power": "79 KW @ 5200 RPM\n107 HP @ 5200 RPM\n106 BHP @ 5200 RPM",
+               "Torque": "119 lb-ft @ 4500 RPM\n161 Nm @ 4500 RPM",
+               "Fuel System": "Single-point fuel injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.35
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "3-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 149.6,
+               "Width": 61.4,
+               "Wheelbase": 94.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2105
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 31.4,
+               "Highway": 21.4
+          },
+          "": {}
+     }
+},{
+     "model_name": "BUFORI V6i 1992-1994",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3791,
+               "Power": "127 KW @ 4800 RPM\n173 HP @ 4800 RPM\n170 BHP @ 4800 RPM",
+               "Torque": "216 lb-ft @ 3600 RPM\n293 Nm @ 3600 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "solid discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/65R15"
+          },
+          "DIMENSIONS": {
+               "Length": 165.4,
+               "Width": 68.9,
+               "Wheelbase": 105
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2315
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.3,
+               "Highway": 24.2
+          },
+          "": {}
+     }
+},	
+ ] } 

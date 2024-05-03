@@ -1,0 +1,1850 @@
+{ "brand_name" : "MASERATI", "models": [
+{
+     "model_name": "2025 Maserati GranCabrio Trofeo",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Power": "398.6 KW @ - RPM\n542 HP @ - RPM\n535 BHP @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          }
+     }
+},{
+     "model_name": "2018 Maserati GranCabrio",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4691,
+               "Power": "338.3 KW @ 7000 RPM\n460 HP @ 7000 RPM\n454 BHP @ 7000 RPM",
+               "Torque": "384 lb-ft @ 4750 RPM\n520 Nm @ 4750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 19.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 181,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 193.3,
+               "Width": 75.4,
+               "Height": 54.3,
+               "Wheelbase": 115.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 16.2,
+               "CO2 Emissions": 337
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI GranCabrio 2010-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4691,
+               "Power": "323 KW @ 7000 RPM\n440 HP @ 7000 RPM\n433 BHP @ 7000 RPM",
+               "Torque": "361 lb-ft @ 4750 RPM\n489 Nm @ 4750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 176,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR20 || 285/35 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 192.1,
+               "Width": 72.7,
+               "Height": 53.2,
+               "Front/rear Track": "62.4/62.6 in (1,585/1,590 mm)",
+               "Wheelbase": 115.8,
+               "Ground Clearance": 5,
+               "Cargo Volume": 6.1,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4365,
+               "Gross Weight Limit": 5181
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 12,
+               "Highway": 19,
+               "Combined": 15,
+               "CO2 Emissions": 354
+          }
+     }
+},{
+     "model_name": "MASERATI Ghibli 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1998,
+               "Power": "242.7 KW @ 5750 RPM\n330 HP @ 5750 RPM\n325 BHP @ 5750 RPM",
+               "Torque": "332 lb-ft @ 4000 RPM\n450 Nm @ 4000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Mild Hybrid",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 158,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 195.7,
+               "Width": 76.6,
+               "Height": 57.5,
+               "Front/rear Track": "64.4/65.1 in (1,636/1,654 mm)",
+               "Wheelbase": 118,
+               "Cargo Volume": 17.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4140
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 27.7,
+               "CO2 Emissions (Combined)": "192 g/km"
+          }
+     }
+},{
+     "model_name": "MASERATI Ghibli Trofeo 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3799,
+               "Power": "426.6 KW @ 6750 RPM\n580 HP @ 6750 RPM\n572 BHP @ 6750 RPM",
+               "Torque": "538 lb-ft @ 2250-5250 RPM\n730 Nm @ 2250-5250 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 188,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 195.7,
+               "Width": 76.6,
+               "Height": 57.5,
+               "Wheelbase": 118
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4341
+          }
+     }
+},{
+     "model_name": "MASERATI Ghibli 2017-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2979,
+               "Power": "257.4 KW @ 5500 RPM\n350 HP @ 5500 RPM\n345 BHP @ 5500 RPM",
+               "Torque": "369 lb-ft @ 4500 RPM\n500 Nm @ 4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 166,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50 R18 || 275/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 195.7,
+               "Width": 76.6,
+               "Height": 57.5,
+               "Front/rear Track": "64.4/65.1 in (1,636/1,654 mm)",
+               "Wheelbase": 118,
+               "Cargo Volume": 17.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3990
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.7,
+               "Highway": 34.6,
+               "Combined": 26.4,
+               "CO2 Emissions": 207
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI Ghibli GranLusso 2017-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2979,
+               "Power": "257.4 KW @ 5500 RPM\n350 HP @ 5500 RPM\n345 BHP @ 5500 RPM",
+               "Torque": "369 lb-ft @ 1750-4500 RPM\n500 Nm @ 1750-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 166,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 195.7,
+               "Width": 76.6,
+               "Height": 57.5,
+               "Front/rear Track": "64.4/65.1 in (1,636/1,654 mm)",
+               "Wheelbase": 118,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3990
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 18.7,
+               "Highway": 34.6,
+               "Combined": 26.4,
+               "CO2 Emissions": 207
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI Ghibli 2013-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2979,
+               "Power": "243 KW @ 5000 RPM\n330 HP @ 5000 RPM\n326 BHP @ 5000 RPM",
+               "Torque": "369 lb-ft @ 4500 RPM\n500 Nm @ 4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 163,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/50 R18 || 275/45 R18"
+          },
+          "DIMENSIONS": {
+               "Length": 195.7,
+               "Width": 76.6,
+               "Height": 57.5,
+               "Front/rear Track": "64.4/65.1 in (1,636/1,654 mm)",
+               "Wheelbase": 118,
+               "Cargo Volume": 17.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3990
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 16.8,
+               "Highway": 33.1,
+               "Combined": 24.5,
+               "CO2 Emissions": 223
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI Ghibli 1967-1974",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4719,
+               "Power": "243 KW @ 5500 RPM\n330 HP @ 5500 RPM\n326 BHP @ 5500 RPM",
+               "Torque": "290 lb-ft @ 4000 RPM\n393 Nm @ 4000 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 154,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 180.4,
+               "Width": 70.4,
+               "Height": 45.6,
+               "Front/rear Track": "56.6/55.4 in (1,438/1,407 mm)",
+               "Wheelbase": 100.4,
+               "Ground Clearance": 4.7,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3351
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI Levante Trofeo 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3799,
+               "Power": "426.6 KW @ 6250 RPM\n580 HP @ 6250 RPM\n572 BHP @ 6250 RPM",
+               "Torque": "538 lb-ft @ 2500-5000 RPM\n730 Nm @ 2500-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 188,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 197,
+               "Width": 77.5,
+               "Height": 66.1,
+               "Wheelbase": 118.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4784
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI Levante Trofeo 2018-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3799,
+               "Power": "433.9 KW @ 6250 RPM\n590 HP @ 6250 RPM\n582 BHP @ 6250 RPM",
+               "Torque": "538 lb-ft @ 2250-5000 RPM\n730 Nm @ 2250-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 186,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/40 R21"
+          },
+          "DIMENSIONS": {
+               "Length": 197.6,
+               "Width": 78,
+               "Height": 64,
+               "Front/rear Track": "64.4/66.9 in (1,636/1,699 mm)",
+               "Wheelbase": 118.3,
+               "Cargo Volume": 20.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4784
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 17.4,
+               "CO2 Emissions": 313
+          }
+     }
+},{
+     "model_name": "2016 Maserati Levante",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2979,
+               "Power": "257.4 KW @ 5750 RPM\n350 HP @ 5750 RPM\n345 BHP @ 5750 RPM",
+               "Torque": "369 lb-ft @ 4500-5000 RPM\n500 Nm @ 4500-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 156,
+               "Acceleration 0-62 Mph (0-100 kph)": 6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/60 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 197,
+               "Width": 77.5,
+               "Height": 66.1,
+               "Front/rear Track": "63.9/66 in (1,623/1,676 mm)",
+               "Wheelbase": 118.3,
+               "Ground Clearance": 10.8,
+               "Cargo Volume": 20.5,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4650
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.9,
+               "Highway": 28.3,
+               "Combined": 22,
+               "CO2 Emissions": 249
+          },
+          "": {}
+     }
+},{
+     "model_name": "2023 Maserati GranTurismo Modena",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2992,
+               "Power": "364.8 KW @ 6500 RPM\n496 HP @ 6500 RPM\n489 BHP @ 6500 RPM",
+               "Torque": "443 lb-ft @ 3000 RPM\n600 Nm @ 3000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 188,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/30 ZR20 // 295/30 ZR21"
+          },
+          "DIMENSIONS": {
+               "Length": 195.2,
+               "Width": 77,
+               "Height": 53.3,
+               "Front/rear Track": "64.8/65.4 in (1,646/1,661 mm)",
+               "Wheelbase": 115.3,
+               "Cargo Volume": 10.9,
+               "Turning circle": 40.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3957
+          }
+     }
+},{
+     "model_name": "2023 Maserati GranTurismo Trofeo",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2992,
+               "Power": "410.4 KW @ 6500 RPM\n558 HP @ 6500 RPM\n550 BHP @ 6500 RPM",
+               "Torque": "479 lb-ft @ 3000 RPM\n650 Nm @ 3000 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/30 ZR20 // 295/30 ZR21"
+          },
+          "DIMENSIONS": {
+               "Length": 195.5,
+               "Width": 77,
+               "Height": 53.3,
+               "Front/rear Track": "64.8/65.4 in (1,646/1,661 mm)",
+               "Wheelbase": 115.3,
+               "Cargo Volume": 10.9,
+               "Turning circle": 40.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3957
+          }
+     }
+},{
+     "model_name": "2023 Maserati GranTurismo Folgore",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "300.1 kw (408 hp)",
+               "Total maximum power": "560.5 kw (762 hp)",
+               "Total maximum torque": "995.7 lb-ft (1350 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "199 mph (320 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 2.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "265/35 ZR20 // 295/30 ZR21"
+          },
+          "DIMENSIONS": {
+               "Length": 195.2,
+               "Width": 77,
+               "Height": 53.3,
+               "Front/rear Track": "64.8/65.4 in (1,646/1,661 mm)",
+               "Wheelbase": 115.3,
+               "Cargo Volume": 9.5,
+               "Turning circle": 40.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4982
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 83,
+               "Maximum Capacity": "92.5 kWh"
+          },
+          "NOTES": {
+               "Electric motor 2 power": "408 HP (300 Kw)\nElectric motor 3 power: 408 HP (300 Kw)"
+          }
+     }
+},{
+     "model_name": "2018 Maserati GranTurismo",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4691,
+               "Power": "338.3 KW @ 7000 RPM\n460 HP @ 7000 RPM\n454 BHP @ 7000 RPM",
+               "Torque": "384 lb-ft @ 4750 RPM\n520 Nm @ 4750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 187,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 193.3,
+               "Width": 75.4,
+               "Height": 53.3,
+               "Wheelbase": 115.8,
+               "Aerodynamics (Cd)": 0.32
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 16.4,
+               "CO2 Emissions": 331
+          },
+          "NOTES": {},
+          "": {}
+     }
+},{
+     "model_name": "MASERATI GranTurismo MC Stradale 2011-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4691,
+               "Power": "330 KW @ 7000 RPM\n450 HP @ 7000 RPM\n443 BHP @ 7000 RPM",
+               "Torque": "376 lb-ft @ 4750 RPM\n510 Nm @ 4750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 187,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/35 ZR20 || 295/35 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 194.2,
+               "Width": 75.4,
+               "Height": 52.9,
+               "Front/rear Track": "62.4/62.6 in (1,585/1,590 mm)",
+               "Wheelbase": 115.8,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 11.3,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3681.7,
+               "Gross Weight Limit": 3902.2
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.4,
+               "Highway": 24.2,
+               "Combined": 16.3,
+               "CO2 Emissions": 337
+          }
+     }
+},{
+     "model_name": "MASERATI GranTurismo S 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4691,
+               "Power": "323 KW @ 7000 RPM\n439 HP @ 7000 RPM\n433 BHP @ 7000 RPM",
+               "Torque": "361 lb-ft @ 4750 RPM\n490 Nm @ 4750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 183,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 R20 || 285/35 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 192.2,
+               "Width": 75.4,
+               "Height": 53.3,
+               "Front/rear Track": "62.4/62.6 in (1,585/1,590 mm)",
+               "Wheelbase": 115.8,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 9.2,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3924,
+               "Gross Weight Limit": 4960
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.1,
+               "Highway": 22.2,
+               "Combined": 15.2,
+               "CO2 Emissions": 354
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI GranTurismo 2007-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4244,
+               "Power": "298 KW @ 7100 RPM\n405 HP @ 7100 RPM\n400 BHP @ 7100 RPM",
+               "Torque": "339 lb-ft @ 4750 RPM\n460 Nm @ 4750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 22.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 177.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R19 || 285/40 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 192.2,
+               "Width": 72.7,
+               "Height": 53.3,
+               "Front/rear Track": "62.4/62.6 in (1,585/1,590 mm)",
+               "Wheelbase": 115.8,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 9.2,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3924,
+               "Gross Weight Limit": 4960
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.9,
+               "Highway": 23.5,
+               "Combined": 16.4,
+               "CO2 Emissions": 330
+          }
+     }
+},{
+     "model_name": "MASERATI Quattroporte Trofeo 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3799,
+               "Power": "426.6 KW @ 6750 RPM\n580 HP @ 6750 RPM\n572 BHP @ 6750 RPM",
+               "Torque": "538 lb-ft @ 2250-5250 RPM\n730 Nm @ 2250-5250 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 188,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 207.2,
+               "Width": 76.7,
+               "Height": 58.3,
+               "Wheelbase": 124.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4409
+          }
+     }
+},{
+     "model_name": "MASERATI Quattroporte VI 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2979,
+               "Power": "257.4 KW @ 5500 RPM\n350 HP @ 5500 RPM\n345 BHP @ 5500 RPM",
+               "Torque": "369 lb-ft @ 1750-4500 RPM\n500 Nm @ 1750-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18.5
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 R19 || 275/40 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 207.2,
+               "Width": 76.7,
+               "Height": 58.3,
+               "Front/rear Track": "64.3/64.8 in (1,633/1,646 mm)",
+               "Wheelbase": 124.8
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 25.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI Quattroporte VI 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2999,
+               "Power": "301 KW @ 5500 RPM\n409 HP @ 5500 RPM\n404 BHP @ 5500 RPM",
+               "Torque": "406 lb-ft @ 1500-5000 RPM\n550 Nm @ 1500-5000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 176,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40 R20 || 285/35 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 207.2,
+               "Width": 76.7,
+               "Height": 58.3,
+               "Front/rear Track": "64.3/64.8 in (1,633/1,646 mm)",
+               "Wheelbase": 124.8,
+               "Ground Clearance": 5,
+               "Cargo Volume": 18.7,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4277,
+               "Gross Weight Limit": 5294
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 15.4,
+               "Highway": 33.6,
+               "Combined": 22.4,
+               "CO2 Emissions": 246
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI Quattroporte S 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4691,
+               "Power": "323 KW @ 7000 RPM\n439 HP @ 7000 RPM\n433 BHP @ 7000 RPM",
+               "Torque": "435 lb-ft @ 4750 RPM\n590 Nm @ 4750 RPM",
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 177,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Sequential, 6 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 ZR18 (Front) - 285/40 ZR18 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 198.9,
+               "Width": 74.6,
+               "Height": 56.6,
+               "Front/rear Track": "62.3/62.8 in (1,582/1,595 mm)",
+               "Wheelbase": 120.6,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4145,
+               "Gross Weight Limit": 5214
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9.8,
+               "Highway": 21.6,
+               "Combined": 15,
+               "CO2 Emissions": 365
+          }
+     }
+},{
+     "model_name": "MASERATI Quattroporte V 2003-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4244,
+               "Power": "295 KW @ 7000 RPM\n401 HP @ 7000 RPM\n396 BHP @ 7000 RPM",
+               "Torque": "333 lb-ft @ 4500 RPM\n451 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 23.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 171,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/45 ZR18 (Front) - 285/40 ZR18 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 198.9,
+               "Width": 74.6,
+               "Height": 56.6,
+               "Front/rear Track": "62.3/62.8 in (1,582/1,595 mm)",
+               "Wheelbase": 120.6,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4101
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.1,
+               "Highway": 20.5,
+               "Combined": 14.9,
+               "CO2 Emissions": 370
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI Quattroporte IV 1994-2000",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2790,
+               "Power": "206 KW @ 6000 RPM\n280 HP @ 6000 RPM\n276 BHP @ 6000 RPM",
+               "Torque": "293 lb-ft @ 3500 RPM\n397 Nm @ 3500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 21.1
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 162,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 ZR16 // 225/50 ZR16"
+          },
+          "DIMENSIONS": {
+               "Length": 179.1,
+               "Width": 71.3,
+               "Height": 54.3,
+               "Front/rear Track": "62.3/62.8 in (1,582/1,595 mm)",
+               "Wheelbase": 104.3,
+               "Cargo Volume": 16.8,
+               "Aerodynamics (Cd)": 0.31
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3401,
+               "Gross Weight Limit": 4486
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 13.6,
+               "CO2 Emissions": 413
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI Quattroporte III 1976-1990",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4136,
+               "Power": "187 KW @ 6000 RPM\n254 HP @ 6000 RPM\n251 BHP @ 6000 RPM",
+               "Torque": "289 lb-ft @ 3800 RPM\n392 Nm @ 3800 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 143
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/70 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 193.3,
+               "Width": 70.4,
+               "Height": 54.5,
+               "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
+               "Wheelbase": 110.2,
+               "Ground Clearance": 5.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3924
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI Quattroporte II 1974-1978",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2965,
+               "Power": "140 KW @ 6000 RPM\n190 HP @ 6000 RPM\n188 BHP @ 6000 RPM",
+               "Torque": "188 lb-ft @ 4000 RPM\n255 Nm @ 4000 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 125,
+               "Acceleration 0-62 Mph (0-100 kph)": 9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/70 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 204.7,
+               "Width": 73.6,
+               "Height": 55.1,
+               "Front/rear Track": "59.8/58.7 in (1,519/1,491 mm)",
+               "Wheelbase": 120.9,
+               "Ground Clearance": 5.5
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3818
+          }
+     }
+},{
+     "model_name": "MASERATI Quattroporte I 1963-1969",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4136,
+               "Power": "191 KW @ 5500 RPM\n260 HP @ 5500 RPM\n256 BHP @ 5500 RPM",
+               "Torque": "267 lb-ft @ 4000 RPM\n362 Nm @ 4000 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 196,
+               "Width": 68,
+               "Height": 53,
+               "Front/rear Track": "54.8/55.5 in (1,392/1,410 mm)",
+               "Wheelbase": 108.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3809
+          },
+          "": {}
+     }
+},{
+     "model_name": "2023 Maserati Grecale Trofeo",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3000,
+               "Power": "389.8 KW @ 6500 RPM\n530 HP @ 6500 RPM\n523 BHP @ 6500 RPM",
+               "Torque": "457 lb-ft @ 3000-5500 RPM\n620 Nm @ 3000-5500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 177,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "DIMENSIONS": {
+               "Length": 191.3,
+               "Width": 85.2,
+               "Height": 65.3,
+               "Wheelbase": 114.2,
+               "Cargo Volume": 20.1,
+               "Turning circle": 40.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4469
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "13.5 mpg US (17.4 L/100Km)",
+               "Medium": "20.3 mpg US (11.6 L/100Km)",
+               "High": "25.3 mpg US (9.3 L/100Km)",
+               "Extra high": "22.8 mpg US (10.3 L/100Km)",
+               "Combined": 21,
+               "CO2 Emissions (Combined)": "254 g/km"
+          }
+     }
+},{
+     "model_name": "2022 Maserati MC20 Cielo",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 2998,
+               "Power": "463.4 KW @ 7500 RPM\n630 HP @ 7500 RPM\n621 BHP @ 7500 RPM",
+               "Torque": "538 lb-ft @ 3000-5500 RPM\n730 Nm @ 3000-5500 RPM",
+               "Fuel System": "PDI (350-bar direct injection + 6-bar pre-chamber)",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR20 // 305/30 ZR20"
+          },
+          "DIMENSIONS": {
+               "Length": 183.8,
+               "Width": 77.4,
+               "Height": 48,
+               "Front/rear Track": "66.1/64.9 in (1,679/1,648 mm)",
+               "Wheelbase": 106.3,
+               "Turning circle": 38.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3395
+          },
+          "NOTES": {
+               "Cargo volume front": "50L\nCargo volume rear: 100L"
+          }
+     }
+},{
+     "model_name": "2021 Maserati MC20",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3000,
+               "Power": "463.4 KW @ 7500 RPM\n630 HP @ 7500 RPM\n621 BHP @ 7500 RPM",
+               "Torque": "538 lb-ft @ 3000-5500 RPM\n730 Nm @ 3000-5500 RPM",
+               "Fuel System": "PD( Direct injection 350bar + Port injection 6bar)",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 15.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 202,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "8-speed automatic DCT"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 ZR 20 // 305/30 ZR 20"
+          },
+          "DIMENSIONS": {
+               "Length": 183.8,
+               "Width": 77.4,
+               "Height": 48.1,
+               "Front/rear Track": "66.2/64.9 in (1,681/1,648 mm)",
+               "Wheelbase": 106.3,
+               "Cargo Volume": 5.3,
+               "Aerodynamics (Cd)": 0.38
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3307
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "11.3 mpg US (20.8 L/100Km)",
+               "CO2 Emissions (Low)": "470 g/km",
+               "Medium": "19.8 mpg US (11.9 L/100Km)",
+               "CO2 Emissions (Medium)": "269.4 g/km",
+               "High": "24 mpg US (9.8 L/100Km)",
+               "CO2 Emissions (High)": "220.6 g/km",
+               "Extra high": "24.5 mpg US (9.6 L/100Km)",
+               "CO2 Emissions (Extra high)": "215.8 g/km",
+               "Combined": 20.3,
+               "CO2 Emissions (Combined)": "262 g/km"
+          }
+     }
+},{
+     "model_name": "2024 Maserati Grescale Folgore",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Maximum Capacity": "105 kWh"
+          }
+     }
+},{
+     "model_name": "2023 Maserati Grecale Modena",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1995,
+               "Power": "239 KW @ 5750 RPM\n325 HP @ 5750 RPM\n321 BHP @ 5750 RPM",
+               "Torque": "332 lb-ft @ 2000-4000 RPM\n450 Nm @ 2000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Mild Hybrid",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "255/45 R20 // 295/40 R20"
+          },
+          "DIMENSIONS": {
+               "Length": 188.5,
+               "Width": 77.9,
+               "Height": 65.6,
+               "Front/rear Track": "63.8/66.7 in (1,621/1,694 mm)",
+               "Wheelbase": 114.2,
+               "Cargo Volume": 18.9,
+               "Turning circle": 40.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4178
+          }
+     }
+},{
+     "model_name": "2023 Maserati Grecale GT",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1995,
+               "Power": "217.7 KW @ 5750 RPM\n296 HP @ 5750 RPM\n292 BHP @ 5750 RPM",
+               "Torque": "332 lb-ft @ 2000-4000 RPM\n450 Nm @ 2000-4000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Mild Hybrid",
+               "Fuel capacity": 16.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 149,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "8-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/55 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 190.8,
+               "Width": 76.7,
+               "Height": 65.7,
+               "Front/rear Track": "63.8/66.7 in (1,621/1,694 mm)",
+               "Wheelbase": 114.2,
+               "Cargo Volume": 18.9
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4123
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "18 mpg US (13.1 L/100Km)",
+               "CO2 Emissions (Low)": "297 g/km",
+               "Medium": "27.4 mpg US (8.6 L/100Km)",
+               "CO2 Emissions (Medium)": "196 g/km",
+               "High": "31.8 mpg US (7.4 L/100Km)",
+               "CO2 Emissions (High)": "160 g/km",
+               "Extra high": "28 mpg US (8.4 L/100Km)",
+               "CO2 Emissions (Extra high)": "191 g/km",
+               "Combined": 27,
+               "CO2 Emissions (Combined)": "297 g/km"
+          }
+     }
+},{
+     "model_name": "1971 Maserati Bora",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4719,
+               "Power": "228 KW @ 6000 RPM\n310 HP @ 6000 RPM\n306 BHP @ 6000 RPM",
+               "Torque": "339 lb-ft @ 4200 RPM\n460 Nm @ 4200 RPM",
+               "Fuel System": "4 Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/70 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 171,
+               "Width": 70.2,
+               "Height": 45.2,
+               "Front/rear Track": "57.8/57 in (1,468/1,448 mm)",
+               "Wheelbase": 102.5,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 11.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI Coupe 2002-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4244,
+               "Power": "287 KW @ 7000 RPM\n390 HP @ 7000 RPM\n385 BHP @ 7000 RPM",
+               "Torque": "333 lb-ft @ 4500 RPM\n451 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 177,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR18 || 265/35 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 178.1,
+               "Width": 71.7,
+               "Height": 51.4,
+               "Front/rear Track": "60/60.6 in (1,524/1,539 mm)",
+               "Wheelbase": 104.7,
+               "Cargo Volume": 7.7,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3461,
+               "Gross Weight Limit": 4542
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 8.3,
+               "Highway": 18.1,
+               "Combined": 12.6,
+               "CO2 Emissions": 430
+          },
+          "": {}
+     }
+},{
+     "model_name": "1998 Maserati 3200 GT",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 3217,
+               "Power": "272 KW @ 6250 RPM\n370 HP @ 6250 RPM\n365 BHP @ 6250 RPM",
+               "Torque": "362 lb-ft @ 4500 RPM\n491 Nm @ 4500 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR18 || 265/35 ZR18"
+          },
+          "DIMENSIONS": {
+               "Length": 177.6,
+               "Width": 71.7,
+               "Height": 51.4,
+               "Front/rear Track": "60/60.6 in (1,524/1,539 mm)",
+               "Wheelbase": 104.7,
+               "Ground Clearance": 4.4,
+               "Cargo Volume": 7.7,
+               "Aerodynamics (Cd)": 0.34
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3571,
+               "Gross Weight Limit": 4542
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 9,
+               "Highway": 19.3,
+               "Combined": 13.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI GranSport 2004-2007",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4244,
+               "Power": "298 KW @ 7000 RPM\n400 HP @ 7000 RPM\n400 BHP @ 7000 RPM",
+               "Torque": "333 lb-ft @ 4500 RPM\n452 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 180,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 ZR19 (Front) - 265/30 ZR19 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 178.1,
+               "Width": 71.7,
+               "Height": 51,
+               "Front/rear Track": "60.6/60 in (1,539/1,524 mm)",
+               "Wheelbase": 104.7,
+               "Cargo Volume": 7.7,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3594,
+               "Gross Weight Limit": 4541.5
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 8.3,
+               "Highway": 18.1,
+               "Combined": 12.6,
+               "CO2 Emissions": 430
+          }
+     }
+},{
+     "model_name": "MASERATI Indy 1969-1974",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4136,
+               "Power": "191 KW @ 5500 RPM\n260 HP @ 5500 RPM\n256 BHP @ 5500 RPM",
+               "Torque": "267 lb-ft @ 3800 RPM\n362 Nm @ 3800 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "DIMENSIONS": {
+               "Length": 186.6,
+               "Width": 69.2,
+               "Height": 51,
+               "Front/rear Track": "57/57 in (1,448/1,448 mm)",
+               "Wheelbase": 102.3,
+               "Ground Clearance": 4.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3488
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI MC 12 2004-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V12",
+               "Displacement": 5998,
+               "Power": "465 KW @ 7500 RPM\n630 HP @ 7500 RPM\n624 BHP @ 7500 RPM",
+               "Torque": "481 lb-ft @ 5500 RPM\n652 Nm @ 5500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 205,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/35 (Front) - 345/35 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 202.5,
+               "Width": 82.5,
+               "Height": 47.4,
+               "Front/rear Track": "65.4/65 in (1,661/1,651 mm)",
+               "Wheelbase": 110.2,
+               "Ground Clearance": 3.9,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2943
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 6.5,
+               "Highway": 15.5,
+               "Combined": 10.2,
+               "CO2 Emissions": 545
+          }
+     }
+},{
+     "model_name": "1974 Maserati Merak",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 1999,
+               "Power": "118 KW @ 7000 RPM\n160 HP @ 7000 RPM\n158 BHP @ 7000 RPM",
+               "Torque": "131 lb-ft @ 5700 RPM\n177 Nm @ 5700 RPM",
+               "Fuel System": "Carburetors",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 137
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/70 VR15 // 205/70 VR15"
+          },
+          "DIMENSIONS": {
+               "Length": 171,
+               "Width": 70.2,
+               "Height": 45.2,
+               "Front/rear Track": "57.2/57 in (1,453/1,448 mm)",
+               "Wheelbase": 102.5,
+               "Ground Clearance": 5.1
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2976
+          },
+          "": {}
+     }
+},{
+     "model_name": "MASERATI Quattroporte Sport GT S 2009-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4691,
+               "Power": "323 KW @ 7000 RPM\n439 HP @ 7000 RPM\n433 BHP @ 7000 RPM",
+               "Torque": "361 lb-ft @ 4750 RPM\n490 Nm @ 4750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 23.8
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 177,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "245/40R19"
+          },
+          "DIMENSIONS": {
+               "Length": 200.6,
+               "Width": 78.4,
+               "Height": 56,
+               "Front/rear Track": "62.3/62.8 in (1,582/1,595 mm)",
+               "Wheelbase": 120.6,
+               "Ground Clearance": 3.9,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 4145,
+               "Gross Weight Limit": 5214
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 10.7,
+               "Highway": 22.4,
+               "Combined": 16,
+               "CO2 Emissions": 365
+          }
+     }
+},{
+     "model_name": "2006 Maserati GranSport Spyder",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4244,
+               "Power": "287 KW @ 7000 RPM\n390 HP @ 7000 RPM\n385 BHP @ 7000 RPM",
+               "Torque": "333 lb-ft @ 4500 RPM\n451 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 176,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR 18 Front / 265/35 ZR 18 Rear"
+          },
+          "DIMENSIONS": {
+               "Length": 169.4,
+               "Width": 71.7,
+               "Height": 51.4,
+               "Front/rear Track": "60/60.6 in (1,524/1,539 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.5,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.33
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3571
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 8.3,
+               "Highway": 18.1,
+               "Combined": 12.6,
+               "CO2 Emissions": 545
+          },
+          "": {}
+     }
+},{
+     "model_name": "2001 Maserati Spyder",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V8",
+               "Displacement": 4244,
+               "Power": "287 KW @ 7000 RPM\n390 HP @ 7000 RPM\n385 BHP @ 7000 RPM",
+               "Torque": "333 lb-ft @ 4500 RPM\n451 Nm @ 4500 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 23.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 176,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/40 ZR18 (Front) - 265/35 ZR18 (Rear)"
+          },
+          "DIMENSIONS": {
+               "Length": 169.4,
+               "Width": 71.7,
+               "Height": 51.4,
+               "Front/rear Track": "60/60.6 in (1,524/1,539 mm)",
+               "Wheelbase": 96.1,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3594,
+               "Gross Weight Limit": 4365
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 8.3,
+               "Highway": 18.1,
+               "Combined": 12.6,
+               "CO2 Emissions": 430
+          },
+          "": {}
+     }
+},	
+ ] } 

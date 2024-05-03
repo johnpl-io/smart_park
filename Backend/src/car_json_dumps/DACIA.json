@@ -1,0 +1,2178 @@
+{ "brand_name" : "DACIA", "models": [
+{
+     "model_name": "2024 Dacia Duster",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Power": "69.1 KW @ - RPM\n94 HP @ - RPM\n93 BHP @ - RPM",
+               "Electrical motor power": "36 kw (49 hp)",
+               "Fuel": "Mild Hybrid"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-Ion",
+               "Nominal Capacity": 0.8
+          },
+          "": {}
+     }
+},{
+     "model_name": "2021 Dacia Duster",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Power": "95.6 KW @ - RPM\n130 HP @ - RPM\n128 BHP @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2017 Dacia Duster",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1197,
+               "Power": "91.9 KW @ 5250 RPM\n125 HP @ 5250 RPM\n123 BHP @ 5250 RPM",
+               "Torque": "151 lb-ft @ 2300 RPM\n205 Nm @ 2300 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 170.9,
+               "Width": 71,
+               "Height": 66.4,
+               "Front/rear Track": "61.5/61.8 in (1,562/1,570 mm)",
+               "Wheelbase": 105.2,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 15.7
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2811,
+               "Gross Weight Limit": 3929
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 32.2,
+               "Highway": 42.8,
+               "Combined": 37.9,
+               "CO2 Emissions": 138
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Duster 2013-2017",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1197,
+               "Power": "92 KW @ - RPM\n125 HP @ - RPM\n123 BHP @ - RPM",
+               "Torque": "151 lb-ft @ - RPM\n205 Nm @ - RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 101,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 169.9,
+               "Width": 71.7,
+               "Height": 64,
+               "Front/rear Track": "61.4/61.7 in (1,560/1,567 mm)",
+               "Wheelbase": 105.2,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 16.7,
+               "Aerodynamics (Cd)": 0.42
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2815,
+               "Gross Weight Limit": 3862
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.9,
+               "Highway": 42,
+               "Combined": 37.3,
+               "CO2 Emissions": 145
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Duster 2010-2013",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1197,
+               "Power": "92 KW @ 5250 RPM\n125 HP @ 5250 RPM\n123 BHP @ 5250 RPM",
+               "Torque": "151 lb-ft @ 2000 RPM\n205 Nm @ 2000 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "215/65 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 169.9,
+               "Width": 71.7,
+               "Height": 64,
+               "Front/rear Track": "61.4/61.7 in (1,560/1,567 mm)",
+               "Wheelbase": 105.2,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 16.7,
+               "Aerodynamics (Cd)": 0.42
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2650,
+               "Gross Weight Limit": 3803
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.9,
+               "Highway": 42,
+               "Combined": 37.3,
+               "CO2 Emissions": 145
+          },
+          "": {}
+     }
+},{
+     "model_name": "2023 Dacia Jogger",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 999,
+               "Power": "66.9 KW @ 4800-5000 RPM\n91 HP @ 4800-5000 RPM\n90 BHP @ 4800-5000 RPM",
+               "Torque": "118 lb-ft @ 2100-3750 RPM\n160 Nm @ 2100-3750 RPM",
+               "Fuel System": "Multi-point indirect injection",
+               "Fuel": "Liquefied Petroleum Gas (LPG)",
+               "Fuel capacity": 13.2,
+               "Fuel capacity (CNG)": "10.6 gallons (40.1 L)"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drum"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16 92H"
+          },
+          "DIMENSIONS": {
+               "Length": 179,
+               "Width": 70.2,
+               "Height": 64.2,
+               "Front/rear Track": "59.8/59.4 in (1,519/1,509 mm)",
+               "Wheelbase": 114.1,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 21.4,
+               "Turning circle": 38.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2696,
+               "Gross Weight Limit": 3801
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Combined": 30.9,
+               "CO2 Emissions (Combined)": "119 g/km"
+          },
+          "NOTES": {
+               "Power LPG": "101 Hp / 4600-5000 rpm\nTorque LPG: 170 Nm / 2000-3500 rpm\n\nMaximum speed LPG: 175 Km/h"
+          },
+          "": {}
+     }
+},{
+     "model_name": "2021 Dacia Jogger",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 999,
+               "Power": "80.9 KW @ 5000-5250 RPM\n110 HP @ 5000-5250 RPM\n108 BHP @ 5000-5250 RPM",
+               "Torque": "148 lb-ft @ 2900-3500 RPM\n200 Nm @ 2900-3500 RPM",
+               "Fuel System": "Multi-point indirect injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 114,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drum"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/60 R16 92H"
+          },
+          "DIMENSIONS": {
+               "Length": 179,
+               "Width": 68.8,
+               "Height": 64.3,
+               "Front/rear Track": "59.8/59.4 in (1,519/1,509 mm)",
+               "Wheelbase": 114.1,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 25,
+               "Turning circle": 37.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2593,
+               "Gross Weight Limit": 3737
+          },
+          "FUEL ECONOMY (WLTP)": {
+               "Low": "36.2 mpg US (6.5 L/100Km)",
+               "Medium": "46.1 mpg US (5.1 L/100Km)",
+               "High": "49 mpg US (4.8 L/100Km)",
+               "Extra high": "37.3 mpg US (6.3 L/100Km)",
+               "Combined": 42,
+               "CO2 Emissions (Combined)": "127 g/km"
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Sandero Stepway 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 999,
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 161.4,
+               "Width": 72.8,
+               "Height": 60.4,
+               "Front/rear Track": "59.8/59.4 in (1,519/1,509 mm)",
+               "Wheelbase": 102.5,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 11.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Sandero Stepway 2016-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 898,
+               "Power": "66.2 KW @ 5000 RPM\n90 HP @ 5000 RPM\n89 BHP @ 5000 RPM",
+               "Torque": "103 lb-ft @ 2250 RPM\n140 Nm @ 2250 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 104
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205 / 55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 161,
+               "Width": 69.2,
+               "Height": 63.7,
+               "Front/rear Track": "58.6/58.7 in (1,488/1,491 mm)",
+               "Wheelbase": 101.9,
+               "Ground Clearance": 6.8,
+               "Cargo Volume": 11.3
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2590,
+               "Gross Weight Limit": 3384
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 41.3,
+               "Highway": 50,
+               "Combined": 46.1,
+               "CO2 Emissions": 114
+          },
+          "": {}
+     }
+},{
+     "model_name": "2012 Dacia Sandero Stepway",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 898,
+               "Power": "66 KW @ 5950 RPM\n90 HP @ 5950 RPM\n89 BHP @ 5950 RPM",
+               "Torque": "100 lb-ft @ 2500 RPM\n136 Nm @ 2500 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 104,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 160.6,
+               "Width": 69.2,
+               "Height": 63.7,
+               "Front/rear Track": "58.9/0.6 in (1,496/15 mm)",
+               "Wheelbase": 101.9,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 11.3,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2421,
+               "Gross Weight Limit": 3417
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 35,
+               "Highway": 51,
+               "Combined": 44,
+               "CO2 Emissions": 124
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Sandero Stepway 2009-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "78 KW @ 5750 RPM\n106 HP @ 5750 RPM\n105 BHP @ 5750 RPM",
+               "Torque": "109 lb-ft @ 3750 RPM\n148 Nm @ 3750 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 104,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "195/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 158.4,
+               "Width": 69,
+               "Height": 61,
+               "Front/rear Track": "58.8/58.4 in (1,494/1,483 mm)",
+               "Wheelbase": 101.9,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 11.3,
+               "Aerodynamics (Cd)": 0.39
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2286,
+               "Gross Weight Limit": 3441
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.8,
+               "Highway": 42.8,
+               "Combined": 34.6,
+               "CO2 Emissions": 159
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Logan 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 999,
+               "Fuel System": "Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drum"
+          },
+          "DIMENSIONS": {
+               "Length": 173.1,
+               "Width": 72.8,
+               "Height": 59.1,
+               "Front/rear Track": "60.3/59.8 in (1,532/1,519 mm)",
+               "Wheelbase": 104.3,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 18.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Logan 2016-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 898,
+               "Power": "66.2 KW @ 5000 RPM\n90 HP @ 5000 RPM\n89 BHP @ 5000 RPM",
+               "Torque": "103 lb-ft @ 2250 RPM\n140 Nm @ 2250 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185-65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 171.1,
+               "Width": 68.2,
+               "Height": 59.7,
+               "Front/rear Track": "58.9/58.5 in (1,496/1,486 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 18
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2599,
+               "Gross Weight Limit": 3417
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 41.3,
+               "Highway": 52.3,
+               "Combined": 47,
+               "CO2 Emissions": 112
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Logan 2 2012-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 898,
+               "Power": "66 KW @ 5250 RPM\n90 HP @ 5250 RPM\n89 BHP @ 5250 RPM",
+               "Torque": "100 lb-ft @ 2500 RPM\n136 Nm @ 2500 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Disk",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 171.1,
+               "Width": 68.2,
+               "Height": 59.7,
+               "Front/rear Track": "58.9/58.5 in (1,496/1,486 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 18,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2366,
+               "Gross Weight Limit": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 36,
+               "Highway": 51,
+               "Combined": 44,
+               "CO2 Emissions": 122
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Logan 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1390,
+               "Power": "55 KW @ 5500 RPM\n75 HP @ 5500 RPM\n74 BHP @ 5500 RPM",
+               "Torque": "83 lb-ft @ 3000 RPM\n112 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 100.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 13
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65/R15"
+          },
+          "DIMENSIONS": {
+               "Length": 168.9,
+               "Width": 68.5,
+               "Height": 60,
+               "Front/rear Track": "58.4/57.9 in (1,483/1,471 mm)",
+               "Wheelbase": 103.5,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 18
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2149.5,
+               "Gross Weight Limit": 3384.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.5,
+               "Highway": 43.5,
+               "Combined": 33.6,
+               "CO2 Emissions": 165
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Logan 2004-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1390,
+               "Power": "55 KW @ 5500 RPM\n75 HP @ 5500 RPM\n74 BHP @ 5500 RPM",
+               "Torque": "83 lb-ft @ 3000 RPM\n112 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 100.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 13
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65/R15"
+          },
+          "DIMENSIONS": {
+               "Length": 167.3,
+               "Width": 68.5,
+               "Height": 60.2,
+               "Front/rear Track": "58.3/57.9 in (1,481/1,471 mm)",
+               "Wheelbase": 103.5,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 18
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2314.9,
+               "Gross Weight Limit": 3384.1
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.6,
+               "Highway": 42.8,
+               "Combined": 34.6,
+               "CO2 Emissions": 166
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Sandero 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 999,
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "DIMENSIONS": {
+               "Length": 160.9,
+               "Width": 72.8,
+               "Height": 59,
+               "Front/rear Track": "60.3/59.8 in (1,532/1,519 mm)",
+               "Wheelbase": 102.5,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 11.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Sandero 2016-2020",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 898,
+               "Power": "66.2 KW @ 5000 RPM\n90 HP @ 5000 RPM\n89 BHP @ 5000 RPM",
+               "Torque": "103 lb-ft @ 2250 RPM\n140 Nm @ 2250 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185-65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 159.7,
+               "Width": 68.2,
+               "Height": 60,
+               "Front/rear Track": "58.9/58.5 in (1,496/1,486 mm)",
+               "Wheelbase": 101.9,
+               "Ground Clearance": 5.8,
+               "Cargo Volume": 12.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2555,
+               "Gross Weight Limit": 5545
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 41.3,
+               "Highway": 51.1,
+               "Combined": 47,
+               "CO2 Emissions": 112
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Sandero 2 2012-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 898,
+               "Power": "66 KW @ 5950 RPM\n90 HP @ 5950 RPM\n89 BHP @ 5950 RPM",
+               "Torque": "100 lb-ft @ 2500 RPM\n136 Nm @ 2500 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 159.7,
+               "Width": 68.2,
+               "Height": 60,
+               "Front/rear Track": "58.9/58.5 in (1,496/1,486 mm)",
+               "Wheelbase": 101.9,
+               "Ground Clearance": 6.4,
+               "Cargo Volume": 11.3,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2286,
+               "Gross Weight Limit": 3351
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 36,
+               "Highway": 51,
+               "Combined": 44,
+               "CO2 Emissions": 122
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Sandero 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1149,
+               "Power": "55 KW @ 5500 RPM\n75 HP @ 5500 RPM\n74 BHP @ 5500 RPM",
+               "Torque": "79 lb-ft @ 4250 RPM\n107 Nm @ 4250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 100,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drum"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/80 R14"
+          },
+          "DIMENSIONS": {
+               "Length": 158.3,
+               "Width": 68.7,
+               "Height": 60.4,
+               "Front/rear Track": "58.3/57.8 in (1,481/1,468 mm)",
+               "Wheelbase": 101.9,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 11.3,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2150,
+               "Gross Weight Limit": 3241
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 30.9,
+               "Highway": 48,
+               "Combined": 39.8,
+               "CO2 Emissions": 139
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Logan MCV 2016-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 898,
+               "Power": "66.2 KW @ 5000 RPM\n90 HP @ 5000 RPM\n89 BHP @ 5000 RPM",
+               "Torque": "103 lb-ft @ 2250 RPM\n140 Nm @ 2250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 105
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 176.9,
+               "Width": 68.2,
+               "Height": 59.8,
+               "Front/rear Track": "58.9/58.5 in (1,496/1,486 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 20.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2690,
+               "Gross Weight Limit": 3505
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 41.3,
+               "Highway": 51.1,
+               "Combined": 47,
+               "CO2 Emissions": 112
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Logan MCV 2013-2016",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 898,
+               "Power": "66 KW @ 5250 RPM\n90 HP @ 5250 RPM\n89 BHP @ 5250 RPM",
+               "Torque": "100 lb-ft @ 2500 RPM\n136 Nm @ 2500 RPM",
+               "Fuel System": "Multipoint Injection + Turbo",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Disk",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 176.9,
+               "Width": 68.2,
+               "Height": 61,
+               "Front/rear Track": "58.8/58.1 in (1,494/1,476 mm)",
+               "Wheelbase": 103.7,
+               "Cargo Volume": 20.2
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2288,
+               "Gross Weight Limit": 3571
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 36.8,
+               "Highway": 54.7,
+               "Combined": 47,
+               "CO2 Emissions": 116
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Logan MCV 2008-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1390,
+               "Power": "55 KW @ 5500 RPM\n75 HP @ 5500 RPM\n74 BHP @ 5500 RPM",
+               "Torque": "83 lb-ft @ 3000 RPM\n112 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 96,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 176.1,
+               "Width": 68.5,
+               "Height": 65.9,
+               "Front/rear Track": "57.8/57.7 in (1,468/1,466 mm)",
+               "Wheelbase": 114.3,
+               "Ground Clearance": 6.2,
+               "Cargo Volume": 24.7,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2799.8,
+               "Gross Weight Limit": 3836
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.5,
+               "Highway": 37.9,
+               "Combined": 30.9,
+               "CO2 Emissions": 179
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Logan MCV 2006-2008",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1390,
+               "Power": "55 KW @ 5500 RPM\n75 HP @ 5500 RPM\n74 BHP @ 5500 RPM",
+               "Torque": "83 lb-ft @ 3000 RPM\n112 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 96.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65R15"
+          },
+          "DIMENSIONS": {
+               "Length": 175.2,
+               "Width": 78.5,
+               "Height": 64.6,
+               "Front/rear Track": "58.3/57.4 in (1,481/1,458 mm)",
+               "Wheelbase": 114.4,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 24.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2568.8,
+               "Gross Weight Limit": 3836.7
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.5,
+               "Highway": 37.9,
+               "Combined": 30.9,
+               "CO2 Emissions": 179
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Dokker Van 2012-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1198,
+               "Power": "85 KW @ 4500 RPM\n116 HP @ 4500 RPM\n114 BHP @ 4500 RPM",
+               "Torque": "140 lb-ft @ 1500 RPM\n190 Nm @ 1500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185 / 70 R14 or 185 / 65 R 15"
+          },
+          "DIMENSIONS": {
+               "Length": 171.8,
+               "Width": 43.1,
+               "Height": 71.4,
+               "Front/rear Track": "58.7/58.2 in (1,491/1,478 mm)",
+               "Wheelbase": 110.6,
+               "Ground Clearance": 7.3,
+               "Cargo Volume": 116.5,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2566,
+               "Gross Weight Limit": 4264
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 31.4,
+               "Highway": 42.8,
+               "Combined": 37.9,
+               "CO2 Emissions": 143
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Logan MCV Stepway 2017-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L3",
+               "Displacement": 898,
+               "Power": "66.2 KW @ 5000 RPM\n90 HP @ 5000 RPM\n89 BHP @ 5000 RPM",
+               "Torque": "103 lb-ft @ 2250 RPM\n140 Nm @ 2250 RPM",
+               "Fuel System": "Turbocharged Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16"
+          },
+          "DIMENSIONS": {
+               "Length": 178.3,
+               "Width": 69.4,
+               "Height": 62.6,
+               "Front/rear Track": "58.9/58.5 in (1,496/1,486 mm)",
+               "Wheelbase": 103.7,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 20.2,
+               "Turning circle (curb to curb)": "35.5 ft (10.8 m)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2732,
+               "Gross Weight Limit": 3549
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 41.3,
+               "Highway": 50,
+               "Combined": 46.1,
+               "CO2 Emissions": 114
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Duster Pick-Up 2020-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Power": "84.6 KW @ - RPM\n115 HP @ - RPM\n113 BHP @ - RPM",
+               "Torque": "192 lb-ft @ 2000 RPM\n260 Nm @ 2000 RPM",
+               "Fuel System": "Common Rail",
+               "Fuel": "Diesel"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive"
+          },
+          "DIMENSIONS": {
+               "Length": 170.9,
+               "Width": 71.7,
+               "Height": 66.1,
+               "Front/rear Track": "61.5/62.2 in (1,562/1,580 mm)",
+               "Wheelbase": 105.2,
+               "Ground Clearance": 8.8,
+               "Cargo Volume": 35.3
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 46.9,
+               "Combined": 48
+          }
+     }
+},{
+     "model_name": "2012 Dacia Dokker",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1198,
+               "Power": "85 KW @ 4500 RPM\n116 HP @ 4500 RPM\n114 BHP @ 4500 RPM",
+               "Torque": "140 lb-ft @ 1500 RPM\n190 Nm @ 1500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 171.8,
+               "Width": 43.1,
+               "Height": 71.4,
+               "Front/rear Track": "58.7/58.2 in (1,491/1,478 mm)",
+               "Wheelbase": 110.6,
+               "Ground Clearance": 7.5,
+               "Cargo Volume": 28.3,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2657,
+               "Gross Weight Limit": 4019
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 32.7,
+               "Highway": 43.6,
+               "Combined": 38.6,
+               "CO2 Emissions": 140
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Lodgy 2012-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1198,
+               "Power": "85 KW @ 4500 RPM\n116 HP @ 4500 RPM\n114 BHP @ 4500 RPM",
+               "Torque": "140 lb-ft @ 1500 RPM\n190 Nm @ 1500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 111,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185 / 65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 177.1,
+               "Width": 68.9,
+               "Height": 66.3,
+               "Front/rear Track": "58.7/58.2 in (1,491/1,478 mm)",
+               "Wheelbase": 110.6,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 29.2,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2793,
+               "Gross Weight Limit": 4008
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 39,
+               "Highway": 32,
+               "Combined": 44,
+               "CO2 Emissions": 135
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA 1100 1968-1971",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1108,
+               "Power": "33.8 KW @ 4600 RPM\n46 HP @ 4600 RPM\n45 BHP @ 4600 RPM",
+               "Torque": "57 lb-ft @ 300 RPM\n77 Nm @ 300 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 83,
+               "Acceleration 0-62 Mph (0-100 kph)": 22.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "145 - 380"
+          },
+          "DIMENSIONS": {
+               "Length": 157.1,
+               "Width": 58.5,
+               "Height": 53.5,
+               "Front/rear Track": "49.3/48 in (1,252/1,219 mm)",
+               "Wheelbase": 89.4,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 9.2,
+               "Aerodynamics (Cd)": 0.45
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1687,
+               "Gross Weight Limit": 2425
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 31.4,
+               "Highway": 38.6,
+               "Combined": 34.6
+          },
+          "": {}
+     }
+},{
+     "model_name": "1969 Dacia 1300",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1289,
+               "Power": "38 KW @ 5500 RPM\n54 HP @ 5500 RPM\n51 BHP @ 5500 RPM",
+               "Torque": "65 lb-ft @ 3500 RPM\n88 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 90,
+               "Acceleration 0-62 Mph (0-100 kph)": 18
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/65 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 170.9,
+               "Width": 64.4,
+               "Height": 56.5,
+               "Front/rear Track": "51.7/51.7 in (1,313/1,313 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 14.8,
+               "Aerodynamics (Cd)": 0.43
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1984,
+               "Gross Weight Limit": 2866
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.5,
+               "Highway": 27.7,
+               "Combined": 24.5
+          }
+     }
+},{
+     "model_name": "DACIA 1300 Break 1972-1980",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1289,
+               "Power": "38 KW @ 5500 RPM\n54 HP @ 5500 RPM\n51 BHP @ 5500 RPM",
+               "Torque": "65 lb-ft @ 3500 RPM\n88 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87,
+               "Acceleration 0-62 Mph (0-100 kph)": 19.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/65 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 173.2,
+               "Width": 64.4,
+               "Height": 57.3,
+               "Front/rear Track": "51.7/51.7 in (1,313/1,313 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 19.8,
+               "Aerodynamics (Cd)": 0.44
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2116,
+               "Gross Weight Limit": 3053
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.2,
+               "Highway": 27.7,
+               "Combined": 26.1
+          }
+     }
+},{
+     "model_name": "DACIA 1310 1999-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1397,
+               "Power": "46.3 KW @ 5000 RPM\n63 HP @ 5000 RPM\n62 BHP @ 5000 RPM",
+               "Torque": "75 lb-ft @ 3500 RPM\n102 Nm @ 3500 RPM",
+               "Fuel System": "Monopoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 88,
+               "Acceleration 0-62 Mph (0-100 kph)": 16
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/65 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 171.3,
+               "Width": 65.4,
+               "Height": 56.5,
+               "Front/rear Track": "51.7/51.7 in (1,313/1,313 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 14.7,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2072,
+               "Gross Weight Limit": 2998
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.2,
+               "Highway": 26.1,
+               "Combined": 30.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA 1310 1994-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1289,
+               "Power": "39.7 KW @ 5250 RPM\n54 HP @ 5250 RPM\n53 BHP @ 5250 RPM",
+               "Torque": "65 lb-ft @ 3000 RPM\n88 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 12.7
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 88,
+               "Acceleration 0-62 Mph (0-100 kph)": 18.4
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/65 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 172.8,
+               "Width": 64.4,
+               "Height": 56.5,
+               "Front/rear Track": "51.7/51.7 in (1,313/1,313 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 14.8,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2006,
+               "Gross Weight Limit": 2998
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25,
+               "Highway": 26.1,
+               "Combined": 28.3
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA 1310 1984-1990",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1289,
+               "Power": "39.7 KW @ 5250 RPM\n54 HP @ 5250 RPM\n53 BHP @ 5250 RPM",
+               "Torque": "65 lb-ft @ 3000 RPM\n88 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87,
+               "Acceleration 0-62 Mph (0-100 kph)": 18
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/65 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 171.2,
+               "Width": 64.4,
+               "Height": 56.5,
+               "Front/rear Track": "51.7/51.7 in (1,313/1,313 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 14.8,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2028,
+               "Gross Weight Limit": 2910
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 26.1,
+               "Highway": 27,
+               "Combined": 29.4
+          }
+     }
+},{
+     "model_name": "DACIA 1310 1979-1984",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1289,
+               "Power": "41.2 KW @ 5300 RPM\n56 HP @ 5300 RPM\n55 BHP @ 5300 RPM",
+               "Torque": "68 lb-ft @ 3000 RPM\n92 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87,
+               "Acceleration 0-62 Mph (0-100 kph)": 17.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/65 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 171.2,
+               "Width": 64.4,
+               "Height": 56.5,
+               "Front/rear Track": "51.7/51.7 in (1,313/1,313 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 14.8,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2028,
+               "Gross Weight Limit": 2910
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 24.5,
+               "Highway": 25.3,
+               "Combined": 27.4
+          }
+     }
+},{
+     "model_name": "DACIA 1310 Break 1999-2004",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1397,
+               "Power": "44.1 KW @ 5000 RPM\n60 HP @ 5000 RPM\n59 BHP @ 5000 RPM",
+               "Torque": "72 lb-ft @ 3500 RPM\n97 Nm @ 3500 RPM",
+               "Fuel System": "Monopoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 89,
+               "Acceleration 0-62 Mph (0-100 kph)": 17.9
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/70 SR 13"
+          },
+          "DIMENSIONS": {
+               "Length": 172.9,
+               "Width": 65.4,
+               "Height": 57.5,
+               "Front/rear Track": "51.7/51.7 in (1,313/1,313 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.3,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2161,
+               "Gross Weight Limit": 3042
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 22.2,
+               "Highway": 25.6,
+               "Combined": 27
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA 1310 Break 1994-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1289,
+               "Power": "39.7 KW @ 5250 RPM\n54 HP @ 5250 RPM\n53 BHP @ 5250 RPM",
+               "Torque": "65 lb-ft @ 3000 RPM\n88 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 84,
+               "Acceleration 0-62 Mph (0-100 kph)": 20
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/65 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 173.4,
+               "Width": 64.4,
+               "Height": 57.3,
+               "Front/rear Track": "51.7/51.7 in (1,313/1,313 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.3,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2083,
+               "Gross Weight Limit": 3042
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 26.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA 1310 Break 1984-1990",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1289,
+               "Power": "39.7 KW @ 5250 RPM\n54 HP @ 5250 RPM\n53 BHP @ 5250 RPM",
+               "Torque": "65 lb-ft @ 3000 RPM\n88 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87,
+               "Acceleration 0-62 Mph (0-100 kph)": 20
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/65 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 173.4,
+               "Width": 64.4,
+               "Height": 57.3,
+               "Front/rear Track": "51.7/51.7 in (1,313/1,313 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.3,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2116,
+               "Gross Weight Limit": 3053
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 25.8,
+               "Highway": 26.4,
+               "Combined": 28.7
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA 1310 Break 1980-1984",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1289,
+               "Power": "41.2 KW @ 5300 RPM\n56 HP @ 5300 RPM\n55 BHP @ 5300 RPM",
+               "Torque": "68 lb-ft @ 3000 RPM\n92 Nm @ 3000 RPM",
+               "Fuel System": "Carburator",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 89,
+               "Acceleration 0-62 Mph (0-100 kph)": 19
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "155/65 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 173.4,
+               "Width": 64.4,
+               "Height": 57.3,
+               "Front/rear Track": "51.7/51.7 in (1,313/1,313 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.3,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2116,
+               "Gross Weight Limit": 3053
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 26.7
+          }
+     }
+},{
+     "model_name": "DACIA 1310/1410 Sport 1981-1992",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1298,
+               "Power": "39.7 KW @ 5250 RPM\n54 HP @ 5250 RPM\n53 BHP @ 5250 RPM",
+               "Torque": "65 lb-ft @ 3000 RPM\n88 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 88,
+               "Acceleration 0-62 Mph (0-100 kph)": 18
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/70 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 163.4,
+               "Width": 64.4,
+               "Height": 53.9,
+               "Front/rear Track": "51.7/51.7 in (1,313/1,313 mm)",
+               "Wheelbase": 88.2,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 14.6,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1984,
+               "Gross Weight Limit": 2866
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 24.5
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA 1320 1988-1991",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1289,
+               "Power": "39.7 KW @ 5250 RPM\n54 HP @ 5250 RPM\n53 BHP @ 5250 RPM",
+               "Torque": "65 lb-ft @ 3000 RPM\n88 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 87,
+               "Acceleration 0-62 Mph (0-100 kph)": 18.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/60 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 173.1,
+               "Width": 65.6,
+               "Height": 56.6,
+               "Front/rear Track": "51.7/52.4 in (1,313/1,331 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.3,
+               "Cargo Volume": 11.6,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1984,
+               "Gross Weight Limit": 2998
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA 1325 Liberta 1990-1996",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1397,
+               "Power": "45.6 KW @ 5000 RPM\n62 HP @ 5000 RPM\n61 BHP @ 5000 RPM",
+               "Torque": "74 lb-ft @ 3000 RPM\n100 Nm @ 3000 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 90,
+               "Acceleration 0-62 Mph (0-100 kph)": 17.5
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/70 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 163.4,
+               "Width": 64.4,
+               "Height": 56.3,
+               "Front/rear Track": "51.7/51.7 in (1,313/1,313 mm)",
+               "Wheelbase": 96.1,
+               "Ground Clearance": 4.3,
+               "Aerodynamics (Cd)": 0.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2061,
+               "Gross Weight Limit": 2998
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 28.7
+          },
+          "": {}
+     }
+},{
+     "model_name": "1985 Dacia 500 Lastun",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L2",
+               "Displacement": 499,
+               "Power": "16.2 KW @ 5500 RPM\n22 HP @ 5500 RPM\n22 BHP @ 5500 RPM",
+               "Torque": "25 lb-ft @ 3500 RPM\n34 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 66,
+               "Acceleration 0-62 Mph (0-100 kph)": 45
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "4-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Drums",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "125 SR12"
+          },
+          "DIMENSIONS": {
+               "Length": 116.1,
+               "Width": 55.5,
+               "Height": 53.2,
+               "Front/rear Track": "47.2/47.2 in (1,199/1,199 mm)",
+               "Wheelbase": 75.4,
+               "Ground Clearance": 5.1,
+               "Aerodynamics (Cd)": 0.43
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 1301,
+               "Gross Weight Limit": 2006
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 71.3
+          }
+     }
+},{
+     "model_name": "DACIA Pick-up 2007-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1598,
+               "Power": "63 KW @ 5250 RPM\n85 HP @ 5250 RPM\n84 BHP @ 5250 RPM",
+               "Torque": "100 lb-ft @ 3000 RPM\n136 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 100,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 177.1,
+               "Width": 68.3,
+               "Height": 61.2,
+               "Front/rear Track": "57.7/57.4 in (1,466/1,458 mm)",
+               "Wheelbase": 114.4,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2568,
+               "Gross Weight Limit": 4167
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 31,
+               "Highway": 22,
+               "Combined": 37,
+               "CO2 Emissions": 179
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Logan Van 2007-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1390,
+               "Power": "55 KW @ 5500 RPM\n75 HP @ 5500 RPM\n74 BHP @ 5500 RPM",
+               "Torque": "83 lb-ft @ 3000 RPM\n113 Nm @ 3000 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 13.2
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 96,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "185/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": 175.2,
+               "Width": 68.5,
+               "Height": 64.6,
+               "Front/rear Track": "58.3/57.9 in (1,481/1,471 mm)",
+               "Wheelbase": 114.2,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 89.7,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2734,
+               "Gross Weight Limit": 3836
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 23.5,
+               "Highway": 37.9,
+               "Combined": 30.9
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Nova 1995-1999",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1397,
+               "Power": "45.6 KW @ 5500 RPM\n62 HP @ 5500 RPM\n61 BHP @ 5500 RPM",
+               "Torque": "73 lb-ft @ 3500 RPM\n99 Nm @ 3500 RPM",
+               "Fuel System": "Carburetor",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.9
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 93,
+               "Acceleration 0-62 Mph (0-100 kph)": 18
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/65 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 158.7,
+               "Width": 64.6,
+               "Height": 54.7,
+               "Front/rear Track": "54.9/64.6 in (1,394/1,641 mm)",
+               "Wheelbase": 97.4,
+               "Cargo Volume": 8.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2008,
+               "Gross Weight Limit": 2943
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": 33.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA Solenza 2003-2005",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1390,
+               "Power": "55 KW @ 5250 RPM\n75 HP @ 5250 RPM\n74 BHP @ 5250 RPM",
+               "Torque": "84 lb-ft @ 2800 RPM\n114 Nm @ 2800 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 11.6
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 102.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.1
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "5-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/70 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 160.7,
+               "Width": 65.5,
+               "Height": 54.3,
+               "Front/rear Track": "56.3/53.1 in (1,430/1,349 mm)",
+               "Wheelbase": 97.5,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 29.2,
+               "Aerodynamics (Cd)": 0.36
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2282.2,
+               "Gross Weight Limit": 3053.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28.3,
+               "Highway": 42,
+               "Combined": 35.1
+          },
+          "": {}
+     }
+},{
+     "model_name": "DACIA SuperNova 1999-2003",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "L4",
+               "Displacement": 1390,
+               "Power": "55 KW @ 5250 RPM\n75 HP @ 5250 RPM\n74 BHP @ 5250 RPM",
+               "Torque": "84 lb-ft @ 2600 RPM\n114 Nm @ 2600 RPM",
+               "Fuel System": "Electronic Injection",
+               "Fuel": "Gasoline"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 100.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.3
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "Manual, 5 Speed"
+          },
+          "BRAKES SPECS": {
+               "Front": "Discs",
+               "Rear": "Drums"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "165/70 R13"
+          },
+          "DIMENSIONS": {
+               "Length": 158.7,
+               "Width": 64.6,
+               "Height": 54.7,
+               "Front/rear Track": "54.9/53.3 in (1,394/1,354 mm)",
+               "Wheelbase": 97.4
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2094.8,
+               "Gross Weight Limit": 3053.9
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 28.3,
+               "Highway": 42,
+               "Combined": 35.1
+          }
+     }
+},	
+ ] } 

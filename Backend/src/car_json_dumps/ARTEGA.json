@@ -1,0 +1,91 @@
+	
+{ "brand_name" : "ARTEGA", "models": [
+{
+     "model_name": "ARTEGA Scalo 2015-Present",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Electrical motor power": "195 kw (265 hp)",
+               "Electrical motor torque": "575 lb-ft (780 Nm)",
+               "Fuel System": "Electric",
+               "Fuel": "Electric"
+          },
+          "PERFORMANCE SPECS": {
+               "Top speed (electrical)": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "1-Speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 R19 ZR // 285/30 R19 ZR"
+          },
+          "DIMENSIONS": {
+               "Length": 157.8,
+               "Width": 74,
+               "Height": 47,
+               "Wheelbase": 97,
+               "Cargo Volume": 8.8
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 3494
+          },
+          "POWER SYSTEM SPECS": {
+               "Power pack": "Lithium-ion",
+               "Nominal Capacity": 37,
+               "Range": 248.5
+          }
+     }
+},{
+     "model_name": "ARTEGA GT 2010-2012",
+     "technical_specs": {
+          "ENGINE SPECS": {
+               "Cylinders": "V6",
+               "Displacement": 3597,
+               "Power": "220.6 KW @ 6600 RPM\n300 HP @ 6600 RPM\n296 BHP @ 6600 RPM",
+               "Torque": "258 lb-ft @ 2500-5000 RPM\n350 Nm @ 2500-5000 RPM",
+               "Fuel System": "Direct injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": 18
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "6-speed automatic DSG"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Ventilated Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "235/35 R19 // 285/30 R19"
+          },
+          "DIMENSIONS": {
+               "Length": 158.1,
+               "Width": 74.1,
+               "Height": 46.5,
+               "Front/rear Track": "60.4/61.8 in (1,534/1,570 mm)",
+               "Wheelbase": 103.9,
+               "Cargo Volume": 10.6,
+               "Aerodynamics (Cd)": 0.35
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": 2833,
+               "Gross Weight Limit": 3296
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": 17.2,
+               "Highway": 32.7,
+               "Combined": 24.5,
+               "CO2 Emissions": 223
+          }
+     }
+},	
+ ] } 
