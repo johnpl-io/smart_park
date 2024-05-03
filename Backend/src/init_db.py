@@ -26,6 +26,8 @@ class User(Base):
     park_history = relationship("ParkHistory", back_populates="user", cascade="all, delete")
     park = relationship("Park", back_populates="user", cascade = "all, delete")
 
+    
+
 class Car(Base):
     __tablename__ = 'cars'
     
@@ -38,6 +40,8 @@ class Car(Base):
     owns = relationship("Owns", back_populates="car")
     park = relationship("Park", back_populates="car")
 
+    
+
 class Owns(Base):
     __tablename__ = 'owns'
     
@@ -47,6 +51,9 @@ class Owns(Base):
     user = relationship("User", back_populates="owns")
     car = relationship("Car", back_populates="owns")
 
+    def __repr__(self):
+        return f"Owns(user_id={self.user_id}, car_id={self.car_id})"
+
 class Spot(Base):
     __tablename__ = 'spot'
     
@@ -55,6 +62,9 @@ class Spot(Base):
     park = relationship("Park", back_populates="spot", cascade="all, delete-orphan")
     parked = relationship("ParkHistory", back_populates="spot", cascade="all, delete")
 
+    def __repr__(self):
+        return f"Spot(spot_id={self.spot_id}, location={self.location})"
+    
 
 
 class ParkHistory(Base):
@@ -72,6 +82,9 @@ class ParkHistory(Base):
 
     user = relationship("User", back_populates="park_history")
 
+def __repr__(self):
+    return f"ParkHistory(phid={self.phid}, user_id={self.user_id}, spot_id={self.spot_id}, time_arrived={self.time_arrived}, time_left={self.time_left})"
+
 class Park(Base):
     __tablename__ = 'park'
     pid = Column(Integer, primary_key=True)
@@ -86,6 +99,9 @@ class Park(Base):
     user = relationship("User", back_populates="park")
     car = relationship("Car", back_populates="park")
 
+    def __repr__(self):
+        return f"Park(pid={self.pid}, spot_id={self.spot_id}, user_id={self.user_id}, car_id={self.car_id}, time_arrived={self.time_arrived})"
+
 """
 class Violation(Base):
     __tablename__ = 'violation'
@@ -97,7 +113,7 @@ class Violation(Base):
     ending = Column(TIMESTAMP, nullable=False)
 """
 
-def initialize():
+def initialize() -> None:
     engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
 
 
@@ -112,8 +128,10 @@ def initialize():
 
     Base.metadata.create_all(engine)
 
-    session = Session(engine)
-    engine.connect()
 
 
+#drop all data tables
+def drop_tables() -> None:
+    engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
+    Base.metadata.drop_all(engine)
 
