@@ -17,7 +17,7 @@ from datetime import datetime, timedelta
 
 
 
-def park_find(user_id: int, car_id: int, location: tuple[float, float])-> list[Spot, float, datetime]:
+def park_find(user_id: int, car_id: int, location: tuple[float, float])-> list[int, int , int, float, datetime]:
 
     session = create_session()
     """
@@ -34,7 +34,7 @@ a spot must have been recently left and close to the user
 
     #find closest points that have recently been left for now it simply picks ten closest poinst
     get_closest = (
-    session.query(Spot, func.ST_Distance(Spot.location,WKTElement(f'POINT({location[0]} {location[1]})')),  ParkHistory.time_left)
+    session.query(Spot.spot_id, func.ST_Y(cast(Spot.location, Geometry)), func.ST_X(cast(Spot.location, Geometry)), func.ST_Distance(Spot.location,WKTElement(f'POINT({location[0]} {location[1]})')),  ParkHistory.time_left)
     .join(ParkHistory, Spot.spot_id == ParkHistory.spot_id)
     .filter(ParkHistory.time_left >= datetime.now() - timedelta(days=10))
     .order_by(Spot.location.cast(Geometry).distance_centroid(WKTElement(f'POINT({location[0]} {location[1]})', srid=4326))
@@ -47,5 +47,4 @@ a spot must have been recently left and close to the user
 
     
     
-#park_find(0, 0, [-59.1175, 100.6280])
-
+#z = park_find(0, 0, [ -77.062089, 38.8938 ])

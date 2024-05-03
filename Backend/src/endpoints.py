@@ -1,8 +1,9 @@
 from park_mgmt import *
 from user_mgmt import *
+from park_finder import *
 from flask import Flask,request, jsonify
 from flask_cors import CORS, cross_origin
-
+from geojson import Point
 
 app = Flask(__name__)
 CORS(app, support_credentials=True)
@@ -44,7 +45,7 @@ def leave():
 def isPark():
     user_id = request.args.get('user_id')
     car_id = request.args.get('car_id')
-    
+  
     if not user_id or not car_id:
         return jsonify({"error": "Missing user_id or car_id"}), 400
     
@@ -74,13 +75,38 @@ def get_parked_cars():
 
     return jsonify({"image": heatmap_img, "bounds":bounds})
 
+@app.route('/find-closest-free-spot')
+@cross_origin(supports_credentials=True)
+def get_free_spot():
+    #returns a list of ten recently free spots
+ 
+    user_id = request.args.get('user_id', type=int)
+    car_id = request.args.get('car_id', type=int)
+    lon = request.args.get('lon', type=float)
+    lat = request.args.get('lat', type=float)
+    park_results = park_find(user_id, car_id, [lon, lat])
+  #  breakpoint()
+    #convert to geojson
+    spots = []
+    for spot in park_results:
+        spots.append({
+            "spot_id": spot[0],
+            "location": Point((spot[1], spot[2])),
+            "distance": spot[3],
+            "time_left": spot[4]
+        })
+
+
+    return jsonify(spots)
+   
+
+
 @app.route('/find-user-by-email', methods = ['GET'])
 @cross_origin(supports_credentials=True)
 def find_user():
 
     email = request.args.get('email')
     exists, username, user_id = user_lookup(email)
-
     return jsonify({"exists": exists, "username": username, "user_id": user_id})
 
 @app.route('/check-username', methods = ['GET'])
