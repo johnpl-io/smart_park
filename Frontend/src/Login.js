@@ -19,11 +19,9 @@ const LoginPage = () => {
 
             const user = await userDetails.json();
 
-            localStorage.setItem("username", user.userName);
+            localStorage.setItem("username", user.username);
             localStorage.setItem("user_id", user.user_id);
             
-            console.log(user.username);
-            console.log(user.user_id);
             
             window.location.reload();
         } catch (err) {

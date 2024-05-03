@@ -1,0 +1,74 @@
+.garage-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #f5f5f5;
+    background-image: url('Garage.jpg)';
+}
+
+.car-display {
+    position: relative;
+    width: 300px;
+    text-align: center;
+}
+
+.navigate-button {
+    position: absolute;
+    top: 50%; /* Center vertically on the image */
+    transform: translateY(-50%);
+    font-size: 32px; /* Larger size for visibility */
+    color: white;
+    background-color: #007bff; /* Dark blue background */
+    border-radius: 50%; /* Circular buttons */
+    width: 50px; /* Uniform width and height for circle */
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    cursor: pointer;
+    z-index: 2;
+}
+
+.navigate-button.left {
+    left: -30px;
+}
+
+.navigate-button.right {
+    right: -30px;
+}
+
+.navigate-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+.car-image {
+    display: block; /* This makes it easier to manage spacing and positioning */
+    width: 100%;
+    height: auto;
+}
+
+.car-info {
+    padding: 15px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    border-radius: 8px; /* Rounded corners for the info box */
+    margin-top: 20px; /* Space between image and info box */
+}
+
+.select-button {
+    background-color: #28a745; /* Green background */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px; /* Slightly rounded corners for the button */
+    cursor: pointer;
+    font-weight: bold; /* Make text bold */
+    font-size: 16px; /* Larger font size for better readability */
+}
+
+.select-button:hover {
+    background-color: #218838; /* Darker green on hover */
+}

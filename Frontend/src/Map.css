@@ -201,7 +201,7 @@
     width: 100%;
     padding: 15px; /* Increase padding for larger buttons */
     border: none;
-    border-bottom: 4px solid #2e6a4e;  /* Thick dividers between buttons */
+    border-bottom: 6px solid #2e6a4e;  /* Thick dividers between buttons */
     background-color: #5db87b; /* Sea green background */
     color: #fff; /* White text */
     text-align: left;

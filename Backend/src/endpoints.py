@@ -1,5 +1,6 @@
 from park_mgmt import *
 from user_mgmt import *
+from car_mgmt import *
 from park_finder import *
 from flask import Flask,request, jsonify
 from flask_cors import CORS, cross_origin
@@ -114,7 +115,6 @@ def find_user():
 def check_username():
     username = request.args.get('username')
     
-    print(username)
     exists = user_exists(username)
 
     return jsonify({"exists": exists})
@@ -135,6 +135,48 @@ def make_user():
     return jsonify({
         "message": "Successfully created user!"
     }), 200
+
+@app.route('/get-cars', methods = ['GET'])
+@cross_origin(supports_credentials=True)
+def get_users_cars():
+    user_id = request.args.get('user_id', type = int)
+
+    cars = get_cars(user_id)
+
+    return jsonify({"cars": cars})
+
+@app.route('/get-models', methods = ['GET'])
+@cross_origin(supports_credentials=True)
+def get_car_models():
+
+    car_models = get_models()
+
+    return jsonify({"car_models": car_models})
+
+
+@app.route('/search-cars', methods = ['GET'])
+@cross_origin(supports_credentials=True)
+def search_car():
+
+    search_term = request.args.get('search_term')
+    cars = find_cars(search_term)
+
+    return jsonify({"cars": cars})
+
+@app.route('/register-car', methods = ['POST'])
+@cross_origin(supports_credentials=True)
+def register_car():
+
+    if not request.is_json:
+        return jsonify({"error": "Missing JSON in request"}), 400
+
+    data = request.get_json()
+
+    register(int(data["user_id"]),
+                  int(data["car_id"]))
+    
+    
+
 
 if __name__ == '__main__':
     app.run(debug=True)

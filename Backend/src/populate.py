@@ -29,9 +29,11 @@ def populate_database():
 
     # Create random cars
     cars = []
-    for _ in range(10):  # Adjust the range for more cars
+    models = ["Honda", "Toyota", "Cadillac", "Porsche", "Hyundai", "Volkswagen", "Ford", "BMW", "Chervolet", "Tesla"]
+    for i in range(10):  # Adjust the range for more cars
         car = Car(
-            car_model=fake.company()
+            car_model= models[i],
+            car_img = '/Car_Images/' + models[i] + '.jpg'
         )
         cars.append(car)
     session.add_all(cars)
