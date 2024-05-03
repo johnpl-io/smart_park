@@ -5,7 +5,7 @@ from sqlalchemy.dialects.postgresql import BYTEA
 from sqlalchemy.orm import relationship, sessionmaker, declarative_base, Session
 from geoalchemy2 import Geography
 from sqlalchemy.schema import CreateSchema
-
+from sqlalchemy import PrimaryKeyConstraint
 
 Base = declarative_base()
 
@@ -25,6 +25,11 @@ class User(Base):
     owns = relationship("Owns", back_populates="user", cascade="all, delete")
     park_history = relationship("ParkHistory", back_populates="user", cascade="all, delete")
     park = relationship("Park", back_populates="user", cascade = "all, delete")
+    
+    def __repr__(self):
+        return f"User(user_id={self.user_id}, username={self.username}, email={self.email})"
+    
+    
 
 class Car(Base):
     __tablename__ = 'cars'
@@ -33,11 +38,16 @@ class Car(Base):
     car_model = Column(String, nullable=False)
     car_img = Column(String, nullable = False)
     
-    #width = Column(Float, nullable=False)
-    #len = Column(Float, nullable=False)
+    width = Column(Float, nullable=True)
+    len = Column(Float, nullable=True)
+    height = Column(Float, nullable=True)
     
     owns = relationship("Owns", back_populates="car")
     park = relationship("Park", back_populates="car")
+
+    def __repr__(self):
+        return f"Car(car_id={self.car_id}, car_model={self.car_model})"
+    
 
 class Owns(Base):
     __tablename__ = 'owns'
@@ -48,6 +58,9 @@ class Owns(Base):
     user = relationship("User", back_populates="owns")
     car = relationship("Car", back_populates="owns")
 
+    def __repr__(self):
+        return f"Owns(user_id={self.user_id}, car_id={self.car_id})"
+
 class Spot(Base):
     __tablename__ = 'spot'
     
@@ -56,6 +69,9 @@ class Spot(Base):
     park = relationship("Park", back_populates="spot", cascade="all, delete-orphan")
     parked = relationship("ParkHistory", back_populates="spot", cascade="all, delete")
 
+    def __repr__(self):
+        return f"Spot(spot_id={self.spot_id}, location={self.location})"
+    
 
 
 class ParkHistory(Base):
@@ -73,6 +89,9 @@ class ParkHistory(Base):
 
     user = relationship("User", back_populates="park_history")
 
+def __repr__(self):
+    return f"ParkHistory(phid={self.phid}, user_id={self.user_id}, spot_id={self.spot_id}, time_arrived={self.time_arrived}, time_left={self.time_left})"
+
 class Park(Base):
     __tablename__ = 'park'
     pid = Column(Integer, primary_key=True)
@@ -87,6 +106,19 @@ class Park(Base):
     user = relationship("User", back_populates="park")
     car = relationship("Car", back_populates="park")
 
+    def __repr__(self):
+        return f"Park(pid={self.pid}, spot_id={self.spot_id}, user_id={self.user_id}, car_id={self.car_id}, time_arrived={self.time_arrived})"
+
+class Hold(Base):
+    __tablename__ = 'hold'
+    __table_args__ = (PrimaryKeyConstraint("user_id", "car_id", "spot_id"), {})
+    user_id = Column(Integer, ForeignKey('users.user_id', ondelete='CASCADE'))
+    car_id = Column(Integer, ForeignKey('cars.car_id', ondelete='CASCADE'))
+    spot_id = Column(Integer, ForeignKey('spot.spot_id', ondelete='CASCADE'))
+    time_start = Column(TIMESTAMP, nullable=False, default=func.now())
+
+    def __repr__(self):
+        return f"Hold(user_id={self.user_id}, spot_id={self.spot_id}, time_start={self.time_start})"
 """
 class Violation(Base):
     __tablename__ = 'violation'
@@ -98,7 +130,7 @@ class Violation(Base):
     ending = Column(TIMESTAMP, nullable=False)
 """
 
-def initialize():
+def initialize() -> None:
     engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
 
 
@@ -113,8 +145,10 @@ def initialize():
 
     Base.metadata.create_all(engine)
 
-    session = Session(engine)
-    engine.connect()
 
 
+#drop all data tables
+def drop_tables() -> None:
+    engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
+    Base.metadata.drop_all(engine)
 

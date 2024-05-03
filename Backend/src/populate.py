@@ -5,7 +5,7 @@ from sqlalchemy.orm import sessionmaker
 from geoalchemy2.elements import WKTElement
 from init_db import *
 import numpy as np
-
+from tqdm import tqdm
 fake = Faker()
 NUM_ENTRIES = 10000
 def populate_database():
@@ -16,7 +16,7 @@ def populate_database():
     # Create random users
     users = []
 
-    for i in range(NUM_ENTRIES):  # Adjust the number if necessary
+    for i in tqdm(range(NUM_ENTRIES), desc="adding users"):  # Adjust the number if necessary
 
         user = User(
             username= "user_" + str(i),
@@ -40,7 +40,7 @@ def populate_database():
 
     # Create random spots
     spots = []
-    for _ in range(NUM_ENTRIES):  # Adjust the range for more spots
+    for _ in tqdm(range(NUM_ENTRIES), 'adding spots'):
         lat = np.random.normal(loc = 40.76, scale = 1e-2)
         lon = np.random.normal(loc = -73.93, scale = 1e-2)
         #lat = random.uniform(40.711, 40.7850)  # Latitude range for Manhattan
@@ -56,8 +56,7 @@ def populate_database():
 
     # Create relationships between users and cars
     owns = []
-    for user in users:
-        car = random.choice(cars)
+    for user in tqdm(users, 'adding owns relationships for cars'):  
         owns_relationship = Owns(
             user_id=user.user_id,
             car_id=car.car_id
@@ -66,7 +65,7 @@ def populate_database():
     session.add_all(owns)
 
     # Create parking history and current park status
-    for spot in spots:
+    for spot in tqdm(spots, 'adding park history and current park status'):
         user = random.choice(users)
         car = random.choice(cars)
         park_history = ParkHistory(

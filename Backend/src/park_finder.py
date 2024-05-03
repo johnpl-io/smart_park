@@ -1,30 +1,21 @@
 
 from init_db import *
-from sqlalchemy.orm import sessionmaker
-from sqlalchemy import create_engine, func, cast
-from geoalchemy2 import  Geography, Geometry
-from geoalchemy2.functions import ST_X, ST_Y 
+from sqlalchemy import func, cast
+from geoalchemy2 import Geometry
 from utils import create_session
-import random
-import numpy as np
-import matplotlib
 from geoalchemy2.elements import WKTElement
-import matplotlib.pyplot as plt
-from scipy.ndimage.filters import gaussian_filter
-from io import BytesIO
-import base64
 from datetime import datetime, timedelta
 
 
 
-def park_find(user_id: int, car_id: int, location: tuple[float, float])-> list[Spot, float, datetime]:
+def park_find(user_id: int, car_id: int, location: tuple[float, float])-> list[int, int , int, float, datetime]:
 
     session = create_session()
     """
-find a parking spot given a user and a specific location 
-a spot must have been recently left and close to the user
+    find a parking spot given a user and a specific location 
+    a spot must have been recently left and close to the user
     Parameters:
-    :user_id: user_id of indivual requesting a spot. 
+    :user_id: user_id of indivual requesting a spot
     :car_id: the car_id of the user_id current car
     :location: location of area where spot is
 
@@ -33,10 +24,21 @@ a spot must have been recently left and close to the user
     """ 
 
     #find closest points that have recently been left for now it simply picks ten closest poinst
+
+    #first check if there are any holds over 10 minutes old
+
+    #get all holds
+
+    valid_holds = (
+    session.query(Hold, Hold.spot_id)
+    .filter(Hold.time_start <= datetime.now() - timedelta(minutes=10))
+    )
+
     get_closest = (
-    session.query(Spot, func.ST_Distance(Spot.location,WKTElement(f'POINT({location[0]} {location[1]})')),  ParkHistory.time_left)
+    session.query(Spot.spot_id, func.ST_Y(cast(Spot.location, Geometry)), func.ST_X(cast(Spot.location, Geometry)), func.ST_Distance(Spot.location,WKTElement(f'POINT({location[0]} {location[1]})')),  ParkHistory.time_left)
     .join(ParkHistory, Spot.spot_id == ParkHistory.spot_id)
     .filter(ParkHistory.time_left >= datetime.now() - timedelta(days=10))
+    .filter(~Spot.spot_id.in_(valid_holds))
     .order_by(Spot.location.cast(Geometry).distance_centroid(WKTElement(f'POINT({location[0]} {location[1]})', srid=4326))
     
     ).limit(10)
@@ -45,7 +47,21 @@ a spot must have been recently left and close to the user
     return get_closest
 
 
-    
-    
-#park_find(0, 0, [-59.1175, 100.6280])
+def create_hold(user_id: int, car_id: int, spot_id: int):
+    """
+obtain a temporary hold of  a free spot after a user selects it in the frontend
+    Parameters:
+    :user_id: user_id of indivual requesting a spot
+    :car_id: the car_id of the user_id current car
+    :spot_id: the spot_id of the spot the user wants to hold
 
+    """
+    session = create_session()
+    
+    new_hold = Hold(user_id = user_id, car_id = car_id, spot_id = spot_id)
+
+    session.add(new_hold)
+    session.commit()
+    session.end()
+
+#z = park_find(0, 0, [ -77.062089, 38.8938 ])
