@@ -319,9 +319,7 @@ const MapComponent = () => {
 
     return (
         <div className="map-container">
-                {/* Sidebar */}
                 <div className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
-                    {/* Sidebar content */}
                     <div className="menu">
                     <ul className="menu-list">
                         <li><button onClick={() => { window.location.href = "/AboutUs"; }}><FaInfoCircle /> About Us</button></li>
