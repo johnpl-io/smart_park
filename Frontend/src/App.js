@@ -3,6 +3,8 @@ import MapPage from './Map.js';
 import LoginPage from './Login.js';
 import CreateAccountPage from './MakeAccount.js';
 import ForgotPasswordPage from './ForgotPassword.js';
+import GaragePage from './Garage.js';
+import BrowseCarsPage from './BrowseCars.js';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
 import firebase from 'firebase/compat/app';
@@ -33,6 +35,8 @@ function App() {
             <Route path="/" element={<MapPage/>} />
             <Route path="/create-account" element={<CreateAccountPage/>} />
             <Route path="/ForgotPassword" element={<ForgotPasswordPage/>} />
+            <Route path="/Garage" element={<GaragePage/>} />
+            <Route path="/BrowseCars" element={<BrowseCarsPage/>} />
         </Routes>
       </Router>
       );

@@ -152,7 +152,7 @@ const MapComponent = () => {
         const fetchParkedStatus = async () => {
             const user_id = 1;
             const car_id = 1;
-            const url = `http:localhost:5000/check-parked?user_id=${user_id}&car_id=${car_id}`;
+            const url = `http://localhost:5000/check-parked?user_id=${user_id}&car_id=${car_id}`;
 
             const response = await fetch(url, {
                 method: "GET",
