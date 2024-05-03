@@ -2,17 +2,17 @@
 {
      "model_name": "2018 Cupra Ateca",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L TSI 7AT AWD (300 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1984 cm3",
+               "Displacement": 1984,
                "Power": "220.6 KW @ 5300-6500 RPM\n300 HP @ 5300-6500 RPM\n296 BHP @ 5300-6500 RPM",
                "Torque": "295 lb-ft @ 2000-5200 RPM\n400 Nm @ 2000-5200 RPM",
                "Fuel System": "Turbocharge Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "153 mph (246 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
+               "Top Speed": 153,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -26,37 +26,37 @@
                "Tire Size": "245/40 R19"
           },
           "DIMENSIONS": {
-               "Length": "172.3 in (4376 mm)",
-               "Width": "72.5 in (1842 mm)",
-               "Height": "63.4 in (1610 mm)",
+               "Length": 172.3,
+               "Width": 72.5,
+               "Height": 63.4,
                "Front/rear Track": "61.9/60.9 in (1,572/1,547 mm)",
-               "Wheelbase": "103.6 in (2631 mm)",
-               "Ground Clearance": "7.5 in (191 mm)",
-               "Cargo Volume": "17.1 cuFT (484 L)"
+               "Wheelbase": 103.6,
+               "Ground Clearance": 7.5,
+               "Cargo Volume": 17.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3560 lbs (1615 kg)",
-               "Gross Weight Limit": "4740 lbs (2150 kg)"
+               "Unladen Weight": 3560,
+               "Gross Weight Limit": 4740
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "26.4 mpg US (8.9 L/100Km)",
-               "Highway": "36.2 mpg US (6.5 L/100Km)",
-               "Combined": "31.8 mpg US (7.4 L/100Km)",
-               "CO2 Emissions": "168 g/km"
+               "City": 26.4,
+               "Highway": 36.2,
+               "Combined": 31.8,
+               "CO2 Emissions": 168
           }
      },
      "img": "images/2018 Cupra Ateca05-03-04-21-53.jpg"
 },{
      "model_name": "CUPRA Born 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS - 45KWH (148 HP)": {
+          "ENGINE SPECS": {
                "Total maximum power": "108.9 kw (148 hp)",
                "Total maximum torque": "228.6 lb-ft (310 Nm)",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 8.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -67,14 +67,14 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": "167.7 in (4260 mm)",
-               "Width": "71.3 in (1811 mm)",
-               "Height": "61 in (1549 mm)"
+               "Length": 167.7,
+               "Width": 71.3,
+               "Height": 61
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion",
-               "Nominal Capacity": "45 kWh",
-               "Range": "211.3 miles (340.1 km)"
+               "Nominal Capacity": 45,
+               "Range": 211.3
           },
           "": {}
      },
@@ -82,7 +82,7 @@
 },{
      "model_name": "2024 Cupra Tavascan",
      "technical_specs": {
-          "ENGINE SPECS - DUAL MOTOR AWD (340 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "210 kw (286 hp)",
                "Electrical motor torque": "402 lb-ft (545 Nm)",
                "Total maximum power": "250.1 kw (340 hp)",
@@ -90,7 +90,7 @@
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "5.6 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
@@ -100,15 +100,15 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": "182.8 in (4643 mm)",
-               "Width": "73.3 in (1862 mm)",
-               "Height": "62.9 in (1598 mm)",
-               "Wheelbase": "108.9 in (2766 mm)"
+               "Length": 182.8,
+               "Width": 73.3,
+               "Height": 62.9,
+               "Wheelbase": 108.9
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
                "Maximum Capacity": "77 kWh",
-               "Range": "321.2 miles (516.9 km)"
+               "Range": 321.2
           },
           "NOTES": {
                "Front motor power": "109 HP (80 KW)\nFront motor torque: 134 Nm"

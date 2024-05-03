@@ -6,7 +6,7 @@
 },{
      "model_name": "2019 Xpeng G3",
      "technical_specs": {
-          "ENGINE SPECS - 47.6 KWH FWD (197 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "144.9 kw (197 hp)",
                "Electrical motor torque": "221.3 lb-ft (300 Nm)",
                "Total maximum power": "144.9 kw (197 hp)",
@@ -15,7 +15,7 @@
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -29,30 +29,30 @@
                "Tire Size": "215/55 R17"
           },
           "DIMENSIONS": {
-               "Length": "175.2 in (4450 mm)",
-               "Width": "71.7 in (1821 mm)",
-               "Height": "63 in (1600 mm)",
+               "Length": 175.2,
+               "Width": 71.7,
+               "Height": 63,
                "Front/rear Track": "60.9/61.1 in (1,547/1,552 mm)",
-               "Wheelbase": "102.8 in (2611 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "13.4 cuFT (379 L)",
-               "Aerodynamics (Cd)": "0.3",
-               "Turning circle": "35.1 ft (10.7 m)"
+               "Wheelbase": 102.8,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 13.4,
+               "Aerodynamics (Cd)": 0.3,
+               "Turning circle": 35.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3494 lbs (1585 kg)"
+               "Unladen Weight": 3494
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
                "Maximum Capacity": "47.6 kWh",
-               "Range": "226.8 miles (365.0 km)"
+               "Range": 226.8
           }
      },
      "img": "images/2019 Xpeng G305-03-07-59-25.jpg"
 },{
      "model_name": "2021 Xpeng P5",
      "technical_specs": {
-          "ENGINE SPECS - 460 55.9 KWH FWD (211 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "155.2 kw (211 hp)",
                "Electrical motor torque": "228.6 lb-ft (310 Nm)",
                "Total maximum power": "155.2 kw (211 hp)",
@@ -62,7 +62,7 @@
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "106 mph (171 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -76,18 +76,18 @@
                "Tire Size": "215/55 R17"
           },
           "DIMENSIONS": {
-               "Length": "189.3 in (4808 mm)",
-               "Width": "72.4 in (1839 mm)",
-               "Height": "59.8 in (1519 mm)",
-               "Wheelbase": "109 in (2769 mm)",
-               "Cargo Volume": "15.9 cuFT (450 L)",
-               "Aerodynamics (Cd)": "0.223",
-               "Turning circle": "36.7 ft (11.2 m)"
+               "Length": 189.3,
+               "Width": 72.4,
+               "Height": 59.8,
+               "Wheelbase": 109,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.223,
+               "Turning circle": 36.7
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium iron phosphate",
                "Maximum Capacity": "55.9 kWh",
-               "Range": "285.8 miles (459.9 km)"
+               "Range": 285.8
           },
           "": {}
      },
@@ -95,7 +95,7 @@
 },{
      "model_name": "2024 XPeng G6",
      "technical_specs": {
-          "ENGINE SPECS - DUAL-MOTOR AWD (480 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "138.3 kw (188 hp)",
                "Total maximum power": "353 kw (480 hp)",
                "Fuel System": "Electric",
@@ -115,14 +115,14 @@
                "Tire Size": "235/60 R18"
           },
           "DIMENSIONS": {
-               "Length": "187.1 in (4752 mm)",
-               "Width": "75.6 in (1920 mm)",
-               "Height": "65 in (1651 mm)",
+               "Length": 187.1,
+               "Width": 75.6,
+               "Height": 65,
                "Front/rear Track": "64.4/65 in (1,636/1,651 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4619 lbs (2095 kg)",
-               "Gross Weight Limit": "3285 lbs (1490 kg)"
+               "Unladen Weight": 4619,
+               "Gross Weight Limit": 3285
           },
           "NOTES": {
                "Electric motor 2 power": "292 HP"
@@ -133,7 +133,7 @@
 },{
      "model_name": "2022 Xpeng G9",
      "technical_specs": {
-          "ENGINE SPECS - LONG RANGE 98 KWH RWD (313 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "230.2 kw (313 hp)",
                "Electrical motor torque": "317.2 lb-ft (430 Nm)",
                "Total maximum power": "230.2 kw (313 hp)",
@@ -143,7 +143,7 @@
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.4 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 6.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
@@ -156,17 +156,17 @@
                "Tire Size": "255/55 R19"
           },
           "DIMENSIONS": {
-               "Length": "192.6 in (4892 mm)",
-               "Width": "76.3 in (1938 mm)",
-               "Height": "66.1 in (1679 mm)",
-               "Wheelbase": "118 in (2997 mm)",
-               "Cargo Volume": "23.3 cuFT (660 L)",
-               "Turning circle": "38.7 ft (11.8 m)"
+               "Length": 192.6,
+               "Width": 76.3,
+               "Height": 66.1,
+               "Wheelbase": 118,
+               "Cargo Volume": 23.3,
+               "Turning circle": 38.7
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium nickel manganese cobalt oxides",
                "Maximum Capacity": "98 kWh",
-               "Range": "436.2 miles (702.0 km)"
+               "Range": 436.2
           },
           "": {}
      },
@@ -174,7 +174,7 @@
 },{
      "model_name": "2021 Xpeng P7",
      "technical_specs": {
-          "ENGINE SPECS - HIGH PERFORMANCE 80 KWH 4WD (430 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "119.9 kw (163 hp)",
                "Total maximum power": "316.3 kw (430 hp)",
                "Total maximum torque": "483.1 lb-ft (655 Nm)",
@@ -196,21 +196,21 @@
                "Tire Size": "245/45 R19"
           },
           "DIMENSIONS": {
-               "Length": "192.1 in (4879 mm)",
-               "Width": "74.6 in (1895 mm)",
-               "Height": "57.1 in (1450 mm)",
+               "Length": 192.1,
+               "Width": 74.6,
+               "Height": 57.1,
                "Front/rear Track": "63.6/63.8 in (1,615/1,621 mm)",
-               "Wheelbase": "118 in (2997 mm)",
-               "Cargo Volume": "15.5 cuFT (439 L)",
-               "Aerodynamics (Cd)": "0.236"
+               "Wheelbase": 118,
+               "Cargo Volume": 15.5,
+               "Aerodynamics (Cd)": 0.236
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4542 lbs (2060 kg)"
+               "Unladen Weight": 4542
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
                "Maximum Capacity": "80 kWh",
-               "Range": "349.2 miles (562.0 km)"
+               "Range": 349.2
           },
           "NOTES": {
                "Electric motor 2 power": "267 HP"

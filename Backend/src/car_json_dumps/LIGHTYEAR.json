@@ -2,7 +2,7 @@
 {
      "model_name": "2023 Lightyear 0",
      "technical_specs": {
-          "ENGINE SPECS - 60 KWH AWD (172 HP)": {
+          "ENGINE SPECS": {
                "Total maximum power": "126.5 kw (172 hp)",
                "Total maximum torque": "1268.6 lb-ft (1720 Nm)",
                "Fuel System": "Electric",
@@ -10,7 +10,7 @@
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "99 mph (159 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 10
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
@@ -20,19 +20,19 @@
                "Rear": "Ventilated discs"
           },
           "DIMENSIONS": {
-               "Length": "200.1 in (5083 mm)",
-               "Width": "77.6 in (1971 mm)",
-               "Height": "56.9 in (1445 mm)",
-               "Ground Clearance": "7.2 in (183 mm)",
-               "Cargo Volume": "22.6 cuFT (640 L)"
+               "Length": 200.1,
+               "Width": 77.6,
+               "Height": 56.9,
+               "Ground Clearance": 7.2,
+               "Cargo Volume": 22.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "1268 lbs (575 kg)"
+               "Unladen Weight": 1268
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Nominal Capacity": "60 kWh",
-               "Range": "388.4 miles (625.1 km)"
+               "Nominal Capacity": 60,
+               "Range": 388.4
           },
           "NOTES": {
                "Range": "\nPractical range: 1.000 km driving range between two charging moments\nBattery range: 625 km (WLTP) excl. 70 km max. solar range per day\nHighway range (at 110 km/h): 560 km, without additional solar range\n\nSolar charging:\nSolar yield up to 11,000 km/year\nDrive up to 7 months without plug-charging\nMax. solar charging speed (1.05 kW)-10 km/h\n\nPlug charging:\nCharging method Typically found at Max charging speed\n3.7 kW Home 32 km/h (20 mph)\n22 kW Work 200 km/h (124 mph)\n50 kW Public locations 520 km/h (323 mph)"

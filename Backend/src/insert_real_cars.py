@@ -31,20 +31,21 @@ def insert_real_cars():
                             height_str = dimensions.get("Height")
                             if height_str:
                                 try:
-                                    height = float(height_str.split(" ")[0])
+                                    height = float(height_str)
                                 except ValueError:
                                     height = None
 
                             width_str = dimensions.get("Width")
+                            
                             if width_str:
                                 try:
-                                    width = float(width_str.split(" ")[0])
+                                    width = float(width_str)
                                 except ValueError:
                                     width = None  # Set to None if conversion fails
                             length_str = dimensions.get("Length")
                             if length_str:
                                 try:
-                                    len = float(length_str.split(" ")[0])
+                                    len = float(length_str)
                                 except ValueError:
                                     len = None  # Set to None if conversion fails
                    #check if img is empty dict

@@ -2,7 +2,7 @@
 {
      "model_name": "2025 Infiniti QX80",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 TWIN-TURBO 9AT AWD (450 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
                "Power": "331 KW @ - RPM\n450 HP @ - RPM\n444 BHP @ - RPM",
                "Torque": "516 lb-ft @ - RPM\n700 Nm @ - RPM",
@@ -22,7 +22,7 @@
 },{
      "model_name": "2022 Infiniti QX80",
      "technical_specs": {
-          "ENGINE SPECS - 5.6L V8 7AT AWD (400 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
                "Power": "294.2 KW @ - RPM\n400 HP @ - RPM\n395 BHP @ - RPM",
                "Torque": "413 lb-ft @ - RPM\n560 Nm @ - RPM",
@@ -42,14 +42,14 @@
 },{
      "model_name": "INFINITI QX80 2018-2021",
      "technical_specs": {
-          "ENGINE SPECS - 5.6L V8 7AT (400 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5552 cm3",
+               "Displacement": 5552,
                "Power": "298.3 KW @ - RPM\n406 HP @ - RPM\n400 BHP @ - RPM",
                "Torque": "413 lb-ft @ - RPM\n560 Nm @ - RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.9 gallons (98.0 L)"
+               "Fuel capacity": 25.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -63,22 +63,22 @@
                "Tire Size": "275/60/R20"
           },
           "DIMENSIONS": {
-               "Length": "208 in (5283 mm)",
-               "Width": "79.9 in (2029 mm)",
-               "Height": "75.8 in (1925 mm)",
+               "Length": 208,
+               "Width": 79.9,
+               "Height": 75.8,
                "Front/rear Track": "67.5/67.9 in (1,715/1,725 mm)",
-               "Wheelbase": "121.1 in (3076 mm)",
-               "Ground Clearance": "9.2 in (234 mm)",
-               "Cargo Volume": "166.6 cuFT (4718 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 121.1,
+               "Ground Clearance": 9.2,
+               "Cargo Volume": 166.6,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": "5644 lbs (2560 kg)"
+               "Gross Weight Limit": 5644
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14 mpg US (16.8 L/100Km)",
-               "Highway": "19.9 mpg US (11.8 L/100Km)",
-               "Combined": "16 mpg US (14.7 L/100Km)"
+               "City": 14,
+               "Highway": 19.9,
+               "Combined": 16
           },
           "": {}
      },
@@ -86,9 +86,9 @@
 },{
      "model_name": "2015 Infiniti QX80",
      "technical_specs": {
-          "ENGINE SPECS - 5.6L V8 7AT AWD (400 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5552 cm3",
+               "Displacement": 5552,
                "Power": "298 KW @ 5800 RPM\n405 HP @ 5800 RPM\n400 BHP @ 5800 RPM",
                "Torque": "413 lb-ft @ 4000 RPM\n560 Nm @ 4000 RPM",
                "Fuel System": "Direct injection",
@@ -106,22 +106,22 @@
                "Tire Size": "275/50 R22"
           },
           "DIMENSIONS": {
-               "Length": "208.3 in (5291 mm)",
-               "Width": "79.9 in (2029 mm)",
-               "Height": "75.8 in (1925 mm)",
+               "Length": 208.3,
+               "Width": 79.9,
+               "Height": 75.8,
                "Front/rear Track": "67.5/67.9 in (1,715/1,725 mm)",
-               "Wheelbase": "121.1 in (3076 mm)",
-               "Ground Clearance": "9.2 in (234 mm)",
-               "Cargo Volume": "49.6 cuFT (1405 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 121.1,
+               "Ground Clearance": 9.2,
+               "Cargo Volume": 49.6,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": "5888 lbs (2671 kg)"
+               "Gross Weight Limit": 5888
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13 mpg US (18.1 L/100Km)",
-               "Highway": "19 mpg US (12.4 L/100Km)",
-               "Combined": "15 mpg US (15.7 L/100Km)"
+               "City": 13,
+               "Highway": 19,
+               "Combined": 15
           },
           "": {}
      },
@@ -129,9 +129,9 @@
 },{
      "model_name": "INFINITI QX60 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 9AT (295 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3498 cm3",
+               "Displacement": 3498,
                "Power": "217 KW @ 6400 RPM\n295 HP @ 6400 RPM\n291 BHP @ 6400 RPM",
                "Torque": "270 lb-ft @ 4800 RPM\n366 Nm @ 4800 RPM",
                "Fuel System": "Direct injection Naturally aspirated",
@@ -146,14 +146,14 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": "198.2 in (5034 mm)",
-               "Width": "86 in (2184 mm)",
-               "Height": "69.7 in (1770 mm)",
+               "Length": 198.2,
+               "Width": 86,
+               "Height": 69.7,
                "Front/rear Track": "66.9/66.9 in (1,699/1,699 mm)",
-               "Wheelbase": "114.2 in (2901 mm)",
-               "Ground Clearance": "6.7 in (170 mm)",
-               "Cargo Volume": "14.5 cuFT (411 L)",
-               "Aerodynamics (Cd)": "0.32",
+               "Wheelbase": 114.2,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 14.5,
+               "Aerodynamics (Cd)": 0.32,
                "Turning circle (curb to curb)": "38.1 ft (11.6 m)"
           },
           "": {}
@@ -162,18 +162,18 @@
 },{
      "model_name": "INFINITI QX60 2016-2021",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 CVT AWD (265 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3498 cm3",
+               "Displacement": 3498,
                "Power": "194.9 KW @ 6400 RPM\n265 HP @ 6400 RPM\n261 BHP @ 6400 RPM",
                "Torque": "248 lb-ft @ 4400 RPM\n336 Nm @ 4400 RPM",
                "Fuel System": "Sequential multi-point fuel injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.1 gallons (76.1 L)"
+               "Fuel capacity": 20.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "120 mph (193 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
+               "Top Speed": 120,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -187,23 +187,23 @@
                "Tire Size": "235/65R18"
           },
           "DIMENSIONS": {
-               "Length": "196.4 in (4989 mm)",
-               "Width": "77.2 in (1961 mm)",
-               "Height": "68.6 in (1742 mm)",
+               "Length": 196.4,
+               "Width": 77.2,
+               "Height": 68.6,
                "Front/rear Track": "65.7/65.7 in (1,669/1,669 mm)",
-               "Wheelbase": "114.2 in (2901 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Cargo Volume": "15.8 cuFT (447 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 114.2,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 15.8,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4515 lbs (2048 kg)",
-               "Gross Weight Limit": "5985 lbs (2715 kg)"
+               "Unladen Weight": 4515,
+               "Gross Weight Limit": 5985
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19 mpg US (12.4 L/100Km)",
-               "Highway": "26.1 mpg US (9 L/100Km)",
-               "Combined": "22 mpg US (10.7 L/100Km)"
+               "City": 19,
+               "Highway": 26.1,
+               "Combined": 22
           },
           "": {}
      },
@@ -211,18 +211,18 @@
 },{
      "model_name": "INFINITI QX60 2013-2016",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 CVT AWD (268 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3498 cm3",
+               "Displacement": 3498,
                "Power": "197 KW @ 6400 RPM\n268 HP @ 6400 RPM\n264 BHP @ 6400 RPM",
                "Torque": "248 lb-ft @ 4400 RPM\n336 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19.5 gallons (73.8 L)"
+               "Fuel capacity": 19.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "118 mph (190 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8 s"
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -236,22 +236,22 @@
                "Tire Size": "235/65 R18"
           },
           "DIMENSIONS": {
-               "Length": "196.4 in (4989 mm)",
-               "Width": "77.2 in (1961 mm)",
-               "Height": "68.6 in (1742 mm)",
+               "Length": 196.4,
+               "Width": 77.2,
+               "Height": 68.6,
                "Front/rear Track": "68.9/65.7 in (1,750/1,669 mm)",
-               "Wheelbase": "114.2 in (2901 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Cargo Volume": "15.8 cuFT (447 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 114.2,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 15.8,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4462 lbs (2024 kg)"
+               "Unladen Weight": 4462
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)",
-               "Combined": "21 mpg US (11.2 L/100Km)"
+               "City": 18,
+               "Highway": 24,
+               "Combined": 21
           },
           "": {}
      },
@@ -259,14 +259,14 @@
 },{
      "model_name": "INFINITI QX50 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L CVT (268 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1997 cm3",
+               "Displacement": 1997,
                "Power": "197.1 KW @ 5600-6000 RPM\n268 HP @ 5600-6000 RPM\n264 BHP @ 5600-6000 RPM",
                "Torque": "207 lb-ft @ 1600-4800 RPM\n280 Nm @ 1600-4800 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "16 gallons (60.6 L)"
+               "Fuel capacity": 16
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -277,24 +277,24 @@
                "Rear": "Solid Discs"
           },
           "DIMENSIONS": {
-               "Length": "184.7 in (4691 mm)",
-               "Width": "74.9 in (1902 mm)",
-               "Height": "66 in (1676 mm)",
+               "Length": 184.7,
+               "Width": 74.9,
+               "Height": 66,
                "Front/rear Track": "64.4x64.2 in (1636 mm)",
-               "Wheelbase": "110.2 in (2799 mm)",
-               "Ground Clearance": "8.6 in (218 mm)",
-               "Cargo Volume": "31.4 cuFT (889 L)",
-               "Aerodynamics (Cd)": "0.32",
+               "Wheelbase": 110.2,
+               "Ground Clearance": 8.6,
+               "Cargo Volume": 31.4,
+               "Aerodynamics (Cd)": 0.32,
                "Turning circle (curb to curb)": "36.4 ft (11.1 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3838 lbs (1741 kg)",
-               "Gross Weight Limit": "4916 lbs (2230 kg)"
+               "Unladen Weight": 3838,
+               "Gross Weight Limit": 4916
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.1 mpg US (10.2 L/100Km)",
-               "Highway": "29 mpg US (8.1 L/100Km)",
-               "Combined": "26 mpg US (9 L/100Km)"
+               "City": 23.1,
+               "Highway": 29,
+               "Combined": 26
           },
           "": {}
      },
@@ -302,18 +302,18 @@
 },{
      "model_name": "INFINITI QX50 2018-2020",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L CVT (268 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1999 cm3",
+               "Displacement": 1999,
                "Power": "197.1 KW @ 5600 RPM\n268 HP @ 5600 RPM\n264 BHP @ 5600 RPM",
                "Torque": "280 lb-ft @ 1600 RPM\n380 Nm @ 1600 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "143 mph (230 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -327,23 +327,23 @@
                "Tire Size": "P235/55VR19"
           },
           "DIMENSIONS": {
-               "Length": "184.7 in (4691 mm)",
-               "Width": "74.9 in (1902 mm)",
-               "Height": "66 in (1676 mm)",
+               "Length": 184.7,
+               "Width": 74.9,
+               "Height": 66,
                "Front/rear Track": "64.4/64.2 in (1,636/1,631 mm)",
-               "Wheelbase": "110.2 in (2799 mm)",
-               "Ground Clearance": "8.6 in (218 mm)",
-               "Cargo Volume": "31.4 cuFT (889 L)",
+               "Wheelbase": 110.2,
+               "Ground Clearance": 8.6,
+               "Cargo Volume": 31.4,
                "Turning circle (curb to curb)": "36.7 ft (11.2 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3827 lbs (1736 kg)",
-               "Gross Weight Limit": "4916 lbs (2230 kg)"
+               "Unladen Weight": 3827,
+               "Gross Weight Limit": 4916
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "24 mpg US (9.8 L/100Km)",
-               "Highway": "31 mpg US (7.6 L/100Km)",
-               "Combined": "27 mpg US (8.7 L/100Km)"
+               "City": 24,
+               "Highway": 31,
+               "Combined": 27
           },
           "": {}
      },
@@ -351,18 +351,18 @@
 },{
      "model_name": "INFINITI QX50 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 7AT (325 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "242.4 KW @ 7000 RPM\n330 HP @ 7000 RPM\n325 BHP @ 7000 RPM",
                "Torque": "267 lb-ft @ 5200 RPM\n362 Nm @ 5200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "21.1 gallons (79.9 L)"
+               "Fuel capacity": 21.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "140 mph (225 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -376,20 +376,20 @@
                "Tire Size": "225/55R18"
           },
           "DIMENSIONS": {
-               "Length": "186.8 in (4745 mm)",
-               "Width": "71 in (1803 mm)",
-               "Height": "62.7 in (1593 mm)",
+               "Length": 186.8,
+               "Width": 71,
+               "Height": 62.7,
                "Front/rear Track": "60.4/61 in (1,534/1,549 mm)",
-               "Wheelbase": "113 in (2870 mm)",
-               "Cargo Volume": "18.6 cuFT (527 L)",
-               "Aerodynamics (Cd)": "0.33"
+               "Wheelbase": 113,
+               "Cargo Volume": 18.6,
+               "Aerodynamics (Cd)": 0.33
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3855 lbs (1749 kg)"
+               "Unladen Weight": 3855
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)"
+               "City": 17,
+               "Highway": 24
           },
           "": {}
      },
@@ -397,18 +397,18 @@
 },{
      "model_name": "INFINITI QX50 2013-2016",
      "technical_specs": {
-          "ENGINE SPECS - 2.5L V6 7AT AWD (222 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2496 cm3",
+               "Displacement": 2496,
                "Power": "163.3 KW @ 6400 RPM\n222 HP @ 6400 RPM\n219 BHP @ 6400 RPM",
                "Torque": "186 lb-ft @ 4800 RPM\n252 Nm @ 4800 RPM",
                "Fuel System": "Mutlipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "21.1 gallons (79.9 L)"
+               "Fuel capacity": 21.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.4 s"
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -422,24 +422,24 @@
                "Tire Size": "225/55 R18"
           },
           "DIMENSIONS": {
-               "Length": "182.3 in (4630 mm)",
-               "Width": "71 in (1803 mm)",
-               "Height": "61.9 in (1572 mm)",
+               "Length": 182.3,
+               "Width": 71,
+               "Height": 61.9,
                "Front/rear Track": "62.7/64.6 in (1,593/1,641 mm)",
-               "Wheelbase": "110.2 in (2799 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Cargo Volume": "18.6 cuFT (527 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 110.2,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 18.6,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4061 lbs (1842 kg)",
-               "Gross Weight Limit": "5009 lbs (2272 kg)"
+               "Unladen Weight": 4061,
+               "Gross Weight Limit": 5009
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16.4 mpg US (14.3 L/100Km)",
-               "Highway": "28 mpg US (8.4 L/100Km)",
-               "Combined": "22.2 mpg US (10.6 L/100Km)",
-               "CO2 Emissions": "265 g/km"
+               "City": 16.4,
+               "Highway": 28,
+               "Combined": 22.2,
+               "CO2 Emissions": 265
           },
           "": {}
      },
@@ -447,9 +447,9 @@
 },{
      "model_name": "INFINITI Q70 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 7AT (330 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "242.7 KW @ 7000 RPM\n330 HP @ 7000 RPM\n325 BHP @ 7000 RPM",
                "Torque": "270 lb-ft @ 5200 RPM\n366 Nm @ 5200 RPM",
                "Fuel System": "Sequential multi-port fuel injection",
@@ -460,23 +460,23 @@
                "Gearbox": "7-speed automatic"
           },
           "DIMENSIONS": {
-               "Length": "196.1 in (4981 mm)",
-               "Width": "72.6 in (1844 mm)",
-               "Height": "59.1 in (1501 mm)",
+               "Length": 196.1,
+               "Width": 72.6,
+               "Height": 59.1,
                "Front/rear Track": "62/61.8 in (1,575/1,570 mm)",
-               "Wheelbase": "114.2 in (2901 mm)",
-               "Ground Clearance": "6 in (152 mm)",
-               "Cargo Volume": "14.9 cuFT (422 L)",
-               "Aerodynamics (Cd)": "0.27"
+               "Wheelbase": 114.2,
+               "Ground Clearance": 6,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.27
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3876 lbs (1758 kg)",
-               "Gross Weight Limit": "5006 lbs (2271 kg)"
+               "Unladen Weight": 3876,
+               "Gross Weight Limit": 5006
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)",
-               "Combined": "21 mpg US (11.2 L/100Km)"
+               "City": 18,
+               "Highway": 25,
+               "Combined": 21
           },
           "": {}
      },
@@ -484,14 +484,14 @@
 },{
      "model_name": "INFINITI Q70 2013-2018",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 7AT AWD (334 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "245 KW @ 7000 RPM\n333 HP @ 7000 RPM\n329 BHP @ 7000 RPM",
                "Torque": "270 lb-ft @ 5200 RPM\n366 Nm @ 5200 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19.5 gallons (73.8 L)"
+               "Fuel capacity": 19.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -505,20 +505,20 @@
                "Tire Size": "245/50 R18"
           },
           "DIMENSIONS": {
-               "Length": "194.7 in (4945 mm)",
-               "Width": "72.6 in (1844 mm)",
-               "Height": "59.1 in (1501 mm)",
+               "Length": 194.7,
+               "Width": 72.6,
+               "Height": 59.1,
                "Front/rear Track": "0/61.8 in (0 mm)",
-               "Wheelbase": "114.2 in (2901 mm)",
-               "Cargo Volume": "14.9 cuFT (422 L)",
-               "Aerodynamics (Cd)": "0.27"
+               "Wheelbase": 114.2,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.27
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4030 lbs (1828 kg)"
+               "Unladen Weight": 4030
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)"
+               "City": 17,
+               "Highway": 24
           },
           "": {}
      },
@@ -526,14 +526,14 @@
 },{
      "model_name": "INFINITI Q50 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 7AT (208 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1991 cm3",
+               "Displacement": 1991,
                "Power": "153 KW @ 5500 RPM\n208 HP @ 5500 RPM\n205 BHP @ 5500 RPM",
                "Torque": "258 lb-ft @ 1500-3500 RPM\n350 Nm @ 1500-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19.5 gallons (73.8 L)"
+               "Fuel capacity": 19.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -547,22 +547,22 @@
                "Tire Size": "225/50R18"
           },
           "DIMENSIONS": {
-               "Length": "189.6 in (4816 mm)",
-               "Width": "71.8 in (1824 mm)",
-               "Height": "57.2 in (1453 mm)",
+               "Length": 189.6,
+               "Width": 71.8,
+               "Height": 57.2,
                "Front/rear Track": "60.8/61.6 in (1,544/1,565 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.2 in (132 mm)",
-               "Aerodynamics (Cd)": "0.26"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.2,
+               "Aerodynamics (Cd)": 0.26
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3671 lbs (1665 kg)",
-               "Gross Weight Limit": "4780 lbs (2168 kg)"
+               "Unladen Weight": 3671,
+               "Gross Weight Limit": 4780
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.1 mpg US (10.2 L/100Km)",
-               "Highway": "30.2 mpg US (7.8 L/100Km)",
-               "Combined": "25 mpg US (9.4 L/100Km)"
+               "City": 23.1,
+               "Highway": 30.2,
+               "Combined": 25
           },
           "": {}
      },
@@ -570,14 +570,14 @@
 },{
      "model_name": "INFINITI Q50 2016-2018",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 7AT (208 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1991 cm3",
+               "Displacement": 1991,
                "Power": "155.1 KW @ 5500 RPM\n211 HP @ 5500 RPM\n208 BHP @ 5500 RPM",
                "Torque": "258 lb-ft @ 1500-3500 RPM\n350 Nm @ 1500-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "21.1 gallons (79.9 L)"
+               "Fuel capacity": 21.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -591,22 +591,22 @@
                "Tire Size": "225/55 R17"
           },
           "DIMENSIONS": {
-               "Length": "189.1 in (4803 mm)",
-               "Width": "71.8 in (1824 mm)",
-               "Height": "56.8 in (1443 mm)",
+               "Length": 189.1,
+               "Width": 71.8,
+               "Height": 56.8,
                "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "13.2 cuFT (374 L)",
-               "Aerodynamics (Cd)": "0.26"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 13.2,
+               "Aerodynamics (Cd)": 0.26
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3666 lbs (1663 kg)"
+               "Unladen Weight": 3666
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23 mpg US (10.2 L/100Km)",
-               "Highway": "31 mpg US (7.6 L/100Km)",
-               "Combined": "26 mpg US (9 L/100Km)"
+               "City": 23,
+               "Highway": 31,
+               "Combined": 26
           },
           "NOTES": {
                "Electrical": "Electronic (direct) ignition system\n150 amp alternator\n1.7 kW starter\nQ85-MF battery, 75 Ah"
@@ -617,18 +617,18 @@
 },{
      "model_name": "INFINITI Q50 2013-2016",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L T 7AT RWD (211 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1991 cm3",
+               "Displacement": 1991,
                "Power": "155.2 KW @ 5500 RPM\n211 HP @ 5500 RPM\n208 BHP @ 5500 RPM",
                "Torque": "258 lb-ft @ 1250 RPM\n350 Nm @ 1250 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.1 gallons (76.1 L)"
+               "Fuel capacity": 20.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "143 mph (230 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -642,24 +642,24 @@
                "Tire Size": "225/55R17"
           },
           "DIMENSIONS": {
-               "Length": "188.3 in (4783 mm)",
-               "Width": "71.8 in (1824 mm)",
-               "Height": "56.8 in (1443 mm)",
+               "Length": 188.3,
+               "Width": 71.8,
+               "Height": 56.8,
                "Front/rear Track": "59.8/60.2 in (1,519/1,529 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "14.1 cuFT (399 L)",
-               "Aerodynamics (Cd)": "0.26"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.1,
+               "Aerodynamics (Cd)": 0.26
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3329 lbs (1510 kg)",
-               "Gross Weight Limit": "4773 lbs (2165 kg)"
+               "Unladen Weight": 3329,
+               "Gross Weight Limit": 4773
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "39.2 mpg US (6 L/100Km)",
-               "Highway": "57.4 mpg US (4.1 L/100Km)",
-               "Combined": "49 mpg US (4.8 L/100Km)",
-               "CO2 Emissions": "124 g/km"
+               "City": 39.2,
+               "Highway": 57.4,
+               "Combined": 49,
+               "CO2 Emissions": 124
           },
           "": {}
      },
@@ -667,14 +667,14 @@
 },{
      "model_name": "INFINITI Q60 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 7AT (208 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1991 cm3",
+               "Displacement": 1991,
                "Power": "153 KW @ 5500 RPM\n208 HP @ 5500 RPM\n205 BHP @ 5500 RPM",
                "Torque": "258 lb-ft @ 1500-3500 RPM\n350 Nm @ 1500-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.1 gallons (76.1 L)"
+               "Fuel capacity": 20.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -688,23 +688,23 @@
                "Tire Size": "255/40 R19"
           },
           "DIMENSIONS": {
-               "Length": "184.4 in (4684 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "54.9 in (1394 mm)",
+               "Length": 184.4,
+               "Width": 72.8,
+               "Height": 54.9,
                "Front/rear Track": "61.2/62.2 in (1,554/1,580 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Cargo Volume": "8.7 cuFT (246 L)",
-               "Aerodynamics (Cd)": "0.28"
+               "Wheelbase": 112.2,
+               "Cargo Volume": 8.7,
+               "Aerodynamics (Cd)": 0.28
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3727 lbs (1691 kg)",
-               "Gross Weight Limit": "4718 lbs (2140 kg)"
+               "Unladen Weight": 3727,
+               "Gross Weight Limit": 4718
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22 mpg US (10.7 L/100Km)",
-               "Highway": "30.2 mpg US (7.8 L/100Km)",
-               "Combined": "25 mpg US (9.4 L/100Km)",
-               "CO2 Emissions": "21-28 g/km"
+               "City": 22,
+               "Highway": 30.2,
+               "Combined": 25,
+               "CO2 Emissions": 21
           },
           "": {}
      },
@@ -712,14 +712,14 @@
 },{
      "model_name": "INFINITI Q60 2016-2018",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 7AT (208 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1991 cm3",
+               "Displacement": 1991,
                "Power": "155.1 KW @ 5500 RPM\n211 HP @ 5500 RPM\n208 BHP @ 5500 RPM",
                "Torque": "258 lb-ft @ 1500-3500 RPM\n350 Nm @ 1500-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.1 gallons (76.1 L)"
+               "Fuel capacity": 20.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -730,18 +730,18 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "184.4 in (4684 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "54.9 in (1394 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Aerodynamics (Cd)": "0.28"
+               "Length": 184.4,
+               "Width": 72.8,
+               "Height": 54.9,
+               "Wheelbase": 112.2,
+               "Aerodynamics (Cd)": 0.28
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3727 lbs (1691 kg)"
+               "Unladen Weight": 3727
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22 mpg US (10.7 L/100Km)",
-               "Highway": "30 mpg US (7.8 L/100Km)"
+               "City": 22,
+               "Highway": 30
           },
           "": {}
      },
@@ -749,18 +749,18 @@
 },{
      "model_name": "INFINITI Q60 2014-2016",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 VVEL 6MT RWD (334 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "245 KW @ 7000 RPM\n333 HP @ 7000 RPM\n329 BHP @ 7000 RPM",
                "Torque": "270 lb-ft @ 5200 RPM\n366 Nm @ 5200 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "21.1 gallons (79.9 L)"
+               "Fuel capacity": 21.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -774,22 +774,22 @@
                "Tire Size": "225/45 R19"
           },
           "DIMENSIONS": {
-               "Length": "183.1 in (4651 mm)",
-               "Width": "71.8 in (1824 mm)",
-               "Height": "54.8 in (1392 mm)",
+               "Length": 183.1,
+               "Width": 71.8,
+               "Height": 54.8,
                "Front/rear Track": "60.8/61.4 in (1,544/1,560 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "7.4 cuFT (210 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 7.4,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3708 lbs (1682 kg)",
-               "Gross Weight Limit": "4718 lbs (2140 kg)"
+               "Unladen Weight": 3708,
+               "Gross Weight Limit": 4718
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)"
+               "City": 17,
+               "Highway": 25
           },
           "": {}
      },
@@ -797,17 +797,17 @@
 },{
      "model_name": "INFINITI Q60 IPL 2013-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 VVEL 6MT RWD (352 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "259 KW @ 7400 RPM\n352 HP @ 7400 RPM\n347 BHP @ 7400 RPM",
                "Torque": "276 lb-ft @ 5200 RPM\n374 Nm @ 5200 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -821,21 +821,21 @@
                "Tire Size": "225/45 R19"
           },
           "DIMENSIONS": {
-               "Length": "183.1 in (4651 mm)",
-               "Width": "71.8 in (1824 mm)",
-               "Height": "54.8 in (1392 mm)",
+               "Length": 183.1,
+               "Width": 71.8,
+               "Height": 54.8,
                "Front/rear Track": "60.8/61.4 in (1,544/1,560 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "7.4 cuFT (210 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 7.4,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3727 lbs (1691 kg)"
+               "Unladen Weight": 3727
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)"
+               "City": 17,
+               "Highway": 25
           },
           "": {}
      },
@@ -843,9 +843,9 @@
 },{
      "model_name": "INFINITI QX30 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 7AT (208 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1991 cm3",
+               "Displacement": 1991,
                "Power": "153 KW @ 5500 RPM\n208 HP @ 5500 RPM\n205 BHP @ 5500 RPM",
                "Torque": "258 lb-ft @ 4000 RPM\n350 Nm @ 4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
@@ -863,18 +863,18 @@
                "Tire Size": "235/50R18"
           },
           "DIMENSIONS": {
-               "Length": "174.2 in (4425 mm)",
-               "Width": "71.1 in (1806 mm)",
-               "Height": "58.9 in (1496 mm)",
+               "Length": 174.2,
+               "Width": 71.1,
+               "Height": 58.9,
                "Front/rear Track": "61.9/61.9 in (1,572/1,572 mm)",
-               "Wheelbase": "106.3 in (2700 mm)",
-               "Ground Clearance": "8.3 in (211 mm)",
-               "Cargo Volume": "13 cuFT (368 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 106.3,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 13,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3280 lbs (1488 kg)",
-               "Gross Weight Limit": "4277 lbs (1940 kg)"
+               "Unladen Weight": 3280,
+               "Gross Weight Limit": 4277
           },
           "": {}
      },
@@ -882,18 +882,18 @@
 },{
      "model_name": "INFINITI Q30 2015-2017",
      "technical_specs": {
-          "ENGINE SPECS - 1.6 T 6MT (122 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1595 cm3",
+               "Displacement": 1595,
                "Power": "89.7 KW @ 5000 RPM\n122 HP @ 5000 RPM\n120 BHP @ 5000 RPM",
                "Torque": "148 lb-ft @ 1250-4000 RPM\n200 Nm @ 1250-4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.2 gallons (50.0 L)"
+               "Fuel capacity": 13.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.4 s"
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -907,22 +907,22 @@
                "Tire Size": "215/60 R17"
           },
           "DIMENSIONS": {
-               "Length": "174.2 in (4425 mm)",
-               "Width": "71.1 in (1806 mm)",
-               "Height": "58.9 in (1496 mm)",
+               "Length": 174.2,
+               "Width": 71.1,
+               "Height": 58.9,
                "Front/rear Track": "61.9/61.9 in (1,572/1,572 mm)",
-               "Wheelbase": "106.3 in (2700 mm)",
-               "Ground Clearance": "8.3 in (211 mm)",
-               "Cargo Volume": "13 cuFT (368 L)"
+               "Wheelbase": 106.3,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 13
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3102 lbs (1407 kg)"
+               "Unladen Weight": 3102
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "30.2 mpg US (7.8 L/100Km)",
-               "Highway": "51.1 mpg US (4.6 L/100Km)",
-               "Combined": "41.3 mpg US (5.7 L/100Km)",
-               "CO2 Emissions": "133 g/km"
+               "City": 30.2,
+               "Highway": 51.1,
+               "Combined": 41.3,
+               "CO2 Emissions": 133
           },
           "": {}
      },
@@ -930,9 +930,9 @@
 },{
      "model_name": "INFINITI QX70 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 7AT (325 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "239 KW @ 7000 RPM\n325 HP @ 7000 RPM\n321 BHP @ 7000 RPM",
                "Torque": "267 lb-ft @ 5200 RPM\n362 Nm @ 5200 RPM",
                "Fuel System": "Turbocharged Direct Injection",
@@ -947,23 +947,23 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": "191.3 in (4859 mm)",
-               "Width": "75.9 in (1928 mm)",
-               "Height": "65 in (1651 mm)",
+               "Length": 191.3,
+               "Width": 75.9,
+               "Height": 65,
                "Front/rear Track": "64.4/64.6 in (1,636/1,641 mm)",
-               "Wheelbase": "113.6 in (2885 mm)",
-               "Ground Clearance": "7.36 in (187 mm)",
-               "Cargo Volume": "24.8 cuFT (702 L)",
-               "Aerodynamics (Cd)": "0.35"
+               "Wheelbase": 113.6,
+               "Ground Clearance": 7.36,
+               "Cargo Volume": 24.8,
+               "Aerodynamics (Cd)": 0.35
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4209 lbs (1909 kg)",
-               "Gross Weight Limit": "5301 lbs (2404 kg)"
+               "Unladen Weight": 4209,
+               "Gross Weight Limit": 5301
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)"
+               "City": 17,
+               "Highway": 24,
+               "Combined": 19
           },
           "": {}
      },
@@ -971,9 +971,9 @@
 },{
      "model_name": "INFINITI QX70 2013-2017",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 7AT AWD (329 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "242 KW @ 7000 RPM\n328 HP @ 7000 RPM\n325 BHP @ 7000 RPM",
                "Torque": "267 lb-ft @ 5200 RPM\n362 Nm @ 5200 RPM",
                "Fuel System": "Direct injection",
@@ -991,22 +991,22 @@
                "Tire Size": "265/60 R18"
           },
           "DIMENSIONS": {
-               "Length": "191.3 in (4859 mm)",
-               "Width": "75.9 in (1928 mm)",
-               "Height": "66.1 in (1679 mm)",
+               "Length": 191.3,
+               "Width": 75.9,
+               "Height": 66.1,
                "Front/rear Track": "64.4/64.4 in (1,636/1,636 mm)",
-               "Wheelbase": "113.6 in (2885 mm)",
-               "Ground Clearance": "7.36 in (187 mm)",
-               "Cargo Volume": "24.8 cuFT (702 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 113.6,
+               "Ground Clearance": 7.36,
+               "Cargo Volume": 24.8,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4321 lbs (1960 kg)",
-               "Gross Weight Limit": "5519 lbs (2503 kg)"
+               "Unladen Weight": 4321,
+               "Gross Weight Limit": 5519
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)"
+               "City": 16,
+               "Highway": 22
           },
           "": {}
      },
@@ -1014,7 +1014,7 @@
 },{
      "model_name": "INFINITI QX55 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L CVT (268 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "197.1 KW @ 5600 RPM\n268 HP @ 5600 RPM\n264 BHP @ 5600 RPM",
                "Torque": "280 lb-ft @ 4400 RPM\n380 Nm @ 4400 RPM",
@@ -1034,14 +1034,14 @@
 },{
      "model_name": "INFINITI EX37 2013-2014",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 7AT (325 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "239 KW @ 7000 RPM\n325 HP @ 7000 RPM\n321 BHP @ 7000 RPM",
                "Torque": "267 lb-ft @ 5200 RPM\n362 Nm @ 5200 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "21.1 gallons (79.9 L)"
+               "Fuel capacity": 21.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1055,22 +1055,22 @@
                "Tire Size": "225/55R18"
           },
           "DIMENSIONS": {
-               "Length": "182.2 in (4628 mm)",
-               "Width": "71 in (1803 mm)",
-               "Height": "62.6 in (1590 mm)",
+               "Length": 182.2,
+               "Width": 71,
+               "Height": 62.6,
                "Front/rear Track": "62.7/64.6 in (1,593/1,641 mm)",
-               "Wheelbase": "110.2 in (2799 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Cargo Volume": "18.6 cuFT (527 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 110.2,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 18.6,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3790 lbs (1719 kg)",
-               "Gross Weight Limit": "4860 lbs (2204 kg)"
+               "Unladen Weight": 3790,
+               "Gross Weight Limit": 4860
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)"
+               "City": 17,
+               "Highway": 25
           },
           "": {}
      },
@@ -1078,14 +1078,14 @@
 },{
      "model_name": "INFINITI EX 2007-2013",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 5AT RWD (297 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3498 cm3",
+               "Displacement": 3498,
                "Power": "221 KW @ 6800 RPM\n300 HP @ 6800 RPM\n296 BHP @ 6800 RPM",
                "Torque": "187 lb-ft @ 4800 RPM\n254 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "21.1 gallons (79.9 L)"
+               "Fuel capacity": 21.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1099,21 +1099,21 @@
                "Tire Size": "P225/60R17"
           },
           "DIMENSIONS": {
-               "Length": "182.3 in (4630 mm)",
-               "Width": "71 in (1803 mm)",
-               "Height": "61.9 in (1572 mm)",
+               "Length": 182.3,
+               "Width": 71,
+               "Height": 61.9,
                "Front/rear Track": "62.7/64.6 in (1,593/1,641 mm)",
-               "Wheelbase": "110.2 in (2799 mm)",
-               "Ground Clearance": "6 in (152 mm)",
-               "Cargo Volume": "18.6 cuFT (527 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 110.2,
+               "Ground Clearance": 6,
+               "Cargo Volume": 18.6,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3,752 lbs (1 kg)"
+               "Unladen Weight": 3
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)"
+               "City": 17,
+               "Highway": 24
           },
           "NOTES": {},
           "": {}
@@ -1122,14 +1122,14 @@
 },{
      "model_name": "INFINITI FX 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 35 AWD 7AT (303 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3498 cm3",
+               "Displacement": 3498,
                "Power": "223 KW @ 6800 RPM\n303 HP @ 6800 RPM\n299 BHP @ 6800 RPM",
                "Torque": "262 lb-ft @ 4800 RPM\n355 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "23.8 gallons (90.1 L)"
+               "Fuel capacity": 23.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1143,22 +1143,22 @@
                "Tire Size": "265/60R18 109V"
           },
           "DIMENSIONS": {
-               "Length": "191.3 in (4859 mm)",
-               "Width": "75.9 in (1928 mm)",
-               "Height": "66.1 in (1679 mm)",
+               "Length": 191.3,
+               "Width": 75.9,
+               "Height": 66.1,
                "Front/rear Track": "65.0 / 66.1 in (1,651/1,679 mm)",
-               "Wheelbase": "113.6 in (2885 mm)",
-               "Ground Clearance": "7.36 in (187 mm)",
-               "Cargo Volume": "24.8 cuFT (702 L)",
-               "Aerodynamics (Cd)": "0.35"
+               "Wheelbase": 113.6,
+               "Ground Clearance": 7.36,
+               "Cargo Volume": 24.8,
+               "Aerodynamics (Cd)": 0.35
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5287 lbs (2398 kg)",
-               "Gross Weight Limit": "5,301 lbs (2 kg)"
+               "Unladen Weight": 5287,
+               "Gross Weight Limit": 5
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "21 mpg US (11.2 L/100Km)"
+               "City": 16,
+               "Highway": 21
           },
           "": {}
      },
@@ -1166,17 +1166,17 @@
 },{
      "model_name": "INFINITI FX 2002-2008",
      "technical_specs": {
-          "ENGINE SPECS - FX35 3.5L V6 5AT RWD (281 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3498 cm3",
+               "Displacement": 3498,
                "Power": "206 KW @ 6200 RPM\n281 HP @ 6200 RPM\n276 BHP @ 6200 RPM",
                "Torque": "270 lb-ft @ 4800 RPM\n366 Nm @ 4800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "137 mph (220 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.3 s"
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1190,22 +1190,22 @@
                "Tire Size": "265/60 R 18"
           },
           "DIMENSIONS": {
-               "Length": "188.5 in (4788 mm)",
-               "Width": "76.7 in (1948 mm)",
-               "Height": "65 in (1651 mm)",
+               "Length": 188.5,
+               "Width": 76.7,
+               "Height": 65,
                "Front/rear Track": "62.6/64.6 in (1,590/1,641 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "7.6 in (193 mm)",
-               "Cargo Volume": "27.1 cuFT (767 L)",
-               "Aerodynamics (Cd)": "0.35"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 7.6,
+               "Cargo Volume": 27.1,
+               "Aerodynamics (Cd)": 0.35
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4057.2 lbs (1840 kg)",
-               "Gross Weight Limit": "5159.7 lbs (2340 kg)"
+               "Unladen Weight": 4057.2,
+               "Gross Weight Limit": 5159.7
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "23.1 mpg US (10.2 L/100Km)"
+               "City": 17,
+               "Highway": 23.1
           },
           "": {}
      },
@@ -1213,17 +1213,17 @@
 },{
      "model_name": "INFINITI IPL G Convertible 2012-2013",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 7AT (343 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "256 KW @ 7400 RPM\n348 HP @ 7400 RPM\n343 BHP @ 7400 RPM",
                "Torque": "273 lb-ft @ 5200 RPM\n370 Nm @ 5200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "167 mph (269 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.3 s"
+               "Top Speed": 167,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1237,23 +1237,23 @@
                "Tire Size": "225/45R19 || P245/40R19"
           },
           "DIMENSIONS": {
-               "Length": "183.3 in (4656 mm)",
-               "Width": "72.9 in (1852 mm)",
-               "Height": "55.1 in (1400 mm)",
+               "Length": 183.3,
+               "Width": 72.9,
+               "Height": 55.1,
                "Front/rear Track": "60.8/61.4 in (1,544/1,560 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "0.2 in (5 mm)",
-               "Cargo Volume": "10.33 cuFT (293 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 0.2,
+               "Cargo Volume": 10.33,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4189 lbs (1900 kg)",
-               "Gross Weight Limit": "5079 lbs (2304 kg)"
+               "Unladen Weight": 4189,
+               "Gross Weight Limit": 5079
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)",
-               "Combined": "20 mpg US (11.8 L/100Km)"
+               "City": 17,
+               "Highway": 25,
+               "Combined": 20
           },
           "NOTES": {
                "Trunk volume with top down": "1.99 cu.ft (56 liters)"
@@ -1263,17 +1263,17 @@
 },{
      "model_name": "INFINITI G37 Convertible 2009-2013",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 6MT (320 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "238 KW @ 7000 RPM\n320 HP @ 7000 RPM\n319 BHP @ 7000 RPM",
                "Torque": "265 lb-ft @ 5200 RPM\n359 Nm @ 5200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.2 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1287,24 +1287,24 @@
                "Tire Size": "225/45 R18 || 245/40 R18"
           },
           "DIMENSIONS": {
-               "Length": "183.4 in (4658 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "55.1 in (1400 mm)",
+               "Length": 183.4,
+               "Width": 72.8,
+               "Height": 55.1,
                "Front/rear Track": "61/61.4 in (1,549/1,560 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "4.9 in (124 mm)",
-               "Cargo Volume": "12.9 cuFT (365 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 12.9,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4162 lbs (1888 kg)",
-               "Gross Weight Limit": "5104 lbs (2315 kg)"
+               "Unladen Weight": 4162,
+               "Gross Weight Limit": 5104
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13.8 mpg US (17 L/100Km)",
-               "Highway": "26.4 mpg US (8.9 L/100Km)",
-               "Combined": "19.8 mpg US (11.9 L/100Km)",
-               "CO2 Emissions": "275 g/km"
+               "City": 13.8,
+               "Highway": 26.4,
+               "Combined": 19.8,
+               "CO2 Emissions": 275
           },
           "": {}
      },
@@ -1312,17 +1312,17 @@
 },{
      "model_name": "INFINITI IPL G Coupe 2011-2013",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 6MT (348 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "260 KW @ 7400 RPM\n348 HP @ 7400 RPM\n349 BHP @ 7400 RPM",
                "Torque": "276 lb-ft @ 5200 RPM\n374 Nm @ 5200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "168 mph (270 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.8 s"
+               "Top Speed": 168,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1336,23 +1336,23 @@
                "Tire Size": "P225/45WR19 || P245/40WR19"
           },
           "DIMENSIONS": {
-               "Length": "185.1 in (4702 mm)",
-               "Width": "71.8 in (1824 mm)",
-               "Height": "54.9 in (1394 mm)",
+               "Length": 185.1,
+               "Width": 71.8,
+               "Height": 54.9,
                "Front/rear Track": "60.8/61.4 in (1,544/1,560 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "7.4 cuFT (210 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 7.4,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3727 lbs (1691 kg)",
-               "Gross Weight Limit": "4656 lbs (2112 kg)"
+               "Unladen Weight": 3727,
+               "Gross Weight Limit": 4656
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)"
+               "City": 17,
+               "Highway": 25,
+               "Combined": 19
           },
           "": {}
      },
@@ -1360,17 +1360,17 @@
 },{
      "model_name": "INFINITI G37 Coupe 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 6MT RWD (333 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "244.9 KW @ 7000 RPM\n333 HP @ 7000 RPM\n328 BHP @ 7000 RPM",
                "Torque": "265 lb-ft @ 5200 RPM\n359 Nm @ 5200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.8 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1384,23 +1384,23 @@
                "Tire Size": "225/50 R18 W"
           },
           "DIMENSIONS": {
-               "Length": "183.4 in (4658 mm)",
-               "Width": "71.6 in (1819 mm)",
-               "Height": "55.1 in (1400 mm)",
+               "Length": 183.4,
+               "Width": 71.6,
+               "Height": 55.1,
                "Front/rear Track": "61/61.4 in (1,549/1,560 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Cargo Volume": "9.7 cuFT (275 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 112.2,
+               "Cargo Volume": 9.7,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3911 lbs (1774 kg)",
-               "Gross Weight Limit": "4656 lbs (2112 kg)"
+               "Unladen Weight": 3911,
+               "Gross Weight Limit": 4656
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15.3 mpg US (15.4 L/100Km)",
-               "Highway": "29.7 mpg US (7.9 L/100Km)",
-               "Combined": "22.2 mpg US (10.6 L/100Km)",
-               "CO2 Emissions": "248 g/km"
+               "City": 15.3,
+               "Highway": 29.7,
+               "Combined": 22.2,
+               "CO2 Emissions": 248
           },
           "": {}
      },
@@ -1408,9 +1408,9 @@
 },{
      "model_name": "INFINITI G Sedan 2013-2014",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 7AT AWD (328 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "244 KW @ 7000 RPM\n332 HP @ 7000 RPM\n327 BHP @ 7000 RPM",
                "Torque": "269 lb-ft @ 5200 RPM\n365 Nm @ 5200 RPM",
                "Fuel System": "Multipoint Injection",
@@ -1428,23 +1428,23 @@
                "Tire Size": "225/55 R17"
           },
           "DIMENSIONS": {
-               "Length": "187.9 in (4773 mm)",
-               "Width": "69.8 in (1773 mm)",
-               "Height": "57.2 in (1453 mm)",
+               "Length": 187.9,
+               "Width": 69.8,
+               "Height": 57.2,
                "Front/rear Track": "59.8/60.2 in (1,519/1,529 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "13.5 cuFT (382 L)",
-               "Aerodynamics (Cd)": "0.29"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 13.5,
+               "Aerodynamics (Cd)": 0.29
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3792 lbs (1720 kg)",
-               "Gross Weight Limit": "4846 lbs (2198 kg)"
+               "Unladen Weight": 3792,
+               "Gross Weight Limit": 4846
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)",
-               "Combined": "20 mpg US (11.8 L/100Km)"
+               "City": 18,
+               "Highway": 25,
+               "Combined": 20
           },
           "": {}
      },
@@ -1452,9 +1452,9 @@
 },{
      "model_name": "INFINITI G25 2011-2013",
      "technical_specs": {
-          "ENGINE SPECS - 2.5L RWD V6 (218 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "4",
-               "Displacement": "2496 cm3",
+               "Displacement": 2496,
                "Power": "160 KW @ 6400 RPM\n218 HP @ 6400 RPM\n215 BHP @ 6400 RPM",
                "Torque": "187 lb-ft @ 4800 RPM\n254 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
@@ -1469,22 +1469,22 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": "187.9 in (4773 mm)",
-               "Width": "69.8 in (1773 mm)",
-               "Height": "57.2 in (1453 mm)",
+               "Length": 187.9,
+               "Width": 69.8,
+               "Height": 57.2,
                "Front/rear Track": "59.8/60.2 in (1,519/1,529 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "13.5 cuFT (382 L)",
-               "Aerodynamics (Cd)": "0.29"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 13.5,
+               "Aerodynamics (Cd)": 0.29
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3549 lbs (1610 kg)",
-               "Gross Weight Limit": "4674 lbs (2120 kg)"
+               "Unladen Weight": 3549,
+               "Gross Weight Limit": 4674
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "20 mpg US (11.8 L/100Km)",
-               "Highway": "29 mpg US (8.1 L/100Km)"
+               "City": 20,
+               "Highway": 29
           },
           "": {}
      },
@@ -1492,18 +1492,18 @@
 },{
      "model_name": "2009 Infiniti G37 Sedan",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 6MT (328 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "245 KW @ 7000 RPM\n333 HP @ 7000 RPM\n329 BHP @ 7000 RPM",
                "Torque": "269 lb-ft @ 5200 RPM\n365 Nm @ 5200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "21.1 gallons (79.9 L)"
+               "Fuel capacity": 21.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.8 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1517,24 +1517,24 @@
                "Tire Size": "225/50 R18 W"
           },
           "DIMENSIONS": {
-               "Length": "187.8 in (4770 mm)",
-               "Width": "69.7 in (1770 mm)",
-               "Height": "57 in (1448 mm)",
+               "Length": 187.8,
+               "Width": 69.7,
+               "Height": 57,
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "15.9 cuFT (450 L)",
-               "Aerodynamics (Cd)": "0.3"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 15.9,
+               "Aerodynamics (Cd)": 0.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3615 lbs (1640 kg)",
-               "Gross Weight Limit": "4722 lbs (2142 kg)"
+               "Unladen Weight": 3615,
+               "Gross Weight Limit": 4722
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)",
-               "Combined": "20 mpg US (11.8 L/100Km)",
-               "CO2 Emissions": "248 g/km"
+               "City": 17,
+               "Highway": 25,
+               "Combined": 20,
+               "CO2 Emissions": 248
           },
           "": {}
      },
@@ -1542,18 +1542,18 @@
 },{
      "model_name": "INFINITI G20 1999-2002",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 4AT FWD (145 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1999 cm3",
+               "Displacement": 1999,
                "Power": "106.6 KW @ 6000 RPM\n145 HP @ 6000 RPM\n143 BHP @ 6000 RPM",
                "Torque": "136 lb-ft @ 4800 RPM\n185 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.5 s"
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1567,18 +1567,18 @@
                "Tire Size": "P195/65 R 15"
           },
           "DIMENSIONS": {
-               "Length": "177.5 in (4509 mm)",
-               "Width": "66.7 in (1694 mm)",
-               "Height": "55.1 in (1400 mm)",
+               "Length": 177.5,
+               "Width": 66.7,
+               "Height": 55.1,
                "Front/rear Track": "55.7/57.3 in (1,415/1,455 mm)",
-               "Wheelbase": "102.4 in (2601 mm)",
-               "Ground Clearance": "6 in (152 mm)",
-               "Cargo Volume": "13.5 cuFT (382 L)",
-               "Aerodynamics (Cd)": "0.3"
+               "Wheelbase": 102.4,
+               "Ground Clearance": 6,
+               "Cargo Volume": 13.5,
+               "Aerodynamics (Cd)": 0.3
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.1 mpg US (10.2 L/100Km)",
-               "Highway": "30.2 mpg US (7.8 L/100Km)"
+               "City": 23.1,
+               "Highway": 30.2
           },
           "": {}
      },
@@ -1586,18 +1586,18 @@
 },{
      "model_name": "INFINITI G20 1991-1996",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 4AT FWD (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1999 cm3",
+               "Displacement": 1999,
                "Power": "103 KW @ 6000 RPM\n140 HP @ 6000 RPM\n138 BHP @ 6000 RPM",
                "Torque": "136 lb-ft @ 4800 RPM\n185 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.7 s"
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1611,19 +1611,19 @@
                "Tire Size": "195/60 R14"
           },
           "DIMENSIONS": {
-               "Length": "174.8 in (4440 mm)",
-               "Width": "66.7 in (1694 mm)",
-               "Height": "54.7 in (1389 mm)",
+               "Length": 174.8,
+               "Width": 66.7,
+               "Height": 54.7,
                "Front/rear Track": "57.9/57.5 in (1,471/1,461 mm)",
-               "Wheelbase": "100.4 in (2550 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "14.2 cuFT (402 L)"
+               "Wheelbase": 100.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2977 lbs (1350 kg)"
+               "Unladen Weight": 2977
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "27 mpg US (8.7 L/100Km)"
+               "Combined": 27
           },
           "": {}
      },
@@ -1631,18 +1631,18 @@
 },{
      "model_name": "INFINITI G35 Sedan 2006-2008",
      "technical_specs": {
-          "ENGINE SPECS - 3.5I V6 5AT AWD (315 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3498 cm3",
+               "Displacement": 3498,
                "Power": "231.7 KW @ 6800 RPM\n315 HP @ 6800 RPM\n311 BHP @ 6800 RPM",
                "Torque": "264 lb-ft @ 4800 RPM\n358 Nm @ 4800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.1 gallons (76.1 L)"
+               "Fuel capacity": 20.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "127 mph (204 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.2 s"
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1656,23 +1656,23 @@
                "Tire Size": "225/55/R17"
           },
           "DIMENSIONS": {
-               "Length": "187 in (4750 mm)",
-               "Width": "69.8 in (1773 mm)",
-               "Height": "57.2 in (1453 mm)",
+               "Length": 187,
+               "Width": 69.8,
+               "Height": 57.2,
                "Front/rear Track": "59.8/60.2 in (1,519/1,529 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "14 cuFT (396 L)",
-               "Aerodynamics (Cd)": "0.29"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 14,
+               "Aerodynamics (Cd)": 0.29
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3792 lbs (1720 kg)",
-               "Gross Weight Limit": "4788 lbs (2172 kg)"
+               "Unladen Weight": 3792,
+               "Gross Weight Limit": 4788
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13.4 mpg US (17.6 L/100Km)",
-               "Highway": "22.8 mpg US (10.3 L/100Km)",
-               "Combined": "18.1 mpg US (13 L/100Km)"
+               "City": 13.4,
+               "Highway": 22.8,
+               "Combined": 18.1
           },
           "": {}
      },
@@ -1680,18 +1680,18 @@
 },{
      "model_name": "INFINITI G35 Sedan 2001-2006",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 5AT RWD (298 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3498 cm3",
+               "Displacement": 3498,
                "Power": "222 KW @ 6200 RPM\n302 HP @ 6200 RPM\n298 BHP @ 6200 RPM",
                "Torque": "260 lb-ft @ 4800 RPM\n353 Nm @ 4800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19.8 gallons (75.0 L)"
+               "Fuel capacity": 19.8
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1705,21 +1705,21 @@
                "Tire Size": "215/55 R17"
           },
           "DIMENSIONS": {
-               "Length": "186.5 in (4737 mm)",
-               "Width": "69 in (1753 mm)",
-               "Height": "57.7 in (1466 mm)",
+               "Length": 186.5,
+               "Width": 69,
+               "Height": 57.7,
                "Front/rear Track": "59.1/59.3 in (1,501/1,506 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "6 in (152 mm)",
-               "Cargo Volume": "11 cuFT (311 L)"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 6,
+               "Cargo Volume": 11
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3483 lbs (1580 kg)",
-               "Gross Weight Limit": "4508 lbs (2045 kg)"
+               "Unladen Weight": 3483,
+               "Gross Weight Limit": 4508
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19 mpg US (12.4 L/100Km)",
-               "Highway": "25.8 mpg US (9.1 L/100Km)",
+               "City": 19,
+               "Highway": 25.8,
                "CO2 Emissions": "-"
           },
           "": {}
@@ -1728,18 +1728,18 @@
 },{
      "model_name": "2002 Infiniti G35 Coupe",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 5AT RWD (284 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3498 cm3",
+               "Displacement": 3498,
                "Power": "208.9 KW @ 6200 RPM\n284 HP @ 6200 RPM\n280 BHP @ 6200 RPM",
                "Torque": "270 lb-ft @ 4800 RPM\n366 Nm @ 4800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.1 gallons (76.1 L)"
+               "Fuel capacity": 20.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1753,21 +1753,21 @@
                "Tire Size": "225/45 R18 // 245/45 R18"
           },
           "DIMENSIONS": {
-               "Length": "182.2 in (4628 mm)",
-               "Width": "71.5 in (1816 mm)",
-               "Height": "54.8 in (1392 mm)",
+               "Length": 182.2,
+               "Width": 71.5,
+               "Height": 54.8,
                "Front/rear Track": "60.4/60.8 in (1,534/1,544 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "6 in (152 mm)",
-               "Aerodynamics (Cd)": "0.28"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 6,
+               "Aerodynamics (Cd)": 0.28
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3527 lbs (1600 kg)",
-               "Gross Weight Limit": "4360 lbs (1978 kg)"
+               "Unladen Weight": 3527,
+               "Gross Weight Limit": 4360
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19 mpg US (12.4 L/100Km)",
-               "Highway": "25.8 mpg US (9.1 L/100Km)"
+               "City": 19,
+               "Highway": 25.8
           },
           "": {}
      },
@@ -1775,18 +1775,18 @@
 },{
      "model_name": "INFINITI I30/I35 1999-2004",
      "technical_specs": {
-          "ENGINE SPECS - 3.0L V6 4AT FWD (227 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2988 cm3",
+               "Displacement": 2988,
                "Power": "167 KW @ 6400 RPM\n227 HP @ 6400 RPM\n224 BHP @ 6400 RPM",
                "Torque": "218 lb-ft @ 3600 RPM\n295 Nm @ 3600 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.3 s"
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1800,23 +1800,23 @@
                "Tire Size": "215/55 R15"
           },
           "DIMENSIONS": {
-               "Length": "194.1 in (4930 mm)",
-               "Width": "70.1 in (1781 mm)",
-               "Height": "56.5 in (1435 mm)",
+               "Length": 194.1,
+               "Width": 70.1,
+               "Height": 56.5,
                "Front/rear Track": "60.2/59.4 in (1,529/1,509 mm)",
-               "Wheelbase": "108.3 in (2751 mm)",
-               "Ground Clearance": "6.3 in (160 mm)",
-               "Cargo Volume": "18.2 cuFT (515 L)"
+               "Wheelbase": 108.3,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 18.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3153.2 lbs (1430 kg)",
-               "Gross Weight Limit": "4443.1 lbs (2015 kg)"
+               "Unladen Weight": 3153.2,
+               "Gross Weight Limit": 4443.1
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14.7 mpg US (16 L/100Km)",
-               "Highway": "29.4 mpg US (8 L/100Km)",
-               "Combined": "23.5 mpg US (10 L/100Km)",
-               "CO2 Emissions": "238 g/km"
+               "City": 14.7,
+               "Highway": 29.4,
+               "Combined": 23.5,
+               "CO2 Emissions": 238
           },
           "": {}
      },
@@ -1824,18 +1824,18 @@
 },{
      "model_name": "INFINITI I30 1995-1999",
      "technical_specs": {
-          "ENGINE SPECS - 3.0L V6 4AT FWD (190 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2988 cm3",
+               "Displacement": 2988,
                "Power": "141 KW @ 5600 RPM\n192 HP @ 5600 RPM\n189 BHP @ 5600 RPM",
                "Torque": "205 lb-ft @ 4000 RPM\n278 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "127 mph (204 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.7 s"
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1849,17 +1849,17 @@
                "Tire Size": "205/65/R15"
           },
           "DIMENSIONS": {
-               "Length": "189.6 in (4816 mm)",
-               "Width": "69.7 in (1770 mm)",
-               "Height": "55.7 in (1415 mm)",
+               "Length": 189.6,
+               "Width": 69.7,
+               "Height": 55.7,
                "Front/rear Track": "59.8/59.1 in (1,519/1,501 mm)",
-               "Wheelbase": "106.3 in (2700 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "15.5 cuFT (439 L)"
+               "Wheelbase": 106.3,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 15.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3164 lbs (1435 kg)",
-               "Gross Weight Limit": "4277 lbs (1940 kg)"
+               "Unladen Weight": 3164,
+               "Gross Weight Limit": 4277
           },
           "": {}
      },
@@ -1867,17 +1867,17 @@
 },{
      "model_name": "INFINITI J30 1993-1997",
      "technical_specs": {
-          "ENGINE SPECS - 3.0L V6 4AT (213 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2960 cm3",
+               "Displacement": 2960,
                "Power": "157 KW @ 6400 RPM\n213 HP @ 6400 RPM\n211 BHP @ 6400 RPM",
                "Torque": "193 lb-ft @ 4800 RPM\n262 Nm @ 4800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "127 mph (204 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1891,39 +1891,39 @@
                "Tire Size": "215/60 HR 15"
           },
           "DIMENSIONS": {
-               "Length": "191.3 in (4859 mm)",
-               "Width": "69.7 in (1770 mm)",
-               "Height": "54.7 in (1389 mm)",
+               "Length": 191.3,
+               "Width": 69.7,
+               "Height": 54.7,
                "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
-               "Wheelbase": "108.7 in (2761 mm)",
-               "Ground Clearance": "5.8 in (147 mm)",
-               "Cargo Volume": "10.1 cuFT (286 L)",
-               "Aerodynamics (Cd)": "0.35"
+               "Wheelbase": 108.7,
+               "Ground Clearance": 5.8,
+               "Cargo Volume": 10.1,
+               "Aerodynamics (Cd)": 0.35
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3530 lbs (1601 kg)"
+               "Unladen Weight": 3530
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "21 mpg US (11.2 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)",
-               "CO2 Emissions": "311 g/km"
+               "City": 16,
+               "Highway": 21,
+               "Combined": 18,
+               "CO2 Emissions": 311
           }
      },
      "img": "images/INFINITI J30 1993-199705-03-05-15-51.jpg"
 },{
      "model_name": "INFINITI JX 2012-2014",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 CVT (265 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3498 cm3",
+               "Displacement": 3498,
                "Power": "198 KW @ 6400 RPM\n269 HP @ 6400 RPM\n266 BHP @ 6400 RPM",
                "Torque": "248 lb-ft @ 4400 RPM\n336 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "9 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1937,40 +1937,40 @@
                "Tire Size": "235/65R18"
           },
           "DIMENSIONS": {
-               "Length": "196.4 in (4989 mm)",
-               "Width": "77.2 in (1961 mm)",
-               "Height": "67.8 in (1722 mm)",
+               "Length": 196.4,
+               "Width": 77.2,
+               "Height": 67.8,
                "Front/rear Track": "65.7/65.7 in (1,669/1,669 mm)",
-               "Wheelbase": "114.2 in (2901 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Cargo Volume": "15.8 cuFT (447 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 114.2,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 15.8,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4419 lbs (2004 kg)",
-               "Gross Weight Limit": "5937 lbs (2693 kg)"
+               "Unladen Weight": 4419,
+               "Gross Weight Limit": 5937
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "23 mpg US (10.2 L/100Km)",
-               "Combined": "20 mpg US (11.8 L/100Km)"
+               "City": 18,
+               "Highway": 23,
+               "Combined": 20
           }
      },
      "img": "images/INFINITI JX 2012-201405-03-05-15-53.jpg"
 },{
      "model_name": "INFINITI M30 Convertible 1990-1992",
      "technical_specs": {
-          "ENGINE SPECS - 3.0L V6 4AT (164 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2966 cm3",
+               "Displacement": 2966,
                "Power": "120.6 KW @ 6000 RPM\n164 HP @ 6000 RPM\n162 BHP @ 6000 RPM",
                "Torque": "180 lb-ft @ 3500 RPM\n244 Nm @ 3500 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "127 mph (204 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.2 s"
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1984,39 +1984,39 @@
                "Tire Size": "215/60 HR 15"
           },
           "DIMENSIONS": {
-               "Length": "188.8 in (4796 mm)",
-               "Width": "66.5 in (1689 mm)",
-               "Height": "54.3 in (1379 mm)",
+               "Length": 188.8,
+               "Width": 66.5,
+               "Height": 54.3,
                "Front/rear Track": "56.5/56.5 in (1,435/1,435 mm)",
-               "Wheelbase": "103 in (2616 mm)",
-               "Ground Clearance": "6.3 in (160 mm)",
-               "Cargo Volume": "12.3 cuFT (348 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 103,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 12.3,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3576 lbs (1622 kg)"
+               "Unladen Weight": 3576
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16.3 mpg US (14.4 L/100Km)",
-               "Highway": "25.6 mpg US (9.2 L/100Km)",
-               "Combined": "19.3 mpg US (12.2 L/100Km)"
+               "City": 16.3,
+               "Highway": 25.6,
+               "Combined": 19.3
           }
      },
      "img": "images/INFINITI M30 Convertible 1990-199205-03-05-15-55.jpg"
 },{
      "model_name": "INFINITI M30 Coupe 1990-1992",
      "technical_specs": {
-          "ENGINE SPECS - 3.0L V6 4AT (162 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2966 cm3",
+               "Displacement": 2966,
                "Power": "119.2 KW @ 5200 RPM\n162 HP @ 5200 RPM\n160 BHP @ 5200 RPM",
                "Torque": "180 lb-ft @ 3600 RPM\n244 Nm @ 3600 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "127 mph (204 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10 s"
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 10
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2030,40 +2030,40 @@
                "Tire Size": "215/60 HR 15"
           },
           "DIMENSIONS": {
-               "Length": "188.8 in (4796 mm)",
-               "Width": "66.5 in (1689 mm)",
-               "Height": "54.3 in (1379 mm)",
+               "Length": 188.8,
+               "Width": 66.5,
+               "Height": 54.3,
                "Front/rear Track": "56.5/56.5 in (1,435/1,435 mm)",
-               "Wheelbase": "103 in (2616 mm)",
-               "Ground Clearance": "6.3 in (160 mm)",
-               "Cargo Volume": "11.6 cuFT (328 L)",
-               "Aerodynamics (Cd)": "0.35"
+               "Wheelbase": 103,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 11.6,
+               "Aerodynamics (Cd)": 0.35
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3303 lbs (1498 kg)"
+               "Unladen Weight": 3303
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16.4 mpg US (14.3 L/100Km)",
-               "Highway": "26.4 mpg US (8.9 L/100Km)",
-               "Combined": "19.6 mpg US (12 L/100Km)"
+               "City": 16.4,
+               "Highway": 26.4,
+               "Combined": 19.6
           }
      },
      "img": "images/INFINITI M30 Coupe 1990-199205-03-05-15-57.jpg"
 },{
      "model_name": "INFINITI M Sedan 2010-2013",
      "technical_specs": {
-          "ENGINE SPECS - 37 V6 7AT AWD (334 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "246 KW @ 7000 RPM\n334 HP @ 7000 RPM\n330 BHP @ 7000 RPM",
                "Torque": "270 lb-ft @ 5200 RPM\n366 Nm @ 5200 RPM",
                "Fuel System": "Turbocharged multipoint injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.1 gallons (76.1 L)"
+               "Fuel capacity": 20.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "152 mph (245 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2077,25 +2077,25 @@
                "Tire Size": "245/50 R18 W"
           },
           "DIMENSIONS": {
-               "Length": "194.7 in (4945 mm)",
-               "Width": "72.6 in (1844 mm)",
-               "Height": "59.1 in (1501 mm)",
+               "Length": 194.7,
+               "Width": 72.6,
+               "Height": 59.1,
                "Front/rear Track": "62/61.8 in (1,575/1,570 mm)",
-               "Wheelbase": "114.2 in (2901 mm)",
-               "Ground Clearance": "5.8 in (147 mm)",
-               "Cargo Volume": "14.9 cuFT (422 L)",
-               "Aerodynamics (Cd)": "0.27",
-               "Turning circle": "36.7 ft (11.2 m)"
+               "Wheelbase": 114.2,
+               "Ground Clearance": 5.8,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.27,
+               "Turning circle": 36.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4059 lbs (1841 kg)",
-               "Gross Weight Limit": "5280 lbs (2395 kg)"
+               "Unladen Weight": 4059,
+               "Gross Weight Limit": 5280
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)",
-               "Combined": "21.6 mpg US (10.9 L/100Km)",
-               "CO2 Emissions": "235 g/km"
+               "City": 17,
+               "Highway": 24,
+               "Combined": 21.6,
+               "CO2 Emissions": 235
           },
           "": {}
      },
@@ -2103,17 +2103,17 @@
 },{
      "model_name": "INFINITI M35/M45 2005-2010",
      "technical_specs": {
-          "ENGINE SPECS - M35 3.5I V6 5AT AWD (280 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3498 cm3",
+               "Displacement": 3498,
                "Power": "205.9 KW @ 6200 RPM\n280 HP @ 6200 RPM\n276 BHP @ 6200 RPM",
                "Torque": "268 lb-ft @ 4800 RPM\n363 Nm @ 4800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.1 s"
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2127,22 +2127,22 @@
                "Tire Size": "245/45R18"
           },
           "DIMENSIONS": {
-               "Length": "114.2 in (2901 mm)",
-               "Width": "70.8 in (1798 mm)",
-               "Height": "59.4 in (1509 mm)",
+               "Length": 114.2,
+               "Width": 70.8,
+               "Height": 59.4,
                "Front/rear Track": "60.2/60.8 in (1,529/1,544 mm)",
-               "Wheelbase": "114.2 in (2901 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "14.8 cuFT (419 L)",
-               "Aerodynamics (Cd)": "0.28"
+               "Wheelbase": 114.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 14.8,
+               "Aerodynamics (Cd)": 0.28
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4134 lbs (1875 kg)"
+               "Unladen Weight": 4134
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16.9 mpg US (13.9 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)",
-               "Combined": "17.3 mpg US (13.6 L/100Km)"
+               "City": 16.9,
+               "Highway": 24,
+               "Combined": 17.3
           },
           "": {}
      },
@@ -2150,17 +2150,17 @@
 },{
      "model_name": "INFINITI M45 2003-2005",
      "technical_specs": {
-          "ENGINE SPECS - 4.5L V8 5AT (345 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4494 cm3",
+               "Displacement": 4494,
                "Power": "253 KW @ 6400 RPM\n345 HP @ 6400 RPM\n339 BHP @ 6400 RPM",
                "Torque": "333 lb-ft @ 4000 RPM\n451 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "146 mph (235 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.8 s"
+               "Top Speed": 146,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2174,41 +2174,41 @@
                "Tire Size": "235/45 R 18 W"
           },
           "DIMENSIONS": {
-               "Length": "197.2 in (5009 mm)",
-               "Width": "69.7 in (1770 mm)",
-               "Height": "57.6 in (1463 mm)",
+               "Length": 197.2,
+               "Width": 69.7,
+               "Height": 57.6,
                "Front/rear Track": "59.4/59.4 in (1,509/1,509 mm)",
-               "Wheelbase": "110.2 in (2799 mm)",
-               "Ground Clearance": "5.7 in (145 mm)",
-               "Cargo Volume": "13 cuFT (368 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 110.2,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 13,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3946 lbs (1790 kg)",
-               "Gross Weight Limit": "4828 lbs (2190 kg)"
+               "Unladen Weight": 3946,
+               "Gross Weight Limit": 4828
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)",
-               "CO2 Emissions": "311 g/km"
+               "City": 16,
+               "Highway": 22,
+               "Combined": 18,
+               "CO2 Emissions": 311
           }
      },
      "img": "images/INFINITI M45 2003-200505-03-05-16-03.jpg"
 },{
      "model_name": "INFINITI Q45 2001-2006",
      "technical_specs": {
-          "ENGINE SPECS - 4.5L V8 5AT FWD (280 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4494 cm3",
+               "Displacement": 4494,
                "Power": "206 KW @ 6000 RPM\n280 HP @ 6000 RPM\n276 BHP @ 6000 RPM",
                "Torque": "333 lb-ft @ 3600 RPM\n451 Nm @ 3600 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "22.5 gallons (85.2 L)"
+               "Fuel capacity": 22.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "142.9 mph (230 km/h)"
+               "Top Speed": 142.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2222,22 +2222,22 @@
                "Tire Size": "225/60R16"
           },
           "DIMENSIONS": {
-               "Length": "196.7 in (4996 mm)",
-               "Width": "72.6 in (1844 mm)",
-               "Height": "58.7 in (1491 mm)",
+               "Length": 196.7,
+               "Width": 72.6,
+               "Height": 58.7,
                "Front/rear Track": "62.2/61.4 in (1,580/1,560 mm)",
-               "Wheelbase": "113 in (2870 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "12.6 cuFT (357 L)",
-               "Aerodynamics (Cd)": "0.3"
+               "Wheelbase": 113,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 12.6,
+               "Aerodynamics (Cd)": 0.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3902.8 lbs (1770 kg)",
-               "Gross Weight Limit": "4509.2 lbs (2045 kg)"
+               "Unladen Weight": 3902.8,
+               "Gross Weight Limit": 4509.2
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "18.8 mpg US (12.5 L/100Km)",
-               "CO2 Emissions": "298 g/km"
+               "Combined": 18.8,
+               "CO2 Emissions": 298
           },
           "": {}
      },
@@ -2245,14 +2245,14 @@
 },{
      "model_name": "INFINITI Q45 1996-2000",
      "technical_specs": {
-          "ENGINE SPECS - 4.1L 4AT (270 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4130 cm3",
+               "Displacement": 4130,
                "Power": "198 KW @ 5600 RPM\n269 HP @ 5600 RPM\n266 BHP @ 5600 RPM",
                "Torque": "278 lb-ft @ 4000 RPM\n377 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "22.5 gallons (85.2 L)"
+               "Fuel capacity": 22.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2266,33 +2266,33 @@
                "Tire Size": "215/60 R 16 94 V"
           },
           "DIMENSIONS": {
-               "Length": "199.2 in (5060 mm)",
-               "Width": "71.7 in (1821 mm)",
-               "Height": "56.9 in (1445 mm)",
+               "Length": 199.2,
+               "Width": 71.7,
+               "Height": 56.9,
                "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
-               "Wheelbase": "111.4 in (2830 mm)",
-               "Ground Clearance": "5.8 in (147 mm)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 111.4,
+               "Ground Clearance": 5.8,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3878 lbs (1759 kg)"
+               "Unladen Weight": 3878
           }
      },
      "img": "images/INFINITI Q45 1996-200005-03-05-16-07.jpg"
 },{
      "model_name": "INFINITI Q45 1989-1996",
      "technical_specs": {
-          "ENGINE SPECS - 4.5L V8 4AT (178 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4494 cm3",
+               "Displacement": 4494,
                "Power": "204.5 KW @ 6000 RPM\n278 HP @ 6000 RPM\n274 BHP @ 6000 RPM",
                "Torque": "292 lb-ft @ 4000 RPM\n396 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "22.5 gallons (85.2 L)"
+               "Fuel capacity": 22.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "150 mph (241 km/h)"
+               "Top Speed": 150
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2306,32 +2306,32 @@
                "Tire Size": "245/70 R16"
           },
           "DIMENSIONS": {
-               "Length": "199.8 in (5075 mm)",
-               "Width": "71.9 in (1826 mm)",
-               "Height": "56.3 in (1430 mm)",
+               "Length": 199.8,
+               "Width": 71.9,
+               "Height": 56.3,
                "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
-               "Wheelbase": "113.4 in (2880 mm)",
-               "Ground Clearance": "8.3 in (211 mm)",
-               "Cargo Volume": "15 cuFT (425 L)"
+               "Wheelbase": 113.4,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 15
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3858 lbs (1750 kg)",
-               "Gross Weight Limit": "5148 lbs (2335 kg)"
+               "Unladen Weight": 3858,
+               "Gross Weight Limit": 5148
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "20 mpg US (11.8 L/100Km)",
-               "Combined": "17 mpg US (13.8 L/100Km)",
-               "CO2 Emissions": "329 g/km"
+               "City": 15,
+               "Highway": 20,
+               "Combined": 17,
+               "CO2 Emissions": 329
           }
      },
      "img": "images/INFINITI Q45 1989-199605-03-05-16-08.jpg"
 },{
      "model_name": "INFINITI Q40 2014-2015",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 7AT (328 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "244.6 KW @ 7000 RPM\n332.5 HP @ 7000 RPM\n328 BHP @ 7000 RPM",
                "Torque": "269 lb-ft @ 5200 RPM\n365 Nm @ 5200 RPM",
                "Fuel System": "Multipoint Injection",
@@ -2349,23 +2349,23 @@
                "Tire Size": "225/55 R 17 95V"
           },
           "DIMENSIONS": {
-               "Length": "186.3 in (4732 mm)",
-               "Width": "68.2 in (1732 mm)",
-               "Height": "57.2 in (1453 mm)",
+               "Length": 186.3,
+               "Width": 68.2,
+               "Height": 57.2,
                "Front/rear Track": "59.8/60.2 in (1,519/1,529 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "13.6 cuFT (385 L)",
-               "Aerodynamics (Cd)": "0.29"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 13.6,
+               "Aerodynamics (Cd)": 0.29
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3624 lbs (1644 kg)",
-               "Gross Weight Limit": "4722 lbs (2142 kg)"
+               "Unladen Weight": 3624,
+               "Gross Weight Limit": 4722
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19 mpg US (12.4 L/100Km)",
-               "Highway": "27 mpg US (8.7 L/100Km)",
-               "Combined": "22 mpg US (10.7 L/100Km)"
+               "City": 19,
+               "Highway": 27,
+               "Combined": 22
           },
           "": {}
      },
@@ -2373,17 +2373,17 @@
 },{
      "model_name": "INFINITI Q60 Convertible 2013-2015",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 VVEL 6MT RWD (329 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "242 KW @ 7200 RPM\n329 HP @ 7200 RPM\n325 BHP @ 7200 RPM",
                "Torque": "267 lb-ft @ 5200 RPM\n362 Nm @ 5200 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19.8 gallons (75.0 L)"
+               "Fuel capacity": 19.8
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)"
+               "Top Speed": 155
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2397,22 +2397,22 @@
                "Tire Size": "245/40 R19"
           },
           "DIMENSIONS": {
-               "Length": "184 in (4674 mm)",
-               "Width": "72.9 in (1852 mm)",
-               "Height": "55.1 in (1400 mm)",
+               "Length": 184,
+               "Width": 72.9,
+               "Height": 55.1,
                "Front/rear Track": "60.8/62.6 in (1,544/1,590 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "11.8 cuFT (334 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 11.8,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4149 lbs (1882 kg)"
+               "Unladen Weight": 4149
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)"
+               "City": 16,
+               "Highway": 24,
+               "Combined": 19
           },
           "": {}
      },
@@ -2420,9 +2420,9 @@
 },{
      "model_name": "2013 Q60 Convertible IPL",
      "technical_specs": {
-          "ENGINE SPECS - 3.7 V6 VVEL 7AT (348 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "6",
-               "Displacement": "3696 cm3",
+               "Displacement": 3696,
                "Power": "256 KW @ 7400 RPM\n348 HP @ 7400 RPM\n343 BHP @ 7400 RPM",
                "Torque": "273 lb-ft @ 5200 RPM\n370 Nm @ 5200 RPM",
                "Fuel System": "Direct injection",
@@ -2440,29 +2440,29 @@
                "Tire Size": "225/45 R19"
           },
           "DIMENSIONS": {
-               "Length": "185.3 in (4707 mm)",
-               "Width": "72.9 in (1852 mm)",
-               "Height": "55.1 in (1400 mm)",
+               "Length": 185.3,
+               "Width": 72.9,
+               "Height": 55.1,
                "Front/rear Track": "60.8/62.6 in (1,544/1,590 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Cargo Volume": "11.8 cuFT (334 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 112.2,
+               "Cargo Volume": 11.8,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4189 lbs (1900 kg)"
+               "Unladen Weight": 4189
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "26 mpg US (9 L/100Km)"
+               "City": 18,
+               "Highway": 26
           }
      },
      "img": "images/2013 Q60 Convertible IPL05-03-05-16-14.jpg"
 },{
      "model_name": "INFINITI QX 2010-2014",
      "technical_specs": {
-          "ENGINE SPECS - 5.6L V8 2WD (400 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5552 cm3",
+               "Displacement": 5552,
                "Power": "294 KW @ 5800 RPM\n400 HP @ 5800 RPM\n394 BHP @ 5800 RPM",
                "Torque": "413 lb-ft @ 4000 RPM\n560 Nm @ 4000 RPM",
                "Fuel System": "Direct Injection Gasoline",
@@ -2480,22 +2480,22 @@
                "Tire Size": "275/50 R22 or 275/60 R20"
           },
           "DIMENSIONS": {
-               "Length": "208.3 in (5291 mm)",
-               "Width": "79.9 in (2029 mm)",
-               "Height": "75.8 in (1925 mm)",
+               "Length": 208.3,
+               "Width": 79.9,
+               "Height": 75.8,
                "Front/rear Track": "67.5/67.9 in (1,715/1,725 mm)",
-               "Wheelbase": "121.1 in (3076 mm)",
-               "Ground Clearance": "9.2 in (234 mm)",
-               "Cargo Volume": "16.6 cuFT (470 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 121.1,
+               "Ground Clearance": 9.2,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5595 lbs (2538 kg)",
-               "Gross Weight Limit": "7300 lbs (3311 kg)"
+               "Unladen Weight": 5595,
+               "Gross Weight Limit": 7300
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14 mpg US (16.8 L/100Km)",
-               "Highway": "20 mpg US (11.8 L/100Km)"
+               "City": 14,
+               "Highway": 20
           },
           "": {}
      },
@@ -2503,14 +2503,14 @@
 },{
      "model_name": "INFINITI QX56 2004-2010",
      "technical_specs": {
-          "ENGINE SPECS - 5.6L V8 5AT AWD (315 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5552 cm3",
+               "Displacement": 5552,
                "Power": "232 KW @ 4900 RPM\n315 HP @ 4900 RPM\n311 BHP @ 4900 RPM",
                "Torque": "288 lb-ft @ 3600 RPM\n390 Nm @ 3600 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "28 gallons (106.0 L)"
+               "Fuel capacity": 28
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2524,22 +2524,22 @@
                "Tire Size": "265/70R18"
           },
           "DIMENSIONS": {
-               "Length": "206.9 in (5255 mm)",
-               "Width": "78.8 in (2002 mm)",
-               "Height": "77.8 in (1976 mm)",
+               "Length": 206.9,
+               "Width": 78.8,
+               "Height": 77.8,
                "Front/rear Track": "67.5/67.5 in (1,715/1,715 mm)",
-               "Wheelbase": "123.2 in (3129 mm)",
-               "Ground Clearance": "10.6 in (269 mm)",
-               "Cargo Volume": "20 cuFT (566 L)"
+               "Wheelbase": 123.2,
+               "Ground Clearance": 10.6,
+               "Cargo Volume": 20
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5360.4 lbs (2431 kg)"
+               "Unladen Weight": 5360.4
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "10.7 mpg US (22 L/100Km)",
-               "Highway": "20.5 mpg US (11.5 L/100Km)",
-               "Combined": "15.4 mpg US (15.3 L/100Km)",
-               "CO2 Emissions": "373 g/km"
+               "City": 10.7,
+               "Highway": 20.5,
+               "Combined": 15.4,
+               "CO2 Emissions": 373
           },
           "": {}
      },
@@ -2547,17 +2547,17 @@
 },{
      "model_name": "INFINITI QX4 2001-2003",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 4AT AWD (243 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3507 cm3",
+               "Displacement": 3507,
                "Power": "178.7 KW @ 6000 RPM\n243 HP @ 6000 RPM\n240 BHP @ 6000 RPM",
                "Torque": "2625 lb-ft @ 3200 RPM\n3559 Nm @ 3200 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "110 mph (177 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.1 s"
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2571,41 +2571,41 @@
                "Tire Size": "245/70 R16"
           },
           "DIMENSIONS": {
-               "Length": "183.1 in (4651 mm)",
-               "Width": "72.4 in (1839 mm)",
-               "Height": "70.7 in (1796 mm)",
+               "Length": 183.1,
+               "Width": 72.4,
+               "Height": 70.7,
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": "106.3 in (2700 mm)",
-               "Ground Clearance": "8.7 in (221 mm)",
-               "Cargo Volume": "85.5 cuFT (2421 L)",
-               "Aerodynamics (Cd)": "0.4"
+               "Wheelbase": 106.3,
+               "Ground Clearance": 8.7,
+               "Cargo Volume": 85.5,
+               "Aerodynamics (Cd)": 0.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4352 lbs (1974 kg)"
+               "Unladen Weight": 4352
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14 mpg US (16.8 L/100Km)",
-               "Highway": "17 mpg US (13.8 L/100Km)",
-               "Combined": "15 mpg US (15.7 L/100Km)",
-               "CO2 Emissions": "373 g/km"
+               "City": 14,
+               "Highway": 17,
+               "Combined": 15,
+               "CO2 Emissions": 373
           }
      },
      "img": "images/INFINITI QX4 2001-200305-03-05-16-20.jpg"
 },{
      "model_name": "INFINITI QX4 1997-2001",
      "technical_specs": {
-          "ENGINE SPECS - 3.3L V6 4AT AWD (170 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3294 cm3",
+               "Displacement": 3294,
                "Power": "125 KW @ 4800 RPM\n170 HP @ 4800 RPM\n168 BHP @ 4800 RPM",
                "Torque": "196 lb-ft @ 2800 RPM\n266 Nm @ 2800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "21.1 gallons (79.9 L)"
+               "Fuel capacity": 21.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "110 mph (177 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11.2 s"
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2619,24 +2619,24 @@
                "Tire Size": "245/70 R16"
           },
           "DIMENSIONS": {
-               "Length": "178.3 in (4529 mm)",
-               "Width": "68.7 in (1745 mm)",
-               "Height": "67.1 in (1704 mm)",
+               "Length": 178.3,
+               "Width": 68.7,
+               "Height": 67.1,
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": "106.3 in (2700 mm)",
-               "Ground Clearance": "8.7 in (221 mm)",
-               "Cargo Volume": "85 cuFT (2407 L)",
-               "Aerodynamics (Cd)": "0.4"
+               "Wheelbase": 106.3,
+               "Ground Clearance": 8.7,
+               "Cargo Volume": 85,
+               "Aerodynamics (Cd)": 0.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4277 lbs (1940 kg)",
-               "Gross Weight Limit": "5148 lbs (2335 kg)"
+               "Unladen Weight": 4277,
+               "Gross Weight Limit": 5148
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13 mpg US (18.1 L/100Km)",
-               "Highway": "17 mpg US (13.8 L/100Km)",
-               "Combined": "15 mpg US (15.7 L/100Km)",
-               "CO2 Emissions": "373 g/km"
+               "City": 13,
+               "Highway": 17,
+               "Combined": 15,
+               "CO2 Emissions": 373
           },
           "": {}
      },

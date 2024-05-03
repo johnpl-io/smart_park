@@ -2,17 +2,17 @@
 {
      "model_name": "1989 Plymouth Acclaim",
      "technical_specs": {
-          "ENGINE SPECS - 2.5I 3AT FWD (102 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2501 cm3",
+               "Displacement": 2501,
                "Power": "75 KW @ 4800 RPM\n102 HP @ 4800 RPM\n101 BHP @ 4800 RPM",
                "Torque": "135 lb-ft @ 2800 RPM\n183 Nm @ 2800 RPM",
                "Fuel System": "Multipoint Injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": "16.1 gallons (60.9 L)"
+               "Fuel capacity": 16.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "103 mph (166 km/h)"
+               "Top Speed": 103
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -26,19 +26,19 @@
                "Tire Size": "195/70 R14"
           },
           "DIMENSIONS": {
-               "Length": "181.1 in (4600 mm)",
-               "Width": "68.1 in (1730 mm)",
-               "Height": "53.5 in (1359 mm)",
+               "Length": 181.1,
+               "Width": 68.1,
+               "Height": 53.5,
                "Front/rear Track": "57.5/57.1 in (1,461/1,450 mm)",
-               "Wheelbase": "103.5 in (2629 mm)",
-               "Cargo Volume": "14.5 cuFT (411 L)"
+               "Wheelbase": 103.5,
+               "Cargo Volume": 14.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2789 lbs (1265 kg)"
+               "Unladen Weight": 2789
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15.7 mpg US (15 L/100Km)",
-               "Highway": "26.1 mpg US (9 L/100Km)"
+               "City": 15.7,
+               "Highway": 26.1
           },
           "": {}
      },
@@ -46,18 +46,18 @@
 },{
      "model_name": "1966 Plymouth Barracuda Sport Coupe",
      "technical_specs": {
-          "ENGINE SPECS - 2.8L 3AT RWD (102 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "2789 cm3",
+               "Displacement": 2789,
                "Power": "75 KW @ 4400 RPM\n102 HP @ 4400 RPM\n101 BHP @ 4400 RPM",
                "Torque": "155 lb-ft @ 2400 RPM\n210 Nm @ 2400 RPM",
                "Fuel System": "Carburettor naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18 gallons (68.1 L)"
+               "Fuel capacity": 18
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "93 mph (150 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "17.6 s"
+               "Top Speed": 93,
+               "Acceleration 0-62 Mph (0-100 kph)": 17.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -68,13 +68,13 @@
                "Rear": "Drum"
           },
           "DIMENSIONS": {
-               "Length": "188.2 in (4780 mm)",
-               "Width": "70.1 in (1781 mm)",
-               "Height": "53.9 in (1369 mm)",
-               "Wheelbase": "106 in (2692 mm)",
-               "Ground Clearance": "5.4 in (137 mm)",
+               "Length": 188.2,
+               "Width": 70.1,
+               "Height": 53.9,
+               "Wheelbase": 106,
+               "Ground Clearance": 5.4,
                "Aerodynamics (frontal area)": "2.02 m2",
-               "Aerodynamics (Cd)": "0.47",
+               "Aerodynamics (Cd)": 0.47,
                "Turning circle (curb to curb)": "37.1 ft (11.3 m)",
                "Turning circle (wall to wall)": "39.7 ft (12.1 m)"
           },
@@ -84,18 +84,18 @@
 },{
      "model_name": "1964 Barracuda Sport Coupe",
      "technical_specs": {
-          "ENGINE SPECS - 2.8L 3AT RWD (102 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "2789 cm3",
+               "Displacement": 2789,
                "Power": "75 KW @ 4400 RPM\n102 HP @ 4400 RPM\n101 BHP @ 4400 RPM",
                "Torque": "155 lb-ft @ 2400 RPM\n210 Nm @ 2400 RPM",
                "Fuel System": "Carburettor naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18 gallons (68.1 L)"
+               "Fuel capacity": 18
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "93 mph (150 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "17.6 s"
+               "Top Speed": 93,
+               "Acceleration 0-62 Mph (0-100 kph)": 17.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -106,18 +106,18 @@
                "Rear": "Drum"
           },
           "DIMENSIONS": {
-               "Length": "188.2 in (4780 mm)",
-               "Width": "70.1 in (1781 mm)",
-               "Height": "53.9 in (1369 mm)",
-               "Wheelbase": "106 in (2692 mm)",
-               "Ground Clearance": "5.4 in (137 mm)",
+               "Length": 188.2,
+               "Width": 70.1,
+               "Height": 53.9,
+               "Wheelbase": 106,
+               "Ground Clearance": 5.4,
                "Aerodynamics (frontal area)": "2.02 m2",
-               "Aerodynamics (Cd)": "0.47",
+               "Aerodynamics (Cd)": 0.47,
                "Turning circle (curb to curb)": "37.1 ft (11.3 m)",
                "Turning circle (wall to wall)": "39.7 ft (12.1 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2921 lbs (1325 kg)"
+               "Unladen Weight": 2921
           },
           "": {}
      },
@@ -125,17 +125,17 @@
 },{
      "model_name": "1996 Plymouth Breeze",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 16V 4AT (132 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1996 cm3",
+               "Displacement": 1996,
                "Power": "97.1 KW @ 6000 RPM\n132 HP @ 6000 RPM\n130 BHP @ 6000 RPM",
                "Torque": "129 lb-ft @ 5000 RPM\n175 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": "16.1 gallons (60.9 L)"
+               "Fuel capacity": 16.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)"
+               "Top Speed": 112
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -149,19 +149,19 @@
                "Tire Size": "195/70 R14"
           },
           "DIMENSIONS": {
-               "Length": "186.6 in (4740 mm)",
-               "Width": "70.9 in (1801 mm)",
-               "Height": "54.3 in (1379 mm)",
+               "Length": 186.6,
+               "Width": 70.9,
+               "Height": 54.3,
                "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
-               "Wheelbase": "108.1 in (2746 mm)",
-               "Cargo Volume": "15.2 cuFT (430 L)"
+               "Wheelbase": 108.1,
+               "Cargo Volume": 15.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2932 lbs (1330 kg)"
+               "Unladen Weight": 2932
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22 mpg US (10.7 L/100Km)",
-               "Highway": "30.9 mpg US (7.6 L/100Km)"
+               "City": 22,
+               "Highway": 30.9
           },
           "": {}
      },
@@ -169,17 +169,17 @@
 },{
      "model_name": "PLYMOUTH Laser 1989-1994",
      "technical_specs": {
-          "ENGINE SPECS - 1.8I 4AT (94 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1755 cm3",
+               "Displacement": 1755,
                "Power": "69.1 KW @ 5000 RPM\n94 HP @ 5000 RPM\n93 BHP @ 5000 RPM",
                "Torque": "105 lb-ft @ 3500 RPM\n142 Nm @ 3500 RPM",
                "Fuel System": "Multi-point indirect injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "106 mph (171 km/h)"
+               "Top Speed": 106
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -193,19 +193,19 @@
                "Tire Size": "185/70 R14"
           },
           "DIMENSIONS": {
-               "Length": "170.5 in (4331 mm)",
-               "Width": "66.5 in (1689 mm)",
-               "Height": "51.6 in (1311 mm)",
+               "Length": 170.5,
+               "Width": 66.5,
+               "Height": 51.6,
                "Front/rear Track": "57.7/57.1 in (1,466/1,450 mm)",
-               "Wheelbase": "97.2 in (2469 mm)",
-               "Cargo Volume": "10.2 cuFT (289 L)"
+               "Wheelbase": 97.2,
+               "Cargo Volume": 10.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2624 lbs (1190 kg)"
+               "Unladen Weight": 2624
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.5 mpg US (10 L/100Km)",
-               "Highway": "39.2 mpg US (6 L/100Km)"
+               "City": 23.5,
+               "Highway": 39.2
           },
           "": {}
      },
@@ -213,14 +213,14 @@
 },{
      "model_name": "PLYMOUTH Neon Coupe 1994-1999",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 16V 5MT (147 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1996 cm3",
+               "Displacement": 1996,
                "Power": "108.1 KW @ 6600 RPM\n147 HP @ 6600 RPM\n145 BHP @ 6600 RPM",
                "Torque": "128 lb-ft @ 5500 RPM\n174 Nm @ 5500 RPM",
                "Fuel System": "Multi-point indirect injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "12.4 gallons (46.9 L)"
+               "Fuel capacity": 12.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -234,33 +234,33 @@
                "Tire Size": "185/65/R14 S"
           },
           "DIMENSIONS": {
-               "Length": "171.8 in (4364 mm)",
-               "Width": "67.5 in (1715 mm)",
-               "Height": "53 in (1346 mm)",
+               "Length": 171.8,
+               "Width": 67.5,
+               "Height": 53,
                "Front/rear Track": "57.4/57.4 in (1,458/1,458 mm)",
-               "Wheelbase": "104 in (2642 mm)",
-               "Ground Clearance": "5.7 in (145 mm)",
-               "Cargo Volume": "7.6 cuFT (215 L)"
+               "Wheelbase": 104,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 7.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2385 lbs (1082 kg)"
+               "Unladen Weight": 2385
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "32.7 mpg US (7.2 L/100Km)"
+               "Combined": 32.7
           }
      },
      "img": "images/PLYMOUTH Neon Coupe 1994-199905-03-06-43-19.jpg"
 },{
      "model_name": "PLYMOUTH Neon Sedan 1994-1999",
      "technical_specs": {
-          "ENGINE SPECS - 2.0I SPORT 3AT (132 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1996 cm3",
+               "Displacement": 1996,
                "Power": "97.1 KW @ 6000 RPM\n132 HP @ 6000 RPM\n130 BHP @ 6000 RPM",
                "Torque": "129 lb-ft @ 5000 RPM\n175 Nm @ 5000 RPM",
                "Fuel System": "Multi-point indirect injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "11.1 gallons (42.0 L)"
+               "Fuel capacity": 11.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -274,19 +274,19 @@
                "Tire Size": "185/65 R15"
           },
           "DIMENSIONS": {
-               "Length": "171.8 in (4364 mm)",
-               "Width": "67.2 in (1707 mm)",
-               "Height": "54.8 in (1392 mm)",
+               "Length": 171.8,
+               "Width": 67.2,
+               "Height": 54.8,
                "Front/rear Track": "57.4/57.4 in (1,458/1,458 mm)",
-               "Wheelbase": "104 in (2642 mm)",
-               "Ground Clearance": "5.7 in (145 mm)",
-               "Cargo Volume": "7.6 cuFT (215 L)"
+               "Wheelbase": 104,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 7.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2513 lbs (1140 kg)"
+               "Unladen Weight": 2513
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "32.7 mpg US (7.2 L/100Km)"
+               "Combined": 32.7
           },
           "": {}
      },
@@ -294,17 +294,17 @@
 },{
      "model_name": "1967",
      "technical_specs": {
-          "ENGINE SPECS - 3.2L 3MT RWD (127 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "3249 cm3",
+               "Displacement": 3249,
                "Power": "93.4 KW @ 4400 RPM\n127 HP @ 4400 RPM\n125 BHP @ 4400 RPM",
                "Torque": "180 lb-ft @ 2000 RPM\n244 Nm @ 2000 RPM",
                "Fuel System": "Carburettor naturally aspirated",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "102 mph (164 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "13.4 s"
+               "Top Speed": 102,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -315,34 +315,34 @@
                "Rear": "Drum"
           },
           "DIMENSIONS": {
-               "Length": "188.4 in (4785 mm)",
-               "Width": "71.1 in (1806 mm)",
-               "Height": "54 in (1372 mm)",
+               "Length": 188.4,
+               "Width": 71.1,
+               "Height": 54,
                "Front/rear Track": "57.4/55.5 in (1,458/1,410 mm)",
-               "Wheelbase": "108 in (2743 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "14 cuFT (396 L)",
-               "Aerodynamics (Cd)": "0.48"
+               "Wheelbase": 108,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 14,
+               "Aerodynamics (Cd)": 0.48
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2921 lbs (1325 kg)"
+               "Unladen Weight": 2921
           }
      },
      "img": "images/196705-03-06-43-23.jpg"
 },{
      "model_name": "1996 Plymouth Voyager",
      "technical_specs": {
-          "ENGINE SPECS - 2.4I 16V 3AT FWD (154 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2492 cm3",
+               "Displacement": 2492,
                "Power": "113.3 KW @ 5200 RPM\n154 HP @ 5200 RPM\n152 BHP @ 5200 RPM",
                "Torque": "167 lb-ft @ 4000 RPM\n226 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19.8 gallons (75.0 L)"
+               "Fuel capacity": 19.8
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "109 mph (175 km/h)"
+               "Top Speed": 109
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -356,19 +356,19 @@
                "Tire Size": "215/65 R15"
           },
           "DIMENSIONS": {
-               "Length": "186.2 in (4729 mm)",
-               "Width": "75.6 in (1920 mm)",
-               "Height": "68.5 in (1740 mm)",
+               "Length": 186.2,
+               "Width": 75.6,
+               "Height": 68.5,
                "Front/rear Track": "63/64 in (1,600/1,626 mm)",
-               "Wheelbase": "113.4 in (2880 mm)",
-               "Ground Clearance": "17.7 in (450 mm)"
+               "Wheelbase": 113.4,
+               "Ground Clearance": 17.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3527 lbs (1600 kg)"
+               "Unladen Weight": 3527
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19.9 mpg US (11.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)"
+               "City": 19.9,
+               "Highway": 25
           },
           "": {}
      },
@@ -376,13 +376,13 @@
 },{
      "model_name": "1990 Plymouth Voyager",
      "technical_specs": {
-          "ENGINE SPECS - 2.5L AWD (101 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "74.6 KW @ - RPM\n101.4 HP @ - RPM\n100 BHP @ - RPM",
                "Torque": "135 lb-ft @ - RPM\n183 Nm @ - RPM",
                "Fuel System": "Multipoint Injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19.8 gallons (75.0 L)"
+               "Fuel capacity": 19.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
@@ -395,15 +395,15 @@
                "Tire Size": "195/70 R14 S"
           },
           "DIMENSIONS": {
-               "Length": "178.1 in (4524 mm)",
-               "Width": "72 in (1829 mm)",
-               "Height": "64.3 in (1633 mm)",
+               "Length": 178.1,
+               "Width": 72,
+               "Height": 64.3,
                "Front/rear Track": "59.9/62.1 in (1,521/1,577 mm)",
-               "Wheelbase": "112.3 in (2852 mm)",
-               "Cargo Volume": "23.7 cuFT (671 L)"
+               "Wheelbase": 112.3,
+               "Cargo Volume": 23.7
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "19 mpg US (12.4 L/100Km)"
+               "Combined": 19
           },
           "": {}
      },
@@ -411,17 +411,17 @@
 },{
      "model_name": "1984 Plymouth Voyager",
      "technical_specs": {
-          "ENGINE SPECS - 2.2L 3AT FWD (97 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2213 cm3",
+               "Displacement": 2213,
                "Power": "72.3 KW @ 5600 RPM\n98.3 HP @ 5600 RPM\n97 BHP @ 5600 RPM",
                "Torque": "121 lb-ft @ 3600 RPM\n164 Nm @ 3600 RPM",
                "Fuel System": "Multi-point indirect injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "96 mph (154 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15.8 s"
+               "Top Speed": 96,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -431,18 +431,18 @@
                "Tire Size": "P 185/75 R 14"
           },
           "DIMENSIONS": {
-               "Length": "175.9 in (4468 mm)",
-               "Width": "69.6 in (1768 mm)",
-               "Height": "64.2 in (1631 mm)",
+               "Length": 175.9,
+               "Width": 69.6,
+               "Height": 64.2,
                "Front/rear Track": "59.9/62.1 in (1,521/1,577 mm)",
-               "Ground Clearance": "5.4 in (137 mm)",
-               "Cargo Volume": "15.5 cuFT (439 L)",
+               "Ground Clearance": 5.4,
+               "Cargo Volume": 15.5,
                "Aerodynamics (frontal area)": "2.39 m2",
-               "Aerodynamics (Cd)": "0.43",
+               "Aerodynamics (Cd)": 0.43,
                "Turning circle (curb to curb)": "41 ft (12.5 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2934 lbs (1331 kg)"
+               "Unladen Weight": 2934
           },
           "": {}
      },

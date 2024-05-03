@@ -2,15 +2,15 @@
 {
      "model_name": "TVR Griffith 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS - 5.0 V8 6MT": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4951 cm3",
+               "Displacement": 4951,
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "200 mph (322 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4 s"
+               "Top Speed": 200,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -24,33 +24,33 @@
                "Tire Size": "235/35 ZR19 || 275/30 ZR20"
           },
           "DIMENSIONS": {
-               "Length": "169.8 in (4313 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "48.8 in (1240 mm)",
+               "Length": 169.8,
+               "Width": 72.8,
+               "Height": 48.8,
                "Front/rear Track": "63/61.3 in (1,600/1,557 mm)",
-               "Wheelbase": "102.4 in (2601 mm)",
-               "Ground Clearance": "5.4 in (137 mm)"
+               "Wheelbase": 102.4,
+               "Ground Clearance": 5.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2756 lbs (1250 kg)"
+               "Unladen Weight": 2756
           }
      },
      "img": "images/TVR Griffith 2017-Present05-03-07-38-51.jpg"
 },{
      "model_name": "TVR Griffith 1992-2002",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L V8 5MT RWD (240 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3948 cm3",
+               "Displacement": 3948,
                "Power": "177 KW @ 5250 RPM\n241 HP @ 5250 RPM\n237 BHP @ 5250 RPM",
                "Torque": "270 lb-ft @ 4000 RPM\n366 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.1 gallons (57.2 L)"
+               "Fuel capacity": 15.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "158 mph (254 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
+               "Top Speed": 158,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -64,23 +64,23 @@
                "Tire Size": "225/55 ZR15 //245/45 ZR16"
           },
           "DIMENSIONS": {
-               "Length": "153.2 in (3891 mm)",
-               "Width": "67.7 in (1720 mm)",
-               "Height": "47.4 in (1204 mm)",
+               "Length": 153.2,
+               "Width": 67.7,
+               "Height": 47.4,
                "Front/rear Track": "57.5/57.9 in (1,461/1,471 mm)",
-               "Wheelbase": "90 in (2286 mm)",
-               "Ground Clearance": "5.7 in (145 mm)",
-               "Cargo Volume": "10.9 cuFT (309 L)"
+               "Wheelbase": 90,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 10.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2337 lbs (1060 kg)",
-               "Gross Weight Limit": "2866 lbs (1300 kg)"
+               "Unladen Weight": 2337,
+               "Gross Weight Limit": 2866
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "12.4 mpg US (19 L/100Km)",
-               "Highway": "19.6 mpg US (12 L/100Km)",
-               "Combined": "15.2 mpg US (15.5 L/100Km)",
-               "CO2 Emissions": "369 g/km"
+               "City": 12.4,
+               "Highway": 19.6,
+               "Combined": 15.2,
+               "CO2 Emissions": 369
           },
           "": {}
      },
@@ -88,17 +88,17 @@
 },{
      "model_name": "TVR 280i/ 350i Convertible 1983-1987",
      "technical_specs": {
-          "ENGINE SPECS - 280I V6 5MT RWD (160 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2792 cm3",
+               "Displacement": 2792,
                "Power": "118 KW @ 5700 RPM\n160 HP @ 5700 RPM\n158 BHP @ 5700 RPM",
                "Torque": "162 lb-ft @ 4300 RPM\n220 Nm @ 4300 RPM",
                "Fuel System": "Mechanical Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.7 s"
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -109,12 +109,12 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "158 in (4013 mm)",
-               "Width": "68 in (1727 mm)",
-               "Height": "47.5 in (1207 mm)",
+               "Length": 158,
+               "Width": 68,
+               "Height": 47.5,
                "Front/rear Track": "56.5/56.7 in (1,435/1,440 mm)",
-               "Wheelbase": "94.8 in (2408 mm)",
-               "Aerodynamics (Cd)": "0.37"
+               "Wheelbase": 94.8,
+               "Aerodynamics (Cd)": 0.37
           },
           "": {}
      },
@@ -122,17 +122,17 @@
 },{
      "model_name": "TVR Cerbera 2000-2004",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L SPEED SIX 5MT (350 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "3996 cm3",
+               "Displacement": 3996,
                "Power": "258 KW @ 6800 RPM\n350 HP @ 6800 RPM\n346 BHP @ 6800 RPM",
                "Torque": "330 lb-ft @ 5000 RPM\n448 Nm @ 5000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "170 mph (274 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
+               "Top Speed": 170,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -146,21 +146,21 @@
                "Tire Size": "225/50 R16"
           },
           "DIMENSIONS": {
-               "Length": "168.5 in (4280 mm)",
-               "Width": "73.4 in (1864 mm)",
-               "Height": "48 in (1219 mm)",
+               "Length": 168.5,
+               "Width": 73.4,
+               "Height": 48,
                "Front/rear Track": "57.6/57.9 in (1,463/1,471 mm)",
-               "Wheelbase": "101 in (2565 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "13.8 cuFT (391 L)"
+               "Wheelbase": 101,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 13.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2491 lbs (1130 kg)",
-               "Gross Weight Limit": "3087 lbs (1400 kg)"
+               "Unladen Weight": 2491,
+               "Gross Weight Limit": 3087
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "15.7 mpg US (15 L/100Km)",
-               "CO2 Emissions": "354.6 g/km"
+               "Combined": 15.7,
+               "CO2 Emissions": 354.6
           },
           "": {}
      },
@@ -168,17 +168,17 @@
 },{
      "model_name": "TVR Cerbera 1996-2000",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L SPEED SIX 5MT FWD (350 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "3996 cm3",
+               "Displacement": 3996,
                "Power": "258 KW @ 6800 RPM\n350 HP @ 6800 RPM\n346 BHP @ 6800 RPM",
                "Torque": "330 lb-ft @ 5000 RPM\n448 Nm @ 5000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "170 mph (274 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
+               "Top Speed": 170,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -192,22 +192,22 @@
                "Tire Size": "225/50 ZR 16"
           },
           "DIMENSIONS": {
-               "Length": "168.5 in (4280 mm)",
-               "Width": "73.4 in (1864 mm)",
-               "Height": "48 in (1219 mm)",
+               "Length": 168.5,
+               "Width": 73.4,
+               "Height": 48,
                "Front/rear Track": "57.6/57.9 in (1,463/1,471 mm)",
-               "Wheelbase": "101 in (2565 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "13.8 cuFT (391 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 101,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 13.8,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2491 lbs (1130 kg)",
-               "Gross Weight Limit": "3087 lbs (1400 kg)"
+               "Unladen Weight": 2491,
+               "Gross Weight Limit": 3087
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "15.7 mpg US (15 L/100Km)",
-               "CO2 Emissions": "357 g/km"
+               "Combined": 15.7,
+               "CO2 Emissions": 357
           },
           "": {}
      },
@@ -215,18 +215,18 @@
 },{
      "model_name": "TVR Chimaera 1992-2001",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L 400 V8 5MT (243 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3950 cm3",
+               "Displacement": 3950,
                "Power": "178.7 KW @ 5250 RPM\n243 HP @ 5250 RPM\n240 BHP @ 5250 RPM",
                "Torque": "270 lb-ft @ 4000 RPM\n366 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.1 gallons (57.2 L)"
+               "Fuel capacity": 15.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "152 mph (245 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -240,22 +240,22 @@
                "Tire Size": "225/55 ZR15 // 245/45 ZR16"
           },
           "DIMENSIONS": {
-               "Length": "158.1 in (4016 mm)",
-               "Width": "67.7 in (1720 mm)",
-               "Height": "47.8 in (1214 mm)",
+               "Length": 158.1,
+               "Width": 67.7,
+               "Height": 47.8,
                "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
-               "Wheelbase": "90 in (2286 mm)",
-               "Ground Clearance": "5 in (127 mm)",
-               "Cargo Volume": "10.9 cuFT (309 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 90,
+               "Ground Clearance": 5,
+               "Cargo Volume": 10.9,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2315 lbs (1050 kg)",
-               "Gross Weight Limit": "2866 lbs (1300 kg)"
+               "Unladen Weight": 2315,
+               "Gross Weight Limit": 2866
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "19.6 mpg US (12 L/100Km)",
-               "CO2 Emissions": "285.6 g/km"
+               "Combined": 19.6,
+               "CO2 Emissions": 285.6
           },
           "": {}
      },
@@ -263,17 +263,17 @@
 },{
      "model_name": "TVR Sagaris 2004-2006",
      "technical_specs": {
-          "ENGINE SPECS - 4.0": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "3996 cm3",
+               "Displacement": 3996,
                "Power": "283 KW @ 7000 RPM\n380 HP @ 7000 RPM\n380 BHP @ 7000 RPM",
                "Torque": "349 lb-ft @ 5000 RPM\n473 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "183.3 mph (295 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+               "Top Speed": 183.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -287,33 +287,33 @@
                "Tire Size": "255/35 R18"
           },
           "DIMENSIONS": {
-               "Length": "159.7 in (4056 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "46.3 in (1176 mm)",
+               "Length": 159.7,
+               "Width": 72.8,
+               "Height": 46.3,
                "Front/rear Track": "59.4/59.8 in (1,509/1,519 mm)",
-               "Wheelbase": "93 in (2362 mm)",
-               "Ground Clearance": "3.3 in (84 mm)",
-               "Cargo Volume": "17.5 cuFT (496 L)"
+               "Wheelbase": 93,
+               "Ground Clearance": 3.3,
+               "Cargo Volume": 17.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2376.58 lbs (1078 kg)"
+               "Unladen Weight": 2376.58
           }
      },
      "img": "images/TVR Sagaris 2004-200605-03-07-39-04.jpg"
 },{
      "model_name": "TVR T350 T 2002-2006",
      "technical_specs": {
-          "ENGINE SPECS - 3.6": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "3605 cm3",
+               "Displacement": 3605,
                "Power": "257 KW @ 7200 RPM\n350 HP @ 7200 RPM\n345 BHP @ 7200 RPM",
                "Torque": "288 lb-ft @ 5500 RPM\n391 Nm @ 5500 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "175 mph (282 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
+               "Top Speed": 175,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -327,16 +327,16 @@
                "Tire Size": "225/35 ZR18 (front) - 235/40 ZR18 (rear)"
           },
           "DIMENSIONS": {
-               "Length": "156.5 in (3975 mm)",
-               "Width": "72.2 in (1834 mm)",
-               "Height": "47.4 in (1204 mm)",
+               "Length": 156.5,
+               "Width": 72.2,
+               "Height": 47.4,
                "Front/rear Track": "56.9/59.1 in (1,445/1,501 mm)",
-               "Wheelbase": "93 in (2362 mm)",
-               "Ground Clearance": "3.9 in (99 mm)"
+               "Wheelbase": 93,
+               "Ground Clearance": 3.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2617 lbs (1187 kg)",
-               "Gross Weight Limit": "2821.9 lbs (1280 kg)"
+               "Unladen Weight": 2617,
+               "Gross Weight Limit": 2821.9
           },
           "": {}
      },
@@ -344,17 +344,17 @@
 },{
      "model_name": "2002 TVR T350 C",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L 5MT (350 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "3605 cm3",
+               "Displacement": 3605,
                "Power": "257 KW @ 7200 RPM\n350 HP @ 7200 RPM\n345 BHP @ 7200 RPM",
                "Torque": "288 lb-ft @ 5500 RPM\n391 Nm @ 5500 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "175 mph (282 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
+               "Top Speed": 175,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -368,15 +368,15 @@
                "Tire Size": "225/35 ZR18 // 235/40 ZR18"
           },
           "DIMENSIONS": {
-               "Length": "156.5 in (3975 mm)",
-               "Width": "72.2 in (1834 mm)",
-               "Height": "47.4 in (1204 mm)",
+               "Length": 156.5,
+               "Width": 72.2,
+               "Height": 47.4,
                "Front/rear Track": "57.9/57.9 in (1,471/1,471 mm)",
-               "Wheelbase": "93 in (2362 mm)",
-               "Ground Clearance": "3.9 in (99 mm)"
+               "Wheelbase": 93,
+               "Ground Clearance": 3.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2617 lbs (1187 kg)"
+               "Unladen Weight": 2617
           },
           "": {}
      },
@@ -384,17 +384,17 @@
 },{
      "model_name": "2002 TVR Tamora",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 5MT (350 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "3605 cm3",
+               "Displacement": 3605,
                "Power": "261 KW @ 7500 RPM\n350 HP @ 7500 RPM\n350 BHP @ 7500 RPM",
                "Torque": "290 lb-ft @ 5750 RPM\n393 Nm @ 5750 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "174 mph (280 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
+               "Top Speed": 174,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -408,37 +408,37 @@
                "Tire Size": "225/50 ZR16 (front) - 255/50 R16 (rear)"
           },
           "DIMENSIONS": {
-               "Length": "154.5 in (3924 mm)",
-               "Width": "67.5 in (1715 mm)",
-               "Height": "47.2 in (1199 mm)",
-               "Wheelbase": "93 in (2362 mm)",
-               "Ground Clearance": "4 in (102 mm)"
+               "Length": 154.5,
+               "Width": 67.5,
+               "Height": 47.2,
+               "Wheelbase": 93,
+               "Ground Clearance": 4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2337.3 lbs (1060 kg)"
+               "Unladen Weight": 2337.3
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "12.4 mpg US (19 L/100Km)",
-               "Highway": "18.1 mpg US (13 L/100Km)",
-               "Combined": "14.7 mpg US (16 L/100Km)",
-               "CO2 Emissions": "380.8 g/km"
+               "City": 12.4,
+               "Highway": 18.1,
+               "Combined": 14.7,
+               "CO2 Emissions": 380.8
           }
      },
      "img": "images/2002 TVR Tamora05-03-07-39-10.jpg"
 },{
      "model_name": "TVR Tuscan 2001-2005",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L 5MT (350 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "3605 cm3",
+               "Displacement": 3605,
                "Power": "257 KW @ 7500 RPM\n350 HP @ 7500 RPM\n345 BHP @ 7500 RPM",
                "Torque": "287 lb-ft @ 5750 RPM\n389 Nm @ 5750 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "175 mph (282 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
+               "Top Speed": 175,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -452,39 +452,39 @@
                "Tire Size": "Front 225/50 ZR16 - Rear 255/55 ZR16"
           },
           "DIMENSIONS": {
-               "Length": "166.7 in (4234 mm)",
-               "Width": "71.3 in (1811 mm)",
-               "Height": "47.2 in (1199 mm)",
+               "Length": 166.7,
+               "Width": 71.3,
+               "Height": 47.2,
                "Front/rear Track": "56.9/59.1 in (1,445/1,501 mm)",
-               "Wheelbase": "93 in (2362 mm)",
-               "Ground Clearance": "4 in (102 mm)",
-               "Cargo Volume": "9.7 cuFT (275 L)"
+               "Wheelbase": 93,
+               "Ground Clearance": 4,
+               "Cargo Volume": 9.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2425 lbs (1100 kg)",
-               "Gross Weight Limit": "2821.9 lbs (1280 kg)"
+               "Unladen Weight": 2425,
+               "Gross Weight Limit": 2821.9
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "12.4 mpg US (19 L/100Km)",
-               "Highway": "16.8 mpg US (14 L/100Km)",
-               "Combined": "14.3 mpg US (16.4 L/100Km)"
+               "City": 12.4,
+               "Highway": 16.8,
+               "Combined": 14.3
           }
      },
      "img": "images/TVR Tuscan 2001-200505-03-07-39-11.jpg"
 },{
      "model_name": "TVR Tuscan R/T 440R/ T 400R/Typhon 2000-2006",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L 5MT (400 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "3996 cm3",
+               "Displacement": 3996,
                "Power": "294 KW @ 7000 RPM\n400 HP @ 7000 RPM\n394 BHP @ 7000 RPM",
                "Torque": "333 lb-ft @ 5250 RPM\n451 Nm @ 5250 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "195 mph (314 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+               "Top Speed": 195,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -498,13 +498,13 @@
                "Tire Size": "225/35 ZR18 (front) - 235/40 ZR18 (rear)"
           },
           "DIMENSIONS": {
-               "Length": "171.9 in (4366 mm)",
-               "Width": "74 in (1880 mm)",
-               "Height": "47.6 in (1209 mm)",
-               "Wheelbase": "101 in (2565 mm)"
+               "Length": 171.9,
+               "Width": 74,
+               "Height": 47.6,
+               "Wheelbase": 101
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2304 lbs (1045 kg)"
+               "Unladen Weight": 2304
           },
           "": {}
      },
@@ -512,17 +512,17 @@
 },{
      "model_name": "TVR Tuscan S 2005-2006",
      "technical_specs": {
-          "ENGINE SPECS - 4.0": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "3996 cm3",
+               "Displacement": 3996,
                "Power": "294 KW @ 7000 RPM\n400 HP @ 7000 RPM\n394 BHP @ 7000 RPM",
                "Torque": "333 lb-ft @ 5250 RPM\n451 Nm @ 5250 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "195 mph (314 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+               "Top Speed": 195,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -536,40 +536,40 @@
                "Tire Size": "225/35 ZR18 (front) - 235/40 ZR18 (rear)"
           },
           "DIMENSIONS": {
-               "Length": "166.7 in (4234 mm)",
-               "Width": "71.3 in (1811 mm)",
-               "Height": "47.2 in (1199 mm)",
+               "Length": 166.7,
+               "Width": 71.3,
+               "Height": 47.2,
                "Front/rear Track": "56.9/59.1 in (1,445/1,501 mm)",
-               "Wheelbase": "93 in (2362 mm)",
-               "Ground Clearance": "4 in (102 mm)",
-               "Cargo Volume": "9.6 cuFT (272 L)"
+               "Wheelbase": 93,
+               "Ground Clearance": 4,
+               "Cargo Volume": 9.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2425 lbs (1100 kg)",
-               "Gross Weight Limit": "2821.9 lbs (1280 kg)"
+               "Unladen Weight": 2425,
+               "Gross Weight Limit": 2821.9
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "11.8 mpg US (19.9 L/100Km)",
-               "Highway": "15.7 mpg US (15 L/100Km)",
-               "Combined": "13.4 mpg US (17.6 L/100Km)",
-               "CO2 Emissions": "416.5 g/km"
+               "City": 11.8,
+               "Highway": 15.7,
+               "Combined": 13.4,
+               "CO2 Emissions": 416.5
           }
      },
      "img": "images/TVR Tuscan S 2005-200605-03-07-39-15.jpg"
 },{
      "model_name": "TVR Tuscan S 2001-2005",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L 5MT (394 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "3996 cm3",
+               "Displacement": 3996,
                "Power": "290 KW @ 7000 RPM\n394 HP @ 7000 RPM\n389 BHP @ 7000 RPM",
                "Torque": "310 lb-ft @ 5250 RPM\n420 Nm @ 5250 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "190 mph (306 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -583,35 +583,35 @@
                "Tire Size": "235/35 ZR18 (front) - 245/40 ZR18 (rear)"
           },
           "DIMENSIONS": {
-               "Length": "166.7 in (4234 mm)",
-               "Width": "71.3 in (1811 mm)",
-               "Height": "47.2 in (1199 mm)",
+               "Length": 166.7,
+               "Width": 71.3,
+               "Height": 47.2,
                "Front/rear Track": "56.9/59.1 in (1,445/1,501 mm)",
-               "Wheelbase": "93 in (2362 mm)",
-               "Ground Clearance": "4 in (102 mm)",
-               "Cargo Volume": "9.7 cuFT (275 L)"
+               "Wheelbase": 93,
+               "Ground Clearance": 4,
+               "Cargo Volume": 9.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2425 lbs (1100 kg)",
-               "Gross Weight Limit": "2821.9 lbs (1280 kg)"
+               "Unladen Weight": 2425,
+               "Gross Weight Limit": 2821.9
           }
      },
      "img": "images/TVR Tuscan S 2001-200505-03-07-39-17.jpg"
 },{
      "model_name": "TVR Tuscan S Convertible 2005-2006",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L 5MT (360 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "3996 cm3",
+               "Displacement": 3996,
                "Power": "264.8 KW @ 7000 RPM\n360 HP @ 7000 RPM\n355 BHP @ 7000 RPM",
                "Torque": "310 lb-ft @ 5250 RPM\n420 Nm @ 5250 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "17.2 gallons (65.1 L)"
+               "Fuel capacity": 17.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "190 mph (306 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+               "Top Speed": 190,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -625,22 +625,22 @@
                "Tire Size": "235/40 ZR18 // 245/40 ZR18"
           },
           "DIMENSIONS": {
-               "Length": "166.7 in (4234 mm)",
-               "Width": "71.3 in (1811 mm)",
-               "Height": "47.2 in (1199 mm)",
+               "Length": 166.7,
+               "Width": 71.3,
+               "Height": 47.2,
                "Front/rear Track": "56.9/59.1 in (1,445/1,501 mm)",
-               "Wheelbase": "93 in (2362 mm)",
-               "Ground Clearance": "4 in (102 mm)",
-               "Cargo Volume": "9.7 cuFT (275 L)"
+               "Wheelbase": 93,
+               "Ground Clearance": 4,
+               "Cargo Volume": 9.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2546.8 lbs (1155 kg)",
-               "Gross Weight Limit": "2821.9 lbs (1280 kg)"
+               "Unladen Weight": 2546.8,
+               "Gross Weight Limit": 2821.9
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "11.8 mpg US (19.9 L/100Km)",
-               "Highway": "15.7 mpg US (15 L/100Km)",
-               "Combined": "13.4 mpg US (17.6 L/100Km)"
+               "City": 11.8,
+               "Highway": 15.7,
+               "Combined": 13.4
           },
           "": {}
      },

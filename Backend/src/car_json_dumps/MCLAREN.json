@@ -2,18 +2,18 @@
 {
      "model_name": "2020 MCLAREN GT",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L V8 7AT RWD (620 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3994 cm3",
+               "Displacement": 3994,
                "Power": "456 KW @ 7500 RPM\n620 HP @ 7500 RPM\n612 BHP @ 7500 RPM",
                "Torque": "465 lb-ft @ 5500-6500 RPM\n630 Nm @ 5500-6500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19 gallons (71.9 L)"
+               "Fuel capacity": 19
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "203 mph (327 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
+               "Top Speed": 203,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -27,28 +27,28 @@
                "Tire Size": "225/35/R20 // 295/30/R21"
           },
           "DIMENSIONS": {
-               "Length": "184.4 in (4684 mm)",
-               "Width": "82.5 in (2096 mm)",
-               "Height": "47.8 in (1214 mm)",
+               "Length": 184.4,
+               "Width": 82.5,
+               "Height": 47.8,
                "Front/rear Track": "65.8/65.5 in (1,671/1,664 mm)",
-               "Wheelbase": "105.3 in (2675 mm)",
-               "Cargo Volume": "20.1 cuFT (569 L)"
+               "Wheelbase": 105.3,
+               "Cargo Volume": 20.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3373 lbs (1530 kg)"
+               "Unladen Weight": 3373
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16.1 mpg US (14.6 L/100Km)",
-               "Highway": "27 mpg US (8.7 L/100Km)",
-               "Combined": "21.8 mpg US (10.8 L/100Km)",
-               "CO2 Emissions": "245 g/km"
+               "City": 16.1,
+               "Highway": 27,
+               "Combined": 21.8,
+               "CO2 Emissions": 245
           },
           "FUEL ECONOMY (WLTP)": {
                "Low": "10.6 mpg US (22.2 L/100Km)",
                "Medium": "19.8 mpg US (11.9 L/100Km)",
                "High": "25.3 mpg US (9.3 L/100Km)",
                "Extra high": "23.1 mpg US (10.2 L/100Km)",
-               "Combined": "19.8 mpg US (11.9 L/100Km)",
+               "Combined": 19.8,
                "CO2 Emissions (Combined)": "270 g/km"
           },
           "NOTES": {
@@ -59,17 +59,17 @@
 },{
      "model_name": "MCLAREN Senna 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - 4.0 V8 (800 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3999 cm3",
+               "Displacement": 3999,
                "Power": "588.4 KW @ - RPM\n800 HP @ - RPM\n789 BHP @ - RPM",
                "Torque": "590 lb-ft @ 3000 RPM\n800 Nm @ 3000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "211 mph (340 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
+               "Top Speed": 211,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive"
@@ -82,7 +82,7 @@
                "Tire Size": "245/35 ZR19 || 315/30 ZR20"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2641 lbs (1198 kg)"
+               "Unladen Weight": 2641
           },
           "NOTES": {}
      },
@@ -90,17 +90,17 @@
 },{
      "model_name": "MCLAREN 570S Spider 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.8 V8 7AT (570 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "419.2 KW @ 7500 RPM\n570 HP @ 7500 RPM\n562 BHP @ 7500 RPM",
                "Torque": "443 lb-ft @ 5000-6500 RPM\n600 Nm @ 5000-6500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "204 mph (328 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
+               "Top Speed": 204,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -114,30 +114,30 @@
                "Tire Size": "225/35 R19 || 285/35 R20"
           },
           "DIMENSIONS": {
-               "Length": "178.3 in (4529 mm)",
-               "Width": "80.5 in (2045 mm)",
-               "Height": "47.3 in (1201 mm)",
+               "Length": 178.3,
+               "Width": 80.5,
+               "Height": 47.3,
                "Front/rear Track": "65.9/63.7 in (1,674/1,618 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Cargo Volume": "5.3 cuFT (150 L)"
+               "Wheelbase": 105.1,
+               "Cargo Volume": 5.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3303 lbs (1498 kg)"
+               "Unladen Weight": 3303
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13.7 mpg US (17.2 L/100Km)",
-               "Highway": "31.8 mpg US (7.4 L/100Km)",
-               "Combined": "22 mpg US (10.7 L/100Km)",
-               "CO2 Emissions": "249 g/km"
+               "City": 13.7,
+               "Highway": 31.8,
+               "Combined": 22,
+               "CO2 Emissions": 249
           }
      },
      "img": "images/MCLAREN 570S Spider 2017-Present05-03-05-47-46.jpg"
 },{
      "model_name": "2025 McLaren Artura Spider",
      "technical_specs": {
-          "ENGINE SPECS - 3.0L V6 PHEV 8AT (700 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2993 cm3",
+               "Displacement": 2993,
                "Power": "445 KW @ 7000 RPM\n605 HP @ 7000 RPM\n597 BHP @ 7000 RPM",
                "Torque": "432 lb-ft @ 2250-7000 RPM\n585 Nm @ 2250-7000 RPM",
                "Electrical motor power": "69.9 kw (95 hp)",
@@ -146,11 +146,11 @@
                "Total maximum torque": "531 lb-ft (720 Nm)",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Plug-in Hybrid",
-               "Fuel capacity": "17.2 gallons (65.1 L)"
+               "Fuel capacity": 17.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "205 mph (330 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3 s"
+               "Top Speed": 205,
+               "Acceleration 0-62 Mph (0-100 kph)": 3
           },
           "TRANSMISSION SPECS": {
                "Gearbox": "8-Speed SSG (reverse using E-motor) with Electronic Differential (E-Diff). Electric, Comfort, Sport and Track modes"
@@ -163,19 +163,19 @@
                "Tire Size": "235/35/ZR19 91Y // 295/35/ZR20 105Y"
           },
           "DIMENSIONS": {
-               "Length": "178.7 in (4539 mm)",
-               "Width": "77.8 in (1976 mm)",
-               "Height": "47 in (1194 mm)",
+               "Length": 178.7,
+               "Width": 77.8,
+               "Height": 47,
                "Front/rear Track": "65/63.5 in (1,651/1,613 mm)",
-               "Wheelbase": "103.9 in (2639 mm)",
-               "Cargo Volume": "5.7 cuFT (161 L)"
+               "Wheelbase": 103.9,
+               "Cargo Volume": 5.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3439 lbs (1560 kg)"
+               "Unladen Weight": 3439
           },
           "POWER SYSTEM SPECS": {
-               "Nominal Capacity": "7.4 kWh",
-               "Range": "11 miles (17.7 km)"
+               "Nominal Capacity": 7.4,
+               "Range": 11
           },
           "NOTES": {
                "Maximum speed (km/h/mph)": "330/205 \u2013 electronically limited\nBattery charge time: 2.5 hours (via EVSE cable) to 80%"
@@ -185,9 +185,9 @@
 },{
      "model_name": "MCLAREN Artura 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.0L V6 8AT (680 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2993 cm3",
+               "Displacement": 2993,
                "Power": "430.3 KW @ 7500 RPM\n585 HP @ 7500 RPM\n577 BHP @ 7500 RPM",
                "Torque": "432 lb-ft @ 2250-7000 RPM\n585 Nm @ 2250-7000 RPM",
                "Electrical motor power": "69.9 kw (95 hp)",
@@ -196,12 +196,12 @@
                "Total maximum torque": "531 lb-ft (720 Nm)",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Hybrid Gasoline",
-               "Fuel capacity": "19 gallons (71.9 L)"
+               "Fuel capacity": 19
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "205 mph (330 km/h)",
+               "Top Speed": 205,
                "Top speed (electrical)": "81 mph (130 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.1 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 3.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -215,33 +215,33 @@
                "Tire Size": "235/35Z/R19 91Y // 295/35/R20 105Y"
           },
           "DIMENSIONS": {
-               "Length": "178.7 in (4539 mm)",
-               "Width": "77.8 in (1976 mm)",
-               "Height": "47 in (1194 mm)",
+               "Length": 178.7,
+               "Width": 77.8,
+               "Height": 47,
                "Front/rear Track": "65/63.5 in (1,651/1,613 mm)",
-               "Wheelbase": "103.9 in (2639 mm)",
-               "Cargo Volume": "5.7 cuFT (161 L)"
+               "Wheelbase": 103.9,
+               "Cargo Volume": 5.7
           },
           "POWER SYSTEM SPECS": {
-               "Nominal Capacity": "7.4 kWh",
-               "Range": "18.6 miles (29.9 km)"
+               "Nominal Capacity": 7.4,
+               "Range": 18.6
           }
      },
      "img": "images/MCLAREN Artura 2021-Present05-03-05-47-50.jpg"
 },{
      "model_name": "MCLAREN 600LT 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.8L V8 7AT (600 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "441.3 KW @ 7250 RPM\n600 HP @ 7250 RPM\n592 BHP @ 7250 RPM",
                "Torque": "457 lb-ft @ 3000-7000 RPM\n620 Nm @ 3000-7000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "207 mph (333 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
+               "Top Speed": 207,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -255,27 +255,27 @@
                "Tire Size": "235/35 R19 || 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": "180.3 in (4580 mm)"
+               "Length": 180.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2749 lbs (1247 kg)"
+               "Unladen Weight": 2749
           }
      },
      "img": "images/MCLAREN 600LT 2018-Present05-03-05-47-52.jpg"
 },{
      "model_name": "MCLAREN 620R 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.8L V8 7AT (620 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "456 KW @ 7000 RPM\n620 HP @ 7000 RPM\n612 BHP @ 7000 RPM",
                "Torque": "457 lb-ft @ 3500 RPM\n620 Nm @ 3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "200 mph (322 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
+               "Top Speed": 200,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -289,37 +289,37 @@
                "Tire Size": "225/35/R19 // 285/35/R20"
           },
           "DIMENSIONS": {
-               "Length": "179.4 in (4557 mm)",
-               "Width": "80.5 in (2045 mm)",
-               "Height": "47 in (1194 mm)",
+               "Length": 179.4,
+               "Width": 80.5,
+               "Height": 47,
                "Front/rear Track": "66.1/63.7 in (1,679/1,618 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Cargo Volume": "4.2 cuFT (119 L)"
+               "Wheelbase": 105.1,
+               "Cargo Volume": 4.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3056 lbs (1386 kg)"
+               "Unladen Weight": 3056
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "23.1 mpg US (10.2 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)"
+               "City": 15,
+               "Highway": 23.1,
+               "Combined": 18
           }
      },
      "img": "images/MCLAREN 620R 2019-Present05-03-05-47-54.jpg"
 },{
      "model_name": "MCLAREN 540C 2015-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.8 V8 7AT (540 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "397.2 KW @ 7500 RPM\n540 HP @ 7500 RPM\n533 BHP @ 7500 RPM",
                "Torque": "398 lb-ft @ 3500-6500 RPM\n540 Nm @ 3500-6500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "199 mph (320 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.5 s"
+               "Top Speed": 199,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -333,37 +333,37 @@
                "Tire Size": "225/35/R19"
           },
           "DIMENSIONS": {
-               "Length": "178.3 in (4529 mm)",
-               "Width": "82.5 in (2096 mm)",
-               "Height": "47.3 in (1201 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Cargo Volume": "5.3 cuFT (150 L)"
+               "Length": 178.3,
+               "Width": 82.5,
+               "Height": 47.3,
+               "Wheelbase": 105.1,
+               "Cargo Volume": 5.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2976 lbs (1350 kg)"
+               "Unladen Weight": 2976
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14.2 mpg US (16.6 L/100Km)",
-               "Highway": "29 mpg US (8.1 L/100Km)",
-               "Combined": "21.2 mpg US (11.1 L/100Km)",
-               "CO2 Emissions": "258 g/km"
+               "City": 14.2,
+               "Highway": 29,
+               "Combined": 21.2,
+               "CO2 Emissions": 258
           }
      },
      "img": "images/MCLAREN 540C 2015-Present05-03-05-47-55.jpg"
 },{
      "model_name": "MCLAREN 720S Spider 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L V8 7AT (720 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3994 cm3",
+               "Displacement": 3994,
                "Power": "529.6 KW @ 7500 RPM\n720 HP @ 7500 RPM\n710 BHP @ 7500 RPM",
                "Torque": "568 lb-ft @ 6500 RPM\n770 Nm @ 6500 RPM",
                "Fuel System": "Turbocharge Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "212 mph (341 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
+               "Top Speed": 212,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -377,38 +377,38 @@
                "Tire Size": "245/35/R19 93Y // 305/30/R20 103Y"
           },
           "DIMENSIONS": {
-               "Length": "178.9 in (4544 mm)",
-               "Width": "85.1 in (2162 mm)",
-               "Height": "47.1 in (1196 mm)",
+               "Length": 178.9,
+               "Width": 85.1,
+               "Height": 47.1,
                "Front/rear Track": "65.9/64.1 in (1,674/1,628 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Cargo Volume": "5.3 cuFT (150 L)"
+               "Wheelbase": 105.1,
+               "Cargo Volume": 5.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2937 lbs (1332 kg)"
+               "Unladen Weight": 2937
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14 mpg US (16.8 L/100Km)",
-               "Highway": "27.4 mpg US (8.6 L/100Km)",
-               "Combined": "20.3 mpg US (11.6 L/100Km)",
-               "CO2 Emissions": "276 g/km"
+               "City": 14,
+               "Highway": 27.4,
+               "Combined": 20.3,
+               "CO2 Emissions": 276
           }
      },
      "img": "images/MCLAREN 720S Spider 2018-Present05-03-05-47-57.jpg"
 },{
      "model_name": "MCLAREN 720S 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS - 4.0 V8 7AT (720 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3994 cm3",
+               "Displacement": 3994,
                "Power": "529.6 KW @ 7250 RPM\n720.1 HP @ 7250 RPM\n710 BHP @ 7250 RPM",
                "Torque": "568 lb-ft @ 5500 RPM\n770 Nm @ 5500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "212 mph (341 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
+               "Top Speed": 212,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -422,28 +422,28 @@
                "Tire Size": "245 / 35 / R19 || 305 / 30 / R20"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2915 lbs (1322 kg)"
+               "Unladen Weight": 2915
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14.3 mpg US (16.4 L/100Km)",
-               "Highway": "31.8 mpg US (7.4 L/100Km)",
-               "Combined": "22 mpg US (10.7 L/100Km)",
-               "CO2 Emissions": "249 g/km"
+               "City": 14.3,
+               "Highway": 31.8,
+               "Combined": 22,
+               "CO2 Emissions": 249
           }
      },
      "img": "images/MCLAREN 720S 2017-Present05-03-05-47-59.jpg"
 },{
      "model_name": "2020 McLaren Elva",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L V8 7AT (815 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
                "Power": "599.4 KW @ - RPM\n815 HP @ - RPM\n804 BHP @ - RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.7
           },
           "TRANSMISSION SPECS": {
                "Gearbox": "7-speed automatic"
@@ -457,17 +457,17 @@
 },{
      "model_name": "2024 McLaren 750S",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L V8 7AT RWD (750 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
                "Power": "551.6 KW @ 7500 RPM\n750 HP @ 7500 RPM\n740 BHP @ 7500 RPM",
                "Torque": "590 lb-ft @ 5500-6000 RPM\n800 Nm @ 5500-6000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19 gallons (71.9 L)"
+               "Fuel capacity": 19
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "206 mph (332 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
+               "Top Speed": 206,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -478,11 +478,11 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": "179.9 in (4569 mm)",
-               "Cargo Volume": "12.7 cuFT (360 L)"
+               "Length": 179.9,
+               "Cargo Volume": 12.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3062 lbs (1389 kg)"
+               "Unladen Weight": 3062
           },
           "FUEL ECONOMY (WLTP)": {
                "Low": "10.7 mpg US (22 L/100Km)",
@@ -493,7 +493,7 @@
                "CO2 Emissions (High)": "223 g/km",
                "Extra high": "21.4 mpg US (11 L/100Km)",
                "CO2 Emissions (Extra high)": "250 g/km",
-               "Combined": "19.3 mpg US (12.2 L/100Km)",
+               "Combined": 19.3,
                "CO2 Emissions (Combined)": "276 g/km"
           },
           "NOTES": {
@@ -504,17 +504,17 @@
 },{
      "model_name": "2024 McLaren 750S Spider",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L V8 RWD 7AT (750 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
                "Power": "551.6 KW @ 7500 RPM\n750 HP @ 7500 RPM\n740 BHP @ 7500 RPM",
                "Torque": "590 lb-ft @ 5500-6000 RPM\n800 Nm @ 5500-6000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19 gallons (71.9 L)"
+               "Fuel capacity": 19
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "206 mph (332 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
+               "Top Speed": 206,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -525,11 +525,11 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": "179.9 in (4569 mm)",
-               "Cargo Volume": "7.3 cuFT (207 L)"
+               "Length": 179.9,
+               "Cargo Volume": 7.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3170 lbs (1438 kg)"
+               "Unladen Weight": 3170
           },
           "FUEL ECONOMY (WLTP)": {
                "Low": "10.7 mpg US (22 L/100Km)",
@@ -540,7 +540,7 @@
                "CO2 Emissions (High)": "223 g/km",
                "Extra high": "21.4 mpg US (11 L/100Km)",
                "CO2 Emissions (Extra high)": "250 g/km",
-               "Combined": "19.3 mpg US (12.2 L/100Km)",
+               "Combined": 19.3,
                "CO2 Emissions (Combined)": "276 g/km"
           },
           "NOTES": {
@@ -551,18 +551,18 @@
 },{
      "model_name": "2024 McLaren GTS",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L V8 7AT RWD (635 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3994 cm3",
+               "Displacement": 3994,
                "Power": "467 KW @ 7500 RPM\n635 HP @ 7500 RPM\n626 BHP @ 7500 RPM",
                "Torque": "465 lb-ft @ 5500-6500 RPM\n630 Nm @ 5500-6500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19 gallons (71.9 L)"
+               "Fuel capacity": 19
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "203 mph (327 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
+               "Top Speed": 203,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -576,40 +576,40 @@
                "Tire Size": "Pirelli P ZERO 225/35/R20 // 295/30/R21"
           },
           "DIMENSIONS": {
-               "Length": "184.4 in (4684 mm)",
-               "Width": "80.5 in (2045 mm)",
-               "Height": "47.8 in (1214 mm)",
+               "Length": 184.4,
+               "Width": 80.5,
+               "Height": 47.8,
                "Front/rear Track": "65.5/63.7 in (1,664/1,618 mm)",
-               "Wheelbase": "105.3 in (2675 mm)",
-               "Cargo Volume": "20.1 cuFT (569 L)"
+               "Wheelbase": 105.3,
+               "Cargo Volume": 20.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3351 lbs (1520 kg)"
+               "Unladen Weight": 3351
           },
           "FUEL ECONOMY (WLTP)": {
                "Low": "10.6 mpg US (22.2 L/100Km)",
                "Medium": "19.8 mpg US (11.9 L/100Km)",
                "High": "25.3 mpg US (9.3 L/100Km)",
                "Extra high": "23.1 mpg US (10.2 L/100Km)",
-               "Combined": "19.8 mpg US (11.9 L/100Km)"
+               "Combined": 19.8
           }
      },
      "img": "images/2024 McLaren GTS05-03-05-48-06.jpg"
 },{
      "model_name": "MCLAREN 765LT 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L V8 7AT (765 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3994 cm3",
+               "Displacement": 3994,
                "Power": "562.7 KW @ 7500 RPM\n765 HP @ 7500 RPM\n755 BHP @ 7500 RPM",
                "Torque": "590 lb-ft @ 5500 RPM\n800 Nm @ 5500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19 gallons (71.9 L)"
+               "Fuel capacity": 19
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "205 mph (330 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
+               "Top Speed": 205,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -623,30 +623,30 @@
                "Tire Size": "245/35/R19 93Y // 305/30/R20 103Y"
           },
           "DIMENSIONS": {
-               "Length": "181.1 in (4600 mm)",
-               "Width": "81.1 in (2060 mm)",
-               "Height": "45.6 in (1158 mm)",
+               "Length": 181.1,
+               "Width": 81.1,
+               "Height": 45.6,
                "Front/rear Track": "65.2/63.5 in (1,656/1,613 mm)",
-               "Wheelbase": "105.1 in (2670 mm)"
+               "Wheelbase": 105.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2952 lbs (1339 kg)"
+               "Unladen Weight": 2952
           }
      },
      "img": "images/MCLAREN 765LT 2020-Present05-03-05-48-07.jpg"
 },{
      "model_name": "2018 McLaren Speedtail",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L V8 8AT (1050 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3994 cm3",
+               "Displacement": 3994,
                "Power": "772.3 KW @ - RPM\n1050 HP @ - RPM\n1036 BHP @ - RPM",
                "Torque": "0 lb-ft @ - RPM\n0 Nm @ RPM",
                "Fuel System": "Turbocharge Direct Injection",
                "Fuel": "Hybrid"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "250 mph (402 km/h)"
+               "Top Speed": 250
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -657,28 +657,28 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "202.2 in (5136 mm)",
-               "Height": "44.1 in (1120 mm)"
+               "Length": 202.2,
+               "Height": 44.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3153 lbs (1430 kg)"
+               "Unladen Weight": 3153
           }
      },
      "img": "images/2018 McLaren Speedtail05-03-05-48-09.jpg"
 },{
      "model_name": "MCLAREN 12C GT Sprint 2013-2014",
      "technical_specs": {
-          "ENGINE SPECS - 3.8L 7AT (625 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "v8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "460 KW @ 7500 RPM\n625 HP @ 7500 RPM\n617 BHP @ 7500 RPM",
                "Torque": "443 lb-ft @ 3000-7000 RPM\n601 Nm @ 3000-7000 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "207 mph (333 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.1 s"
+               "Top Speed": 207,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -692,35 +692,35 @@
                "Tire Size": "Front: 235/35 R19 Rear: 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": "177.5 in (4509 mm)",
-               "Width": "75.1 in (1908 mm)",
-               "Height": "47.4 in (1204 mm)",
+               "Length": 177.5,
+               "Width": 75.1,
+               "Height": 47.4,
                "Front/rear Track": "65.2/62.3 in (1,656/1,582 mm)",
-               "Wheelbase": "105.1 in (2670 mm)"
+               "Wheelbase": 105.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3161 lbs (1434 kg)"
+               "Unladen Weight": 3161
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "20.1 mpg US (11.7 L/100Km)",
-               "CO2 Emissions": "279 g/km"
+               "Combined": 20.1,
+               "CO2 Emissions": 279
           }
      },
      "img": "images/MCLAREN 12C GT Sprint 2013-201405-03-05-48-11.jpg"
 },{
      "model_name": "2016 McLaren 570GT",
      "technical_specs": {
-          "ENGINE SPECS - 3.8 V8 7AT (570 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "419.2 KW @ 7500 RPM\n570 HP @ 7500 RPM\n562 BHP @ 7500 RPM",
                "Torque": "443 lb-ft @ 5000-6500 RPM\n600 Nm @ 5000-6500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "204 mph (328 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
+               "Top Speed": 204,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -734,37 +734,37 @@
                "Tire Size": "225/35/R19"
           },
           "DIMENSIONS": {
-               "Length": "178.3 in (4529 mm)",
-               "Width": "82.5 in (2096 mm)",
-               "Height": "47.3 in (1201 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Cargo Volume": "13.1 cuFT (371 L)"
+               "Length": 178.3,
+               "Width": 82.5,
+               "Height": 47.3,
+               "Wheelbase": 105.1,
+               "Cargo Volume": 13.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3086 lbs (1400 kg)"
+               "Unladen Weight": 3086
           },
           "FUEL ECONOMY (NEDC)": {
                "City": "Infinity mpg US (0 L/100Km)",
                "Highway": "Infinity mpg US (0 L/100Km)",
-               "Combined": "22 mpg US (10.7 L/100Km)",
-               "CO2 Emissions": "249 g/km"
+               "Combined": 22,
+               "CO2 Emissions": 249
           }
      },
      "img": "images/2016 McLaren 570GT05-03-05-48-13.jpg"
 },{
      "model_name": "2016 McLaren 570S",
      "technical_specs": {
-          "ENGINE SPECS - 3.8 V8 7AT (570 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "419 KW @ 7400 RPM\n570 HP @ 7400 RPM\n562 BHP @ 7400 RPM",
                "Torque": "443 lb-ft @ 5000-6500 RPM\n601 Nm @ 5000-6500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "204 mph (328 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
+               "Top Speed": 204,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -778,35 +778,35 @@
                "Tire Size": "225/35/R19 || 285/35/R20"
           },
           "DIMENSIONS": {
-               "Length": "178.3 in (4529 mm)",
-               "Width": "82.5 in (2096 mm)",
-               "Height": "47.3 in (1201 mm)",
-               "Cargo Volume": "5.3 cuFT (150 L)"
+               "Length": 178.3,
+               "Width": 82.5,
+               "Height": 47.3,
+               "Cargo Volume": 5.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2895 lbs (1313 kg)"
+               "Unladen Weight": 2895
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "25.6 mpg US (9.2 L/100Km)",
-               "CO2 Emissions": "258 g/km"
+               "Combined": 25.6,
+               "CO2 Emissions": 258
           }
      },
      "img": "images/2016 McLaren 570S05-03-05-48-15.jpg"
 },{
      "model_name": "MCLAREN 650S 2014-2017",
      "technical_specs": {
-          "ENGINE SPECS - 3.8L V8 7AT (650 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3800 cm3",
+               "Displacement": 3800,
                "Power": "478 KW @ 7250- RPM\n650 HP @ 7250- RPM\n641 BHP @ 7250- RPM",
                "Torque": "500 lb-ft @ 3000-7000 RPM\n678 Nm @ 3000-7000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19 gallons (71.9 L)"
+               "Fuel capacity": 19
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "207 mph (333 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
+               "Top Speed": 207,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -820,39 +820,39 @@
                "Tire Size": "235/35 R19 || 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": "177.5 in (4509 mm)",
-               "Width": "74.6 in (1895 mm)",
-               "Height": "47.2 in (1199 mm)",
+               "Length": 177.5,
+               "Width": 74.6,
+               "Height": 47.2,
                "Front/rear Track": "65.2/62.3 in (1,656/1,582 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Ground Clearance": "3.9 in (99 mm)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 105.1,
+               "Ground Clearance": 3.9,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2932 lbs (1330 kg)"
+               "Unladen Weight": 2932
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13.4 mpg US (17.6 L/100Km)",
-               "Highway": "27.7 mpg US (8.5 L/100Km)",
-               "Combined": "20.1 mpg US (11.7 L/100Km)",
-               "CO2 Emissions": "275 g/km"
+               "City": 13.4,
+               "Highway": 27.7,
+               "Combined": 20.1,
+               "CO2 Emissions": 275
           }
      },
      "img": "images/MCLAREN 650S 2014-201705-03-05-48-17.jpg"
 },{
      "model_name": "MCLAREN 650S Spider 2014-2017",
      "technical_specs": {
-          "ENGINE SPECS - 3.8 V8 7AT (650 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "478.1 KW @ 7250 RPM\n650 HP @ 7250 RPM\n641 BHP @ 7250 RPM",
                "Torque": "500 lb-ft @ 6000 RPM\n678 Nm @ 6000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "207 mph (333 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3 s"
+               "Top Speed": 207,
+               "Acceleration 0-62 Mph (0-100 kph)": 3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -866,38 +866,38 @@
                "Tire Size": "235/35 R19 || 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": "177.6 in (4511 mm)",
-               "Width": "75.1 in (1908 mm)",
-               "Height": "47.4 in (1204 mm)",
+               "Length": 177.6,
+               "Width": 75.1,
+               "Height": 47.4,
                "Front/rear Track": "65.2/62.3 in (1,656/1,582 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Ground Clearance": "3.9 in (99 mm)"
+               "Wheelbase": 105.1,
+               "Ground Clearance": 3.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3236 lbs (1468 kg)"
+               "Unladen Weight": 3236
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)",
-               "CO2 Emissions": "275 g/km"
+               "City": 16,
+               "Highway": 22,
+               "Combined": 18,
+               "CO2 Emissions": 275
           }
      },
      "img": "images/MCLAREN 650S Spider 2014-201705-03-05-48-18.jpg"
 },{
      "model_name": "MCLAREN 675LT 2015-2017",
      "technical_specs": {
-          "ENGINE SPECS - 3.8 V8 7AT (675 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "496 KW @ 7100 RPM\n675 HP @ 7100 RPM\n665 BHP @ 7100 RPM",
                "Torque": "516 lb-ft @ 5500 RPM\n700 Nm @ 5500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "205 mph (330 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
+               "Top Speed": 205,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -911,39 +911,39 @@
                "Tire Size": "235/35 R19 || 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": "179 in (4547 mm)",
-               "Width": "82.5 in (2096 mm)",
-               "Height": "46.8 in (1189 mm)",
+               "Length": 179,
+               "Width": 82.5,
+               "Height": 46.8,
                "Front/rear Track": "65.2/62.3 in (1,656/1,582 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Ground Clearance": "3.9 in (99 mm)",
-               "Aerodynamics (Cd)": "0.35"
+               "Wheelbase": 105.1,
+               "Ground Clearance": 3.9,
+               "Aerodynamics (Cd)": 0.35
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2928 lbs (1328 kg)",
-               "Gross Weight Limit": "3369 lbs (1528 kg)"
+               "Unladen Weight": 2928,
+               "Gross Weight Limit": 3369
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "20.3 mpg US (11.6 L/100Km)",
-               "CO2 Emissions": "275 g/km"
+               "Combined": 20.3,
+               "CO2 Emissions": 275
           }
      },
      "img": "images/MCLAREN 675LT 2015-201705-03-05-48-21.jpg"
 },{
      "model_name": "MCLAREN 675LT Spider 2016-2017",
      "technical_specs": {
-          "ENGINE SPECS - 3.8L V8 7AT (675 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "496.5 KW @ 7100 RPM\n675 HP @ 7100 RPM\n666 BHP @ 7100 RPM",
                "Torque": "516 lb-ft @ 5000-6500 RPM\n700 Nm @ 5000-6500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19 gallons (71.9 L)"
+               "Fuel capacity": 19
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "203 mph (327 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
+               "Top Speed": 203,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -957,38 +957,38 @@
                "Tire Size": "235/35 R19 || 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": "179 in (4547 mm)",
-               "Width": "82.5 in (2096 mm)",
-               "Height": "46.9 in (1191 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Ground Clearance": "3.9 in (99 mm)",
-               "Aerodynamics (Cd)": "0.35"
+               "Length": 179,
+               "Width": 82.5,
+               "Height": 46.9,
+               "Wheelbase": 105.1,
+               "Ground Clearance": 3.9,
+               "Aerodynamics (Cd)": 0.35
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3020 lbs (1370 kg)"
+               "Unladen Weight": 3020
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13.2 mpg US (17.8 L/100Km)",
-               "Highway": "28.7 mpg US (8.2 L/100Km)",
-               "Combined": "20.3 mpg US (11.6 L/100Km)",
-               "CO2 Emissions": "275 g/km"
+               "City": 13.2,
+               "Highway": 28.7,
+               "Combined": 20.3,
+               "CO2 Emissions": 275
           }
      },
      "img": "images/MCLAREN 675LT Spider 2016-201705-03-05-48-23.jpg"
 },{
      "model_name": "MCLAREN F1 1993-1998",
      "technical_specs": {
-          "ENGINE SPECS - 6.1 V12 6MT (622 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V12",
-               "Displacement": "6064 cm3",
+               "Displacement": 6064,
                "Power": "461 KW @ 7500 RPM\n627 HP @ 7500 RPM\n618 BHP @ 7500 RPM",
                "Torque": "480 lb-ft @ 5600 RPM\n651 Nm @ 5600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "240.1 mph (386 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
+               "Top Speed": 240.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1002,26 +1002,26 @@
                "Tire Size": "235/45 ZR 17 (Front) - 315/45 ZR 17 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": "168.78 in (4287 mm)",
-               "Width": "71.65 in (1820 mm)",
-               "Height": "44.88 in (1140 mm)",
+               "Length": 168.78,
+               "Width": 71.65,
+               "Height": 44.88,
                "Front/rear Track": "61.73 / 57.95 in (1,568/1,472 mm)",
-               "Wheelbase": "107.01 in (2718 mm)",
-               "Ground Clearance": "4.7 in (119 mm)",
-               "Cargo Volume": "8 cuFT (227 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 107.01,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 8,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2513 lbs (1140 kg)"
+               "Unladen Weight": 2513
           }
      },
      "img": "images/MCLAREN F1 1993-199805-03-05-48-26.jpg"
 },{
      "model_name": "MCLAREN F1 GT 1997",
      "technical_specs": {
-          "ENGINE SPECS - 6.1L V12 6MT (627 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V12",
-               "Displacement": "6064 cm3",
+               "Displacement": 6064,
                "Power": "461 KW @ 7500 RPM\n627 HP @ 7500 RPM\n618 BHP @ 7500 RPM",
                "Torque": "480 lb-ft @ 5600 RPM\n651 Nm @ 5600 RPM",
                "Fuel System": "Multipoint Injection",
@@ -1039,17 +1039,17 @@
                "Tire Size": "275/35 ZR 18 (Front) - 345/35 ZR 18 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": "194 in (4928 mm)",
-               "Width": "75.6 in (1920 mm)",
-               "Height": "47.2 in (1199 mm)",
+               "Length": 194,
+               "Width": 75.6,
+               "Height": 47.2,
                "Front/rear Track": "63.8 / 62.3 in (1,621/1,582 mm)",
-               "Wheelbase": "107 in (2718 mm)",
-               "Ground Clearance": "4.7 in (119 mm)",
-               "Cargo Volume": "8 cuFT (227 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 107,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 8,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2469 lbs (1120 kg)",
+               "Unladen Weight": 2469,
                "Gross Weight Limit": "N/A lbs (0 kg)"
           }
      },
@@ -1057,16 +1057,16 @@
 },{
      "model_name": "McLaren F1 LM",
      "technical_specs": {
-          "ENGINE SPECS - 6.1L V12 6MT (680 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V12",
-               "Displacement": "6064 cm3",
+               "Displacement": 6064,
                "Power": "500 KW @ 7800 RPM\n680 HP @ 7800 RPM\n671 BHP @ 7800 RPM",
                "Torque": "538 lb-ft @ 4500 RPM\n729 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "220 mph (354 km/h)"
+               "Top Speed": 220
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1080,33 +1080,33 @@
                "Tire Size": "275/35 ZR 18 (Front) - 345/35 ZR 18 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": "171.85 in (4365 mm)",
-               "Width": "71.65 in (1820 mm)",
-               "Height": "44.09 in (1120 mm)",
+               "Length": 171.85,
+               "Width": 71.65,
+               "Height": 44.09,
                "Front/rear Track": "61.89 / 57.64 in (1,572/1,464 mm)",
-               "Wheelbase": "107.01 in (2718 mm)",
-               "Ground Clearance": "3.9 in (99 mm)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 107.01,
+               "Ground Clearance": 3.9,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2341 lbs (1062 kg)"
+               "Unladen Weight": 2341
           }
      },
      "img": "images/McLaren F1 LM05-03-05-48-30.jpg"
 },{
      "model_name": "MCLAREN MP4-12C 2011-2014",
      "technical_specs": {
-          "ENGINE SPECS - 3.8L V8 7AT RWD (600 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "441 KW @ 7000 RPM\n600 HP @ 7000 RPM\n591 BHP @ 7000 RPM",
                "Torque": "443 lb-ft @ 3000-7000 RPM\n601 Nm @ 3000-7000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "200 mph (322 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.3 s"
+               "Top Speed": 200,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1120,23 +1120,23 @@
                "Tire Size": "235/35 R19 - 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": "177.4 in (4506 mm)",
-               "Width": "75.2 in (1910 mm)",
-               "Height": "47.2 in (1199 mm)",
+               "Length": 177.4,
+               "Width": 75.2,
+               "Height": 47.2,
                "Front/rear Track": "74.6/75.1 in (1,895/1,908 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Ground Clearance": "4.7 in (119 mm)",
-               "Cargo Volume": "5.1 cuFT (144 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 105.1,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 5.1,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3084 lbs (1399 kg)"
+               "Unladen Weight": 3084
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)",
-               "CO2 Emissions": "279 g/km"
+               "City": 15,
+               "Highway": 22,
+               "Combined": 18,
+               "CO2 Emissions": 279
           },
           "": {}
      },
@@ -1144,17 +1144,17 @@
 },{
      "model_name": "MCLAREN MP4-12C Spider 2012-2015",
      "technical_specs": {
-          "ENGINE SPECS - 3.8 V8 7AT (625 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "460 KW @ 7500 RPM\n625 HP @ 7500 RPM\n617 BHP @ 7500 RPM",
                "Torque": "443 lb-ft @ 3000-7000 RPM\n601 Nm @ 3000-7000 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "204 mph (328 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.1 s"
+               "Top Speed": 204,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1168,41 +1168,41 @@
                "Tire Size": "Pirelli P Zero 235/35 R19 \u2013 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": "177.5 in (4509 mm)",
-               "Width": "82.4 in (2093 mm)",
-               "Height": "47.4 in (1204 mm)",
+               "Length": 177.5,
+               "Width": 82.4,
+               "Height": 47.4,
                "Front/rear Track": "65.2/62.3 in (1,656/1,582 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Ground Clearance": "4.7 in (119 mm)",
-               "Cargo Volume": "6.92 cuFT (196 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 105.1,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 6.92,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3034 lbs (1376 kg)",
-               "Gross Weight Limit": "3505 lbs (1590 kg)"
+               "Unladen Weight": 3034,
+               "Gross Weight Limit": 3505
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14 mpg US (16.8 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)",
-               "CO2 Emissions": "279 g/km"
+               "City": 14,
+               "Highway": 22,
+               "Combined": 18,
+               "CO2 Emissions": 279
           }
      },
      "img": "images/MCLAREN MP4-12C Spider 2012-201505-03-05-48-34.jpg"
 },{
      "model_name": "2013 McLaren P1",
      "technical_specs": {
-          "ENGINE SPECS - 3.8 V8 7AT (737 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "542 KW @ 7500 RPM\n737 HP @ 7500 RPM\n727 BHP @ 7500 RPM",
                "Torque": "531 lb-ft @ 4000 RPM\n720 Nm @ 4000 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Hybrid"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "217 mph (349 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.5 s"
+               "Top Speed": 217,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1216,23 +1216,23 @@
                "Tire Size": "Front: 245/35 ZR19; Rear: 315/30 ZR20"
           },
           "DIMENSIONS": {
-               "Length": "180.6 in (4587 mm)",
-               "Width": "76.6 in (1946 mm)",
-               "Height": "46.8 in (1189 mm)",
+               "Length": 180.6,
+               "Width": 76.6,
+               "Height": 46.8,
                "Front/rear Track": "65.3/63.1 in (1,659/1,603 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Ground Clearance": "4.7 in (119 mm)",
-               "Cargo Volume": "4.2 cuFT (119 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 105.1,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 4.2,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3075 lbs (1395 kg)",
-               "Gross Weight Limit": "3300 lbs (1497 kg)"
+               "Unladen Weight": 3075,
+               "Gross Weight Limit": 3300
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "21 mpg US (11.2 L/100Km)",
-               "CO2 Emissions": "200 g/km"
+               "City": 16,
+               "Highway": 21,
+               "CO2 Emissions": 200
           },
           "NOTES": {
                "Electric engine power": "179 HP (132 kW)\nElectric engine torque: 192 lb-ft (260 Nm)\nTotal system power: 916 HP\nTotal system torque: 900 Nm"

@@ -2,7 +2,7 @@
 {
      "model_name": "2022 DS 7",
      "technical_specs": {
-          "ENGINE SPECS - E-TENSE 225 PURETECH 180 8AT (110 HP)": {
+          "ENGINE SPECS": {
                "Power": "132.4 KW @ - RPM\n180 HP @ - RPM\n178 BHP @ - RPM",
                "Electrical motor power": "80.9 kw (110 hp)",
                "Fuel System": "Direct Injection",
@@ -17,11 +17,11 @@
                "Rear": "Ventilated discs"
           },
           "DIMENSIONS": {
-               "Length": "180.8 in (4592 mm)",
-               "Width": "75 in (1905 mm)",
-               "Height": "64 in (1626 mm)",
+               "Length": 180.8,
+               "Width": 75,
+               "Height": 64,
                "Front/rear Track": "63.8/62.9 in (1,621/1,598 mm)",
-               "Wheelbase": "107.8 in (2738 mm)"
+               "Wheelbase": 107.8
           },
           "": {}
      },
@@ -29,18 +29,18 @@
 },{
      "model_name": "2017 DS 7 Crossback",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L PURETECH 6MT (130 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "95.6 KW @ 5500 RPM\n130 HP @ 5500 RPM\n128 BHP @ 5500 RPM",
                "Torque": "170 lb-ft @ 1750 RPM\n230 Nm @ 1750 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "16.4 gallons (62.1 L)"
+               "Fuel capacity": 16.4
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "121 mph (195 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11.2 s"
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -54,23 +54,23 @@
                "Tire Size": "215/65 R17"
           },
           "DIMENSIONS": {
-               "Length": "180 in (4572 mm)",
-               "Width": "74.4 in (1890 mm)",
-               "Height": "64 in (1626 mm)",
+               "Length": 180,
+               "Width": 74.4,
+               "Height": 64,
                "Front/rear Track": "63.8/62.9 in (1,621/1,598 mm)",
-               "Wheelbase": "107.8 in (2738 mm)",
-               "Ground Clearance": "7.5 in (191 mm)",
-               "Cargo Volume": "19.6 cuFT (555 L)"
+               "Wheelbase": 107.8,
+               "Ground Clearance": 7.5,
+               "Cargo Volume": 19.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3488 lbs (1582 kg)",
-               "Gross Weight Limit": "4376 lbs (1985 kg)"
+               "Unladen Weight": 3488,
+               "Gross Weight Limit": 4376
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "36.8 mpg US (6.4 L/100Km)",
-               "Highway": "50 mpg US (4.7 L/100Km)",
-               "Combined": "44.4 mpg US (5.3 L/100Km)",
-               "CO2 Emissions": "121 g/km"
+               "City": 36.8,
+               "Highway": 50,
+               "Combined": 44.4,
+               "CO2 Emissions": 121
           },
           "": {}
      },
@@ -78,14 +78,14 @@
 },{
      "model_name": "2023 DS 3",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L PURETECH 6MT FWD (100 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "73.5 KW @ 5500 RPM\n100 HP @ 5500 RPM\n99 BHP @ 5500 RPM",
                "Torque": "151 lb-ft @ 1750 RPM\n205 Nm @ 1750 RPM",
                "Fuel System": "Multi-point indirect injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "11.6 gallons (43.9 L)"
+               "Fuel capacity": 11.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -99,13 +99,13 @@
                "Tire Size": "215/55 R18"
           },
           "DIMENSIONS": {
-               "Length": "162.1 in (4117 mm)",
-               "Width": "70.5 in (1791 mm)",
-               "Height": "60.4 in (1534 mm)",
+               "Length": 162.1,
+               "Width": 70.5,
+               "Height": 60.4,
                "Front/rear Track": "60.9/61.3 in (1,547/1,557 mm)",
-               "Wheelbase": "100.7 in (2558 mm)",
-               "Cargo Volume": "12.4 cuFT (351 L)",
-               "Turning circle": "35.1 ft (10.7 m)"
+               "Wheelbase": 100.7,
+               "Cargo Volume": 12.4,
+               "Turning circle": 35.1
           },
           "": {}
      },
@@ -113,18 +113,18 @@
 },{
      "model_name": "2016 DS 3",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L PURETECH 5AT (82 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "60.3 KW @ 5750 RPM\n82 HP @ 5750 RPM\n81 BHP @ 5750 RPM",
                "Torque": "87 lb-ft @ 2750 RPM\n118 Nm @ 2750 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "11.9 gallons (45.0 L)"
+               "Fuel capacity": 11.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "109 mph (175 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14.4 s"
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -138,24 +138,24 @@
                "Tire Size": "195/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "155.7 in (3955 mm)",
-               "Width": "67.5 in (1715 mm)",
-               "Height": "57.4 in (1458 mm)",
+               "Length": 155.7,
+               "Width": 67.5,
+               "Height": 57.4,
                "Front/rear Track": "57.7/57.8 in (1,466/1,468 mm)",
-               "Wheelbase": "97 in (2464 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "10.1 cuFT (286 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 97,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 10.1,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2161 lbs (980 kg)",
-               "Gross Weight Limit": "3355 lbs (1522 kg)"
+               "Unladen Weight": 2161,
+               "Gross Weight Limit": 3355
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "51.1 mpg US (4.6 L/100Km)",
-               "Highway": "60.3 mpg US (3.9 L/100Km)",
-               "Combined": "56 mpg US (4.2 L/100Km)",
-               "CO2 Emissions": "97 g/km"
+               "City": 51.1,
+               "Highway": 60.3,
+               "Combined": 56,
+               "CO2 Emissions": 97
           },
           "": {}
      },
@@ -163,18 +163,18 @@
 },{
      "model_name": "2014 DS3",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L VTI 5MT FWD (82 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "60 KW @ 5750 RPM\n82 HP @ 5750 RPM\n80 BHP @ 5750 RPM",
                "Torque": "87 lb-ft @ 2750 RPM\n118 Nm @ 2750 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.2 gallons (50.0 L)"
+               "Fuel capacity": 13.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "108 mph (174 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14.2 s"
+               "Top Speed": 108,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -188,24 +188,24 @@
                "Tire Size": "195/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "155.4 in (3947 mm)",
-               "Width": "67.5 in (1715 mm)",
-               "Height": "57.4 in (1458 mm)",
+               "Length": 155.4,
+               "Width": 67.5,
+               "Height": 57.4,
                "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
-               "Wheelbase": "96.5 in (2451 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "10 cuFT (283 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 96.5,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 10,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2469 lbs (1120 kg)",
-               "Gross Weight Limit": "3298 lbs (1496 kg)"
+               "Unladen Weight": 2469,
+               "Gross Weight Limit": 3298
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "42.8 mpg US (5.5 L/100Km)",
-               "Highway": "60.3 mpg US (3.9 L/100Km)",
-               "Combined": "52.3 mpg US (4.5 L/100Km)",
-               "CO2 Emissions": "107 g/km"
+               "City": 42.8,
+               "Highway": 60.3,
+               "Combined": 52.3,
+               "CO2 Emissions": 107
           },
           "": {}
      },
@@ -213,18 +213,18 @@
 },{
      "model_name": "2018 Citroen DS 3 Crossback",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L PURETECH 6MT (102 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "75 KW @ 5500 RPM\n102 HP @ 5500 RPM\n101 BHP @ 5500 RPM",
                "Torque": "151 lb-ft @ 1750 RPM\n205 Nm @ 1750 RPM",
                "Fuel System": "Multi-point Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "10.8 gallons (40.9 L)"
+               "Fuel capacity": 10.8
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "115 mph (185 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -238,26 +238,26 @@
                "Tire Size": "215/60 R17 H"
           },
           "DIMENSIONS": {
-               "Length": "162.1 in (4117 mm)",
-               "Width": "70.5 in (1791 mm)",
-               "Height": "60.4 in (1534 mm)",
+               "Length": 162.1,
+               "Width": 70.5,
+               "Height": 60.4,
                "Front/rear Track": "60.9/61.3 in (1,547/1,557 mm)",
-               "Wheelbase": "100.7 in (2558 mm)",
-               "Cargo Volume": "12.4 cuFT (351 L)"
+               "Wheelbase": 100.7,
+               "Cargo Volume": 12.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2579 lbs (1170 kg)",
-               "Gross Weight Limit": "3638 lbs (1650 kg)"
+               "Unladen Weight": 2579,
+               "Gross Weight Limit": 3638
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "42.8 mpg US (5.5 L/100Km)",
-               "Highway": "57.4 mpg US (4.1 L/100Km)",
-               "Combined": "50 mpg US (4.7 L/100Km)",
-               "CO2 Emissions": "108 g/km"
+               "City": 42.8,
+               "Highway": 57.4,
+               "Combined": 50,
+               "CO2 Emissions": 108
           },
           "POWER SYSTEM SPECS": {
-               "Nominal Capacity": "50 kWh",
-               "Range": "267 miles (429.7 km)"
+               "Nominal Capacity": 50,
+               "Range": 267
           },
           "": {}
      },
@@ -265,18 +265,18 @@
 },{
      "model_name": "2016 DS 5",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L THP 6AT (165 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "121.4 KW @ 6000 RPM\n165 HP @ 6000 RPM\n163 BHP @ 6000 RPM",
                "Torque": "177 lb-ft @ 1400 RPM\n240 Nm @ 1400 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "126 mph (203 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
+               "Top Speed": 126,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -290,23 +290,23 @@
                "Tire Size": "215/55 R17"
           },
           "DIMENSIONS": {
-               "Length": "178.3 in (4529 mm)",
-               "Width": "73.7 in (1872 mm)",
-               "Height": "59.3 in (1506 mm)",
+               "Length": 178.3,
+               "Width": 73.7,
+               "Height": 59.3,
                "Front/rear Track": "62/62.3 in (1,575/1,582 mm)",
-               "Wheelbase": "107.4 in (2728 mm)",
-               "Cargo Volume": "16.5 cuFT (467 L)",
+               "Wheelbase": 107.4,
+               "Cargo Volume": 16.5,
                "Turning circle (curb to curb)": "36.7 ft (11.2 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3150 - 3534 lbs (1429 - 1603 kg)",
-               "Gross Weight Limit": "4447 lbs (2017 kg)"
+               "Unladen Weight": 3150,
+               "Gross Weight Limit": 4447
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "30.9 mpg US (7.6 L/100Km)",
-               "Highway": "48 mpg US (4.9 L/100Km)",
-               "Combined": "39.9 mpg US (5.9 L/100Km)",
-               "CO2 Emissions": "135 g/km"
+               "City": 30.9,
+               "Highway": 48,
+               "Combined": 39.9,
+               "CO2 Emissions": 135
           },
           "": {}
      },
@@ -314,17 +314,17 @@
 },{
      "model_name": "2021 DS 4",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L PURETECH 8AT (130 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "95.6 KW @ 5500 RPM\n130 HP @ 5500 RPM\n128 BHP @ 5500 RPM",
                "Torque": "170 lb-ft @ 1750 RPM\n230 Nm @ 1750 RPM",
                "Fuel System": "Multi-point indirect injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.7 gallons (51.9 L)"
+               "Fuel capacity": 13.7
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)"
+               "Top Speed": 130
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -338,31 +338,31 @@
                "Tire Size": "215/65 R17 99V"
           },
           "DIMENSIONS": {
-               "Length": "173.2 in (4399 mm)",
-               "Width": "73.5 in (1867 mm)",
-               "Height": "58.7 in (1491 mm)",
+               "Length": 173.2,
+               "Width": 73.5,
+               "Height": 58.7,
                "Front/rear Track": "63/63.2 in (1,600/1,605 mm)",
-               "Wheelbase": "105.3 in (2675 mm)",
-               "Ground Clearance": "7.4 in (188 mm)",
-               "Cargo Volume": "15.2 cuFT (430 L)",
-               "Turning circle": "35.5 ft (10.8 m)"
+               "Wheelbase": 105.3,
+               "Ground Clearance": 7.4,
+               "Cargo Volume": 15.2,
+               "Turning circle": 35.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2981 - 2983 lbs (1352 - 1353 kg)",
-               "Gross Weight Limit": "4277 lbs (1940 kg)"
+               "Unladen Weight": 2981,
+               "Gross Weight Limit": 4277
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "39.2 mpg US (6 L/100Km)",
-               "Highway": "52.3 mpg US (4.5 L/100Km)",
-               "Combined": "46.1 mpg US (5.1 L/100Km)",
-               "CO2 Emissions": "116 g/km"
+               "City": 39.2,
+               "Highway": 52.3,
+               "Combined": 46.1,
+               "CO2 Emissions": 116
           },
           "FUEL ECONOMY (WLTP)": {
                "Low": "30.5 mpg US (7.7 L/100Km)",
                "Medium": "40.6 mpg US (5.8 L/100Km)",
                "High": "46.1 mpg US (5.1 L/100Km)",
                "Extra high": "38.6 mpg US (6.1 L/100Km)",
-               "Combined": "39.9 mpg US (5.9 L/100Km)",
+               "Combined": 39.9,
                "CO2 Emissions (Combined)": "135 g/km"
           },
           "": {}
@@ -371,7 +371,7 @@
 },{
      "model_name": "2020 DS 9",
      "technical_specs": {
-          "ENGINE SPECS - PURETECH 8AT (225 HP)": {
+          "ENGINE SPECS": {
                "Power": "165.5 KW @ - RPM\n225 HP @ - RPM\n222 BHP @ - RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
@@ -385,9 +385,9 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "194.1 in (4930 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Wheelbase": "114.2 in (2901 mm)"
+               "Length": 194.1,
+               "Width": 72.8,
+               "Wheelbase": 114.2
           },
           "NOTES": {
                "All Electric Speed": "135 Km/h (84 mph)"
@@ -398,18 +398,18 @@
 },{
      "model_name": "2016 DS 3 Cabrio",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L PURETECH 5MT START&STOP (110 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "80.9 KW @ 5500 RPM\n110 HP @ 5500 RPM\n108 BHP @ 5500 RPM",
                "Torque": "151 lb-ft @ 1500 RPM\n205 Nm @ 1500 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.2 gallons (50.0 L)"
+               "Fuel capacity": 13.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "118 mph (190 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.8 s"
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -423,24 +423,24 @@
                "Tire Size": "195/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "155.7 in (3955 mm)",
-               "Width": "67.5 in (1715 mm)",
-               "Height": "57.4 in (1458 mm)",
+               "Length": 155.7,
+               "Width": 67.5,
+               "Height": 57.4,
                "Front/rear Track": "57.7/57.9 in (1,466/1,471 mm)",
-               "Wheelbase": "97 in (2464 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "8.7 cuFT (246 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 97,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 8.7,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2403 lbs (1090 kg)",
-               "Gross Weight Limit": "3523 lbs (1598 kg)"
+               "Unladen Weight": 2403,
+               "Gross Weight Limit": 3523
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "44.4 mpg US (5.3 L/100Km)",
-               "Highway": "61.9 mpg US (3.8 L/100Km)",
-               "Combined": "54.7 mpg US (4.3 L/100Km)",
-               "CO2 Emissions": "100 g/km"
+               "City": 44.4,
+               "Highway": 61.9,
+               "Combined": 54.7,
+               "CO2 Emissions": 100
           },
           "": {}
      },
@@ -448,18 +448,18 @@
 },{
      "model_name": "2013 DS 3 Cabrio",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L VTI 5MT (82 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "60 KW @ 5750 RPM\n82 HP @ 5750 RPM\n80 BHP @ 5750 RPM",
                "Torque": "87 lb-ft @ 2750 RPM\n118 Nm @ 2750 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.2 gallons (50.0 L)"
+               "Fuel capacity": 13.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "108 mph (174 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14.4 s"
+               "Top Speed": 108,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -473,24 +473,24 @@
                "Tire Size": "195/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "155.4 in (3947 mm)",
-               "Width": "67.5 in (1715 mm)",
-               "Height": "57.4 in (1458 mm)",
+               "Length": 155.4,
+               "Width": 67.5,
+               "Height": 57.4,
                "Front/rear Track": "57.8/57.9 in (1,468/1,471 mm)",
-               "Wheelbase": "96.5 in (2451 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "10 cuFT (283 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 96.5,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 10,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2460 lbs (1116 kg)",
-               "Gross Weight Limit": "3377 lbs (1532 kg)"
+               "Unladen Weight": 2460,
+               "Gross Weight Limit": 3377
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "40.6 mpg US (5.8 L/100Km)",
-               "Highway": "54.7 mpg US (4.3 L/100Km)",
-               "Combined": "48 mpg US (4.9 L/100Km)",
-               "CO2 Emissions": "112 g/km"
+               "City": 40.6,
+               "Highway": 54.7,
+               "Combined": 48,
+               "CO2 Emissions": 112
           },
           "": {}
      },
@@ -498,18 +498,18 @@
 },{
      "model_name": "2014 DS 5LS",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L THP 6AT FWD (165 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "121.4 KW @ 6000 RPM\n165 HP @ 6000 RPM\n163 BHP @ 6000 RPM",
                "Torque": "177 lb-ft @ 1400 RPM\n240 Nm @ 1400 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "126 mph (203 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
+               "Top Speed": 126,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -523,17 +523,17 @@
                "Tire Size": "215/55 R17"
           },
           "DIMENSIONS": {
-               "Length": "178.3 in (4529 mm)",
-               "Width": "73.7 in (1872 mm)",
-               "Height": "59.3 in (1506 mm)",
+               "Length": 178.3,
+               "Width": 73.7,
+               "Height": 59.3,
                "Front/rear Track": "62/63 in (1,575/1,600 mm)",
-               "Wheelbase": "107.4 in (2728 mm)",
-               "Cargo Volume": "16.5 cuFT (467 L)",
-               "Turning circle": "36.7 ft (11.2 m)"
+               "Wheelbase": 107.4,
+               "Cargo Volume": 16.5,
+               "Turning circle": 36.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3150 - 3534 lbs (1429 - 1603 kg)",
-               "Gross Weight Limit": "4447 lbs (2017 kg)"
+               "Unladen Weight": 3150,
+               "Gross Weight Limit": 4447
           },
           "": {}
      },

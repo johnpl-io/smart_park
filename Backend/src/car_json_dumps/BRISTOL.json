@@ -2,18 +2,18 @@
 {
      "model_name": "BRISTOL Bullet 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS - 4.8L V8 6AT (370 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3799 cm3",
+               "Displacement": 3799,
                "Power": "275.1 KW @ 6300 RPM\n374 HP @ 6300 RPM\n369 BHP @ 6300 RPM",
                "Torque": "370 lb-ft @ 3400 RPM\n502 Nm @ 3400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14.5 gallons (54.9 L)"
+               "Fuel capacity": 14.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -27,14 +27,14 @@
                "Tire Size": "225/35 R19"
           },
           "DIMENSIONS": {
-               "Length": "165.4 in (4201 mm)",
-               "Width": "73.2 in (1859 mm)",
-               "Height": "47.2 in (1199 mm)",
-               "Wheelbase": "100.5 in (2553 mm)"
+               "Length": 165.4,
+               "Width": 73.2,
+               "Height": 47.2,
+               "Wheelbase": 100.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2425 lbs (1100 kg)",
-               "Gross Weight Limit": "2756 lbs (1250 kg)"
+               "Unladen Weight": 2425,
+               "Gross Weight Limit": 2756
           },
           "": {}
      },
@@ -42,16 +42,16 @@
 },{
      "model_name": "BRISTOL 400 1946-1950",
      "technical_specs": {
-          "ENGINE SPECS - 2.0 4MT (81 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "1971 cm3",
+               "Displacement": 1971,
                "Power": "59.6 KW @ 4500 RPM\n81 HP @ 4500 RPM\n80 BHP @ 4500 RPM",
                "Torque": "92 lb-ft @ 3000 RPM\n125 Nm @ 3000 RPM",
                "Fuel System": "3 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "95 mph (153 km/h)"
+               "Top Speed": 95
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -65,36 +65,36 @@
                "Tire Size": "5.50 x 16"
           },
           "DIMENSIONS": {
-               "Length": "183 in (4648 mm)",
-               "Width": "64 in (1626 mm)",
-               "Height": "59 in (1499 mm)",
+               "Length": 183,
+               "Width": 64,
+               "Height": 59,
                "Front/rear Track": "52/54 in (1,321/1,372 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "7.3 in (185 mm)",
-               "Aerodynamics (Cd)": "0.46"
+               "Wheelbase": 114,
+               "Ground Clearance": 7.3,
+               "Aerodynamics (Cd)": 0.46
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2579.4 lbs (1170 kg)"
+               "Unladen Weight": 2579.4
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "21.4 mpg US (11 L/100Km)"
+               "Combined": 21.4
           }
      },
      "img": "images/BRISTOL 400 1946-195005-03-03-54-44.jpg"
 },{
      "model_name": "BRISTOL 402 1949-1950",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 4MT (86 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "1971 cm3",
+               "Displacement": 1971,
                "Power": "63 KW @ 4500 RPM\n86 HP @ 4500 RPM\n84 BHP @ 4500 RPM",
                "Torque": "107 lb-ft @ 3500 RPM\n145 Nm @ 3500 RPM",
                "Fuel System": "3 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "90 mph (145 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "17 s"
+               "Top Speed": 90,
+               "Acceleration 0-62 Mph (0-100 kph)": 17
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -108,36 +108,36 @@
                "Tire Size": "5.50x16"
           },
           "DIMENSIONS": {
-               "Length": "190 in (4826 mm)",
-               "Width": "67 in (1702 mm)",
-               "Height": "59.1 in (1501 mm)",
+               "Length": 190,
+               "Width": 67,
+               "Height": 59.1,
                "Front/rear Track": "51.7/54 in (1,313/1,372 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Aerodynamics (Cd)": "0.45"
+               "Wheelbase": 114,
+               "Ground Clearance": 6.5,
+               "Aerodynamics (Cd)": 0.45
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2701 lbs (1225 kg)"
+               "Unladen Weight": 2701
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "19.6 mpg US (12 L/100Km)"
+               "Combined": 19.6
           }
      },
      "img": "images/BRISTOL 402 1949-195005-03-03-54-46.jpg"
 },{
      "model_name": "BRISTOL 403 1953-1955",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 4MT (107 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "1971 cm3",
+               "Displacement": 1971,
                "Power": "78.7 KW @ 5000 RPM\n107 HP @ 5000 RPM\n106 BHP @ 5000 RPM",
                "Torque": "112 lb-ft @ 3750 RPM\n152 Nm @ 3750 RPM",
                "Fuel System": "3 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "102 mph (164 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15.6 s"
+               "Top Speed": 102,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -151,36 +151,36 @@
                "Tire Size": "5.75 x 16"
           },
           "DIMENSIONS": {
-               "Length": "192.9 in (4900 mm)",
-               "Width": "67 in (1702 mm)",
-               "Height": "60 in (1524 mm)",
+               "Length": 192.9,
+               "Width": 67,
+               "Height": 60,
                "Front/rear Track": "51.7/54 in (1,313/1,372 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Aerodynamics (Cd)": "0.4"
+               "Wheelbase": 114,
+               "Ground Clearance": 6.5,
+               "Aerodynamics (Cd)": 0.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2778 lbs (1260 kg)"
+               "Unladen Weight": 2778
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "19.6 mpg US (12 L/100Km)"
+               "Combined": 19.6
           }
      },
      "img": "images/BRISTOL 403 1953-195505-03-03-54-48.jpg"
 },{
      "model_name": "BRISTOL 404 Coupe 1953-1955",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 4MT (107 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "1971 cm3",
+               "Displacement": 1971,
                "Power": "78.7 KW @ 5000 RPM\n107 HP @ 5000 RPM\n106 BHP @ 5000 RPM",
                "Torque": "112 lb-ft @ 3750 RPM\n152 Nm @ 3750 RPM",
                "Fuel System": "3 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "110 mph (177 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14 s"
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 14
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -194,36 +194,36 @@
                "Tire Size": "6 X 16"
           },
           "DIMENSIONS": {
-               "Length": "173.2 in (4399 mm)",
-               "Width": "67 in (1702 mm)",
-               "Height": "54.7 in (1389 mm)",
+               "Length": 173.2,
+               "Width": 67,
+               "Height": 54.7,
                "Front/rear Track": "52.4/54 in (1,331/1,372 mm)",
-               "Wheelbase": "96.3 in (2446 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Aerodynamics (Cd)": "0.4"
+               "Wheelbase": 96.3,
+               "Ground Clearance": 6.5,
+               "Aerodynamics (Cd)": 0.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2292.8 lbs (1040 kg)"
+               "Unladen Weight": 2292.8
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "21.4 mpg US (11 L/100Km)"
+               "Combined": 21.4
           }
      },
      "img": "images/BRISTOL 404 Coupe 1953-195505-03-03-54-49.jpg"
 },{
      "model_name": "BRISTOL 405 1955-1958",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 5MT (107 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "1971 cm3",
+               "Displacement": 1971,
                "Power": "78 KW @ 5000 RPM\n107 HP @ 5000 RPM\n105 BHP @ 5000 RPM",
                "Torque": "124 lb-ft @ 3750 RPM\n168 Nm @ 3750 RPM",
                "Fuel System": "3 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "110 mph (177 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14.6 s"
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -237,36 +237,36 @@
                "Tire Size": "6.00 - 16"
           },
           "DIMENSIONS": {
-               "Length": "189.3 in (4808 mm)",
-               "Width": "68 in (1727 mm)",
-               "Height": "57.5 in (1461 mm)",
+               "Length": 189.3,
+               "Width": 68,
+               "Height": 57.5,
                "Front/rear Track": "52.4/54 in (1,331/1,372 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Aerodynamics (Cd)": "0.4"
+               "Wheelbase": 114,
+               "Ground Clearance": 6.5,
+               "Aerodynamics (Cd)": 0.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2712 lbs (1230 kg)"
+               "Unladen Weight": 2712
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "21.4 mpg US (11 L/100Km)"
+               "Combined": 21.4
           }
      },
      "img": "images/BRISTOL 405 1955-195805-03-03-54-51.jpg"
 },{
      "model_name": "BRISTOL 405 Drophead Coupe 1954-1958",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 4MT (107 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "1971 cm3",
+               "Displacement": 1971,
                "Power": "78.7 KW @ 5000 RPM\n107 HP @ 5000 RPM\n106 BHP @ 5000 RPM",
                "Torque": "124 lb-ft @ 3750 RPM\n168 Nm @ 3750 RPM",
                "Fuel System": "3 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "110 mph (177 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14 s"
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 14
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -280,34 +280,34 @@
                "Tire Size": "6.00x16"
           },
           "DIMENSIONS": {
-               "Length": "171.3 in (4351 mm)",
-               "Width": "68 in (1727 mm)",
-               "Height": "55.4 in (1407 mm)",
+               "Length": 171.3,
+               "Width": 68,
+               "Height": 55.4,
                "Front/rear Track": "52.4/54 in (1,331/1,372 mm)",
-               "Wheelbase": "96.3 in (2446 mm)"
+               "Wheelbase": 96.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2782 lbs (1262 kg)"
+               "Unladen Weight": 2782
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "20.8 mpg US (11.3 L/100Km)"
+               "Combined": 20.8
           }
      },
      "img": "images/BRISTOL 405 Drophead Coupe 1954-195805-03-03-54-53.jpg"
 },{
      "model_name": "BRISTOL 406 1958-1961",
      "technical_specs": {
-          "ENGINE SPECS - 2.2L 5MT (107 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "2216 cm3",
+               "Displacement": 2216,
                "Power": "78 KW @ 4700 RPM\n107 HP @ 4700 RPM\n105 BHP @ 4700 RPM",
                "Torque": "129 lb-ft @ 3000 RPM\n175 Nm @ 3000 RPM",
                "Fuel System": "3 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "106.9 mph (172 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14 s"
+               "Top Speed": 106.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 14
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -321,34 +321,34 @@
                "Tire Size": "6.00x16"
           },
           "DIMENSIONS": {
-               "Length": "196 in (4978 mm)",
-               "Width": "68 in (1727 mm)",
-               "Height": "60 in (1524 mm)",
+               "Length": 196,
+               "Width": 68,
+               "Height": 60,
                "Front/rear Track": "56/56 in (1,422/1,422 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "6.5 in (165 mm)"
+               "Wheelbase": 114,
+               "Ground Clearance": 6.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3009.3 lbs (1365 kg)"
+               "Unladen Weight": 3009.3
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "19.6 mpg US (12 L/100Km)"
+               "Combined": 19.6
           }
      },
      "img": "images/BRISTOL 406 1958-196105-03-03-54-54.jpg"
 },{
      "model_name": "BRISTOL 407 1961-1963",
      "technical_specs": {
-          "ENGINE SPECS - 5.1L V8 3AT (253 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5130 cm3",
+               "Displacement": 5130,
                "Power": "186 KW @ 4400 RPM\n253 HP @ 4400 RPM\n249 BHP @ 4400 RPM",
                "Torque": "339 lb-ft @ 2800 RPM\n460 Nm @ 2800 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124.3 mph (200 km/h)"
+               "Top Speed": 124.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -362,32 +362,32 @@
                "Tire Size": "6.00x16"
           },
           "DIMENSIONS": {
-               "Length": "192 in (4877 mm)",
-               "Width": "68 in (1727 mm)",
-               "Height": "60 in (1524 mm)",
+               "Length": 192,
+               "Width": 68,
+               "Height": 60,
                "Front/rear Track": "53/54.5 in (1,346/1,384 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "6.5 in (165 mm)"
+               "Wheelbase": 114,
+               "Ground Clearance": 6.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3637.6 lbs (1650 kg)"
+               "Unladen Weight": 3637.6
           }
      },
      "img": "images/BRISTOL 407 1961-196305-03-03-54-56.jpg"
 },{
      "model_name": "1963 Bristol 408",
      "technical_specs": {
-          "ENGINE SPECS - 5.1L V8 3AT (253 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5130 cm3",
+               "Displacement": 5130,
                "Power": "186 KW @ 4400 RPM\n253 HP @ 4400 RPM\n249 BHP @ 4400 RPM",
                "Torque": "339 lb-ft @ 2800 RPM\n460 Nm @ 2800 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "126.8 mph (204 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.2 s"
+               "Top Speed": 126.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -401,38 +401,38 @@
                "Tire Size": "6.00x16"
           },
           "DIMENSIONS": {
-               "Length": "193.5 in (4915 mm)",
-               "Width": "68 in (1727 mm)",
-               "Height": "59.1 in (1501 mm)",
+               "Length": 193.5,
+               "Width": 68,
+               "Height": 59.1,
                "Front/rear Track": "53/54.5 in (1,346/1,384 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Cargo Volume": "19 cuFT (538 L)",
-               "Aerodynamics (Cd)": "0.4"
+               "Wheelbase": 114,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 19,
+               "Aerodynamics (Cd)": 0.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3527.4 lbs (1600 kg)",
-               "Gross Weight Limit": "4409 lbs (2000 kg)"
+               "Unladen Weight": 3527.4,
+               "Gross Weight Limit": 4409
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "11.6 mpg US (20.3 L/100Km)"
+               "Combined": 11.6
           }
      },
      "img": "images/1963 Bristol 40805-03-03-54-57.jpg"
 },{
      "model_name": "BRISTOL 411 Series 3 1972-1974",
      "technical_specs": {
-          "ENGINE SPECS - 6.3L V8 3AT (340 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6286 cm3",
+               "Displacement": 6286,
                "Power": "250 KW @ 5200 RPM\n340 HP @ 5200 RPM\n335 BHP @ 5200 RPM",
                "Torque": "425 lb-ft @ 3400 RPM\n576 Nm @ 3400 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "143 mph (230 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.2 s"
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -446,38 +446,38 @@
                "Tire Size": "205x15"
           },
           "DIMENSIONS": {
-               "Length": "193 in (4902 mm)",
-               "Width": "68 in (1727 mm)",
-               "Height": "58 in (1473 mm)",
+               "Length": 193,
+               "Width": 68,
+               "Height": 58,
                "Front/rear Track": "54/55 in (1,372/1,397 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "4.9 in (124 mm)",
-               "Cargo Volume": "19 cuFT (538 L)",
-               "Aerodynamics (Cd)": "0.45"
+               "Wheelbase": 114,
+               "Ground Clearance": 4.9,
+               "Cargo Volume": 19,
+               "Aerodynamics (Cd)": 0.45
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3692.7 lbs (1675 kg)",
-               "Gross Weight Limit": "4409 lbs (2000 kg)"
+               "Unladen Weight": 3692.7,
+               "Gross Weight Limit": 4409
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "11.1 mpg US (21.2 L/100Km)"
+               "Combined": 11.1
           }
      },
      "img": "images/BRISTOL 411 Series 3 1972-197405-03-03-54-59.jpg"
 },{
      "model_name": "BRISTOL 412 Convertible 1975-1978",
      "technical_specs": {
-          "ENGINE SPECS - 6.6L V8 3AT (264 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6556 cm3",
+               "Displacement": 6556,
                "Power": "194.2 KW @ 4800 RPM\n264 HP @ 4800 RPM\n260 BHP @ 4800 RPM",
                "Torque": "335 lb-ft @ 3600 RPM\n454 Nm @ 3600 RPM",
                "Fuel System": "carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "140 mph (225 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -491,37 +491,37 @@
                "Tire Size": "205/80 R15"
           },
           "DIMENSIONS": {
-               "Length": "194.5 in (4940 mm)",
-               "Width": "69.5 in (1765 mm)",
-               "Height": "56.5 in (1435 mm)",
+               "Length": 194.5,
+               "Width": 69.5,
+               "Height": 56.5,
                "Front/rear Track": "54.5/55 in (1,384/1,397 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "5.7 in (145 mm)",
-               "Cargo Volume": "21.9 cuFT (620 L)",
-               "Aerodynamics (Cd)": "0.45"
+               "Wheelbase": 114,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 21.9,
+               "Aerodynamics (Cd)": 0.45
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3780.9 lbs (1715 kg)",
-               "Gross Weight Limit": "4453 lbs (2020 kg)"
+               "Unladen Weight": 3780.9,
+               "Gross Weight Limit": 4453
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "11.5 mpg US (20.5 L/100Km)"
+               "Combined": 11.5
           }
      },
      "img": "images/BRISTOL 412 Convertible 1975-197805-03-03-55-01.jpg"
 },{
      "model_name": "1982 Bristol 603 S3 Brigand",
      "technical_specs": {
-          "ENGINE SPECS - 5.9L V8 3AT (172 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5898 cm3",
+               "Displacement": 5898,
                "Power": "126.5 KW @ - RPM\n172 HP @ - RPM\n170 BHP @ - RPM",
                "Fuel System": "Turbocharged Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "150 mph (241 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.1 s"
+               "Top Speed": 150,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -535,35 +535,35 @@
                "Tire Size": "215/70 VR 15"
           },
           "DIMENSIONS": {
-               "Length": "193.3 in (4910 mm)",
-               "Width": "69.7 in (1770 mm)",
-               "Height": "56.3 in (1430 mm)",
+               "Length": 193.3,
+               "Width": 69.7,
+               "Height": 56.3,
                "Front/rear Track": "54.3/55.5 in (1,379/1,410 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "19.1 cuFT (541 L)",
-               "Aerodynamics (Cd)": "0.45"
+               "Wheelbase": 114,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 19.1,
+               "Aerodynamics (Cd)": 0.45
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3849 lbs (1746 kg)",
-               "Gross Weight Limit": "5049 lbs (2290 kg)"
+               "Unladen Weight": 3849,
+               "Gross Weight Limit": 5049
           }
      },
      "img": "images/1982 Bristol 603 S3 Brigand05-03-03-55-02.jpg"
 },{
      "model_name": "BRISTOL Type 603 1976-1982",
      "technical_specs": {
-          "ENGINE SPECS - 5.9 V8": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5898 cm3",
+               "Displacement": 5898,
                "Power": "129 KW @ 4000 RPM\n175 HP @ 4000 RPM\n173 BHP @ 4000 RPM",
                "Torque": "270 lb-ft @ 2000 RPM\n366 Nm @ 2000 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "140 mph (225 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.8 s"
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -577,31 +577,31 @@
                "Tire Size": "205/80 R15"
           },
           "DIMENSIONS": {
-               "Length": "193.3 in (4910 mm)",
-               "Width": "69.7 in (1770 mm)",
-               "Height": "56.7 in (1440 mm)",
+               "Length": 193.3,
+               "Width": 69.7,
+               "Height": 56.7,
                "Front/rear Track": "54.5/55 in (1,384/1,397 mm)",
-               "Wheelbase": "114 in (2896 mm)"
+               "Wheelbase": 114
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3935.3 lbs (1785 kg)"
+               "Unladen Weight": 3935.3
           }
      },
      "img": "images/BRISTOL Type 603 1976-198205-03-03-55-04.jpg"
 },{
      "model_name": "BRISTOL Blenheim Speedster 2004-2011",
      "technical_specs": {
-          "ENGINE SPECS - 5.6L V8 5AT RWD (375 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5654 cm3",
+               "Displacement": 5654,
                "Power": "275.8 KW @ 5000 RPM\n375 HP @ 5000 RPM\n370 BHP @ 5000 RPM",
                "Torque": "391 lb-ft @ 4000 RPM\n530 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "160 mph (257 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
+               "Top Speed": 160,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -615,22 +615,22 @@
                "Tire Size": "255/55 R17"
           },
           "DIMENSIONS": {
-               "Length": "184 in (4674 mm)",
-               "Width": "69 in (1753 mm)",
-               "Height": "44 in (1118 mm)",
+               "Length": 184,
+               "Width": 69,
+               "Height": 44,
                "Front/rear Track": "56/56.5 in (1,422/1,435 mm)",
-               "Wheelbase": "113.8 in (2891 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Aerodynamics (Cd)": "0.37"
+               "Wheelbase": 113.8,
+               "Ground Clearance": 5.5,
+               "Aerodynamics (Cd)": 0.37
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3075 lbs (1395 kg)",
-               "Gross Weight Limit": "3560 lbs (1615 kg)"
+               "Unladen Weight": 3075,
+               "Gross Weight Limit": 3560
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13.1 mpg US (18 L/100Km)",
-               "Highway": "23.5 mpg US (10 L/100Km)",
-               "Combined": "18.1 mpg US (13 L/100Km)"
+               "City": 13.1,
+               "Highway": 23.5,
+               "Combined": 18.1
           },
           "": {}
      },
@@ -638,17 +638,17 @@
 },{
      "model_name": "BRISTOL Blenheim 3G 2002-2011",
      "technical_specs": {
-          "ENGINE SPECS - 5.9L V8 4AT (350 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5898 cm3",
+               "Displacement": 5898,
                "Power": "257.4 KW @ 5500 RPM\n350 HP @ 5500 RPM\n345 BHP @ 5500 RPM",
                "Torque": "391 lb-ft @ 4000 RPM\n530 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Hybrid"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "157 mph (253 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.6 s"
+               "Top Speed": 157,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -662,40 +662,40 @@
                "Tire Size": "215/70 R15"
           },
           "DIMENSIONS": {
-               "Length": "191.7 in (4869 mm)",
-               "Width": "69.5 in (1765 mm)",
-               "Height": "56.8 in (1443 mm)",
+               "Length": 191.7,
+               "Width": 69.5,
+               "Height": 56.8,
                "Front/rear Track": "55.7/56.5 in (1,415/1,435 mm)",
-               "Wheelbase": "113.8 in (2891 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "19.1 cuFT (541 L)",
-               "Aerodynamics (Cd)": "0.4"
+               "Wheelbase": 113.8,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 19.1,
+               "Aerodynamics (Cd)": 0.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3929 lbs (1782 kg)",
-               "Gross Weight Limit": "4927 lbs (2235 kg)"
+               "Unladen Weight": 3929,
+               "Gross Weight Limit": 4927
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13.1 mpg US (18 L/100Km)",
-               "Highway": "23.5 mpg US (10 L/100Km)",
-               "Combined": "18.1 mpg US (13 L/100Km)"
+               "City": 13.1,
+               "Highway": 23.5,
+               "Combined": 18.1
           }
      },
      "img": "images/BRISTOL Blenheim 3G 2002-201105-03-03-55-07.jpg"
 },{
      "model_name": "BRISTOL Blenheim 3 1999-2011",
      "technical_specs": {
-          "ENGINE SPECS - 5.9L V8 4AT RWD (350 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5898 cm3",
+               "Displacement": 5898,
                "Power": "257.4 KW @ 5500 RPM\n350 HP @ 5500 RPM\n345 BHP @ 5500 RPM",
                "Torque": "391 lb-ft @ 4000 RPM\n530 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "157 mph (253 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.6 s"
+               "Top Speed": 157,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -709,23 +709,23 @@
                "Tire Size": "215/70 R15"
           },
           "DIMENSIONS": {
-               "Length": "191.7 in (4869 mm)",
-               "Width": "69.5 in (1765 mm)",
-               "Height": "56.7 in (1440 mm)",
+               "Length": 191.7,
+               "Width": 69.5,
+               "Height": 56.7,
                "Front/rear Track": "55.7/56.5 in (1,415/1,435 mm)",
-               "Wheelbase": "113.8 in (2891 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "19.1 cuFT (541 L)",
-               "Aerodynamics (Cd)": "0.4"
+               "Wheelbase": 113.8,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 19.1,
+               "Aerodynamics (Cd)": 0.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3929 lbs (1782 kg)",
-               "Gross Weight Limit": "4927 lbs (2235 kg)"
+               "Unladen Weight": 3929,
+               "Gross Weight Limit": 4927
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13.1 mpg US (18 L/100Km)",
-               "Highway": "23.5 mpg US (10 L/100Km)",
-               "Combined": "18.1 mpg US (13 L/100Km)"
+               "City": 13.1,
+               "Highway": 23.5,
+               "Combined": 18.1
           },
           "": {}
      },
@@ -733,9 +733,9 @@
 },{
      "model_name": "BRISTOL Blenheim II 1998-1999",
      "technical_specs": {
-          "ENGINE SPECS - 5.9 V8": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5898 cm3",
+               "Displacement": 5898,
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
@@ -748,32 +748,32 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "191.4 in (4862 mm)",
-               "Width": "69.5 in (1765 mm)",
-               "Height": "56.6 in (1438 mm)",
+               "Length": 191.4,
+               "Width": 69.5,
+               "Height": 56.6,
                "Front/rear Track": "56.1/56.6 in (1,425/1,438 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "5.5 in (140 mm)"
+               "Wheelbase": 114,
+               "Ground Clearance": 5.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3913.2 lbs (1775 kg)"
+               "Unladen Weight": 3913.2
           }
      },
      "img": "images/BRISTOL Blenheim II 1998-199905-03-03-55-11.jpg"
 },{
      "model_name": "BRISTOL Blenheim 1994-1998",
      "technical_specs": {
-          "ENGINE SPECS - 5.9 V8 4AT (231 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5898 cm3",
+               "Displacement": 5898,
                "Power": "169.9 KW @ 4000 RPM\n231 HP @ 4000 RPM\n228 BHP @ 4000 RPM",
                "Torque": "325 lb-ft @ 3200 RPM\n440 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "140 mph (225 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -787,37 +787,37 @@
                "Tire Size": "215/70 - R15"
           },
           "DIMENSIONS": {
-               "Length": "191.4 in (4862 mm)",
-               "Width": "68.7 in (1745 mm)",
-               "Height": "56.6 in (1438 mm)",
+               "Length": 191.4,
+               "Width": 68.7,
+               "Height": 56.6,
                "Front/rear Track": "56.1/56.6 in (1,425/1,438 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "19.1 cuFT (541 L)",
-               "Aerodynamics (Cd)": "0.42"
+               "Wheelbase": 114,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 19.1,
+               "Aerodynamics (Cd)": 0.42
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3891.2 lbs (1765 kg)"
+               "Unladen Weight": 3891.2
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "13.8 mpg US (17 L/100Km)"
+               "Combined": 13.8
           }
      },
      "img": "images/BRISTOL Blenheim 1994-199805-03-03-55-12.jpg"
 },{
      "model_name": "BRISTOL Fighter T 2006-2011",
      "technical_specs": {
-          "ENGINE SPECS - 8.0L V10 6MT RWD (1026 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V10",
-               "Displacement": "7994 cm3",
+               "Displacement": 7994,
                "Power": "755 KW @ 5600 RPM\n1026 HP @ 5600 RPM\n1012 BHP @ 5600 RPM",
                "Torque": "1036 lb-ft @ 4500 RPM\n1405 Nm @ 4500 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "225 mph (362 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.6 s"
+               "Top Speed": 225,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -831,39 +831,39 @@
                "Tire Size": "285/40 R18"
           },
           "DIMENSIONS": {
-               "Length": "174 in (4420 mm)",
-               "Width": "70.7 in (1796 mm)",
-               "Height": "52.6 in (1336 mm)",
+               "Length": 174,
+               "Width": 70.7,
+               "Height": 52.6,
                "Front/rear Track": "57.9/57.9 in (1,471/1,471 mm)",
-               "Wheelbase": "108.3 in (2751 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Aerodynamics (Cd)": "0.27"
+               "Wheelbase": 108.3,
+               "Ground Clearance": 5.9,
+               "Aerodynamics (Cd)": 0.27
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3516 lbs (1595 kg)",
-               "Gross Weight Limit": "3770 lbs (1710 kg)"
+               "Unladen Weight": 3516,
+               "Gross Weight Limit": 3770
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "10.7 mpg US (22 L/100Km)",
-               "Highway": "19.6 mpg US (12 L/100Km)",
-               "Combined": "15.7 mpg US (15 L/100Km)"
+               "City": 10.7,
+               "Highway": 19.6,
+               "Combined": 15.7
           }
      },
      "img": "images/BRISTOL Fighter T 2006-201105-03-03-55-14.jpg"
 },{
      "model_name": "BRISTOL Fighter 2002-2011",
      "technical_specs": {
-          "ENGINE SPECS - 8.0L V10 6MT RWD (532 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V10",
-               "Displacement": "7994 cm3",
+               "Displacement": 7994,
                "Power": "391.3 KW @ 5600 RPM\n532 HP @ 5600 RPM\n525 BHP @ 5600 RPM",
                "Torque": "525 lb-ft @ 3600 RPM\n712 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "210 mph (338 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
+               "Top Speed": 210,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -877,22 +877,22 @@
                "Tire Size": "285/40 R18"
           },
           "DIMENSIONS": {
-               "Length": "174 in (4420 mm)",
-               "Width": "70.7 in (1796 mm)",
-               "Height": "53 in (1346 mm)",
+               "Length": 174,
+               "Width": 70.7,
+               "Height": 53,
                "Front/rear Track": "57.9/57.9 in (1,471/1,471 mm)",
-               "Wheelbase": "108.3 in (2751 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Aerodynamics (Cd)": "0.28"
+               "Wheelbase": 108.3,
+               "Ground Clearance": 5.9,
+               "Aerodynamics (Cd)": 0.28
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3395 lbs (1540 kg)",
-               "Gross Weight Limit": "3770 lbs (1710 kg)"
+               "Unladen Weight": 3395,
+               "Gross Weight Limit": 3770
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "11.8 mpg US (19.9 L/100Km)",
-               "Highway": "19.6 mpg US (12 L/100Km)",
-               "Combined": "16.8 mpg US (14 L/100Km)"
+               "City": 11.8,
+               "Highway": 19.6,
+               "Combined": 16.8
           },
           "": {}
      },
@@ -900,17 +900,17 @@
 },{
      "model_name": "2010 Bristol 411 Series 6",
      "technical_specs": {
-          "ENGINE SPECS - 5.9L V8 4AT (390 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5898 cm3",
+               "Displacement": 5898,
                "Power": "286.8 KW @ 4000 RPM\n390 HP @ 4000 RPM\n385 BHP @ 4000 RPM",
                "Torque": "391 lb-ft @ 6000 RPM\n530 Nm @ 6000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.1 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -924,19 +924,19 @@
                "Tire Size": "215/70 R15"
           },
           "DIMENSIONS": {
-               "Length": "194.5 in (4940 mm)",
-               "Width": "68 in (1727 mm)",
-               "Height": "57.5 in (1461 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "6.3 in (160 mm)",
-               "Cargo Volume": "19.1 cuFT (541 L)",
-               "Aerodynamics (Cd)": "0.4"
+               "Length": 194.5,
+               "Width": 68,
+               "Height": 57.5,
+               "Wheelbase": 114,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 19.1,
+               "Aerodynamics (Cd)": 0.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3990 lbs (1810 kg)"
+               "Unladen Weight": 3990
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "13.8 mpg US (17 L/100Km)"
+               "Combined": 13.8
           }
      },
      "img": "images/2010 Bristol 411 Series 605-03-03-55-17.jpg"

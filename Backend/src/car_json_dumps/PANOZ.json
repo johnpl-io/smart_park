@@ -2,9 +2,9 @@
 {
      "model_name": "PANOZ Avezzano 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L V8 6MT (430 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6162 cm3",
+               "Displacement": 6162,
                "Power": "316.3 KW @ - RPM\n430 HP @ - RPM\n424 BHP @ - RPM",
                "Fuel System": "Turbocharge Direct Injection",
                "Fuel": "Gasoline"
@@ -21,14 +21,14 @@
                "Tire Size": "265/35-20 // 305/30-20"
           },
           "DIMENSIONS": {
-               "Length": "181.1 in (4600 mm)",
-               "Width": "79.3 in (2014 mm)",
-               "Height": "52 in (1321 mm)",
+               "Length": 181.1,
+               "Width": 79.3,
+               "Height": 52,
                "Front/rear Track": "63.6/64.7 in (1,615/1,643 mm)",
-               "Wheelbase": "106 in (2692 mm)"
+               "Wheelbase": 106
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3197 lbs (1450 kg)"
+               "Unladen Weight": 3197
           },
           "": {}
      },
@@ -36,16 +36,16 @@
 },{
      "model_name": "PANOZ Roadster 2015-Present",
      "technical_specs": {
-          "ENGINE SPECS - 4.6L V8 5MT (430 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4604 cm3",
+               "Displacement": 4604,
                "Power": "316.3 KW @ - RPM\n430 HP @ - RPM\n424 BHP @ - RPM",
                "Fuel System": "Turbocharge Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "140 mph (225 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -60,17 +60,17 @@
 },{
      "model_name": "PANOZ Esperante 1999-2007",
      "technical_specs": {
-          "ENGINE SPECS - 4.6 V8 5MT (320 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4601 cm3",
+               "Displacement": 4601,
                "Power": "239 KW @ 6000 RPM\n320 HP @ 6000 RPM\n321 BHP @ 6000 RPM",
                "Torque": "317 lb-ft @ 4750 RPM\n430 Nm @ 4750 RPM",
                "Fuel System": "Sequential Electronic Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.1 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -84,37 +84,37 @@
                "Tire Size": "P255/45 Z R17"
           },
           "DIMENSIONS": {
-               "Length": "176.2 in (4475 mm)",
-               "Width": "73.1 in (1857 mm)",
-               "Height": "53.4 in (1356 mm)",
+               "Length": 176.2,
+               "Width": 73.1,
+               "Height": 53.4,
                "Front/rear Track": "60.9/62.2 in (1,547/1,580 mm)",
-               "Wheelbase": "106.8 in (2713 mm)",
-               "Ground Clearance": "5 in (127 mm)",
-               "Cargo Volume": "11.6 cuFT (328 L)"
+               "Wheelbase": 106.8,
+               "Ground Clearance": 5,
+               "Cargo Volume": 11.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3199 lbs (1451 kg)"
+               "Unladen Weight": 3199
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)"
+               "City": 17,
+               "Highway": 25
           }
      },
      "img": "images/PANOZ Esperante 1999-200705-03-06-35-53.jpg"
 },{
      "model_name": "PANOZ Esperante GT 2000-2007",
      "technical_specs": {
-          "ENGINE SPECS - 4.6L V8 5MT (305 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4601 cm3",
+               "Displacement": 4601,
                "Power": "224.3 KW @ 5800 RPM\n305 HP @ 5800 RPM\n301 BHP @ 5800 RPM",
                "Torque": "236 lb-ft @ 4200 RPM\n320 Nm @ 4200 RPM",
                "Fuel System": "Sequential Electronic Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -128,38 +128,38 @@
                "Tire Size": "255/45 Z R17"
           },
           "DIMENSIONS": {
-               "Length": "176.3 in (4478 mm)",
-               "Width": "73.2 in (1859 mm)",
-               "Height": "53.4 in (1356 mm)",
+               "Length": 176.3,
+               "Width": 73.2,
+               "Height": 53.4,
                "Front/rear Track": "60.9/63.2 in (1,547/1,605 mm)",
-               "Wheelbase": "106 in (2692 mm)",
-               "Ground Clearance": "5 in (127 mm)",
-               "Cargo Volume": "11.6 cuFT (328 L)"
+               "Wheelbase": 106,
+               "Ground Clearance": 5,
+               "Cargo Volume": 11.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2646 lbs (1200 kg)",
-               "Gross Weight Limit": "3199 lbs (1451 kg)"
+               "Unladen Weight": 2646,
+               "Gross Weight Limit": 3199
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)"
+               "City": 17,
+               "Highway": 25
           }
      },
      "img": "images/PANOZ Esperante GT 2000-200705-03-06-35-55.jpg"
 },{
      "model_name": "PANOZ Esperante GTLM 2003-2007",
      "technical_specs": {
-          "ENGINE SPECS - 4.6L V8 5MT (320 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4601 cm3",
+               "Displacement": 4601,
                "Power": "235.4 KW @ 6000 RPM\n320 HP @ 6000 RPM\n316 BHP @ 6000 RPM",
                "Torque": "317 lb-ft @ 4750 RPM\n430 Nm @ 4750 RPM",
                "Fuel System": "Sequential Electronic Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -173,16 +173,16 @@
                "Tire Size": "P255/45 Z R18"
           },
           "DIMENSIONS": {
-               "Length": "176.2 in (4475 mm)",
-               "Width": "73.1 in (1857 mm)",
-               "Height": "53.4 in (1356 mm)",
+               "Length": 176.2,
+               "Width": 73.1,
+               "Height": 53.4,
                "Front/rear Track": "60.9/63.2 in (1,547/1,605 mm)",
-               "Wheelbase": "106.8 in (2713 mm)",
-               "Ground Clearance": "5 in (127 mm)"
+               "Wheelbase": 106.8,
+               "Ground Clearance": 5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2646 lbs (1200 kg)",
-               "Gross Weight Limit": "3197 lbs (1450 kg)"
+               "Unladen Weight": 2646,
+               "Gross Weight Limit": 3197
           }
      },
      "img": "images/PANOZ Esperante GTLM 2003-200705-03-06-35-56.jpg"

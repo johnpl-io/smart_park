@@ -2,13 +2,13 @@
 {
      "model_name": "2024 GMC Sierra HD AT4X",
      "technical_specs": {
-          "ENGINE SPECS - AT4X 6.6L V8 10AT AWD (406 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
                "Power": "299 KW @ 5200 RPM\n406.6 HP @ 5200 RPM\n401 BHP @ 5200 RPM",
                "Torque": "464 lb-ft @ 4000 RPM\n629 Nm @ 4000 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "35.9 gallons (135.9 L)"
+               "Fuel capacity": 35.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -22,15 +22,15 @@
                "Tire Size": "LT305/70R18 MT"
           },
           "DIMENSIONS": {
-               "Length": "250.7 in (6368 mm)",
-               "Width": "81.9 in (2080 mm)",
-               "Height": "82.7 in (2101 mm)",
+               "Length": 250.7,
+               "Width": 81.9,
+               "Height": 82.7,
                "Front/rear Track": "69.4/69.3 in (1,763/1,760 mm)",
-               "Wheelbase": "159.1 in (4041 mm)"
+               "Wheelbase": 159.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "7516 lbs (3409 kg)",
-               "Gross Weight Limit": "10849 lbs (4921 kg)"
+               "Unladen Weight": 7516,
+               "Gross Weight Limit": 10849
           },
           "": {}
      },
@@ -38,13 +38,13 @@
 },{
      "model_name": "2022 GMC Sierra AT4X",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L V8 VVT DI 10 AT 2WD (426 HP) SHORT BOX": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
                "Power": "313.3 KW @ 5600 RPM\n426 HP @ 5600 RPM\n420 BHP @ 5600 RPM",
                "Torque": "460 lb-ft @ 4100 RPM\n623 Nm @ 4100 RPM",
                "Fuel System": "Direct high-pressure fuel injection with Dynamic Fuel Management",
                "Fuel": "Gasoline",
-               "Fuel capacity": "24 gallons (90.8 L)"
+               "Fuel capacity": 24
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -58,15 +58,15 @@
                "Tire Size": "LT265/70 R18"
           },
           "DIMENSIONS": {
-               "Length": "232.9 in (5916 mm)",
-               "Width": "81.2 in (2062 mm)",
-               "Height": "75.4 in (1915 mm)",
-               "Wheelbase": "157 in (3988 mm)",
-               "Ground Clearance": "10.7 in (272 mm)"
+               "Length": 232.9,
+               "Width": 81.2,
+               "Height": 75.4,
+               "Wheelbase": 157,
+               "Ground Clearance": 10.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4978 lbs (2258 kg)",
-               "Gross Weight Limit": "7101 lbs (3221 kg)"
+               "Unladen Weight": 4978,
+               "Gross Weight Limit": 7101
           },
           "": {}
      },
@@ -74,12 +74,12 @@
 },{
      "model_name": "2022 GMC Sierra Denali",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L V8 10AT RWD (426 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
                "Power": "313.3 KW @ 5600 RPM\n426 HP @ 5600 RPM\n420 BHP @ 5600 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "24 gallons (90.8 L)"
+               "Fuel capacity": 24
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -93,29 +93,29 @@
                "Tire Size": "P275/60 R20"
           },
           "DIMENSIONS": {
-               "Length": "231.9 in (5890 mm)",
-               "Width": "81.2 in (2062 mm)",
-               "Height": "75.5 in (1918 mm)",
-               "Wheelbase": "147.4 in (3744 mm)",
-               "Ground Clearance": "7.9 in (201 mm)"
+               "Length": 231.9,
+               "Width": 81.2,
+               "Height": 75.5,
+               "Wheelbase": 147.4,
+               "Ground Clearance": 7.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4751 lbs (2155 kg)",
-               "Gross Weight Limit": "6799 lbs (3084 kg)"
+               "Unladen Weight": 4751,
+               "Gross Weight Limit": 6799
           }
      },
      "img": "images/2022 GMC Sierra Denali05-03-04-56-55.jpg"
 },{
      "model_name": "2024 GMC Sierra EV Denali Edition 1",
      "technical_specs": {
-          "ENGINE SPECS - 755 (HP)": {
+          "ENGINE SPECS": {
                "Total maximum power": "555.3 kw (755 hp)",
                "Total maximum torque": "785 lb-ft (1064 Nm)",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -126,7 +126,7 @@
                "Rear": "Ventilated Discs"
           },
           "POWER SYSTEM SPECS": {
-               "Range": "397.7 miles (640.0 km)"
+               "Range": 397.7
           },
           "NOTES": {}
      },
@@ -134,13 +134,13 @@
 },{
      "model_name": "GMC Sierra AT4 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.7L V8 8AT (310 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "228 KW @ 5600 RPM\n310 HP @ 5600 RPM\n306 BHP @ 5600 RPM",
                "Torque": "349 lb-ft @ 1500-4500 RPM\n473 Nm @ 1500-4500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "24 gallons (90.8 L)"
+               "Fuel capacity": 24
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -154,10 +154,10 @@
                "Tire Size": "255/70 R17"
           },
           "DIMENSIONS": {
-               "Length": "232.1 in (5895 mm)",
-               "Width": "81.2 in (2062 mm)",
-               "Height": "75.6 in (1920 mm)",
-               "Wheelbase": "147.4 in (3744 mm)"
+               "Length": 232.1,
+               "Width": 81.2,
+               "Height": 75.6,
+               "Wheelbase": 147.4
           },
           "": {}
      },
@@ -165,13 +165,13 @@
 },{
      "model_name": "GMC Sierra Denali 2018-2021",
      "technical_specs": {
-          "ENGINE SPECS - 5.3L V8 VVT 8AT 2WD (355 HP) (5\u2019 8\u201d BOX)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
                "Power": "261.1 KW @ 5600 RPM\n355 HP @ 5600 RPM\n350 BHP @ 5600 RPM",
                "Torque": "383 lb-ft @ 4100 RPM\n519 Nm @ 4100 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "24 gallons (90.8 L)"
+               "Fuel capacity": 24
           },
           "TRANSMISSION SPECS": {
                "Gearbox": "8-speed automatic"
@@ -184,19 +184,19 @@
                "Tire Size": "275/55R20"
           },
           "DIMENSIONS": {
-               "Length": "229.3 in (5824 mm)",
-               "Width": "80 in (2032 mm)",
-               "Height": "74.2 in (1885 mm)",
-               "Wheelbase": "143.5 in (3645 mm)",
-               "Cargo Volume": "63 cuFT (1784 L)"
+               "Length": 229.3,
+               "Width": 80,
+               "Height": 74.2,
+               "Wheelbase": 143.5,
+               "Cargo Volume": 63
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5211 lbs (2364 kg)",
-               "Gross Weight Limit": "7000 lbs (3175 kg)"
+               "Unladen Weight": 5211,
+               "Gross Weight Limit": 7000
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)"
+               "City": 16,
+               "Highway": 22
           },
           "": {}
      },
@@ -204,14 +204,14 @@
 },{
      "model_name": "2014 GMC Sierra Regular Cab",
      "technical_specs": {
-          "ENGINE SPECS - 4.3L V6 ECOTEC3 (4X2)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "4293 cm3",
+               "Displacement": 4293,
                "Power": "213 KW @ 5300 RPM\n290 HP @ 5300 RPM\n286 BHP @ 5300 RPM",
                "Torque": "305 lb-ft @ 3900 RPM\n414 Nm @ 3900 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.9 gallons (98.0 L)"
+               "Fuel capacity": 25.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -225,19 +225,19 @@
                "Tire Size": "255/70 R17"
           },
           "DIMENSIONS": {
-               "Length": "205.57 in (5221 mm)",
-               "Width": "80 in (2032 mm)",
-               "Height": "73.97 in (1879 mm)",
-               "Wheelbase": "119 in (3023 mm)",
-               "Ground Clearance": "8.23 in (209 mm)"
+               "Length": 205.57,
+               "Width": 80,
+               "Height": 73.97,
+               "Wheelbase": 119,
+               "Ground Clearance": 8.23
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4387 lbs (1990 kg)",
-               "Gross Weight Limit": "6500 lbs (2948 kg)"
+               "Unladen Weight": 4387,
+               "Gross Weight Limit": 6500
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)"
+               "City": 18,
+               "Highway": 24
           },
           "": {}
      },
@@ -245,14 +245,14 @@
 },{
      "model_name": "2014 GMC Sierra Crew Cab",
      "technical_specs": {
-          "ENGINE SPECS - 4.3L V6 ECOTEC3 (4X2)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "4293 cm3",
+               "Displacement": 4293,
                "Power": "213 KW @ 5300 RPM\n290 HP @ 5300 RPM\n286 BHP @ 5300 RPM",
                "Torque": "305 lb-ft @ 3900 RPM\n414 Nm @ 3900 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.9 gallons (98.0 L)"
+               "Fuel capacity": 25.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -263,19 +263,19 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "229.5 in (5829 mm)",
-               "Width": "80 in (2032 mm)",
-               "Height": "73.9 in (1877 mm)",
-               "Wheelbase": "143.5 in (3645 mm)",
-               "Ground Clearance": "8.47 in (215 mm)"
+               "Length": 229.5,
+               "Width": 80,
+               "Height": 73.9,
+               "Wheelbase": 143.5,
+               "Ground Clearance": 8.47
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4982 lbs (2260 kg)",
-               "Gross Weight Limit": "6900 lbs (3130 kg)"
+               "Unladen Weight": 4982,
+               "Gross Weight Limit": 6900
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)"
+               "City": 18,
+               "Highway": 24
           },
           "": {}
      },
@@ -283,14 +283,14 @@
 },{
      "model_name": "2014 GMC Sierra Double Cab",
      "technical_specs": {
-          "ENGINE SPECS - 4.3L V6 ECOTEC3 (4X2)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "4293 cm3",
+               "Displacement": 4293,
                "Power": "213 KW @ 5300 RPM\n290 HP @ 5300 RPM\n286 BHP @ 5300 RPM",
                "Torque": "305 lb-ft @ 3900 RPM\n414 Nm @ 3900 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.9 gallons (98.0 L)"
+               "Fuel capacity": 25.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -304,20 +304,20 @@
                "Tire Size": "265/70 R17"
           },
           "DIMENSIONS": {
-               "Length": "239 in (6071 mm)",
-               "Width": "80 in (2032 mm)",
-               "Height": "73.7 in (1872 mm)",
-               "Wheelbase": "153 in (3886 mm)",
-               "Ground Clearance": "8.5 in (216 mm)",
-               "Cargo Volume": "61 cuFT (1727 L)"
+               "Length": 239,
+               "Width": 80,
+               "Height": 73.7,
+               "Wheelbase": 153,
+               "Ground Clearance": 8.5,
+               "Cargo Volume": 61
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5000 lbs (2268 kg)",
-               "Gross Weight Limit": "6875 lbs (3118 kg)"
+               "Unladen Weight": 5000,
+               "Gross Weight Limit": 6875
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)"
+               "City": 18,
+               "Highway": 24
           },
           "": {}
      },
@@ -325,14 +325,14 @@
 },{
      "model_name": "GMC Sierra 1500 Regular Cab 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 4.3L V6 4AT (195 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "4300 cm3",
+               "Displacement": 4300,
                "Power": "145 KW @ 4600 RPM\n197 HP @ 4600 RPM\n194 BHP @ 4600 RPM",
                "Torque": "260 lb-ft @ 2800 RPM\n353 Nm @ 2800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.9 gallons (98.0 L)"
+               "Fuel capacity": 25.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -346,23 +346,23 @@
                "Tire Size": "P245/70 R17"
           },
           "DIMENSIONS": {
-               "Length": "205.6 in (5222 mm)",
-               "Width": "79.9 in (2029 mm)",
-               "Height": "73.6 in (1869 mm)",
+               "Length": 205.6,
+               "Width": 79.9,
+               "Height": 73.6,
                "Front/rear Track": "68.1/67 in (1,730/1,702 mm)",
-               "Wheelbase": "119 in (3023 mm)",
-               "Ground Clearance": "7.7 in (196 mm)",
-               "Cargo Volume": "60.7 cuFT (1719 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 119,
+               "Ground Clearance": 7.7,
+               "Cargo Volume": 60.7,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4890 lbs (2218 kg)",
-               "Gross Weight Limit": "6400 lbs (2903 kg)"
+               "Unladen Weight": 4890,
+               "Gross Weight Limit": 6400
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "20 mpg US (11.8 L/100Km)",
-               "Combined": "17.5 mpg US (13.4 L/100Km)"
+               "City": 15,
+               "Highway": 20,
+               "Combined": 17.5
           },
           "NOTES": {},
           "": {}
@@ -371,14 +371,14 @@
 },{
      "model_name": "GMC Sierra 1500 Crew Cab 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 4.8L V8 4AT RWD (302 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4807 cm3",
+               "Displacement": 4807,
                "Power": "225 KW @ 5600 RPM\n306 HP @ 5600 RPM\n302 BHP @ 5600 RPM",
                "Torque": "305 lb-ft @ 4600 RPM\n414 Nm @ 4600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "26 gallons (98.4 L)"
+               "Fuel capacity": 26
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -392,23 +392,23 @@
                "Tire Size": "P24570 R17"
           },
           "DIMENSIONS": {
-               "Length": "230 in (5842 mm)",
-               "Width": "79.9 in (2029 mm)",
-               "Height": "73.8 in (1875 mm)",
+               "Length": 230,
+               "Width": 79.9,
+               "Height": 73.8,
                "Front/rear Track": "68.1/67 in (1,730/1,702 mm)",
-               "Wheelbase": "143.5 in (3645 mm)",
-               "Ground Clearance": "9 in (229 mm)",
-               "Cargo Volume": "53.2 cuFT (1506 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 143.5,
+               "Ground Clearance": 9,
+               "Cargo Volume": 53.2,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5489 lbs (2490 kg)",
-               "Gross Weight Limit": "7000 lbs (3175 kg)"
+               "Unladen Weight": 5489,
+               "Gross Weight Limit": 7000
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14 mpg US (16.8 L/100Km)",
-               "Highway": "19 mpg US (12.4 L/100Km)",
-               "Combined": "16.5 mpg US (14.3 L/100Km)"
+               "City": 14,
+               "Highway": 19,
+               "Combined": 16.5
           },
           "NOTES": {},
           "": {}
@@ -417,14 +417,14 @@
 },{
      "model_name": "GMC Sierra 1500 Extended Cab 2007-2013",
      "technical_specs": {
-          "ENGINE SPECS - 4.3L V6 4AT (195 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "4300 cm3",
+               "Displacement": 4300,
                "Power": "145 KW @ 4600 RPM\n197 HP @ 4600 RPM\n194 BHP @ 4600 RPM",
                "Torque": "260 lb-ft @ 2800 RPM\n353 Nm @ 2800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "34.1 gallons (129.1 L)"
+               "Fuel capacity": 34.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -438,23 +438,23 @@
                "Tire Size": "P24570 R17"
           },
           "DIMENSIONS": {
-               "Length": "230.2 in (5847 mm)",
-               "Width": "79.9 in (2029 mm)",
-               "Height": "73.9 in (1877 mm)",
+               "Length": 230.2,
+               "Width": 79.9,
+               "Height": 73.9,
                "Front/rear Track": "68.1/67 in (1,730/1,702 mm)",
-               "Wheelbase": "143.5 in (3645 mm)",
-               "Ground Clearance": "8.9 in (226 mm)",
-               "Cargo Volume": "60.7 cuFT (1719 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 143.5,
+               "Ground Clearance": 8.9,
+               "Cargo Volume": 60.7,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4889 lbs (2218 kg)",
-               "Gross Weight Limit": "6400 lbs (2903 kg)"
+               "Unladen Weight": 4889,
+               "Gross Weight Limit": 6400
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "20 mpg US (11.8 L/100Km)",
-               "Combined": "17.5 mpg US (13.4 L/100Km)"
+               "City": 15,
+               "Highway": 20,
+               "Combined": 17.5
           },
           "NOTES": {},
           "": {}
@@ -463,7 +463,7 @@
 },{
      "model_name": "GMC Terrain 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS - 1.5L 9AT (170 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "125 KW @ - RPM\n170 HP @ - RPM\n168 BHP @ - RPM",
                "Torque": "203 lb-ft @ - RPM\n275 Nm @ - RPM",
@@ -475,14 +475,14 @@
 },{
      "model_name": "GMC Terrain 2017-2021",
      "technical_specs": {
-          "ENGINE SPECS - 1.5L 6AT (170 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1490 cm3",
+               "Displacement": 1490,
                "Power": "125 KW @ 5600 RPM\n170 HP @ 5600 RPM\n168 BHP @ 5600 RPM",
                "Torque": "203 lb-ft @ 2000-4000 RPM\n275 Nm @ 2000-4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14.8 gallons (56.0 L)"
+               "Fuel capacity": 14.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -496,15 +496,15 @@
                "Tire Size": "235/60 R17"
           },
           "DIMENSIONS": {
-               "Length": "183.1 in (4651 mm)",
-               "Width": "72.6 in (1844 mm)",
-               "Height": "65.4 in (1661 mm)",
+               "Length": 183.1,
+               "Width": 72.6,
+               "Height": 65.4,
                "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
-               "Wheelbase": "107.3 in (2725 mm)",
-               "Cargo Volume": "29.9 cuFT (847 L)"
+               "Wheelbase": 107.3,
+               "Cargo Volume": 29.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3327 lbs (1509 kg)"
+               "Unladen Weight": 3327
           },
           "": {}
      },
@@ -512,14 +512,14 @@
 },{
      "model_name": "GMC Terrain 2016-2017",
      "technical_specs": {
-          "ENGINE SPECS - 2.4L VVT 6AT (182 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2384 cm3",
+               "Displacement": 2384,
                "Power": "136 KW @ 6700 RPM\n185 HP @ 6700 RPM\n182 BHP @ 6700 RPM",
                "Torque": "172 lb-ft @ 4900 RPM\n233 Nm @ 4900 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18 gallons (68.1 L)"
+               "Fuel capacity": 18
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -530,21 +530,21 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "185.5 in (4712 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "63.3 in (1608 mm)",
-               "Wheelbase": "112.5 in (2858 mm)",
-               "Ground Clearance": "6.9 in (175 mm)",
-               "Cargo Volume": "31.6 cuFT (895 L)"
+               "Length": 185.5,
+               "Width": 72.8,
+               "Height": 63.3,
+               "Wheelbase": 112.5,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 31.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3827 lbs (1736 kg)",
-               "Gross Weight Limit": "4960 lbs (2250 kg)"
+               "Unladen Weight": 3827,
+               "Gross Weight Limit": 4960
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "21 mpg US (11.2 L/100Km)",
-               "Highway": "30.9 mpg US (7.6 L/100Km)",
-               "Combined": "25 mpg US (9.4 L/100Km)"
+               "City": 21,
+               "Highway": 30.9,
+               "Combined": 25
           },
           "": {}
      },
@@ -552,14 +552,14 @@
 },{
      "model_name": "GMC Terrain 2009-2016",
      "technical_specs": {
-          "ENGINE SPECS - 2.4L DOHC 6AT AWD (180 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2384 cm3",
+               "Displacement": 2384,
                "Power": "134 KW @ 6700 RPM\n182 HP @ 6700 RPM\n180 BHP @ 6700 RPM",
                "Torque": "172 lb-ft @ 4900 RPM\n233 Nm @ 4900 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.9 gallons (79.1 L)"
+               "Fuel capacity": 20.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -573,24 +573,24 @@
                "Tire Size": "P225/65R17"
           },
           "DIMENSIONS": {
-               "Length": "185.3 in (4707 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "66.3 in (1684 mm)",
+               "Length": 185.3,
+               "Width": 72.8,
+               "Height": 66.3,
                "Front/rear Track": "62.9/62.1 in (1,598/1,577 mm)",
-               "Wheelbase": "112.5 in (2858 mm)",
-               "Ground Clearance": "6.9 in (175 mm)",
-               "Cargo Volume": "31.6 cuFT (895 L)",
-               "Aerodynamics (Cd)": "0.34",
-               "Turning circle": "40 ft (12.2 m)"
+               "Wheelbase": 112.5,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 31.6,
+               "Aerodynamics (Cd)": 0.34,
+               "Turning circle": 40
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4019 lbs (1823 kg)",
-               "Gross Weight Limit": "5070 lbs (2300 kg)"
+               "Unladen Weight": 4019,
+               "Gross Weight Limit": 5070
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "20 mpg US (11.8 L/100Km)",
-               "Highway": "29 mpg US (8.1 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)"
+               "City": 20,
+               "Highway": 29,
+               "Combined": 18
           },
           "": {}
      },
@@ -598,9 +598,9 @@
 },{
      "model_name": "GMC Yukon XL 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS - 5.3L V8 VVT DI 10AT (355 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5328 cm3",
+               "Displacement": 5328,
                "Power": "261.1 KW @ 5600 RPM\n355 HP @ 5600 RPM\n350 BHP @ 5600 RPM",
                "Torque": "383 lb-ft @ 4100 RPM\n519 Nm @ 4100 RPM",
                "Fuel System": "Direct injection",
@@ -618,17 +618,17 @@
                "Tire Size": "P265/20/R18"
           },
           "DIMENSIONS": {
-               "Length": "225.2 in (5720 mm)",
-               "Width": "81 in (2057 mm)",
-               "Height": "76.5 in (1943 mm)",
+               "Length": 225.2,
+               "Width": 81,
+               "Height": 76.5,
                "Front/rear Track": "68.5/68.3 in (1,740/1,735 mm)",
-               "Wheelbase": "134.1 in (3406 mm)",
-               "Cargo Volume": "41.5 cuFT (1175 L)"
+               "Wheelbase": 134.1,
+               "Cargo Volume": 41.5
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "19.9 mpg US (11.8 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)"
+               "City": 16,
+               "Highway": 19.9,
+               "Combined": 18
           },
           "": {}
      },
@@ -636,17 +636,17 @@
 },{
      "model_name": "GMC Yukon XL 2014-2020",
      "technical_specs": {
-          "ENGINE SPECS - 5.3L ECOTEC3 V8 AWD 6AT (340 HPL": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5328 cm3",
+               "Displacement": 5328,
                "Power": "250 KW @ 5600 RPM\n340 HP @ 5600 RPM\n335 BHP @ 5600 RPM",
                "Torque": "383 lb-ft @ 4100 RPM\n519 Nm @ 4100 RPM",
                "Fuel System": "direct fuel injection with Active Fuel Management",
                "Fuel": "Gasoline",
-               "Fuel capacity": "30.9 gallons (117.0 L)"
+               "Fuel capacity": 30.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "113 mph (182 km/h)"
+               "Top Speed": 113
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -660,21 +660,21 @@
                "Tire Size": "P265/65R18"
           },
           "DIMENSIONS": {
-               "Length": "224.3 in (5697 mm)",
-               "Width": "80.5 in (2045 mm)",
-               "Height": "74.8 in (1900 mm)",
+               "Length": 224.3,
+               "Width": 80.5,
+               "Height": 74.8,
                "Front/rear Track": "68.7/68.7 in (1,745/1,745 mm)",
-               "Wheelbase": "130 in (3302 mm)",
-               "Ground Clearance": "8.1 in (206 mm)",
-               "Cargo Volume": "76.4 cuFT (2163 L)"
+               "Wheelbase": 130,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 76.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5775 lbs (2619 kg)",
-               "Gross Weight Limit": "7500 lbs (3402 kg)"
+               "Unladen Weight": 5775,
+               "Gross Weight Limit": 7500
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)"
+               "City": 15,
+               "Highway": 22
           },
           "": {}
      },
@@ -682,14 +682,14 @@
 },{
      "model_name": "GMC Yukon XL 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 5.3L V8 4AT (319 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5328 cm3",
+               "Displacement": 5328,
                "Power": "238 KW @ 5300 RPM\n324 HP @ 5300 RPM\n319 BHP @ 5300 RPM",
                "Torque": "340 lb-ft @ 4400 RPM\n461 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.9 gallons (98.0 L)"
+               "Fuel capacity": 25.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -703,23 +703,23 @@
                "Tire Size": "LT245/75R16E"
           },
           "DIMENSIONS": {
-               "Length": "202 in (5131 mm)",
-               "Width": "79.1 in (2009 mm)",
-               "Height": "76.8 in (1951 mm)",
+               "Length": 202,
+               "Width": 79.1,
+               "Height": 76.8,
                "Front/rear Track": "68.2/67 in (1,732/1,702 mm)",
-               "Wheelbase": "116 in (2946 mm)",
-               "Ground Clearance": "8.9 in (226 mm)",
-               "Cargo Volume": "45.8 cuFT (1297 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 116,
+               "Ground Clearance": 8.9,
+               "Cargo Volume": 45.8,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5776 lbs (2620 kg)",
-               "Gross Weight Limit": "7200 lbs (3266 kg)"
+               "Unladen Weight": 5776,
+               "Gross Weight Limit": 7200
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14 mpg US (16.8 L/100Km)",
-               "Highway": "20 mpg US (11.8 L/100Km)",
-               "Combined": "17 mpg US (13.8 L/100Km)"
+               "City": 14,
+               "Highway": 20,
+               "Combined": 17
           },
           "NOTES": {},
           "": {}
@@ -728,17 +728,17 @@
 },{
      "model_name": "GMC Yukon XL 1999-2006",
      "technical_specs": {
-          "ENGINE SPECS - 4.8L V8 4AT RWD (275 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4807 cm3",
+               "Displacement": 4807,
                "Power": "202 KW @ 5200 RPM\n275 HP @ 5200 RPM\n271 BHP @ 5200 RPM",
                "Torque": "290 lb-ft @ 4000 RPM\n393 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.9 gallons (98.0 L)"
+               "Fuel capacity": 25.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "99.4 mph (160 km/h)"
+               "Top Speed": 99.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -752,22 +752,22 @@
                "Tire Size": "265/70R 16"
           },
           "DIMENSIONS": {
-               "Length": "199.6 in (5070 mm)",
-               "Width": "78.9 in (2004 mm)",
-               "Height": "73.6 in (1869 mm)",
+               "Length": 199.6,
+               "Width": 78.9,
+               "Height": 73.6,
                "Front/rear Track": "65/66 in (1,651/1,676 mm)",
-               "Wheelbase": "130 in (3302 mm)",
-               "Ground Clearance": "8.4 in (213 mm)",
-               "Cargo Volume": "130.4 cuFT (3693 L)",
-               "Aerodynamics (Cd)": "0.45"
+               "Wheelbase": 130,
+               "Ground Clearance": 8.4,
+               "Cargo Volume": 130.4,
+               "Aerodynamics (Cd)": 0.45
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "48794.4 lbs (22133 kg)",
-               "Gross Weight Limit": "7000.9 lbs (3176 kg)"
+               "Unladen Weight": 48794.4,
+               "Gross Weight Limit": 7000.9
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "19.9 mpg US (11.8 L/100Km)"
+               "City": 15,
+               "Highway": 19.9
           },
           "": {}
      },
@@ -775,9 +775,9 @@
 },{
      "model_name": "GMC Yukon AT4 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS - 5,3L V8 VVT DI 10AT (355 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5328 cm3",
+               "Displacement": 5328,
                "Power": "261.1 KW @ 5600 RPM\n355 HP @ 5600 RPM\n350 BHP @ 5600 RPM",
                "Torque": "383 lb-ft @ 4100 RPM\n519 Nm @ 4100 RPM",
                "Fuel System": "Direct injection",
@@ -795,17 +795,17 @@
                "Tire Size": "P275/60/R22"
           },
           "DIMENSIONS": {
-               "Length": "210 in (5334 mm)",
-               "Width": "81 in (2057 mm)",
-               "Height": "76.5 in (1943 mm)",
+               "Length": 210,
+               "Width": 81,
+               "Height": 76.5,
                "Front/rear Track": "68.4/68.1 in (1,737/1,730 mm)",
-               "Wheelbase": "120.9 in (3071 mm)",
-               "Cargo Volume": "25.5 cuFT (722 L)"
+               "Wheelbase": 120.9,
+               "Cargo Volume": 25.5
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "19.9 mpg US (11.8 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)"
+               "City": 16,
+               "Highway": 19.9,
+               "Combined": 18
           },
           "": {}
      },
@@ -813,17 +813,17 @@
 },{
      "model_name": "GMC Yukon Denali 2014-2020",
      "technical_specs": {
-          "ENGINE SPECS - 5.3L ECOTEC3 V8 AWD 6AT (340 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5328 cm3",
+               "Displacement": 5328,
                "Power": "250 KW @ 5600 RPM\n340 HP @ 5600 RPM\n335 BHP @ 5600 RPM",
                "Torque": "383 lb-ft @ 4100 RPM\n519 Nm @ 4100 RPM",
                "Fuel System": "direct fuel injection with Active Fuel Management",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.9 gallons (98.0 L)"
+               "Fuel capacity": 25.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "113 mph (182 km/h)"
+               "Top Speed": 113
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -837,21 +837,21 @@
                "Tire Size": "P265/65R18"
           },
           "DIMENSIONS": {
-               "Length": "203.9 in (5179 mm)",
-               "Width": "80.5 in (2045 mm)",
-               "Height": "74.4 in (1890 mm)",
+               "Length": 203.9,
+               "Width": 80.5,
+               "Height": 74.4,
                "Front/rear Track": "68.7/68.7 in (1,745/1,745 mm)",
-               "Wheelbase": "116 in (2946 mm)",
-               "Ground Clearance": "8.1 in (206 mm)",
-               "Cargo Volume": "51.7 cuFT (1464 L)"
+               "Wheelbase": 116,
+               "Ground Clearance": 8.1,
+               "Cargo Volume": 51.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5575 lbs (2529 kg)",
-               "Gross Weight Limit": "7330 lbs (3325 kg)"
+               "Unladen Weight": 5575,
+               "Gross Weight Limit": 7330
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)"
+               "City": 16,
+               "Highway": 22
           },
           "": {}
      },
@@ -859,14 +859,14 @@
 },{
      "model_name": "GMC Yukon 2008-2014",
      "technical_specs": {
-          "ENGINE SPECS - 4.8L V8 4AT (290 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4807 cm3",
+               "Displacement": 4807,
                "Power": "216 KW @ 5400 RPM\n294 HP @ 5400 RPM\n290 BHP @ 5400 RPM",
                "Torque": "290 lb-ft @ 4000 RPM\n393 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.9 gallons (98.0 L)"
+               "Fuel capacity": 25.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -880,23 +880,23 @@
                "Tire Size": "P265/70R17"
           },
           "DIMENSIONS": {
-               "Length": "202 in (5131 mm)",
-               "Width": "79 in (2007 mm)",
-               "Height": "76.9 in (1953 mm)",
+               "Length": 202,
+               "Width": 79,
+               "Height": 76.9,
                "Front/rear Track": "68.2/67 in (1,732/1,702 mm)",
-               "Wheelbase": "116 in (2946 mm)",
-               "Ground Clearance": "8.9 in (226 mm)",
-               "Cargo Volume": "16.9 cuFT (479 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 116,
+               "Ground Clearance": 8.9,
+               "Cargo Volume": 16.9,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5357 lbs (2430 kg)",
-               "Gross Weight Limit": "7099 lbs (3220 kg)"
+               "Unladen Weight": 5357,
+               "Gross Weight Limit": 7099
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14 mpg US (16.8 L/100Km)",
-               "Highway": "19 mpg US (12.4 L/100Km)",
-               "Combined": "16.5 mpg US (14.3 L/100Km)"
+               "City": 14,
+               "Highway": 19,
+               "Combined": 16.5
           },
           "NOTES": {},
           "": {}
@@ -905,18 +905,18 @@
 },{
      "model_name": "GMC Yukon 1999-2006",
      "technical_specs": {
-          "ENGINE SPECS - 4.8L V8 4AT RWD (290 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4807 cm3",
+               "Displacement": 4807,
                "Power": "213 KW @ 5200 RPM\n290 HP @ 5200 RPM\n286 BHP @ 5200 RPM",
                "Torque": "295 lb-ft @ 4000 RPM\n400 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.9 gallons (98.0 L)"
+               "Fuel capacity": 25.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "97 mph (156 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "806 s"
+               "Top Speed": 97,
+               "Acceleration 0-62 Mph (0-100 kph)": 806
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -930,24 +930,24 @@
                "Tire Size": "245/75R 16"
           },
           "DIMENSIONS": {
-               "Length": "198.8 in (5050 mm)",
-               "Width": "78.8 in (2002 mm)",
-               "Height": "76.7 in (1948 mm)",
+               "Length": 198.8,
+               "Width": 78.8,
+               "Height": 76.7,
                "Front/rear Track": "65/66 in (1,651/1,676 mm)",
-               "Wheelbase": "116 in (2946 mm)",
-               "Ground Clearance": "7.2 in (183 mm)",
-               "Cargo Volume": "103.7 cuFT (2936 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 116,
+               "Ground Clearance": 7.2,
+               "Cargo Volume": 103.7,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4976.7 lbs (2257 kg)",
-               "Gross Weight Limit": "6500.3 lbs (2948 kg)"
+               "Unladen Weight": 4976.7,
+               "Gross Weight Limit": 6500.3
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15.6 mpg US (15.1 L/100Km)",
-               "Highway": "21.8 mpg US (10.8 L/100Km)",
-               "Combined": "17.8 mpg US (13.2 L/100Km)",
-               "CO2 Emissions": "314 g/km"
+               "City": 15.6,
+               "Highway": 21.8,
+               "Combined": 17.8,
+               "CO2 Emissions": 314
           },
           "": {}
      },
@@ -955,9 +955,9 @@
 },{
      "model_name": "2020 GMC Acadia",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 9AT AWD (230 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1986 cm3",
+               "Displacement": 1986,
                "Power": "169.2 KW @ 5000 RPM\n230 HP @ 5000 RPM\n227 BHP @ 5000 RPM",
                "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
                "Fuel System": "Direct Injection",
@@ -975,17 +975,17 @@
                "Tire Size": "P245/65R17 All-Season"
           },
           "DIMENSIONS": {
-               "Length": "193.6 in (4917 mm)",
-               "Width": "75.4 in (1915 mm)",
-               "Height": "66 in (1676 mm)",
+               "Length": 193.6,
+               "Width": 75.4,
+               "Height": 66,
                "Front/rear Track": "64.5/64.5 in (1,638/1,638 mm)",
-               "Wheelbase": "112.5 in (2858 mm)",
-               "Ground Clearance": "7.2 in (183 mm)",
-               "Cargo Volume": "12.8 cuFT (362 L)",
+               "Wheelbase": 112.5,
+               "Ground Clearance": 7.2,
+               "Cargo Volume": 12.8,
                "Turning circle (curb to curb)": "38.7 ft (11.8 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4235 lbs (1921 kg)"
+               "Unladen Weight": 4235
           },
           "": {}
      },
@@ -993,14 +993,14 @@
 },{
      "model_name": "2017 GMC Acadia",
      "technical_specs": {
-          "ENGINE SPECS - 2.4L 6AT AWD (193 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2458 cm3",
+               "Displacement": 2458,
                "Power": "142 KW @ 6300 RPM\n193 HP @ 6300 RPM\n190 BHP @ 6300 RPM",
                "Torque": "188 lb-ft @ 4400 RPM\n255 Nm @ 4400 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "21.9 gallons (82.9 L)"
+               "Fuel capacity": 21.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1014,20 +1014,20 @@
                "Tire Size": "P245/65R17"
           },
           "DIMENSIONS": {
-               "Length": "193.6 in (4917 mm)",
-               "Width": "75.4 in (1915 mm)",
-               "Height": "68.7 in (1745 mm)",
+               "Length": 193.6,
+               "Width": 75.4,
+               "Height": 68.7,
                "Front/rear Track": "64.5/64.5 in (1,638/1,638 mm)",
-               "Wheelbase": "112.5 in (2858 mm)",
-               "Cargo Volume": "12.8 cuFT (362 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 112.5,
+               "Cargo Volume": 12.8,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": "6001 lbs (2722 kg)"
+               "Gross Weight Limit": 6001
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "21 mpg US (11.2 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)"
+               "City": 21,
+               "Highway": 25
           },
           "": {}
      },
@@ -1035,14 +1035,14 @@
 },{
      "model_name": "2013 GMC Acadia",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 6AT AWD (284 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3564 cm3",
+               "Displacement": 3564,
                "Power": "209.5 KW @ 6700 RPM\n285 HP @ 6700 RPM\n281 BHP @ 6700 RPM",
                "Torque": "266 lb-ft @ 3400 RPM\n361 Nm @ 3400 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "21.9 gallons (82.9 L)"
+               "Fuel capacity": 21.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1056,23 +1056,23 @@
                "Tire Size": "255/65 R18"
           },
           "DIMENSIONS": {
-               "Length": "200.8 in (5100 mm)",
-               "Width": "78.9 in (2004 mm)",
-               "Height": "72.6 in (1844 mm)",
+               "Length": 200.8,
+               "Width": 78.9,
+               "Height": 72.6,
                "Front/rear Track": "67.3/67.1 in (1,709/1,704 mm)",
-               "Wheelbase": "118.9 in (3020 mm)",
-               "Ground Clearance": "7.6 in (193 mm)",
-               "Cargo Volume": "24.1 cuFT (682 L)",
-               "Aerodynamics (Cd)": "0.36",
-               "Turning circle": "40.4 ft (12.3 m)"
+               "Wheelbase": 118.9,
+               "Ground Clearance": 7.6,
+               "Cargo Volume": 24.1,
+               "Aerodynamics (Cd)": 0.36,
+               "Turning circle": 40.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4850 lbs (2200 kg)",
-               "Gross Weight Limit": "6460 lbs (2930 kg)"
+               "Unladen Weight": 4850,
+               "Gross Weight Limit": 6460
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "23.1 mpg US (10.2 L/100Km)"
+               "City": 16,
+               "Highway": 23.1
           },
           "": {}
      },
@@ -1080,18 +1080,18 @@
 },{
      "model_name": "GMC Acadia 2007-2012",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 6AT AWD (279 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3564 cm3",
+               "Displacement": 3564,
                "Power": "205.1 KW @ 6600 RPM\n279 HP @ 6600 RPM\n275 BHP @ 6600 RPM",
                "Torque": "251 lb-ft @ 3200 RPM\n340 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "21.9 gallons (82.9 L)"
+               "Fuel capacity": 21.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "106.9 mph (172 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
+               "Top Speed": 106.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1105,24 +1105,24 @@
                "Tire Size": "P255/65R18"
           },
           "DIMENSIONS": {
-               "Length": "201.1 in (5108 mm)",
-               "Width": "78.9 in (2004 mm)",
-               "Height": "69.9 in (1775 mm)",
+               "Length": 201.1,
+               "Width": 78.9,
+               "Height": 69.9,
                "Front/rear Track": "67.3/67.3 in (1,709/1,709 mm)",
-               "Wheelbase": "118.9 in (3020 mm)",
-               "Ground Clearance": "7.6 in (193 mm)",
-               "Cargo Volume": "116 cuFT (3285 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 118.9,
+               "Ground Clearance": 7.6,
+               "Cargo Volume": 116,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4936 lbs (2239 kg)",
-               "Gross Weight Limit": "6398 lbs (2902 kg)"
+               "Unladen Weight": 4936,
+               "Gross Weight Limit": 6398
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)",
-               "CO2 Emissions": "294 g/km"
+               "City": 16,
+               "Highway": 22,
+               "Combined": 19,
+               "CO2 Emissions": 294
           },
           "": {}
      },
@@ -1130,9 +1130,9 @@
 },{
      "model_name": "GMC Savana 1500 2013-2015",
      "technical_specs": {
-          "ENGINE SPECS - 4.3L V6 MFI (2WD)": {
+          "ENGINE SPECS": {
                "Cylinders": "6",
-               "Displacement": "4293 cm3",
+               "Displacement": 4293,
                "Power": "145 KW @ 4600 RPM\n198 HP @ 4600 RPM\n194 BHP @ 4600 RPM",
                "Torque": "260 lb-ft @ 2800 RPM\n353 Nm @ 2800 RPM",
                "Fuel System": "Direct injection",
@@ -1147,19 +1147,19 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "224.1 in (5692 mm)",
-               "Width": "79.2 in (2012 mm)",
-               "Height": "82.6 in (2098 mm)",
-               "Wheelbase": "135 in (3429 mm)",
-               "Ground Clearance": "7.1 in (180 mm)"
+               "Length": 224.1,
+               "Width": 79.2,
+               "Height": 82.6,
+               "Wheelbase": 135,
+               "Ground Clearance": 7.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4919 lbs (2231 kg)",
-               "Gross Weight Limit": "7300 lbs (3311 kg)"
+               "Unladen Weight": 4919,
+               "Gross Weight Limit": 7300
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "20 mpg US (11.8 L/100Km)"
+               "City": 15,
+               "Highway": 20
           },
           "": {}
      },
@@ -1167,9 +1167,9 @@
 },{
      "model_name": "GMC Savana 2500 2013-Present",
      "technical_specs": {
-          "ENGINE SPECS - 4.8 V8 VORTEC (2WD)": {
+          "ENGINE SPECS": {
                "Cylinders": "8",
-               "Displacement": "4752 cm3",
+               "Displacement": 4752,
                "Power": "213 KW @ 5400 RPM\n289 HP @ 5400 RPM\n286 BHP @ 5400 RPM",
                "Torque": "295 lb-ft @ 4600 RPM\n400 Nm @ 4600 RPM",
                "Fuel System": "Direct injection",
@@ -1184,15 +1184,15 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "224.1 in (5692 mm)",
-               "Width": "79.2 in (2012 mm)",
-               "Height": "84.6 in (2149 mm)",
-               "Wheelbase": "135 in (3429 mm)",
-               "Ground Clearance": "7.1 in (180 mm)"
+               "Length": 224.1,
+               "Width": 79.2,
+               "Height": 84.6,
+               "Wheelbase": 135,
+               "Ground Clearance": 7.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5291 lbs (2400 kg)",
-               "Gross Weight Limit": "8600 lbs (3901 kg)"
+               "Unladen Weight": 5291,
+               "Gross Weight Limit": 8600
           },
           "": {}
      },
@@ -1200,9 +1200,9 @@
 },{
      "model_name": "GMC Savana 3500 2013-Present",
      "technical_specs": {
-          "ENGINE SPECS - 4.8L V8 VORTEC (4X2)": {
+          "ENGINE SPECS": {
                "Cylinders": "8",
-               "Displacement": "4752 cm3",
+               "Displacement": 4752,
                "Power": "213 KW @ 5400 RPM\n289 HP @ 5400 RPM\n286 BHP @ 5400 RPM",
                "Torque": "260 lb-ft @ 2800 RPM\n353 Nm @ 2800 RPM",
                "Fuel System": "Direct injection",
@@ -1217,14 +1217,14 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "224.1 in (5692 mm)",
-               "Width": "79.2 in (2012 mm)",
-               "Height": "84.6 in (2149 mm)",
-               "Wheelbase": "135 in (3429 mm)"
+               "Length": 224.1,
+               "Width": 79.2,
+               "Height": 84.6,
+               "Wheelbase": 135
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5206 lbs (2361 kg)",
-               "Gross Weight Limit": "9600 lbs (4354 kg)"
+               "Unladen Weight": 5206,
+               "Gross Weight Limit": 9600
           },
           "": {}
      },
@@ -1232,9 +1232,9 @@
 },{
      "model_name": "GMC Savana 2003-2007",
      "technical_specs": {
-          "ENGINE SPECS - 6.0": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5967 cm3",
+               "Displacement": 5967,
                "Power": "224 KW @ 4400 RPM\n305 HP @ 4400 RPM\n300 BHP @ 4400 RPM",
                "Torque": "360 lb-ft @ 4000 RPM\n488 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
@@ -1252,26 +1252,26 @@
                "Tire Size": "LT245/75R16E"
           },
           "DIMENSIONS": {
-               "Length": "244.1 in (6200 mm)",
-               "Width": "79.4 in (2017 mm)",
-               "Height": "82 in (2083 mm)",
+               "Length": 244.1,
+               "Width": 79.4,
+               "Height": 82,
                "Front/rear Track": "67.8/67.8 in (1,722/1,722 mm)",
-               "Wheelbase": "155 in (3937 mm)",
-               "Ground Clearance": "7.7 in (196 mm)",
-               "Cargo Volume": "237 cuFT (6711 L)"
+               "Wheelbase": 155,
+               "Ground Clearance": 7.7,
+               "Cargo Volume": 237
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "6335 lbs (2874 kg)",
-               "Gross Weight Limit": "9600.6 lbs (4355 kg)"
+               "Unladen Weight": 6335,
+               "Gross Weight Limit": 9600.6
           }
      },
      "img": "images/GMC Savana 2003-200705-03-04-58-16.jpg"
 },{
      "model_name": "GMC Savana 1995-2002",
      "technical_specs": {
-          "ENGINE SPECS - 4.3": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "4300 cm3",
+               "Displacement": 4300,
                "Torque": "260 lb-ft @ 2800 RPM\n353 Nm @ 2800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
@@ -1285,26 +1285,26 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "224.1 in (5692 mm)",
-               "Width": "79.4 in (2017 mm)",
-               "Height": "81.6 in (2073 mm)",
-               "Wheelbase": "135 in (3429 mm)",
-               "Cargo Volume": "204 cuFT (5777 L)"
+               "Length": 224.1,
+               "Width": 79.4,
+               "Height": 81.6,
+               "Wheelbase": 135,
+               "Cargo Volume": 204
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "20 mpg US (11.8 L/100Km)",
-               "Combined": "17 mpg US (13.8 L/100Km)",
-               "CO2 Emissions": "329 g/km"
+               "City": 15,
+               "Highway": 20,
+               "Combined": 17,
+               "CO2 Emissions": 329
           }
      },
      "img": "images/GMC Savana 1995-200205-03-04-58-18.jpg"
 },{
      "model_name": "GMC Canyon Crew Cab 2014-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.5L 6AT (200 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2458 cm3",
+               "Displacement": 2458,
                "Power": "149.1 KW @ 6300 RPM\n202.8 HP @ 6300 RPM\n200 BHP @ 6300 RPM",
                "Torque": "191 lb-ft @ 4400 RPM\n259 Nm @ 4400 RPM",
                "Fuel System": "Direct Injection",
@@ -1319,14 +1319,14 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "212.4 in (5395 mm)",
-               "Width": "74.3 in (1887 mm)",
-               "Height": "70.6 in (1793 mm)",
-               "Wheelbase": "128.3 in (3259 mm)",
-               "Ground Clearance": "8.2 in (208 mm)"
+               "Length": 212.4,
+               "Width": 74.3,
+               "Height": 70.6,
+               "Wheelbase": 128.3,
+               "Ground Clearance": 8.2
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": "6008 lbs (2725 kg)"
+               "Gross Weight Limit": 6008
           },
           "": {}
      },
@@ -1334,14 +1334,14 @@
 },{
      "model_name": "GMC Canyon Crew Cab 2004-2013",
      "technical_specs": {
-          "ENGINE SPECS - 2.8L 5MT RWD (177 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2770 cm3",
+               "Displacement": 2770,
                "Power": "130 KW @ 5600 RPM\n177 HP @ 5600 RPM\n174 BHP @ 5600 RPM",
                "Torque": "185 lb-ft @ 2800 RPM\n251 Nm @ 2800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19.5 gallons (73.8 L)"
+               "Fuel capacity": 19.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1355,23 +1355,23 @@
                "Tire Size": "P225/70R15"
           },
           "DIMENSIONS": {
-               "Length": "207.1 in (5260 mm)",
-               "Width": "67.6 in (1717 mm)",
-               "Height": "64.8 in (1646 mm)",
+               "Length": 207.1,
+               "Width": 67.6,
+               "Height": 64.8,
                "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
-               "Wheelbase": "126 in (3200 mm)",
-               "Ground Clearance": "7.9 in (201 mm)",
-               "Cargo Volume": "37 cuFT (1048 L)"
+               "Wheelbase": 126,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 37
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3461.8 lbs (1570 kg)",
-               "Gross Weight Limit": "5000.9 lbs (2268 kg)"
+               "Unladen Weight": 3461.8,
+               "Gross Weight Limit": 5000.9
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19.3 mpg US (12.2 L/100Km)",
-               "Highway": "28.7 mpg US (8.2 L/100Km)",
-               "Combined": "22.6 mpg US (10.4 L/100Km)",
-               "CO2 Emissions": "248 g/km"
+               "City": 19.3,
+               "Highway": 28.7,
+               "Combined": 22.6,
+               "CO2 Emissions": 248
           },
           "": {}
      },
@@ -1379,7 +1379,7 @@
 },{
      "model_name": "GMC Sierra 2500HD 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS - 6.6L 10AT (445 HP)": {
+          "ENGINE SPECS": {
                "Power": "327.3 KW @ - RPM\n445 HP @ - RPM\n439 BHP @ - RPM"
           }
      },
@@ -1387,9 +1387,9 @@
 },{
      "model_name": "2014 Sierra 2500HD Regular Cab",
      "technical_specs": {
-          "ENGINE SPECS - 6.0 V8 VORTEC (4X2)": {
+          "ENGINE SPECS": {
                "Cylinders": "8",
-               "Displacement": "5998 cm3",
+               "Displacement": 5998,
                "Power": "268 KW @ 5400 RPM\n365 HP @ 5400 RPM\n359 BHP @ 5400 RPM",
                "Torque": "380 lb-ft @ 4200 RPM\n515 Nm @ 4200 RPM",
                "Fuel System": "Stratified Fuel Injection",
@@ -1404,15 +1404,15 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "225 in (5715 mm)",
-               "Width": "80 in (2032 mm)",
-               "Height": "77.5 in (1969 mm)",
-               "Wheelbase": "133.7 in (3396 mm)",
-               "Ground Clearance": "9.1 in (231 mm)"
+               "Length": 225,
+               "Width": 80,
+               "Height": 77.5,
+               "Wheelbase": 133.7,
+               "Ground Clearance": 9.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5631 lbs (2554 kg)",
-               "Gross Weight Limit": "9300 lbs (4218 kg)"
+               "Unladen Weight": 5631,
+               "Gross Weight Limit": 9300
           },
           "": {}
      },
@@ -1420,9 +1420,9 @@
 },{
      "model_name": "2014 Sierra 2500HD Crew Cab",
      "technical_specs": {
-          "ENGINE SPECS - 6.0 V8 VORTEC (4X2)": {
+          "ENGINE SPECS": {
                "Cylinders": "8",
-               "Displacement": "5998 cm3",
+               "Displacement": 5998,
                "Power": "268 KW @ 5400 RPM\n365 HP @ 5400 RPM\n359 BHP @ 5400 RPM",
                "Torque": "380 lb-ft @ 4200 RPM\n515 Nm @ 4200 RPM",
                "Fuel System": "Stratified Fuel Injection",
@@ -1433,15 +1433,15 @@
                "Gearbox": "6-speed automatic"
           },
           "DIMENSIONS": {
-               "Length": "240.2 in (6101 mm)",
-               "Width": "80 in (2032 mm)",
-               "Height": "78.1 in (1984 mm)",
-               "Wheelbase": "153.7 in (3904 mm)",
-               "Ground Clearance": "8.2 in (208 mm)"
+               "Length": 240.2,
+               "Width": 80,
+               "Height": 78.1,
+               "Wheelbase": 153.7,
+               "Ground Clearance": 8.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "6120 lbs (2776 kg)",
-               "Gross Weight Limit": "9500 lbs (4309 kg)"
+               "Unladen Weight": 6120,
+               "Gross Weight Limit": 9500
           },
           "": {}
      },
@@ -1449,9 +1449,9 @@
 },{
      "model_name": "GMC Sierra 2500HD Regular Cab 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 6.0 V8 6AT (360 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5967 cm3",
+               "Displacement": 5967,
                "Power": "268 KW @ 5400 RPM\n365 HP @ 5400 RPM\n359 BHP @ 5400 RPM",
                "Torque": "380 lb-ft @ 4200 RPM\n515 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
@@ -1469,21 +1469,21 @@
                "Tire Size": "LT245/75R16"
           },
           "DIMENSIONS": {
-               "Length": "224.7 in (5707 mm)",
-               "Width": "80 in (2032 mm)",
-               "Height": "76.3 in (1938 mm)",
+               "Length": 224.7,
+               "Width": 80,
+               "Height": 76.3,
                "Front/rear Track": "68.6/66 in (1,742/1,676 mm)",
-               "Wheelbase": "133 in (3378 mm)",
-               "Ground Clearance": "9.5 in (241 mm)",
-               "Cargo Volume": "75.5 cuFT (2138 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 133,
+               "Ground Clearance": 9.5,
+               "Cargo Volume": 75.5,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5276 lbs (2393 kg)",
-               "Gross Weight Limit": "9200 lbs (4173 kg)"
+               "Unladen Weight": 5276,
+               "Gross Weight Limit": 9200
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "13.1 mpg US (18 L/100Km)"
+               "Combined": 13.1
           },
           "NOTES": {},
           "": {}
@@ -1492,9 +1492,9 @@
 },{
      "model_name": "GMC Sierra 2500HD Extended Cab 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 6.0 V8 6AT (360 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5967 cm3",
+               "Displacement": 5967,
                "Power": "268 KW @ 5400 RPM\n365 HP @ 5400 RPM\n359 BHP @ 5400 RPM",
                "Torque": "380 lb-ft @ 4200 RPM\n515 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
@@ -1512,21 +1512,21 @@
                "Tire Size": "LT245/75R16"
           },
           "DIMENSIONS": {
-               "Length": "230.3 in (5850 mm)",
-               "Width": "80 in (2032 mm)",
-               "Height": "76.3 in (1938 mm)",
+               "Length": 230.3,
+               "Width": 80,
+               "Height": 76.3,
                "Front/rear Track": "68.6/66 in (1,742/1,676 mm)",
-               "Wheelbase": "143.5 in (3645 mm)",
-               "Ground Clearance": "9.5 in (241 mm)",
-               "Cargo Volume": "60.7 cuFT (1719 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 143.5,
+               "Ground Clearance": 9.5,
+               "Cargo Volume": 60.7,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5577 lbs (2530 kg)",
-               "Gross Weight Limit": "9200 lbs (4173 kg)"
+               "Unladen Weight": 5577,
+               "Gross Weight Limit": 9200
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "13 mpg US (18.1 L/100Km)"
+               "Combined": 13
           },
           "NOTES": {},
           "": {}
@@ -1535,9 +1535,9 @@
 },{
      "model_name": "GMC Sierra 2500HD Crew Cab 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 6.0 V8 6AT (360 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5967 cm3",
+               "Displacement": 5967,
                "Power": "268 KW @ 5400 RPM\n365 HP @ 5400 RPM\n359 BHP @ 5400 RPM",
                "Torque": "380 lb-ft @ 4200 RPM\n515 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
@@ -1555,21 +1555,21 @@
                "Tire Size": "LT245/75R16"
           },
           "DIMENSIONS": {
-               "Length": "240 in (6096 mm)",
-               "Width": "80 in (2032 mm)",
-               "Height": "77.1 in (1958 mm)",
+               "Length": 240,
+               "Width": 80,
+               "Height": 77.1,
                "Front/rear Track": "68.6/66 in (1,742/1,676 mm)",
-               "Wheelbase": "153 in (3886 mm)",
-               "Ground Clearance": "9.5 in (241 mm)",
-               "Cargo Volume": "60.7 cuFT (1719 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 153,
+               "Ground Clearance": 9.5,
+               "Cargo Volume": 60.7,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5720 lbs (2595 kg)",
-               "Gross Weight Limit": "9200 lbs (4173 kg)"
+               "Unladen Weight": 5720,
+               "Gross Weight Limit": 9200
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "12 mpg US (19.6 L/100Km)"
+               "Combined": 12
           },
           "NOTES": {},
           "": {}
@@ -1578,7 +1578,7 @@
 },{
      "model_name": "GMC Hummer EV 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS - THREE-MOTOR E4WD (1000 HP)": {
+          "ENGINE SPECS": {
                "Fuel": "Gasoline"
           },
           "TRANSMISSION SPECS": {
@@ -1589,14 +1589,14 @@
 },{
      "model_name": "GMC Canyon Double Cab 2004-2013",
      "technical_specs": {
-          "ENGINE SPECS - 2.8L 5MT RWD (177 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2770 cm3",
+               "Displacement": 2770,
                "Power": "130 KW @ 5600 RPM\n177 HP @ 5600 RPM\n174 BHP @ 5600 RPM",
                "Torque": "185 lb-ft @ 2800 RPM\n251 Nm @ 2800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19.5 gallons (73.8 L)"
+               "Fuel capacity": 19.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1610,23 +1610,23 @@
                "Tire Size": "P225/70 R15"
           },
           "DIMENSIONS": {
-               "Length": "207.1 in (5260 mm)",
-               "Width": "67.6 in (1717 mm)",
-               "Height": "64.8 in (1646 mm)",
+               "Length": 207.1,
+               "Width": 67.6,
+               "Height": 64.8,
                "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
-               "Wheelbase": "126 in (3200 mm)",
-               "Ground Clearance": "7.9 in (201 mm)",
-               "Cargo Volume": "44 cuFT (1246 L)"
+               "Wheelbase": 126,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 44
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3677.9 lbs (1668 kg)",
-               "Gross Weight Limit": "5000.9 lbs (2268 kg)"
+               "Unladen Weight": 3677.9,
+               "Gross Weight Limit": 5000.9
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19.3 mpg US (12.2 L/100Km)",
-               "Highway": "28.7 mpg US (8.2 L/100Km)",
-               "Combined": "22.6 mpg US (10.4 L/100Km)",
-               "CO2 Emissions": "247 g/km"
+               "City": 19.3,
+               "Highway": 28.7,
+               "Combined": 22.6,
+               "CO2 Emissions": 247
           },
           "": {}
      },
@@ -1634,9 +1634,9 @@
 },{
      "model_name": "GMC Canyon Regular Cab 2004-2013",
      "technical_specs": {
-          "ENGINE SPECS - 2.8L 5MT RWD (177 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2770 cm3",
+               "Displacement": 2770,
                "Power": "130 KW @ 5600 RPM\n177 HP @ 5600 RPM\n174 BHP @ 5600 RPM",
                "Torque": "185 lb-ft @ 2800 RPM\n251 Nm @ 2800 RPM",
                "Fuel System": "Electronic Injection",
@@ -1654,23 +1654,23 @@
                "Tire Size": "P225/70R15"
           },
           "DIMENSIONS": {
-               "Length": "192.4 in (4887 mm)",
-               "Width": "67.6 in (1717 mm)",
-               "Height": "64.8 in (1646 mm)",
+               "Length": 192.4,
+               "Width": 67.6,
+               "Height": 64.8,
                "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
-               "Wheelbase": "111.3 in (2827 mm)",
-               "Ground Clearance": "7.9 in (201 mm)",
-               "Cargo Volume": "44 cuFT (1246 L)"
+               "Wheelbase": 111.3,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 44
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3375.9 lbs (1531 kg)",
-               "Gross Weight Limit": "3375.9 lbs (1531 kg)"
+               "Unladen Weight": 3375.9,
+               "Gross Weight Limit": 3375.9
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19.3 mpg US (12.2 L/100Km)",
-               "Highway": "28.7 mpg US (8.2 L/100Km)",
-               "Combined": "22.6 mpg US (10.4 L/100Km)",
-               "CO2 Emissions": "247 g/km"
+               "City": 19.3,
+               "Highway": 28.7,
+               "Combined": 22.6,
+               "CO2 Emissions": 247
           },
           "": {}
      },
@@ -1678,18 +1678,18 @@
 },{
      "model_name": "GMC Envoy 2008-2009",
      "technical_specs": {
-          "ENGINE SPECS - 4.2L 4AT (275 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "4157 cm3",
+               "Displacement": 4157,
                "Power": "205 KW @ 6000 RPM\n279 HP @ 6000 RPM\n275 BHP @ 6000 RPM",
                "Torque": "275 lb-ft @ 4600 RPM\n373 Nm @ 4600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "22 gallons (83.3 L)"
+               "Fuel capacity": 22
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "109 mph (175 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1703,23 +1703,23 @@
                "Tire Size": "P245/65R17"
           },
           "DIMENSIONS": {
-               "Length": "191.6 in (4867 mm)",
-               "Width": "74.7 in (1897 mm)",
-               "Height": "71.9 in (1826 mm)",
+               "Length": 191.6,
+               "Width": 74.7,
+               "Height": 71.9,
                "Front/rear Track": "63.1/62.1 in (1,603/1,577 mm)",
-               "Wheelbase": "113 in (2870 mm)",
-               "Ground Clearance": "8 in (203 mm)",
-               "Cargo Volume": "43.7 cuFT (1237 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 113,
+               "Ground Clearance": 8,
+               "Cargo Volume": 43.7,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4404 lbs (1998 kg)",
-               "Gross Weight Limit": "5550 lbs (2517 kg)"
+               "Unladen Weight": 4404,
+               "Gross Weight Limit": 5550
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14 mpg US (16.8 L/100Km)",
-               "Highway": "20 mpg US (11.8 L/100Km)",
-               "Combined": "17 mpg US (13.8 L/100Km)"
+               "City": 14,
+               "Highway": 20,
+               "Combined": 17
           },
           "NOTES": {},
           "": {}
@@ -1728,17 +1728,17 @@
 },{
      "model_name": "GMC Envoy 2001-2007",
      "technical_specs": {
-          "ENGINE SPECS - 4.2L 4AT (279 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "4160 cm3",
+               "Displacement": 4160,
                "Power": "205 KW @ 6000 RPM\n279 HP @ 6000 RPM\n275 BHP @ 6000 RPM",
                "Torque": "275 lb-ft @ 3600 RPM\n373 Nm @ 3600 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "21.9 gallons (82.9 L)"
+               "Fuel capacity": 21.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "97 mph (156 km/h)"
+               "Top Speed": 97
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1752,24 +1752,24 @@
                "Tire Size": "245/70 R16"
           },
           "DIMENSIONS": {
-               "Length": "191.6 in (4867 mm)",
-               "Width": "74.7 in (1897 mm)",
-               "Height": "71.9 in (1826 mm)",
+               "Length": 191.6,
+               "Width": 74.7,
+               "Height": 71.9,
                "Front/rear Track": "63.1/62 in (1,603/1,575 mm)",
-               "Wheelbase": "113 in (2870 mm)",
-               "Ground Clearance": "8.2 in (208 mm)",
-               "Cargo Volume": "79.4 cuFT (2248 L)",
-               "Aerodynamics (Cd)": "0.42"
+               "Wheelbase": 113,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 79.4,
+               "Aerodynamics (Cd)": 0.42
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4425.4 lbs (2007 kg)",
-               "Gross Weight Limit": "5550 lbs (2517 kg)"
+               "Unladen Weight": 4425.4,
+               "Gross Weight Limit": 5550
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15.6 mpg US (15.1 L/100Km)",
-               "Highway": "22.6 mpg US (10.4 L/100Km)",
-               "Combined": "18.1 mpg US (13 L/100Km)",
-               "CO2 Emissions": "309 g/km"
+               "City": 15.6,
+               "Highway": 22.6,
+               "Combined": 18.1,
+               "CO2 Emissions": 309
           },
           "": {}
      },
@@ -1777,17 +1777,17 @@
 },{
      "model_name": "GMC Envoy XL 2001-2006",
      "technical_specs": {
-          "ENGINE SPECS - 4.2L 4AT (279 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "4157 cm3",
+               "Displacement": 4157,
                "Power": "205 KW @ 6000 RPM\n279 HP @ 6000 RPM\n275 BHP @ 6000 RPM",
                "Torque": "275 lb-ft @ 3600 RPM\n373 Nm @ 3600 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.4 gallons (96.1 L)"
+               "Fuel capacity": 25.4
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "97 mph (156 km/h)"
+               "Top Speed": 97
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1801,23 +1801,23 @@
                "Tire Size": "245/65 R17"
           },
           "DIMENSIONS": {
-               "Length": "207.5 in (5271 mm)",
-               "Width": "74.7 in (1897 mm)",
-               "Height": "75.5 in (1918 mm)",
+               "Length": 207.5,
+               "Width": 74.7,
+               "Height": 75.5,
                "Front/rear Track": "63.1/62 in (1,603/1,575 mm)",
-               "Wheelbase": "128.9 in (3274 mm)",
-               "Ground Clearance": "8 in (203 mm)",
-               "Cargo Volume": "106.4 cuFT (3013 L)"
+               "Wheelbase": 128.9,
+               "Ground Clearance": 8,
+               "Cargo Volume": 106.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4773.8 lbs (2165 kg)",
-               "Gross Weight Limit": "6200.5 lbs (2812 kg)"
+               "Unladen Weight": 4773.8,
+               "Gross Weight Limit": 6200.5
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14.7 mpg US (16 L/100Km)",
-               "Highway": "21 mpg US (11.2 L/100Km)",
-               "Combined": "16.9 mpg US (13.9 L/100Km)",
-               "CO2 Emissions": "331 g/km"
+               "City": 14.7,
+               "Highway": 21,
+               "Combined": 16.9,
+               "CO2 Emissions": 331
           },
           "": {}
      },
@@ -1825,14 +1825,14 @@
 },{
      "model_name": "GMC Envoy XUV 2003-2005",
      "technical_specs": {
-          "ENGINE SPECS - 4.2L 4AT (279 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "4160 cm3",
+               "Displacement": 4160,
                "Power": "205 KW @ 6000 RPM\n279 HP @ 6000 RPM\n275 BHP @ 6000 RPM",
                "Torque": "275 lb-ft @ 3600 RPM\n373 Nm @ 3600 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.4 gallons (96.1 L)"
+               "Fuel capacity": 25.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1846,23 +1846,23 @@
                "Tire Size": "245/65 R17"
           },
           "DIMENSIONS": {
-               "Length": "208.4 in (5293 mm)",
-               "Width": "74.7 in (1897 mm)",
-               "Height": "72.6 in (1844 mm)",
+               "Length": 208.4,
+               "Width": 74.7,
+               "Height": 72.6,
                "Front/rear Track": "63.1/62 in (1,603/1,575 mm)",
-               "Wheelbase": "128.9 in (3274 mm)",
-               "Ground Clearance": "8 in (203 mm)",
-               "Cargo Volume": "107.8 cuFT (3053 L)"
+               "Wheelbase": 128.9,
+               "Ground Clearance": 8,
+               "Cargo Volume": 107.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4945.8 lbs (2243 kg)",
-               "Gross Weight Limit": "6200.5 lbs (2812 kg)"
+               "Unladen Weight": 4945.8,
+               "Gross Weight Limit": 6200.5
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14.7 mpg US (16 L/100Km)",
-               "Highway": "21 mpg US (11.2 L/100Km)",
-               "Combined": "16.9 mpg US (13.9 L/100Km)",
-               "CO2 Emissions": "331 g/km"
+               "City": 14.7,
+               "Highway": 21,
+               "Combined": 16.9,
+               "CO2 Emissions": 331
           },
           "": {}
      },
@@ -1870,17 +1870,17 @@
 },{
      "model_name": "GMC Jimmy 3 Doors 1997-2001",
      "technical_specs": {
-          "ENGINE SPECS - 4.3L V6 5MT (194 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "4300 cm3",
+               "Displacement": 4300,
                "Power": "142 KW @ 4400 RPM\n194 HP @ 4400 RPM\n190 BHP @ 4400 RPM",
                "Torque": "250 lb-ft @ 2800 RPM\n339 Nm @ 2800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "111.9 mph (180 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.1 s"
+               "Top Speed": 111.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1894,41 +1894,41 @@
                "Tire Size": "235/70 R 15"
           },
           "DIMENSIONS": {
-               "Length": "177.3 in (4503 mm)",
-               "Width": "67.8 in (1722 mm)",
-               "Height": "64.9 in (1648 mm)",
+               "Length": 177.3,
+               "Width": 67.8,
+               "Height": 64.9,
                "Front/rear Track": "55/55 in (1,397/1,397 mm)",
-               "Wheelbase": "99.7 in (2532 mm)",
-               "Ground Clearance": "8 in (203 mm)",
-               "Cargo Volume": "66.3 cuFT (1877 L)",
-               "Aerodynamics (Cd)": "0.42"
+               "Wheelbase": 99.7,
+               "Ground Clearance": 8,
+               "Cargo Volume": 66.3,
+               "Aerodynamics (Cd)": 0.42
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3700 lbs (1678 kg)",
-               "Gross Weight Limit": "4449.7 lbs (2018 kg)"
+               "Unladen Weight": 3700,
+               "Gross Weight Limit": 4449.7
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "12.3 mpg US (19.1 L/100Km)",
-               "Highway": "22.4 mpg US (10.5 L/100Km)",
-               "Combined": "17.2 mpg US (13.7 L/100Km)",
-               "CO2 Emissions": "325 g/km"
+               "City": 12.3,
+               "Highway": 22.4,
+               "Combined": 17.2,
+               "CO2 Emissions": 325
           }
      },
      "img": "images/GMC Jimmy 3 Doors 1997-200105-03-04-59-09.jpg"
 },{
      "model_name": "GMC Jimmy 5 Doors 1997-2001",
      "technical_specs": {
-          "ENGINE SPECS - 4.3L V6 4AT (194 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "4300 cm3",
+               "Displacement": 4300,
                "Power": "142 KW @ 4400 RPM\n194 HP @ 4400 RPM\n190 BHP @ 4400 RPM",
                "Torque": "250 lb-ft @ 2800 RPM\n339 Nm @ 2800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "99.4 mph (160 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.1 s"
+               "Top Speed": 99.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1942,32 +1942,32 @@
                "Tire Size": "235/70 R 15"
           },
           "DIMENSIONS": {
-               "Length": "183.8 in (4669 mm)",
-               "Width": "67.8 in (1722 mm)",
-               "Height": "64.3 in (1633 mm)",
+               "Length": 183.8,
+               "Width": 67.8,
+               "Height": 64.3,
                "Front/rear Track": "55/55 in (1,397/1,397 mm)",
-               "Wheelbase": "107 in (2718 mm)",
-               "Ground Clearance": "8 in (203 mm)",
-               "Cargo Volume": "73.4 cuFT (2078 L)"
+               "Wheelbase": 107,
+               "Ground Clearance": 8,
+               "Cargo Volume": 73.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3887.4 lbs (1763 kg)",
-               "Gross Weight Limit": "5000.9 lbs (2268 kg)"
+               "Unladen Weight": 3887.4,
+               "Gross Weight Limit": 5000.9
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "11.8 mpg US (19.9 L/100Km)",
-               "Highway": "21 mpg US (11.2 L/100Km)",
-               "Combined": "16.4 mpg US (14.3 L/100Km)",
-               "CO2 Emissions": "341 g/km"
+               "City": 11.8,
+               "Highway": 21,
+               "Combined": 16.4,
+               "CO2 Emissions": 341
           }
      },
      "img": "images/GMC Jimmy 5 Doors 1997-200105-03-04-59-11.jpg"
 },{
      "model_name": "GMC Safari 1994-2005",
      "technical_specs": {
-          "ENGINE SPECS - 4.3L V6 4AT (194 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "4300 cm3",
+               "Displacement": 4300,
                "Power": "142 KW @ 4400 RPM\n194 HP @ 4400 RPM\n190 BHP @ 4400 RPM",
                "Torque": "250 lb-ft @ 2800 RPM\n339 Nm @ 2800 RPM",
                "Fuel System": "Electronic Injection",
@@ -1985,36 +1985,36 @@
                "Tire Size": "215/75 R 15"
           },
           "DIMENSIONS": {
-               "Length": "189.8 in (4821 mm)",
-               "Width": "77.5 in (1969 mm)",
-               "Height": "74.9 in (1902 mm)",
+               "Length": 189.8,
+               "Width": 77.5,
+               "Height": 74.9,
                "Front/rear Track": "65.1/65.1 in (1,654/1,654 mm)",
-               "Wheelbase": "111.2 in (2824 mm)",
-               "Cargo Volume": "168.9 cuFT (4783 L)"
+               "Wheelbase": 111.2,
+               "Cargo Volume": 168.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4308.6 lbs (1954 kg)",
-               "Gross Weight Limit": "5900.6 lbs (2676 kg)"
+               "Unladen Weight": 4308.6,
+               "Gross Weight Limit": 5900.6
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16.1 mpg US (14.6 L/100Km)",
-               "Highway": "23.1 mpg US (10.2 L/100Km)",
-               "Combined": "18.7 mpg US (12.6 L/100Km)",
-               "CO2 Emissions": "299 g/km"
+               "City": 16.1,
+               "Highway": 23.1,
+               "Combined": 18.7,
+               "CO2 Emissions": 299
           }
      },
      "img": "images/GMC Safari 1994-200505-03-04-59-13.jpg"
 },{
      "model_name": "2014 GMC Sierra 3500HD Regular Cab",
      "technical_specs": {
-          "ENGINE SPECS - 6.0L V8 VVT DRW (2WD)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5998 cm3",
+               "Displacement": 5998,
                "Power": "240 KW @ 4400 RPM\n326 HP @ 4400 RPM\n322 BHP @ 4400 RPM",
                "Torque": "380 lb-ft @ 4200 RPM\n515 Nm @ 4200 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "35.9 gallons (135.9 L)"
+               "Fuel capacity": 35.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2025,15 +2025,15 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "225 in (5715 mm)",
-               "Width": "95.9 in (2436 mm)",
-               "Height": "77.4 in (1966 mm)",
-               "Wheelbase": "133.7 in (3396 mm)",
-               "Ground Clearance": "8.6 in (218 mm)"
+               "Length": 225,
+               "Width": 95.9,
+               "Height": 77.4,
+               "Wheelbase": 133.7,
+               "Ground Clearance": 8.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "13400 lbs (6078 kg)",
-               "Gross Weight Limit": "20622 lbs (9354 kg)"
+               "Unladen Weight": 13400,
+               "Gross Weight Limit": 20622
           },
           "": {}
      },
@@ -2041,9 +2041,9 @@
 },{
      "model_name": "GMC Sierra 3500HD Crew Cab",
      "technical_specs": {
-          "ENGINE SPECS - 6.0L V8 VVT SRW (2WD)": {
+          "ENGINE SPECS": {
                "Cylinders": "8",
-               "Displacement": "5998 cm3",
+               "Displacement": 5998,
                "Power": "240 KW @ 4400 RPM\n326 HP @ 4400 RPM\n322 BHP @ 4400 RPM",
                "Torque": "380 lb-ft @ 4200 RPM\n515 Nm @ 4200 RPM",
                "Fuel System": "Direct injection",
@@ -2058,15 +2058,15 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "240.2 in (6101 mm)",
-               "Width": "80 in (2032 mm)",
-               "Height": "77.4 in (1966 mm)",
-               "Wheelbase": "153.7 in (3904 mm)",
-               "Ground Clearance": "8.4 in (213 mm)"
+               "Length": 240.2,
+               "Width": 80,
+               "Height": 77.4,
+               "Wheelbase": 153.7,
+               "Ground Clearance": 8.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "6318 lbs (2866 kg)",
-               "Gross Weight Limit": "10500 lbs (4763 kg)"
+               "Unladen Weight": 6318,
+               "Gross Weight Limit": 10500
           },
           "": {}
      },
@@ -2074,9 +2074,9 @@
 },{
      "model_name": "GMC Sierra 3500HD Regular Cab 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 6.0 V8 6AT (360 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5967 cm3",
+               "Displacement": 5967,
                "Power": "268 KW @ 5400 RPM\n365 HP @ 5400 RPM\n359 BHP @ 5400 RPM",
                "Torque": "380 lb-ft @ 4200 RPM\n515 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
@@ -2094,21 +2094,21 @@
                "Tire Size": "LT265/75 R16"
           },
           "DIMENSIONS": {
-               "Length": "225 in (5715 mm)",
-               "Width": "95.9 in (2436 mm)",
-               "Height": "77 in (1956 mm)",
+               "Length": 225,
+               "Width": 95.9,
+               "Height": 77,
                "Front/rear Track": "68.6/66 in (1,742/1,676 mm)",
-               "Wheelbase": "133 in (3378 mm)",
-               "Ground Clearance": "9.1 in (231 mm)",
-               "Cargo Volume": "76.6 cuFT (2169 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 133,
+               "Ground Clearance": 9.1,
+               "Cargo Volume": 76.6,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4888 lbs (2217 kg)",
-               "Gross Weight Limit": "9500 lbs (4309 kg)"
+               "Unladen Weight": 4888,
+               "Gross Weight Limit": 9500
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "14 mpg US (16.8 L/100Km)"
+               "Combined": 14
           },
           "NOTES": {},
           "": {}
@@ -2117,9 +2117,9 @@
 },{
      "model_name": "GMC Sierra 3500HD Extended Cab 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 6.0 V8 6AT (360 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5967 cm3",
+               "Displacement": 5967,
                "Power": "268 KW @ 5400 RPM\n360 HP @ 5400 RPM\n359 BHP @ 5400 RPM",
                "Torque": "380 lb-ft @ 4200 RPM\n515 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
@@ -2137,21 +2137,21 @@
                "Tire Size": "LT265/75R16"
           },
           "DIMENSIONS": {
-               "Length": "249.2 in (6330 mm)",
-               "Width": "95.9 in (2436 mm)",
-               "Height": "76 in (1930 mm)",
+               "Length": 249.2,
+               "Width": 95.9,
+               "Height": 76,
                "Front/rear Track": "68.6/66 in (1,742/1,676 mm)",
-               "Wheelbase": "157.5 in (4001 mm)",
-               "Ground Clearance": "9.1 in (231 mm)",
-               "Cargo Volume": "76.6 cuFT (2169 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 157.5,
+               "Ground Clearance": 9.1,
+               "Cargo Volume": 76.6,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5896 lbs (2674 kg)",
-               "Gross Weight Limit": "9700 lbs (4400 kg)"
+               "Unladen Weight": 5896,
+               "Gross Weight Limit": 9700
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "13.5 mpg US (17.4 L/100Km)"
+               "Combined": 13.5
           },
           "NOTES": {},
           "": {}
@@ -2160,14 +2160,14 @@
 },{
      "model_name": "GMC Sierra 3500HD Crew Cab 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 6.0L V8 6AT (360 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5967 cm3",
+               "Displacement": 5967,
                "Power": "268 KW @ 5400 RPM\n364 HP @ 5400 RPM\n359 BHP @ 5400 RPM",
                "Torque": "380 lb-ft @ 4200 RPM\n515 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.9 gallons (98.0 L)"
+               "Fuel capacity": 25.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2181,21 +2181,21 @@
                "Tire Size": "LT265/75R16"
           },
           "DIMENSIONS": {
-               "Length": "258.7 in (6571 mm)",
-               "Width": "95.9 in (2436 mm)",
-               "Height": "76 in (1930 mm)",
+               "Length": 258.7,
+               "Width": 95.9,
+               "Height": 76,
                "Front/rear Track": "68.6/66 in (1,742/1,676 mm)",
-               "Wheelbase": "167 in (4242 mm)",
-               "Ground Clearance": "9.1 in (231 mm)",
-               "Cargo Volume": "76.6 cuFT (2169 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 167,
+               "Ground Clearance": 9.1,
+               "Cargo Volume": 76.6,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "6027 lbs (2734 kg)",
-               "Gross Weight Limit": "9800 lbs (4445 kg)"
+               "Unladen Weight": 6027,
+               "Gross Weight Limit": 9800
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "13.5 mpg US (17.4 L/100Km)"
+               "Combined": 13.5
           },
           "NOTES": {},
           "": {}

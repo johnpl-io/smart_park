@@ -2,19 +2,19 @@
 {
      "model_name": "AURUS Senat 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - S600 4.4L V8 9AT (598 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4400 cm3",
+               "Displacement": 4400,
                "Power": "439.8 KW @ 5500 RPM\n598 HP @ 5500 RPM\n590 BHP @ 5500 RPM",
                "Torque": "656 lb-ft @ 2200-4750 RPM\n889 Nm @ 2200-4750 RPM",
                "Electrical motor power": "45.6 kw (62 hp)",
                "Fuel System": "BiTurbo Direct Injection",
                "Fuel": "Hybrid Gasoline",
-               "Fuel capacity": "16.4 gallons (62.1 L)"
+               "Fuel capacity": 16.4
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -28,29 +28,29 @@
                "Tire Size": "255/55 R20"
           },
           "DIMENSIONS": {
-               "Length": "221.7 in (5631 mm)",
-               "Width": "79.5 in (2019 mm)",
-               "Height": "66.3 in (1684 mm)",
-               "Wheelbase": "129.9 in (3299 mm)",
-               "Ground Clearance": "7.9 in (201 mm)"
+               "Length": 221.7,
+               "Width": 79.5,
+               "Height": 66.3,
+               "Wheelbase": 129.9,
+               "Ground Clearance": 7.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "6041 lbs (2740 kg)",
-               "Gross Weight Limit": "6911 lbs (3135 kg)"
+               "Unladen Weight": 6041,
+               "Gross Weight Limit": 6911
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13.8 mpg US (17 L/100Km)",
-               "Highway": "22.2 mpg US (10.6 L/100Km)",
-               "Combined": "18.1 mpg US (13 L/100Km)"
+               "City": 13.8,
+               "Highway": 22.2,
+               "Combined": 18.1
           }
      },
      "img": "images/AURUS Senat 2018-Present05-03-03-37-48.jpg"
 },{
      "model_name": "AURUS Senat Limousine 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - L700 4.4L V8 9AT AWD (598 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4400 cm3",
+               "Displacement": 4400,
                "Power": "439.8 KW @ 5500 RPM\n598 HP @ 5500 RPM\n590 BHP @ 5500 RPM",
                "Torque": "649 lb-ft @ 2200-4750 RPM\n880 Nm @ 2200-4750 RPM",
                "Electrical motor power": "45.6 kw (62 hp)",
@@ -58,8 +58,8 @@
                "Fuel": "Hybrid Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "99 mph (159 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9 s"
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -73,14 +73,14 @@
                "Tire Size": "255/55 R20"
           },
           "DIMENSIONS": {
-               "Length": "261 in (6629 mm)",
-               "Width": "79.5 in (2019 mm)",
-               "Height": "66.7 in (1694 mm)",
-               "Wheelbase": "169.3 in (4300 mm)",
-               "Ground Clearance": "6.7 in (170 mm)"
+               "Length": 261,
+               "Width": 79.5,
+               "Height": 66.7,
+               "Wheelbase": 169.3,
+               "Ground Clearance": 6.7
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": "15322 lbs (6950 kg)"
+               "Gross Weight Limit": 15322
           }
      },
      "img": {}

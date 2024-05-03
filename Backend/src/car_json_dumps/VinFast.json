@@ -2,14 +2,14 @@
 {
      "model_name": "VinFast VF 8 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS - ENHANCED RANGE 87.7 KWH (402 HP)": {
+          "ENGINE SPECS": {
                "Total maximum power": "295.7 kw (402 hp)",
                "Total maximum torque": "457.3 lb-ft (620 Nm)",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "5.5 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 5.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -20,16 +20,16 @@
                "Rear": "Ventilated discs"
           },
           "DIMENSIONS": {
-               "Length": "187 in (4750 mm)",
-               "Width": "74.8 in (1900 mm)",
-               "Height": "65.4 in (1661 mm)",
-               "Wheelbase": "116.1 in (2949 mm)",
-               "Ground Clearance": "7.1 in (180 mm)"
+               "Length": 187,
+               "Width": 74.8,
+               "Height": 65.4,
+               "Wheelbase": 116.1,
+               "Ground Clearance": 7.1
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion",
-               "Nominal Capacity": "87.7 kWh",
-               "Range": "277.1 miles (445.9 km)"
+               "Nominal Capacity": 87.7,
+               "Range": 277.1
           },
           "": {}
      },
@@ -37,14 +37,14 @@
 },{
      "model_name": "VinFast VF 9 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS - ENHANCED RANGE 123 KWH AWD (402 HP)": {
+          "ENGINE SPECS": {
                "Total maximum power": "295.7 kw (402 hp)",
                "Total maximum torque": "457.3 lb-ft (620 Nm)",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 6.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -55,16 +55,16 @@
                "Rear": "Ventilated discs"
           },
           "DIMENSIONS": {
-               "Length": "201.6 in (5121 mm)",
-               "Width": "78.7 in (1999 mm)",
-               "Height": "67.8 in (1722 mm)",
-               "Wheelbase": "128 in (3251 mm)",
-               "Ground Clearance": "8 in (203 mm)"
+               "Length": 201.6,
+               "Width": 78.7,
+               "Height": 67.8,
+               "Wheelbase": 128,
+               "Ground Clearance": 8
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion",
-               "Nominal Capacity": "123 kWh",
-               "Range": "360.4 miles (580.0 km)"
+               "Nominal Capacity": 123,
+               "Range": 360.4
           },
           "": {}
      },

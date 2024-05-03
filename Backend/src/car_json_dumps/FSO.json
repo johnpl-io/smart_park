@@ -2,17 +2,17 @@
 {
      "model_name": "FSO 125 1968-1978",
      "technical_specs": {
-          "ENGINE SPECS - 1.3L 4MT (71 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1295 cm3",
+               "Displacement": 1295,
                "Power": "52.2 KW @ 5000 RPM\n71 HP @ 5000 RPM\n70 BHP @ 5000 RPM",
                "Torque": "77 lb-ft @ 3200 RPM\n104 Nm @ 3200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "87 mph (140 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "20.7 s"
+               "Top Speed": 87,
+               "Acceleration 0-62 Mph (0-100 kph)": 20.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -26,19 +26,19 @@
                "Tire Size": "5.60 X 13"
           },
           "DIMENSIONS": {
-               "Length": "166.7 in (4234 mm)",
-               "Width": "64.2 in (1631 mm)",
-               "Height": "56.7 in (1440 mm)",
+               "Length": 166.7,
+               "Width": 64.2,
+               "Height": 56.7,
                "Front/rear Track": "51.1/50.2 in (1,298/1,275 mm)",
-               "Wheelbase": "98.7 in (2507 mm)",
-               "Ground Clearance": "5.5 in (140 mm)"
+               "Wheelbase": 98.7,
+               "Ground Clearance": 5.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2141 lbs (971 kg)"
+               "Unladen Weight": 2141
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "28.6 mpg US (8.2 L/100Km)",
-               "CO2 Emissions": "195 g/km"
+               "Combined": 28.6,
+               "CO2 Emissions": 195
           },
           "": {}
      },
@@ -46,16 +46,16 @@
 },{
      "model_name": "FSO Polonez",
      "technical_specs": {
-          "ENGINE SPECS - 1.3": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1295 cm3",
+               "Displacement": 1295,
                "Torque": "68 lb-ft @ 3400 RPM\n92 Nm @ 3400 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "90 mph (145 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "19.7 s"
+               "Top Speed": 90,
+               "Acceleration 0-62 Mph (0-100 kph)": 19.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -69,20 +69,20 @@
                "Tire Size": "175/13"
           },
           "DIMENSIONS": {
-               "Length": "168.2 in (4272 mm)",
-               "Width": "65 in (1651 mm)",
-               "Height": "54.3 in (1379 mm)",
+               "Length": 168.2,
+               "Width": 65,
+               "Height": 54.3,
                "Front/rear Track": "51.7/50.8 in (1,313/1,290 mm)",
-               "Wheelbase": "98.8 in (2510 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Aerodynamics (Cd)": "0.45"
+               "Wheelbase": 98.8,
+               "Ground Clearance": 5.5,
+               "Aerodynamics (Cd)": 0.45
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2472 lbs (1121 kg)"
+               "Unladen Weight": 2472
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "25.5 mpg US (9.2 L/100Km)",
-               "CO2 Emissions": "219 g/km"
+               "Combined": 25.5,
+               "CO2 Emissions": 219
           },
           "": {}
      },
@@ -90,9 +90,9 @@
 },{
      "model_name": "FSO Polonez Atu 1993-2003",
      "technical_specs": {
-          "ENGINE SPECS - 1.6": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "64 KW @ 5200 RPM\n87 HP @ 5200 RPM\n86 BHP @ 5200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
@@ -110,18 +110,18 @@
 },{
      "model_name": "FSO Polonez Caro",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L 5MT (103 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1396 cm3",
+               "Displacement": 1396,
                "Power": "76 KW @ 6000 RPM\n103 HP @ 6000 RPM\n102 BHP @ 6000 RPM",
                "Torque": "95 lb-ft @ 5000 RPM\n129 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "11.9 gallons (45.0 L)"
+               "Fuel capacity": 11.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "99 mph (159 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "12.8 s"
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -135,17 +135,17 @@
                "Tire Size": "175/70 R13"
           },
           "DIMENSIONS": {
-               "Length": "170.1 in (4321 mm)",
-               "Width": "65 in (1651 mm)",
-               "Height": "55.9 in (1420 mm)",
+               "Length": 170.1,
+               "Width": 65,
+               "Height": 55.9,
                "Front/rear Track": "54.1/53.1 in (1,374/1,349 mm)",
-               "Wheelbase": "98.8 in (2510 mm)"
+               "Wheelbase": 98.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2461 lbs (1116 kg)"
+               "Unladen Weight": 2461
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "27.6 mpg US (8.5 L/100Km)"
+               "Combined": 27.6
           },
           "": {}
      },
@@ -153,9 +153,9 @@
 },{
      "model_name": "FSO Polonez Kombi",
      "technical_specs": {
-          "ENGINE SPECS - 1.6": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "57 KW @ 5000 RPM\n77 HP @ 5000 RPM\n76 BHP @ 5000 RPM",
                "Torque": "91 lb-ft @ 2000 RPM\n123 Nm @ 2000 RPM",
                "Fuel System": "Electronic Injection",
@@ -177,17 +177,17 @@
 },{
      "model_name": "FSO Prima 1988-1996",
      "technical_specs": {
-          "ENGINE SPECS - 1.4": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1396 cm3",
+               "Displacement": 1396,
                "Power": "76 KW @ 6000 RPM\n103 HP @ 6000 RPM\n102 BHP @ 6000 RPM",
                "Torque": "94 lb-ft @ 5000 RPM\n127 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "108.7 mph (175 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.8 s"
+               "Top Speed": 108.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -201,18 +201,18 @@
                "Tire Size": "185/70 HR13"
           },
           "DIMENSIONS": {
-               "Length": "170.1 in (4321 mm)",
-               "Width": "65 in (1651 mm)",
-               "Height": "55.9 in (1420 mm)",
+               "Length": 170.1,
+               "Width": 65,
+               "Height": 55.9,
                "Front/rear Track": "54.1/53.1 in (1,374/1,349 mm)",
-               "Wheelbase": "98.8 in (2510 mm)"
+               "Wheelbase": 98.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2425.1 lbs (1100 kg)",
-               "Gross Weight Limit": "3417.2 lbs (1550 kg)"
+               "Unladen Weight": 2425.1,
+               "Gross Weight Limit": 3417.2
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "33.6 mpg US (7 L/100Km)"
+               "Combined": 33.6
           },
           "": {}
      },

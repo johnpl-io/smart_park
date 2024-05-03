@@ -2,13 +2,13 @@
 {
      "model_name": "2024 Lincoln Nautilus",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 8AT AWD (250 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "183.9 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
                "Torque": "203 lb-ft @ 3000 RPM\n275 Nm @ 3000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20 gallons (75.7 L)"
+               "Fuel capacity": 20
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -22,11 +22,11 @@
                "Tire Size": "P255/60 R19"
           },
           "DIMENSIONS": {
-               "Length": "193.2 in (4907 mm)",
-               "Width": "79.8 in (2027 mm)",
-               "Height": "68.2 in (1732 mm)",
+               "Length": 193.2,
+               "Width": 79.8,
+               "Height": 68.2,
                "Front/rear Track": "65.2/65.3 in (1,656/1,659 mm)",
-               "Wheelbase": "114.2 in (2901 mm)",
+               "Wheelbase": 114.2,
                "Turning circle (curb to curb)": "37.5 ft (11.4 m)"
           },
           "": {}
@@ -35,13 +35,13 @@
 },{
      "model_name": "2021 Lincoln Nautilus",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 8AT (250 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "183.9 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
                "Torque": "207 lb-ft @ 3000 RPM\n280 Nm @ 3000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18 gallons (68.1 L)"
+               "Fuel capacity": 18
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -55,16 +55,16 @@
                "Tire Size": "P245/60R18"
           },
           "DIMENSIONS": {
-               "Length": "190 in (4826 mm)",
-               "Width": "78.7 in (1999 mm)",
-               "Height": "66.2 in (1681 mm)",
+               "Length": 190,
+               "Width": 78.7,
+               "Height": 66.2,
                "Front/rear Track": "64.8x64.7 in (1646 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Cargo Volume": "37.2 cuFT (1053 L)",
+               "Wheelbase": 112.2,
+               "Cargo Volume": 37.2,
                "Turning circle (curb to curb)": "39.3 ft (12.0 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4165 lbs (1889 kg)"
+               "Unladen Weight": 4165
           },
           "": {}
      },
@@ -72,14 +72,14 @@
 },{
      "model_name": "LINCOLN Nautilus 2018-2020",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 8AT (245 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1999 cm3",
+               "Displacement": 1999,
                "Power": "180.2 KW @ 5500 RPM\n245 HP @ 5500 RPM\n242 BHP @ 5500 RPM",
                "Torque": "280 lb-ft @ 3000 RPM\n380 Nm @ 3000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18 gallons (68.1 L)"
+               "Fuel capacity": 18
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -93,20 +93,20 @@
                "Tire Size": "245/60/R18"
           },
           "DIMENSIONS": {
-               "Length": "190 in (4826 mm)",
-               "Width": "76.2 in (1935 mm)",
-               "Height": "66.2 in (1681 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "7.8 in (198 mm)",
-               "Cargo Volume": "37.2 cuFT (1053 L)"
+               "Length": 190,
+               "Width": 76.2,
+               "Height": 66.2,
+               "Wheelbase": 112.2,
+               "Ground Clearance": 7.8,
+               "Cargo Volume": 37.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4447 lbs (2017 kg)"
+               "Unladen Weight": 4447
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)"
+               "City": 17,
+               "Highway": 24,
+               "Combined": 19
           },
           "": {}
      },
@@ -114,13 +114,13 @@
 },{
      "model_name": "LINCOLN Corsair 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 8AT AWD (250 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "183.9 KW @ - RPM\n250 HP @ - RPM\n247 BHP @ - RPM",
                "Torque": "275 lb-ft @ - RPM\n373 Nm @ - RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "16.2 gallons (61.3 L)"
+               "Fuel capacity": 16.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -131,14 +131,14 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": "181.4 in (4608 mm)",
-               "Width": "76.2 in (1935 mm)",
-               "Height": "64.1 in (1628 mm)",
-               "Wheelbase": "106.7 in (2710 mm)",
-               "Cargo Volume": "27.6 cuFT (782 L)"
+               "Length": 181.4,
+               "Width": 76.2,
+               "Height": 64.1,
+               "Wheelbase": 106.7,
+               "Cargo Volume": 27.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3836 lbs (1740 kg)"
+               "Unladen Weight": 3836
           },
           "": {}
      },
@@ -146,12 +146,12 @@
 },{
      "model_name": "LINCOLN Corsair Grand Touring 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.5L I-VCT ATKINSON CVT AWD (266 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Total maximum power": "195.6 kw (266 hp)",
                "Fuel System": "Direct Injection",
                "Fuel": "Plug-in Hybrid",
-               "Fuel capacity": "11.1 gallons (42.0 L)"
+               "Fuel capacity": 11.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -162,27 +162,27 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": "181.4 in (4608 mm)",
-               "Width": "76.4 in (1941 mm)",
-               "Height": "63.8 in (1621 mm)",
-               "Wheelbase": "106.7 in (2710 mm)",
-               "Cargo Volume": "26.9 cuFT (762 L)"
+               "Length": 181.4,
+               "Width": 76.4,
+               "Height": 63.8,
+               "Wheelbase": 106.7,
+               "Cargo Volume": 26.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4397 lbs (1994 kg)"
+               "Unladen Weight": 4397
           }
      },
      "img": "images/LINCOLN Corsair Grand Touring 2022-Present05-03-05-37-34.jpg"
 },{
      "model_name": "LINCOLN Corsair 2019-2022",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 8AT (250 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "183.9 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
                "Torque": "207 lb-ft @ 3000 RPM\n280 Nm @ 3000 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "16.1 gallons (60.9 L)"
+               "Fuel capacity": 16.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -193,21 +193,21 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "180.6 in (4587 mm)",
-               "Width": "76.2 in (1935 mm)",
-               "Height": "64.1 in (1628 mm)",
+               "Length": 180.6,
+               "Width": 76.2,
+               "Height": 64.1,
                "Front/rear Track": "62.6x63.4 in (1590 mm)",
-               "Wheelbase": "106.7 in (2710 mm)",
-               "Ground Clearance": "7.8 in (198 mm)",
-               "Cargo Volume": "27.6 cuFT (782 L)"
+               "Wheelbase": 106.7,
+               "Ground Clearance": 7.8,
+               "Cargo Volume": 27.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3691 lbs (1674 kg)"
+               "Unladen Weight": 3691
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22 mpg US (10.7 L/100Km)",
-               "Highway": "29 mpg US (8.1 L/100Km)",
-               "Combined": "25 mpg US (9.4 L/100Km)"
+               "City": 22,
+               "Highway": 29,
+               "Combined": 25
           },
           "": {}
      },
@@ -215,14 +215,14 @@
 },{
      "model_name": "LINCOLN Navigator 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L LONG V6 10AT (450 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3490 cm3",
+               "Displacement": 3490,
                "Power": "331 KW @ 5500 RPM\n450 HP @ 5500 RPM\n444 BHP @ 5500 RPM",
                "Torque": "500 lb-ft @ 3000 RPM\n678 Nm @ 3000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "23.2 gallons (87.8 L)"
+               "Fuel capacity": 23.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -236,21 +236,21 @@
                "Tire Size": "P275/55HR20"
           },
           "DIMENSIONS": {
-               "Length": "221.9 in (5636 mm)",
-               "Width": "93.8 in (2383 mm)",
-               "Height": "76.1 in (1933 mm)",
+               "Length": 221.9,
+               "Width": 93.8,
+               "Height": 76.1,
                "Front/rear Track": "67.6/67.2 in (1,717/1,707 mm)",
-               "Wheelbase": "131.6 in (3343 mm)",
-               "Cargo Volume": "103 cuFT (2917 L)"
+               "Wheelbase": 131.6,
+               "Cargo Volume": 103
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "13065 lbs (5926 kg)",
-               "Gross Weight Limit": "18519 lbs (8400 kg)"
+               "Unladen Weight": 13065,
+               "Gross Weight Limit": 18519
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)"
+               "City": 16,
+               "Highway": 22,
+               "Combined": 18
           },
           "": {}
      },
@@ -258,17 +258,17 @@
 },{
      "model_name": "LINCOLN Navigator 2014-2018",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L ECOBOOST 4X2 6AT (370 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3490 cm3",
+               "Displacement": 3490,
                "Power": "276 KW @ 5700 RPM\n375 HP @ 5700 RPM\n370 BHP @ 5700 RPM",
                "Torque": "430 lb-ft @ 1500-5250 RPM\n583 Nm @ 1500-5250 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "113 mph (182 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.4 s"
+               "Top Speed": 113,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -282,22 +282,22 @@
                "Tire Size": "P 285/45 R 22"
           },
           "DIMENSIONS": {
-               "Length": "208.4 in (5293 mm)",
-               "Width": "78.8 in (2002 mm)",
-               "Height": "91.8 in (2332 mm)",
+               "Length": 208.4,
+               "Width": 78.8,
+               "Height": 91.8,
                "Front/rear Track": "67.0/67.2 in (1,702/1,707 mm)",
-               "Wheelbase": "119 in (3023 mm)",
-               "Ground Clearance": "9.2 in (234 mm)",
-               "Cargo Volume": "54.4 cuFT (1540 L)"
+               "Wheelbase": 119,
+               "Ground Clearance": 9.2,
+               "Cargo Volume": 54.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5830 lbs (2644 kg)",
-               "Gross Weight Limit": "7390 lbs (3352 kg)"
+               "Unladen Weight": 5830,
+               "Gross Weight Limit": 7390
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)"
+               "City": 16,
+               "Highway": 22,
+               "Combined": 18
           },
           "": {}
      },
@@ -305,14 +305,14 @@
 },{
      "model_name": "LINCOLN Navigator 2006-2014",
      "technical_specs": {
-          "ENGINE SPECS - 5.4L V8 6AT AWD (300 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5408 cm3",
+               "Displacement": 5408,
                "Power": "221 KW @ 5000 RPM\n300 HP @ 5000 RPM\n296 BHP @ 5000 RPM",
                "Torque": "365 lb-ft @ 3750 RPM\n495 Nm @ 3750 RPM",
                "Fuel System": "Sequential Multiple-Point Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "28 gallons (106.0 L)"
+               "Fuel capacity": 28
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -326,17 +326,17 @@
                "Tire Size": "255/70R18"
           },
           "DIMENSIONS": {
-               "Length": "208.4 in (5293 mm)",
-               "Width": "78.8 in (2002 mm)",
-               "Height": "78.3 in (1989 mm)",
+               "Length": 208.4,
+               "Width": 78.8,
+               "Height": 78.3,
                "Front/rear Track": "66.9/67 in (1,699/1,702 mm)",
-               "Wheelbase": "119 in (3023 mm)",
-               "Ground Clearance": "9 in (229 mm)",
-               "Cargo Volume": "18.1 cuFT (513 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 119,
+               "Ground Clearance": 9,
+               "Cargo Volume": 18.1,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "6005 lbs (2724 kg)"
+               "Unladen Weight": 6005
           },
           "": {}
      },
@@ -344,17 +344,17 @@
 },{
      "model_name": "LINCOLN Navigator 2003-2006",
      "technical_specs": {
-          "ENGINE SPECS - 5.4L V8 4AT (305 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5404 cm3",
+               "Displacement": 5404,
                "Power": "224 KW @ 5000 RPM\n305 HP @ 5000 RPM\n300 BHP @ 5000 RPM",
                "Torque": "355 lb-ft @ 2750-3750 RPM\n481 Nm @ 2750-3750 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "118.1 mph (190 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.3 s"
+               "Top Speed": 118.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -368,24 +368,24 @@
                "Tire Size": "275/60R17"
           },
           "DIMENSIONS": {
-               "Length": "204.8 in (5202 mm)",
-               "Width": "79.9 in (2029 mm)",
-               "Height": "75.2 in (1910 mm)",
+               "Length": 204.8,
+               "Width": 79.9,
+               "Height": 75.2,
                "Front/rear Track": "65.4/65.5 in (1,661/1,664 mm)",
-               "Wheelbase": "119 in (3023 mm)",
-               "Ground Clearance": "8.6 in (218 mm)",
-               "Cargo Volume": "17.9 cuFT (507 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 119,
+               "Ground Clearance": 8.6,
+               "Cargo Volume": 17.9,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5382.4 lbs (2441 kg)",
-               "Gross Weight Limit": "7201.5 lbs (3267 kg)"
+               "Unladen Weight": 5382.4,
+               "Gross Weight Limit": 7201.5
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "11 mpg US (21.4 L/100Km)",
-               "Highway": "16 mpg US (14.7 L/100Km)",
-               "Combined": "13 mpg US (18.1 L/100Km)",
-               "CO2 Emissions": "431 g/km"
+               "City": 11,
+               "Highway": 16,
+               "Combined": 13,
+               "CO2 Emissions": 431
           },
           "": {}
      },
@@ -393,18 +393,18 @@
 },{
      "model_name": "LINCOLN Navigator 1998-2003",
      "technical_specs": {
-          "ENGINE SPECS - 5.4L V8 4AT (230 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5404 cm3",
+               "Displacement": 5404,
                "Power": "170 KW @ 4250 RPM\n231 HP @ 4250 RPM\n228 BHP @ 4250 RPM",
                "Torque": "325 lb-ft @ 3000 RPM\n441 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "30.1 gallons (113.9 L)"
+               "Fuel capacity": 30.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "118.1 mph (190 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.6 s"
+               "Top Speed": 118.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -418,24 +418,24 @@
                "Tire Size": "245/75R16"
           },
           "DIMENSIONS": {
-               "Length": "204.7 in (5199 mm)",
-               "Width": "79.9 in (2029 mm)",
-               "Height": "76.8 in (1951 mm)",
+               "Length": 204.7,
+               "Width": 79.9,
+               "Height": 76.8,
                "Front/rear Track": "65.4/65.4 in (1,661/1,661 mm)",
-               "Wheelbase": "118.9 in (3020 mm)",
-               "Ground Clearance": "8.6 in (218 mm)",
-               "Cargo Volume": "64.7 cuFT (1832 L)",
-               "Aerodynamics (Cd)": "0.43"
+               "Wheelbase": 118.9,
+               "Ground Clearance": 8.6,
+               "Cargo Volume": 64.7,
+               "Aerodynamics (Cd)": 0.43
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5643.8 lbs (2560 kg)",
-               "Gross Weight Limit": "7275.3 lbs (3300 kg)"
+               "Unladen Weight": 5643.8,
+               "Gross Weight Limit": 7275.3
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13 mpg US (18.1 L/100Km)",
-               "Highway": "18 mpg US (13.1 L/100Km)",
-               "Combined": "15.7 mpg US (15 L/100Km)",
-               "CO2 Emissions": "330 g/km"
+               "City": 13,
+               "Highway": 18,
+               "Combined": 15.7,
+               "CO2 Emissions": 330
           },
           "": {}
      },
@@ -443,14 +443,14 @@
 },{
      "model_name": "LINCOLN Navigator L 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 10AT (456 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3496 cm3",
+               "Displacement": 3496,
                "Power": "331 KW @ 5500 RPM\n450 HP @ 5500 RPM\n444 BHP @ 5500 RPM",
                "Torque": "510 lb-ft @ 3000 RPM\n691 Nm @ 3000 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "28.3 gallons (107.1 L)"
+               "Fuel capacity": 28.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -464,21 +464,21 @@
                "Tire Size": "P275/55HR20"
           },
           "DIMENSIONS": {
-               "Length": "221.9 in (5636 mm)",
-               "Width": "93.8 in (2383 mm)",
-               "Height": "76.2 in (1935 mm)",
+               "Length": 221.9,
+               "Width": 93.8,
+               "Height": 76.2,
                "Front/rear Track": "67.6 / 67.2 in (1,717/1,707 mm)",
-               "Wheelbase": "131.6 in (3343 mm)",
-               "Cargo Volume": "34.3 cuFT (971 L)",
-               "Aerodynamics (Cd)": "0.35"
+               "Wheelbase": 131.6,
+               "Cargo Volume": 34.3,
+               "Aerodynamics (Cd)": 0.35
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5926 lbs (2688 kg)"
+               "Unladen Weight": 5926
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "23 mpg US (10.2 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)"
+               "City": 16,
+               "Highway": 23,
+               "Combined": 19
           },
           "": {}
      },
@@ -486,17 +486,17 @@
 },{
      "model_name": "LINCOLN Navigator L 2014-2017",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L ECOBOOST 6AT AWD (370 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3490 cm3",
+               "Displacement": 3490,
                "Power": "276 KW @ 5700 RPM\n375 HP @ 5700 RPM\n370 BHP @ 5700 RPM",
                "Torque": "430 lb-ft @ 1500-5250 RPM\n583 Nm @ 1500-5250 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "110 mph (177 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.4 s"
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -510,22 +510,22 @@
                "Tire Size": "P 285/45 R 22"
           },
           "DIMENSIONS": {
-               "Length": "223.3 in (5672 mm)",
-               "Width": "78.8 in (2002 mm)",
-               "Height": "91.8 in (2332 mm)",
+               "Length": 223.3,
+               "Width": 78.8,
+               "Height": 91.8,
                "Front/rear Track": "67.0/67.2 in (1,702/1,707 mm)",
-               "Wheelbase": "131 in (3327 mm)",
-               "Ground Clearance": "9.1 in (231 mm)",
-               "Cargo Volume": "86.3 cuFT (2444 L)"
+               "Wheelbase": 131,
+               "Ground Clearance": 9.1,
+               "Cargo Volume": 86.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "6297 lbs (2856 kg)",
-               "Gross Weight Limit": "7837 lbs (3555 kg)"
+               "Unladen Weight": 6297,
+               "Gross Weight Limit": 7837
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "19 mpg US (12.4 L/100Km)",
-               "Combined": "16 mpg US (14.7 L/100Km)"
+               "City": 15,
+               "Highway": 19,
+               "Combined": 16
           },
           "": {}
      },
@@ -533,14 +533,14 @@
 },{
      "model_name": "LINCOLN Navigator L 2006-2014",
      "technical_specs": {
-          "ENGINE SPECS - 5.4L V8 6AT (310 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5408 cm3",
+               "Displacement": 5408,
                "Power": "228 KW @ 5000 RPM\n310 HP @ 5000 RPM\n306 BHP @ 5000 RPM",
                "Torque": "365 lb-ft @ 3600 RPM\n495 Nm @ 3600 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "33.5 gallons (126.8 L)"
+               "Fuel capacity": 33.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -554,38 +554,38 @@
                "Tire Size": "255/70/R18"
           },
           "DIMENSIONS": {
-               "Length": "223.3 in (5672 mm)",
-               "Width": "78.8 in (2002 mm)",
-               "Height": "78.1 in (1984 mm)",
+               "Length": 223.3,
+               "Width": 78.8,
+               "Height": 78.1,
                "Front/rear Track": "66.9/67 in (1,699/1,702 mm)",
-               "Wheelbase": "131 in (3327 mm)",
-               "Ground Clearance": "9.1 in (231 mm)",
-               "Cargo Volume": "42.7 cuFT (1209 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 131,
+               "Ground Clearance": 9.1,
+               "Cargo Volume": 42.7,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "6043 lbs (2741 kg)",
-               "Gross Weight Limit": "7701 lbs (3493 kg)"
+               "Unladen Weight": 6043,
+               "Gross Weight Limit": 7701
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "11 mpg US (21.4 L/100Km)",
-               "Highway": "16 mpg US (14.7 L/100Km)",
-               "Combined": "13 mpg US (18.1 L/100Km)",
-               "CO2 Emissions": "431 g/km"
+               "City": 11,
+               "Highway": 16,
+               "Combined": 13,
+               "CO2 Emissions": 431
           }
      },
      "img": "images/LINCOLN Navigator L 2006-201405-03-05-37-53.jpg"
 },{
      "model_name": "2017 Lincoln MKZ",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 6AT AWD (245 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1999 cm3",
+               "Displacement": 1999,
                "Power": "182.7 KW @ 5500 RPM\n248 HP @ 5500 RPM\n245 BHP @ 5500 RPM",
                "Torque": "275 lb-ft @ 3000 RPM\n373 Nm @ 3000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "16.4 gallons (62.1 L)"
+               "Fuel capacity": 16.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -599,21 +599,21 @@
                "Tire Size": "245/45 R 18 V"
           },
           "DIMENSIONS": {
-               "Length": "193.9 in (4925 mm)",
-               "Width": "73.4 in (1864 mm)",
-               "Height": "58.2 in (1478 mm)",
+               "Length": 193.9,
+               "Width": 73.4,
+               "Height": 58.2,
                "Front/rear Track": "62.3/62 in (1,582/1,575 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Cargo Volume": "15.4 cuFT (436 L)",
-               "Aerodynamics (Cd)": "0.3"
+               "Wheelbase": 112.2,
+               "Cargo Volume": 15.4,
+               "Aerodynamics (Cd)": 0.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3900 lbs (1769 kg)"
+               "Unladen Weight": 3900
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "20 mpg US (11.8 L/100Km)",
-               "Highway": "28 mpg US (8.4 L/100Km)",
-               "Combined": "23 mpg US (10.2 L/100Km)"
+               "City": 20,
+               "Highway": 28,
+               "Combined": 23
           },
           "": {}
      },
@@ -621,14 +621,14 @@
 },{
      "model_name": "LINCOLN MKZ 2013-2016",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L AWD 6AT (240 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1999 cm3",
+               "Displacement": 1999,
                "Power": "179 KW @ 5500 RPM\n243 HP @ 5500 RPM\n240 BHP @ 5500 RPM",
                "Torque": "270 lb-ft @ 3000 RPM\n366 Nm @ 3000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18 gallons (68.1 L)"
+               "Fuel capacity": 18
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -642,21 +642,21 @@
                "Tire Size": "245/45R18"
           },
           "DIMENSIONS": {
-               "Length": "194.1 in (4930 mm)",
-               "Width": "73.4 in (1864 mm)",
-               "Height": "58.2 in (1478 mm)",
+               "Length": 194.1,
+               "Width": 73.4,
+               "Height": 58.2,
                "Front/rear Track": "62.3/62 in (1,582/1,575 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Cargo Volume": "15.4 cuFT (436 L)",
-               "Aerodynamics (Cd)": "0.3"
+               "Wheelbase": 112.2,
+               "Cargo Volume": 15.4,
+               "Aerodynamics (Cd)": 0.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3874 lbs (1757 kg)"
+               "Unladen Weight": 3874
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22 mpg US (10.7 L/100Km)",
-               "Highway": "31 mpg US (7.6 L/100Km)",
-               "Combined": "25 mpg US (9.4 L/100Km)"
+               "City": 22,
+               "Highway": 31,
+               "Combined": 25
           },
           "": {}
      },
@@ -664,9 +664,9 @@
 },{
      "model_name": "LINCOLN MKZ 2010-2013",
      "technical_specs": {
-          "ENGINE SPECS - 3.5 AWD 6AT (263 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3497 cm3",
+               "Displacement": 3497,
                "Power": "196 KW @ 6250 RPM\n263 HP @ 6250 RPM\n263 BHP @ 6250 RPM",
                "Torque": "249 lb-ft @ 4500 RPM\n338 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
@@ -684,23 +684,23 @@
                "Tire Size": "P225/50V R17"
           },
           "DIMENSIONS": {
-               "Length": "189.8 in (4821 mm)",
-               "Width": "72.2 in (1834 mm)",
-               "Height": "56.9 in (1445 mm)",
+               "Length": 189.8,
+               "Width": 72.2,
+               "Height": 56.9,
                "Front/rear Track": "61.3/61 in (1,557/1,549 mm)",
-               "Wheelbase": "107.4 in (2728 mm)",
-               "Ground Clearance": "5.2 in (132 mm)",
-               "Cargo Volume": "16.5 cuFT (467 L)",
-               "Aerodynamics (Cd)": "0.28"
+               "Wheelbase": 107.4,
+               "Ground Clearance": 5.2,
+               "Cargo Volume": 16.5,
+               "Aerodynamics (Cd)": 0.28
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3796 lbs (1722 kg)",
-               "Gross Weight Limit": "4784 lbs (2170 kg)"
+               "Unladen Weight": 3796,
+               "Gross Weight Limit": 4784
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)"
+               "City": 17,
+               "Highway": 24,
+               "Combined": 19
           },
           "": {}
      },
@@ -708,9 +708,9 @@
 },{
      "model_name": "LINCOLN MKZ 2006-2010",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L AWD 6AT (262 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3496 cm3",
+               "Displacement": 3496,
                "Power": "193 KW @ 6250 RPM\n262 HP @ 6250 RPM\n259 BHP @ 6250 RPM",
                "Torque": "249 lb-ft @ 4500 RPM\n338 Nm @ 4500 RPM",
                "Fuel System": "Electronic Injection",
@@ -728,20 +728,20 @@
                "Tire Size": "225/50 R17"
           },
           "DIMENSIONS": {
-               "Length": "190.5 in (4839 mm)",
-               "Width": "72.2 in (1834 mm)",
-               "Height": "57.1 in (1450 mm)",
+               "Length": 190.5,
+               "Width": 72.2,
+               "Height": 57.1,
                "Front/rear Track": "61.6/61.3 in (1,565/1,557 mm)",
-               "Wheelbase": "107.4 in (2728 mm)",
-               "Ground Clearance": "8 in (203 mm)",
-               "Cargo Volume": "15.8 cuFT (447 L)"
+               "Wheelbase": 107.4,
+               "Ground Clearance": 8,
+               "Cargo Volume": 15.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3645 lbs (1653 kg)"
+               "Unladen Weight": 3645
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)"
+               "City": 17,
+               "Highway": 24
           },
           "": {}
      },
@@ -749,9 +749,9 @@
 },{
      "model_name": "LINCOLN MKT 2013-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.5 V6 ECOBOOST AWD 6AT (365 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3490 cm3",
+               "Displacement": 3490,
                "Power": "268 KW @ 5700 RPM\n365 HP @ 5700 RPM\n359 BHP @ 5700 RPM",
                "Torque": "350 lb-ft @ 1500-5250 RPM\n475 Nm @ 1500-5250 RPM",
                "Fuel System": "Direct Injection",
@@ -769,19 +769,19 @@
                "Tire Size": "235/55R19"
           },
           "DIMENSIONS": {
-               "Length": "207.6 in (5273 mm)",
-               "Width": "76 in (1930 mm)",
-               "Height": "67.4 in (1712 mm)",
+               "Length": 207.6,
+               "Width": 76,
+               "Height": 67.4,
                "Front/rear Track": "65.4/65.3 in (1,661/1,659 mm)",
-               "Wheelbase": "117.9 in (2995 mm)",
-               "Cargo Volume": "17.9 cuFT (507 L)"
+               "Wheelbase": 117.9,
+               "Cargo Volume": 17.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4942 lbs (2242 kg)"
+               "Unladen Weight": 4942
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "23 mpg US (10.2 L/100Km)"
+               "City": 16,
+               "Highway": 23
           },
           "": {}
      },
@@ -789,18 +789,18 @@
 },{
      "model_name": "LINCOLN MKT 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 ECOBOOST 6AT AWD (355 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3490 cm3",
+               "Displacement": 3490,
                "Power": "265 KW @ 5700 RPM\n360 HP @ 5700 RPM\n355 BHP @ 5700 RPM",
                "Torque": "350 lb-ft @ 1500-5250 RPM\n475 Nm @ 1500-5250 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "150 mph (241 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7 s"
+               "Top Speed": 150,
+               "Acceleration 0-62 Mph (0-100 kph)": 7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -814,24 +814,24 @@
                "Tire Size": "P255/45 R20"
           },
           "DIMENSIONS": {
-               "Length": "207.6 in (5273 mm)",
-               "Width": "79.9 in (2029 mm)",
-               "Height": "67.4 in (1712 mm)",
+               "Length": 207.6,
+               "Width": 79.9,
+               "Height": 67.4,
                "Front/rear Track": "65.4/65.3 in (1,661/1,659 mm)",
-               "Wheelbase": "117.9 in (2995 mm)",
-               "Ground Clearance": "8 in (203 mm)",
-               "Cargo Volume": "17.9 cuFT (507 L)",
-               "Aerodynamics (Cd)": "0.33",
-               "Turning circle": "40.7 ft (12.4 m)"
+               "Wheelbase": 117.9,
+               "Ground Clearance": 8,
+               "Cargo Volume": 17.9,
+               "Aerodynamics (Cd)": 0.33,
+               "Turning circle": 40.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4923 lbs (2233 kg)",
-               "Gross Weight Limit": "6030 lbs (2735 kg)"
+               "Unladen Weight": 4923,
+               "Gross Weight Limit": 6030
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)"
+               "City": 16,
+               "Highway": 22,
+               "Combined": 19
           },
           "NOTES": {},
           "": {}
@@ -840,26 +840,26 @@
 },{
      "model_name": "LINCOLN Zephyr 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 8AT": {},
+          "ENGINE SPECS": {},
           "DIMENSIONS": {
-               "Wheelbase": "114.2 in (2901 mm)"
+               "Wheelbase": 114.2
           }
      },
      "img": "images/LINCOLN Zephyr 2021-Present05-03-05-38-08.jpg"
 },{
      "model_name": "LINCOLN Zephyr 2005-2007",
      "technical_specs": {
-          "ENGINE SPECS - 3.0I V6 24V 6AT (221 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2967 cm3",
+               "Displacement": 2967,
                "Power": "164.8 KW @ 6250 RPM\n221 HP @ 6250 RPM\n221 BHP @ 6250 RPM",
                "Torque": "205 lb-ft @ 4800 RPM\n278 Nm @ 4800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "144 mph (232 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.9 s"
+               "Top Speed": 144,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -873,34 +873,34 @@
                "Tire Size": "225/50 R17"
           },
           "DIMENSIONS": {
-               "Length": "190.5 in (4839 mm)",
-               "Width": "72.2 in (1834 mm)",
-               "Height": "55.9 in (1420 mm)",
+               "Length": 190.5,
+               "Width": 72.2,
+               "Height": 55.9,
                "Front/rear Track": "61.6/61.3 in (1,565/1,557 mm)",
-               "Wheelbase": "107.4 in (2728 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "15.8 cuFT (447 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 107.4,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 15.8,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3406.7 lbs (1545 kg)"
+               "Unladen Weight": 3406.7
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "26 mpg US (9 L/100Km)"
+               "City": 17,
+               "Highway": 26
           }
      },
      "img": "images/LINCOLN Zephyr 2005-200705-03-05-38-09.jpg"
 },{
      "model_name": "LINCOLN Aviator 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.0L V6 10AT (400 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
                "Power": "294.2 KW @ - RPM\n400 HP @ - RPM\n395 BHP @ - RPM",
                "Torque": "400 lb-ft @ - RPM\n542 Nm @ - RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.1 gallons (76.1 L)"
+               "Fuel capacity": 20.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -911,12 +911,12 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "199.3 in (5062 mm)",
-               "Width": "79.6 in (2022 mm)",
-               "Height": "69.8 in (1773 mm)",
+               "Length": 199.3,
+               "Width": 79.6,
+               "Height": 69.8,
                "Front/rear Track": "66.9/66.9 in (1,699/1,699 mm)",
-               "Wheelbase": "119.1 in (3025 mm)",
-               "Cargo Volume": "18.4 cuFT (521 L)"
+               "Wheelbase": 119.1,
+               "Cargo Volume": 18.4
           },
           "": {}
      },
@@ -924,9 +924,9 @@
 },{
      "model_name": "LINCOLN AVIATOR 2002-2005",
      "technical_specs": {
-          "ENGINE SPECS - 4.6L V8 5AT (302 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4605 cm3",
+               "Displacement": 4605,
                "Power": "225.2 KW @ 5750 RPM\n306.2 HP @ 5750 RPM\n302 BHP @ 5750 RPM",
                "Torque": "300 lb-ft @ 3250 RPM\n407 Nm @ 3250 RPM",
                "Fuel System": "Multipoint Injection",
@@ -944,24 +944,24 @@
                "Tire Size": "245/65 R 17"
           },
           "DIMENSIONS": {
-               "Length": "193.3 in (4910 mm)",
-               "Width": "73.9 in (1877 mm)",
-               "Height": "70.9 in (1801 mm)",
+               "Length": 193.3,
+               "Width": 73.9,
+               "Height": 70.9,
                "Front/rear Track": "60.9/61.2 in (1,547/1,554 mm)",
-               "Wheelbase": "113.7 in (2888 mm)",
-               "Ground Clearance": "8.9 in (226 mm)",
-               "Cargo Volume": "12.4 cuFT (351 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 113.7,
+               "Ground Clearance": 8.9,
+               "Cargo Volume": 12.4,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4834 lbs (2193 kg)",
-               "Gross Weight Limit": "6110 lbs (2771 kg)"
+               "Unladen Weight": 4834,
+               "Gross Weight Limit": 6110
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "12 mpg US (19.6 L/100Km)",
-               "Highway": "17 mpg US (13.8 L/100Km)",
-               "Combined": "14 mpg US (16.8 L/100Km)",
-               "CO2 Emissions": "400 g/km"
+               "City": 12,
+               "Highway": 17,
+               "Combined": 14,
+               "CO2 Emissions": 400
           },
           "": {}
      },
@@ -969,18 +969,18 @@
 },{
      "model_name": "LINCOLN Continental 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.7L V6 6AT (335 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2688 cm3",
+               "Displacement": 2688,
                "Power": "249.8 KW @ 5700 RPM\n340 HP @ 5700 RPM\n335 BHP @ 5700 RPM",
                "Torque": "380 lb-ft @ 3500 RPM\n515 Nm @ 3500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18 gallons (68.1 L)"
+               "Fuel capacity": 18
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.2 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -994,22 +994,22 @@
                "Tire Size": "P 245/60 R18"
           },
           "DIMENSIONS": {
-               "Length": "201.4 in (5116 mm)",
-               "Width": "75.3 in (1913 mm)",
-               "Height": "58.5 in (1486 mm)",
+               "Length": 201.4,
+               "Width": 75.3,
+               "Height": 58.5,
                "Front/rear Track": "63.2/64.1 in (1,605/1,628 mm)",
-               "Wheelbase": "117.9 in (2995 mm)",
-               "Ground Clearance": "6.3 in (160 mm)",
-               "Cargo Volume": "16.7 cuFT (473 L)",
-               "Aerodynamics (Cd)": "0.3"
+               "Wheelbase": 117.9,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 16.7,
+               "Aerodynamics (Cd)": 0.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4224 lbs (1916 kg)"
+               "Unladen Weight": 4224
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "27 mpg US (8.7 L/100Km)",
-               "Combined": "21 mpg US (11.2 L/100Km)"
+               "City": 18,
+               "Highway": 27,
+               "Combined": 21
           },
           "": {}
      },
@@ -1017,17 +1017,17 @@
 },{
      "model_name": "LINCOLN Continental 1995-2002",
      "technical_specs": {
-          "ENGINE SPECS - 4.6L V8 4AT (260 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4601 cm3",
+               "Displacement": 4601,
                "Power": "194.2 KW @ 5750 RPM\n264 HP @ 5750 RPM\n260 BHP @ 5750 RPM",
                "Torque": "265 lb-ft @ 4750 RPM\n359 Nm @ 4750 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "133.6 mph (215 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
+               "Top Speed": 133.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1041,22 +1041,22 @@
                "Tire Size": "225/60R 16"
           },
           "DIMENSIONS": {
-               "Length": "207.1 in (5260 mm)",
-               "Width": "73.6 in (1869 mm)",
-               "Height": "55.9 in (1420 mm)",
+               "Length": 207.1,
+               "Width": 73.6,
+               "Height": 55.9,
                "Front/rear Track": "63/61.4 in (1,600/1,560 mm)",
-               "Wheelbase": "109.1 in (2771 mm)",
-               "Ground Clearance": "6.3 in (160 mm)",
-               "Cargo Volume": "18 cuFT (510 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 109.1,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 18,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3847.7 lbs (1745 kg)"
+               "Unladen Weight": 3847.7
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)",
-               "Combined": "20 mpg US (11.8 L/100Km)"
+               "City": 17,
+               "Highway": 25,
+               "Combined": 20
           },
           "": {}
      },
@@ -1064,17 +1064,17 @@
 },{
      "model_name": "1988 Lincoln Continental",
      "technical_specs": {
-          "ENGINE SPECS - 3.8 V6 4AT (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3797 cm3",
+               "Displacement": 3797,
                "Power": "104.4 KW @ 3800 RPM\n141.9 HP @ 3800 RPM\n140 BHP @ 3800 RPM",
                "Torque": "215 lb-ft @ 2200 RPM\n292 Nm @ 2200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "115 mph (185 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1088,21 +1088,21 @@
                "Tire Size": "205/70R15"
           },
           "DIMENSIONS": {
-               "Length": "205.1 in (5210 mm)",
-               "Width": "72.7 in (1847 mm)",
-               "Height": "55.6 in (1412 mm)",
+               "Length": 205.1,
+               "Width": 72.7,
+               "Height": 55.6,
                "Front/rear Track": "62.3/61.1 in (1,582/1,552 mm)",
-               "Wheelbase": "109 in (2769 mm)",
-               "Cargo Volume": "19 cuFT (538 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 109,
+               "Cargo Volume": 19,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3627 lbs (1645 kg)"
+               "Unladen Weight": 3627
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)",
-               "Combined": "20 mpg US (11.8 L/100Km)"
+               "City": 17,
+               "Highway": 25,
+               "Combined": 20
           },
           "": {}
      },
@@ -1110,17 +1110,17 @@
 },{
      "model_name": "LINCOLN Continental 1982-1987",
      "technical_specs": {
-          "ENGINE SPECS - 3.8L V6 4AT (112 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3797 cm3",
+               "Displacement": 3797,
                "Power": "83.5 KW @ 4000 RPM\n113.6 HP @ 4000 RPM\n112 BHP @ 4000 RPM",
                "Torque": "175 lb-ft @ 2600 RPM\n237 Nm @ 2600 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "100 mph (161 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15 s"
+               "Top Speed": 100,
+               "Acceleration 0-62 Mph (0-100 kph)": 15
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1134,21 +1134,21 @@
                "Tire Size": "205/75 R 15"
           },
           "DIMENSIONS": {
-               "Length": "201.2 in (5110 mm)",
-               "Width": "73.6 in (1869 mm)",
-               "Height": "55 in (1397 mm)",
+               "Length": 201.2,
+               "Width": 73.6,
+               "Height": 55,
                "Front/rear Track": "58.4/59 in (1,483/1,499 mm)",
-               "Wheelbase": "108.7 in (2761 mm)",
-               "Cargo Volume": "14.7 cuFT (416 L)",
-               "Aerodynamics (Cd)": "0.45"
+               "Wheelbase": 108.7,
+               "Cargo Volume": 14.7,
+               "Aerodynamics (Cd)": 0.45
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3382 lbs (1534 kg)"
+               "Unladen Weight": 3382
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "28 mpg US (8.4 L/100Km)",
-               "Combined": "22 mpg US (10.7 L/100Km)"
+               "City": 18,
+               "Highway": 28,
+               "Combined": 22
           },
           "": {}
      },
@@ -1156,17 +1156,17 @@
 },{
      "model_name": "LINCOLN Continental 1980-1981",
      "technical_specs": {
-          "ENGINE SPECS - 5.0 V8 4AT (129 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4942 cm3",
+               "Displacement": 4942,
                "Power": "96.2 KW @ 3600 RPM\n130.8 HP @ 3600 RPM\n129 BHP @ 3600 RPM",
                "Torque": "231 lb-ft @ 2000 RPM\n313 Nm @ 2000 RPM",
                "Fuel System": "Monopoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "101 mph (163 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15 s"
+               "Top Speed": 101,
+               "Acceleration 0-62 Mph (0-100 kph)": 15
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1180,21 +1180,21 @@
                "Tire Size": "205/75 R 15"
           },
           "DIMENSIONS": {
-               "Length": "219.2 in (5568 mm)",
-               "Width": "78.1 in (1984 mm)",
-               "Height": "56.1 in (1425 mm)",
+               "Length": 219.2,
+               "Width": 78.1,
+               "Height": 56.1,
                "Front/rear Track": "62.2/6.2 in (1,580/157 mm)",
-               "Wheelbase": "117.3 in (2979 mm)",
-               "Cargo Volume": "22.4 cuFT (634 L)",
-               "Aerodynamics (Cd)": "0.46"
+               "Wheelbase": 117.3,
+               "Cargo Volume": 22.4,
+               "Aerodynamics (Cd)": 0.46
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4061 lbs (1842 kg)"
+               "Unladen Weight": 4061
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)"
+               "City": 17,
+               "Highway": 24,
+               "Combined": 19
           },
           "": {}
      },
@@ -1202,18 +1202,18 @@
 },{
      "model_name": "1970 Lincoln Continental four-door",
      "technical_specs": {
-          "ENGINE SPECS - 6.6L V8 3AT (166 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6590 cm3",
+               "Displacement": 6590,
                "Power": "123.8 KW @ 3800 RPM\n168 HP @ 3800 RPM\n166 BHP @ 3800 RPM",
                "Torque": "319 lb-ft @ 1800 RPM\n433 Nm @ 1800 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.9 gallons (79.1 L)"
+               "Fuel capacity": 20.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "11 mph (18 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15 s"
+               "Top Speed": 11,
+               "Acceleration 0-62 Mph (0-100 kph)": 15
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1227,22 +1227,22 @@
                "Tire Size": "9.15 - 15"
           },
           "DIMENSIONS": {
-               "Length": "225 in (5715 mm)",
-               "Width": "79.7 in (2024 mm)",
-               "Height": "55.7 in (1415 mm)",
+               "Length": 225,
+               "Width": 79.7,
+               "Height": 55.7,
                "Front/rear Track": "64.3/6.4 in (1,633/163 mm)",
-               "Wheelbase": "127 in (3226 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "18.1 cuFT (513 L)",
-               "Aerodynamics (Cd)": "0.5"
+               "Wheelbase": 127,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 18.1,
+               "Aerodynamics (Cd)": 0.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4857 lbs (2203 kg)"
+               "Unladen Weight": 4857
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "11 mpg US (21.4 L/100Km)",
-               "Highway": "18 mpg US (13.1 L/100Km)",
-               "Combined": "14 mpg US (16.8 L/100Km)"
+               "City": 11,
+               "Highway": 18,
+               "Combined": 14
           },
           "": {}
      },
@@ -1250,18 +1250,18 @@
 },{
      "model_name": "LINCOLN Continental 1961-1969",
      "technical_specs": {
-          "ENGINE SPECS - 7.0L V8 3AT (300 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "7044 cm3",
+               "Displacement": 7044,
                "Power": "223.7 KW @ 4100 RPM\n304 HP @ 4100 RPM\n300 BHP @ 4100 RPM",
                "Torque": "465 lb-ft @ 2000 RPM\n631 Nm @ 2000 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.9 gallons (79.1 L)"
+               "Fuel capacity": 20.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "118 mph (190 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1275,22 +1275,22 @@
                "Tire Size": "9.00 - 14"
           },
           "DIMENSIONS": {
-               "Length": "212.4 in (5395 mm)",
-               "Width": "78.6 in (1996 mm)",
-               "Height": "53.5 in (1359 mm)",
+               "Length": 212.4,
+               "Width": 78.6,
+               "Height": 53.5,
                "Front/rear Track": "62.1/61 in (1,577/1,549 mm)",
-               "Wheelbase": "123 in (3124 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "22.9 cuFT (648 L)",
-               "Aerodynamics (Cd)": "0.54"
+               "Wheelbase": 123,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 22.9,
+               "Aerodynamics (Cd)": 0.54
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4927 lbs (2235 kg)"
+               "Unladen Weight": 4927
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "9 mpg US (26.1 L/100Km)",
-               "Highway": "13.5 mpg US (17.4 L/100Km)",
-               "Combined": "11 mpg US (21.4 L/100Km)"
+               "City": 9,
+               "Highway": 13.5,
+               "Combined": 11
           },
           "": {}
      },
@@ -1298,17 +1298,17 @@
 },{
      "model_name": "LINCOLN Continental 1958-1960",
      "technical_specs": {
-          "ENGINE SPECS - 7.0L V8 3AT (315 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "7044 cm3",
+               "Displacement": 7044,
                "Power": "234.9 KW @ 4100 RPM\n319.4 HP @ 4100 RPM\n315 BHP @ 4100 RPM",
                "Torque": "465 lb-ft @ 2200 RPM\n631 Nm @ 2200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "119 mph (192 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
+               "Top Speed": 119,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1322,22 +1322,22 @@
                "Tire Size": "9.50 - 14"
           },
           "DIMENSIONS": {
-               "Length": "227.1 in (5768 mm)",
-               "Width": "80.1 in (2035 mm)",
-               "Height": "56.7 in (1440 mm)",
+               "Length": 227.1,
+               "Width": 80.1,
+               "Height": 56.7,
                "Front/rear Track": "61/61 in (1,549/1,549 mm)",
-               "Wheelbase": "131 in (3327 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "17.2 cuFT (487 L)",
-               "Aerodynamics (Cd)": "0.55"
+               "Wheelbase": 131,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 17.2,
+               "Aerodynamics (Cd)": 0.55
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5174 lbs (2347 kg)"
+               "Unladen Weight": 5174
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "9 mpg US (26.1 L/100Km)",
-               "Highway": "14 mpg US (16.8 L/100Km)",
-               "Combined": "11.5 mpg US (20.5 L/100Km)"
+               "City": 9,
+               "Highway": 14,
+               "Combined": 11.5
           },
           "": {}
      },
@@ -1345,17 +1345,17 @@
 },{
      "model_name": "LINCOLN LS 2000-2006",
      "technical_specs": {
-          "ENGINE SPECS - 3.0L V6 24V 5AT (235 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2967 cm3",
+               "Displacement": 2967,
                "Power": "172.8 KW @ 6750 RPM\n235 HP @ 6750 RPM\n232 BHP @ 6750 RPM",
                "Torque": "220 lb-ft @ 4500 RPM\n298 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18 gallons (68.1 L)"
+               "Fuel capacity": 18
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)"
+               "Top Speed": 130
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1369,21 +1369,21 @@
                "Tire Size": "215/60/R16"
           },
           "DIMENSIONS": {
-               "Length": "193.9 in (4925 mm)",
-               "Width": "73.2 in (1859 mm)",
-               "Height": "56.1 in (1425 mm)",
+               "Length": 193.9,
+               "Width": 73.2,
+               "Height": 56.1,
                "Front/rear Track": "60.5/60.8 in (1,537/1,544 mm)",
-               "Wheelbase": "114.5 in (2908 mm)",
-               "Ground Clearance": "4.8 in (122 mm)",
-               "Cargo Volume": "13.4 cuFT (379 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 114.5,
+               "Ground Clearance": 4.8,
+               "Cargo Volume": 13.4,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3682 lbs (1670 kg)"
+               "Unladen Weight": 3682
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16.8 mpg US (14 L/100Km)",
-               "Highway": "29.4 mpg US (8 L/100Km)"
+               "City": 16.8,
+               "Highway": 29.4
           },
           "": {}
      },
@@ -1391,7 +1391,7 @@
 },{
      "model_name": "LINCOLN Mark LT 2009-2014",
      "technical_specs": {
-          "ENGINE SPECS - 5.0L TI-VCT AWD 6AT (360 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "v8",
                "Power": "265 KW @ 5550 RPM\n360 HP @ 5550 RPM\n355 BHP @ 5550 RPM",
                "Torque": "380 lb-ft @ 4250 RPM\n515 Nm @ 4250 RPM",
@@ -1410,14 +1410,14 @@
                "Tire Size": "275/55R20"
           },
           "DIMENSIONS": {
-               "Length": "231.9 in (5890 mm)",
-               "Width": "79.2 in (2012 mm)",
-               "Height": "75.9 in (1928 mm)",
-               "Wheelbase": "14.4 in (366 mm)",
-               "Ground Clearance": "9.1 in (231 mm)"
+               "Length": 231.9,
+               "Width": 79.2,
+               "Height": 75.9,
+               "Wheelbase": 14.4,
+               "Ground Clearance": 9.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5717 lbs (2593 kg)"
+               "Unladen Weight": 5717
           },
           "": {}
      },
@@ -1425,16 +1425,16 @@
 },{
      "model_name": "LINCOLN Mark LT 2005-2008",
      "technical_specs": {
-          "ENGINE SPECS - 5.4L RWD 4AT (300 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5409 cm3",
+               "Displacement": 5409,
                "Power": "221 KW @ 5000 RPM\n300 HP @ 5000 RPM\n296 BHP @ 5000 RPM",
                "Torque": "365 lb-ft @ 3750 RPM\n495 Nm @ 3750 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "106 mph (171 km/h)"
+               "Top Speed": 106
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1448,38 +1448,38 @@
                "Tire Size": "265/60 R18"
           },
           "DIMENSIONS": {
-               "Length": "223.8 in (5685 mm)",
-               "Width": "78.9 in (2004 mm)",
-               "Height": "73.5 in (1867 mm)",
+               "Length": 223.8,
+               "Width": 78.9,
+               "Height": 73.5,
                "Front/rear Track": "67/67 in (1,702/1,702 mm)",
-               "Wheelbase": "138.5 in (3518 mm)",
-               "Ground Clearance": "8.2 in (208 mm)",
-               "Cargo Volume": "55.5 cuFT (1572 L)",
-               "Aerodynamics (Cd)": "0.4"
+               "Wheelbase": 138.5,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 55.5,
+               "Aerodynamics (Cd)": 0.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5371.4 lbs (2436 kg)",
-               "Gross Weight Limit": "7051.6 lbs (3199 kg)"
+               "Unladen Weight": 5371.4,
+               "Gross Weight Limit": 7051.6
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13 mpg US (18.1 L/100Km)",
-               "Highway": "18 mpg US (13.1 L/100Km)",
-               "Combined": "15 mpg US (15.7 L/100Km)",
-               "CO2 Emissions": "373 g/km"
+               "City": 13,
+               "Highway": 18,
+               "Combined": 15,
+               "CO2 Emissions": 373
           }
      },
      "img": "images/LINCOLN Mark LT 2005-200805-03-05-38-36.jpg"
 },{
      "model_name": "LINCOLN MKS 2013-2016",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L ECOBOOST 6AT AWD (365 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3496 cm3",
+               "Displacement": 3496,
                "Power": "268 KW @ 6500 RPM\n364 HP @ 6500 RPM\n359 BHP @ 6500 RPM",
                "Torque": "258 lb-ft @ 1500-5000 RPM\n350 Nm @ 1500-5000 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19 gallons (71.9 L)"
+               "Fuel capacity": 19
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1493,19 +1493,19 @@
                "Tire Size": "255/45R19"
           },
           "DIMENSIONS": {
-               "Length": "205.6 in (5222 mm)",
-               "Width": "79.4 in (2017 mm)",
-               "Height": "61.6 in (1565 mm)",
+               "Length": 205.6,
+               "Width": 79.4,
+               "Height": 61.6,
                "Front/rear Track": "64.9/65.1 in (1,648/1,654 mm)",
-               "Wheelbase": "112.9 in (2868 mm)",
-               "Cargo Volume": "19.2 cuFT (544 L)"
+               "Wheelbase": 112.9,
+               "Cargo Volume": 19.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4436 lbs (2012 kg)"
+               "Unladen Weight": 4436
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)"
+               "City": 17,
+               "Highway": 25
           },
           "": {}
      },
@@ -1513,14 +1513,14 @@
 },{
      "model_name": "LINCOLN MKS 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L ECOBOOST 6AT (355 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3496 cm3",
+               "Displacement": 3496,
                "Power": "261 KW @ 5700 RPM\n355 HP @ 5700 RPM\n350 BHP @ 5700 RPM",
                "Torque": "350 lb-ft @ 3500 RPM\n475 Nm @ 3500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19 gallons (71.9 L)"
+               "Fuel capacity": 19
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1534,22 +1534,22 @@
                "Tire Size": "P235/55 R18"
           },
           "DIMENSIONS": {
-               "Length": "204.1 in (5184 mm)",
-               "Width": "75.9 in (1928 mm)",
-               "Height": "61.6 in (1565 mm)",
+               "Length": 204.1,
+               "Width": 75.9,
+               "Height": 61.6,
                "Front/rear Track": "64.9/65.1 in (1,648/1,654 mm)",
-               "Wheelbase": "112.9 in (2868 mm)",
-               "Cargo Volume": "18.7 cuFT (530 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 112.9,
+               "Cargo Volume": 18.7,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4127 lbs (1872 kg)",
-               "Gross Weight Limit": "5225 lbs (2370 kg)"
+               "Unladen Weight": 4127,
+               "Gross Weight Limit": 5225
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)",
-               "Combined": "20 mpg US (11.8 L/100Km)"
+               "City": 17,
+               "Highway": 25,
+               "Combined": 20
           },
           "": {}
      },
@@ -1557,14 +1557,14 @@
 },{
      "model_name": "LINCOLN MKX 2016-2018",
      "technical_specs": {
-          "ENGINE SPECS - 2.7L ECOBOOST 6AT (335 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2699 cm3",
+               "Displacement": 2699,
                "Power": "246.4 KW @ 3000 RPM\n335 HP @ 3000 RPM\n330 BHP @ 3000 RPM",
                "Torque": "380 lb-ft @ - RPM\n515 Nm @ - RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1578,24 +1578,24 @@
                "Tire Size": "245/60 R18"
           },
           "DIMENSIONS": {
-               "Length": "190 in (4826 mm)",
-               "Width": "76.2 in (1935 mm)",
-               "Height": "66.2 in (1681 mm)",
+               "Length": 190,
+               "Width": 76.2,
+               "Height": 66.2,
                "Front/rear Track": "64.8/64.7 in (1,646/1,643 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "7.8 in (198 mm)",
-               "Cargo Volume": "37.2 cuFT (1053 L)",
-               "Aerodynamics (Cd)": "0.34",
-               "Turning circle": "38.6 ft (11.8 m)"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 7.8,
+               "Cargo Volume": 37.2,
+               "Aerodynamics (Cd)": 0.34,
+               "Turning circle": 38.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4257 lbs (1931 kg)",
-               "Gross Weight Limit": "5159 lbs (2340 kg)"
+               "Unladen Weight": 4257,
+               "Gross Weight Limit": 5159
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "26.1 mpg US (9 L/100Km)",
-               "Combined": "21 mpg US (11.2 L/100Km)"
+               "City": 17,
+               "Highway": 26.1,
+               "Combined": 21
           },
           "": {}
      },
@@ -1603,14 +1603,14 @@
 },{
      "model_name": "LINCOLN MKX 2011-2016",
      "technical_specs": {
-          "ENGINE SPECS - 3.7L V6 TI-VCT 6AT (305 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3726 cm3",
+               "Displacement": 3726,
                "Power": "224 KW @ 6500 RPM\n305 HP @ 6500 RPM\n300 BHP @ 6500 RPM",
                "Torque": "207 lb-ft @ 4000 RPM\n281 Nm @ 4000 RPM",
                "Fuel System": "Sequential multi-port fuel injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.1 gallons (76.1 L)"
+               "Fuel capacity": 20.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1624,24 +1624,24 @@
                "Tire Size": "245/60/R18"
           },
           "DIMENSIONS": {
-               "Length": "186.7 in (4742 mm)",
-               "Width": "76 in (1930 mm)",
-               "Height": "67.3 in (1709 mm)",
+               "Length": 186.7,
+               "Width": 76,
+               "Height": 67.3,
                "Front/rear Track": "65.4/65.2 in (1,661/1,656 mm)",
-               "Wheelbase": "111.2 in (2824 mm)",
-               "Ground Clearance": "7.9 in (201 mm)",
-               "Cargo Volume": "32.3 cuFT (915 L)",
-               "Aerodynamics (Cd)": "0.36",
-               "Turning circle": "39.3 ft (12.0 m)"
+               "Wheelbase": 111.2,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 32.3,
+               "Aerodynamics (Cd)": 0.36,
+               "Turning circle": 39.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4251 lbs (1928 kg)",
-               "Gross Weight Limit": "5159 lbs (2340 kg)"
+               "Unladen Weight": 4251,
+               "Gross Weight Limit": 5159
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19 mpg US (12.4 L/100Km)",
-               "Highway": "26.1 mpg US (9 L/100Km)",
-               "Combined": "21 mpg US (11.2 L/100Km)"
+               "City": 19,
+               "Highway": 26.1,
+               "Combined": 21
           },
           "": {}
      },
@@ -1649,14 +1649,14 @@
 },{
      "model_name": "LINCOLN MKX 2006-2010",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L 6AT AWD (265 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3496 cm3",
+               "Displacement": 3496,
                "Power": "195 KW @ 6250 RPM\n265 HP @ 6250 RPM\n261 BHP @ 6250 RPM",
                "Torque": "250 lb-ft @ 4500 RPM\n339 Nm @ 4500 RPM",
                "Fuel System": "Sequential multi-port fuel injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.1 gallons (76.1 L)"
+               "Fuel capacity": 20.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1670,24 +1670,24 @@
                "Tire Size": "245/60/R18"
           },
           "DIMENSIONS": {
-               "Length": "186.5 in (4737 mm)",
-               "Width": "75.8 in (1925 mm)",
-               "Height": "67.2 in (1707 mm)",
+               "Length": 186.5,
+               "Width": 75.8,
+               "Height": 67.2,
                "Front/rear Track": "65/64.4 in (1,651/1,636 mm)",
-               "Wheelbase": "111.2 in (2824 mm)",
-               "Ground Clearance": "8.2 in (208 mm)",
-               "Cargo Volume": "32.3 cuFT (915 L)",
-               "Aerodynamics (Cd)": "0.36",
-               "Turning circle": "38.5 ft (11.7 m)"
+               "Wheelbase": 111.2,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 32.3,
+               "Aerodynamics (Cd)": 0.36,
+               "Turning circle": 38.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4420 lbs (2005 kg)",
-               "Gross Weight Limit": "5397 lbs (2448 kg)"
+               "Unladen Weight": 4420,
+               "Gross Weight Limit": 5397
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)"
+               "City": 15,
+               "Highway": 22,
+               "Combined": 18
           },
           "": {}
      },
@@ -1695,18 +1695,18 @@
 },{
      "model_name": "LINCOLN Town Car 2007-2011",
      "technical_specs": {
-          "ENGINE SPECS - 4.6L V8 4AT (239 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4606 cm3",
+               "Displacement": 4606,
                "Power": "178.2 KW @ 4900 RPM\n242 HP @ 4900 RPM\n239 BHP @ 4900 RPM",
                "Torque": "287 lb-ft @ 4100 RPM\n389 Nm @ 4100 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.1 gallons (76.1 L)"
+               "Fuel capacity": 20.1
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "133 mph (214 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.1 s"
+               "Top Speed": 133,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1720,23 +1720,23 @@
                "Tire Size": "P225/60 R17"
           },
           "DIMENSIONS": {
-               "Length": "215.4 in (5471 mm)",
-               "Width": "78.5 in (1994 mm)",
-               "Height": "59 in (1499 mm)",
+               "Length": 215.4,
+               "Width": 78.5,
+               "Height": 59,
                "Front/rear Track": "63.4/65.9 in (1,610/1,674 mm)",
-               "Wheelbase": "117.7 in (2990 mm)",
-               "Ground Clearance": "5.4 in (137 mm)",
-               "Cargo Volume": "21 cuFT (595 L)",
-               "Aerodynamics (Cd)": "0.39"
+               "Wheelbase": 117.7,
+               "Ground Clearance": 5.4,
+               "Cargo Volume": 21,
+               "Aerodynamics (Cd)": 0.39
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4299 lbs (1950 kg)",
-               "Gross Weight Limit": "5291 lbs (2400 kg)"
+               "Unladen Weight": 4299,
+               "Gross Weight Limit": 5291
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)",
-               "Combined": "20 mpg US (11.8 L/100Km)"
+               "City": 18,
+               "Highway": 25,
+               "Combined": 20
           },
           "": {}
      },
@@ -1744,9 +1744,9 @@
 },{
      "model_name": "LINCOLN Town Car 2003-2006",
      "technical_specs": {
-          "ENGINE SPECS - 4.7L 4AT (242 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4697 cm3",
+               "Displacement": 4697,
                "Power": "178 KW @ 4900 RPM\n242 HP @ 4900 RPM\n239 BHP @ 4900 RPM",
                "Torque": "287 lb-ft @ 4100 RPM\n389 Nm @ 4100 RPM",
                "Fuel System": "Electronic Injection",
@@ -1764,41 +1764,41 @@
                "Tire Size": "P225/60 R17"
           },
           "DIMENSIONS": {
-               "Length": "215.4 in (5471 mm)",
-               "Width": "78.2 in (1986 mm)",
-               "Height": "59 in (1499 mm)",
+               "Length": 215.4,
+               "Width": 78.2,
+               "Height": 59,
                "Front/rear Track": "63.4/65.9 in (1,610/1,674 mm)",
-               "Wheelbase": "117.7 in (2990 mm)",
-               "Ground Clearance": "5.4 in (137 mm)",
-               "Cargo Volume": "21 cuFT (595 L)",
-               "Aerodynamics (Cd)": "0.37"
+               "Wheelbase": 117.7,
+               "Ground Clearance": 5.4,
+               "Cargo Volume": 21,
+               "Aerodynamics (Cd)": 0.37
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4288.7 lbs (1945 kg)",
-               "Gross Weight Limit": "5534.6 lbs (2510 kg)"
+               "Unladen Weight": 4288.7,
+               "Gross Weight Limit": 5534.6
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "23 mpg US (10.2 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)",
-               "CO2 Emissions": "311 g/km"
+               "City": 15,
+               "Highway": 23,
+               "Combined": 18,
+               "CO2 Emissions": 311
           }
      },
      "img": "images/LINCOLN Town Car 2003-200605-03-05-38-52.jpg"
 },{
      "model_name": "LINCOLN Town Car 1998-2003",
      "technical_specs": {
-          "ENGINE SPECS - 4.6L V8 4AT (203 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4606 cm3",
+               "Displacement": 4606,
                "Power": "149 KW @ 4250 RPM\n203 HP @ 4250 RPM\n200 BHP @ 4250 RPM",
                "Torque": "275 lb-ft @ 3000 RPM\n373 Nm @ 3000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19 gallons (71.9 L)"
+               "Fuel capacity": 19
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)"
+               "Top Speed": 112
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1812,16 +1812,16 @@
                "Tire Size": "225/60SR16 BSW"
           },
           "DIMENSIONS": {
-               "Length": "215.3 in (5469 mm)",
-               "Width": "78.2 in (1986 mm)",
-               "Height": "58 in (1473 mm)",
+               "Length": 215.3,
+               "Width": 78.2,
+               "Height": 58,
                "Front/rear Track": "63.4/65.3 in (1,610/1,659 mm)",
-               "Wheelbase": "117.7 in (2990 mm)",
-               "Cargo Volume": "20.4 cuFT (578 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 117.7,
+               "Cargo Volume": 20.4,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4048.4 lbs (1836 kg)"
+               "Unladen Weight": 4048.4
           },
           "": {}
      },
@@ -1829,15 +1829,15 @@
 },{
      "model_name": "LINCOLN Zephyr Fastback 1936",
      "technical_specs": {
-          "ENGINE SPECS - 4.4": {
+          "ENGINE SPECS": {
                "Cylinders": "V12",
-               "Displacement": "4380 cm3",
+               "Displacement": 4380,
                "Power": "82 KW @ 3800 RPM\n112 HP @ 3800 RPM\n110 BHP @ 3800 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "90 mph (145 km/h)"
+               "Top Speed": 90
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1848,14 +1848,14 @@
                "Rear": "Drums"
           },
           "DIMENSIONS": {
-               "Length": "210 in (5334 mm)",
-               "Width": "73 in (1854 mm)",
+               "Length": 210,
+               "Width": 73,
                "Front/rear Track": "56/58.3 in (1,422/1,481 mm)",
-               "Wheelbase": "122 in (3099 mm)",
-               "Ground Clearance": "8.5 in (216 mm)"
+               "Wheelbase": 122,
+               "Ground Clearance": 8.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3704 lbs (1680 kg)"
+               "Unladen Weight": 3704
           }
      },
      "img": "images/LINCOLN Zephyr Fastback 193605-03-05-38-56.jpg"

@@ -2,17 +2,17 @@
 {
      "model_name": "GTA Motor GTA Spano 2012-2015",
      "technical_specs": {
-          "ENGINE SPECS - 8.3L SC V10 (820 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V10",
-               "Displacement": "8300 cm3",
+               "Displacement": 8300,
                "Power": "612 KW @ 6300 RPM\n820 HP @ 6300 RPM\n821 BHP @ 6300 RPM",
                "Torque": "708 lb-ft @ - RPM\n960 Nm @ - RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "217 mph (349 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
+               "Top Speed": 217,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -26,14 +26,14 @@
                "Tire Size": "255/35 R19 || 335/30 R20"
           },
           "DIMENSIONS": {
-               "Length": "183 in (4648 mm)",
-               "Width": "77.9 in (1979 mm)",
-               "Height": "78.7 in (1999 mm)",
-               "Wheelbase": "110.2 in (2799 mm)",
-               "Cargo Volume": "10.6 cuFT (300 L)"
+               "Length": 183,
+               "Width": 77.9,
+               "Height": 78.7,
+               "Wheelbase": 110.2,
+               "Cargo Volume": 10.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2976 lbs (1350 kg)"
+               "Unladen Weight": 2976
           }
      },
      "img": "images/GTA Motor GTA Spano 2012-201505-03-04-59-38.jpg"

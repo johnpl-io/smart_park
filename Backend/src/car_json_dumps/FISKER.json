@@ -2,13 +2,13 @@
 {
      "model_name": "FISKER Ocean 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS - DUAL MOTOR AWD (540 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "397.2 kw (540 hp)",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
@@ -21,13 +21,13 @@
                "Tire Size": "255/50 R20"
           },
           "DIMENSIONS": {
-               "Length": "188 in (4775 mm)",
-               "Width": "78.5 in (1994 mm)",
-               "Height": "64.1 in (1628 mm)",
-               "Wheelbase": "115 in (2921 mm)"
+               "Length": 188,
+               "Width": 78.5,
+               "Height": 64.1,
+               "Wheelbase": 115
           },
           "POWER SYSTEM SPECS": {
-               "Range": "379 miles (609.9 km)"
+               "Range": 379
           },
           "": {}
      },
@@ -35,17 +35,17 @@
 },{
      "model_name": "FISKER Karma 2011-2012",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 1SPEED (400 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2000 cm3",
+               "Displacement": 2000,
                "Power": "193.9 KW @ 5300 RPM\n263.6 HP @ 5300 RPM\n260 BHP @ 5300 RPM",
                "Torque": "260 lb-ft @ 2000 RPM\n353 Nm @ 2000 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Hybrid"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.1 s"
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -59,21 +59,21 @@
                "Tire Size": "255/35R22 || 285/35RR"
           },
           "DIMENSIONS": {
-               "Length": "196.8 in (4999 mm)",
-               "Width": "84 in (2134 mm)",
-               "Height": "52.4 in (1331 mm)",
+               "Length": 196.8,
+               "Width": 84,
+               "Height": 52.4,
                "Front/rear Track": "66.6/67 in (1,692/1,702 mm)",
-               "Wheelbase": "124.4 in (3160 mm)",
-               "Ground Clearance": "5.6 in (142 mm)",
-               "Cargo Volume": "6.9 cuFT (195 L)",
-               "Aerodynamics (Cd)": "0.313"
+               "Wheelbase": 124.4,
+               "Ground Clearance": 5.6,
+               "Cargo Volume": 6.9,
+               "Aerodynamics (Cd)": 0.313
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5300 lbs (2404 kg)"
+               "Unladen Weight": 5300
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "118 mpg US (2 L/100Km)",
-               "CO2 Emissions": "51 g/km"
+               "Combined": 118,
+               "CO2 Emissions": 51
           },
           "NOTES": {
                "The Fisker patented EVer\u2122 technology uses an electric generator and battery pack to power the dual electric motors to drive the wheels, giving the Karma a range of up to 50 miles of electric driving. After 50 miles, the internal combustion gasoline engine engages to support the electric motors for an additional range of 250 miles. (Note": "the plug-in hybrid is never run by the engine. The engine provides the energy to run the electric motors).\n\nMotors: Two rear-mounted electric traction motors, mid-mounted lithium ion battery pack and front/mid-mounted range-extending gasoline engine/generator set\n\nBattery: 20 kWh, 180 kW lithium ion w/Nanophosphate\u2122 technology (A123 Systems)\n\nRange-extending gasoline Engine/Generator set: 2.0-liter, 260hp, low-emission, four-cylinder direct fuel-injection w/ turbocharger (GM Ecotec) and 175 kW generator\n\nTraction motors: 403 hp (300 kW) total [2 x 201.5 hp (150 kW)]\nTorque: 981 lb.-ft (1300 Nm)\nTransmission: Single-ratio gearbox/Limited Slip Differential combination\n\n\nThe Fisker Karma\u2019s efficiency has been assessed by Technischer \u00dceberwachungs Verein (T\u00dcV), Europe\u2019s recognized automotive certification agency, with the vehicle achieving a combined cycle figure of 135 UK mpg (2l/100 km or 112 US mpg) and a CO2 emission figure of 51 grams per km.\nThe extended range electric vehicle has also had its all-electric range of 51.6 mils (83 km) validated. As for the Sport mode driving, this brings a combined fuel economy of 31 UK mpg (9.2 liters per 100 km or 25.8 US mpg)."

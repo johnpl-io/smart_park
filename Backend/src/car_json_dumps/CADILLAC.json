@@ -2,13 +2,13 @@
 {
      "model_name": "2025 Cadillac CT5",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L TURBO 10AT AWD (240 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "176.7 KW @ 5000 RPM\n240 HP @ 5000 RPM\n237 BHP @ 5000 RPM",
                "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
                "Fuel System": "Direct injection with electronic throttle control",
                "Fuel": "Gasoline",
-               "Fuel capacity": "17.4 gallons (65.9 L)"
+               "Fuel capacity": 17.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -22,13 +22,13 @@
                "Tire Size": "245/45 R18"
           },
           "DIMENSIONS": {
-               "Length": "194 in (4928 mm)",
-               "Width": "74.1 in (1882 mm)",
-               "Height": "57.2 in (1453 mm)",
+               "Length": 194,
+               "Width": 74.1,
+               "Height": 57.2,
                "Front/rear Track": "62.8/63.9 in (1,595/1,623 mm)",
-               "Wheelbase": "116 in (2946 mm)",
-               "Cargo Volume": "11.9 cuFT (337 L)",
-               "Turning circle": "40.7 ft (12.4 m)"
+               "Wheelbase": 116,
+               "Cargo Volume": 11.9,
+               "Turning circle": 40.7
           },
           "": {}
      },
@@ -36,9 +36,9 @@
 },{
      "model_name": "2020 Cadillac CT5",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 10AT (237 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "174.3 KW @ 5000 RPM\n237 HP @ 5000 RPM\n234 BHP @ 5000 RPM",
                "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
@@ -49,15 +49,15 @@
                "Gearbox": "10-Speed automatic"
           },
           "DIMENSIONS": {
-               "Length": "193.9 in (4925 mm)",
-               "Width": "74.1 in (1882 mm)",
-               "Height": "57.2 in (1453 mm)",
+               "Length": 193.9,
+               "Width": 74.1,
+               "Height": 57.2,
                "Front/rear Track": "62.8/63.9 in (1,595/1,623 mm)",
-               "Wheelbase": "116 in (2946 mm)",
-               "Cargo Volume": "11.9 cuFT (337 L)"
+               "Wheelbase": 116,
+               "Cargo Volume": 11.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3660 lbs (1660 kg)"
+               "Unladen Weight": 3660
           },
           "": {}
      },
@@ -65,37 +65,37 @@
 },{
      "model_name": "2024 Cadillac XT4",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L TURBOCHARGED 9AT FWD (238 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "175 KW @ 5000 RPM\n238 HP @ 5000 RPM\n235 BHP @ 5000 RPM",
                "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
                "Fuel": "Gasoline"
           },
           "DIMENSIONS": {
-               "Length": "181.1 in (4600 mm)",
-               "Width": "83.5 in (2121 mm)",
-               "Height": "64.1 in (1628 mm)",
+               "Length": 181.1,
+               "Width": 83.5,
+               "Height": 64.1,
                "Front/rear Track": "63.2/63.1 in (1,605/1,603 mm)",
-               "Wheelbase": "109.4 in (2779 mm)",
-               "Ground Clearance": "6.7 in (170 mm)",
-               "Cargo Volume": "22.5 cuFT (637 L)",
-               "Turning circle": "38.1 ft (11.6 m)"
+               "Wheelbase": 109.4,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 22.5,
+               "Turning circle": 38.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3660 lbs (1660 kg)"
+               "Unladen Weight": 3660
           }
      },
      "img": "images/2024 Cadillac XT405-03-04-02-50.jpg"
 },{
      "model_name": "2019 Cadillac XT4",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 9AT (241 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "177.3 KW @ 5000 RPM\n241 HP @ 5000 RPM\n238 BHP @ 5000 RPM",
                "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -109,21 +109,21 @@
                "Tire Size": "P235/60R18"
           },
           "DIMENSIONS": {
-               "Length": "181 in (4597 mm)",
-               "Width": "74.1 in (1882 mm)",
-               "Height": "64.1 in (1628 mm)",
+               "Length": 181,
+               "Width": 74.1,
+               "Height": 64.1,
                "Front/rear Track": "63.2/63.1 in (1,605/1,603 mm)",
-               "Wheelbase": "109.4 in (2779 mm)",
-               "Ground Clearance": "6.7 in (170 mm)",
-               "Cargo Volume": "22.5 cuFT (637 L)"
+               "Wheelbase": 109.4,
+               "Ground Clearance": 6.7,
+               "Cargo Volume": 22.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3660 lbs (1660 kg)"
+               "Unladen Weight": 3660
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "25 mpg US (9.4 L/100Km)",
-               "Highway": "30.2 mpg US (7.8 L/100Km)",
-               "Combined": "27 mpg US (8.7 L/100Km)"
+               "City": 25,
+               "Highway": 30.2,
+               "Combined": 27
           },
           "": {}
      },
@@ -131,14 +131,14 @@
 },{
      "model_name": "CADILLAC Escalade ESV 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L V8 10AT AWD (420 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6162 cm3",
+               "Displacement": 6162,
                "Power": "308.9 KW @ 5600 RPM\n420 HP @ 5600 RPM\n414 BHP @ 5600 RPM",
                "Torque": "460 lb-ft @ 4100 RPM\n623 Nm @ 4100 RPM",
                "Fuel System": "Direct high-pressure fuel injection with Dynamic Fuel Managemen",
                "Fuel": "Gasoline",
-               "Fuel capacity": "28.3 gallons (107.1 L)"
+               "Fuel capacity": 28.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -152,15 +152,15 @@
                "Tire Size": "P275/50R22"
           },
           "DIMENSIONS": {
-               "Length": "227 in (5766 mm)",
-               "Width": "81.1 in (2060 mm)",
-               "Height": "76.5 in (1943 mm)",
+               "Length": 227,
+               "Width": 81.1,
+               "Height": 76.5,
                "Front/rear Track": "68.4/68.1 in (1,737/1,730 mm)",
-               "Wheelbase": "134.1 in (3406 mm)",
-               "Cargo Volume": "42.9 cuFT (1215 L)"
+               "Wheelbase": 134.1,
+               "Cargo Volume": 42.9
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": "5992 lbs (2718 kg)"
+               "Gross Weight Limit": 5992
           },
           "": {}
      },
@@ -168,18 +168,18 @@
 },{
      "model_name": "CADILLAC Escalade ESV 2014-2020",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L V8 ECOTEC3 FLEXFUEL 6AT RWD (426 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6200 cm3",
+               "Displacement": 6200,
                "Power": "313 KW @ 5600 RPM\n426 HP @ 5600 RPM\n420 BHP @ 5600 RPM",
                "Torque": "460 lb-ft @ 4100 RPM\n624 Nm @ 4100 RPM",
                "Fuel System": "Direct fuel injection with Active Fuel Management",
                "Fuel": "Gasoline",
-               "Fuel capacity": "30.9 gallons (117.0 L)"
+               "Fuel capacity": 30.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.9 s"
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -193,23 +193,23 @@
                "Tire Size": "275/55 R20"
           },
           "DIMENSIONS": {
-               "Length": "224.3 in (5697 mm)",
-               "Width": "80.5 in (2045 mm)",
-               "Height": "74 in (1880 mm)",
+               "Length": 224.3,
+               "Width": 80.5,
+               "Height": 74,
                "Front/rear Track": "68.7/68.7 in (1,745/1,745 mm)",
-               "Wheelbase": "130 in (3302 mm)",
-               "Ground Clearance": "7.9 in (201 mm)",
-               "Cargo Volume": "76.5 cuFT (2166 L)"
+               "Wheelbase": 130,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 76.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5795 lbs (2629 kg)",
-               "Gross Weight Limit": "7300 lbs (3311 kg)"
+               "Unladen Weight": 5795,
+               "Gross Weight Limit": 7300
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13.1 mpg US (18 L/100Km)",
-               "Highway": "23.1 mpg US (10.2 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)",
-               "CO2 Emissions": "302 g/km"
+               "City": 13.1,
+               "Highway": 23.1,
+               "Combined": 18,
+               "CO2 Emissions": 302
           },
           "": {}
      },
@@ -217,16 +217,16 @@
 },{
      "model_name": "CADILLAC Escalade ESV 2006-2013",
      "technical_specs": {
-          "ENGINE SPECS - 6.2": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6199 cm3",
+               "Displacement": 6199,
                "Power": "301 KW @ 5700 RPM\n409 HP @ 5700 RPM\n404 BHP @ 5700 RPM",
                "Torque": "417 lb-ft @ 4400 RPM\n565 Nm @ 4400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "7.2 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 7.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -240,37 +240,37 @@
                "Tire Size": "P265/65R18 AL2"
           },
           "DIMENSIONS": {
-               "Length": "222.8 in (5659 mm)",
-               "Width": "79.1 in (2009 mm)",
-               "Height": "75.4 in (1915 mm)",
+               "Length": 222.8,
+               "Width": 79.1,
+               "Height": 75.4,
                "Front/rear Track": "68.1/67 in (1,730/1,702 mm)",
-               "Wheelbase": "130 in (3302 mm)",
-               "Ground Clearance": "9.2 in (234 mm)"
+               "Wheelbase": 130,
+               "Ground Clearance": 9.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5944.7 lbs (2696 kg)",
-               "Gross Weight Limit": "7490.4 lbs (3398 kg)"
+               "Unladen Weight": 5944.7,
+               "Gross Weight Limit": 7490.4
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "12 mpg US (19.6 L/100Km)",
-               "Highway": "17 mpg US (13.8 L/100Km)"
+               "City": 12,
+               "Highway": 17
           }
      },
      "img": "images/CADILLAC Escalade ESV 2006-201305-03-04-02-58.jpg"
 },{
      "model_name": "CADILLAC Escalade ESV 2002-2006",
      "technical_specs": {
-          "ENGINE SPECS - 6.0 4AT (350 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5967 cm3",
+               "Displacement": 5967,
                "Power": "257 KW @ 5200 RPM\n350 HP @ 5200 RPM\n345 BHP @ 5200 RPM",
                "Torque": "380 lb-ft @ 4000 RPM\n515 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "106.3 mph (171 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.4 s"
+               "Top Speed": 106.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -284,29 +284,29 @@
                "Tire Size": "265/70R 17"
           },
           "DIMENSIONS": {
-               "Length": "219.3 in (5570 mm)",
-               "Width": "79.5 in (2019 mm)",
-               "Height": "75.7 in (1923 mm)",
+               "Length": 219.3,
+               "Width": 79.5,
+               "Height": 75.7,
                "Front/rear Track": "65/66 in (1,651/1,676 mm)",
-               "Wheelbase": "130 in (3302 mm)",
-               "Ground Clearance": "10.6 in (269 mm)",
-               "Cargo Volume": "107.2 cuFT (3036 L)"
+               "Wheelbase": 130,
+               "Ground Clearance": 10.6,
+               "Cargo Volume": 107.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5808 lbs (2634 kg)",
-               "Gross Weight Limit": "7201.5 lbs (3267 kg)"
+               "Unladen Weight": 5808,
+               "Gross Weight Limit": 7201.5
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13 mpg US (18.1 L/100Km)",
-               "Highway": "17 mpg US (13.8 L/100Km)",
-               "Combined": "15 mpg US (15.7 L/100Km)"
+               "City": 13,
+               "Highway": 17,
+               "Combined": 15
           }
      },
      "img": "images/CADILLAC Escalade ESV 2002-200605-03-04-02-59.jpg"
 },{
      "model_name": "2025 Cadillac Escalade IQ",
      "technical_specs": {
-          "ENGINE SPECS - 200 KWH (680 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "500.1 kw (680 hp)",
                "Electrical motor torque": "615.1 lb-ft (834 Nm)",
                "Total maximum power": "500.1 kw (680 hp)",
@@ -325,18 +325,18 @@
                "Tire Size": "LT275/50 R24"
           },
           "DIMENSIONS": {
-               "Length": "224.3 in (5697 mm)",
-               "Width": "85.3 in (2167 mm)",
-               "Height": "76.1 in (1933 mm)",
+               "Length": 224.3,
+               "Width": 85.3,
+               "Height": 76.1,
                "Front/rear Track": "68.7/68.7 in (1,745/1,745 mm)",
-               "Wheelbase": "136.2 in (3459 mm)",
-               "Ground Clearance": "6.9 in (175 mm)",
-               "Cargo Volume": "23.7 cuFT (671 L)",
-               "Turning circle": "39.4 ft (12.0 m)"
+               "Wheelbase": 136.2,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 23.7,
+               "Turning circle": 39.4
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion",
-               "Nominal Capacity": "200 kWh"
+               "Nominal Capacity": 200
           },
           "NOTES": {
                "Power Velocity Max": "750 HP (560 KW)\nTorque Velocity Max: 1064 Nm (785 lb-ft)\neTrunk Volume: 345L (12.2 cu.ft)"
@@ -346,9 +346,9 @@
 },{
      "model_name": "CADILLAC Escalade-V 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L V8 10AT AWD (682 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6162 cm3",
+               "Displacement": 6162,
                "Power": "501.6 KW @ 6000 RPM\n682 HP @ 6000 RPM\n673 BHP @ 6000 RPM",
                "Torque": "653 lb-ft @ 4400 RPM\n885 Nm @ 4400 RPM",
                "Fuel System": "Direct Injection",
@@ -366,29 +366,29 @@
                "Tire Size": "P275/50R22SL"
           },
           "DIMENSIONS": {
-               "Length": "211.9 in (5382 mm)",
-               "Width": "81.1 in (2060 mm)",
-               "Height": "76.7 in (1948 mm)",
+               "Length": 211.9,
+               "Width": 81.1,
+               "Height": 76.7,
                "Front/rear Track": "68.4/68.1 in (1,737/1,730 mm)",
-               "Wheelbase": "120.9 in (3071 mm)",
-               "Cargo Volume": "25.5 cuFT (722 L)"
+               "Wheelbase": 120.9,
+               "Cargo Volume": 25.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "6217 lbs (2820 kg)"
+               "Unladen Weight": 6217
           }
      },
      "img": "images/CADILLAC Escalade-V 2022-Present05-03-04-03-03.jpg"
 },{
      "model_name": "CADILLAC Escalade 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L V8 10AT AWD (420 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6162 cm3",
+               "Displacement": 6162,
                "Power": "308.9 KW @ 5600 RPM\n420 HP @ 5600 RPM\n414 BHP @ 5600 RPM",
                "Torque": "460 lb-ft @ 4100 RPM\n624 Nm @ 4100 RPM",
                "Fuel System": "Direct high-pressure fuel injection with Dynamic Fuel Managemen",
                "Fuel": "Gasoline",
-               "Fuel capacity": "26 gallons (98.4 L)"
+               "Fuel capacity": 26
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -402,15 +402,15 @@
                "Tire Size": "P275/50R22"
           },
           "DIMENSIONS": {
-               "Length": "211.9 in (5382 mm)",
-               "Width": "81.1 in (2060 mm)",
-               "Height": "78.1 in (1984 mm)",
+               "Length": 211.9,
+               "Width": 81.1,
+               "Height": 78.1,
                "Front/rear Track": "68.4/68.1 in (1,737/1,730 mm)",
-               "Wheelbase": "1262.6 in (32070 mm)",
-               "Cargo Volume": "25.5 cuFT (722 L)"
+               "Wheelbase": 1262.6,
+               "Cargo Volume": 25.5
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": "5820 lbs (2640 kg)"
+               "Gross Weight Limit": 5820
           },
           "": {}
      },
@@ -418,14 +418,14 @@
 },{
      "model_name": "CADILLAC Escalade 2014-2020",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L V8 2WD 8AT (426 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6200 cm3",
+               "Displacement": 6200,
                "Power": "313 KW @ 5600 RPM\n426 HP @ 5600 RPM\n420 BHP @ 5600 RPM",
                "Torque": "460 lb-ft @ 4100 RPM\n624 Nm @ 4100 RPM",
                "Fuel System": "direct fuel injection with Active Fuel Management",
                "Fuel": "Gasoline",
-               "Fuel capacity": "30.9 gallons (117.0 L)"
+               "Fuel capacity": 30.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -439,21 +439,21 @@
                "Tire Size": "P275/55 R20"
           },
           "DIMENSIONS": {
-               "Length": "203.9 in (5179 mm)",
-               "Width": "80.5 in (2045 mm)",
-               "Height": "74.4 in (1890 mm)",
+               "Length": 203.9,
+               "Width": 80.5,
+               "Height": 74.4,
                "Front/rear Track": "68.7/68.7 in (1,745/1,745 mm)",
-               "Wheelbase": "116 in (2946 mm)",
-               "Ground Clearance": "7.9 in (201 mm)",
-               "Cargo Volume": "51.6 cuFT (1461 L)"
+               "Wheelbase": 116,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 51.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5594 lbs (2537 kg)",
-               "Gross Weight Limit": "7100 lbs (3221 kg)"
+               "Unladen Weight": 5594,
+               "Gross Weight Limit": 7100
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)"
+               "City": 15,
+               "Highway": 22
           },
           "": {}
      },
@@ -461,9 +461,9 @@
 },{
      "model_name": "CADILLAC Escalade 2006-2013",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L 6AT (409 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6199 cm3",
+               "Displacement": 6199,
                "Power": "301 KW @ 5700 RPM\n409 HP @ 5700 RPM\n404 BHP @ 5700 RPM",
                "Torque": "417 lb-ft @ 4400 RPM\n565 Nm @ 4400 RPM",
                "Fuel System": "Electronic Injection",
@@ -481,40 +481,40 @@
                "Tire Size": "P265/65R18 - P285/45R22"
           },
           "DIMENSIONS": {
-               "Length": "202.5 in (5144 mm)",
-               "Width": "79 in (2007 mm)",
-               "Height": "74.3 in (1887 mm)",
+               "Length": 202.5,
+               "Width": 79,
+               "Height": 74.3,
                "Front/rear Track": "68.1/67 in (1,730/1,702 mm)",
-               "Wheelbase": "116 in (2946 mm)",
-               "Ground Clearance": "10.6 in (269 mm)",
-               "Cargo Volume": "107.9 cuFT (3055 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 116,
+               "Ground Clearance": 10.6,
+               "Cargo Volume": 107.9,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5832.2 lbs (2645 kg)",
-               "Gross Weight Limit": "7117.7 lbs (3229 kg)"
+               "Unladen Weight": 5832.2,
+               "Gross Weight Limit": 7117.7
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13 mpg US (18.1 L/100Km)",
-               "Highway": "17 mpg US (13.8 L/100Km)"
+               "City": 13,
+               "Highway": 17
           }
      },
      "img": "images/CADILLAC Escalade 2006-201305-03-04-03-08.jpg"
 },{
      "model_name": "CADILLAC Escalade 2000-2006",
      "technical_specs": {
-          "ENGINE SPECS - 5.3L 4AT RWD (299 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5328 cm3",
+               "Displacement": 5328,
                "Power": "220 KW @ 5200 RPM\n299 HP @ 5200 RPM\n295 BHP @ 5200 RPM",
                "Torque": "335 lb-ft @ 4000 RPM\n454 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "25.9 gallons (98.0 L)"
+               "Fuel capacity": 25.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "110 mph (177 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.5 s"
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -528,22 +528,22 @@
                "Tire Size": "265/70 R17"
           },
           "DIMENSIONS": {
-               "Length": "198.9 in (5052 mm)",
-               "Width": "78.9 in (2004 mm)",
-               "Height": "74.2 in (1885 mm)",
+               "Length": 198.9,
+               "Width": 78.9,
+               "Height": 74.2,
                "Front/rear Track": "65/66 in (1,651/1,676 mm)",
-               "Wheelbase": "116 in (2946 mm)",
-               "Ground Clearance": "8.6 in (218 mm)",
-               "Cargo Volume": "107.2 cuFT (3036 L)"
+               "Wheelbase": 116,
+               "Ground Clearance": 8.6,
+               "Cargo Volume": 107.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5340.5 lbs (2422 kg)",
-               "Gross Weight Limit": "6747.3 lbs (3061 kg)"
+               "Unladen Weight": 5340.5,
+               "Gross Weight Limit": 6747.3
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14 mpg US (16.8 L/100Km)",
-               "Highway": "18 mpg US (13.1 L/100Km)",
-               "Combined": "16 mpg US (14.7 L/100Km)"
+               "City": 14,
+               "Highway": 18,
+               "Combined": 16
           },
           "": {}
      },
@@ -551,7 +551,7 @@
 },{
      "model_name": "CADILLAC XT5 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L VVT 9AT (237 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "174.3 KW @ 5000 RPM\n237 HP @ 5000 RPM\n234 BHP @ 5000 RPM",
                "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
@@ -570,15 +570,15 @@
                "Tire Size": "P235/65R18 // P235/55R20"
           },
           "DIMENSIONS": {
-               "Length": "189.6 in (4816 mm)",
-               "Width": "75 in (1905 mm)",
-               "Height": "66.1 in (1679 mm)",
+               "Length": 189.6,
+               "Width": 75,
+               "Height": 66.1,
                "Front/rear Track": "64.8/64.8 in (1,646/1,646 mm)",
-               "Wheelbase": "112.5 in (2858 mm)",
-               "Cargo Volume": "30.1 cuFT (852 L)"
+               "Wheelbase": 112.5,
+               "Cargo Volume": 30.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3915 lbs (1776 kg)"
+               "Unladen Weight": 3915
           },
           "": {}
      },
@@ -586,14 +586,14 @@
 },{
      "model_name": "CADILLAC XT5 2016-2019",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 8AT (261 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "192 KW @ 5300 RPM\n261 HP @ 5300 RPM\n257 BHP @ 5300 RPM",
                "Torque": "295 lb-ft @ 3000 RPM\n400 Nm @ 3000 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19 gallons (71.9 L)"
+               "Fuel capacity": 19
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -607,21 +607,21 @@
                "Tire Size": "235/65 R18"
           },
           "DIMENSIONS": {
-               "Length": "189.5 in (4813 mm)",
-               "Width": "75 in (1905 mm)",
-               "Height": "66 in (1676 mm)",
+               "Length": 189.5,
+               "Width": 75,
+               "Height": 66,
                "Front/rear Track": "64/64 in (1,626/1,626 mm)",
-               "Wheelbase": "112.5 in (2858 mm)",
-               "Ground Clearance": "7.9 in (201 mm)",
-               "Cargo Volume": "30 cuFT (850 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 112.5,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 30,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3986 lbs (1808 kg)"
+               "Unladen Weight": 3986
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19.9 mpg US (11.8 L/100Km)",
-               "Highway": "27 mpg US (8.7 L/100Km)"
+               "City": 19.9,
+               "Highway": 27
           },
           "": {}
      },
@@ -629,14 +629,14 @@
 },{
      "model_name": "CADILLAC XTS 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 6AT (304 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3564 cm3",
+               "Displacement": 3564,
                "Power": "226.7 KW @ 6800 RPM\n308 HP @ 6800 RPM\n304 BHP @ 6800 RPM",
                "Torque": "264 lb-ft @ 5300 RPM\n358 Nm @ 5300 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19.5 gallons (73.8 L)"
+               "Fuel capacity": 19.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -650,20 +650,20 @@
                "Tire Size": "245/45 R19"
           },
           "DIMENSIONS": {
-               "Length": "200.9 in (5103 mm)",
-               "Width": "72.9 in (1852 mm)",
-               "Height": "59.4 in (1509 mm)",
+               "Length": 200.9,
+               "Width": 72.9,
+               "Height": 59.4,
                "Front/rear Track": "61.7/62 in (1,567/1,575 mm)",
-               "Wheelbase": "111.7 in (2837 mm)",
-               "Cargo Volume": "18 cuFT (510 L)"
+               "Wheelbase": 111.7,
+               "Cargo Volume": 18
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4021 lbs (1824 kg)"
+               "Unladen Weight": 4021
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "28 mpg US (8.4 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)"
+               "City": 18,
+               "Highway": 28,
+               "Combined": 19
           },
           "": {}
      },
@@ -671,16 +671,16 @@
 },{
      "model_name": "CADILLAC XTS 2013-2017",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 6AT RWD (272 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "203 KW @ 5500 RPM\n276 HP @ 5500 RPM\n272 BHP @ 5500 RPM",
                "Torque": "260 lb-ft @ 3000 RPM\n353 Nm @ 3000 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "6.9 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 6.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -694,18 +694,18 @@
                "Tire Size": "P245/45R19 or P245/40R20"
           },
           "DIMENSIONS": {
-               "Length": "202 in (5131 mm)",
-               "Width": "72.9 in (1852 mm)",
-               "Height": "59.1 in (1501 mm)",
+               "Length": 202,
+               "Width": 72.9,
+               "Height": 59.1,
                "Front/rear Track": "61.7/62 in (1,567/1,575 mm)",
-               "Wheelbase": "111.7 in (2837 mm)",
-               "Ground Clearance": "5 in (127 mm)",
-               "Cargo Volume": "18 cuFT (510 L)",
-               "Aerodynamics (Cd)": "0.3"
+               "Wheelbase": 111.7,
+               "Ground Clearance": 5,
+               "Cargo Volume": 18,
+               "Aerodynamics (Cd)": 0.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3995 lbs (1812 kg)",
-               "Gross Weight Limit": "5346 lbs (2425 kg)"
+               "Unladen Weight": 3995,
+               "Gross Weight Limit": 5346
           },
           "": {}
      },
@@ -713,7 +713,7 @@
 },{
      "model_name": "CADILLAC CT6 V-Sport 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - 4.2L V8 10AT (550 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V*",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
@@ -722,24 +722,24 @@
                "Gearbox": "10-Sped automatic"
           },
           "DIMENSIONS": {
-               "Length": "204 in (5182 mm)",
-               "Width": "74 in (1880 mm)",
-               "Height": "58 in (1473 mm)",
-               "Wheelbase": "122.4 in (3109 mm)"
+               "Length": 204,
+               "Width": 74,
+               "Height": 58,
+               "Wheelbase": 122.4
           }
      },
      "img": "images/CADILLAC CT6 V-Sport 2018-Present05-03-04-03-20.jpg"
 },{
      "model_name": "CADILLAC CT6 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 8AT (269 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "197.8 KW @ 5500 RPM\n269 HP @ 5500 RPM\n265 BHP @ 5500 RPM",
                "Torque": "295 lb-ft @ 3000-4500 RPM\n400 Nm @ 3000-4500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19.5 gallons (73.8 L)"
+               "Fuel capacity": 19.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -753,21 +753,21 @@
                "Tire Size": "P255/35 R19"
           },
           "DIMENSIONS": {
-               "Length": "204 in (5182 mm)",
-               "Width": "74 in (1880 mm)",
-               "Height": "58 in (1473 mm)",
-               "Wheelbase": "122.3 in (3106 mm)",
-               "Cargo Volume": "15.3 cuFT (433 L)",
-               "Aerodynamics (Cd)": "0.3",
-               "Turning circle": "40 ft (12.2 m)"
+               "Length": 204,
+               "Width": 74,
+               "Height": 58,
+               "Wheelbase": 122.3,
+               "Cargo Volume": 15.3,
+               "Aerodynamics (Cd)": 0.3,
+               "Turning circle": 40
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3657 lbs (1659 kg)"
+               "Unladen Weight": 3657
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22 mpg US (10.7 L/100Km)",
-               "Highway": "30.2 mpg US (7.8 L/100Km)",
-               "Combined": "25 mpg US (9.4 L/100Km)"
+               "City": 22,
+               "Highway": 30.2,
+               "Combined": 25
           },
           "": {}
      },
@@ -775,15 +775,15 @@
 },{
      "model_name": "2022 Cadillac CT4-V Blackwing",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 10AT (472 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
                "Power": "347.2 KW @ - RPM\n472 HP @ - RPM\n466 BHP @ - RPM",
                "Torque": "445 lb-ft @ - RPM\n603 Nm @ - RPM",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "189 mph (304 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+               "Top Speed": 189,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -801,7 +801,7 @@
 },{
      "model_name": "2020 Cadillac CT4-V",
      "technical_specs": {
-          "ENGINE SPECS - 2.7L 10AT (320 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "235.4 KW @ 5600 RPM\n320 HP @ 5600 RPM\n316 BHP @ 5600 RPM",
                "Torque": "369 lb-ft @ 1800 RPM\n500 Nm @ 1800 RPM",
@@ -820,28 +820,28 @@
                "Tire Size": "235/40R18"
           },
           "DIMENSIONS": {
-               "Length": "187.2 in (4755 mm)",
-               "Width": "77.7 in (1974 mm)",
-               "Height": "56 in (1422 mm)",
+               "Length": 187.2,
+               "Width": 77.7,
+               "Height": 56,
                "Front/rear Track": "60.3/61.7 in (1,532/1,567 mm)",
-               "Wheelbase": "109.3 in (2776 mm)"
+               "Wheelbase": 109.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3616 lbs (1640 kg)"
+               "Unladen Weight": 3616
           }
      },
      "img": "images/2020 Cadillac CT4-V05-03-04-03-25.jpg"
 },{
      "model_name": "2024 Cadillac Celestiq",
      "technical_specs": {
-          "ENGINE SPECS - 111 KWH AWD (600 HP)": {
+          "ENGINE SPECS": {
                "Total maximum power": "441.3 kw (600 hp)",
                "Total maximum torque": "640 lb-ft (868 Nm)",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
@@ -851,21 +851,21 @@
                "Rear": "Ventilated Discs"
           },
           "POWER SYSTEM SPECS": {
-               "Nominal Capacity": "111 kWh",
-               "Range": "300.1 miles (483.0 km)"
+               "Nominal Capacity": 111,
+               "Range": 300.1
           }
      },
      "img": "images/2024 Cadillac Celestiq05-03-04-03-27.jpg"
 },{
      "model_name": "2020 Cadillac CT4",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L TURBO 8AT AWD (240 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "176.7 KW @ 5000 RPM\n240 HP @ 5000 RPM\n237 BHP @ 5000 RPM",
                "Torque": "258 lb-ft @ 1500-4000 RPM\n350 Nm @ 1500-4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "17.4 gallons (65.9 L)"
+               "Fuel capacity": 17.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -879,18 +879,18 @@
                "Tire Size": "225/45 R17"
           },
           "DIMENSIONS": {
-               "Length": "187.2 in (4755 mm)",
-               "Width": "71.5 in (1816 mm)",
-               "Height": "56 in (1422 mm)",
+               "Length": 187.2,
+               "Width": 71.5,
+               "Height": 56,
                "Front/rear Track": "60.3/61.7 in (1,532/1,567 mm)",
-               "Wheelbase": "109.3 in (2776 mm)",
-               "Cargo Volume": "10.7 cuFT (303 L)",
-               "Turning circle": "38.1 ft (11.6 m)"
+               "Wheelbase": 109.3,
+               "Cargo Volume": 10.7,
+               "Turning circle": 38.1
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.1 mpg US (10.2 L/100Km)",
-               "Highway": "34.1 mpg US (6.9 L/100Km)",
-               "Combined": "27 mpg US (8.7 L/100Km)"
+               "City": 23.1,
+               "Highway": 34.1,
+               "Combined": 27
           },
           "": {}
      },
@@ -898,7 +898,7 @@
 },{
      "model_name": "CADILLAC Lyriq 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS - 102 KWH (347 HP)": {
+          "ENGINE SPECS": {
                "Total maximum power": "255.2 kw (347 hp)",
                "Total maximum torque": "324.5 lb-ft (440 Nm)",
                "Fuel System": "Electric",
@@ -915,21 +915,21 @@
                "Tire Size": "265/50 R20"
           },
           "DIMENSIONS": {
-               "Length": "196.7 in (4996 mm)",
-               "Width": "86.9 in (2207 mm)",
-               "Height": "63.9 in (1623 mm)",
-               "Wheelbase": "153.7 in (3904 mm)",
-               "Ground Clearance": "7 in (178 mm)",
-               "Cargo Volume": "28 cuFT (793 L)",
-               "Turning circle": "39.7 ft (12.1 m)"
+               "Length": 196.7,
+               "Width": 86.9,
+               "Height": 63.9,
+               "Wheelbase": 153.7,
+               "Ground Clearance": 7,
+               "Cargo Volume": 28,
+               "Turning circle": 39.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5611 lbs (2545 kg)"
+               "Unladen Weight": 5611
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion NCMA cathode, blended graphite anode",
-               "Nominal Capacity": "102 kWh",
-               "Range": "300.1 miles (483.0 km)"
+               "Nominal Capacity": 102,
+               "Range": 300.1
           },
           "NOTES": {
                "7.7 kW Including dual-level charge cord": "Up to 34 Km (21 miles) of range per hour of charge\n240 V2 (11.5 kW AC): Up to 60 Km (37 miles) of range per hour of charge time\n240V3 (19.2 kW AC): Up to 84 Km (52 miles) of range per hour of charge time\nDC Fast Charge: Up to 122 Km (76 miles) of range in 10 minutes of charge time"
@@ -944,17 +944,17 @@
 },{
      "model_name": "CADILLAC Allante 1987-1993",
      "technical_specs": {
-          "ENGINE SPECS - 4.1L V8 4AT FWD (170 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4087 cm3",
+               "Displacement": 4087,
                "Power": "126.8 KW @ 4300 RPM\n172.4 HP @ 4300 RPM\n170 BHP @ 4300 RPM",
                "Torque": "235 lb-ft @ 3200 RPM\n319 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.2 s"
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -968,22 +968,22 @@
                "Tire Size": "225/55 VR 16"
           },
           "DIMENSIONS": {
-               "Length": "178.6 in (4536 mm)",
-               "Width": "73.4 in (1864 mm)",
-               "Height": "52 in (1321 mm)",
+               "Length": 178.6,
+               "Width": 73.4,
+               "Height": 52,
                "Front/rear Track": "60.5/60.5 in (1,537/1,537 mm)",
-               "Wheelbase": "99.4 in (2525 mm)",
-               "Ground Clearance": "6.2 in (157 mm)",
-               "Cargo Volume": "13 cuFT (368 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 99.4,
+               "Ground Clearance": 6.2,
+               "Cargo Volume": 13,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3492 lbs (1584 kg)"
+               "Unladen Weight": 3492
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16 mpg US (14.7 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)"
+               "City": 16,
+               "Highway": 24,
+               "Combined": 19
           },
           "": {}
      },
@@ -991,16 +991,16 @@
 },{
      "model_name": "2012 Cadillac ATS",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L TURBO AWD 6AT (276 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "203 KW @ 5500 RPM\n276 HP @ 5500 RPM\n272 BHP @ 5500 RPM",
                "Torque": "260 lb-ft @ 1700-5500 RPM\n353 Nm @ 1700-5500 RPM",
                "Fuel System": "direct high-pressure fuel injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1014,19 +1014,19 @@
                "Tire Size": "P225/45R17"
           },
           "DIMENSIONS": {
-               "Length": "182.8 in (4643 mm)",
-               "Width": "55.9 in (1420 mm)",
-               "Height": "71.1 in (1806 mm)",
+               "Length": 182.8,
+               "Width": 55.9,
+               "Height": 71.1,
                "Front/rear Track": "59.5/60.9 in (1,511/1,547 mm)",
-               "Wheelbase": "109.3 in (2776 mm)",
-               "Cargo Volume": "10.2 cuFT (289 L)"
+               "Wheelbase": 109.3,
+               "Cargo Volume": 10.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3543 lbs (1607 kg)"
+               "Unladen Weight": 3543
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "20 mpg US (11.8 L/100Km)",
-               "Highway": "30 mpg US (7.8 L/100Km)"
+               "City": 20,
+               "Highway": 30
           },
           "": {}
      },
@@ -1034,18 +1034,18 @@
 },{
      "model_name": "CADILLAC ATS Coupe 2014-2019",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L TURBO 6MT AWD (276 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "203 KW @ 5500 RPM\n276 HP @ 5500 RPM\n272 BHP @ 5500 RPM",
                "Torque": "295 lb-ft @ 3000-4600 RPM\n400 Nm @ 3000-4600 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "16 gallons (60.6 L)"
+               "Fuel capacity": 16
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "164 mph (264 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.5 s"
+               "Top Speed": 164,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1059,22 +1059,22 @@
                "Tire Size": "225/40R18"
           },
           "DIMENSIONS": {
-               "Length": "183.6 in (4663 mm)",
-               "Width": "72.5 in (1842 mm)",
-               "Height": "54.8 in (1392 mm)",
+               "Length": 183.6,
+               "Width": 72.5,
+               "Height": 54.8,
                "Front/rear Track": "60.3/61.7 in (1,532/1,567 mm)",
-               "Wheelbase": "109.3 in (2776 mm)",
-               "Ground Clearance": "5.7 in (145 mm)",
-               "Cargo Volume": "10.4 cuFT (294 L)",
-               "Aerodynamics (Cd)": "0.29"
+               "Wheelbase": 109.3,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 10.4,
+               "Aerodynamics (Cd)": 0.29
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3417 lbs (1550 kg)",
-               "Gross Weight Limit": "4519 lbs (2050 kg)"
+               "Unladen Weight": 3417,
+               "Gross Weight Limit": 4519
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "21 mpg US (11.2 L/100Km)",
-               "Highway": "31 mpg US (7.6 L/100Km)"
+               "City": 21,
+               "Highway": 31
           },
           "": {}
      },
@@ -1082,17 +1082,17 @@
 },{
      "model_name": "CADILLAC ATS-V 2015-2019",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 6MT (464 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3564 cm3",
+               "Displacement": 3564,
                "Power": "346 KW @ 5750 RPM\n470 HP @ 5750 RPM\n464 BHP @ 5750 RPM",
                "Torque": "444 lb-ft @ 603 RPM\n602 Nm @ 603 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "16 gallons (60.6 L)"
+               "Fuel capacity": 16
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "4 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1106,15 +1106,15 @@
                "Tire Size": "255/35Z R18 || 275/35Z R18"
           },
           "DIMENSIONS": {
-               "Length": "184 in (4674 mm)",
-               "Width": "71.3 in (1811 mm)",
-               "Height": "55.7 in (1415 mm)",
+               "Length": 184,
+               "Width": 71.3,
+               "Height": 55.7,
                "Front/rear Track": "60.6/60.5 in (1,539/1,537 mm)",
-               "Wheelbase": "109.3 in (2776 mm)",
-               "Cargo Volume": "9.4 cuFT (266 L)"
+               "Wheelbase": 109.3,
+               "Cargo Volume": 9.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3760 lbs (1706 kg)"
+               "Unladen Weight": 3760
           },
           "": {}
      },
@@ -1122,17 +1122,17 @@
 },{
      "model_name": "2016 Cadillac ATS-V Coupe",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 6MT (464 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3564 cm3",
+               "Displacement": 3564,
                "Power": "346 KW @ 5750 RPM\n470 HP @ 5750 RPM\n464 BHP @ 5750 RPM",
                "Torque": "444 lb-ft @ 3500 RPM\n602 Nm @ 3500 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "16.1 gallons (60.9 L)"
+               "Fuel capacity": 16.1
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1146,15 +1146,15 @@
                "Tire Size": "255/35Z R18 || 275/35Z R18"
           },
           "DIMENSIONS": {
-               "Length": "184.7 in (4691 mm)",
-               "Width": "72.5 in (1842 mm)",
-               "Height": "54.5 in (1384 mm)",
+               "Length": 184.7,
+               "Width": 72.5,
+               "Height": 54.5,
                "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
-               "Wheelbase": "109.3 in (2776 mm)",
-               "Cargo Volume": "10.4 cuFT (294 L)"
+               "Wheelbase": 109.3,
+               "Cargo Volume": 10.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3600 lbs (1633 kg)"
+               "Unladen Weight": 3600
           },
           "": {}
      },
@@ -1162,18 +1162,18 @@
 },{
      "model_name": "CADILLAC BLS 2006-2010",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L TURBO 5AT FWD (175 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "129 KW @ 5500 RPM\n175 HP @ 5500 RPM\n173 BHP @ 5500 RPM",
                "Torque": "265 lb-ft @ 2500 RPM\n359 Nm @ 2500 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.3 gallons (57.9 L)"
+               "Fuel capacity": 15.3
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "137 mph (220 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1187,23 +1187,23 @@
                "Tire Size": "215/55 VR16"
           },
           "DIMENSIONS": {
-               "Length": "184.3 in (4681 mm)",
-               "Width": "68.9 in (1750 mm)",
-               "Height": "57.9 in (1471 mm)",
+               "Length": 184.3,
+               "Width": 68.9,
+               "Height": 57.9,
                "Front/rear Track": "59.8/59.4 in (1,519/1,509 mm)",
-               "Wheelbase": "105.5 in (2680 mm)",
-               "Ground Clearance": "4.7 in (119 mm)",
-               "Cargo Volume": "15 cuFT (425 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 105.5,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 15,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3263 lbs (1480 kg)",
-               "Gross Weight Limit": "4431 lbs (2010 kg)"
+               "Unladen Weight": 3263,
+               "Gross Weight Limit": 4431
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18.2 mpg US (12.9 L/100Km)",
-               "Highway": "35.1 mpg US (6.7 L/100Km)",
-               "Combined": "26.1 mpg US (9 L/100Km)"
+               "City": 18.2,
+               "Highway": 35.1,
+               "Combined": 26.1
           },
           "": {}
      },
@@ -1211,18 +1211,18 @@
 },{
      "model_name": "CADILLAC BLS Wagon 2007-2010",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L TURBO 5AT (210 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "154.5 KW @ 5300 RPM\n210 HP @ 5300 RPM\n207 BHP @ 5300 RPM",
                "Torque": "221 lb-ft @ 2500-4000 RPM\n300 Nm @ 2500-4000 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.3 gallons (57.9 L)"
+               "Fuel capacity": 15.3
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "134 mph (216 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.6 s"
+               "Top Speed": 134,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1236,24 +1236,24 @@
                "Tire Size": "215/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "184.3 in (4681 mm)",
-               "Width": "68.9 in (1750 mm)",
-               "Height": "57.9 in (1471 mm)",
+               "Length": 184.3,
+               "Width": 68.9,
+               "Height": 57.9,
                "Front/rear Track": "59.8/59.4 in (1,519/1,509 mm)",
-               "Wheelbase": "105.5 in (2680 mm)",
-               "Ground Clearance": "4.7 in (119 mm)",
-               "Cargo Volume": "14.8 cuFT (419 L)",
-               "Aerodynamics (Cd)": "0.31",
-               "Turning circle": "35.4 ft (10.8 m)"
+               "Wheelbase": 105.5,
+               "Ground Clearance": 4.7,
+               "Cargo Volume": 14.8,
+               "Aerodynamics (Cd)": 0.31,
+               "Turning circle": 35.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3450 lbs (1565 kg)",
-               "Gross Weight Limit": "4630 lbs (2100 kg)"
+               "Unladen Weight": 3450,
+               "Gross Weight Limit": 4630
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17.2 mpg US (13.7 L/100Km)",
-               "Highway": "36.2 mpg US (6.5 L/100Km)",
-               "Combined": "25.8 mpg US (9.1 L/100Km)"
+               "City": 17.2,
+               "Highway": 36.2,
+               "Combined": 25.8
           },
           "": {}
      },
@@ -1261,9 +1261,9 @@
 },{
      "model_name": "CADILLAC Brougham 1992-1996",
      "technical_specs": {
-          "ENGINE SPECS - 5.7": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5733 cm3",
+               "Displacement": 5733,
                "Power": "138 KW @ 3800 RPM\n188 HP @ 3800 RPM\n185 BHP @ 3800 RPM",
                "Torque": "300 lb-ft @ 2400 RPM\n407 Nm @ 2400 RPM",
                "Fuel System": "Electronic Injection",
@@ -1274,32 +1274,32 @@
                "Gearbox": "Automatic, 4 Speed"
           },
           "DIMENSIONS": {
-               "Length": "221 in (5613 mm)",
-               "Width": "76.5 in (1943 mm)",
-               "Height": "57.4 in (1458 mm)",
+               "Length": 221,
+               "Width": 76.5,
+               "Height": 57.4,
                "Front/rear Track": "61.7/60.7 in (1,567/1,542 mm)",
-               "Wheelbase": "121.5 in (3086 mm)",
-               "Aerodynamics (Cd)": "0.49"
+               "Wheelbase": 121.5,
+               "Aerodynamics (Cd)": 0.49
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4277 lbs (1940 kg)"
+               "Unladen Weight": 4277
           }
      },
      "img": "images/CADILLAC Brougham 1992-199605-03-04-03-54.jpg"
 },{
      "model_name": "CADILLAC Catera 1997-2001",
      "technical_specs": {
-          "ENGINE SPECS - 3.0L V6 (200 HP) 4AT": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2962 cm3",
+               "Displacement": 2962,
                "Power": "149 KW @ 6000 RPM\n203 HP @ 6000 RPM\n200 BHP @ 6000 RPM",
                "Torque": "192 lb-ft @ 3600 RPM\n260 Nm @ 3600 RPM",
                "Fuel System": "Multipoint injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "125 mph (201 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
+               "Top Speed": 125,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1313,32 +1313,32 @@
                "Tire Size": "225/55 HR 16"
           },
           "DIMENSIONS": {
-               "Length": "193.8 in (4923 mm)",
-               "Width": "70.3 in (1786 mm)",
-               "Height": "57.4 in (1458 mm)",
+               "Length": 193.8,
+               "Width": 70.3,
+               "Height": 57.4,
                "Front/rear Track": "59.1/59.8 in (1,501/1,519 mm)",
-               "Wheelbase": "107.4 in (2728 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "16.6 cuFT (470 L)",
-               "Aerodynamics (Cd)": "0.33"
+               "Wheelbase": 107.4,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 16.6,
+               "Aerodynamics (Cd)": 0.33
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3770 lbs (1710 kg)",
-               "Gross Weight Limit": "4817 lbs (2185 kg)"
+               "Unladen Weight": 3770,
+               "Gross Weight Limit": 4817
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)",
-               "Combined": "21 mpg US (11.2 L/100Km)"
+               "City": 18,
+               "Highway": 25,
+               "Combined": 21
           }
      },
      "img": "images/CADILLAC Catera 1997-200105-03-04-03-56.jpg"
 },{
      "model_name": "2013 CADILLAC CTS",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L TURBO 6AT AWD (276 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "203 KW @ 5500 RPM\n276 HP @ 5500 RPM\n272 BHP @ 5500 RPM",
                "Torque": "295 lb-ft @ 1700-5500 RPM\n400 Nm @ 1700-5500 RPM",
                "Fuel System": "Direct Injection",
@@ -1356,19 +1356,19 @@
                "Tire Size": "245/45R17"
           },
           "DIMENSIONS": {
-               "Length": "195.5 in (4966 mm)",
-               "Width": "72.2 in (1834 mm)",
-               "Height": "57.7 in (1466 mm)",
+               "Length": 195.5,
+               "Width": 72.2,
+               "Height": 57.7,
                "Front/rear Track": "61.4/61.7 in (1,560/1,567 mm)",
-               "Wheelbase": "114.6 in (2911 mm)",
-               "Cargo Volume": "13.7 cuFT (388 L)"
+               "Wheelbase": 114.6,
+               "Cargo Volume": 13.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3616 lbs (1640 kg)"
+               "Unladen Weight": 3616
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "28 mpg US (8.4 L/100Km)"
+               "City": 18,
+               "Highway": 28
           },
           "": {}
      },
@@ -1376,18 +1376,18 @@
 },{
      "model_name": "CADILLAC CTS 2007-2013",
      "technical_specs": {
-          "ENGINE SPECS - 2.8L V6 6AT RWD (211 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2792 cm3",
+               "Displacement": 2792,
                "Power": "157 KW @ 6500 RPM\n213 HP @ 6500 RPM\n211 BHP @ 6500 RPM",
                "Torque": "194 lb-ft @ 3200 RPM\n263 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18 gallons (68.1 L)"
+               "Fuel capacity": 18
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "127 mph (204 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9 s"
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1401,20 +1401,20 @@
                "Tire Size": "235/55 R17"
           },
           "DIMENSIONS": {
-               "Length": "191.6 in (4867 mm)",
-               "Width": "62 in (1575 mm)",
-               "Height": "58 in (1473 mm)",
+               "Length": 191.6,
+               "Width": 62,
+               "Height": 58,
                "Front/rear Track": "61.8/62 in (1,570/1,575 mm)",
-               "Wheelbase": "113.4 in (2880 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "12.5 cuFT (354 L)"
+               "Wheelbase": 113.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 12.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3913 lbs (1775 kg)",
-               "Gross Weight Limit": "5203 lbs (2360 kg)"
+               "Unladen Weight": 3913,
+               "Gross Weight Limit": 5203
           },
           "FUEL ECONOMY (NEDC)": {
-               "CO2 Emissions": "263 g/km"
+               "CO2 Emissions": 263
           },
           "": {}
      },
@@ -1422,18 +1422,18 @@
 },{
      "model_name": "CADILLAC CTS 2002-2007",
      "technical_specs": {
-          "ENGINE SPECS - 2.6L V6 5AT RWD (178 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2597 cm3",
+               "Displacement": 2597,
                "Power": "133 KW @ 6000 RPM\n181 HP @ 6000 RPM\n178 BHP @ 6000 RPM",
                "Torque": "171 lb-ft @ 3400 RPM\n232 Nm @ 3400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "17.4 gallons (65.9 L)"
+               "Fuel capacity": 17.4
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "128 mph (206 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
+               "Top Speed": 128,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1447,23 +1447,23 @@
                "Tire Size": "225/55 HR 16"
           },
           "DIMENSIONS": {
-               "Length": "190.1 in (4829 mm)",
-               "Width": "70.7 in (1796 mm)",
-               "Height": "56.7 in (1440 mm)",
+               "Length": 190.1,
+               "Width": 70.7,
+               "Height": 56.7,
                "Front/rear Track": "60/60 in (1,524/1,524 mm)",
-               "Wheelbase": "113.4 in (2880 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "14.7 cuFT (416 L)"
+               "Wheelbase": 113.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3803 lbs (1725 kg)",
-               "Gross Weight Limit": "4685 lbs (2125 kg)"
+               "Unladen Weight": 3803,
+               "Gross Weight Limit": 4685
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16.3 mpg US (14.4 L/100Km)",
-               "Highway": "27.4 mpg US (8.6 L/100Km)",
-               "Combined": "22 mpg US (10.7 L/100Km)",
-               "CO2 Emissions": "254 g/km"
+               "City": 16.3,
+               "Highway": 27.4,
+               "Combined": 22,
+               "CO2 Emissions": 254
           },
           "": {}
      },
@@ -1471,16 +1471,16 @@
 },{
      "model_name": "CADILLAC CTS Coupe 2011-2014",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 AWD 6AT (322 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3564 cm3",
+               "Displacement": 3564,
                "Power": "237 KW @ 6800 RPM\n322 HP @ 6800 RPM\n318 BHP @ 6800 RPM",
                "Torque": "275 lb-ft @ 4900 RPM\n373 Nm @ 4900 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "7.3 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 7.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1494,21 +1494,21 @@
                "Tire Size": "P235/50R18 || P265/45R18"
           },
           "DIMENSIONS": {
-               "Length": "188.5 in (4788 mm)",
-               "Width": "74.1 in (1882 mm)",
-               "Height": "56 in (1422 mm)",
+               "Length": 188.5,
+               "Width": 74.1,
+               "Height": 56,
                "Front/rear Track": "62/63 in (1,575/1,600 mm)",
-               "Wheelbase": "113.4 in (2880 mm)",
-               "Cargo Volume": "10.5 cuFT (297 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 113.4,
+               "Cargo Volume": 10.5,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4096 lbs (1858 kg)"
+               "Unladen Weight": 4096
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "27 mpg US (8.7 L/100Km)",
-               "Combined": "21 mpg US (11.2 L/100Km)"
+               "City": 18,
+               "Highway": 27,
+               "Combined": 21
           },
           "": {}
      },
@@ -1516,18 +1516,18 @@
 },{
      "model_name": "CADILLAC CTS Sport Wagon 2009-2014",
      "technical_specs": {
-          "ENGINE SPECS - 3.0L V6 6AT (276 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2994 cm3",
+               "Displacement": 2994,
                "Power": "203 KW @ 7000 RPM\n276 HP @ 7000 RPM\n272 BHP @ 7000 RPM",
                "Torque": "223 lb-ft @ 5700 RPM\n302 Nm @ 5700 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18 gallons (68.1 L)"
+               "Fuel capacity": 18
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "140 mph (225 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1541,24 +1541,24 @@
                "Tire Size": "P235/50 R18"
           },
           "DIMENSIONS": {
-               "Length": "192 in (4877 mm)",
-               "Width": "72.5 in (1842 mm)",
-               "Height": "58 in (1473 mm)",
+               "Length": 192,
+               "Width": 72.5,
+               "Height": 58,
                "Front/rear Track": "61.8/62.2 in (1,570/1,580 mm)",
-               "Wheelbase": "113.4 in (2880 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "25.4 cuFT (719 L)",
-               "Aerodynamics (Cd)": "0.33"
+               "Wheelbase": 113.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 25.4,
+               "Aerodynamics (Cd)": 0.33
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4255 lbs (1930 kg)",
-               "Gross Weight Limit": "5203 lbs (2360 kg)"
+               "Unladen Weight": 4255,
+               "Gross Weight Limit": 5203
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14.5 mpg US (16.2 L/100Km)",
-               "Highway": "30.5 mpg US (7.7 L/100Km)",
-               "Combined": "21.8 mpg US (10.8 L/100Km)",
-               "CO2 Emissions": "249 g/km"
+               "City": 14.5,
+               "Highway": 30.5,
+               "Combined": 21.8,
+               "CO2 Emissions": 249
           },
           "": {}
      },
@@ -1566,17 +1566,17 @@
 },{
      "model_name": "CADILLAC CTS-V 2015-2019",
      "technical_specs": {
-          "ENGINE SPECS - 6.2 V8 8AT (640 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6162 cm3",
+               "Displacement": 6162,
                "Power": "477 KW @ 6400 RPM\n649 HP @ 6400 RPM\n640 BHP @ 6400 RPM",
                "Torque": "630 lb-ft @ 3600 RPM\n854 Nm @ 3600 RPM",
                "Fuel System": "Supercharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "200 mph (322 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
+               "Top Speed": 200,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1590,32 +1590,32 @@
                "Tire Size": "265/35 ZR 19 || 295/30 ZR 19"
           },
           "DIMENSIONS": {
-               "Length": "197.6 in (5019 mm)",
-               "Width": "72.2 in (1834 mm)",
-               "Height": "57.2 in (1453 mm)",
+               "Length": 197.6,
+               "Width": 72.2,
+               "Height": 57.2,
                "Front/rear Track": "62.1/61.2 in (1,577/1,554 mm)",
-               "Wheelbase": "114.6 in (2911 mm)"
+               "Wheelbase": 114.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4145 lbs (1880 kg)"
+               "Unladen Weight": 4145
           }
      },
      "img": "images/CADILLAC CTS-V 2015-201905-03-04-04-11.jpg"
 },{
      "model_name": "CADILLAC CTS-V 2008-2015",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L V8 6AT (550 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6162 cm3",
+               "Displacement": 6162,
                "Power": "404.5 KW @ 6100 RPM\n550 HP @ 6100 RPM\n542 BHP @ 6100 RPM",
                "Torque": "550 lb-ft @ 3800 RPM\n745 Nm @ 3800 RPM",
                "Fuel System": "Supercharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18 gallons (68.1 L)"
+               "Fuel capacity": 18
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "175 mph (282 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
+               "Top Speed": 175,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1629,24 +1629,24 @@
                "Tire Size": "255/40 ZR19 || 285/35 ZR19"
           },
           "DIMENSIONS": {
-               "Length": "191.6 in (4867 mm)",
-               "Width": "72.5 in (1842 mm)",
-               "Height": "58 in (1473 mm)",
+               "Length": 191.6,
+               "Width": 72.5,
+               "Height": 58,
                "Front/rear Track": "61.8/62 in (1,570/1,575 mm)",
-               "Wheelbase": "113.4 in (2880 mm)",
-               "Ground Clearance": "5 in (127 mm)",
-               "Cargo Volume": "13.6 cuFT (385 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 113.4,
+               "Ground Clearance": 5,
+               "Cargo Volume": 13.6,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4281 lbs (1942 kg)",
-               "Gross Weight Limit": "5335 lbs (2420 kg)"
+               "Unladen Weight": 4281,
+               "Gross Weight Limit": 5335
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "10.8 mpg US (21.8 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)",
-               "Combined": "16 mpg US (14.7 L/100Km)",
-               "CO2 Emissions": "350 g/km"
+               "City": 10.8,
+               "Highway": 22,
+               "Combined": 16,
+               "CO2 Emissions": 350
           },
           "": {}
      },
@@ -1654,17 +1654,17 @@
 },{
      "model_name": "CADILLAC CTS-V 2003-2007",
      "technical_specs": {
-          "ENGINE SPECS - 5.7L V8 6MT (400 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5665 cm3",
+               "Displacement": 5665,
                "Power": "298 KW @ 6000 RPM\n405 HP @ 6000 RPM\n400 BHP @ 6000 RPM",
                "Torque": "393 lb-ft @ 4800 RPM\n533 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "163 mph (262 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
+               "Top Speed": 163,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1678,40 +1678,40 @@
                "Tire Size": "245/45 WR18"
           },
           "DIMENSIONS": {
-               "Length": "191.5 in (4864 mm)",
-               "Width": "70.6 in (1793 mm)",
-               "Height": "57.2 in (1453 mm)",
+               "Length": 191.5,
+               "Width": 70.6,
+               "Height": 57.2,
                "Front/rear Track": "61.1/61.3 in (1,552/1,557 mm)",
-               "Wheelbase": "113.4 in (2880 mm)",
-               "Ground Clearance": "5.7 in (145 mm)",
-               "Cargo Volume": "12.4 cuFT (351 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 113.4,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 12.4,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3847.7 lbs (1745 kg)",
-               "Gross Weight Limit": "4685.6 lbs (2125 kg)"
+               "Unladen Weight": 3847.7,
+               "Gross Weight Limit": 4685.6
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14.5 mpg US (16.2 L/100Km)",
-               "Highway": "24.5 mpg US (9.6 L/100Km)",
-               "Combined": "17.8 mpg US (13.2 L/100Km)"
+               "City": 14.5,
+               "Highway": 24.5,
+               "Combined": 17.8
           }
      },
      "img": "images/CADILLAC CTS-V 2003-200705-03-04-04-15.jpg"
 },{
      "model_name": "CADILLAC CTS-V Coupe 2012-2015",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L SC V8 6AT RWD (564 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6162 cm3",
+               "Displacement": 6162,
                "Power": "415 KW @ 6100 RPM\n564 HP @ 6100 RPM\n557 BHP @ 6100 RPM",
                "Torque": "551 lb-ft @ 3800 RPM\n747 Nm @ 3800 RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "188 mph (303 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+               "Top Speed": 188,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1725,23 +1725,23 @@
                "Tire Size": "P255/40R19 || P285/35R19"
           },
           "DIMENSIONS": {
-               "Length": "188.5 in (4788 mm)",
-               "Width": "74.1 in (1882 mm)",
-               "Height": "56 in (1422 mm)",
+               "Length": 188.5,
+               "Width": 74.1,
+               "Height": 56,
                "Front/rear Track": "61.8/62.8 in (1,570/1,595 mm)",
-               "Wheelbase": "113.4 in (2880 mm)",
-               "Ground Clearance": "5.4 in (137 mm)",
-               "Cargo Volume": "10.5 cuFT (297 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 113.4,
+               "Ground Clearance": 5.4,
+               "Cargo Volume": 10.5,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4255 lbs (1930 kg)",
-               "Gross Weight Limit": "5004 lbs (2270 kg)"
+               "Unladen Weight": 4255,
+               "Gross Weight Limit": 5004
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "12 mpg US (19.6 L/100Km)",
-               "Highway": "18 mpg US (13.1 L/100Km)",
-               "Combined": "14 mpg US (16.8 L/100Km)"
+               "City": 12,
+               "Highway": 18,
+               "Combined": 14
           },
           "": {}
      },
@@ -1749,17 +1749,17 @@
 },{
      "model_name": "CADILLAC CTS-V Sport Wagon 2010-2014",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L SC V8 RWD 6AT (564 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6162 cm3",
+               "Displacement": 6162,
                "Power": "415 KW @ 6100 RPM\n564 HP @ 6100 RPM\n557 BHP @ 6100 RPM",
                "Torque": "551 lb-ft @ 3800 RPM\n747 Nm @ 3800 RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "188 mph (303 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4 s"
+               "Top Speed": 188,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1773,23 +1773,23 @@
                "Tire Size": "P255/40R19 || P285/35R19"
           },
           "DIMENSIONS": {
-               "Length": "192 in (4877 mm)",
-               "Width": "72.5 in (1842 mm)",
-               "Height": "58 in (1473 mm)",
+               "Length": 192,
+               "Width": 72.5,
+               "Height": 58,
                "Front/rear Track": "61.8/62.2 in (1,570/1,580 mm)",
-               "Wheelbase": "113.4 in (2880 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "25.4 cuFT (719 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 113.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 25.4,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4425 lbs (2007 kg)",
-               "Gross Weight Limit": "5247 lbs (2380 kg)"
+               "Unladen Weight": 4425,
+               "Gross Weight Limit": 5247
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "12 mpg US (19.6 L/100Km)",
-               "Highway": "18 mpg US (13.1 L/100Km)",
-               "Combined": "14 mpg US (16.8 L/100Km)"
+               "City": 12,
+               "Highway": 18,
+               "Combined": 14
           },
           "": {}
      },
@@ -1797,17 +1797,17 @@
 },{
      "model_name": "CADILLAC DeVille 1999-2005",
      "technical_specs": {
-          "ENGINE SPECS - 4.6L V8 4AT (279 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4565 cm3",
+               "Displacement": 4565,
                "Power": "205 KW @ 5600 RPM\n279 HP @ 5600 RPM\n275 BHP @ 5600 RPM",
                "Torque": "300 lb-ft @ 4000 RPM\n407 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "111.9 mph (180 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8 s"
+               "Top Speed": 111.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1821,21 +1821,21 @@
                "Tire Size": "Front 225/60 SR 16 Rear 225/60 R 16"
           },
           "DIMENSIONS": {
-               "Length": "207 in (5258 mm)",
-               "Width": "74.4 in (1890 mm)",
-               "Height": "56.7 in (1440 mm)",
+               "Length": 207,
+               "Width": 74.4,
+               "Height": 56.7,
                "Front/rear Track": "62.7/62.4 in (1,593/1,585 mm)",
-               "Wheelbase": "115.3 in (2929 mm)",
-               "Cargo Volume": "18.9 cuFT (535 L)",
-               "Aerodynamics (Cd)": "0.35"
+               "Wheelbase": 115.3,
+               "Cargo Volume": 18.9,
+               "Aerodynamics (Cd)": 0.35
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4017.5 lbs (1822 kg)"
+               "Unladen Weight": 4017.5
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "28.7 mpg US (8.2 L/100Km)",
-               "Combined": "21.4 mpg US (11 L/100Km)"
+               "City": 18,
+               "Highway": 28.7,
+               "Combined": 21.4
           },
           "": {}
      },
@@ -1843,16 +1843,16 @@
 },{
      "model_name": "CADILLAC DeVille 1994-1999",
      "technical_specs": {
-          "ENGINE SPECS - 4.6": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4565 cm3",
+               "Displacement": 4565,
                "Power": "224 KW @ 6000 RPM\n304 HP @ 6000 RPM\n300 BHP @ 6000 RPM",
                "Torque": "295 lb-ft @ 4400 RPM\n400 Nm @ 4400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "6.9 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 6.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1866,33 +1866,33 @@
                "Tire Size": "225/60 R 16"
           },
           "DIMENSIONS": {
-               "Length": "209.8 in (5329 mm)",
-               "Width": "76.5 in (1943 mm)",
-               "Height": "56 in (1422 mm)",
+               "Length": 209.8,
+               "Width": 76.5,
+               "Height": 56,
                "Front/rear Track": "60.9/60.9 in (1,547/1,547 mm)",
-               "Wheelbase": "113.8 in (2891 mm)",
-               "Ground Clearance": "5.8 in (147 mm)"
+               "Wheelbase": 113.8,
+               "Ground Clearance": 5.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4063 lbs (1843 kg)"
+               "Unladen Weight": 4063
           }
      },
      "img": "images/CADILLAC DeVille 1994-199905-03-04-04-23.jpg"
 },{
      "model_name": "CADILLAC DTS 2008-2011",
      "technical_specs": {
-          "ENGINE SPECS - 4.6L V8 4AT (279 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4565 cm3",
+               "Displacement": 4565,
                "Power": "205 KW @ 5200 RPM\n279 HP @ 5200 RPM\n275 BHP @ 5200 RPM",
                "Torque": "288 lb-ft @ 4400 RPM\n390 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.1 s"
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1906,23 +1906,23 @@
                "Tire Size": "P235/55 R17"
           },
           "DIMENSIONS": {
-               "Length": "207.6 in (5273 mm)",
-               "Width": "74.8 in (1900 mm)",
-               "Height": "57.6 in (1463 mm)",
+               "Length": 207.6,
+               "Width": 74.8,
+               "Height": 57.6,
                "Front/rear Track": "62.5/61.7 in (1,588/1,567 mm)",
-               "Wheelbase": "115.6 in (2936 mm)",
-               "Ground Clearance": "5.3 in (135 mm)",
-               "Cargo Volume": "18.8 cuFT (532 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 115.6,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 18.8,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4009 lbs (1818 kg)",
-               "Gross Weight Limit": "5347 lbs (2425 kg)"
+               "Unladen Weight": 4009,
+               "Gross Weight Limit": 5347
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)",
-               "Combined": "18.5 mpg US (12.7 L/100Km)"
+               "City": 15,
+               "Highway": 22,
+               "Combined": 18.5
           },
           "": {}
      },
@@ -1930,17 +1930,17 @@
 },{
      "model_name": "CADILLAC DTS 2005-2007",
      "technical_specs": {
-          "ENGINE SPECS - 4.6L V8 4AT (275 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4565 cm3",
+               "Displacement": 4565,
                "Power": "205.1 KW @ 5200 RPM\n278.8 HP @ 5200 RPM\n275 BHP @ 5200 RPM",
                "Torque": "295 lb-ft @ 4400 RPM\n400 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.3 s"
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1954,22 +1954,22 @@
                "Tire Size": "235/55 R17"
           },
           "DIMENSIONS": {
-               "Length": "207.6 in (5273 mm)",
-               "Width": "74.8 in (1900 mm)",
-               "Height": "57.6 in (1463 mm)",
+               "Length": 207.6,
+               "Width": 74.8,
+               "Height": 57.6,
                "Front/rear Track": "62.5/61.7 in (1,588/1,567 mm)",
-               "Wheelbase": "115.6 in (2936 mm)",
-               "Cargo Volume": "18.6 cuFT (527 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 115.6,
+               "Cargo Volume": 18.6,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4008.7 lbs (1818 kg)",
-               "Gross Weight Limit": "5347.1 lbs (2425 kg)"
+               "Unladen Weight": 4008.7,
+               "Gross Weight Limit": 5347.1
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)",
-               "Combined": "20 mpg US (11.8 L/100Km)"
+               "City": 17,
+               "Highway": 25,
+               "Combined": 20
           },
           "": {}
      },
@@ -1977,16 +1977,16 @@
 },{
      "model_name": "1992 Cadillac Eldorado TC",
      "technical_specs": {
-          "ENGINE SPECS - 4.6L 4AT FWD (279 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4565 cm3",
+               "Displacement": 4565,
                "Power": "205 KW @ 5600 RPM\n279 HP @ 5600 RPM\n275 BHP @ 5600 RPM",
                "Torque": "300 lb-ft @ 4400 RPM\n407 Nm @ 4400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "7.4 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2000,21 +2000,21 @@
                "Tire Size": "235/60 R 16"
           },
           "DIMENSIONS": {
-               "Length": "200.6 in (5095 mm)",
-               "Width": "75.5 in (1918 mm)",
-               "Height": "53.6 in (1361 mm)",
+               "Length": 200.6,
+               "Width": 75.5,
+               "Height": 53.6,
                "Front/rear Track": "60.9/60.9 in (1,547/1,547 mm)",
-               "Wheelbase": "108 in (2743 mm)",
-               "Cargo Volume": "15.2 cuFT (430 L)"
+               "Wheelbase": 108,
+               "Cargo Volume": 15.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3814.7 lbs (1730 kg)",
-               "Gross Weight Limit": "4972.3 lbs (2255 kg)"
+               "Unladen Weight": 3814.7,
+               "Gross Weight Limit": 4972.3
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "27 mpg US (8.7 L/100Km)",
-               "Combined": "24 mpg US (9.8 L/100Km)"
+               "City": 18,
+               "Highway": 27,
+               "Combined": 24
           },
           "": {}
      },
@@ -2022,16 +2022,16 @@
 },{
      "model_name": "CADILLAC Eldorado 1971-1978",
      "technical_specs": {
-          "ENGINE SPECS - 8.2": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "8189 cm3",
+               "Displacement": 8189,
                "Power": "272 KW @ 4400 RPM\n370 HP @ 4400 RPM\n365 BHP @ 4400 RPM",
                "Torque": "535 lb-ft @ 2800 RPM\n725 Nm @ 2800 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "120 mph (193 km/h)"
+               "Top Speed": 120
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2042,30 +2042,30 @@
                "Rear": "Drums"
           },
           "DIMENSIONS": {
-               "Length": "211.5 in (5372 mm)",
-               "Width": "80 in (2032 mm)",
-               "Height": "53.5 in (1359 mm)",
+               "Length": 211.5,
+               "Width": 80,
+               "Height": 53.5,
                "Front/rear Track": "63.7/63.5 in (1,618/1,613 mm)",
-               "Wheelbase": "126.3 in (3208 mm)"
+               "Wheelbase": 126.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "6283 lbs (2850 kg)"
+               "Unladen Weight": 6283
           }
      },
      "img": "images/CADILLAC Eldorado 1971-197805-03-04-04-30.jpg"
 },{
      "model_name": "CADILLAC Eldorado 1967-1970",
      "technical_specs": {
-          "ENGINE SPECS - 7.7": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "7725 cm3",
+               "Displacement": 7725,
                "Power": "280 KW @ 4400 RPM\n380 HP @ 4400 RPM\n375 BHP @ 4400 RPM",
                "Torque": "525 lb-ft @ 3000 RPM\n712 Nm @ 3000 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "128 mph (206 km/h)"
+               "Top Speed": 128
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2076,30 +2076,30 @@
                "Rear": "Drums"
           },
           "DIMENSIONS": {
-               "Length": "221 in (5613 mm)",
-               "Width": "79 in (2007 mm)",
-               "Height": "53.1 in (1349 mm)",
+               "Length": 221,
+               "Width": 79,
+               "Height": 53.1,
                "Front/rear Track": "63.5/63 in (1,613/1,600 mm)",
-               "Wheelbase": "120 in (3048 mm)"
+               "Wheelbase": 120
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4696 lbs (2130 kg)"
+               "Unladen Weight": 4696
           }
      },
      "img": "images/CADILLAC Eldorado 1967-197005-03-04-04-32.jpg"
 },{
      "model_name": "1959 Cadillac Eldorado Convertible",
      "technical_specs": {
-          "ENGINE SPECS - 6.4L V8 3AT (350 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6382 cm3",
+               "Displacement": 6382,
                "Power": "257 KW @ 4800 RPM\n350 HP @ 4800 RPM\n345 BHP @ 4800 RPM",
                "Torque": "435 lb-ft @ 3400 RPM\n590 Nm @ 3400 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "115 mph (185 km/h)"
+               "Top Speed": 115
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2113,23 +2113,23 @@
                "Tire Size": "8.20 X 15"
           },
           "DIMENSIONS": {
-               "Length": "225 in (5715 mm)",
-               "Width": "80.3 in (2040 mm)",
-               "Height": "54.4 in (1382 mm)",
+               "Length": 225,
+               "Width": 80.3,
+               "Height": 54.4,
                "Front/rear Track": "61/61 in (1,549/1,549 mm)",
-               "Wheelbase": "130 in (3302 mm)"
+               "Wheelbase": 130
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5060 lbs (2295 kg)"
+               "Unladen Weight": 5060
           }
      },
      "img": "images/1959 Cadillac Eldorado Convertible05-03-04-04-33.jpg"
 },{
      "model_name": "CADILLAC Eldorado Brougham 1957-1959",
      "technical_specs": {
-          "ENGINE SPECS - 6.0L V8 3AT (330 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5873 cm3",
+               "Displacement": 5873,
                "Power": "242 KW @ 4800 RPM\n330 HP @ 4800 RPM\n325 BHP @ 4800 RPM",
                "Torque": "400 lb-ft @ 3300 RPM\n542 Nm @ 3300 RPM",
                "Fuel System": "Carburetor",
@@ -2147,31 +2147,31 @@
                "Tire Size": "8.40 X 15"
           },
           "DIMENSIONS": {
-               "Length": "216.3 in (5494 mm)",
-               "Width": "78.3 in (1989 mm)",
-               "Height": "55.5 in (1410 mm)",
-               "Wheelbase": "126 in (3200 mm)",
-               "Ground Clearance": "5.3 in (135 mm)"
+               "Length": 216.3,
+               "Width": 78.3,
+               "Height": 55.5,
+               "Wheelbase": 126,
+               "Ground Clearance": 5.3
           }
      },
      "img": "images/CADILLAC Eldorado Brougham 1957-195905-03-04-04-35.jpg"
 },{
      "model_name": "CADILLAC ELR 2014-2016",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L CVT (207 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1398 cm3",
+               "Displacement": 1398,
                "Power": "63 KW @ 4800 RPM\n86 HP @ 4800 RPM\n84 BHP @ 4800 RPM",
                "Torque": "295 lb-ft @ - RPM\n400 Nm @ - RPM",
                "Electrical motor power": "174.3 kw (237 hp)",
                "Electrical motor torque": "373.2 lb-ft (506 Nm)",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Hybrid",
-               "Fuel capacity": "9.3 gallons (35.2 L)"
+               "Fuel capacity": 9.3
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.8 s"
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2185,26 +2185,26 @@
                "Tire Size": "245/40R20"
           },
           "DIMENSIONS": {
-               "Length": "186 in (4724 mm)",
-               "Width": "72.7 in (1847 mm)",
-               "Height": "55.9 in (1420 mm)",
+               "Length": 186,
+               "Width": 72.7,
+               "Height": 55.9,
                "Front/rear Track": "62.1/62.4 in (1,577/1,585 mm)",
-               "Wheelbase": "106.1 in (2695 mm)",
-               "Ground Clearance": "4.2 in (107 mm)",
-               "Cargo Volume": "9 cuFT (255 L)",
-               "Aerodynamics (Cd)": "0.3"
+               "Wheelbase": 106.1,
+               "Ground Clearance": 4.2,
+               "Cargo Volume": 9,
+               "Aerodynamics (Cd)": 0.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4050 lbs (1837 kg)"
+               "Unladen Weight": 4050
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "31 mpg US (7.6 L/100Km)",
-               "Highway": "35 mpg US (6.7 L/100Km)",
-               "Combined": "33 mpg US (7.1 L/100Km)"
+               "City": 31,
+               "Highway": 35,
+               "Combined": 33
           },
           "POWER SYSTEM SPECS": {
-               "Nominal Capacity": "17.1 kWh",
-               "Range": "39.1 miles (62.9 km)"
+               "Nominal Capacity": 17.1,
+               "Range": 39.1
           },
           "NOTES": {
                "Front-wheel-drive, two-door coupe extended-range electric vehicle\n\nPower": "154 kW / 207 HP (total system power)\nTorque: 295 lb-ft / 400 Nm\n\nCharging times\n\n- 120 V (travel charger): about 12hours (actual charge times may vary)\n- 240 V (charging station): about 4.5 hours (actual charge times may vary)\n\nEV range (combined city/hwy): about 35 miles (56 km)\nEV / Extended range: More than 300 miles / 480 km, including EV on fully charged battery and full tank of fuel (est.)"
@@ -2214,16 +2214,16 @@
 },{
      "model_name": "CADILLAC Escalade EXT 2006-2013",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L V8 6AT (409 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6199 cm3",
+               "Displacement": 6199,
                "Power": "301 KW @ 5700 RPM\n409 HP @ 5700 RPM\n404 BHP @ 5700 RPM",
                "Torque": "417 lb-ft @ 4400 RPM\n565 Nm @ 4400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "107 mph (172 km/h)"
+               "Top Speed": 107
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2237,26 +2237,26 @@
                "Tire Size": "P265/65R18 AL2"
           },
           "DIMENSIONS": {
-               "Length": "222 in (5639 mm)",
-               "Width": "79.1 in (2009 mm)",
-               "Height": "74.5 in (1892 mm)",
+               "Length": 222,
+               "Width": 79.1,
+               "Height": 74.5,
                "Front/rear Track": "68.1/67 in (1,730/1,702 mm)",
-               "Wheelbase": "130 in (3302 mm)",
-               "Ground Clearance": "9.2 in (234 mm)",
-               "Cargo Volume": "54.3 cuFT (1538 L)"
+               "Wheelbase": 130,
+               "Ground Clearance": 9.2,
+               "Cargo Volume": 54.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5774.9 lbs (2619 kg)",
-               "Gross Weight Limit": "7000.9 lbs (3176 kg)"
+               "Unladen Weight": 5774.9,
+               "Gross Weight Limit": 7000.9
           }
      },
      "img": "images/CADILLAC Escalade EXT 2006-201305-03-04-04-38.jpg"
 },{
      "model_name": "CADILLAC Escalade EXT 2001-2006",
      "technical_specs": {
-          "ENGINE SPECS - 6.0": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5967 cm3",
+               "Displacement": 5967,
                "Power": "257 KW @ 5200 RPM\n350 HP @ 5200 RPM\n345 BHP @ 5200 RPM",
                "Torque": "380 lb-ft @ 4000 RPM\n515 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
@@ -2274,30 +2274,30 @@
                "Tire Size": "265/70R 17"
           },
           "DIMENSIONS": {
-               "Length": "221.4 in (5624 mm)",
-               "Width": "79.5 in (2019 mm)",
-               "Height": "75.6 in (1920 mm)",
+               "Length": 221.4,
+               "Width": 79.5,
+               "Height": 75.6,
                "Front/rear Track": "65/66 in (1,651/1,676 mm)",
-               "Wheelbase": "130 in (3302 mm)",
-               "Ground Clearance": "96.1 in (2441 mm)"
+               "Wheelbase": 130,
+               "Ground Clearance": 96.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5814.6 lbs (2637 kg)",
-               "Gross Weight Limit": "7000 lbs (3175 kg)"
+               "Unladen Weight": 5814.6,
+               "Gross Weight Limit": 7000
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13 mpg US (18.1 L/100Km)",
-               "Highway": "17 mpg US (13.8 L/100Km)",
-               "Combined": "15 mpg US (15.7 L/100Km)"
+               "City": 13,
+               "Highway": 17,
+               "Combined": 15
           }
      },
      "img": "images/CADILLAC Escalade EXT 2001-200605-03-04-04-40.jpg"
 },{
      "model_name": "CADILLAC Runabout 1903-1904",
      "technical_specs": {
-          "ENGINE SPECS - 1.6": {
+          "ENGINE SPECS": {
                "Cylinders": "1",
-               "Displacement": "1609 cm3",
+               "Displacement": 1609,
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
@@ -2313,31 +2313,31 @@
                "Tire Size": "28 X 3"
           },
           "DIMENSIONS": {
-               "Length": "111 in (2819 mm)",
-               "Height": "60 in (1524 mm)",
+               "Length": 111,
+               "Height": 60,
                "Front/rear Track": "54.5/54.5 in (1,384/1,384 mm)",
-               "Wheelbase": "72 in (1829 mm)"
+               "Wheelbase": 72
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "1369 lbs (621 kg)"
+               "Unladen Weight": 1369
           }
      },
      "img": "images/CADILLAC Runabout 1903-190405-03-04-04-41.jpg"
 },{
      "model_name": "CADILLAC Seville 1998-2004",
      "technical_specs": {
-          "ENGINE SPECS - 4.6L V8 4AT (275 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4565 cm3",
+               "Displacement": 4565,
                "Power": "205 KW @ 5600 RPM\n279 HP @ 5600 RPM\n275 BHP @ 5600 RPM",
                "Torque": "300 lb-ft @ 4400 RPM\n407 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8 s"
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2351,23 +2351,23 @@
                "Tire Size": "235/60R 16"
           },
           "DIMENSIONS": {
-               "Length": "201 in (5105 mm)",
-               "Width": "75 in (1905 mm)",
-               "Height": "55.4 in (1407 mm)",
+               "Length": 201,
+               "Width": 75,
+               "Height": 55.4,
                "Front/rear Track": "62.7/62.4 in (1,593/1,585 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "15.6 cuFT (442 L)",
-               "Aerodynamics (Cd)": "0.33"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 15.6,
+               "Aerodynamics (Cd)": 0.33
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3991.1 lbs (1810 kg)",
-               "Gross Weight Limit": "5038.4 lbs (2285 kg)"
+               "Unladen Weight": 3991.1,
+               "Gross Weight Limit": 5038.4
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "26 mpg US (9 L/100Km)",
-               "Combined": "20 mpg US (11.8 L/100Km)"
+               "City": 18,
+               "Highway": 26,
+               "Combined": 20
           },
           "": {}
      },
@@ -2375,9 +2375,9 @@
 },{
      "model_name": "CADILLAC Seville 1992-1997",
      "technical_specs": {
-          "ENGINE SPECS - 4.9": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4893 cm3",
+               "Displacement": 4893,
                "Power": "149 KW @ 4100 RPM\n203 HP @ 4100 RPM\n200 BHP @ 4100 RPM",
                "Torque": "275 lb-ft @ 3000 RPM\n373 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -2388,32 +2388,32 @@
                "Gearbox": "Automatic, 4 Speed"
           },
           "DIMENSIONS": {
-               "Length": "204.4 in (5192 mm)",
-               "Width": "74.4 in (1890 mm)",
-               "Height": "54 in (1372 mm)",
+               "Length": 204.4,
+               "Width": 74.4,
+               "Height": 54,
                "Front/rear Track": "60.9/60.9 in (1,547/1,547 mm)",
-               "Wheelbase": "111 in (2819 mm)"
+               "Wheelbase": 111
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3651 lbs (1656 kg)"
+               "Unladen Weight": 3651
           }
      },
      "img": "images/CADILLAC Seville 1992-199705-03-04-04-45.jpg"
 },{
      "model_name": "CADILLAC SRX 2009-2016",
      "technical_specs": {
-          "ENGINE SPECS - 2.8L V6 6AT AWD (300 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2792 cm3",
+               "Displacement": 2792,
                "Power": "224.3 KW @ 5500 RPM\n305 HP @ 5500 RPM\n301 BHP @ 5500 RPM",
                "Torque": "295 lb-ft @ 2000 RPM\n400 Nm @ 2000 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "20.6 gallons (78.0 L)"
+               "Fuel capacity": 20.6
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.6 s"
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2427,24 +2427,24 @@
                "Tire Size": "P235/65 R18"
           },
           "DIMENSIONS": {
-               "Length": "190.2 in (4831 mm)",
-               "Width": "75.1 in (1908 mm)",
-               "Height": "65.6 in (1666 mm)",
+               "Length": 190.2,
+               "Width": 75.1,
+               "Height": 65.6,
                "Front/rear Track": "64/63.7 in (1,626/1,618 mm)",
-               "Wheelbase": "110.5 in (2807 mm)",
-               "Ground Clearance": "7 in (178 mm)",
-               "Cargo Volume": "29.2 cuFT (827 L)",
-               "Aerodynamics (Cd)": "0.35",
-               "Turning circle": "39.7 ft (12.1 m)"
+               "Wheelbase": 110.5,
+               "Ground Clearance": 7,
+               "Cargo Volume": 29.2,
+               "Aerodynamics (Cd)": 0.35,
+               "Turning circle": 39.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4308 lbs (1954 kg)",
-               "Gross Weight Limit": "5467 lbs (2480 kg)"
+               "Unladen Weight": 4308,
+               "Gross Weight Limit": 5467
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)",
-               "Combined": "18 mpg US (13.1 L/100Km)"
+               "City": 15,
+               "Highway": 22,
+               "Combined": 18
           },
           "": {}
      },
@@ -2452,18 +2452,18 @@
 },{
      "model_name": "CADILLAC SRX 2005-2009",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 5AT (264 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3564 cm3",
+               "Displacement": 3564,
                "Power": "194 KW @ 6500 RPM\n264 HP @ 6500 RPM\n260 BHP @ 6500 RPM",
                "Torque": "250 lb-ft @ 2700-3200 RPM\n339 Nm @ 2700-3200 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124.9 mph (201 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8.1 s"
+               "Top Speed": 124.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 8.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2477,21 +2477,21 @@
                "Tire Size": "Front 235/65 R17 Rear 255/60 R17"
           },
           "DIMENSIONS": {
-               "Length": "194.9 in (4950 mm)",
-               "Width": "72.6 in (1844 mm)",
-               "Height": "67.8 in (1722 mm)",
+               "Length": 194.9,
+               "Width": 72.6,
+               "Height": 67.8,
                "Front/rear Track": "61.7/61.7 in (1,567/1,567 mm)",
-               "Wheelbase": "116.4 in (2957 mm)",
-               "Ground Clearance": "8.2 in (208 mm)",
-               "Cargo Volume": "68.9 cuFT (1951 L)"
+               "Wheelbase": 116.4,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 68.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4229.2 lbs (1918 kg)"
+               "Unladen Weight": 4229.2
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "12.6 mpg US (18.7 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)",
-               "Combined": "18.1 mpg US (13 L/100Km)"
+               "City": 12.6,
+               "Highway": 24,
+               "Combined": 18.1
           },
           "": {}
      },
@@ -2499,18 +2499,18 @@
 },{
      "model_name": "CADILLAC STS 2007-2010",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 6AT (306 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3564 cm3",
+               "Displacement": 3564,
                "Power": "225 KW @ 6300 RPM\n306 HP @ 6300 RPM\n302 BHP @ 6300 RPM",
                "Torque": "272 lb-ft @ 5200 RPM\n369 Nm @ 5200 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "17.4 gallons (65.9 L)"
+               "Fuel capacity": 17.4
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "142 mph (229 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.4 s"
+               "Top Speed": 142,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2524,21 +2524,21 @@
                "Tire Size": "P255/45R18"
           },
           "DIMENSIONS": {
-               "Length": "196.3 in (4986 mm)",
-               "Width": "72.6 in (1844 mm)",
-               "Height": "57.6 in (1463 mm)",
+               "Length": 196.3,
+               "Width": 72.6,
+               "Height": 57.6,
                "Front/rear Track": "61.8/62.3 in (1,570/1,582 mm)",
-               "Wheelbase": "116.4 in (2957 mm)",
-               "Ground Clearance": "8.2 in (208 mm)",
-               "Cargo Volume": "13.8 cuFT (391 L)"
+               "Wheelbase": 116.4,
+               "Ground Clearance": 8.2,
+               "Cargo Volume": 13.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3940 lbs (1787 kg)"
+               "Unladen Weight": 3940
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18 mpg US (13.1 L/100Km)",
-               "Highway": "27 mpg US (8.7 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)"
+               "City": 18,
+               "Highway": 27,
+               "Combined": 19
           },
           "": {}
      },
@@ -2546,17 +2546,17 @@
 },{
      "model_name": "CADILLAC STS-V 2006-2007",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 5AT RWD (257 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3564 cm3",
+               "Displacement": 3564,
                "Power": "189 KW @ 6500 RPM\n257 HP @ 6500 RPM\n253 BHP @ 6500 RPM",
                "Torque": "252 lb-ft @ 3200 RPM\n342 Nm @ 3200 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "142.3 mph (229 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.4 s"
+               "Top Speed": 142.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2570,21 +2570,21 @@
                "Tire Size": "235/50R17 (front) 255/45R17 (rear)"
           },
           "DIMENSIONS": {
-               "Length": "197.6 in (5019 mm)",
-               "Width": "72.6 in (1844 mm)",
-               "Height": "58.2 in (1478 mm)",
+               "Length": 197.6,
+               "Width": 72.6,
+               "Height": 58.2,
                "Front/rear Track": "66/61.9 in (1,676/1,572 mm)",
-               "Wheelbase": "116.4 in (2957 mm)",
-               "Cargo Volume": "13.7 cuFT (388 L)"
+               "Wheelbase": 116.4,
+               "Cargo Volume": 13.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4295.3 lbs (1948 kg)"
+               "Unladen Weight": 4295.3
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "13.3 mpg US (17.7 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)",
-               "Combined": "19 mpg US (12.4 L/100Km)",
-               "CO2 Emissions": "295 g/km"
+               "City": 13.3,
+               "Highway": 25,
+               "Combined": 19,
+               "CO2 Emissions": 295
           },
           "": {}
      },
@@ -2592,16 +2592,16 @@
 },{
      "model_name": "CADILLAC STS 2004-2007",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 5AT AWD (256 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3564 cm3",
+               "Displacement": 3564,
                "Power": "189 KW @ 6500 RPM\n257 HP @ 6500 RPM\n253 BHP @ 6500 RPM",
                "Torque": "250 lb-ft @ 3200 RPM\n339 Nm @ 3200 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "142 mph (229 km/h)"
+               "Top Speed": 142
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2615,21 +2615,21 @@
                "Tire Size": "235/50 R17 // 255/45 R17"
           },
           "DIMENSIONS": {
-               "Length": "196.3 in (4986 mm)",
-               "Width": "72.6 in (1844 mm)",
-               "Height": "57.6 in (1463 mm)",
+               "Length": 196.3,
+               "Width": 72.6,
+               "Height": 57.6,
                "Front/rear Track": "61.7/62.2 in (1,567/1,580 mm)",
-               "Wheelbase": "116.4 in (2957 mm)",
-               "Ground Clearance": "6.3 in (160 mm)",
-               "Cargo Volume": "16.2 cuFT (459 L)"
+               "Wheelbase": 116.4,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 16.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3858.8 lbs (1750 kg)",
-               "Gross Weight Limit": "5378 lbs (2439 kg)"
+               "Unladen Weight": 3858.8,
+               "Gross Weight Limit": 5378
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "16.9 mpg US (13.9 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)"
+               "City": 16.9,
+               "Highway": 25
           },
           "": {}
      },
@@ -2637,17 +2637,17 @@
 },{
      "model_name": "CADILLAC XLR 2008-2009",
      "technical_specs": {
-          "ENGINE SPECS - 4.6 V8 5AT (325 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4565 cm3",
+               "Displacement": 4565,
                "Power": "239 KW @ 6400 RPM\n325 HP @ 6400 RPM\n321 BHP @ 6400 RPM",
                "Torque": "310 lb-ft @ 4400 RPM\n420 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2661,40 +2661,40 @@
                "Tire Size": "P235/50R18"
           },
           "DIMENSIONS": {
-               "Length": "177.7 in (4514 mm)",
-               "Width": "72.3 in (1836 mm)",
-               "Height": "50.4 in (1280 mm)",
+               "Length": 177.7,
+               "Width": 72.3,
+               "Height": 50.4,
                "Front/rear Track": "61.6/62.1 in (1,565/1,577 mm)",
-               "Wheelbase": "105.7 in (2685 mm)",
-               "Ground Clearance": "5.3 in (135 mm)",
-               "Cargo Volume": "4.4 cuFT (125 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 105.7,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 4.4,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3726 lbs (1690 kg)",
-               "Gross Weight Limit": "4508 lbs (2045 kg)"
+               "Unladen Weight": 3726,
+               "Gross Weight Limit": 4508
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "24 mpg US (9.8 L/100Km)",
-               "Combined": "19.5 mpg US (12.1 L/100Km)"
+               "City": 15,
+               "Highway": 24,
+               "Combined": 19.5
           }
      },
      "img": "images/CADILLAC XLR 2008-200905-03-04-04-57.jpg"
 },{
      "model_name": "CADILLAC XLR-V 2005-2007",
      "technical_specs": {
-          "ENGINE SPECS - 4.4 V8 6AT (449 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4371 cm3",
+               "Displacement": 4371,
                "Power": "330 KW @ 6400 RPM\n449 HP @ 6400 RPM\n443 BHP @ 6400 RPM",
                "Torque": "414 lb-ft @ 3600 RPM\n561 Nm @ 3600 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155.3 mph (250 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5 s"
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2708,38 +2708,38 @@
                "Tire Size": "Front 235/45 R19 Rear 255/40 R19"
           },
           "DIMENSIONS": {
-               "Length": "177.7 in (4514 mm)",
-               "Width": "72.3 in (1836 mm)",
-               "Height": "50.4 in (1280 mm)",
+               "Length": 177.7,
+               "Width": 72.3,
+               "Height": 50.4,
                "Front/rear Track": "61.6/62.1 in (1,565/1,577 mm)",
-               "Wheelbase": "105.7 in (2685 mm)",
-               "Ground Clearance": "6.6 in (168 mm)",
-               "Cargo Volume": "11.6 cuFT (328 L)"
+               "Wheelbase": 105.7,
+               "Ground Clearance": 6.6,
+               "Cargo Volume": 11.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3814 lbs (1730 kg)",
-               "Gross Weight Limit": "4608 lbs (2090 kg)"
+               "Unladen Weight": 3814,
+               "Gross Weight Limit": 4608
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "15 mpg US (15.7 L/100Km)",
-               "Highway": "22 mpg US (10.7 L/100Km)"
+               "City": 15,
+               "Highway": 22
           }
      },
      "img": "images/CADILLAC XLR-V 2005-200705-03-04-04-59.jpg"
 },{
      "model_name": "2004 Cadillac XLR",
      "technical_specs": {
-          "ENGINE SPECS - 4.6 V8 5AT (326 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4565 cm3",
+               "Displacement": 4565,
                "Power": "240 KW @ 6500 RPM\n326 HP @ 6500 RPM\n322 BHP @ 6500 RPM",
                "Torque": "310 lb-ft @ 4400 RPM\n420 Nm @ 4400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155.3 mph (250 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
+               "Top Speed": 155.3,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2753,39 +2753,39 @@
                "Tire Size": "235/50 R18"
           },
           "DIMENSIONS": {
-               "Length": "177.7 in (4514 mm)",
-               "Width": "72.3 in (1836 mm)",
-               "Height": "50.4 in (1280 mm)",
+               "Length": 177.7,
+               "Width": 72.3,
+               "Height": 50.4,
                "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
-               "Wheelbase": "105.7 in (2685 mm)",
-               "Ground Clearance": "6.6 in (168 mm)",
-               "Cargo Volume": "11.5 cuFT (326 L)"
+               "Wheelbase": 105.7,
+               "Ground Clearance": 6.6,
+               "Cargo Volume": 11.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3726 lbs (1690 kg)",
-               "Gross Weight Limit": "4519 lbs (2050 kg)"
+               "Unladen Weight": 3726,
+               "Gross Weight Limit": 4519
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "12.9 mpg US (18.2 L/100Km)",
-               "Highway": "26.1 mpg US (9 L/100Km)",
-               "Combined": "19.1 mpg US (12.3 L/100Km)"
+               "City": 12.9,
+               "Highway": 26.1,
+               "Combined": 19.1
           }
      },
      "img": "images/2004 Cadillac XLR05-03-04-05-00.jpg"
 },{
      "model_name": "CADILLAC XLR-V 2008-2011",
      "technical_specs": {
-          "ENGINE SPECS - 4.4 V8 6AT (449 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "4371 cm3",
+               "Displacement": 4371,
                "Power": "330 KW @ 6400 RPM\n449 HP @ 6400 RPM\n443 BHP @ 6400 RPM",
                "Torque": "414 lb-ft @ 3600 RPM\n561 Nm @ 3600 RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2799,23 +2799,23 @@
                "Tire Size": "235/45 R19"
           },
           "DIMENSIONS": {
-               "Length": "177.7 in (4514 mm)",
-               "Width": "72.3 in (1836 mm)",
-               "Height": "50.4 in (1280 mm)",
+               "Length": 177.7,
+               "Width": 72.3,
+               "Height": 50.4,
                "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
-               "Wheelbase": "105.7 in (2685 mm)",
-               "Ground Clearance": "5.3 in (135 mm)",
-               "Cargo Volume": "4.4 cuFT (125 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 105.7,
+               "Ground Clearance": 5.3,
+               "Cargo Volume": 4.4,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3814 lbs (1730 kg)",
-               "Gross Weight Limit": "4564 lbs (2070 kg)"
+               "Unladen Weight": 3814,
+               "Gross Weight Limit": 4564
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14 mpg US (16.8 L/100Km)",
-               "Highway": "21 mpg US (11.2 L/100Km)",
-               "Combined": "16 mpg US (14.7 L/100Km)"
+               "City": 14,
+               "Highway": 21,
+               "Combined": 16
           }
      },
      "img": "images/CADILLAC XLR-V 2008-201105-03-04-05-02.jpg"

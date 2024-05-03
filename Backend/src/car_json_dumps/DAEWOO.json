@@ -2,17 +2,17 @@
 {
      "model_name": "DAEWOO Cielo/Nexia 1994-1997",
      "technical_specs": {
-          "ENGINE SPECS - 1.5L 4AT (90 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1498 cm3",
+               "Displacement": 1498,
                "Power": "66 KW @ 4800 RPM\n90 HP @ 4800 RPM\n89 BHP @ 4800 RPM",
                "Torque": "101 lb-ft @ 3600 RPM\n137 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "106 mph (171 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14.5 s"
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -26,24 +26,24 @@
                "Tire Size": "155 R 13"
           },
           "DIMENSIONS": {
-               "Length": "176.5 in (4483 mm)",
-               "Width": "65.4 in (1661 mm)",
-               "Height": "54.8 in (1392 mm)",
+               "Length": 176.5,
+               "Width": 65.4,
+               "Height": 54.8,
                "Front/rear Track": "55.1/55.4 in (1,400/1,407 mm)",
-               "Wheelbase": "99.2 in (2520 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Cargo Volume": "18.6 cuFT (527 L)",
-               "Aerodynamics (Cd)": "0.35"
+               "Wheelbase": 99.2,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 18.6,
+               "Aerodynamics (Cd)": 0.35
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2377 lbs (1078 kg)",
-               "Gross Weight Limit": "3417 lbs (1550 kg)"
+               "Unladen Weight": 2377,
+               "Gross Weight Limit": 3417
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.5 mpg US (10 L/100Km)",
-               "Highway": "39.2 mpg US (6 L/100Km)",
-               "Combined": "30.5 mpg US (7.7 L/100Km)",
-               "CO2 Emissions": "170 g/km"
+               "City": 23.5,
+               "Highway": 39.2,
+               "Combined": 30.5,
+               "CO2 Emissions": 170
           },
           "": {}
      },
@@ -51,17 +51,17 @@
 },{
      "model_name": "DAEWOO Cielo/Nexia Hatchback 3 Doors 1994-1997",
      "technical_specs": {
-          "ENGINE SPECS - 1.5L 4AT (90 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1498 cm3",
+               "Displacement": 1498,
                "Power": "55 KW @ 5400 RPM\n75 HP @ 5400 RPM\n74 BHP @ 5400 RPM",
                "Torque": "92 lb-ft @ 3200 RPM\n124 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "101 mph (163 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "16 s"
+               "Top Speed": 101,
+               "Acceleration 0-62 Mph (0-100 kph)": 16
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -75,24 +75,24 @@
                "Tire Size": "155 R 13"
           },
           "DIMENSIONS": {
-               "Length": "176.5 in (4483 mm)",
-               "Width": "65.4 in (1661 mm)",
-               "Height": "54.8 in (1392 mm)",
+               "Length": 176.5,
+               "Width": 65.4,
+               "Height": 54.8,
                "Front/rear Track": "55.1/55.4 in (1,400/1,407 mm)",
-               "Wheelbase": "99.2 in (2520 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Cargo Volume": "25.2 cuFT (714 L)",
-               "Aerodynamics (Cd)": "0.35"
+               "Wheelbase": 99.2,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 25.2,
+               "Aerodynamics (Cd)": 0.35
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2174 lbs (986 kg)",
-               "Gross Weight Limit": "3179 lbs (1442 kg)"
+               "Unladen Weight": 2174,
+               "Gross Weight Limit": 3179
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.8 mpg US (9.9 L/100Km)",
-               "Highway": "40.6 mpg US (5.8 L/100Km)",
-               "Combined": "29.8 mpg US (7.9 L/100Km)",
-               "CO2 Emissions": "164 g/km"
+               "City": 23.8,
+               "Highway": 40.6,
+               "Combined": 29.8,
+               "CO2 Emissions": 164
           },
           "": {}
      },
@@ -100,17 +100,17 @@
 },{
      "model_name": "DAEWOO Cielo/Nexia Hatchback 5 Doors 1994-1997",
      "technical_specs": {
-          "ENGINE SPECS - 1.5L 4AT (90 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1498 cm3",
+               "Displacement": 1498,
                "Power": "66 KW @ 4800 RPM\n90 HP @ 4800 RPM\n89 BHP @ 4800 RPM",
                "Torque": "101 lb-ft @ 3600 RPM\n137 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "106 mph (171 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14.5 s"
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -124,24 +124,24 @@
                "Tire Size": "155 R 13"
           },
           "DIMENSIONS": {
-               "Length": "176.5 in (4483 mm)",
-               "Width": "65.4 in (1661 mm)",
-               "Height": "54.8 in (1392 mm)",
+               "Length": 176.5,
+               "Width": 65.4,
+               "Height": 54.8,
                "Front/rear Track": "55.1/55.4 in (1,400/1,407 mm)",
-               "Wheelbase": "99.2 in (2520 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Cargo Volume": "25.2 cuFT (714 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 99.2,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 25.2,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2310 lbs (1048 kg)",
-               "Gross Weight Limit": "3417 lbs (1550 kg)"
+               "Unladen Weight": 2310,
+               "Gross Weight Limit": 3417
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.5 mpg US (10 L/100Km)",
-               "Highway": "39.2 mpg US (6 L/100Km)",
-               "Combined": "30.5 mpg US (7.7 L/100Km)",
-               "CO2 Emissions": "169 g/km"
+               "City": 23.5,
+               "Highway": 39.2,
+               "Combined": 30.5,
+               "CO2 Emissions": 169
           },
           "": {}
      },
@@ -149,16 +149,16 @@
 },{
      "model_name": "DAEWOO Damas II 2003-2011",
      "technical_specs": {
-          "ENGINE SPECS - 0.8 LPG": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "796 cm3",
+               "Displacement": 796,
                "Power": "28 KW @ 4900 RPM\n38 HP @ 4900 RPM\n38 BHP @ 4900 RPM",
                "Torque": "46 lb-ft @ 2200 RPM\n62 Nm @ 2200 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Hybrid"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "69.6 mph (112 km/h)"
+               "Top Speed": 69.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -172,36 +172,36 @@
                "Tire Size": "155R12"
           },
           "DIMENSIONS": {
-               "Length": "137.2 in (3485 mm)",
-               "Width": "55.1 in (1400 mm)",
-               "Height": "75.6 in (1920 mm)",
+               "Length": 137.2,
+               "Width": 55.1,
+               "Height": 75.6,
                "Front/rear Track": "48/47.6 in (1,219/1,209 mm)",
-               "Wheelbase": "72.4 in (1839 mm)"
+               "Wheelbase": 72.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "1940.4 lbs (880 kg)"
+               "Unladen Weight": 1940.4
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "25 mpg US (9.4 L/100Km)",
-               "CO2 Emissions": "224 g/km"
+               "Combined": 25,
+               "CO2 Emissions": 224
           }
      },
      "img": "images/DAEWOO Damas II 2003-201105-03-04-23-57.jpg"
 },{
      "model_name": "DAEWOO Espero 1990-1997",
      "technical_specs": {
-          "ENGINE SPECS - 1.5L 5MT FWD (90 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1498 cm3",
+               "Displacement": 1498,
                "Power": "66 KW @ 4800 RPM\n90 HP @ 4800 RPM\n89 BHP @ 4800 RPM",
                "Torque": "101 lb-ft @ 3600 RPM\n137 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.2 gallons (50.0 L)"
+               "Fuel capacity": 13.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "105.6 mph (170 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "12.8 s"
+               "Top Speed": 105.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -215,22 +215,22 @@
                "Tire Size": "185/65 R14"
           },
           "DIMENSIONS": {
-               "Length": "181.8 in (4618 mm)",
-               "Width": "67.7 in (1720 mm)",
-               "Height": "54.7 in (1389 mm)",
+               "Length": 181.8,
+               "Width": 67.7,
+               "Height": 54.7,
                "Front/rear Track": "56.2/55.5 in (1,427/1,410 mm)",
-               "Wheelbase": "103.1 in (2619 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "19.8 cuFT (561 L)",
-               "Aerodynamics (Cd)": "0.29"
+               "Wheelbase": 103.1,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 19.8,
+               "Aerodynamics (Cd)": 0.29
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2398.6 lbs (1088 kg)",
-               "Gross Weight Limit": "3593.5 lbs (1630 kg)"
+               "Unladen Weight": 2398.6,
+               "Gross Weight Limit": 3593.5
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "31.3 mpg US (7.5 L/100Km)",
-               "CO2 Emissions": "178 g/km"
+               "Combined": 31.3,
+               "CO2 Emissions": 178
           },
           "": {}
      },
@@ -238,17 +238,17 @@
 },{
      "model_name": "DAEWOO G2X 2006-2009",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 5MT (264 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "194 KW @ 5300 RPM\n264 HP @ 5300 RPM\n260 BHP @ 5300 RPM",
                "Torque": "260 lb-ft @ 2500-5000 RPM\n353 Nm @ 2500-5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "143 mph (230 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.7 s"
+               "Top Speed": 143,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -262,40 +262,40 @@
                "Tire Size": "8J X 18"
           },
           "DIMENSIONS": {
-               "Length": "161 in (4089 mm)",
-               "Width": "71.4 in (1814 mm)",
-               "Height": "50.1 in (1273 mm)",
+               "Length": 161,
+               "Width": 71.4,
+               "Height": 50.1,
                "Front/rear Track": "60.7/61.5 in (1,542/1,562 mm)",
-               "Wheelbase": "95.1 in (2416 mm)",
-               "Cargo Volume": "2.3 cuFT (65 L)",
-               "Aerodynamics (Cd)": "0.38"
+               "Wheelbase": 95.1,
+               "Cargo Volume": 2.3,
+               "Aerodynamics (Cd)": 0.38
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2879 lbs (1306 kg)",
-               "Gross Weight Limit": "3582 lbs (1625 kg)"
+               "Unladen Weight": 2879,
+               "Gross Weight Limit": 3582
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18.1 mpg US (13 L/100Km)",
-               "Highway": "34.1 mpg US (6.9 L/100Km)",
-               "Combined": "25.6 mpg US (9.2 L/100Km)",
-               "CO2 Emissions": "218 g/km"
+               "City": 18.1,
+               "Highway": 34.1,
+               "Combined": 25.6,
+               "CO2 Emissions": 218
           }
      },
      "img": "images/DAEWOO G2X 2006-200905-03-04-24-00.jpg"
 },{
      "model_name": "DAEWOO Gentra 2005-2011",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L 5MT FWD (73 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1150 cm3",
+               "Displacement": 1150,
                "Power": "53 KW @ 5400 RPM\n73 HP @ 5400 RPM\n71 BHP @ 5400 RPM",
                "Torque": "77 lb-ft @ 4400 RPM\n104 Nm @ 4400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "97.9 mph (158 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "13.7 s"
+               "Top Speed": 97.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -309,18 +309,18 @@
                "Tire Size": "155/80 R16"
           },
           "DIMENSIONS": {
-               "Length": "169.7 in (4310 mm)",
-               "Width": "67.3 in (1709 mm)",
-               "Height": "59.1 in (1501 mm)",
+               "Length": 169.7,
+               "Width": 67.3,
+               "Height": 59.1,
                "Front/rear Track": "57.1/56.3 in (1,450/1,430 mm)",
-               "Wheelbase": "97.6 in (2479 mm)",
-               "Cargo Volume": "14 cuFT (396 L)"
+               "Wheelbase": 97.6,
+               "Cargo Volume": 14
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "28 mpg US (8.4 L/100Km)",
-               "Highway": "45.2 mpg US (5.2 L/100Km)",
-               "Combined": "36.8 mpg US (6.4 L/100Km)",
-               "CO2 Emissions": "152 g/km"
+               "City": 28,
+               "Highway": 45.2,
+               "Combined": 36.8,
+               "CO2 Emissions": 152
           },
           "": {}
      },
@@ -328,18 +328,18 @@
 },{
      "model_name": "DAEWOO Lacetti 2002-2009",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L 5MT FWD (95 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1399 cm3",
+               "Displacement": 1399,
                "Power": "70 KW @ 6200 RPM\n95 HP @ 6200 RPM\n94 BHP @ 6200 RPM",
                "Torque": "97 lb-ft @ 4400 RPM\n131 Nm @ 4400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "108.7 mph (175 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
+               "Top Speed": 108.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -353,22 +353,22 @@
                "Tire Size": "195/55 R15"
           },
           "DIMENSIONS": {
-               "Length": "177.8 in (4516 mm)",
-               "Width": "67.9 in (1725 mm)",
-               "Height": "56.9 in (1445 mm)",
+               "Length": 177.8,
+               "Width": 67.9,
+               "Height": 56.9,
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": "102.4 in (2601 mm)",
-               "Cargo Volume": "42.9 cuFT (1215 L)"
+               "Wheelbase": 102.4,
+               "Cargo Volume": 42.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2590.9 lbs (1175 kg)",
-               "Gross Weight Limit": "3660.3 lbs (1660 kg)"
+               "Unladen Weight": 2590.9,
+               "Gross Weight Limit": 3660.3
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "25.3 mpg US (9.3 L/100Km)",
-               "Highway": "41.3 mpg US (5.7 L/100Km)",
-               "Combined": "33.1 mpg US (7.1 L/100Km)",
-               "CO2 Emissions": "169 g/km"
+               "City": 25.3,
+               "Highway": 41.3,
+               "Combined": 33.1,
+               "CO2 Emissions": 169
           },
           "": {}
      },
@@ -376,17 +376,17 @@
 },{
      "model_name": "DAEWOO Lacetti 5 doors 2003-2011",
      "technical_specs": {
-          "ENGINE SPECS - 1.5L 4AT FWD (106 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1498 cm3",
+               "Displacement": 1498,
                "Power": "78 KW @ 6000 RPM\n106 HP @ 6000 RPM\n105 BHP @ 6000 RPM",
                "Torque": "103 lb-ft @ 4200 RPM\n140 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "114 mph (183 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "12.2 s"
+               "Top Speed": 114,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -400,20 +400,20 @@
                "Tire Size": "185/70 R14"
           },
           "DIMENSIONS": {
-               "Length": "169.1 in (4295 mm)",
-               "Width": "67.9 in (1725 mm)",
-               "Height": "56.9 in (1445 mm)",
+               "Length": 169.1,
+               "Width": 67.9,
+               "Height": 56.9,
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": "102.4 in (2601 mm)",
-               "Cargo Volume": "36.6 cuFT (1036 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 102.4,
+               "Cargo Volume": 36.6,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2535 lbs (1150 kg)",
-               "Gross Weight Limit": "3638.2 lbs (1650 kg)"
+               "Unladen Weight": 2535,
+               "Gross Weight Limit": 3638.2
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "29.8 mpg US (7.9 L/100Km)"
+               "Combined": 29.8
           },
           "": {}
      },
@@ -421,18 +421,18 @@
 },{
      "model_name": "DAEWOO Lacetti Wagon 2003-2006",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 5MT FWD (109 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "80 KW @ 5800 RPM\n109 HP @ 5800 RPM\n107 BHP @ 5800 RPM",
                "Torque": "111 lb-ft @ 3600 RPM\n150 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "116.2 mph (187 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11.4 s"
+               "Top Speed": 116.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -446,23 +446,23 @@
                "Tire Size": "195/55 R15"
           },
           "DIMENSIONS": {
-               "Length": "180.3 in (4580 mm)",
-               "Width": "67.9 in (1725 mm)",
-               "Height": "57.5 in (1461 mm)",
+               "Length": 180.3,
+               "Width": 67.9,
+               "Height": 57.5,
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": "102.4 in (2601 mm)",
-               "Cargo Volume": "49.4 cuFT (1399 L)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 102.4,
+               "Cargo Volume": 49.4,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2756.2 lbs (1250 kg)",
-               "Gross Weight Limit": "3891.8 lbs (1765 kg)"
+               "Unladen Weight": 2756.2,
+               "Gross Weight Limit": 3891.8
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.3 mpg US (10.1 L/100Km)",
-               "Highway": "37.3 mpg US (6.3 L/100Km)",
-               "Combined": "30.2 mpg US (7.8 L/100Km)",
-               "CO2 Emissions": "186 g/km"
+               "City": 23.3,
+               "Highway": 37.3,
+               "Combined": 30.2,
+               "CO2 Emissions": 186
           },
           "": {}
      },
@@ -470,17 +470,17 @@
 },{
      "model_name": "DAEWOO Lanos 1996-2002",
      "technical_specs": {
-          "ENGINE SPECS - 1.3L 5MT FWD (75 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1349 cm3",
+               "Displacement": 1349,
                "Power": "55 KW @ 5400 RPM\n75 HP @ 5400 RPM\n74 BHP @ 5400 RPM",
                "Torque": "85 lb-ft @ 3400 RPM\n115 Nm @ 3400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "103.2 mph (166 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15 s"
+               "Top Speed": 103.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 15
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -494,23 +494,23 @@
                "Tire Size": "175/70 R 13"
           },
           "DIMENSIONS": {
-               "Length": "166.7 in (4234 mm)",
-               "Width": "66.1 in (1679 mm)",
-               "Height": "56.4 in (1433 mm)",
+               "Length": 166.7,
+               "Width": 66.1,
+               "Height": 56.4,
                "Front/rear Track": "55.3/56.1 in (1,405/1,425 mm)",
-               "Wheelbase": "99.2 in (2520 mm)",
-               "Ground Clearance": "6.9 in (175 mm)",
-               "Cargo Volume": "33.6 cuFT (951 L)"
+               "Wheelbase": 99.2,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 33.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2381.4 lbs (1080 kg)",
-               "Gross Weight Limit": "3517 lbs (1595 kg)"
+               "Unladen Weight": 2381.4,
+               "Gross Weight Limit": 3517
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.5 mpg US (10 L/100Km)",
-               "Highway": "42.8 mpg US (5.5 L/100Km)",
-               "Combined": "32.7 mpg US (7.2 L/100Km)",
-               "CO2 Emissions": "171 g/km"
+               "City": 23.5,
+               "Highway": 42.8,
+               "Combined": 32.7,
+               "CO2 Emissions": 171
           },
           "": {}
      },
@@ -518,17 +518,17 @@
 },{
      "model_name": "DAEWOO Lanos Hatchback 3 Doors 1996-2002",
      "technical_specs": {
-          "ENGINE SPECS - 1.3L 5MT FWD (75 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1349 cm3",
+               "Displacement": 1349,
                "Power": "55 KW @ 5400 RPM\n75 HP @ 5400 RPM\n74 BHP @ 5400 RPM",
                "Torque": "85 lb-ft @ 3400 RPM\n115 Nm @ 3400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "103.2 mph (166 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15 s"
+               "Top Speed": 103.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 15
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -542,23 +542,23 @@
                "Tire Size": "175/70 R 13"
           },
           "DIMENSIONS": {
-               "Length": "160.4 in (4074 mm)",
-               "Width": "66.1 in (1679 mm)",
-               "Height": "56.4 in (1433 mm)",
+               "Length": 160.4,
+               "Width": 66.1,
+               "Height": 56.4,
                "Front/rear Track": "55.3/56.1 in (1,405/1,425 mm)",
-               "Wheelbase": "99.2 in (2520 mm)",
-               "Ground Clearance": "6.9 in (175 mm)",
-               "Cargo Volume": "31 cuFT (878 L)"
+               "Wheelbase": 99.2,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2381.4 lbs (1080 kg)",
-               "Gross Weight Limit": "3517 lbs (1595 kg)"
+               "Unladen Weight": 2381.4,
+               "Gross Weight Limit": 3517
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.5 mpg US (10 L/100Km)",
-               "Highway": "42.8 mpg US (5.5 L/100Km)",
-               "Combined": "32.7 mpg US (7.2 L/100Km)",
-               "CO2 Emissions": "171 g/km"
+               "City": 23.5,
+               "Highway": 42.8,
+               "Combined": 32.7,
+               "CO2 Emissions": 171
           },
           "": {}
      },
@@ -566,17 +566,17 @@
 },{
      "model_name": "DAEWOO Lanos Hatchback 5 Doors 1996-2002",
      "technical_specs": {
-          "ENGINE SPECS - 1.3L 5MT FWD (75 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1349 cm3",
+               "Displacement": 1349,
                "Power": "55 KW @ 5400 RPM\n75 HP @ 5400 RPM\n74 BHP @ 5400 RPM",
                "Torque": "85 lb-ft @ 3400 RPM\n115 Nm @ 3400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "103.2 mph (166 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15 s"
+               "Top Speed": 103.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 15
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -590,23 +590,23 @@
                "Tire Size": "175/70 R 13"
           },
           "DIMENSIONS": {
-               "Length": "160.4 in (4074 mm)",
-               "Width": "66.1 in (1679 mm)",
-               "Height": "56.4 in (1433 mm)",
+               "Length": 160.4,
+               "Width": 66.1,
+               "Height": 56.4,
                "Front/rear Track": "55.3/56.1 in (1,405/1,425 mm)",
-               "Wheelbase": "99.2 in (2520 mm)",
-               "Ground Clearance": "6.9 in (175 mm)",
-               "Cargo Volume": "31 cuFT (878 L)"
+               "Wheelbase": 99.2,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2381.4 lbs (1080 kg)",
-               "Gross Weight Limit": "3517 lbs (1595 kg)"
+               "Unladen Weight": 2381.4,
+               "Gross Weight Limit": 3517
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.5 mpg US (10 L/100Km)",
-               "Highway": "42.8 mpg US (5.5 L/100Km)",
-               "Combined": "32.7 mpg US (7.2 L/100Km)",
-               "CO2 Emissions": "171 g/km"
+               "City": 23.5,
+               "Highway": 42.8,
+               "Combined": 32.7,
+               "CO2 Emissions": 171
           },
           "": {}
      },
@@ -614,17 +614,17 @@
 },{
      "model_name": "DAEWOO Leganza 1997-2002",
      "technical_specs": {
-          "ENGINE SPECS - 1.8L 4AT FWD (105 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1796 cm3",
+               "Displacement": 1796,
                "Power": "77.3 KW @ 5400 RPM\n105 HP @ 5400 RPM\n104 BHP @ 5400 RPM",
                "Torque": "111 lb-ft @ 3200 RPM\n151 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "17.2 gallons (65.1 L)"
+               "Fuel capacity": 17.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "109 mph (175 km/h)"
+               "Top Speed": 109
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -638,21 +638,21 @@
                "Tire Size": "195/70/R14"
           },
           "DIMENSIONS": {
-               "Length": "183.9 in (4671 mm)",
-               "Width": "70 in (1778 mm)",
-               "Height": "56.6 in (1438 mm)",
+               "Length": 183.9,
+               "Width": 70,
+               "Height": 56.6,
                "Front/rear Track": "59.6/59.3 in (1,514/1,506 mm)",
-               "Wheelbase": "105.1 in (2670 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Cargo Volume": "14 cuFT (396 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 105.1,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 14,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2734 lbs (1240 kg)",
-               "Gross Weight Limit": "4035.2 lbs (1830 kg)"
+               "Unladen Weight": 2734,
+               "Gross Weight Limit": 4035.2
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "28.7 mpg US (8.2 L/100Km)"
+               "Combined": 28.7
           },
           "": {}
      },
@@ -660,17 +660,17 @@
 },{
      "model_name": "DAEWOO Magnus 2002-2006",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 4AT FWD (116 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "85 KW @ 5200 RPM\n116 HP @ 5200 RPM\n114 BHP @ 5200 RPM",
                "Torque": "131 lb-ft @ 4000 RPM\n178 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "17.2 gallons (65.1 L)"
+               "Fuel capacity": 17.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "116 mph (187 km/h)"
+               "Top Speed": 116
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -684,20 +684,20 @@
                "Tire Size": "195/70/R14"
           },
           "DIMENSIONS": {
-               "Length": "187.8 in (4770 mm)",
-               "Width": "71.5 in (1816 mm)",
-               "Height": "56.7 in (1440 mm)",
+               "Length": 187.8,
+               "Width": 71.5,
+               "Height": 56.7,
                "Front/rear Track": "61/60.4 in (1,549/1,534 mm)",
-               "Wheelbase": "106.3 in (2700 mm)",
-               "Ground Clearance": "6.5 in (165 mm)",
-               "Cargo Volume": "6.7 cuFT (190 L)",
-               "Aerodynamics (Cd)": "0.3"
+               "Wheelbase": 106.3,
+               "Ground Clearance": 6.5,
+               "Cargo Volume": 6.7,
+               "Aerodynamics (Cd)": 0.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2921 lbs (1325 kg)"
+               "Unladen Weight": 2921
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "24.8 mpg US (9.5 L/100Km)"
+               "Combined": 24.8
           },
           "": {}
      },
@@ -705,18 +705,18 @@
 },{
      "model_name": "DAEWOO Matiz 2005-2009",
      "technical_specs": {
-          "ENGINE SPECS - 0.8L 5MT (52 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "769 cm3",
+               "Displacement": 769,
                "Power": "38 KW @ 6000 RPM\n52 HP @ 6000 RPM\n51 BHP @ 6000 RPM",
                "Torque": "53 lb-ft @ 4400 RPM\n72 Nm @ 4400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "10 gallons (37.9 L)"
+               "Fuel capacity": 10
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "90.1 mph (145 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "18.2 s"
+               "Top Speed": 90.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 18.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -730,23 +730,23 @@
                "Tire Size": "145/70/R13"
           },
           "DIMENSIONS": {
-               "Length": "137.6 in (3495 mm)",
-               "Width": "58.9 in (1496 mm)",
-               "Height": "59.1 in (1501 mm)",
+               "Length": 137.6,
+               "Width": 58.9,
+               "Height": 59.1,
                "Front/rear Track": "51.6/50.2 in (1,311/1,275 mm)",
-               "Wheelbase": "92.3 in (2344 mm)",
-               "Ground Clearance": "6.9 in (175 mm)",
-               "Cargo Volume": "29.6 cuFT (838 L)"
+               "Wheelbase": 92.3,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 29.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "1708.9 lbs (775 kg)",
-               "Gross Weight Limit": "2756.2 lbs (1250 kg)"
+               "Unladen Weight": 1708.9,
+               "Gross Weight Limit": 2756.2
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "34.1 mpg US (6.9 L/100Km)",
-               "Highway": "56 mpg US (4.2 L/100Km)",
-               "Combined": "49 mpg US (4.8 L/100Km)",
-               "CO2 Emissions": "114 g/km"
+               "City": 34.1,
+               "Highway": 56,
+               "Combined": 49,
+               "CO2 Emissions": 114
           },
           "": {}
      },
@@ -754,17 +754,17 @@
 },{
      "model_name": "DAEWOO Matiz 2001-2005",
      "technical_specs": {
-          "ENGINE SPECS - 0.8L 5MT FWD (52 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "796 cm3",
+               "Displacement": 796,
                "Power": "38.2 KW @ 5900 RPM\n52 HP @ 5900 RPM\n51 BHP @ 5900 RPM",
                "Torque": "51 lb-ft @ 4600 RPM\n69 Nm @ 4600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "89.4 mph (144 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "17 s"
+               "Top Speed": 89.4,
+               "Acceleration 0-62 Mph (0-100 kph)": 17
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -778,23 +778,23 @@
                "Tire Size": "145/70SR13"
           },
           "DIMENSIONS": {
-               "Length": "137.7 in (3498 mm)",
-               "Width": "59 in (1499 mm)",
-               "Height": "58.2 in (1478 mm)",
+               "Length": 137.7,
+               "Width": 59,
+               "Height": 58.2,
                "Front/rear Track": "51.9/50.3 in (1,318/1,278 mm)",
-               "Wheelbase": "92.1 in (2339 mm)",
-               "Ground Clearance": "6.9 in (175 mm)",
-               "Cargo Volume": "29.1 cuFT (824 L)"
+               "Wheelbase": 92.1,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 29.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "1655.6 lbs (751 kg)",
-               "Gross Weight Limit": "2667.5 lbs (1210 kg)"
+               "Unladen Weight": 1655.6,
+               "Gross Weight Limit": 2667.5
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "29.7 mpg US (7.9 L/100Km)",
-               "Highway": "46.1 mpg US (5.1 L/100Km)",
-               "Combined": "38.5 mpg US (6.1 L/100Km)",
-               "CO2 Emissions": "160 g/km"
+               "City": 29.7,
+               "Highway": 46.1,
+               "Combined": 38.5,
+               "CO2 Emissions": 160
           },
           "": {}
      },
@@ -802,17 +802,17 @@
 },{
      "model_name": "Daewoo Matiz",
      "technical_specs": {
-          "ENGINE SPECS - 0.8L 5MT FWD (52 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "796 cm3",
+               "Displacement": 796,
                "Power": "38 KW @ 5900 RPM\n52 HP @ 5900 RPM\n51 BHP @ 5900 RPM",
                "Torque": "51 lb-ft @ 4600 RPM\n69 Nm @ 4600 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "89.5 mph (144 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "17.6 s"
+               "Top Speed": 89.5,
+               "Acceleration 0-62 Mph (0-100 kph)": 17.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -826,23 +826,23 @@
                "Tire Size": "145/70R13 - 155/65R13"
           },
           "DIMENSIONS": {
-               "Length": "137.6 in (3495 mm)",
-               "Width": "58.9 in (1496 mm)",
-               "Height": "58.5 in (1486 mm)",
+               "Length": 137.6,
+               "Width": 58.9,
+               "Height": 58.5,
                "Front/rear Track": "51.8/50.4 in (1,316/1,280 mm)",
-               "Wheelbase": "92.1 in (2339 mm)",
-               "Ground Clearance": "6.9 in (175 mm)",
-               "Cargo Volume": "29.1 cuFT (824 L)"
+               "Wheelbase": 92.1,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 29.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "1711.1 lbs (776 kg)",
-               "Gross Weight Limit": "2668.1 lbs (1210 kg)"
+               "Unladen Weight": 1711.1,
+               "Gross Weight Limit": 2668.1
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "28.3 mpg US (8.3 L/100Km)",
-               "Highway": "45.2 mpg US (5.2 L/100Km)",
-               "Combined": "37.3 mpg US (6.3 L/100Km)",
-               "CO2 Emissions": "161 g/km"
+               "City": 28.3,
+               "Highway": 45.2,
+               "Combined": 37.3,
+               "CO2 Emissions": 161
           },
           "": {}
      },
@@ -850,18 +850,18 @@
 },{
      "model_name": "DAEWOO Nubira 2000-2003",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 5MT (106 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "78 KW @ 5800 RPM\n106 HP @ 5800 RPM\n105 BHP @ 5800 RPM",
                "Torque": "107 lb-ft @ 3800 RPM\n145 Nm @ 3800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "16.4 gallons (62.1 L)"
+               "Fuel capacity": 16.4
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "115 mph (185 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -875,24 +875,24 @@
                "Tire Size": "185/65 R 14"
           },
           "DIMENSIONS": {
-               "Length": "177 in (4496 mm)",
-               "Width": "66.9 in (1699 mm)",
-               "Height": "56.3 in (1430 mm)",
+               "Length": 177,
+               "Width": 66.9,
+               "Height": 56.3,
                "Front/rear Track": "57.6/57.6 in (1,463/1,463 mm)",
-               "Wheelbase": "101.2 in (2570 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "27.2 cuFT (770 L)",
-               "Aerodynamics (Cd)": "0.4"
+               "Wheelbase": 101.2,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 27.2,
+               "Aerodynamics (Cd)": 0.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2762.9 lbs (1253 kg)",
-               "Gross Weight Limit": "3792.6 lbs (1720 kg)"
+               "Unladen Weight": 2762.9,
+               "Gross Weight Limit": 3792.6
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22 mpg US (10.7 L/100Km)",
-               "Highway": "38.6 mpg US (6.1 L/100Km)",
-               "Combined": "30.2 mpg US (7.8 L/100Km)",
-               "CO2 Emissions": "186 g/km"
+               "City": 22,
+               "Highway": 38.6,
+               "Combined": 30.2,
+               "CO2 Emissions": 186
           },
           "": {}
      },
@@ -900,18 +900,18 @@
 },{
      "model_name": "DAEWOO Nubira 1997-1999",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 16V 5MT (106 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "78 KW @ 5800 RPM\n106 HP @ 5800 RPM\n105 BHP @ 5800 RPM",
                "Torque": "107 lb-ft @ 3800 RPM\n145 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "16.4 gallons (62.1 L)"
+               "Fuel capacity": 16.4
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "114.9 mph (185 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
+               "Top Speed": 114.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -925,22 +925,22 @@
                "Tire Size": "185/65HR14"
           },
           "DIMENSIONS": {
-               "Length": "175.9 in (4468 mm)",
-               "Width": "66.9 in (1699 mm)",
-               "Height": "55.9 in (1420 mm)",
+               "Length": 175.9,
+               "Width": 66.9,
+               "Height": 55.9,
                "Front/rear Track": "57.4/57 in (1,458/1,448 mm)",
-               "Wheelbase": "101.1 in (2568 mm)",
-               "Ground Clearance": "6.3 in (160 mm)"
+               "Wheelbase": 101.1,
+               "Ground Clearance": 6.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2541.9 lbs (1153 kg)",
-               "Gross Weight Limit": "3791.9 lbs (1720 kg)"
+               "Unladen Weight": 2541.9,
+               "Gross Weight Limit": 3791.9
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19.2 mpg US (12.3 L/100Km)",
-               "Highway": "34.5 mpg US (6.8 L/100Km)",
-               "Combined": "26.7 mpg US (8.8 L/100Km)",
-               "CO2 Emissions": "210 g/km"
+               "City": 19.2,
+               "Highway": 34.5,
+               "Combined": 26.7,
+               "CO2 Emissions": 210
           },
           "": {}
      },
@@ -948,17 +948,17 @@
 },{
      "model_name": "DAEWOO Nubira Estate 2000-2003",
      "technical_specs": {
-          "ENGINE SPECS - 1.6": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "78 KW @ 5800 RPM\n107 HP @ 5800 RPM\n105 BHP @ 5800 RPM",
                "Torque": "107 lb-ft @ 3800 RPM\n145 Nm @ 3800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "108.7 mph (175 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
+               "Top Speed": 108.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -972,23 +972,23 @@
                "Tire Size": "185/65 R 14"
           },
           "DIMENSIONS": {
-               "Length": "179.1 in (4549 mm)",
-               "Width": "66.9 in (1699 mm)",
-               "Height": "56.3 in (1430 mm)",
+               "Length": 179.1,
+               "Width": 66.9,
+               "Height": 56.3,
                "Front/rear Track": "57.6/57.6 in (1,463/1,463 mm)",
-               "Wheelbase": "101.2 in (2570 mm)",
-               "Ground Clearance": "6.3 in (160 mm)",
-               "Cargo Volume": "50.7 cuFT (1436 L)"
+               "Wheelbase": 101.2,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 50.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2895.2 lbs (1313 kg)",
-               "Gross Weight Limit": "4101.3 lbs (1860 kg)"
+               "Unladen Weight": 2895.2,
+               "Gross Weight Limit": 4101.3
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22.4 mpg US (10.5 L/100Km)",
-               "Highway": "37.9 mpg US (6.2 L/100Km)",
-               "Combined": "30.2 mpg US (7.8 L/100Km)",
-               "CO2 Emissions": "186 g/km"
+               "City": 22.4,
+               "Highway": 37.9,
+               "Combined": 30.2,
+               "CO2 Emissions": 186
           },
           "": {}
      },
@@ -996,17 +996,17 @@
 },{
      "model_name": "DAEWOO Nubira Estate 1997-2000",
      "technical_specs": {
-          "ENGINE SPECS - 1.6": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "78 KW @ 5800 RPM\n106 HP @ 5800 RPM\n105 BHP @ 5800 RPM",
                "Torque": "107 lb-ft @ 3800 RPM\n145 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "108.7 mph (175 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
+               "Top Speed": 108.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1020,22 +1020,22 @@
                "Tire Size": "185/65HR14"
           },
           "DIMENSIONS": {
-               "Length": "177.5 in (4509 mm)",
-               "Width": "66.9 in (1699 mm)",
-               "Height": "56.2 in (1427 mm)",
+               "Length": 177.5,
+               "Width": 66.9,
+               "Height": 56.2,
                "Front/rear Track": "57.4/57 in (1,458/1,448 mm)",
-               "Wheelbase": "101.1 in (2568 mm)",
-               "Ground Clearance": "6.3 in (160 mm)"
+               "Wheelbase": 101.1,
+               "Ground Clearance": 6.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2674.2 lbs (1213 kg)",
-               "Gross Weight Limit": "4100.5 lbs (1860 kg)"
+               "Unladen Weight": 2674.2,
+               "Gross Weight Limit": 4100.5
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19.4 mpg US (12.1 L/100Km)",
-               "Highway": "33.6 mpg US (7 L/100Km)",
-               "Combined": "26.7 mpg US (8.8 L/100Km)",
-               "CO2 Emissions": "210 g/km"
+               "City": 19.4,
+               "Highway": 33.6,
+               "Combined": 26.7,
+               "CO2 Emissions": 210
           },
           "": {}
      },
@@ -1043,17 +1043,17 @@
 },{
      "model_name": "DAEWOO Nubira Hatchback 2000-2004",
      "technical_specs": {
-          "ENGINE SPECS - 1.6": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "78 KW @ 5800 RPM\n107 HP @ 5800 RPM\n105 BHP @ 5800 RPM",
                "Torque": "107 lb-ft @ 3800 RPM\n145 Nm @ 3800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "115 mph (185 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
+               "Top Speed": 115,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1067,23 +1067,23 @@
                "Tire Size": "185/65 R 14"
           },
           "DIMENSIONS": {
-               "Length": "168.5 in (4280 mm)",
-               "Width": "66.9 in (1699 mm)",
-               "Height": "56.3 in (1430 mm)",
+               "Length": 168.5,
+               "Width": 66.9,
+               "Height": 56.3,
                "Front/rear Track": "57.7/57.3 in (1,466/1,455 mm)",
-               "Wheelbase": "101.2 in (2570 mm)",
-               "Ground Clearance": "6.3 in (160 mm)",
-               "Cargo Volume": "30.1 cuFT (852 L)"
+               "Wheelbase": 101.2,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 30.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2381.4 lbs (1080 kg)",
-               "Gross Weight Limit": "3792.6 lbs (1720 kg)"
+               "Unladen Weight": 2381.4,
+               "Gross Weight Limit": 3792.6
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22 mpg US (10.7 L/100Km)",
-               "Highway": "38.6 mpg US (6.1 L/100Km)",
-               "Combined": "30.2 mpg US (7.8 L/100Km)",
-               "CO2 Emissions": "186 g/km"
+               "City": 22,
+               "Highway": 38.6,
+               "Combined": 30.2,
+               "CO2 Emissions": 186
           },
           "": {}
      },
@@ -1091,17 +1091,17 @@
 },{
      "model_name": "DAEWOO Nubira Hatchback 1997-1999",
      "technical_specs": {
-          "ENGINE SPECS - 1.6": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "78 KW @ 5800 RPM\n106 HP @ 5800 RPM\n105 BHP @ 5800 RPM",
                "Torque": "107 lb-ft @ 3800 RPM\n145 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "114.9 mph (185 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
+               "Top Speed": 114.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1115,22 +1115,22 @@
                "Tire Size": "185/65HR14"
           },
           "DIMENSIONS": {
-               "Length": "167.3 in (4249 mm)",
-               "Width": "66.9 in (1699 mm)",
-               "Height": "55.9 in (1420 mm)",
+               "Length": 167.3,
+               "Width": 66.9,
+               "Height": 55.9,
                "Front/rear Track": "57.4/57 in (1,458/1,448 mm)",
-               "Wheelbase": "101.1 in (2568 mm)",
-               "Ground Clearance": "6.3 in (160 mm)"
+               "Wheelbase": 101.1,
+               "Ground Clearance": 6.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2522 lbs (1144 kg)",
-               "Gross Weight Limit": "3791.9 lbs (1720 kg)"
+               "Unladen Weight": 2522,
+               "Gross Weight Limit": 3791.9
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19.2 mpg US (12.3 L/100Km)",
-               "Highway": "34.5 mpg US (6.8 L/100Km)",
-               "Combined": "26.7 mpg US (8.8 L/100Km)",
-               "CO2 Emissions": "210 g/km"
+               "City": 19.2,
+               "Highway": 34.5,
+               "Combined": 26.7,
+               "CO2 Emissions": 210
           },
           "": {}
      },
@@ -1138,14 +1138,14 @@
 },{
      "model_name": "DAEWOO Statesman 2003-2006",
      "technical_specs": {
-          "ENGINE SPECS - 3.6L V6 5AT RWD (258 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3565 cm3",
+               "Displacement": 3565,
                "Power": "190 KW @ 6500 RPM\n258 HP @ 6500 RPM\n255 BHP @ 6500 RPM",
                "Torque": "251 lb-ft @ 3200 RPM\n340 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1159,19 +1159,19 @@
                "Tire Size": "225/55 R 16 V"
           },
           "DIMENSIONS": {
-               "Length": "204.4 in (5192 mm)",
-               "Width": "72.7 in (1847 mm)",
-               "Height": "56.9 in (1445 mm)",
+               "Length": 204.4,
+               "Width": 72.7,
+               "Height": 56.9,
                "Front/rear Track": "61.4/62.1 in (1,560/1,577 mm)",
-               "Wheelbase": "115.7 in (2939 mm)",
-               "Cargo Volume": "19.1 cuFT (541 L)",
-               "Aerodynamics (Cd)": "0.3"
+               "Wheelbase": 115.7,
+               "Cargo Volume": 19.1,
+               "Aerodynamics (Cd)": 0.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3814 lbs (1730 kg)"
+               "Unladen Weight": 3814
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "20.3 mpg US (11.6 L/100Km)"
+               "Combined": 20.3
           },
           "": {}
      },
@@ -1179,18 +1179,18 @@
 },{
      "model_name": "2004 Daewoo Tacuma/Rezzo",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 5MT FWD (107 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "79 KW @ 6200 RPM\n107 HP @ 6200 RPM\n106 BHP @ 6200 RPM",
                "Torque": "107 lb-ft @ 4200 RPM\n145 Nm @ 4200 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "103.8 mph (167 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "12.2 s"
+               "Top Speed": 103.8,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1204,23 +1204,23 @@
                "Tire Size": "195/60 R15"
           },
           "DIMENSIONS": {
-               "Length": "171.3 in (4351 mm)",
-               "Width": "69.1 in (1755 mm)",
-               "Height": "62.2 in (1580 mm)",
+               "Length": 171.3,
+               "Width": 69.1,
+               "Height": 62.2,
                "Front/rear Track": "58.1/58.3 in (1,476/1,481 mm)",
-               "Wheelbase": "102.4 in (2601 mm)",
-               "Ground Clearance": "7.1 in (180 mm)",
-               "Cargo Volume": "56 cuFT (1586 L)"
+               "Wheelbase": 102.4,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 56
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2804.8 lbs (1272 kg)",
-               "Gross Weight Limit": "4030.7 lbs (1828 kg)"
+               "Unladen Weight": 2804.8,
+               "Gross Weight Limit": 4030.7
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "21.8 mpg US (10.8 L/100Km)",
-               "Highway": "37.3 mpg US (6.3 L/100Km)",
-               "Combined": "29.4 mpg US (8 L/100Km)",
-               "CO2 Emissions": "190 g/km"
+               "City": 21.8,
+               "Highway": 37.3,
+               "Combined": 29.4,
+               "CO2 Emissions": 190
           },
           "": {}
      },
@@ -1228,18 +1228,18 @@
 },{
      "model_name": "DAEWOO Tacuma/Rezzo 2000-2004",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 5MT FWD (105 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "77 KW @ 6000 RPM\n105 HP @ 6000 RPM\n103 BHP @ 6000 RPM",
                "Torque": "105 lb-ft @ 3400 RPM\n142 Nm @ 3400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "104 mph (167 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11.8 s"
+               "Top Speed": 104,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1253,23 +1253,23 @@
                "Tire Size": "195/60 R15"
           },
           "DIMENSIONS": {
-               "Length": "171.3 in (4351 mm)",
-               "Width": "69.1 in (1755 mm)",
-               "Height": "64.2 in (1631 mm)",
+               "Length": 171.3,
+               "Width": 69.1,
+               "Height": 64.2,
                "Front/rear Track": "58.1/58.3 in (1,476/1,481 mm)",
-               "Wheelbase": "102.4 in (2601 mm)",
-               "Ground Clearance": "7.1 in (180 mm)",
-               "Cargo Volume": "12.3 cuFT (348 L)"
+               "Wheelbase": 102.4,
+               "Ground Clearance": 7.1,
+               "Cargo Volume": 12.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2743 lbs (1244 kg)",
-               "Gross Weight Limit": "4021 lbs (1824 kg)"
+               "Unladen Weight": 2743,
+               "Gross Weight Limit": 4021
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "21.4 mpg US (11 L/100Km)",
-               "Highway": "35 mpg US (6.7 L/100Km)",
-               "Combined": "28.4 mpg US (8.3 L/100Km)",
-               "CO2 Emissions": "197 g/km"
+               "City": 21.4,
+               "Highway": 35,
+               "Combined": 28.4,
+               "CO2 Emissions": 197
           },
           "": {}
      },
@@ -1277,17 +1277,17 @@
 },{
      "model_name": "DAEWOO Tico 1991-2001",
      "technical_specs": {
-          "ENGINE SPECS - 0.8": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "796 cm3",
+               "Displacement": 796,
                "Power": "30 KW @ 5500 RPM\n41 HP @ 5500 RPM\n40 BHP @ 5500 RPM",
                "Torque": "44 lb-ft @ 2500 RPM\n59 Nm @ 2500 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "88.9 mph (143 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "17.5 s"
+               "Top Speed": 88.9,
+               "Acceleration 0-62 Mph (0-100 kph)": 17.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1301,39 +1301,39 @@
                "Tire Size": "155/70 R12"
           },
           "DIMENSIONS": {
-               "Length": "131.5 in (3340 mm)",
-               "Width": "55.1 in (1400 mm)",
-               "Height": "54.9 in (1394 mm)",
+               "Length": 131.5,
+               "Width": 55.1,
+               "Height": 54.9,
                "Front/rear Track": "48/47.2 in (1,219/1,199 mm)",
-               "Wheelbase": "91.9 in (2334 mm)",
-               "Cargo Volume": "36.8 cuFT (1042 L)"
+               "Wheelbase": 91.9,
+               "Cargo Volume": 36.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "1499.4 lbs (680 kg)"
+               "Unladen Weight": 1499.4
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "34.1 mpg US (6.9 L/100Km)",
-               "Highway": "42.8 mpg US (5.5 L/100Km)",
-               "Combined": "37.9 mpg US (6.2 L/100Km)",
-               "CO2 Emissions": "148 g/km"
+               "City": 34.1,
+               "Highway": 42.8,
+               "Combined": 37.9,
+               "CO2 Emissions": 148
           }
      },
      "img": "images/DAEWOO Tico 1991-200105-03-04-24-53.jpg"
 },{
      "model_name": "DAEWOO Tosca 2006-2015",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 5MT (145 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "1993 cm3",
+               "Displacement": 1993,
                "Power": "107 KW @ 6300 RPM\n145 HP @ 6300 RPM\n143 BHP @ 6300 RPM",
                "Torque": "138 lb-ft @ 4600 RPM\n187 Nm @ 4600 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "17.2 gallons (65.1 L)"
+               "Fuel capacity": 17.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "128.6 mph (207 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
+               "Top Speed": 128.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1347,22 +1347,22 @@
                "Tire Size": "215/50R17"
           },
           "DIMENSIONS": {
-               "Length": "189.1 in (4803 mm)",
-               "Width": "71.1 in (1806 mm)",
-               "Height": "57 in (1448 mm)",
+               "Length": 189.1,
+               "Width": 71.1,
+               "Height": 57,
                "Front/rear Track": "61/60.8 in (1,549/1,544 mm)",
-               "Wheelbase": "106.3 in (2700 mm)",
-               "Cargo Volume": "16.8 cuFT (476 L)"
+               "Wheelbase": 106.3,
+               "Cargo Volume": 16.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3197.2 lbs (1450 kg)",
-               "Gross Weight Limit": "4288.7 lbs (1945 kg)"
+               "Unladen Weight": 3197.2,
+               "Gross Weight Limit": 4288.7
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "20.6 mpg US (11.4 L/100Km)",
-               "Highway": "37.3 mpg US (6.3 L/100Km)",
-               "Combined": "30.2 mpg US (7.8 L/100Km)",
-               "CO2 Emissions": "186 g/km"
+               "City": 20.6,
+               "Highway": 37.3,
+               "Combined": 30.2,
+               "CO2 Emissions": 186
           },
           "": {}
      },
@@ -1370,18 +1370,18 @@
 },{
      "model_name": "DAEWOO Winstorm 2006-2011",
      "technical_specs": {
-          "ENGINE SPECS - 2.4L 5MT (141 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2405 cm3",
+               "Displacement": 2405,
                "Power": "103.7 KW @ 5200 RPM\n141 HP @ 5200 RPM\n139 BHP @ 5200 RPM",
                "Torque": "156 lb-ft @ 2000-4000 RPM\n212 Nm @ 2000-4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "17.2 gallons (65.1 L)"
+               "Fuel capacity": 17.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "108.7 mph (175 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
+               "Top Speed": 108.7,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1395,23 +1395,23 @@
                "Tire Size": "215/70 R 16"
           },
           "DIMENSIONS": {
-               "Length": "182.5 in (4636 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "67.7 in (1720 mm)",
+               "Length": 182.5,
+               "Width": 72.8,
+               "Height": 67.7,
                "Front/rear Track": "61.5/61.9 in (1,562/1,572 mm)",
-               "Wheelbase": "106.5 in (2705 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "32.6 cuFT (923 L)"
+               "Wheelbase": 106.5,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 32.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3402.3 lbs (1543 kg)",
-               "Gross Weight Limit": "4747.4 lbs (2153 kg)"
+               "Unladen Weight": 3402.3,
+               "Gross Weight Limit": 4747.4
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18.8 mpg US (12.5 L/100Km)",
-               "Highway": "33.6 mpg US (7 L/100Km)",
-               "Combined": "25.8 mpg US (9.1 L/100Km)",
-               "CO2 Emissions": "216 g/km"
+               "City": 18.8,
+               "Highway": 33.6,
+               "Combined": 25.8,
+               "CO2 Emissions": 216
           },
           "": {}
      },

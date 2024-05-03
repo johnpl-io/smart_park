@@ -2,14 +2,14 @@
 {
      "model_name": "2024 Polestar 2",
      "technical_specs": {
-          "ENGINE SPECS - LONG RANGE DUAL MOTOR 82 KWH AWD (421 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "309.6 kw (421 hp)",
                "Electrical motor torque": "545.8 lb-ft (740 Nm)",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 4.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
@@ -21,7 +21,7 @@
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
                "Maximum Capacity": "82 kWh",
-               "Range": "367.9 miles (592.1 km)"
+               "Range": 367.9
           },
           "NOTES": {
                "Max charging speed DC": "205 KW\n\nBattery capacity and charging speed for Long range Dual motor remains 78 kWh and 155 kW DC for United States, Canada, China and South Korea. The Long range Single motor version in Korea also retains a 78 kWh battery and 155 kW DC charging speed maximum.\n\nStandard range version not available in North America."
@@ -32,7 +32,7 @@
 },{
      "model_name": "2022 Polestar 2",
      "technical_specs": {
-          "ENGINE SPECS - 435 HP": {
+          "ENGINE SPECS": {
                "Total maximum power": "350 kw (476 hp)",
                "Total maximum torque": "501.5 lb-ft (680 Nm)",
                "Fuel System": "Electric",
@@ -47,11 +47,11 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "181.4 in (4608 mm)",
-               "Width": "73.2 in (1859 mm)",
-               "Height": "58.2 in (1478 mm)",
-               "Wheelbase": "107.7 in (2736 mm)",
-               "Cargo Volume": "15.5 cuFT (439 L)"
+               "Length": 181.4,
+               "Width": 73.2,
+               "Height": 58.2,
+               "Wheelbase": 107.7,
+               "Cargo Volume": 15.5
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion"
@@ -62,7 +62,7 @@
 },{
      "model_name": "Polestar Polestar 1 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L (600 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "441.3 KW @ - RPM\n600 HP @ - RPM\n592 BHP @ - RPM",
                "Torque": "738 lb-ft @ - RPM\n1000 Nm @ - RPM",
@@ -80,17 +80,17 @@
                "Tire Size": "275/30 R21 // 295/30 R21"
           },
           "DIMENSIONS": {
-               "Length": "180.5 in (4585 mm)",
-               "Width": "81.5 in (2070 mm)",
-               "Height": "53.2 in (1351 mm)",
-               "Wheelbase": "108 in (2743 mm)"
+               "Length": 180.5,
+               "Width": 81.5,
+               "Height": 53.2,
+               "Wheelbase": 108
           }
      },
      "img": "images/Polestar Polestar 1 2019-Present05-03-06-43-35.jpg"
 },{
      "model_name": "Polestar Polestar 3 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS - LONG RANGE DUAL MOTOR 111 KWH (490 HP)": {
+          "ENGINE SPECS": {
                "Total maximum power": "360 kw (489 hp)",
                "Total maximum torque": "619.6 lb-ft (840 Nm)",
                "Fuel System": "Electric",
@@ -98,7 +98,7 @@
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "130 mph (209 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -112,23 +112,23 @@
                "Tire Size": "265/45 R21 // 295/40 R21"
           },
           "DIMENSIONS": {
-               "Length": "1960.6 in (49799 mm)",
-               "Width": "83.5 in (2121 mm)",
-               "Height": "64.1 in (1628 mm)",
-               "Wheelbase": "117.5 in (2985 mm)",
-               "Ground Clearance": "8.3 in (211 mm)",
-               "Cargo Volume": "17.1 cuFT (484 L)",
-               "Aerodynamics (Cd)": "0.29",
-               "Turning circle": "38.7 ft (11.8 m)"
+               "Length": 1960.6,
+               "Width": 83.5,
+               "Height": 64.1,
+               "Wheelbase": 117.5,
+               "Ground Clearance": 8.3,
+               "Cargo Volume": 17.1,
+               "Aerodynamics (Cd)": 0.29,
+               "Turning circle": 38.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5697 - 5886 lbs (2584 - 2670 kg)"
+               "Unladen Weight": 5697
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Nominal Capacity": "107 kWh",
+               "Nominal Capacity": 107,
                "Maximum Capacity": "111 kWh",
-               "Range": "379 miles (609.9 km)"
+               "Range": 379
           },
           "NOTES": {
                "Charging capacity (DC)": "Up to 250 KW\nCharging capacity (AC): Up to 11 KW\n\nAverage Energy consumption WLTP: 20.1-21.1 kWh/100 km"
@@ -139,22 +139,22 @@
 },{
      "model_name": "2024 Polestar 4",
      "technical_specs": {
-          "ENGINE SPECS - LONG RANGE DUAL MOTOR 102 KWH (544 HP)": {
+          "ENGINE SPECS": {
                "Total maximum power": "400.1 kw (544 hp)",
                "Total maximum torque": "506 lb-ft (686 Nm)"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 3.8
           },
           "DIMENSIONS": {
-               "Length": "190.5 in (4839 mm)",
-               "Width": "84.2 in (2139 mm)",
-               "Height": "60.8 in (1544 mm)",
-               "Wheelbase": "118.1 in (3000 mm)"
+               "Length": 190.5,
+               "Width": 84.2,
+               "Height": 60.8,
+               "Wheelbase": 118.1
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Range": "372.8 miles (600.0 km)"
+               "Range": 372.8
           },
           "": {}
      },

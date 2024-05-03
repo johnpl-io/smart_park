@@ -2,16 +2,16 @@
 {
      "model_name": "2009 Geely Emgrand EC7",
      "technical_specs": {
-          "ENGINE SPECS - 1.8L 5MT (137 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1792 cm3",
+               "Displacement": 1792,
                "Power": "102 KW @ 6000 RPM\n137 HP @ 6000 RPM\n137 BHP @ 6000 RPM",
                "Torque": "127 lb-ft @ 4200 RPM\n172 Nm @ 4200 RPM",
                "Fuel System": "MPI",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "115 mph (185 km/h)"
+               "Top Speed": 115
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -25,33 +25,33 @@
                "Tire Size": "205/65R15"
           },
           "DIMENSIONS": {
-               "Length": "182.5 in (4636 mm)",
-               "Width": "70.4 in (1788 mm)",
-               "Height": "57.9 in (1471 mm)",
-               "Wheelbase": "104.3 in (2649 mm)",
-               "Ground Clearance": "6.6 in (168 mm)",
-               "Cargo Volume": "24 cuFT (680 L)"
+               "Length": 182.5,
+               "Width": 70.4,
+               "Height": 57.9,
+               "Wheelbase": 104.3,
+               "Ground Clearance": 6.6,
+               "Cargo Volume": 24
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2822 lbs (1280 kg)"
+               "Unladen Weight": 2822
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "36 mpg US (6.5 L/100Km)"
+               "Combined": 36
           }
      },
      "img": "images/2009 Geely Emgrand EC705-03-04-56-09.jpg"
 },{
      "model_name": "2011 Geely LC Cross",
      "technical_specs": {
-          "ENGINE SPECS - 1.3L 5MT FWD (84 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1342 cm3",
+               "Displacement": 1342,
                "Power": "63 KW @ 6000 RPM\n84 HP @ 6000 RPM\n84 BHP @ 6000 RPM",
                "Torque": "81 lb-ft @ 5200 RPM\n110 Nm @ 5200 RPM",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "96.3 mph (155 km/h)"
+               "Top Speed": 96.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -65,17 +65,17 @@
                "Tire Size": "165/60 R14"
           },
           "DIMENSIONS": {
-               "Length": "141.7 in (3599 mm)",
-               "Width": "64.2 in (1631 mm)",
-               "Height": "56.5 in (1435 mm)",
+               "Length": 141.7,
+               "Width": 64.2,
+               "Height": 56.5,
                "Front/rear Track": "55.9/55.5 in (1,420/1,410 mm)",
-               "Wheelbase": "92.1 in (2339 mm)"
+               "Wheelbase": 92.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2172 lbs (985 kg)"
+               "Unladen Weight": 2172
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "37.3 mpg US (6.3 L/100Km)"
+               "Combined": 37.3
           },
           "": {}
      },
@@ -83,15 +83,15 @@
 },{
      "model_name": "GEELY LC (Panda) 2009-Present",
      "technical_specs": {
-          "ENGINE SPECS - 1.3L 5MT (84 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1342 cm3",
+               "Displacement": 1342,
                "Power": "63 KW @ 6000 RPM\n84 HP @ 6000 RPM\n84 BHP @ 6000 RPM",
                "Torque": "81 lb-ft @ 5200 RPM\n110 Nm @ 5200 RPM",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "96.3 mph (155 km/h)"
+               "Top Speed": 96.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -105,26 +105,26 @@
                "Tire Size": "165/60 R14"
           },
           "DIMENSIONS": {
-               "Length": "141.7 in (3599 mm)",
-               "Width": "64.2 in (1631 mm)",
-               "Height": "56.5 in (1435 mm)",
+               "Length": 141.7,
+               "Width": 64.2,
+               "Height": 56.5,
                "Front/rear Track": "55.9/55.5 in (1,420/1,410 mm)",
-               "Wheelbase": "92.1 in (2339 mm)"
+               "Wheelbase": 92.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2172 lbs (985 kg)"
+               "Unladen Weight": 2172
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "37.3 mpg US (6.3 L/100Km)"
+               "Combined": 37.3
           }
      },
      "img": "images/GEELY LC (Panda) 2009-Present05-03-04-56-13.jpg"
 },{
      "model_name": "2005 Geely CK",
      "technical_specs": {
-          "ENGINE SPECS - 1.3L 5MT FWD (84 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1342 cm3",
+               "Displacement": 1342,
                "Power": "63 KW @ 6000 RPM\n84 HP @ 6000 RPM\n84 BHP @ 6000 RPM",
                "Torque": "81 lb-ft @ 5200 RPM\n110 Nm @ 5200 RPM",
                "Fuel System": "MPI",
@@ -142,16 +142,16 @@
                "Tire Size": "175/65 R14"
           },
           "DIMENSIONS": {
-               "Length": "163.5 in (4153 mm)",
-               "Width": "66.1 in (1679 mm)",
-               "Height": "56.7 in (1440 mm)",
-               "Wheelbase": "95.8 in (2433 mm)"
+               "Length": 163.5,
+               "Width": 66.1,
+               "Height": 56.7,
+               "Wheelbase": 95.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2297 lbs (1042 kg)"
+               "Unladen Weight": 2297
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "39 mpg US (6 L/100Km)"
+               "Combined": 39
           },
           "": {}
      },
@@ -159,16 +159,16 @@
 },{
      "model_name": "GEELY MK2 (Hatch) 2010-2014",
      "technical_specs": {
-          "ENGINE SPECS - 1.5L 5MT (92 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1498 cm3",
+               "Displacement": 1498,
                "Power": "69 KW @ 6000 RPM\n92 HP @ 6000 RPM\n93 BHP @ 6000 RPM",
                "Torque": "94 lb-ft @ 3400 RPM\n127 Nm @ 3400 RPM",
                "Fuel System": "Multi Point Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "103 mph (166 km/h)"
+               "Top Speed": 103
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -182,31 +182,31 @@
                "Tire Size": "185/60 r15"
           },
           "DIMENSIONS": {
-               "Length": "157.3 in (3995 mm)",
-               "Width": "66.6 in (1692 mm)",
-               "Height": "56.5 in (1435 mm)",
-               "Wheelbase": "98.5 in (2502 mm)"
+               "Length": 157.3,
+               "Width": 66.6,
+               "Height": 56.5,
+               "Wheelbase": 98.5
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "31 mpg US (7.6 L/100Km)"
+               "Combined": 31
           }
      },
      "img": "images/GEELY MK2 (Hatch) 2010-201405-03-04-56-16.jpg"
 },{
      "model_name": "GEELY MK Sedan 2006-2014",
      "technical_specs": {
-          "ENGINE SPECS - 1.5L 5MT FWD (92 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1498 cm3",
+               "Displacement": 1498,
                "Power": "69 KW @ 6000 RPM\n94 HP @ 6000 RPM\n93 BHP @ 6000 RPM",
                "Torque": "94 lb-ft @ 3400 RPM\n127 Nm @ 3400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "11.9 gallons (45.0 L)"
+               "Fuel capacity": 11.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "103 mph (166 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "18 s"
+               "Top Speed": 103,
+               "Acceleration 0-62 Mph (0-100 kph)": 18
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -220,19 +220,19 @@
                "Tire Size": "185/60 R15"
           },
           "DIMENSIONS": {
-               "Length": "170.9 in (4341 mm)",
-               "Width": "66.6 in (1692 mm)",
-               "Height": "56.5 in (1435 mm)",
+               "Length": 170.9,
+               "Width": 66.6,
+               "Height": 56.5,
                "Front/rear Track": "57.1/56.3 in (1,450/1,430 mm)",
-               "Wheelbase": "98.5 in (2502 mm)",
-               "Cargo Volume": "15.9 cuFT (450 L)"
+               "Wheelbase": 98.5,
+               "Cargo Volume": 15.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2293 lbs (1040 kg)",
-               "Gross Weight Limit": "3219 lbs (1460 kg)"
+               "Unladen Weight": 2293,
+               "Gross Weight Limit": 3219
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "31 mpg US (7.6 L/100Km)"
+               "Combined": 31
           },
           "": {}
      },

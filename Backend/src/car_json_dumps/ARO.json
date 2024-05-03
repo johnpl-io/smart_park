@@ -2,17 +2,17 @@
 {
      "model_name": "ARO 10 1980-2004",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L 4MT AWD (62 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1397 cm3",
+               "Displacement": 1397,
                "Power": "45.6 KW @ 5000 RPM\n62 HP @ 5000 RPM\n61 BHP @ 5000 RPM",
                "Torque": "74 lb-ft @ 3500 RPM\n100 Nm @ 3500 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "78 mph (126 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "25 s"
+               "Top Speed": 78,
+               "Acceleration 0-62 Mph (0-100 kph)": 25
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -26,21 +26,21 @@
                "Tire Size": "185 R15 C"
           },
           "DIMENSIONS": {
-               "Length": "151.6 in (3851 mm)",
-               "Width": "64.8 in (1646 mm)",
-               "Height": "69.9 in (1775 mm)",
+               "Length": 151.6,
+               "Width": 64.8,
+               "Height": 69.9,
                "Front/rear Track": "55.9/55.9 in (1,420/1,420 mm)",
-               "Wheelbase": "94.5 in (2400 mm)",
-               "Ground Clearance": "9.4 in (239 mm)",
-               "Cargo Volume": "21.2 cuFT (600 L)",
-               "Aerodynamics (Cd)": "0.5"
+               "Wheelbase": 94.5,
+               "Ground Clearance": 9.4,
+               "Cargo Volume": 21.2,
+               "Aerodynamics (Cd)": 0.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2866 lbs (1300 kg)",
-               "Gross Weight Limit": "4023 lbs (1825 kg)"
+               "Unladen Weight": 2866,
+               "Gross Weight Limit": 4023
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "16.2 mpg US (14.5 L/100Km)"
+               "Combined": 16.2
           },
           "": {}
      },
@@ -48,16 +48,16 @@
 },{
      "model_name": "ARO 24 1991-2006",
      "technical_specs": {
-          "ENGINE SPECS - COSWORTH 4L": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "4000 cm3",
+               "Displacement": 4000,
                "Power": "152 KW @ 5250 RPM\n207 HP @ 5250 RPM\n204 BHP @ 5250 RPM",
                "Torque": "236 lb-ft @ 3000 RPM\n320 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)"
+               "Top Speed": 112
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -71,15 +71,15 @@
                "Tire Size": "235/75 R15"
           },
           "DIMENSIONS": {
-               "Length": "162.9 in (4138 mm)",
-               "Width": "69.9 in (1775 mm)",
-               "Height": "73.1 in (1857 mm)",
+               "Length": 162.9,
+               "Width": 69.9,
+               "Height": 73.1,
                "Front/rear Track": "58.1/58.1 in (1,476/1,476 mm)",
-               "Wheelbase": "92.5 in (2350 mm)"
+               "Wheelbase": 92.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3792 lbs (1720 kg)",
-               "Gross Weight Limit": "5545 lbs (2515 kg)"
+               "Unladen Weight": 3792,
+               "Gross Weight Limit": 5545
           },
           "": {}
      },
@@ -87,17 +87,17 @@
 },{
      "model_name": "ARO 24 1972-1991",
      "technical_specs": {
-          "ENGINE SPECS - 2.5L 4MT (80 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2513 cm3",
+               "Displacement": 2513,
                "Power": "58.8 KW @ 4200 RPM\n80 HP @ 4200 RPM\n79 BHP @ 4200 RPM",
                "Torque": "120 lb-ft @ 2700 RPM\n162 Nm @ 2700 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "68 mph (109 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "27 s"
+               "Top Speed": 68,
+               "Acceleration 0-62 Mph (0-100 kph)": 27
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -111,32 +111,32 @@
                "Tire Size": "6.50 - 16"
           },
           "DIMENSIONS": {
-               "Length": "155.9 in (3960 mm)",
-               "Width": "69.9 in (1775 mm)",
-               "Height": "74 in (1880 mm)",
+               "Length": 155.9,
+               "Width": 69.9,
+               "Height": 74,
                "Front/rear Track": "56.9/56.9 in (1,445/1,445 mm)",
-               "Wheelbase": "92.5 in (2350 mm)",
-               "Ground Clearance": "8.7 in (221 mm)",
-               "Aerodynamics (Cd)": "0.6"
+               "Wheelbase": 92.5,
+               "Ground Clearance": 8.7,
+               "Aerodynamics (Cd)": 0.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3417 lbs (1550 kg)",
-               "Gross Weight Limit": "4960 lbs (2250 kg)"
+               "Unladen Weight": 3417,
+               "Gross Weight Limit": 4960
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "11.8 mpg US (19.9 L/100Km)"
+               "Combined": 11.8
           }
      },
      "img": {}
 },{
      "model_name": "ARO IMS 57 1957-1959",
      "technical_specs": {
-          "ENGINE SPECS - 3.2": {
-               "Displacement": "3260 cm3",
+          "ENGINE SPECS": {
+               "Displacement": 3260,
                "Fuel": "Diesel"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "50 mph (80 km/h)"
+               "Top Speed": 50
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -151,13 +151,13 @@
 },{
      "model_name": "1963 ARO M-461",
      "technical_specs": {
-          "ENGINE SPECS - 2.5": {
-               "Displacement": "2512 cm3",
+          "ENGINE SPECS": {
+               "Displacement": 2512,
                "Power": "51 KW @ 3800 RPM\n70 HP @ 3800 RPM\n68 BHP @ 3800 RPM",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "62 mph (100 km/h)"
+               "Top Speed": 62
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
@@ -167,20 +167,20 @@
                "Rear": "Drums"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3419.4 lbs (1551 kg)"
+               "Unladen Weight": 3419.4
           }
      },
      "img": {}
 },{
      "model_name": "1959 IMS M59",
      "technical_specs": {
-          "ENGINE SPECS - 3.2": {
-               "Displacement": "3260 cm3",
+          "ENGINE SPECS": {
+               "Displacement": 3260,
                "Power": "41 KW @ 2800 RPM\n56 HP @ 2800 RPM\n55 BHP @ 2800 RPM",
                "Fuel": "Diesel"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "56 mph (90 km/h)"
+               "Top Speed": 56
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"

@@ -2,9 +2,9 @@
 {
      "model_name": "PROTON Persona 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 5MT (109 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1597 cm3",
+               "Displacement": 1597,
                "Power": "80.2 KW @ 5750 RPM\n109 HP @ 5750 RPM\n108 BHP @ 5750 RPM",
                "Torque": "111 lb-ft @ 4000 RPM\n150 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -22,18 +22,18 @@
                "Tire Size": "185/55 R15"
           },
           "DIMENSIONS": {
-               "Length": "172.7 in (4387 mm)",
-               "Width": "67.8 in (1722 mm)",
-               "Height": "61.2 in (1554 mm)",
-               "Wheelbase": "100.6 in (2555 mm)",
-               "Ground Clearance": "6.1 in (155 mm)",
-               "Cargo Volume": "18 cuFT (510 L)"
+               "Length": 172.7,
+               "Width": 67.8,
+               "Height": 61.2,
+               "Wheelbase": 100.6,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 18
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2546 lbs (1155 kg)"
+               "Unladen Weight": 2546
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "42 mpg US (5.6 L/100Km)"
+               "Combined": 42
           },
           "": {}
      },
@@ -41,16 +41,16 @@
 },{
      "model_name": "PROTON Persona 2007-2016",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 4AT FWD (111 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1597 cm3",
+               "Displacement": 1597,
                "Power": "81 KW @ 6500 RPM\n111 HP @ 6500 RPM\n109 BHP @ 6500 RPM",
                "Torque": "109 lb-ft @ 4000 RPM\n148 Nm @ 4000 RPM",
                "Fuel System": "Multipoint injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "13.9 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 13.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -64,15 +64,15 @@
                "Tire Size": "195/60 R15"
           },
           "DIMENSIONS": {
-               "Length": "176.3 in (4478 mm)",
-               "Width": "67.9 in (1725 mm)",
-               "Height": "56.6 in (1438 mm)",
+               "Length": 176.3,
+               "Width": 67.9,
+               "Height": 56.6,
                "Front/rear Track": "58.1/57.9 in (1,476/1,471 mm)",
-               "Wheelbase": "102.4 in (2601 mm)",
-               "Ground Clearance": "5.9 in (150 mm)"
+               "Wheelbase": 102.4,
+               "Ground Clearance": 5.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2635 lbs (1195 kg)"
+               "Unladen Weight": 2635
           },
           "": {}
      },
@@ -80,9 +80,9 @@
 },{
      "model_name": "PROTON Saga 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS - 1.3L 5MT (95 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1332 cm3",
+               "Displacement": 1332,
                "Power": "69.9 KW @ 5750 RPM\n95 HP @ 5750 RPM\n94 BHP @ 5750 RPM",
                "Torque": "89 lb-ft @ 4000 RPM\n120 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -100,18 +100,18 @@
                "Tire Size": "175/70 R13"
           },
           "DIMENSIONS": {
-               "Length": "170.5 in (4331 mm)",
-               "Width": "66.5 in (1689 mm)",
-               "Height": "58.7 in (1491 mm)",
-               "Wheelbase": "97 in (2464 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "14.8 cuFT (419 L)"
+               "Length": 170.5,
+               "Width": 66.5,
+               "Height": 58.7,
+               "Wheelbase": 97,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2277 lbs (1033 kg)"
+               "Unladen Weight": 2277
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "43.6 mpg US (5.4 L/100Km)"
+               "Combined": 43.6
           },
           "": {}
      },
@@ -119,17 +119,17 @@
 },{
      "model_name": "PROTON Saga FLX 2011-2016",
      "technical_specs": {
-          "ENGINE SPECS - 1.3L 5MT FWD (95 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1332 cm3",
+               "Displacement": 1332,
                "Power": "70 KW @ 5750 RPM\n95 HP @ 5750 RPM\n94 BHP @ 5750 RPM",
                "Torque": "89 lb-ft @ 4000 RPM\n121 Nm @ 4000 RPM",
                "Fuel System": "Multipoint injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "99 mph (159 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15 s"
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 15
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -143,18 +143,18 @@
                "Tire Size": "175/70 R13"
           },
           "DIMENSIONS": {
-               "Length": "168.4 in (4277 mm)",
-               "Width": "66.1 in (1679 mm)",
-               "Height": "59.8 in (1519 mm)",
+               "Length": 168.4,
+               "Width": 66.1,
+               "Height": 59.8,
                "Front/rear Track": "56.9/56.9 in (1,445/1,445 mm)",
-               "Wheelbase": "97 in (2464 mm)",
-               "Ground Clearance": "5.9 in (150 mm)"
+               "Wheelbase": 97,
+               "Ground Clearance": 5.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2242 lbs (1017 kg)"
+               "Unladen Weight": 2242
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "41.3 mpg US (5.7 L/100Km)"
+               "Combined": 41.3
           },
           "": {}
      },
@@ -162,17 +162,17 @@
 },{
      "model_name": "PROTON Inspira 2010-Present",
      "technical_specs": {
-          "ENGINE SPECS - 1.8L MIVEC 5MT FWD (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1798 cm3",
+               "Displacement": 1798,
                "Power": "103 KW @ 6000 RPM\n140 HP @ 6000 RPM\n138 BHP @ 6000 RPM",
                "Torque": "131 lb-ft @ 4250 RPM\n178 Nm @ 4250 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "126 mph (203 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10 s"
+               "Top Speed": 126,
+               "Acceleration 0-62 Mph (0-100 kph)": 10
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -186,17 +186,17 @@
                "Tire Size": "205/60R16"
           },
           "DIMENSIONS": {
-               "Length": "179.9 in (4569 mm)",
-               "Width": "69.3 in (1760 mm)",
-               "Height": "58.7 in (1491 mm)",
-               "Wheelbase": "103.7 in (2634 mm)",
-               "Ground Clearance": "5.9 in (150 mm)"
+               "Length": 179.9,
+               "Width": 69.3,
+               "Height": 58.7,
+               "Wheelbase": 103.7,
+               "Ground Clearance": 5.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2866 lbs (1300 kg)"
+               "Unladen Weight": 2866
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "37.3 mpg US (6.3 L/100Km)"
+               "Combined": 37.3
           },
           "": {}
      },
@@ -204,14 +204,14 @@
 },{
      "model_name": "PROTON Perdana 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L 5AT (156 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1997 cm3",
+               "Displacement": 1997,
                "Power": "114.8 KW @ 6300 RPM\n156 HP @ 6300 RPM\n154 BHP @ 6300 RPM",
                "Torque": "139 lb-ft @ 4300 RPM\n189 Nm @ 4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -225,13 +225,13 @@
                "Tire Size": "225/50 R17"
           },
           "DIMENSIONS": {
-               "Length": "196.8 in (4999 mm)",
-               "Width": "72.6 in (1844 mm)",
-               "Height": "58.1 in (1476 mm)",
-               "Wheelbase": "110.2 in (2799 mm)"
+               "Length": 196.8,
+               "Width": 72.6,
+               "Height": 58.1,
+               "Wheelbase": 110.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3329 lbs (1510 kg)"
+               "Unladen Weight": 3329
           },
           "": {}
      },
@@ -239,18 +239,18 @@
 },{
      "model_name": "PROTON Preve 2011-Present",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 5MT FWD (109 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1597 cm3",
+               "Displacement": 1597,
                "Power": "80 KW @ 5750 RPM\n109 HP @ 5750 RPM\n107 BHP @ 5750 RPM",
                "Torque": "111 lb-ft @ 4000 RPM\n150 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.2 gallons (50.0 L)"
+               "Fuel capacity": 13.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "12 s"
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -264,21 +264,21 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "178.9 in (4544 mm)",
-               "Width": "70.3 in (1786 mm)",
-               "Height": "60 in (1524 mm)",
+               "Length": 178.9,
+               "Width": 70.3,
+               "Height": 60,
                "Front/rear Track": "60.7/60.7 in (1,542/1,542 mm)",
-               "Wheelbase": "104.3 in (2649 mm)",
-               "Ground Clearance": "6.1 in (155 mm)",
-               "Cargo Volume": "17.9 cuFT (507 L)"
+               "Wheelbase": 104.3,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 17.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2877 lbs (1305 kg)",
-               "Gross Weight Limit": "3671 lbs (1665 kg)"
+               "Unladen Weight": 2877,
+               "Gross Weight Limit": 3671
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "32.7 mpg US (7.2 L/100Km)",
-               "CO2 Emissions": "171 g/km"
+               "Combined": 32.7,
+               "CO2 Emissions": 171
           },
           "": {}
      },
@@ -286,9 +286,9 @@
 },{
      "model_name": "PROTON Ertiga 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS - 1.4 4AT (92 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1373 cm3",
+               "Displacement": 1373,
                "Power": "67.6 KW @ 6000 RPM\n92 HP @ 6000 RPM\n91 BHP @ 6000 RPM",
                "Torque": "96 lb-ft @ 4000 RPM\n130 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -306,17 +306,17 @@
                "Tire Size": "185 / 65 R15"
           },
           "DIMENSIONS": {
-               "Length": "167.9 in (4265 mm)",
-               "Width": "66.7 in (1694 mm)",
-               "Height": "66.3 in (1684 mm)",
-               "Wheelbase": "107.9 in (2741 mm)",
-               "Ground Clearance": "7.3 in (185 mm)"
+               "Length": 167.9,
+               "Width": 66.7,
+               "Height": 66.3,
+               "Wheelbase": 107.9,
+               "Ground Clearance": 7.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2612 lbs (1185 kg)"
+               "Unladen Weight": 2612
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "39.2 mpg US (6 L/100Km)"
+               "Combined": 39.2
           },
           "": {}
      },
@@ -324,18 +324,18 @@
 },{
      "model_name": "PROTON Suprima S 2013-Present",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 7AT (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1561 cm3",
+               "Displacement": 1561,
                "Power": "103 KW @ 5000 RPM\n140 HP @ 5000 RPM\n138 BHP @ 5000 RPM",
                "Torque": "151 lb-ft @ 2000-4000 RPM\n205 Nm @ 2000-4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.2 gallons (50.0 L)"
+               "Fuel capacity": 13.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "118 mph (190 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -349,36 +349,36 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "174.6 in (4435 mm)",
-               "Width": "70.4 in (1788 mm)",
-               "Height": "60 in (1524 mm)",
+               "Length": 174.6,
+               "Width": 70.4,
+               "Height": 60,
                "Front/rear Track": "60.7/60.7 in (1,542/1,542 mm)",
-               "Wheelbase": "104.3 in (2649 mm)",
-               "Ground Clearance": "6.1 in (155 mm)",
-               "Turning circle": "34.8 ft (10.6 m)"
+               "Wheelbase": 104.3,
+               "Ground Clearance": 6.1,
+               "Turning circle": 34.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3031 lbs (1375 kg)",
-               "Gross Weight Limit": "3770 lbs (1710 kg)"
+               "Unladen Weight": 3031,
+               "Gross Weight Limit": 3770
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "25.8 mpg US (9.1 L/100Km)"
+               "Combined": 25.8
           }
      },
      "img": "images/PROTON Suprima S 2013-Present05-03-06-55-10.jpg"
 },{
      "model_name": "PROTON Arena/Jumbuck 2002-2011",
      "technical_specs": {
-          "ENGINE SPECS - 1.5 5 MT (85 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1468 cm3",
+               "Displacement": 1468,
                "Power": "64 KW @ 6000 RPM\n85 HP @ 6000 RPM\n86 BHP @ 6000 RPM",
                "Torque": "91 lb-ft @ 3000 RPM\n123 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "96 mph (154 km/h)"
+               "Top Speed": 96
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -392,40 +392,40 @@
                "Tire Size": "175/70 R14"
           },
           "DIMENSIONS": {
-               "Length": "175.4 in (4455 mm)",
-               "Width": "66.5 in (1689 mm)",
-               "Height": "55.9 in (1420 mm)",
+               "Length": 175.4,
+               "Width": 66.5,
+               "Height": 55.9,
                "Front/rear Track": "57.1/58.7 in (1,450/1,491 mm)",
-               "Wheelbase": "102.4 in (2601 mm)",
-               "Ground Clearance": "6.7 in (170 mm)"
+               "Wheelbase": 102.4,
+               "Ground Clearance": 6.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2304 lbs (1045 kg)",
-               "Gross Weight Limit": "3704 lbs (1680 kg)"
+               "Unladen Weight": 2304,
+               "Gross Weight Limit": 3704
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "24.8 mpg US (9.5 L/100Km)",
-               "Highway": "42 mpg US (5.6 L/100Km)",
-               "Combined": "33.1 mpg US (7.1 L/100Km)",
-               "CO2 Emissions": "166 g/km"
+               "City": 24.8,
+               "Highway": 42,
+               "Combined": 33.1,
+               "CO2 Emissions": 166
           }
      },
      "img": {}
 },{
      "model_name": "2012 Proton Exora",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 4AT FWD (125 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1597 cm3",
+               "Displacement": 1597,
                "Power": "93 KW @ 6500 RPM\n126 HP @ 6500 RPM\n125 BHP @ 6500 RPM",
                "Torque": "111 lb-ft @ 4500 RPM\n150 Nm @ 4500 RPM",
                "Fuel System": "Multipoint injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14.5 gallons (54.9 L)"
+               "Fuel capacity": 14.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "103 mph (166 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15.5 s"
+               "Top Speed": 103,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -439,17 +439,17 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "180.8 in (4592 mm)",
-               "Width": "71.2 in (1808 mm)",
-               "Height": "66.6 in (1692 mm)",
-               "Wheelbase": "107.5 in (2731 mm)",
-               "Ground Clearance": "6.1 in (155 mm)"
+               "Length": 180.8,
+               "Width": 71.2,
+               "Height": 66.6,
+               "Wheelbase": 107.5,
+               "Ground Clearance": 6.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3109 lbs (1410 kg)"
+               "Unladen Weight": 3109
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "31.8 mpg US (7.4 L/100Km)"
+               "Combined": 31.8
           },
           "": {}
      },
@@ -457,18 +457,18 @@
 },{
      "model_name": "PROTON Exora 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L CAMPRO CPS 4AT (125 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "93 KW @ 6500 RPM\n126 HP @ 6500 RPM\n125 BHP @ 6500 RPM",
                "Torque": "110 lb-ft @ 4500 RPM\n149 Nm @ 4500 RPM",
                "Fuel System": "Multipoint injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14.5 gallons (54.9 L)"
+               "Fuel capacity": 14.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "103 mph (166 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15.5 s"
+               "Top Speed": 103,
+               "Acceleration 0-62 Mph (0-100 kph)": 15.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -482,20 +482,20 @@
                "Tire Size": "195/65 R15"
           },
           "DIMENSIONS": {
-               "Length": "180 in (4572 mm)",
-               "Width": "71.2 in (1808 mm)",
-               "Height": "66.5 in (1689 mm)",
+               "Length": 180,
+               "Width": 71.2,
+               "Height": 66.5,
                "Front/rear Track": "60.7/60.2 in (1,542/1,529 mm)",
-               "Wheelbase": "107.4 in (2728 mm)",
-               "Ground Clearance": "6.3 in (160 mm)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 107.4,
+               "Ground Clearance": 6.3,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3109 lbs (1410 kg)",
-               "Gross Weight Limit": "4233 lbs (1920 kg)"
+               "Unladen Weight": 3109,
+               "Gross Weight Limit": 4233
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "20.9 mpg US (11.3 L/100Km)"
+               "Combined": 20.9
           },
           "": {}
      },
@@ -503,17 +503,17 @@
 },{
      "model_name": "PROTON Gen-2 2004-2013",
      "technical_specs": {
-          "ENGINE SPECS - 1.3L 5MT FWD (95 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1332 cm3",
+               "Displacement": 1332,
                "Power": "70 KW @ 6000 RPM\n95 HP @ 6000 RPM\n94 BHP @ 6000 RPM",
                "Torque": "89 lb-ft @ 4000 RPM\n121 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "13.5 s"
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -527,23 +527,23 @@
                "Tire Size": "195/55 R15"
           },
           "DIMENSIONS": {
-               "Length": "169.7 in (4310 mm)",
-               "Width": "67.9 in (1725 mm)",
-               "Height": "56.5 in (1435 mm)",
+               "Length": 169.7,
+               "Width": 67.9,
+               "Height": 56.5,
                "Front/rear Track": "58.1/57.9 in (1,476/1,471 mm)",
-               "Wheelbase": "102.4 in (2601 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "13.1 cuFT (371 L)"
+               "Wheelbase": 102.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 13.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2601 lbs (1180 kg)",
-               "Gross Weight Limit": "3472 lbs (1575 kg)"
+               "Unladen Weight": 2601,
+               "Gross Weight Limit": 3472
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.1 mpg US (10.2 L/100Km)",
-               "Highway": "45.2 mpg US (5.2 L/100Km)",
-               "Combined": "33.6 mpg US (7 L/100Km)",
-               "CO2 Emissions": "164 g/km"
+               "City": 23.1,
+               "Highway": 45.2,
+               "Combined": 33.6,
+               "CO2 Emissions": 164
           },
           "": {}
      },
@@ -551,18 +551,18 @@
 },{
      "model_name": "PROTON Iriz 2014-2017",
      "technical_specs": {
-          "ENGINE SPECS - 1.3L 5MT (95 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1332 cm3",
+               "Displacement": 1332,
                "Power": "69.9 KW @ 5750 RPM\n95 HP @ 5750 RPM\n94 BHP @ 5750 RPM",
                "Torque": "89 lb-ft @ 4000 RPM\n120 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "10.6 gallons (40.1 L)"
+               "Fuel capacity": 10.6
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "103 mph (166 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "12.2 s"
+               "Top Speed": 103,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -576,15 +576,15 @@
                "Tire Size": "175/65 R14"
           },
           "DIMENSIONS": {
-               "Length": "154.3 in (3919 mm)",
-               "Width": "67.8 in (1722 mm)",
-               "Height": "61.2 in (1554 mm)",
-               "Wheelbase": "100.6 in (2555 mm)",
-               "Ground Clearance": "6.1 in (155 mm)",
-               "Cargo Volume": "7.6 cuFT (215 L)"
+               "Length": 154.3,
+               "Width": 67.8,
+               "Height": 61.2,
+               "Wheelbase": 100.6,
+               "Ground Clearance": 6.1,
+               "Cargo Volume": 7.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2491 lbs (1130 kg)"
+               "Unladen Weight": 2491
           },
           "": {}
      },
@@ -592,18 +592,18 @@
 },{
      "model_name": "PROTON Satria Neo 2006-2015",
      "technical_specs": {
-          "ENGINE SPECS - 1.3L 5MT (94 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1332 cm3",
+               "Displacement": 1332,
                "Power": "82 KW @ 6600 RPM\n111 HP @ 6600 RPM\n110 BHP @ 6600 RPM",
                "Torque": "109 lb-ft @ 4000 RPM\n148 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Fuel Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.2 gallons (50.0 L)"
+               "Fuel capacity": 13.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11.3 s"
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -617,14 +617,14 @@
                "Tire Size": "195/55 R15"
           },
           "DIMENSIONS": {
-               "Length": "153.7 in (3904 mm)",
-               "Width": "67.3 in (1709 mm)",
-               "Height": "55.9 in (1420 mm)",
+               "Length": 153.7,
+               "Width": 67.3,
+               "Height": 55.9,
                "Front/rear Track": "57.9/57.9 in (1,471/1,471 mm)",
-               "Wheelbase": "88.2 in (2240 mm)"
+               "Wheelbase": 88.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2526.5 lbs (1146 kg)"
+               "Unladen Weight": 2526.5
           },
           "": {}
      },
@@ -632,17 +632,17 @@
 },{
      "model_name": "PROTON Savvy 2005-2012",
      "technical_specs": {
-          "ENGINE SPECS - 1.2 5MT (75 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1149 cm3",
+               "Displacement": 1149,
                "Power": "55 KW @ 5500 RPM\n75 HP @ 5500 RPM\n74 BHP @ 5500 RPM",
                "Torque": "77 lb-ft @ 4250 RPM\n104 Nm @ 4250 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "99 mph (159 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "13.9 s"
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -656,23 +656,23 @@
                "Tire Size": "165/60 R14"
           },
           "DIMENSIONS": {
-               "Length": "146.1 in (3711 mm)",
-               "Width": "64.7 in (1643 mm)",
-               "Height": "58.3 in (1481 mm)",
+               "Length": 146.1,
+               "Width": 64.7,
+               "Height": 58.3,
                "Front/rear Track": "55.9/55.5 in (1,420/1,410 mm)",
-               "Wheelbase": "94.3 in (2395 mm)",
-               "Ground Clearance": "5.7 in (145 mm)",
-               "Cargo Volume": "7.3 cuFT (207 L)"
+               "Wheelbase": 94.3,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 7.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2127 lbs (965 kg)",
-               "Gross Weight Limit": "2789 lbs (1265 kg)"
+               "Unladen Weight": 2127,
+               "Gross Weight Limit": 2789
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "30.5 mpg US (7.7 L/100Km)",
-               "Highway": "51.1 mpg US (4.6 L/100Km)",
-               "Combined": "41.3 mpg US (5.7 L/100Km)",
-               "CO2 Emissions": "134 g/km"
+               "City": 30.5,
+               "Highway": 51.1,
+               "Combined": 41.3,
+               "CO2 Emissions": 134
           },
           "": {}
      },
@@ -680,18 +680,18 @@
 },{
      "model_name": "PROTON Waja/Impian 2001-2011",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 4AT (103 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1584 cm3",
+               "Displacement": 1584,
                "Power": "76 KW @ 6000 RPM\n103 HP @ 6000 RPM\n102 BHP @ 6000 RPM",
                "Torque": "103 lb-ft @ 2750 RPM\n140 Nm @ 2750 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14.7 s"
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -705,20 +705,20 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "175.8 in (4465 mm)",
-               "Width": "68.5 in (1740 mm)",
-               "Height": "55.9 in (1420 mm)",
+               "Length": 175.8,
+               "Width": 68.5,
+               "Height": 55.9,
                "Front/rear Track": "58.1/57.9 in (1,476/1,471 mm)",
-               "Wheelbase": "102.4 in (2601 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "14.5 cuFT (411 L)"
+               "Wheelbase": 102.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2657 lbs (1205 kg)",
-               "Gross Weight Limit": "3472 lbs (1575 kg)"
+               "Unladen Weight": 2657,
+               "Gross Weight Limit": 3472
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "36.2 mpg US (6.5 L/100Km)"
+               "Combined": 36.2
           },
           "": {}
      },

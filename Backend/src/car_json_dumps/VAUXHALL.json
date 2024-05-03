@@ -2,20 +2,20 @@
 {
      "model_name": "2025 Vauxhall Grandland",
      "technical_specs": {
-          "ENGINE SPECS - 98 KWH": {
+          "ENGINE SPECS": {
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "DIMENSIONS": {
-               "Wheelbase": "109.6 in (2784 mm)",
-               "Cargo Volume": "19.4 cuFT (549 L)"
+               "Wheelbase": 109.6,
+               "Cargo Volume": 19.4
           }
      },
      "img": "images/2025 Vauxhall Grandland05-03-07-39-21.jpg"
 },{
      "model_name": "2023 Vauxhall Grandland GSe",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L PHEV 8AT AWD (300 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
                "Power": "147.1 KW @ - RPM\n200 HP @ - RPM\n197 BHP @ - RPM",
                "Electrical motor power": "80.9 kw (110 hp)",
@@ -32,7 +32,7 @@
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
                "Maximum Capacity": "14.2 kWh",
-               "Range": "41 miles (66.0 km)"
+               "Range": 41
           },
           "NOTES": {
                "Rear electric motor": "113 HP (83 KW"
@@ -42,18 +42,18 @@
 },{
      "model_name": "2022 Vauxhall Grandland",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L 6MT (130 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "95.6 KW @ 5500 RPM\n130 HP @ 5500 RPM\n128 BHP @ 5500 RPM",
                "Torque": "170 lb-ft @ 1750 RPM\n230 Nm @ 1750 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14 gallons (53.0 L)"
+               "Fuel capacity": 14
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "122 mph (196 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.4 s"
+               "Top Speed": 122,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -67,14 +67,14 @@
                "Tire Size": "215/65 R17"
           },
           "DIMENSIONS": {
-               "Length": "176.3 in (4478 mm)",
-               "Width": "75 in (1905 mm)",
-               "Height": "63.3 in (1608 mm)",
-               "Wheelbase": "105.3 in (2675 mm)",
-               "Cargo Volume": "18.2 cuFT (515 L)"
+               "Length": 176.3,
+               "Width": 75,
+               "Height": 63.3,
+               "Wheelbase": 105.3,
+               "Cargo Volume": 18.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4255 lbs (1930 kg)"
+               "Unladen Weight": 4255
           },
           "": {}
      },
@@ -82,7 +82,7 @@
 },{
      "model_name": "2022 Vauxhall Astra Sports Tourer GSe",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L PHEV 8AT (225 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "80.9 kw (110 hp)",
                "Total maximum power": "165.5 kw (225 hp)",
                "Total maximum torque": "265.5 lb-ft (360 Nm)",
@@ -97,26 +97,26 @@
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Nominal Capacity": "12.4 kWh",
-               "Range": "40 miles (64.4 km)"
+               "Nominal Capacity": 12.4,
+               "Range": 40
           }
      },
      "img": "images/2022 Vauxhall Astra Sports Tourer GSe05-03-07-39-27.jpg"
 },{
      "model_name": "2022 Vauxhall Astra Sports Tourer",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L 6MT FWD (110 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "80.9 KW @ 5500 RPM\n110 HP @ 5500 RPM\n108 BHP @ 5500 RPM",
                "Torque": "151 lb-ft @ 1750 RPM\n205 Nm @ 1750 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.7 gallons (51.9 L)"
+               "Fuel capacity": 13.7
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -130,18 +130,18 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "182.8 in (4643 mm)",
-               "Width": "73.2 in (1859 mm)",
-               "Height": "56.8 in (1443 mm)",
-               "Wheelbase": "107.6 in (2733 mm)",
-               "Cargo Volume": "21.1 cuFT (597 L)",
-               "Turning circle": "35.1 ft (10.7 m)"
+               "Length": 182.8,
+               "Width": 73.2,
+               "Height": 56.8,
+               "Wheelbase": 107.6,
+               "Cargo Volume": 21.1,
+               "Turning circle": 35.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4123 lbs (1870 kg)"
+               "Unladen Weight": 4123
           },
           "FUEL ECONOMY (WLTP)": {
-               "Combined": "42 mpg US (5.6 L/100Km)",
+               "Combined": 42,
                "CO2 Emissions (Combined)": "126 g/km"
           },
           "": {}
@@ -150,18 +150,18 @@
 },{
      "model_name": "2020 Opel Astra Sport Tourer",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L TURBO START%STOP 6MT (145 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "106.6 KW @ 5500 RPM\n145 HP @ 5500 RPM\n143 BHP @ 5500 RPM",
                "Torque": "166 lb-ft @ 2000-3500 RPM\n225 Nm @ 2000-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "12.7 gallons (48.1 L)"
+               "Fuel capacity": 12.7
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "137 mph (220 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.3 s"
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -172,16 +172,16 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "185.1 in (4702 mm)",
-               "Width": "80.4 in (2042 mm)",
-               "Height": "59.4 in (1509 mm)",
-               "Wheelbase": "104.8 in (2662 mm)",
-               "Cargo Volume": "19.1 cuFT (541 L)",
-               "Aerodynamics (Cd)": "0.25"
+               "Length": 185.1,
+               "Width": 80.4,
+               "Height": 59.4,
+               "Wheelbase": 104.8,
+               "Cargo Volume": 19.1,
+               "Aerodynamics (Cd)": 0.25
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "42 mpg US (5.6 L/100Km)",
-               "CO2 Emissions": "102 g/km"
+               "Combined": 42,
+               "CO2 Emissions": 102
           },
           "": {}
      },
@@ -189,18 +189,18 @@
 },{
      "model_name": "2015 Vauxhall Astra Sports Tourer",
      "technical_specs": {
-          "ENGINE SPECS - 1.0L TURBO 5AT (105 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "999 cm3",
+               "Displacement": 999,
                "Power": "77.3 KW @ 5500 RPM\n105 HP @ 5500 RPM\n104 BHP @ 5500 RPM",
                "Torque": "125 lb-ft @ 1800-4250 RPM\n170 Nm @ 1800-4250 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "12.7 gallons (48.1 L)"
+               "Fuel capacity": 12.7
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "12.1 s"
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -214,24 +214,24 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "185.1 in (4702 mm)",
-               "Width": "71.2 in (1808 mm)",
-               "Height": "59.4 in (1509 mm)",
+               "Length": 185.1,
+               "Width": 71.2,
+               "Height": 59.4,
                "Front/rear Track": "60.9/61.6 in (1,547/1,565 mm)",
-               "Wheelbase": "104.8 in (2662 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "19.1 cuFT (541 L)",
-               "Aerodynamics (Cd)": "0.27"
+               "Wheelbase": 104.8,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 19.1,
+               "Aerodynamics (Cd)": 0.27
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2619 lbs (1188 kg)",
-               "Gross Weight Limit": "4090 lbs (1855 kg)"
+               "Unladen Weight": 2619,
+               "Gross Weight Limit": 4090
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "46.1 mpg US (5.1 L/100Km)",
-               "Highway": "63.6 mpg US (3.7 L/100Km)",
-               "Combined": "56 mpg US (4.2 L/100Km)",
-               "CO2 Emissions": "97 g/km"
+               "City": 46.1,
+               "Highway": 63.6,
+               "Combined": 56,
+               "CO2 Emissions": 97
           },
           "": {}
      },
@@ -239,18 +239,18 @@
 },{
      "model_name": "2012 Vauxhall Astra Sports Tourer",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L 5MT (100 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1398 cm3",
+               "Displacement": 1398,
                "Power": "73.5 KW @ 6000 RPM\n100 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
                "Torque": "96 lb-ft @ 4000 RPM\n130 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14.8 gallons (56.0 L)"
+               "Fuel capacity": 14.8
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "109 mph (175 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14 s"
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 14
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -264,24 +264,24 @@
                "Tire Size": "205/60 R 16"
           },
           "DIMENSIONS": {
-               "Length": "185 in (4699 mm)",
-               "Width": "71.4 in (1814 mm)",
-               "Height": "60.4 in (1534 mm)",
+               "Length": 185,
+               "Width": 71.4,
+               "Height": 60.4,
                "Front/rear Track": "60.8/61.3 in (1,544/1,557 mm)",
-               "Wheelbase": "105.7 in (2685 mm)",
-               "Ground Clearance": "4.6 in (117 mm)",
-               "Cargo Volume": "17.7 cuFT (501 L)",
-               "Aerodynamics (Cd)": "0.33"
+               "Wheelbase": 105.7,
+               "Ground Clearance": 4.6,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (Cd)": 0.33
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2884 lbs (1308 kg)",
-               "Gross Weight Limit": "4354 lbs (1975 kg)"
+               "Unladen Weight": 2884,
+               "Gross Weight Limit": 4354
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "31.4 mpg US (7.5 L/100Km)",
-               "Highway": "48 mpg US (4.9 L/100Km)",
-               "Combined": "40.6 mpg US (5.8 L/100Km)",
-               "CO2 Emissions": "137 g/km"
+               "City": 31.4,
+               "Highway": 48,
+               "Combined": 40.6,
+               "CO2 Emissions": 137
           },
           "": {}
      },
@@ -289,18 +289,18 @@
 },{
      "model_name": "2010 Vauxhall Astra Sports Tourer",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L 5MT FWD (100 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1398 cm3",
+               "Displacement": 1398,
                "Power": "74 KW @ 6000 RPM\n101 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
                "Torque": "96 lb-ft @ 4000 RPM\n130 Nm @ 4000 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14.8 gallons (56.0 L)"
+               "Fuel capacity": 14.8
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "109 mph (175 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14.5 s"
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -314,24 +314,24 @@
                "Tire Size": "205/60 R16"
           },
           "DIMENSIONS": {
-               "Length": "185 in (4699 mm)",
-               "Width": "71.4 in (1814 mm)",
-               "Height": "60.4 in (1534 mm)",
+               "Length": 185,
+               "Width": 71.4,
+               "Height": 60.4,
                "Front/rear Track": "60.8/61.3 in (1,544/1,557 mm)",
-               "Wheelbase": "105.7 in (2685 mm)",
-               "Ground Clearance": "4.6 in (117 mm)",
-               "Cargo Volume": "17.7 cuFT (501 L)",
-               "Aerodynamics (Cd)": "0.33"
+               "Wheelbase": 105.7,
+               "Ground Clearance": 4.6,
+               "Cargo Volume": 17.7,
+               "Aerodynamics (Cd)": 0.33
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3071 lbs (1393 kg)",
-               "Gross Weight Limit": "4321.1 lbs (1960 kg)"
+               "Unladen Weight": 3071,
+               "Gross Weight Limit": 4321.1
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "30.9 mpg US (7.6 L/100Km)",
-               "Highway": "48 mpg US (4.9 L/100Km)",
-               "Combined": "39.9 mpg US (5.9 L/100Km)",
-               "CO2 Emissions": "139 g/km"
+               "City": 30.9,
+               "Highway": 48,
+               "Combined": 39.9,
+               "CO2 Emissions": 139
           },
           "": {}
      },
@@ -339,18 +339,18 @@
 },{
      "model_name": "2004 Vauxhall Astra Estate",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L 5MT FWD (90 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1364 cm3",
+               "Displacement": 1364,
                "Power": "66 KW @ 5600 RPM\n90 HP @ 5600 RPM\n89 BHP @ 5600 RPM",
                "Torque": "92 lb-ft @ 4000 RPM\n125 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.7 gallons (51.9 L)"
+               "Fuel capacity": 13.7
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "111 mph (179 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "13.2 s"
+               "Top Speed": 111,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -364,24 +364,24 @@
                "Tire Size": "195/65 R15"
           },
           "DIMENSIONS": {
-               "Length": "177.8 in (4516 mm)",
-               "Width": "69 in (1753 mm)",
-               "Height": "58.9 in (1496 mm)",
+               "Length": 177.8,
+               "Width": 69,
+               "Height": 58.9,
                "Front/rear Track": "58.6/58.6 in (1,488/1,488 mm)",
-               "Wheelbase": "106.4 in (2703 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "17.6 cuFT (498 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 106.4,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 17.6,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2601.5 lbs (1180 kg)",
-               "Gross Weight Limit": "3979 lbs (1805 kg)"
+               "Unladen Weight": 2601.5,
+               "Gross Weight Limit": 3979
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "28.7 mpg US (8.2 L/100Km)",
-               "Highway": "45.2 mpg US (5.2 L/100Km)",
-               "Combined": "37.3 mpg US (6.3 L/100Km)",
-               "CO2 Emissions": "151 g/km"
+               "City": 28.7,
+               "Highway": 45.2,
+               "Combined": 37.3,
+               "CO2 Emissions": 151
           },
           "": {}
      },
@@ -389,7 +389,7 @@
 },{
      "model_name": "2023 Vauxhall Astra GSe",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L PHEV 8AT (225 HP)": {
+          "ENGINE SPECS": {
                "Power": "132.4 KW @ - RPM\n180 HP @ - RPM\n178 BHP @ - RPM",
                "Electrical motor power": "80.9 kw (110 hp)",
                "Total maximum power": "165.5 kw (225 hp)",
@@ -405,26 +405,26 @@
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Nominal Capacity": "12.4 kWh",
-               "Range": "40 miles (64.4 km)"
+               "Nominal Capacity": 12.4,
+               "Range": 40
           }
      },
      "img": "images/2023 Vauxhall Astra GSe05-03-07-39-49.jpg"
 },{
      "model_name": "2019 Vauxhall Astra Hatchback",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L TURBO 6MT (110 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "80.9 KW @ 4500 RPM\n110 HP @ 4500 RPM\n108 BHP @ 4500 RPM",
                "Torque": "144 lb-ft @ 2000-3500 RPM\n195 Nm @ 2000-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "12.7 gallons (48.1 L)"
+               "Fuel capacity": 12.7
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.1 s"
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -435,16 +435,16 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "172 in (4369 mm)",
-               "Width": "80.4 in (2042 mm)",
-               "Height": "58.5 in (1486 mm)",
-               "Wheelbase": "104.8 in (2662 mm)",
-               "Cargo Volume": "13.1 cuFT (371 L)",
-               "Aerodynamics (Cd)": "0.26"
+               "Length": 172,
+               "Width": 80.4,
+               "Height": 58.5,
+               "Wheelbase": 104.8,
+               "Cargo Volume": 13.1,
+               "Aerodynamics (Cd)": 0.26
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "42 mpg US (5.6 L/100Km)",
-               "CO2 Emissions": "99 g/km"
+               "Combined": 42,
+               "CO2 Emissions": 99
           },
           "": {}
      },
@@ -452,18 +452,18 @@
 },{
      "model_name": "2015 Vauxhall Astra Hatchback",
      "technical_specs": {
-          "ENGINE SPECS - 1.0L 5MT (105 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "998 cm3",
+               "Displacement": 998,
                "Power": "77 KW @ 5500 RPM\n105 HP @ 5500 RPM\n103 BHP @ 5500 RPM",
                "Torque": "125 lb-ft @ 1800-4250 RPM\n169 Nm @ 1800-4250 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "12.7 gallons (48.1 L)"
+               "Fuel capacity": 12.7
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11.2 s"
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -477,24 +477,24 @@
                "Tire Size": "205/60R16"
           },
           "DIMENSIONS": {
-               "Length": "172 in (4369 mm)",
-               "Width": "71.2 in (1808 mm)",
-               "Height": "58.5 in (1486 mm)",
+               "Length": 172,
+               "Width": 71.2,
+               "Height": 58.5,
                "Front/rear Track": "60.9/61.6 in (1,547/1,565 mm)",
-               "Wheelbase": "104.8 in (2662 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "13.1 cuFT (371 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 104.8,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 13.1,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2784 lbs (1263 kg)",
-               "Gross Weight Limit": "3924 lbs (1780 kg)"
+               "Unladen Weight": 2784,
+               "Gross Weight Limit": 3924
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "45.2 mpg US (5.2 L/100Km)",
-               "Highway": "60.3 mpg US (3.9 L/100Km)",
-               "Combined": "53.5 mpg US (4.4 L/100Km)",
-               "CO2 Emissions": "102 g/km"
+               "City": 45.2,
+               "Highway": 60.3,
+               "Combined": 53.5,
+               "CO2 Emissions": 102
           },
           "": {}
      },
@@ -502,18 +502,18 @@
 },{
      "model_name": "2011 Vauxhall Astra J GTC",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L ECOFLEX (100 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "l4",
-               "Displacement": "1398 cm3",
+               "Displacement": 1398,
                "Power": "75 KW @ 6000 RPM\n102 HP @ 6000 RPM\n101 BHP @ 6000 RPM",
                "Torque": "96 lb-ft @ 4000 RPM\n130 Nm @ 4000 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14.8 gallons (56.0 L)"
+               "Fuel capacity": 14.8
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "111 mph (179 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14.5 s"
+               "Top Speed": 111,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -524,22 +524,22 @@
                "Rear": "Solid Disks"
           },
           "DIMENSIONS": {
-               "Length": "175.8 in (4465 mm)",
-               "Width": "72.4 in (1839 mm)",
-               "Height": "58.3 in (1481 mm)",
+               "Length": 175.8,
+               "Width": 72.4,
+               "Height": 58.3,
                "Front/rear Track": "62.4/62.5 in (1,585/1,588 mm)",
-               "Wheelbase": "106.1 in (2695 mm)",
-               "Cargo Volume": "13.1 cuFT (371 L)"
+               "Wheelbase": 106.1,
+               "Cargo Volume": 13.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2912 lbs (1321 kg)",
-               "Gross Weight Limit": "4147 lbs (1881 kg)"
+               "Unladen Weight": 2912,
+               "Gross Weight Limit": 4147
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "33 mpg US (7.1 L/100Km)",
-               "Highway": "48 mpg US (4.9 L/100Km)",
-               "Combined": "40 mpg US (5.9 L/100Km)",
-               "CO2 Emissions": "139 g/km"
+               "City": 33,
+               "Highway": 48,
+               "Combined": 40,
+               "CO2 Emissions": 139
           },
           "": {}
      },
@@ -547,18 +547,18 @@
 },{
      "model_name": "2009 Vauxhall Astra Hatchback",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L ECOFLEX 5MT (100 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1398 cm3",
+               "Displacement": 1398,
                "Power": "74 KW @ 6000 RPM\n101 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
                "Torque": "96 lb-ft @ 4000 RPM\n130 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14.8 gallons (56.0 L)"
+               "Fuel capacity": 14.8
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "110 mph (177 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14.2 s"
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -572,25 +572,25 @@
                "Tire Size": "205/60 R16"
           },
           "DIMENSIONS": {
-               "Length": "174 in (4420 mm)",
-               "Width": "71.4 in (1814 mm)",
-               "Height": "59.4 in (1509 mm)",
+               "Length": 174,
+               "Width": 71.4,
+               "Height": 59.4,
                "Front/rear Track": "60.7/61.3 in (1,542/1,557 mm)",
-               "Wheelbase": "105.7 in (2685 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "13.1 cuFT (371 L)",
-               "Aerodynamics (Cd)": "0.3",
-               "Turning circle": "37.4 ft (11.4 m)"
+               "Wheelbase": 105.7,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 13.1,
+               "Aerodynamics (Cd)": 0.3,
+               "Turning circle": 37.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2840 lbs (1288 kg)",
-               "Gross Weight Limit": "4156 lbs (1885 kg)"
+               "Unladen Weight": 2840,
+               "Gross Weight Limit": 4156
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "32.6 mpg US (7.2 L/100Km)",
-               "Highway": "52.2 mpg US (4.5 L/100Km)",
-               "Combined": "42.7 mpg US (5.5 L/100Km)",
-               "CO2 Emissions": "129 g/km"
+               "City": 32.6,
+               "Highway": 52.2,
+               "Combined": 42.7,
+               "CO2 Emissions": 129
           },
           "": {}
      },
@@ -598,18 +598,18 @@
 },{
      "model_name": "2004 Vauxhall Astra 5 Doors",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L 5AT FWD (90 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1364 cm3",
+               "Displacement": 1364,
                "Power": "66 KW @ 5600 RPM\n90 HP @ 5600 RPM\n89 BHP @ 5600 RPM",
                "Torque": "92 lb-ft @ 4000 RPM\n125 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.7 gallons (51.9 L)"
+               "Fuel capacity": 13.7
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "111 mph (179 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "13.7 s"
+               "Top Speed": 111,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -623,24 +623,24 @@
                "Tire Size": "195/65 R15"
           },
           "DIMENSIONS": {
-               "Length": "167.3 in (4249 mm)",
-               "Width": "69 in (1753 mm)",
-               "Height": "57.8 in (1468 mm)",
+               "Length": 167.3,
+               "Width": 69,
+               "Height": 57.8,
                "Front/rear Track": "58.6/58.6 in (1,488/1,488 mm)",
-               "Wheelbase": "102.9 in (2614 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "12.3 cuFT (348 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 102.9,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 12.3,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2568 lbs (1165 kg)",
-               "Gross Weight Limit": "3759 lbs (1705 kg)"
+               "Unladen Weight": 2568,
+               "Gross Weight Limit": 3759
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "28.7 mpg US (8.2 L/100Km)",
-               "Highway": "45.2 mpg US (5.2 L/100Km)",
-               "Combined": "37.3 mpg US (6.3 L/100Km)",
-               "CO2 Emissions": "151 g/km"
+               "City": 28.7,
+               "Highway": 45.2,
+               "Combined": 37.3,
+               "CO2 Emissions": 151
           },
           "": {}
      },
@@ -648,17 +648,17 @@
 },{
      "model_name": "VAUXHALL Corsa 5 Doors 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L 5MT FWD (75 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "55.2 KW @ 5750 RPM\n75 HP @ 5750 RPM\n74 BHP @ 5750 RPM",
                "Torque": "151 lb-ft @ 1500-3500 RPM\n205 Nm @ 1500-3500 RPM",
                "Fuel System": "Multipoint Injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": "10.8 gallons (40.9 L)"
+               "Fuel capacity": 10.8
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "108 mph (174 km/h)"
+               "Top Speed": 108
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -672,18 +672,18 @@
                "Tire Size": "195/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "159.8 in (4059 mm)",
-               "Width": "69.5 in (1765 mm)",
-               "Height": "56.4 in (1433 mm)",
-               "Wheelbase": "99.9 in (2537 mm)",
-               "Cargo Volume": "10.9 cuFT (309 L)"
+               "Length": 159.8,
+               "Width": 69.5,
+               "Height": 56.4,
+               "Wheelbase": 99.9,
+               "Cargo Volume": 10.9
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2161 lbs (980 kg)",
-               "Gross Weight Limit": "3417 lbs (1550 kg)"
+               "Unladen Weight": 2161,
+               "Gross Weight Limit": 3417
           },
           "FUEL ECONOMY (WLTP)": {
-               "Combined": "44.4 mpg US (5.3 L/100Km)",
+               "Combined": 44.4,
                "CO2 Emissions (Combined)": "93 g/km"
           },
           "": {}
@@ -692,18 +692,18 @@
 },{
      "model_name": "VAUXHALL Corsa 5 doors 2014-2019",
      "technical_specs": {
-          "ENGINE SPECS - 1.0L TURBO 6MT (115 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "999 cm3",
+               "Displacement": 999,
                "Power": "84.6 KW @ 5000-6000 RPM\n115 HP @ 5000-6000 RPM\n113 BHP @ 5000-6000 RPM",
                "Torque": "125 lb-ft @ 1800-4500 RPM\n170 Nm @ 1800-4500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "11.9 gallons (45.0 L)"
+               "Fuel capacity": 11.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "121 mph (195 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.3 s"
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -717,20 +717,20 @@
                "Tire Size": "185/65 R15"
           },
           "DIMENSIONS": {
-               "Length": "158.3 in (4021 mm)",
-               "Width": "68.7 in (1745 mm)",
-               "Height": "58.3 in (1481 mm)",
-               "Wheelbase": "98.8 in (2510 mm)",
-               "Cargo Volume": "10.1 cuFT (286 L)"
+               "Length": 158.3,
+               "Width": 68.7,
+               "Height": 58.3,
+               "Wheelbase": 98.8,
+               "Cargo Volume": 10.1
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": "3704 lbs (1680 kg)"
+               "Gross Weight Limit": 3704
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "38.6 mpg US (6.1 L/100Km)",
-               "Highway": "54.7 mpg US (4.3 L/100Km)",
-               "Combined": "47 mpg US (5 L/100Km)",
-               "CO2 Emissions": "115 g/km"
+               "City": 38.6,
+               "Highway": 54.7,
+               "Combined": 47,
+               "CO2 Emissions": 115
           },
           "": {}
      },
@@ -738,18 +738,18 @@
 },{
      "model_name": "VAUXHALL Corsa 5 Doors 2006-2014",
      "technical_specs": {
-          "ENGINE SPECS - 1.0I 5MT FWD (60 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "998 cm3",
+               "Displacement": 998,
                "Power": "44 KW @ 5600 RPM\n60 HP @ 5600 RPM\n59 BHP @ 5600 RPM",
                "Torque": "65 lb-ft @ 3800 RPM\n88 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "11.9 gallons (45.0 L)"
+               "Fuel capacity": 11.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "93 mph (150 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "17 s"
+               "Top Speed": 93,
+               "Acceleration 0-62 Mph (0-100 kph)": 17
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -763,23 +763,23 @@
                "Tire Size": "175/65 R14"
           },
           "DIMENSIONS": {
-               "Length": "157.4 in (3998 mm)",
-               "Width": "67.4 in (1712 mm)",
-               "Height": "58.6 in (1488 mm)",
+               "Length": 157.4,
+               "Width": 67.4,
+               "Height": 58.6,
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": "98.8 in (2510 mm)",
-               "Cargo Volume": "10 cuFT (283 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 98.8,
+               "Cargo Volume": 10,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2087.7 lbs (947 kg)",
-               "Gross Weight Limit": "3406.1 lbs (1545 kg)"
+               "Unladen Weight": 2087.7,
+               "Gross Weight Limit": 3406.1
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "34.1 mpg US (6.9 L/100Km)",
-               "Highway": "53.5 mpg US (4.4 L/100Km)",
-               "Combined": "44.4 mpg US (5.3 L/100Km)",
-               "CO2 Emissions": "134 g/km"
+               "City": 34.1,
+               "Highway": 53.5,
+               "Combined": 44.4,
+               "CO2 Emissions": 134
           },
           "": {}
      },
@@ -787,18 +787,18 @@
 },{
      "model_name": "VAUXHALL Corsa 5 Doors 2001-2006",
      "technical_specs": {
-          "ENGINE SPECS - 1.0I 5MT FWD (60 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "998 cm3",
+               "Displacement": 998,
                "Power": "44 KW @ 5600 RPM\n60 HP @ 5600 RPM\n59 BHP @ 5600 RPM",
                "Torque": "65 lb-ft @ 3800 RPM\n88 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "11.9 gallons (45.0 L)"
+               "Fuel capacity": 11.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "96 mph (154 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15 s"
+               "Top Speed": 96,
+               "Acceleration 0-62 Mph (0-100 kph)": 15
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -812,24 +812,24 @@
                "Tire Size": "175/65 R14"
           },
           "DIMENSIONS": {
-               "Length": "151.1 in (3838 mm)",
-               "Width": "64.8 in (1646 mm)",
-               "Height": "56.7 in (1440 mm)",
+               "Length": 151.1,
+               "Width": 64.8,
+               "Height": 56.7,
                "Front/rear Track": "56.5/56.1 in (1,435/1,425 mm)",
-               "Wheelbase": "98.1 in (2492 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "9.1 cuFT (258 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 98.1,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 9.1,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2220.1 lbs (1007 kg)",
-               "Gross Weight Limit": "3097 lbs (1405 kg)"
+               "Unladen Weight": 2220.1,
+               "Gross Weight Limit": 3097
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "34.1 mpg US (6.9 L/100Km)",
-               "Highway": "53.5 mpg US (4.4 L/100Km)",
-               "Combined": "44.4 mpg US (5.3 L/100Km)",
-               "CO2 Emissions": "127 g/km"
+               "City": 34.1,
+               "Highway": 53.5,
+               "Combined": 44.4,
+               "CO2 Emissions": 127
           },
           "": {}
      },
@@ -837,18 +837,18 @@
 },{
      "model_name": "VAUXHALL Corsa 3 doors 2014-Present",
      "technical_specs": {
-          "ENGINE SPECS - 1.0L TURBO 6MT (115 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "999 cm3",
+               "Displacement": 999,
                "Power": "84.6 KW @ 5000-6000 RPM\n115 HP @ 5000-6000 RPM\n113 BHP @ 5000-6000 RPM",
                "Torque": "125 lb-ft @ 1800-4500 RPM\n170 Nm @ 1800-4500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "11.9 gallons (45.0 L)"
+               "Fuel capacity": 11.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "121 mph (195 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.3 s"
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -862,21 +862,21 @@
                "Tire Size": "185/65 R15"
           },
           "DIMENSIONS": {
-               "Length": "158.3 in (4021 mm)",
-               "Width": "68.3 in (1735 mm)",
-               "Height": "58.2 in (1478 mm)",
-               "Wheelbase": "98.8 in (2510 mm)",
-               "Cargo Volume": "9.9 cuFT (280 L)",
-               "Aerodynamics (Cd)": "0.33"
+               "Length": 158.3,
+               "Width": 68.3,
+               "Height": 58.2,
+               "Wheelbase": 98.8,
+               "Cargo Volume": 9.9,
+               "Aerodynamics (Cd)": 0.33
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": "3605 lbs (1635 kg)"
+               "Gross Weight Limit": 3605
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "39.9 mpg US (5.9 L/100Km)",
-               "Highway": "56 mpg US (4.2 L/100Km)",
-               "Combined": "49 mpg US (4.8 L/100Km)",
-               "CO2 Emissions": "111 g/km"
+               "City": 39.9,
+               "Highway": 56,
+               "Combined": 49,
+               "CO2 Emissions": 111
           },
           "": {}
      },
@@ -884,18 +884,18 @@
 },{
      "model_name": "VAUXHALL Corsa 3 Doors 2006-2014",
      "technical_specs": {
-          "ENGINE SPECS - 1.0L 5MT FWD (60 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "998 cm3",
+               "Displacement": 998,
                "Power": "44 KW @ 5600 RPM\n60 HP @ 5600 RPM\n59 BHP @ 5600 RPM",
                "Torque": "65 lb-ft @ 3800 RPM\n88 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "11.9 gallons (45.0 L)"
+               "Fuel capacity": 11.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "93 mph (150 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "17 s"
+               "Top Speed": 93,
+               "Acceleration 0-62 Mph (0-100 kph)": 17
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -909,23 +909,23 @@
                "Tire Size": "175/65R14"
           },
           "DIMENSIONS": {
-               "Length": "157.4 in (3998 mm)",
-               "Width": "67.4 in (1712 mm)",
-               "Height": "58.6 in (1488 mm)",
+               "Length": 157.4,
+               "Width": 67.4,
+               "Height": 58.6,
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": "98.8 in (2510 mm)",
-               "Cargo Volume": "10 cuFT (283 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 98.8,
+               "Cargo Volume": 10,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2259.7 lbs (1025 kg)",
-               "Gross Weight Limit": "3406.1 lbs (1545 kg)"
+               "Unladen Weight": 2259.7,
+               "Gross Weight Limit": 3406.1
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "34.1 mpg US (6.9 L/100Km)",
-               "Highway": "53.4 mpg US (4.4 L/100Km)",
-               "Combined": "44.4 mpg US (5.3 L/100Km)",
-               "CO2 Emissions": "134 g/km"
+               "City": 34.1,
+               "Highway": 53.4,
+               "Combined": 44.4,
+               "CO2 Emissions": 134
           },
           "": {}
      },
@@ -933,18 +933,18 @@
 },{
      "model_name": "VAUXHALL Corsa 3 Doors 2001-2006",
      "technical_specs": {
-          "ENGINE SPECS - 1.0I 5MT (60 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "998 cm3",
+               "Displacement": 998,
                "Power": "44 KW @ 5600 RPM\n60 HP @ 5600 RPM\n59 BHP @ 5600 RPM",
                "Torque": "65 lb-ft @ 3800 RPM\n88 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "12.2 gallons (46.2 L)"
+               "Fuel capacity": 12.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "96 mph (154 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "15 s"
+               "Top Speed": 96,
+               "Acceleration 0-62 Mph (0-100 kph)": 15
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -958,24 +958,24 @@
                "Tire Size": "155/80 R13"
           },
           "DIMENSIONS": {
-               "Length": "151.1 in (3838 mm)",
-               "Width": "64.8 in (1646 mm)",
-               "Height": "56.7 in (1440 mm)",
+               "Length": 151.1,
+               "Width": 64.8,
+               "Height": 56.7,
                "Front/rear Track": "56.5/56.1 in (1,435/1,425 mm)",
-               "Wheelbase": "98.1 in (2492 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "9.1 cuFT (258 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 98.1,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 9.1,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2164.93 lbs (982 kg)",
-               "Gross Weight Limit": "3097 lbs (1405 kg)"
+               "Unladen Weight": 2164.93,
+               "Gross Weight Limit": 3097
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "34.05 mpg US (6.9 L/100Km)",
-               "Highway": "53.45 mpg US (4.4 L/100Km)",
-               "Combined": "44.38 mpg US (5.3 L/100Km)",
-               "CO2 Emissions": "127 g/km"
+               "City": 34.05,
+               "Highway": 53.45,
+               "Combined": 44.38,
+               "CO2 Emissions": 127
           },
           "": {}
      },
@@ -983,17 +983,17 @@
 },{
      "model_name": "VAUXHALL VXR8 GTS-R 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS - 6.2 V8 6AT (595 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6162 cm3",
+               "Displacement": 6162,
                "Power": "437.7 KW @ - RPM\n595 HP @ - RPM\n587 BHP @ - RPM",
                "Torque": "546 lb-ft @ - RPM\n740 Nm @ - RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.3 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1007,14 +1007,14 @@
                "Tire Size": "255/35 R 20 || 275/35 R 20"
           },
           "DIMENSIONS": {
-               "Length": "198.6 in (5044 mm)",
-               "Width": "74.8 in (1900 mm)",
-               "Height": "57.8 in (1468 mm)",
+               "Length": 198.6,
+               "Width": 74.8,
+               "Height": 57.8,
                "Front/rear Track": "63.6/62.6 in (1,615/1,590 mm)",
-               "Wheelbase": "114.8 in (2916 mm)"
+               "Wheelbase": 114.8
           },
           "FUEL ECONOMY (NEDC)": {
-               "CO2 Emissions": "363 g/km"
+               "CO2 Emissions": 363
           },
           "": {}
      },
@@ -1022,17 +1022,17 @@
 },{
      "model_name": "VAUXHALL VXR8 GTS 2013-Present",
      "technical_specs": {
-          "ENGINE SPECS - 6.2L LSA V8 6AT (585 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6162 cm3",
+               "Displacement": 6162,
                "Power": "430 KW @ 6150 RPM\n585 HP @ 6150 RPM\n577 BHP @ 6150 RPM",
                "Torque": "546 lb-ft @ 3850 RPM\n740 Nm @ 3850 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.3 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.3
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1046,18 +1046,18 @@
                "Tire Size": "255/35 R 20"
           },
           "DIMENSIONS": {
-               "Length": "196.4 in (4989 mm)",
-               "Width": "74.8 in (1900 mm)",
-               "Height": "57.4 in (1458 mm)"
+               "Length": 196.4,
+               "Width": 74.8,
+               "Height": 57.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4145 lbs (1880 kg)"
+               "Unladen Weight": 4145
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "10.5 mpg US (22.4 L/100Km)",
-               "Highway": "19.9 mpg US (11.8 L/100Km)",
-               "Combined": "15 mpg US (15.7 L/100Km)",
-               "CO2 Emissions": "373 g/km"
+               "City": 10.5,
+               "Highway": 19.9,
+               "Combined": 15,
+               "CO2 Emissions": 373
           },
           "": {}
      },
@@ -1065,18 +1065,18 @@
 },{
      "model_name": "VAUXHALL VXR8 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 6.0L V8 6AT (417 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5967 cm3",
+               "Displacement": 5967,
                "Power": "307 KW @ 6000 RPM\n417 HP @ 6000 RPM\n412 BHP @ 6000 RPM",
                "Torque": "406 lb-ft @ 4400 RPM\n550 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "19.3 gallons (73.1 L)"
+               "Fuel capacity": 19.3
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "171 mph (275 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
+               "Top Speed": 171,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1090,23 +1090,23 @@
                "Tire Size": "245/40 R 19 || 275/35 R 19"
           },
           "DIMENSIONS": {
-               "Length": "194.5 in (4940 mm)",
-               "Width": "74.8 in (1900 mm)",
-               "Height": "57.8 in (1468 mm)",
-               "Wheelbase": "114.8 in (2916 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "17.5 cuFT (496 L)",
-               "Aerodynamics (Cd)": "0.33"
+               "Length": 194.5,
+               "Width": 74.8,
+               "Height": 57.8,
+               "Wheelbase": 114.8,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 17.5,
+               "Aerodynamics (Cd)": 0.33
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4079 lbs (1850 kg)",
-               "Gross Weight Limit": "5068 lbs (2299 kg)"
+               "Unladen Weight": 4079,
+               "Gross Weight Limit": 5068
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "10.3 mpg US (22.8 L/100Km)",
-               "Highway": "21.6 mpg US (10.9 L/100Km)",
-               "Combined": "15.4 mpg US (15.3 L/100Km)",
-               "CO2 Emissions": "365 g/km"
+               "City": 10.3,
+               "Highway": 21.6,
+               "Combined": 15.4,
+               "CO2 Emissions": 365
           },
           "": {}
      },
@@ -1114,17 +1114,17 @@
 },{
      "model_name": "VAUXHALL Insignia VXR Supersport Sedan 2012-Present",
      "technical_specs": {
-          "ENGINE SPECS - 2.8L V6 ECOTEC 6AT (325 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "6",
-               "Displacement": "2792 cm3",
+               "Displacement": 2792,
                "Power": "239 KW @ 5250 RPM\n325 HP @ 5250 RPM\n321 BHP @ 5250 RPM",
                "Torque": "321 lb-ft @ 5250 RPM\n435 Nm @ 5250 RPM",
                "Fuel System": "Multipoint Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.8 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1138,22 +1138,22 @@
                "Tire Size": "245/40 R19"
           },
           "DIMENSIONS": {
-               "Length": "190.1 in (4829 mm)",
-               "Width": "73 in (1854 mm)",
-               "Height": "58.9 in (1496 mm)",
+               "Length": 190.1,
+               "Width": 73,
+               "Height": 58.9,
                "Front/rear Track": "62.4/62.5 in (1,585/1,588 mm)",
-               "Wheelbase": "107.7 in (2736 mm)",
-               "Cargo Volume": "17.6 cuFT (498 L)"
+               "Wheelbase": 107.7,
+               "Cargo Volume": 17.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3990 lbs (1810 kg)",
-               "Gross Weight Limit": "5104 lbs (2315 kg)"
+               "Unladen Weight": 3990,
+               "Gross Weight Limit": 5104
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14.6 mpg US (16.1 L/100Km)",
-               "Highway": "31.4 mpg US (7.5 L/100Km)",
-               "Combined": "21.6 mpg US (10.9 L/100Km)",
-               "CO2 Emissions": "251 g/km"
+               "City": 14.6,
+               "Highway": 31.4,
+               "Combined": 21.6,
+               "CO2 Emissions": 251
           },
           "": {}
      },
@@ -1161,18 +1161,18 @@
 },{
      "model_name": "VAUXHALL Agila 2008-2015",
      "technical_specs": {
-          "ENGINE SPECS - 1.0L ECOFLEX 5MT (67 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "996 cm3",
+               "Displacement": 996,
                "Power": "50 KW @ 6000 RPM\n68 HP @ 6000 RPM\n67 BHP @ 6000 RPM",
                "Torque": "66 lb-ft @ 4800 RPM\n89 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "11.9 gallons (45.0 L)"
+               "Fuel capacity": 11.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "99 mph (159 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14.7 s"
+               "Top Speed": 99,
+               "Acceleration 0-62 Mph (0-100 kph)": 14.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1186,24 +1186,24 @@
                "Tire Size": "165/70 R14"
           },
           "DIMENSIONS": {
-               "Length": "147.2 in (3739 mm)",
-               "Width": "75.9 in (1928 mm)",
-               "Height": "92.9 in (2360 mm)",
+               "Length": 147.2,
+               "Width": 75.9,
+               "Height": 92.9,
                "Front/rear Track": "57.8/58.2 in (1,468/1,478 mm)",
-               "Wheelbase": "93 in (2362 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "8 cuFT (227 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 93,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 8,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2314 lbs (1050 kg)",
-               "Gross Weight Limit": "3196 lbs (1450 kg)"
+               "Unladen Weight": 2314,
+               "Gross Weight Limit": 3196
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "40 mpg US (5.9 L/100Km)",
-               "Highway": "53 mpg US (4.4 L/100Km)",
-               "Combined": "47 mpg US (5 L/100Km)",
-               "CO2 Emissions": "120 g/km"
+               "City": 40,
+               "Highway": 53,
+               "Combined": 47,
+               "CO2 Emissions": 120
           },
           "": {}
      },
@@ -1211,17 +1211,17 @@
 },{
      "model_name": "VAUXHALL Agila 2000-2007",
      "technical_specs": {
-          "ENGINE SPECS - 1.0L 12V 5MT FWD (58 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "998 cm3",
+               "Displacement": 998,
                "Power": "44 KW @ 5600 RPM\n60 HP @ 5600 RPM\n59 BHP @ 5600 RPM",
                "Torque": "65 lb-ft @ 3800 RPM\n88 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "88 mph (142 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "17 s"
+               "Top Speed": 88,
+               "Acceleration 0-62 Mph (0-100 kph)": 17
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1235,24 +1235,24 @@
                "Tire Size": "165/60 R14"
           },
           "DIMENSIONS": {
-               "Length": "139.2 in (3536 mm)",
-               "Width": "63.8 in (1621 mm)",
-               "Height": "65.4 in (1661 mm)",
+               "Length": 139.2,
+               "Width": 63.8,
+               "Height": 65.4,
                "Front/rear Track": "55.9/54.5 in (1,420/1,384 mm)",
-               "Wheelbase": "92.9 in (2360 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "8.5 cuFT (241 L)",
-               "Aerodynamics (Cd)": "0.37"
+               "Wheelbase": 92.9,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 8.5,
+               "Aerodynamics (Cd)": 0.37
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2083.4 lbs (945 kg)",
-               "Gross Weight Limit": "3164 lbs (1435 kg)"
+               "Unladen Weight": 2083.4,
+               "Gross Weight Limit": 3164
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "30.5 mpg US (7.7 L/100Km)",
-               "Highway": "42 mpg US (5.6 L/100Km)",
-               "Combined": "36.7 mpg US (6.4 L/100Km)",
-               "CO2 Emissions": "154 g/km"
+               "City": 30.5,
+               "Highway": 42,
+               "Combined": 36.7,
+               "CO2 Emissions": 154
           },
           "": {}
      },
@@ -1260,18 +1260,18 @@
 },{
      "model_name": "VAUXHALL Antara 2010-2015",
      "technical_specs": {
-          "ENGINE SPECS - 2.4L ECOTEC 6MT FWD (167 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2384 cm3",
+               "Displacement": 2384,
                "Power": "123 KW @ 5600 RPM\n167 HP @ 5600 RPM\n165 BHP @ 5600 RPM",
                "Torque": "169 lb-ft @ 4600 RPM\n229 Nm @ 4600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "17.2 gallons (65.1 L)"
+               "Fuel capacity": 17.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "118.1 mph (190 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.5 s"
+               "Top Speed": 118.1,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1285,23 +1285,23 @@
                "Tire Size": "235/55 R18"
           },
           "DIMENSIONS": {
-               "Length": "180.9 in (4595 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "67.6 in (1717 mm)",
+               "Length": 180.9,
+               "Width": 72.8,
+               "Height": 67.6,
                "Front/rear Track": "61.8/62 in (1,570/1,575 mm)",
-               "Wheelbase": "106.6 in (2708 mm)",
-               "Ground Clearance": "6.9 in (175 mm)",
-               "Cargo Volume": "14.8 cuFT (419 L)"
+               "Wheelbase": 106.6,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 14.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3858.1 lbs (1750 kg)",
-               "Gross Weight Limit": "4812.7 lbs (2183 kg)"
+               "Unladen Weight": 3858.1,
+               "Gross Weight Limit": 4812.7
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "20.1 mpg US (11.7 L/100Km)",
-               "Highway": "33.1 mpg US (7.1 L/100Km)",
-               "Combined": "26.7 mpg US (8.8 L/100Km)",
-               "CO2 Emissions": "206 g/km"
+               "City": 20.1,
+               "Highway": 33.1,
+               "Combined": 26.7,
+               "CO2 Emissions": 206
           },
           "": {}
      },
@@ -1309,18 +1309,18 @@
 },{
      "model_name": "VAUXHALL Antara 2007-2010",
      "technical_specs": {
-          "ENGINE SPECS - 2.4L 16V 5MT AWD (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2405 cm3",
+               "Displacement": 2405,
                "Power": "103 KW @ 5200 RPM\n140 HP @ 5200 RPM\n138 BHP @ 5200 RPM",
                "Torque": "162 lb-ft @ 2400 RPM\n220 Nm @ 2400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "17.2 gallons (65.1 L)"
+               "Fuel capacity": 17.2
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "108.6 mph (175 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11.9 s"
+               "Top Speed": 108.6,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1334,25 +1334,25 @@
                "Tire Size": "215/70 R16"
           },
           "DIMENSIONS": {
-               "Length": "180.3 in (4580 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "66.9 in (1699 mm)",
+               "Length": 180.3,
+               "Width": 72.8,
+               "Height": 66.9,
                "Front/rear Track": "61.8/61.4 in (1,570/1,560 mm)",
-               "Wheelbase": "106.7 in (2710 mm)",
-               "Ground Clearance": "0.8 in (20 mm)",
-               "Cargo Volume": "13.1 cuFT (371 L)",
-               "Aerodynamics (Cd)": "0.35",
-               "Turning circle": "40.7 ft (12.4 m)"
+               "Wheelbase": 106.7,
+               "Ground Clearance": 0.8,
+               "Cargo Volume": 13.1,
+               "Aerodynamics (Cd)": 0.35,
+               "Turning circle": 40.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3616 lbs (1640 kg)",
-               "Gross Weight Limit": "4905 lbs (2225 kg)"
+               "Unladen Weight": 3616,
+               "Gross Weight Limit": 4905
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17.7 mpg US (13.3 L/100Km)",
-               "Highway": "32.2 mpg US (7.3 L/100Km)",
-               "Combined": "24.5 mpg US (9.6 L/100Km)",
-               "CO2 Emissions": "229 g/km"
+               "City": 17.7,
+               "Highway": 32.2,
+               "Combined": 24.5,
+               "CO2 Emissions": 229
           },
           "": {}
      },
@@ -1360,18 +1360,18 @@
 },{
      "model_name": "2004 Vauxhall Astra Sport Hatch",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L 4AT FWD (90 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1364 cm3",
+               "Displacement": 1364,
                "Power": "66 KW @ 5600 RPM\n90 HP @ 5600 RPM\n89 BHP @ 5600 RPM",
                "Torque": "92 lb-ft @ 4000 RPM\n125 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.7 gallons (51.9 L)"
+               "Fuel capacity": 13.7
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "13.6 s"
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1385,24 +1385,24 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "168.9 in (4290 mm)",
-               "Width": "69 in (1753 mm)",
-               "Height": "55.7 in (1415 mm)",
+               "Length": 168.9,
+               "Width": 69,
+               "Height": 55.7,
                "Front/rear Track": "58.6/58.6 in (1,488/1,488 mm)",
-               "Wheelbase": "102.9 in (2614 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "10.9 cuFT (309 L)",
-               "Aerodynamics (Cd)": "0.28"
+               "Wheelbase": 102.9,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 10.9,
+               "Aerodynamics (Cd)": 0.28
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2712 lbs (1230 kg)",
-               "Gross Weight Limit": "3836 lbs (1740 kg)"
+               "Unladen Weight": 2712,
+               "Gross Weight Limit": 3836
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "28.7 mpg US (8.2 L/100Km)",
-               "Highway": "45.2 mpg US (5.2 L/100Km)",
-               "Combined": "37.3 mpg US (6.3 L/100Km)",
-               "CO2 Emissions": "151 g/km"
+               "City": 28.7,
+               "Highway": 45.2,
+               "Combined": 37.3,
+               "CO2 Emissions": 151
           },
           "": {}
      },
@@ -1410,18 +1410,18 @@
 },{
      "model_name": "2006 Vauxhall Astra TT",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 5MT FWD (105 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "77 KW @ 6000 RPM\n105 HP @ 6000 RPM\n103 BHP @ 6000 RPM",
                "Torque": "111 lb-ft @ 3900 RPM\n150 Nm @ 3900 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.7 gallons (51.9 L)"
+               "Fuel capacity": 13.7
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "119 mph (192 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "12.4 s"
+               "Top Speed": 119,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1435,24 +1435,24 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "176.2 in (4475 mm)",
-               "Width": "69.3 in (1760 mm)",
-               "Height": "55.6 in (1412 mm)",
+               "Length": 176.2,
+               "Width": 69.3,
+               "Height": 55.6,
                "Front/rear Track": "58.7/58.3 in (1,491/1,481 mm)",
-               "Wheelbase": "102.9 in (2614 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Cargo Volume": "7.2 cuFT (204 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 102.9,
+               "Ground Clearance": 5.1,
+               "Cargo Volume": 7.2,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3174.6 lbs (1440 kg)",
-               "Gross Weight Limit": "4111.6 lbs (1865 kg)"
+               "Unladen Weight": 3174.6,
+               "Gross Weight Limit": 4111.6
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "25.8 mpg US (9.1 L/100Km)",
-               "Highway": "41.9 mpg US (5.6 L/100Km)",
-               "Combined": "34.1 mpg US (6.9 L/100Km)",
-               "CO2 Emissions": "168 g/km"
+               "City": 25.8,
+               "Highway": 41.9,
+               "Combined": 34.1,
+               "CO2 Emissions": 168
           },
           "": {}
      },
@@ -1460,17 +1460,17 @@
 },{
      "model_name": "2012 Vauxhall Astra VXR",
      "technical_specs": {
-          "ENGINE SPECS - 2.0I 6MT (280 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "206 KW @ 5500 RPM\n280 HP @ 5500 RPM\n276 BHP @ 5500 RPM",
                "Torque": "295 lb-ft @ 2500-4500 RPM\n400 Nm @ 2500-4500 RPM",
                "Fuel System": "Direct injection, turbocharged",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1481,39 +1481,39 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "175.8 in (4465 mm)",
-               "Width": "72.4 in (1839 mm)",
-               "Height": "58.6 in (1488 mm)",
+               "Length": 175.8,
+               "Width": 72.4,
+               "Height": 58.6,
                "Front/rear Track": "62.5/62.5 in (1,588/1,588 mm)",
-               "Wheelbase": "106.1 in (2695 mm)",
-               "Cargo Volume": "13.4 cuFT (379 L)"
+               "Wheelbase": 106.1,
+               "Cargo Volume": 13.4
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3095 lbs (1404 kg)",
-               "Gross Weight Limit": "4057 lbs (1840 kg)"
+               "Unladen Weight": 3095,
+               "Gross Weight Limit": 4057
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "21.8 mpg US (10.8 L/100Km)",
-               "Highway": "36.2 mpg US (6.5 L/100Km)",
-               "Combined": "29 mpg US (8.1 L/100Km)",
-               "CO2 Emissions": "189 g/km"
+               "City": 21.8,
+               "Highway": 36.2,
+               "Combined": 29,
+               "CO2 Emissions": 189
           }
      },
      "img": "images/2012 Vauxhall Astra VXR05-03-07-40-59.jpg"
 },{
      "model_name": "2005 Vauxhall Astra VXR",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L TURBO 6MT (240 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "179 KW @ 5600 RPM\n240 HP @ 5600 RPM\n240 BHP @ 5600 RPM",
                "Torque": "236 lb-ft @ 1950 RPM\n320 Nm @ 1950 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "152 mph (245 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.2 s"
+               "Top Speed": 152,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1527,41 +1527,41 @@
                "Tire Size": "225/40 R18"
           },
           "DIMENSIONS": {
-               "Length": "168.9 in (4290 mm)",
-               "Width": "43 in (1092 mm)",
-               "Height": "55.9 in (1420 mm)",
+               "Length": 168.9,
+               "Width": 43,
+               "Height": 55.9,
                "Front/rear Track": "58.7/58.3 in (1,491/1,481 mm)",
-               "Wheelbase": "102.7 in (2609 mm)",
-               "Ground Clearance": "4.8 in (122 mm)",
-               "Cargo Volume": "7.9 cuFT (224 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 102.7,
+               "Ground Clearance": 4.8,
+               "Cargo Volume": 7.9,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3071 lbs (1393 kg)",
-               "Gross Weight Limit": "4100.6 lbs (1860 kg)"
+               "Unladen Weight": 3071,
+               "Gross Weight Limit": 4100.6
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18.1 mpg US (13 L/100Km)",
-               "Highway": "33.6 mpg US (7 L/100Km)",
-               "Combined": "25.6 mpg US (9.2 L/100Km)",
-               "CO2 Emissions": "221 g/km"
+               "City": 18.1,
+               "Highway": 33.6,
+               "Combined": 25.6,
+               "CO2 Emissions": 221
           }
      },
      "img": "images/2005 Vauxhall Astra VXR05-03-07-41-00.jpg"
 },{
      "model_name": "VAUXHALL Corsa VXR 2011-2013",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L TURBO 6MT FWD (192 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "141 KW @ 5850 RPM\n192 HP @ 5850 RPM\n189 BHP @ 5850 RPM",
                "Torque": "170 lb-ft @ 1980-5800 RPM\n230 Nm @ 1980-5800 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "140 mph (225 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7 s"
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1575,39 +1575,39 @@
                "Tire Size": "225/35 R18"
           },
           "DIMENSIONS": {
-               "Length": "159.1 in (4041 mm)",
-               "Width": "67.4 in (1712 mm)",
-               "Height": "58.6 in (1488 mm)",
+               "Length": 159.1,
+               "Width": 67.4,
+               "Height": 58.6,
                "Front/rear Track": "58.5/58.2 in (1,486/1,478 mm)",
-               "Wheelbase": "98.9 in (2512 mm)",
-               "Cargo Volume": "10.1 cuFT (286 L)"
+               "Wheelbase": 98.9,
+               "Cargo Volume": 10.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2652 lbs (1203 kg)"
+               "Unladen Weight": 2652
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "24 mpg US (9.8 L/100Km)",
-               "Highway": "39.9 mpg US (5.9 L/100Km)",
-               "Combined": "32.2 mpg US (7.3 L/100Km)",
-               "CO2 Emissions": "172 g/km"
+               "City": 24,
+               "Highway": 39.9,
+               "Combined": 32.2,
+               "CO2 Emissions": 172
           }
      },
      "img": "images/VAUXHALL Corsa VXR 2011-201305-03-07-41-02.jpg"
 },{
      "model_name": "VAUXHALL Crossland X 2017-2018",
      "technical_specs": {
-          "ENGINE SPECS - 1.2L 5MT (110 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "1199 cm3",
+               "Displacement": 1199,
                "Power": "80.9 KW @ 5500 RPM\n110 HP @ 5500 RPM\n108 BHP @ 5500 RPM",
                "Torque": "151 lb-ft @ 1500 RPM\n205 Nm @ 1500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "11.9 gallons (45.0 L)"
+               "Fuel capacity": 11.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "117 mph (188 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.6 s"
+               "Top Speed": 117,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1621,23 +1621,23 @@
                "Tire Size": "205/60 R16 92H"
           },
           "DIMENSIONS": {
-               "Length": "165.8 in (4211 mm)",
-               "Width": "68.6 in (1742 mm)",
-               "Height": "63.2 in (1605 mm)",
+               "Length": 165.8,
+               "Width": 68.6,
+               "Height": 63.2,
                "Front/rear Track": "59.6/58.7 in (1,514/1,491 mm)",
-               "Wheelbase": "102.5 in (2604 mm)",
-               "Cargo Volume": "14.5 cuFT (411 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 102.5,
+               "Cargo Volume": 14.5,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2745 lbs (1245 kg)",
-               "Gross Weight Limit": "3902 lbs (1770 kg)"
+               "Unladen Weight": 2745,
+               "Gross Weight Limit": 3902
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "42 mpg US (5.6 L/100Km)",
-               "Highway": "56 mpg US (4.2 L/100Km)",
-               "Combined": "49 mpg US (4.8 L/100Km)",
-               "CO2 Emissions": "109 g/km"
+               "City": 42,
+               "Highway": 56,
+               "Combined": 49,
+               "CO2 Emissions": 109
           },
           "": {}
      },
@@ -1645,14 +1645,14 @@
 },{
      "model_name": "2013 Vauxhall Insignia Country Tourer",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L CDTI 6AT AWD (163 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1956 cm3",
+               "Displacement": 1956,
                "Power": "120 KW @ 4000 RPM\n163 HP @ 4000 RPM\n161 BHP @ 4000 RPM",
                "Torque": "258 lb-ft @ 1750 RPM\n350 Nm @ 1750 RPM",
                "Fuel System": "Turbo, common rail",
                "Fuel": "Diesel",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1663,21 +1663,21 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "190.6 in (4841 mm)",
-               "Width": "7.3 in (185 mm)",
-               "Height": "59 in (1499 mm)",
+               "Length": 190.6,
+               "Width": 7.3,
+               "Height": 59,
                "Front/rear Track": "62.5/62.6 in (1,588/1,590 mm)",
-               "Wheelbase": "107.8 in (2738 mm)"
+               "Wheelbase": 107.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3336 lbs (1513 kg)",
-               "Gross Weight Limit": "4553 lbs (2065 kg)"
+               "Unladen Weight": 3336,
+               "Gross Weight Limit": 4553
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "27 mpg US (8.7 L/100Km)",
-               "Highway": "46.1 mpg US (5.1 L/100Km)",
-               "Combined": "36.8 mpg US (6.4 L/100Km)",
-               "CO2 Emissions": "169 g/km"
+               "City": 27,
+               "Highway": 46.1,
+               "Combined": 36.8,
+               "CO2 Emissions": 169
           },
           "": {}
      },
@@ -1685,18 +1685,18 @@
 },{
      "model_name": "2013 Vauxhall Insignia Hatchback",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L TURBO ECOFLEX 6MT FWD (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1364 cm3",
+               "Displacement": 1364,
                "Power": "103 KW @ 4900-6000 RPM\n140 HP @ 4900-6000 RPM\n138 BHP @ 4900-6000 RPM",
                "Torque": "148 lb-ft @ 1850-4900 RPM\n201 Nm @ 1850-4900 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "127 mph (204 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1710,23 +1710,23 @@
                "Tire Size": "215/60 R16"
           },
           "DIMENSIONS": {
-               "Length": "193.4 in (4912 mm)",
-               "Width": "73.1 in (1857 mm)",
-               "Height": "59.6 in (1514 mm)",
+               "Length": 193.4,
+               "Width": 73.1,
+               "Height": 59.6,
                "Front/rear Track": "62.5/62.6 in (1,588/1,590 mm)",
-               "Wheelbase": "107.8 in (2738 mm)",
-               "Cargo Volume": "19.1 cuFT (541 L)",
-               "Aerodynamics (Cd)": "0.27"
+               "Wheelbase": 107.8,
+               "Cargo Volume": 19.1,
+               "Aerodynamics (Cd)": 0.27
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3578 lbs (1623 kg)",
-               "Gross Weight Limit": "4718 lbs (2140 kg)"
+               "Unladen Weight": 3578,
+               "Gross Weight Limit": 4718
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "33.1 mpg US (7.1 L/100Km)",
-               "Highway": "50 mpg US (4.7 L/100Km)",
-               "Combined": "42 mpg US (5.6 L/100Km)",
-               "CO2 Emissions": "131 g/km"
+               "City": 33.1,
+               "Highway": 50,
+               "Combined": 42,
+               "CO2 Emissions": 131
           },
           "": {}
      },
@@ -1734,18 +1734,18 @@
 },{
      "model_name": "VAUXHALL Insignia Hatchback 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L TURBO FWD (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1364 cm3",
+               "Displacement": 1364,
                "Power": "103 KW @ 4900-6000 RPM\n140 HP @ 4900-6000 RPM\n138 BHP @ 4900-6000 RPM",
                "Torque": "148 lb-ft @ 1850-4900 RPM\n201 Nm @ 1850-4900 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "127 mph (204 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
+               "Top Speed": 127,
+               "Acceleration 0-62 Mph (0-100 kph)": 11
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1759,23 +1759,23 @@
                "Tire Size": "215/60 R16"
           },
           "DIMENSIONS": {
-               "Length": "190.2 in (4831 mm)",
-               "Width": "73 in (1854 mm)",
-               "Height": "58.9 in (1496 mm)",
+               "Length": 190.2,
+               "Width": 73,
+               "Height": 58.9,
                "Front/rear Track": "62.4/62.4 in (1,585/1,585 mm)",
-               "Wheelbase": "107.7 in (2736 mm)",
-               "Cargo Volume": "17.6 cuFT (498 L)",
-               "Aerodynamics (Cd)": "0.27"
+               "Wheelbase": 107.7,
+               "Cargo Volume": 17.6,
+               "Aerodynamics (Cd)": 0.27
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4553 lbs (2065 kg)",
-               "Gross Weight Limit": "4453.3 lbs (2020 kg)"
+               "Unladen Weight": 4553,
+               "Gross Weight Limit": 4453.3
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "50 mpg US (4.7 L/100Km)",
-               "Highway": "31 mpg US (7.6 L/100Km)",
-               "Combined": "41 mpg US (5.7 L/100Km)",
-               "CO2 Emissions": "134 g/km"
+               "City": 50,
+               "Highway": 31,
+               "Combined": 41,
+               "CO2 Emissions": 134
           },
           "": {}
      },
@@ -1783,9 +1783,9 @@
 },{
      "model_name": "2013 Vauxhall Insignia Sedan",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L CDTI 6AT FWD (163 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1956 cm3",
+               "Displacement": 1956,
                "Power": "120 KW @ 4000 RPM\n163 HP @ 4000 RPM\n161 BHP @ 4000 RPM",
                "Torque": "258 lb-ft @ 1750 RPM\n350 Nm @ 1750 RPM",
                "Fuel System": "Turbo, common rail",
@@ -1800,21 +1800,21 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "190.6 in (4841 mm)",
-               "Width": "7.3 in (185 mm)",
-               "Height": "59 in (1499 mm)",
+               "Length": 190.6,
+               "Width": 7.3,
+               "Height": 59,
                "Front/rear Track": "62.5/62.6 in (1,588/1,590 mm)",
-               "Wheelbase": "107.8 in (2738 mm)"
+               "Wheelbase": 107.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3336 lbs (1513 kg)",
-               "Gross Weight Limit": "4553 lbs (2065 kg)"
+               "Unladen Weight": 3336,
+               "Gross Weight Limit": 4553
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "32.7 mpg US (7.2 L/100Km)",
-               "Highway": "56 mpg US (4.2 L/100Km)",
-               "Combined": "44.4 mpg US (5.3 L/100Km)",
-               "CO2 Emissions": "140 g/km"
+               "City": 32.7,
+               "Highway": 56,
+               "Combined": 44.4,
+               "CO2 Emissions": 140
           },
           "": {}
      },
@@ -1822,18 +1822,18 @@
 },{
      "model_name": "VAUXHALL Insignia Sedan 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L TURBO 6MT (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1364 cm3",
+               "Displacement": 1364,
                "Power": "103 KW @ 4900-6000 RPM\n140 HP @ 4900-6000 RPM\n138 BHP @ 4900-6000 RPM",
                "Torque": "148 lb-ft @ 1850-4900 RPM\n201 Nm @ 1850-4900 RPM",
                "Fuel System": "Turbocharged multipoint injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "12 s"
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 12
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1847,25 +1847,25 @@
                "Tire Size": "215/60 R16"
           },
           "DIMENSIONS": {
-               "Length": "190.1 in (4829 mm)",
-               "Width": "73 in (1854 mm)",
-               "Height": "58.9 in (1496 mm)",
+               "Length": 190.1,
+               "Width": 73,
+               "Height": 58.9,
                "Front/rear Track": "62.4/62.4 in (1,585/1,585 mm)",
-               "Wheelbase": "107.7 in (2736 mm)",
-               "Ground Clearance": "6.3 in (160 mm)",
-               "Cargo Volume": "17.6 cuFT (498 L)",
-               "Aerodynamics (Cd)": "0.27",
-               "Turning circle": "35.8 ft (10.9 m)"
+               "Wheelbase": 107.7,
+               "Ground Clearance": 6.3,
+               "Cargo Volume": 17.6,
+               "Aerodynamics (Cd)": 0.27,
+               "Turning circle": 35.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3313.5 lbs (1503 kg)",
-               "Gross Weight Limit": "4453.3 lbs (2020 kg)"
+               "Unladen Weight": 3313.5,
+               "Gross Weight Limit": 4453.3
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "31 mpg US (7.6 L/100Km)",
-               "Highway": "50 mpg US (4.7 L/100Km)",
-               "Combined": "41 mpg US (5.7 L/100Km)",
-               "CO2 Emissions": "134 g/km"
+               "City": 31,
+               "Highway": 50,
+               "Combined": 41,
+               "CO2 Emissions": 134
           },
           "": {}
      },
@@ -1873,14 +1873,14 @@
 },{
      "model_name": "2013 Vauxhall Insignia Sports Tourer",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L TURBO ECOFLEX 6MT FWD (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1364 cm3",
+               "Displacement": 1364,
                "Power": "103 KW @ 4900-6000 RPM\n140 HP @ 4900-6000 RPM\n138 BHP @ 4900-6000 RPM",
                "Torque": "148 lb-ft @ 1850-4900 RPM\n201 Nm @ 1850-4900 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1891,22 +1891,22 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "193.4 in (4912 mm)",
-               "Width": "73.1 in (1857 mm)",
-               "Height": "59.6 in (1514 mm)",
+               "Length": 193.4,
+               "Width": 73.1,
+               "Height": 59.6,
                "Front/rear Track": "62.5/62.6 in (1,588/1,590 mm)",
-               "Wheelbase": "107.8 in (2738 mm)",
-               "Cargo Volume": "19.1 cuFT (541 L)"
+               "Wheelbase": 107.8,
+               "Cargo Volume": 19.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3578 lbs (1623 kg)",
-               "Gross Weight Limit": "4718 lbs (2140 kg)"
+               "Unladen Weight": 3578,
+               "Gross Weight Limit": 4718
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "33.1 mpg US (7.1 L/100Km)",
-               "Highway": "50 mpg US (4.7 L/100Km)",
-               "Combined": "42 mpg US (5.6 L/100Km)",
-               "CO2 Emissions": "131 g/km"
+               "City": 33.1,
+               "Highway": 50,
+               "Combined": 42,
+               "CO2 Emissions": 131
           },
           "": {}
      },
@@ -1914,18 +1914,18 @@
 },{
      "model_name": "VAUXHALL Insignia Sports Tourer 2009-2013",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L ECOTEC 6MT (115 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "85 KW @ 6000 RPM\n116 HP @ 6000 RPM\n114 BHP @ 6000 RPM",
                "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18.5 gallons (70.0 L)"
+               "Fuel capacity": 18.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "116.2 mph (187 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "13.8 s"
+               "Top Speed": 116.2,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1939,25 +1939,25 @@
                "Tire Size": "215/60 R16"
           },
           "DIMENSIONS": {
-               "Length": "193.2 in (4907 mm)",
-               "Width": "73.1 in (1857 mm)",
-               "Height": "59.8 in (1519 mm)",
+               "Length": 193.2,
+               "Width": 73.1,
+               "Height": 59.8,
                "Front/rear Track": "62.4/62/5 in (1,585/1,575 mm)",
-               "Wheelbase": "107.8 in (2738 mm)",
-               "Ground Clearance": "4.2 in (107 mm)",
-               "Cargo Volume": "19.1 cuFT (541 L)",
-               "Aerodynamics (Cd)": "0.22",
-               "Turning circle": "35.8 ft (10.9 m)"
+               "Wheelbase": 107.8,
+               "Ground Clearance": 4.2,
+               "Cargo Volume": 19.1,
+               "Aerodynamics (Cd)": 0.22,
+               "Turning circle": 35.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3329 lbs (1510 kg)",
-               "Gross Weight Limit": "4773 lbs (2165 kg)"
+               "Unladen Weight": 3329,
+               "Gross Weight Limit": 4773
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22.4 mpg US (10.5 L/100Km)",
-               "Highway": "38.6 mpg US (6.1 L/100Km)",
-               "Combined": "30.5 mpg US (7.7 L/100Km)",
-               "CO2 Emissions": "177 g/km"
+               "City": 22.4,
+               "Highway": 38.6,
+               "Combined": 30.5,
+               "CO2 Emissions": 177
           },
           "": {}
      },
@@ -1965,17 +1965,17 @@
 },{
      "model_name": "VAUXHALL Insignia VXR Supersport Touring Sports 2010-2019",
      "technical_specs": {
-          "ENGINE SPECS - 2.8L V6 ECOTEC 6AT AWD (325 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "6",
-               "Displacement": "2792 cm3",
+               "Displacement": 2792,
                "Power": "239 KW @ 5250 RPM\n325 HP @ 5250 RPM\n321 BHP @ 5250 RPM",
                "Torque": "321 lb-ft @ 5250 RPM\n435 Nm @ 5250 RPM",
                "Fuel System": "Multipoint Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.2 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1989,22 +1989,22 @@
                "Tire Size": "245/40 R19"
           },
           "DIMENSIONS": {
-               "Length": "193.2 in (4907 mm)",
-               "Width": "73 in (1854 mm)",
-               "Height": "58.8 in (1494 mm)",
+               "Length": 193.2,
+               "Width": 73,
+               "Height": 58.8,
                "Front/rear Track": "62.4/62.5 in (1,585/1,588 mm)",
-               "Wheelbase": "107.7 in (2736 mm)",
-               "Cargo Volume": "19 cuFT (538 L)"
+               "Wheelbase": 107.7,
+               "Cargo Volume": 19
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4277 lbs (1940 kg)",
-               "Gross Weight Limit": "5456 lbs (2475 kg)"
+               "Unladen Weight": 4277,
+               "Gross Weight Limit": 5456
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14.1 mpg US (16.7 L/100Km)",
-               "Highway": "30.2 mpg US (7.8 L/100Km)",
-               "Combined": "21.4 mpg US (11 L/100Km)",
-               "CO2 Emissions": "259 g/km"
+               "City": 14.1,
+               "Highway": 30.2,
+               "Combined": 21.4,
+               "CO2 Emissions": 259
           },
           "": {}
      },
@@ -2012,18 +2012,18 @@
 },{
      "model_name": "VAUXHALL Meriva 2014-2017",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L 5MT (100 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1398 cm3",
+               "Displacement": 1398,
                "Power": "73.5 KW @ 6000 RPM\n100 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
                "Torque": "96 lb-ft @ 4000 RPM\n130 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14.3 gallons (54.1 L)"
+               "Fuel capacity": 14.3
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "110 mph (177 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "14 s"
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 14
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2037,23 +2037,23 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "169.3 in (4300 mm)",
-               "Width": "71.3 in (1811 mm)",
-               "Height": "63.6 in (1615 mm)",
+               "Length": 169.3,
+               "Width": 71.3,
+               "Height": 63.6,
                "Front/rear Track": "58.6/59.4 in (1,488/1,509 mm)",
-               "Wheelbase": "104.1 in (2644 mm)",
-               "Cargo Volume": "14 cuFT (396 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 104.1,
+               "Cargo Volume": 14,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2833 lbs (1285 kg)",
-               "Gross Weight Limit": "4167 lbs (1890 kg)"
+               "Unladen Weight": 2833,
+               "Gross Weight Limit": 4167
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "34.1 mpg US (6.9 L/100Km)",
-               "Highway": "48 mpg US (4.9 L/100Km)",
-               "Combined": "42 mpg US (5.6 L/100Km)",
-               "CO2 Emissions": "132 g/km"
+               "City": 34.1,
+               "Highway": 48,
+               "Combined": 42,
+               "CO2 Emissions": 132
           },
           "": {}
      },
@@ -2061,18 +2061,18 @@
 },{
      "model_name": "VAUXHALL Meriva 2010-2014",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L 5MT (100 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1398 cm3",
+               "Displacement": 1398,
                "Power": "73.5 KW @ 6000 RPM\n100 HP @ 6000 RPM\n99 BHP @ 6000 RPM",
                "Torque": "96 lb-ft @ 4000 RPM\n130 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14.3 gallons (54.1 L)"
+               "Fuel capacity": 14.3
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "110 mph (177 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "13.9 s"
+               "Top Speed": 110,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2086,23 +2086,23 @@
                "Tire Size": "205/55R16"
           },
           "DIMENSIONS": {
-               "Length": "168.8 in (4288 mm)",
-               "Width": "71.3 in (1811 mm)",
-               "Height": "63.6 in (1615 mm)",
+               "Length": 168.8,
+               "Width": 71.3,
+               "Height": 63.6,
                "Front/rear Track": "58.6/59.4 in (1,488/1,509 mm)",
-               "Wheelbase": "104.1 in (2644 mm)",
-               "Cargo Volume": "14 cuFT (396 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 104.1,
+               "Cargo Volume": 14,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2833 lbs (1285 kg)",
-               "Gross Weight Limit": "4167 lbs (1890 kg)"
+               "Unladen Weight": 2833,
+               "Gross Weight Limit": 4167
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "29.8 mpg US (7.9 L/100Km)",
-               "Highway": "46.1 mpg US (5.1 L/100Km)",
-               "Combined": "38.6 mpg US (6.1 L/100Km)",
-               "CO2 Emissions": "144 g/km"
+               "City": 29.8,
+               "Highway": 46.1,
+               "Combined": 38.6,
+               "CO2 Emissions": 144
           },
           "": {}
      },
@@ -2110,18 +2110,18 @@
 },{
      "model_name": "VAUXHALL Meriva 2003-2010",
      "technical_specs": {
-          "ENGINE SPECS - 1.4I 5MT (90 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1364 cm3",
+               "Displacement": 1364,
                "Power": "66 KW @ 5600 RPM\n90 HP @ 5600 RPM\n89 BHP @ 5600 RPM",
                "Torque": "92 lb-ft @ 4000 RPM\n125 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14 gallons (53.0 L)"
+               "Fuel capacity": 14
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "104 mph (167 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "13.4 s"
+               "Top Speed": 104,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2135,24 +2135,24 @@
                "Tire Size": "185/60R15"
           },
           "DIMENSIONS": {
-               "Length": "159.1 in (4041 mm)",
-               "Width": "66.7 in (1694 mm)",
-               "Height": "63.9 in (1623 mm)",
+               "Length": 159.1,
+               "Width": 66.7,
+               "Height": 63.9,
                "Front/rear Track": "57.1/57.5 in (1,450/1,461 mm)",
-               "Wheelbase": "103.5 in (2629 mm)",
-               "Ground Clearance": "5.6 in (142 mm)",
-               "Cargo Volume": "12.4 cuFT (351 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 103.5,
+               "Ground Clearance": 5.6,
+               "Cargo Volume": 12.4,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2821.9 lbs (1280 kg)",
-               "Gross Weight Limit": "3935 lbs (1785 kg)"
+               "Unladen Weight": 2821.9,
+               "Gross Weight Limit": 3935
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "28.3 mpg US (8.3 L/100Km)",
-               "Highway": "44.4 mpg US (5.3 L/100Km)",
-               "Combined": "36.7 mpg US (6.4 L/100Km)",
-               "CO2 Emissions": "154 g/km"
+               "City": 28.3,
+               "Highway": 44.4,
+               "Combined": 36.7,
+               "CO2 Emissions": 154
           },
           "": {}
      },
@@ -2160,17 +2160,17 @@
 },{
      "model_name": "VAUXHALL Meriva VXR 2003-2009",
      "technical_specs": {
-          "ENGINE SPECS - 1.6I 6MT (180 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "132 KW @ 5500 RPM\n180 HP @ 5500 RPM\n177 BHP @ 5500 RPM",
                "Torque": "170 lb-ft @ 3850 RPM\n230 Nm @ 3850 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "137 mph (220 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.9 s"
+               "Top Speed": 137,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2184,40 +2184,40 @@
                "Tire Size": "205/45R17"
           },
           "DIMENSIONS": {
-               "Length": "159.1 in (4041 mm)",
-               "Width": "66.7 in (1694 mm)",
-               "Height": "63.9 in (1623 mm)",
+               "Length": 159.1,
+               "Width": 66.7,
+               "Height": 63.9,
                "Front/rear Track": "57.1/57.5 in (1,450/1,461 mm)",
-               "Wheelbase": "103.5 in (2629 mm)",
-               "Cargo Volume": "12.6 cuFT (357 L)"
+               "Wheelbase": 103.5,
+               "Cargo Volume": 12.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2921.1 lbs (1325 kg)",
-               "Gross Weight Limit": "3935.9 lbs (1785 kg)"
+               "Unladen Weight": 2921.1,
+               "Gross Weight Limit": 3935.9
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22.6 mpg US (10.4 L/100Km)",
-               "Highway": "37.3 mpg US (6.3 L/100Km)",
-               "Combined": "30.1 mpg US (7.8 L/100Km)",
-               "CO2 Emissions": "187 g/km"
+               "City": 22.6,
+               "Highway": 37.3,
+               "Combined": 30.1,
+               "CO2 Emissions": 187
           }
      },
      "img": "images/VAUXHALL Meriva VXR 2003-200905-03-07-41-44.jpg"
 },{
      "model_name": "VAUXHALL Mokka 2012-2016",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L TURBO AWD 6MT (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1364 cm3",
+               "Displacement": 1364,
                "Power": "103 KW @ 4900 RPM\n140 HP @ 4900 RPM\n138 BHP @ 4900 RPM",
                "Torque": "148 lb-ft @ 1850 RPM\n201 Nm @ 1850 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "13.7 gallons (51.9 L)"
+               "Fuel capacity": 13.7
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "118 mph (190 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2231,19 +2231,19 @@
                "Tire Size": "195/70 R16"
           },
           "DIMENSIONS": {
-               "Length": "168.4 in (4277 mm)",
-               "Width": "69.8 in (1773 mm)",
-               "Height": "64.8 in (1646 mm)",
+               "Length": 168.4,
+               "Width": 69.8,
+               "Height": 64.8,
                "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
-               "Wheelbase": "100.6 in (2555 mm)",
-               "Ground Clearance": "6.2 in (157 mm)",
-               "Cargo Volume": "18.8 cuFT (532 L)"
+               "Wheelbase": 100.6,
+               "Ground Clearance": 6.2,
+               "Cargo Volume": 18.8
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "29.4 mpg US (8 L/100Km)",
-               "Highway": "42.8 mpg US (5.5 L/100Km)",
-               "Combined": "36.8 mpg US (6.4 L/100Km)",
-               "CO2 Emissions": "149 g/km"
+               "City": 29.4,
+               "Highway": 42.8,
+               "Combined": 36.8,
+               "CO2 Emissions": 149
           },
           "": {}
      },
@@ -2251,18 +2251,18 @@
 },{
      "model_name": "VAUXHALL Mokka X 2016-2019",
      "technical_specs": {
-          "ENGINE SPECS - 1.4I 6AT START & STOP AWD (152 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1399 cm3",
+               "Displacement": 1399,
                "Power": "111.8 KW @ 5600 RPM\n152 HP @ 5600 RPM\n150 BHP @ 5600 RPM",
                "Torque": "181 lb-ft @ 2200-4400 RPM\n245 Nm @ 2200-4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "14 gallons (53.0 L)"
+               "Fuel capacity": 14
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "120 mph (193 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "9.4 s"
+               "Top Speed": 120,
+               "Acceleration 0-62 Mph (0-100 kph)": 9.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2276,22 +2276,22 @@
                "Tire Size": "215/55 R18"
           },
           "DIMENSIONS": {
-               "Length": "168.3 in (4275 mm)",
-               "Width": "70.1 in (1781 mm)",
-               "Height": "65.3 in (1659 mm)",
-               "Wheelbase": "100.6 in (2555 mm)",
-               "Cargo Volume": "12.6 cuFT (357 L)",
-               "Aerodynamics (Cd)": "0.35",
+               "Length": 168.3,
+               "Width": 70.1,
+               "Height": 65.3,
+               "Wheelbase": 100.6,
+               "Cargo Volume": 12.6,
+               "Aerodynamics (Cd)": 0.35,
                "Turning circle (curb to curb)": "37.7 ft (11.5 m)"
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": "3560 lbs (1615 kg)"
+               "Gross Weight Limit": 3560
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "29.8 mpg US (7.9 L/100Km)",
-               "Highway": "41.3 mpg US (5.7 L/100Km)",
-               "Combined": "36.2 mpg US (6.5 L/100Km)",
-               "CO2 Emissions": "150 g/km"
+               "City": 29.8,
+               "Highway": 41.3,
+               "Combined": 36.2,
+               "CO2 Emissions": 150
           },
           "": {}
      },
@@ -2299,17 +2299,17 @@
 },{
      "model_name": "VAUXHALL Monaro 2001-2007",
      "technical_specs": {
-          "ENGINE SPECS - 5.7L V8 6MT (354 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5665 cm3",
+               "Displacement": 5665,
                "Power": "260 KW @ 5600 RPM\n354 HP @ 5600 RPM\n349 BHP @ 5600 RPM",
                "Torque": "369 lb-ft @ 4000 RPM\n500 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "160 mph (257 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6 s"
+               "Top Speed": 160,
+               "Acceleration 0-62 Mph (0-100 kph)": 6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2323,39 +2323,39 @@
                "Tire Size": "235/40R18"
           },
           "DIMENSIONS": {
-               "Length": "188.9 in (4798 mm)",
-               "Width": "72.5 in (1842 mm)",
-               "Height": "55 in (1397 mm)",
+               "Length": 188.9,
+               "Width": 72.5,
+               "Height": 55,
                "Front/rear Track": "61.8/62.1 in (1,570/1,577 mm)",
-               "Wheelbase": "109.8 in (2789 mm)",
-               "Cargo Volume": "13 cuFT (368 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 109.8,
+               "Cargo Volume": 13,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2696.2 lbs (1223 kg)"
+               "Unladen Weight": 2696.2
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "10.3 mpg US (22.8 L/100Km)",
-               "Highway": "21.4 mpg US (11 L/100Km)",
-               "Combined": "15.4 mpg US (15.3 L/100Km)",
-               "CO2 Emissions": "365 g/km"
+               "City": 10.3,
+               "Highway": 21.4,
+               "Combined": 15.4,
+               "CO2 Emissions": 365
           }
      },
      "img": "images/VAUXHALL Monaro 2001-200705-03-07-41-52.jpg"
 },{
      "model_name": "2005 Vauxhall Monaro VXR",
      "technical_specs": {
-          "ENGINE SPECS - 5.7L V8 6MT (387 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5665 cm3",
+               "Displacement": 5665,
                "Power": "285 KW @ 5600 RPM\n387 HP @ 5600 RPM\n382 BHP @ 5600 RPM",
                "Torque": "376 lb-ft @ 4800 RPM\n510 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "170 mph (274 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
+               "Top Speed": 170,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2369,21 +2369,21 @@
                "Tire Size": "245/35R19"
           },
           "DIMENSIONS": {
-               "Length": "188.9 in (4798 mm)",
-               "Width": "72.5 in (1842 mm)",
-               "Height": "55 in (1397 mm)",
+               "Length": 188.9,
+               "Width": 72.5,
+               "Height": 55,
                "Front/rear Track": "61.4/62.1 in (1,560/1,577 mm)",
-               "Wheelbase": "109.8 in (2789 mm)",
-               "Cargo Volume": "8.6 cuFT (244 L)"
+               "Wheelbase": 109.8,
+               "Cargo Volume": 8.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3744.1 lbs (1698 kg)"
+               "Unladen Weight": 3744.1
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "10.1 mpg US (23.3 L/100Km)",
-               "Highway": "21.8 mpg US (10.8 L/100Km)",
-               "Combined": "15.4 mpg US (15.3 L/100Km)",
-               "CO2 Emissions": "360 g/km"
+               "City": 10.1,
+               "Highway": 21.8,
+               "Combined": 15.4,
+               "CO2 Emissions": 360
           },
           "": {}
      },
@@ -2391,18 +2391,18 @@
 },{
      "model_name": "VAUXHALL Signum 2005-2008",
      "technical_specs": {
-          "ENGINE SPECS - 1.8L 16V VVT 5MT FWD (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1796 cm3",
+               "Displacement": 1796,
                "Power": "103 KW @ 6300 RPM\n140 HP @ 6300 RPM\n138 BHP @ 6300 RPM",
                "Torque": "129 lb-ft @ 3800 RPM\n175 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "125 mph (201 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
+               "Top Speed": 125,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2416,24 +2416,24 @@
                "Tire Size": "215/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "183.1 in (4651 mm)",
-               "Width": "70.8 in (1798 mm)",
-               "Height": "57.7 in (1466 mm)",
+               "Length": 183.1,
+               "Width": 70.8,
+               "Height": 57.7,
                "Front/rear Track": "60.5/60 in (1,537/1,524 mm)",
-               "Wheelbase": "111.4 in (2830 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "12.9 cuFT (365 L)",
-               "Aerodynamics (Cd)": "0.33"
+               "Wheelbase": 111.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 12.9,
+               "Aerodynamics (Cd)": 0.33
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3170.2 lbs (1438 kg)",
-               "Gross Weight Limit": "4453 lbs (2020 kg)"
+               "Unladen Weight": 3170.2,
+               "Gross Weight Limit": 4453
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22.8 mpg US (10.3 L/100Km)",
-               "Highway": "39.9 mpg US (5.9 L/100Km)",
-               "Combined": "31.4 mpg US (7.5 L/100Km)",
-               "CO2 Emissions": "180 g/km"
+               "City": 22.8,
+               "Highway": 39.9,
+               "Combined": 31.4,
+               "CO2 Emissions": 180
           },
           "": {}
      },
@@ -2441,17 +2441,17 @@
 },{
      "model_name": "VAUXHALL Tigra Twin Top 2004-2009",
      "technical_specs": {
-          "ENGINE SPECS - 1.4I 5MT (90 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1364 cm3",
+               "Displacement": 1364,
                "Power": "66 KW @ 5600 RPM\n90 HP @ 5600 RPM\n89 BHP @ 5600 RPM",
                "Torque": "92 lb-ft @ 4500 RPM\n125 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "112 mph (180 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "12.4 s"
+               "Top Speed": 112,
+               "Acceleration 0-62 Mph (0-100 kph)": 12.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2465,23 +2465,23 @@
                "Tire Size": "185/60 R15"
           },
           "DIMENSIONS": {
-               "Length": "154.4 in (3922 mm)",
-               "Width": "66.3 in (1684 mm)",
-               "Height": "53.7 in (1364 mm)",
+               "Length": 154.4,
+               "Width": 66.3,
+               "Height": 53.7,
                "Front/rear Track": "56.3/55.9 in (1,430/1,420 mm)",
-               "Wheelbase": "98.1 in (2492 mm)",
-               "Cargo Volume": "8.8 cuFT (249 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 98.1,
+               "Cargo Volume": 8.8,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2557.4 lbs (1160 kg)",
-               "Gross Weight Limit": "3197 lbs (1450 kg)"
+               "Unladen Weight": 2557.4,
+               "Gross Weight Limit": 3197
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "29 mpg US (8.1 L/100Km)",
-               "Highway": "47 mpg US (5 L/100Km)",
-               "Combined": "38.5 mpg US (6.1 L/100Km)",
-               "CO2 Emissions": "146 g/km"
+               "City": 29,
+               "Highway": 47,
+               "Combined": 38.5,
+               "CO2 Emissions": 146
           },
           "": {}
      },
@@ -2489,18 +2489,18 @@
 },{
      "model_name": "VAUXHALL Vectra Estate 2005-2008",
      "technical_specs": {
-          "ENGINE SPECS - 1.8L 16 V VVT 5MT (144 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1796 cm3",
+               "Displacement": 1796,
                "Power": "103 KW @ 6300 RPM\n140 HP @ 6300 RPM\n138 BHP @ 6300 RPM",
                "Torque": "129 lb-ft @ 3800 RPM\n175 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "126 mph (203 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.7 s"
+               "Top Speed": 126,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2514,23 +2514,23 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "190.5 in (4839 mm)",
-               "Width": "70.8 in (1798 mm)",
-               "Height": "57.5 in (1461 mm)",
+               "Length": 190.5,
+               "Width": 70.8,
+               "Height": 57.5,
                "Front/rear Track": "60.5/60 in (1,537/1,524 mm)",
-               "Wheelbase": "111.4 in (2830 mm)",
-               "Cargo Volume": "18.7 cuFT (530 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 111.4,
+               "Cargo Volume": 18.7,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3086.5 lbs (1400 kg)",
-               "Gross Weight Limit": "4475 lbs (2030 kg)"
+               "Unladen Weight": 3086.5,
+               "Gross Weight Limit": 4475
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "22.8 mpg US (10.3 L/100Km)",
-               "Highway": "39.9 mpg US (5.9 L/100Km)",
-               "Combined": "31.4 mpg US (7.5 L/100Km)",
-               "CO2 Emissions": "180 g/km"
+               "City": 22.8,
+               "Highway": 39.9,
+               "Combined": 31.4,
+               "CO2 Emissions": 180
           },
           "": {}
      },
@@ -2538,17 +2538,17 @@
 },{
      "model_name": "VAUXHALL Vectra Estate VXR 2005-2008",
      "technical_specs": {
-          "ENGINE SPECS - 2.8 V6 TURBO 6MT (255 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2792 cm3",
+               "Displacement": 2792,
                "Power": "190 KW @ 5500 RPM\n255 HP @ 5500 RPM\n255 BHP @ 5500 RPM",
                "Torque": "262 lb-ft @ 1800 RPM\n355 Nm @ 1800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "158 mph (254 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
+               "Top Speed": 158,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2562,41 +2562,41 @@
                "Tire Size": "235/40 R18"
           },
           "DIMENSIONS": {
-               "Length": "191.7 in (4869 mm)",
-               "Width": "70.8 in (1798 mm)",
-               "Height": "58.6 in (1488 mm)",
+               "Length": 191.7,
+               "Width": 70.8,
+               "Height": 58.6,
                "Front/rear Track": "60.6 / 59.8 in (1,539/1,519 mm)",
-               "Wheelbase": "111.4 in (2830 mm)",
-               "Cargo Volume": "18.7 cuFT (530 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 111.4,
+               "Cargo Volume": 18.7,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3328 lbs (1510 kg)",
-               "Gross Weight Limit": "4818 lbs (2185 kg)"
+               "Unladen Weight": 3328,
+               "Gross Weight Limit": 4818
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18.3 mpg US (12.9 L/100Km)",
-               "Highway": "38.7 mpg US (6.1 L/100Km)",
-               "Combined": "27.4 mpg US (8.6 L/100Km)",
-               "CO2 Emissions": "247 g/km"
+               "City": 18.3,
+               "Highway": 38.7,
+               "Combined": 27.4,
+               "CO2 Emissions": 247
           }
      },
      "img": "images/VAUXHALL Vectra Estate VXR 2005-200805-03-07-42-04.jpg"
 },{
      "model_name": "VAUXHALL Vectra Hatchback 2005-2008",
      "technical_specs": {
-          "ENGINE SPECS - 1.8L 16 V VVT 5MT FWD (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1796 cm3",
+               "Displacement": 1796,
                "Power": "103 KW @ 6300 RPM\n140 HP @ 6300 RPM\n138 BHP @ 6300 RPM",
                "Torque": "129 lb-ft @ 3800 RPM\n175 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "131 mph (211 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.2 s"
+               "Top Speed": 131,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2610,23 +2610,23 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "181.5 in (4610 mm)",
-               "Width": "70.8 in (1798 mm)",
-               "Height": "57.5 in (1461 mm)",
+               "Length": 181.5,
+               "Width": 70.8,
+               "Height": 57.5,
                "Front/rear Track": "60.5/60 in (1,537/1,524 mm)",
-               "Wheelbase": "106.3 in (2700 mm)",
-               "Cargo Volume": "17.6 cuFT (498 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 106.3,
+               "Cargo Volume": 17.6,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2943.2 lbs (1335 kg)",
-               "Gross Weight Limit": "4156 lbs (1885 kg)"
+               "Unladen Weight": 2943.2,
+               "Gross Weight Limit": 4156
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.3 mpg US (10.1 L/100Km)",
-               "Highway": "42.8 mpg US (5.5 L/100Km)",
-               "Combined": "32.7 mpg US (7.2 L/100Km)",
-               "CO2 Emissions": "175 g/km"
+               "City": 23.3,
+               "Highway": 42.8,
+               "Combined": 32.7,
+               "CO2 Emissions": 175
           },
           "": {}
      },
@@ -2634,18 +2634,18 @@
 },{
      "model_name": "VAUXHALL Vectra Saloon 2005-2008",
      "technical_specs": {
-          "ENGINE SPECS - 1.8L 16 V VVT 5MT FWD (150 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1796 cm3",
+               "Displacement": 1796,
                "Power": "110 KW @ 6300 RPM\n150 HP @ 6300 RPM\n148 BHP @ 6300 RPM",
                "Torque": "129 lb-ft @ 3800 RPM\n175 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.9 gallons (60.2 L)"
+               "Fuel capacity": 15.9
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "126 mph (203 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.2 s"
+               "Top Speed": 126,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2659,23 +2659,23 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "181.5 in (4610 mm)",
-               "Width": "70.8 in (1798 mm)",
-               "Height": "57.7 in (1466 mm)",
+               "Length": 181.5,
+               "Width": 70.8,
+               "Height": 57.7,
                "Front/rear Track": "60.5/60 in (1,537/1,524 mm)",
-               "Wheelbase": "106.3 in (2700 mm)",
-               "Cargo Volume": "17.6 cuFT (498 L)",
-               "Aerodynamics (Cd)": "0.3"
+               "Wheelbase": 106.3,
+               "Cargo Volume": 17.6,
+               "Aerodynamics (Cd)": 0.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2945.4 lbs (1336 kg)",
-               "Gross Weight Limit": "4123 lbs (1870 kg)"
+               "Unladen Weight": 2945.4,
+               "Gross Weight Limit": 4123
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "23.3 mpg US (10.1 L/100Km)",
-               "Highway": "42.8 mpg US (5.5 L/100Km)",
-               "Combined": "32.7 mpg US (7.2 L/100Km)",
-               "CO2 Emissions": "175 g/km"
+               "City": 23.3,
+               "Highway": 42.8,
+               "Combined": 32.7,
+               "CO2 Emissions": 175
           },
           "": {}
      },
@@ -2683,17 +2683,17 @@
 },{
      "model_name": "VAUXHALL Vectra VXR 2005-2008",
      "technical_specs": {
-          "ENGINE SPECS - 2.8L V6 TURBO 6MT (255 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "2792 cm3",
+               "Displacement": 2792,
                "Power": "190 KW @ 5500 RPM\n255 HP @ 5500 RPM\n255 BHP @ 5500 RPM",
                "Torque": "262 lb-ft @ 1800 RPM\n355 Nm @ 1800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "161 mph (259 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
+               "Top Speed": 161,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2707,41 +2707,41 @@
                "Tire Size": "235/40 R18"
           },
           "DIMENSIONS": {
-               "Length": "182.6 in (4638 mm)",
-               "Width": "70.8 in (1798 mm)",
-               "Height": "57 in (1448 mm)",
+               "Length": 182.6,
+               "Width": 70.8,
+               "Height": 57,
                "Front/rear Track": "60.6 / 59.8 in (1,539/1,519 mm)",
-               "Wheelbase": "106.3 in (2700 mm)",
-               "Cargo Volume": "17.6 cuFT (498 L)",
-               "Aerodynamics (Cd)": "0.28"
+               "Wheelbase": 106.3,
+               "Cargo Volume": 17.6,
+               "Aerodynamics (Cd)": 0.28
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3256 lbs (1477 kg)",
-               "Gross Weight Limit": "4521 lbs (2051 kg)"
+               "Unladen Weight": 3256,
+               "Gross Weight Limit": 4521
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "18.3 mpg US (12.9 L/100Km)",
-               "Highway": "38.7 mpg US (6.1 L/100Km)",
-               "Combined": "27.4 mpg US (8.6 L/100Km)",
-               "CO2 Emissions": "247 g/km"
+               "City": 18.3,
+               "Highway": 38.7,
+               "Combined": 27.4,
+               "CO2 Emissions": 247
           }
      },
      "img": "images/VAUXHALL Vectra VXR 2005-200805-03-07-42-12.jpg"
 },{
      "model_name": "VAUXHALL Viva 2015-2019",
      "technical_specs": {
-          "ENGINE SPECS - 1.0L 5MT (75 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L3",
-               "Displacement": "999 cm3",
+               "Displacement": 999,
                "Power": "55 KW @ 6500 RPM\n75 HP @ 6500 RPM\n74 BHP @ 6500 RPM",
                "Torque": "70 lb-ft @ 4500 RPM\n95 Nm @ 4500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "8.5 gallons (32.2 L)"
+               "Fuel capacity": 8.5
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "106 mph (171 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "13.1 s"
+               "Top Speed": 106,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2755,22 +2755,22 @@
                "Tire Size": "185/55 R 15"
           },
           "DIMENSIONS": {
-               "Length": "144.7 in (3675 mm)",
-               "Width": "62.8 in (1595 mm)",
-               "Height": "58.5 in (1486 mm)",
+               "Length": 144.7,
+               "Width": 62.8,
+               "Height": 58.5,
                "Front/rear Track": "55.5/55.8 in (1,410/1,417 mm)",
-               "Wheelbase": "93.9 in (2385 mm)",
-               "Cargo Volume": "7.3 cuFT (207 L)"
+               "Wheelbase": 93.9,
+               "Cargo Volume": 7.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2070 lbs (939 kg)",
-               "Gross Weight Limit": "2983 lbs (1353 kg)"
+               "Unladen Weight": 2070,
+               "Gross Weight Limit": 2983
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "42 mpg US (5.6 L/100Km)",
-               "Highway": "60.3 mpg US (3.9 L/100Km)",
-               "Combined": "52.3 mpg US (4.5 L/100Km)",
-               "CO2 Emissions": "104 g/km"
+               "City": 42,
+               "Highway": 60.3,
+               "Combined": 52.3,
+               "CO2 Emissions": 104
           },
           "": {}
      },
@@ -2778,17 +2778,17 @@
 },{
      "model_name": "VAUXHALL VX 220R 2000-2005",
      "technical_specs": {
-          "ENGINE SPECS - 2.0L TURBO 5MT (220 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "161 KW @ 5800 RPM\n220 HP @ 5800 RPM\n216 BHP @ 5800 RPM",
                "Torque": "221 lb-ft @ 4800 RPM\n300 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2802,40 +2802,40 @@
                "Tire Size": "195/45R16 // 225/35R17"
           },
           "DIMENSIONS": {
-               "Length": "149.2 in (3790 mm)",
-               "Width": "67.2 in (1707 mm)",
-               "Height": "43.8 in (1113 mm)",
+               "Length": 149.2,
+               "Width": 67.2,
+               "Height": 43.8,
                "Front/rear Track": "57.1/58.6 in (1,450/1,488 mm)",
-               "Wheelbase": "91.7 in (2329 mm)",
-               "Cargo Volume": "7.3 cuFT (207 L)",
-               "Aerodynamics (Cd)": "0.41"
+               "Wheelbase": 91.7,
+               "Cargo Volume": 7.3,
+               "Aerodynamics (Cd)": 0.41
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2050.7 lbs (930 kg)",
-               "Gross Weight Limit": "2370.4 lbs (1075 kg)"
+               "Unladen Weight": 2050.7,
+               "Gross Weight Limit": 2370.4
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19.8 mpg US (11.9 L/100Km)",
-               "Highway": "36.2 mpg US (6.5 L/100Km)",
-               "Combined": "27.7 mpg US (8.5 L/100Km)",
-               "CO2 Emissions": "202 g/km"
+               "City": 19.8,
+               "Highway": 36.2,
+               "Combined": 27.7,
+               "CO2 Emissions": 202
           }
      },
      "img": "images/VAUXHALL VX 220R 2000-200505-03-07-42-16.jpg"
 },{
      "model_name": "VAUXHALL Zafira Tourer 2016-2018",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L TURBO 6AT (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1364 cm3",
+               "Displacement": 1364,
                "Power": "103 KW @ 4900-6000 RPM\n140 HP @ 4900-6000 RPM\n138 BHP @ 4900-6000 RPM",
                "Torque": "108 lb-ft @ 1850-4900 RPM\n147 Nm @ 1850-4900 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.3 gallons (57.9 L)"
+               "Fuel capacity": 15.3
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "122 mph (196 km/h)"
+               "Top Speed": 122
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2849,21 +2849,21 @@
                "Tire Size": "235/50 R17"
           },
           "DIMENSIONS": {
-               "Length": "183.7 in (4666 mm)",
-               "Width": "74.2 in (1885 mm)",
-               "Height": "66.3 in (1684 mm)",
-               "Wheelbase": "108.7 in (2761 mm)",
-               "Cargo Volume": "5.4 cuFT (153 L)",
+               "Length": 183.7,
+               "Width": 74.2,
+               "Height": 66.3,
+               "Wheelbase": 108.7,
+               "Cargo Volume": 5.4,
                "Turning circle (curb to curb)": "37.4 ft (11.4 m)"
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": "5445 lbs (2470 kg)"
+               "Gross Weight Limit": 5445
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "25.3 mpg US (9.3 L/100Km)",
-               "Highway": "42 mpg US (5.6 L/100Km)",
-               "Combined": "34.1 mpg US (6.9 L/100Km)",
-               "CO2 Emissions": "160 g/km"
+               "City": 25.3,
+               "Highway": 42,
+               "Combined": 34.1,
+               "CO2 Emissions": 160
           },
           "": {}
      },
@@ -2871,18 +2871,18 @@
 },{
      "model_name": "VAUXHALL Zafira Tourer 2011-2016",
      "technical_specs": {
-          "ENGINE SPECS - 1.4L ECOTEC 6AT (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1364 cm3",
+               "Displacement": 1364,
                "Power": "103 KW @ 4900-6000 RPM\n140 HP @ 4900-6000 RPM\n138 BHP @ 4900-6000 RPM",
                "Torque": "148 lb-ft @ 1850-4900 RPM\n200 Nm @ 1850-4900 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.3 gallons (57.9 L)"
+               "Fuel capacity": 15.3
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "122 mph (196 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "10.5 s"
+               "Top Speed": 122,
+               "Acceleration 0-62 Mph (0-100 kph)": 10.5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2896,24 +2896,24 @@
                "Tire Size": "225/50 R17"
           },
           "DIMENSIONS": {
-               "Length": "183.4 in (4658 mm)",
-               "Width": "74.2 in (1885 mm)",
-               "Height": "66.3 in (1684 mm)",
+               "Length": 183.4,
+               "Width": 74.2,
+               "Height": 66.3,
                "Front/rear Track": "62.1/62.1 in (1,577/1,577 mm)",
-               "Wheelbase": "108.7 in (2761 mm)",
-               "Ground Clearance": "4.8 in (122 mm)",
-               "Cargo Volume": "25.1 cuFT (711 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 108.7,
+               "Ground Clearance": 4.8,
+               "Cargo Volume": 25.1,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3649 lbs (1655 kg)",
-               "Gross Weight Limit": "5159 lbs (2340 kg)"
+               "Unladen Weight": 3649,
+               "Gross Weight Limit": 5159
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "25.3 mpg US (9.3 L/100Km)",
-               "Highway": "39.2 mpg US (6 L/100Km)",
-               "Combined": "32.7 mpg US (7.2 L/100Km)",
-               "CO2 Emissions": "168 g/km"
+               "City": 25.3,
+               "Highway": 39.2,
+               "Combined": 32.7,
+               "CO2 Emissions": 168
           },
           "NOTES": {},
           "": {}
@@ -2922,18 +2922,18 @@
 },{
      "model_name": "VAUXHALL Zafira 2005-2011",
      "technical_specs": {
-          "ENGINE SPECS - 1.6L 5MT FWD (105 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1598 cm3",
+               "Displacement": 1598,
                "Power": "77 KW @ 6000 RPM\n105 HP @ 6000 RPM\n103 BHP @ 6000 RPM",
                "Torque": "111 lb-ft @ 3900 RPM\n150 Nm @ 3900 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "15.3 gallons (57.9 L)"
+               "Fuel capacity": 15.3
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "109 mph (175 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "13.4 s"
+               "Top Speed": 109,
+               "Acceleration 0-62 Mph (0-100 kph)": 13.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2947,24 +2947,24 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": "175.9 in (4468 mm)",
-               "Width": "70.1 in (1781 mm)",
-               "Height": "65.7 in (1669 mm)",
+               "Length": 175.9,
+               "Width": 70.1,
+               "Height": 65.7,
                "Front/rear Track": "58.6/59.4 in (1,488/1,509 mm)",
-               "Wheelbase": "106.4 in (2703 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "4.9 cuFT (139 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 106.4,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 4.9,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2901 lbs (1316 kg)",
-               "Gross Weight Limit": "4575 lbs (2075 kg)"
+               "Unladen Weight": 2901,
+               "Gross Weight Limit": 4575
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "25 mpg US (9.4 L/100Km)",
-               "Highway": "38.6 mpg US (6.1 L/100Km)",
-               "Combined": "32.2 mpg US (7.3 L/100Km)",
-               "CO2 Emissions": "175 g/km"
+               "City": 25,
+               "Highway": 38.6,
+               "Combined": 32.2,
+               "CO2 Emissions": 175
           },
           "": {}
      },
@@ -2972,17 +2972,17 @@
 },{
      "model_name": "VAUXHALL Zafira VXR 2005-2010",
      "technical_specs": {
-          "ENGINE SPECS - 2.0 TURBO 6MT (240 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "1998 cm3",
+               "Displacement": 1998,
                "Power": "179 KW @ 5600 RPM\n240 HP @ 5600 RPM\n240 BHP @ 5600 RPM",
                "Torque": "236 lb-ft @ 2400 RPM\n320 Nm @ 2400 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "144 mph (232 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "7.8 s"
+               "Top Speed": 144,
+               "Acceleration 0-62 Mph (0-100 kph)": 7.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2996,24 +2996,24 @@
                "Tire Size": "225/40 R18"
           },
           "DIMENSIONS": {
-               "Length": "175.9 in (4468 mm)",
-               "Width": "70.1 in (1781 mm)",
-               "Height": "64.8 in (1646 mm)",
+               "Length": 175.9,
+               "Width": 70.1,
+               "Height": 64.8,
                "Front/rear Track": "58.7/59.4 in (1,491/1,509 mm)",
-               "Wheelbase": "106.4 in (2703 mm)",
-               "Ground Clearance": "7.9 in (201 mm)",
-               "Cargo Volume": "4.9 cuFT (139 L)",
-               "Aerodynamics (Cd)": "0.31"
+               "Wheelbase": 106.4,
+               "Ground Clearance": 7.9,
+               "Cargo Volume": 4.9,
+               "Aerodynamics (Cd)": 0.31
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3505.3 lbs (1590 kg)",
-               "Gross Weight Limit": "4850.2 lbs (2200 kg)"
+               "Unladen Weight": 3505.3,
+               "Gross Weight Limit": 4850.2
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "21.1 mpg US (11.1 L/100Km)",
-               "Highway": "38.2 mpg US (6.2 L/100Km)",
-               "Combined": "29.4 mpg US (8 L/100Km)",
-               "CO2 Emissions": "230 g/km"
+               "City": 21.1,
+               "Highway": 38.2,
+               "Combined": 29.4,
+               "CO2 Emissions": 230
           }
      },
      "img": "images/VAUXHALL Zafira VXR 2005-201005-03-07-42-26.jpg"

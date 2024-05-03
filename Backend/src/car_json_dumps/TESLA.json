@@ -2,13 +2,13 @@
 {
      "model_name": "2024 Tesla Model X",
      "technical_specs": {
-          "ENGINE SPECS - DUAL MOTOR AWD 100 KWH (670 HP)": {
+          "ENGINE SPECS": {
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 3.8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -22,18 +22,18 @@
                "Tire Size": "265/45R20 // 275/45R20"
           },
           "DIMENSIONS": {
-               "Length": "199.1 in (5057 mm)",
-               "Width": "78.7 in (1999 mm)",
-               "Height": "66.1 in (1679 mm)",
+               "Length": 199.1,
+               "Width": 78.7,
+               "Height": 66.1,
                "Front/rear Track": "67.3/0 in (1,709/0 mm)",
-               "Wheelbase": "116.7 in (2964 mm)",
-               "Ground Clearance": "5.7 in (145 mm)",
-               "Cargo Volume": "15 cuFT (425 L)"
+               "Wheelbase": 116.7,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 15
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Nominal Capacity": "100 kWh",
-               "Range": "335 miles (539.1 km)"
+               "Nominal Capacity": 100,
+               "Range": 335
           },
           "": {}
      },
@@ -41,7 +41,7 @@
 },{
      "model_name": "2022 Tesla Model X",
      "technical_specs": {
-          "ENGINE SPECS - LONG RANGE AWD 100 KWH (670 HP)": {
+          "ENGINE SPECS": {
                "Total maximum power": "492.8 kw (670 hp)",
                "Total maximum torque": "556.9 lb-ft (755 Nm)",
                "Fuel System": "Electric",
@@ -49,7 +49,7 @@
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -63,23 +63,23 @@
                "Tire Size": "255/45 R20 // 275/45 R20"
           },
           "DIMENSIONS": {
-               "Length": "199.1 in (5057 mm)",
-               "Width": "78.7 in (1999 mm)",
-               "Height": "66.1 in (1679 mm)",
+               "Length": 199.1,
+               "Width": 78.7,
+               "Height": 66.1,
                "Front/rear Track": "67.1/67.3 in (1,704/1,709 mm)",
-               "Wheelbase": "116.7 in (2964 mm)",
-               "Ground Clearance": "5.7 in (145 mm)",
-               "Cargo Volume": "15 cuFT (425 L)",
-               "Aerodynamics (Cd)": "0.25",
-               "Turning circle": "40.7 ft (12.4 m)"
+               "Wheelbase": 116.7,
+               "Ground Clearance": 5.7,
+               "Cargo Volume": 15,
+               "Aerodynamics (Cd)": 0.25,
+               "Turning circle": 40.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5185 lbs (2352 kg)"
+               "Unladen Weight": 5185
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
                "Maximum Capacity": "100 kWh",
-               "Range": "348 miles (560.1 km)"
+               "Range": 348
           },
           "NOTES": {
                "Average Energy consumption": "19.9 kWh/100 km"
@@ -90,15 +90,15 @@
 },{
      "model_name": "2016 Tesla Model X",
      "technical_specs": {
-          "ENGINE SPECS - 75D AWD (333 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "244.9 kw (333 hp)",
                "Electrical motor torque": "387.2 lb-ft (525 Nm)",
                "Fuel System": "75 kWh lithium-ion battery",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "140 mph (225 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 5.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -112,19 +112,19 @@
                "Tire Size": "265/45R20 || 275/45R20"
           },
           "DIMENSIONS": {
-               "Length": "198.3 in (5037 mm)",
-               "Width": "89.4 in (2271 mm)",
+               "Length": 198.3,
+               "Width": 89.4,
                "Front/rear Track": "65.4/66.9 in (1,661/1,699 mm)",
-               "Wheelbase": "116.7 in (2964 mm)",
-               "Ground Clearance": "7.55 in (192 mm)",
-               "Aerodynamics (Cd)": "0.24"
+               "Wheelbase": 116.7,
+               "Ground Clearance": 7.55,
+               "Aerodynamics (Cd)": 0.24
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "5269 lbs (2390 kg)"
+               "Unladen Weight": 5269
           },
           "POWER SYSTEM SPECS": {
-               "Nominal Capacity": "75 kWh",
-               "Range": "205.1 miles (330.1 km)"
+               "Nominal Capacity": 75,
+               "Range": 205.1
           },
           "NOTES": {},
           "": {}
@@ -133,7 +133,7 @@
 },{
      "model_name": "2024 Tesla Model 3",
      "technical_specs": {
-          "ENGINE SPECS - DUAL MOTOR STANDARD RANGE AWD (444 HP)": {
+          "ENGINE SPECS": {
                "Total maximum power": "326.6 kw (444 hp)",
                "Fuel System": "Electric",
                "Fuel": "Electric"
@@ -149,13 +149,13 @@
                "Tire Size": "235/45 R18 // 235/40 R19"
           },
           "DIMENSIONS": {
-               "Length": "185.8 in (4719 mm)",
-               "Width": "76.1 in (1933 mm)",
-               "Height": "56.7 in (1440 mm)",
+               "Length": 185.8,
+               "Width": 76.1,
+               "Height": 56.7,
                "Front/rear Track": "62.4/62.4 in (1,585/1,585 mm)",
-               "Wheelbase": "113.2 in (2875 mm)",
-               "Ground Clearance": "5.4 in (137 mm)",
-               "Cargo Volume": "24.1 cuFT (682 L)"
+               "Wheelbase": 113.2,
+               "Ground Clearance": 5.4,
+               "Cargo Volume": 24.1
           },
           "": {}
      },
@@ -163,15 +163,15 @@
 },{
      "model_name": "2018 Tesla Model 3",
      "technical_specs": {
-          "ENGINE SPECS - LONG RANGE 75 KWH (283 HP)": {
+          "ENGINE SPECS": {
                "Power": "208.1 KW @ - RPM\n283 HP @ - RPM\n279 BHP @ - RPM",
                "Torque": "332 lb-ft @ 0- RPM\n450 Nm @ 0- RPM",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "140 mph (225 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5 s"
+               "Top Speed": 140,
+               "Acceleration 0-62 Mph (0-100 kph)": 5
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive"
@@ -184,23 +184,23 @@
                "Tire Size": "235/45R18"
           },
           "DIMENSIONS": {
-               "Length": "184.8 in (4694 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "56.8 in (1443 mm)",
+               "Length": 184.8,
+               "Width": 72.8,
+               "Height": 56.8,
                "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
-               "Wheelbase": "113.2 in (2875 mm)",
-               "Ground Clearance": "5.5 in (140 mm)",
-               "Cargo Volume": "15 cuFT (425 L)",
-               "Aerodynamics (Cd)": "0.23"
+               "Wheelbase": 113.2,
+               "Ground Clearance": 5.5,
+               "Cargo Volume": 15,
+               "Aerodynamics (Cd)": 0.23
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3805 lbs (1726 kg)"
+               "Unladen Weight": 3805
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Nominal Capacity": "75 kWh",
+               "Nominal Capacity": 75,
                "Charging time (normal)": "6 hours",
-               "Range": "325 miles (523.0 km)"
+               "Range": 325
           },
           "NOTES": {
                "DC charging": "up to 75 mi (121 km) in 5 minutes[202] and 180 minutes (290 km) in 15 minutes[203] (250 kW V3 Supercharger)\nAC charging: 44.3 miles (71.3 km) range per hour (240 V 32 A)\nAC 3-phase charging: 42.5 miles (68.4 km) range per hour (3x 230 V 16 A)"
@@ -211,14 +211,14 @@
 },{
      "model_name": "TESLA Model S 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS - 100D": {
+          "ENGINE SPECS": {
                "Torque": "0 lb-ft @ - RPM\n0 Nm @ RPM",
                "Fuel System": "100 kWh Li-ion battery pack",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "155 mph (249 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
+               "Top Speed": 155,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -232,18 +232,18 @@
                "Tire Size": "245/45 R19"
           },
           "DIMENSIONS": {
-               "Length": "196 in (4978 mm)",
-               "Width": "77.3 in (1963 mm)",
-               "Height": "56.9 in (1445 mm)",
+               "Length": 196,
+               "Width": 77.3,
+               "Height": 56.9,
                "Front/rear Track": "65.4/66.9 in (1,661/1,699 mm)",
-               "Wheelbase": "116.5 in (2959 mm)",
-               "Ground Clearance": "5.65 in (144 mm)",
-               "Cargo Volume": "30.3 cuFT (858 L)",
-               "Aerodynamics (Cd)": "0.24"
+               "Wheelbase": 116.5,
+               "Ground Clearance": 5.65,
+               "Cargo Volume": 30.3,
+               "Aerodynamics (Cd)": 0.24
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4652 lbs (2110 kg)",
-               "Gross Weight Limit": "5710 lbs (2590 kg)"
+               "Unladen Weight": 4652,
+               "Gross Weight Limit": 5710
           },
           "NOTES": {},
           "": {}
@@ -252,15 +252,15 @@
 },{
      "model_name": "TESLA Model S 2012-2016",
      "technical_specs": {
-          "ENGINE SPECS - 60 RWD (380 HP)": {
+          "ENGINE SPECS": {
                "Power": "283 KW @ - RPM\n385 HP @ - RPM\n380 BHP @ - RPM",
                "Torque": "325 lb-ft @ 0-5000 RPM\n441 Nm @ 0-5000 RPM",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "120 mph (193 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.1 s"
+               "Top Speed": 120,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -274,23 +274,23 @@
                "Tire Size": "245/45 R19"
           },
           "DIMENSIONS": {
-               "Length": "196 in (4978 mm)",
-               "Width": "77.3 in (1963 mm)",
-               "Height": "56.9 in (1445 mm)",
+               "Length": 196,
+               "Width": 77.3,
+               "Height": 56.9,
                "Front/rear Track": "65.4/66.9 in (1,661/1,699 mm)",
-               "Wheelbase": "116.5 in (2959 mm)",
-               "Ground Clearance": "5.65 in (144 mm)",
-               "Cargo Volume": "31.6 cuFT (895 L)",
-               "Aerodynamics (Cd)": "0.24"
+               "Wheelbase": 116.5,
+               "Ground Clearance": 5.65,
+               "Cargo Volume": 31.6,
+               "Aerodynamics (Cd)": 0.24
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4647 lbs (2108 kg)",
-               "Gross Weight Limit": "5710 lbs (2590 kg)"
+               "Unladen Weight": 4647,
+               "Gross Weight Limit": 5710
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Nominal Capacity": "60 kWh",
-               "Range": "208.2 miles (335.1 km)"
+               "Nominal Capacity": 60,
+               "Range": 208.2
           },
           "NOTES": {},
           "": {}
@@ -299,14 +299,14 @@
 },{
      "model_name": "TESLA Roadster 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - 568 KW AWD (772 HP)": {
+          "ENGINE SPECS": {
                "Power": "567.8 KW @ - RPM\n772 HP @ - RPM\n761 BHP @ - RPM",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "249 mph (401 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.1 s"
+               "Top Speed": 249,
+               "Acceleration 0-62 Mph (0-100 kph)": 2.1
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -317,27 +317,27 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": "177.2 in (4501 mm)",
-               "Width": "76.8 in (1951 mm)",
-               "Height": "47.2 in (1199 mm)"
+               "Length": 177.2,
+               "Width": 76.8,
+               "Height": 47.2
           },
           "POWER SYSTEM SPECS": {
-               "Range": "620 miles (997.8 km)"
+               "Range": 620
           }
      },
      "img": "images/TESLA Roadster 2018-Present05-03-07-27-33.jpg"
 },{
      "model_name": "TESLA Roadster 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS - AC INDUCTION (248 HP)": {
+          "ENGINE SPECS": {
                "Power": "182.4 KW @ 4500-8500 RPM\n248 HP @ 4500-8500 RPM\n245 BHP @ 4500-8500 RPM",
                "Torque": "273 lb-ft @ 0-4500 RPM\n370 Nm @ 0-4500 RPM",
                "Fuel System": "53 kWh 375 V lithium-ion battery",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -351,17 +351,17 @@
                "Tire Size": "175/55 R16 || 225/45 R17"
           },
           "DIMENSIONS": {
-               "Length": "155.4 in (3947 mm)",
-               "Width": "72.9 in (1852 mm)",
-               "Height": "44.3 in (1125 mm)",
+               "Length": 155.4,
+               "Width": 72.9,
+               "Height": 44.3,
                "Front/rear Track": "57.7/59 in (1,466/1,499 mm)",
-               "Wheelbase": "92.6 in (2352 mm)",
-               "Ground Clearance": "5.1 in (130 mm)",
-               "Aerodynamics (Cd)": "0.36"
+               "Wheelbase": 92.6,
+               "Ground Clearance": 5.1,
+               "Aerodynamics (Cd)": 0.36
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2734 lbs (1240 kg)",
-               "Gross Weight Limit": "3285 lbs (1490 kg)"
+               "Unladen Weight": 2734,
+               "Gross Weight Limit": 3285
           },
           "NOTES": {
                "Range": "~200 miles (~320 km)\nFully charge time: ~3.5 hours"
@@ -372,7 +372,7 @@
 },{
      "model_name": "TESLA Roadster 2008-2012",
      "technical_specs": {
-          "ENGINE SPECS - AC INDUCTION 1AT (248 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "375 volt AC induction air-cooled electric motor with variable frequency drive",
                "Power": "185 KW @ 4500-8500 RPM\n248 HP @ 4500-8500 RPM\n248 BHP @ 4500-8500 RPM",
                "Torque": "276 lb-ft @ 0-4500 RPM\n374 Nm @ 0-4500 RPM",
@@ -380,8 +380,8 @@
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4 s"
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -395,40 +395,40 @@
                "Tire Size": "175/55 R16 (front) - 225/45 R17 (rear)"
           },
           "DIMENSIONS": {
-               "Length": "155.4 in (3947 mm)",
-               "Width": "72.9 in (1852 mm)",
-               "Height": "44.3 in (1125 mm)",
+               "Length": 155.4,
+               "Width": 72.9,
+               "Height": 44.3,
                "Front/rear Track": "57.7/59 in (1,466/1,499 mm)",
-               "Wheelbase": "92.6 in (2352 mm)"
+               "Wheelbase": 92.6
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2723 lbs (1235 kg)"
+               "Unladen Weight": 2723
           }
      },
      "img": "images/TESLA Roadster 2008-201205-03-07-27-37.jpg"
 },{
      "model_name": "TESLA Cybertruck 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS - DUAL MOTOR AWD": {
+          "ENGINE SPECS": {
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "121 mph (195 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.6 s"
+               "Top Speed": 121,
+               "Acceleration 0-62 Mph (0-100 kph)": 4.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
           },
           "DIMENSIONS": {
-               "Length": "231.7 in (5885 mm)",
-               "Width": "79.8 in (2027 mm)",
-               "Height": "75 in (1905 mm)",
-               "Wheelbase": "149.9 in (3807 mm)",
-               "Ground Clearance": "16 in (406 mm)",
-               "Cargo Volume": "100 cuFT (2832 L)"
+               "Length": 231.7,
+               "Width": 79.8,
+               "Height": 75,
+               "Wheelbase": 149.9,
+               "Ground Clearance": 16,
+               "Cargo Volume": 100
           },
           "POWER SYSTEM SPECS": {
-               "Range": "300 miles (482.8 km)"
+               "Range": 300
           },
           "NOTES": {
                "Vault lenght": "6.5 ft\nTowing capacity: 10.000+LBS"
@@ -439,14 +439,14 @@
 },{
      "model_name": "TESLA Model Y 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS - Y STANDARD RANGE 60 KWH (204 HP)": {
+          "ENGINE SPECS": {
                "Power": "150 KW @ - RPM\n204 HP @ - RPM\n201 BHP @ - RPM",
                "Torque": "258 lb-ft @ - RPM\n350 Nm @ - RPM",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "6.2 s"
+               "Top Speed": 124,
+               "Acceleration 0-62 Mph (0-100 kph)": 6.2
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
@@ -456,19 +456,19 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "188 in (4775 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "63 in (1600 mm)",
-               "Wheelbase": "113.2 in (2875 mm)"
+               "Length": 188,
+               "Width": 72.8,
+               "Height": 63,
+               "Wheelbase": 113.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3748 lbs (1700 kg)"
+               "Unladen Weight": 3748
           },
           "POWER SYSTEM SPECS": {
-               "Nominal Capacity": "50 kWh",
+               "Nominal Capacity": 50,
                "Maximum Capacity": "60 kWh",
                "Charging time (normal)": "5.3 hours",
-               "Range": "186 miles (299.3 km)"
+               "Range": 186
           },
           "NOTES": {
                "Vehicle Consumption": "16.7 kWh/100km\nCharge Power: 11 kW AC\nCharge Speed: 56 km/h\nFastcharge Power: 100 kW DC\nFastcharge Time (30->240 km): 26 min\nFastcharge Speed: 480 km/h"

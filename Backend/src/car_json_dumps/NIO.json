@@ -2,7 +2,7 @@
 {
      "model_name": "NIO ES8 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - 100 KWH (544 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "160.3 kw (218 hp)",
                "Total maximum power": "400.1 kw (544 hp)",
                "Total maximum torque": "534.7 lb-ft (725 Nm)",
@@ -11,7 +11,7 @@
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 4.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -25,18 +25,18 @@
                "Tire Size": "255/55 R19"
           },
           "DIMENSIONS": {
-               "Length": "197.7 in (5022 mm)",
-               "Width": "77.2 in (1961 mm)",
-               "Height": "69.1 in (1755 mm)",
+               "Length": 197.7,
+               "Width": 77.2,
+               "Height": 69.1,
                "Front/rear Track": "65.7/65.8 in (1,669/1,671 mm)",
-               "Wheelbase": "118.5 in (3010 mm)",
-               "Cargo Volume": "10.9 cuFT (309 L)",
-               "Aerodynamics (Cd)": "0.29"
+               "Wheelbase": 118.5,
+               "Cargo Volume": 10.9,
+               "Aerodynamics (Cd)": 0.29
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion",
-               "Nominal Capacity": "100 kWh",
-               "Range": "360.4 miles (580.0 km)"
+               "Nominal Capacity": 100,
+               "Range": 360.4
           },
           "NOTES": {
                "Electric motor 2": "326 HP"
@@ -47,7 +47,7 @@
 },{
      "model_name": "NIO EP9 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS - 4WD (1360 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "250.1 kw (340 hp)",
                "Electrical motor torque": "1091.6 lb-ft (1480 Nm)",
                "Total maximum power": "1000.3 kw (1360 hp)",
@@ -56,7 +56,7 @@
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "194 mph (312 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "2.7 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 2.7
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
@@ -69,15 +69,15 @@
                "Tire Size": "320/705 R19 // 295/35 R21"
           },
           "DIMENSIONS": {
-               "Length": "192.4 in (4887 mm)",
-               "Width": "87.8 in (2230 mm)",
-               "Height": "45.3 in (1151 mm)"
+               "Length": 192.4,
+               "Width": 87.8,
+               "Height": 45.3
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3825 lbs (1735 kg)"
+               "Unladen Weight": 3825
           },
           "POWER SYSTEM SPECS": {
-               "Range": "265.3 miles (427.0 km)"
+               "Range": 265.3
           },
           "NOTES": {
                "Electric motor 2": "340 HP - 1480 Nm\nElectric motor 3: 340 HP - 1480 Nm\nElectric motor 4: 340 HP - 1480 Nm"
@@ -87,7 +87,7 @@
 },{
      "model_name": "NIO EC6 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS - 100 KWH (435 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "160.3 kw (218 hp)",
                "Total maximum power": "319.9 kw (435 hp)",
                "Total maximum torque": "449.9 lb-ft (610 Nm)",
@@ -96,7 +96,7 @@
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 5.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -110,18 +110,18 @@
                "Tire Size": "255/55 R19"
           },
           "DIMENSIONS": {
-               "Length": "190.9 in (4849 mm)",
-               "Width": "77.4 in (1966 mm)",
-               "Height": "67.5 in (1715 mm)",
+               "Length": 190.9,
+               "Width": 77.4,
+               "Height": 67.5,
                "Front/rear Track": "65.7/65.8 in (1,669/1,671 mm)",
-               "Wheelbase": "114.2 in (2901 mm)",
-               "Cargo Volume": "18 cuFT (510 L)",
-               "Aerodynamics (Cd)": "0.26"
+               "Wheelbase": 114.2,
+               "Cargo Volume": 18,
+               "Aerodynamics (Cd)": 0.26
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion",
-               "Nominal Capacity": "100 kWh",
-               "Range": "375.9 miles (605.0 km)"
+               "Nominal Capacity": 100,
+               "Range": 375.9
           },
           "NOTES": {
                "Electric motor 2": "218 HP"
@@ -132,7 +132,7 @@
 },{
      "model_name": "NIO ES6 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS - 100 KWH (435 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "160.3 kw (218 hp)",
                "Total maximum power": "319.9 kw (435 hp)",
                "Total maximum torque": "449.9 lb-ft (610 Nm)",
@@ -141,7 +141,7 @@
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "124 mph (200 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "5.6 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 5.6
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -155,18 +155,18 @@
                "Tire Size": "255/55 R19"
           },
           "DIMENSIONS": {
-               "Length": "190.9 in (4849 mm)",
-               "Width": "77.4 in (1966 mm)",
-               "Height": "68.1 in (1730 mm)",
+               "Length": 190.9,
+               "Width": 77.4,
+               "Height": 68.1,
                "Front/rear Track": "65.7/65.8 in (1,669/1,671 mm)",
-               "Wheelbase": "114.2 in (2901 mm)",
-               "Cargo Volume": "20.6 cuFT (583 L)",
-               "Aerodynamics (Cd)": "0.28"
+               "Wheelbase": 114.2,
+               "Cargo Volume": 20.6,
+               "Aerodynamics (Cd)": 0.28
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion",
-               "Nominal Capacity": "100 kWh",
-               "Range": "372.8 miles (600.0 km)"
+               "Nominal Capacity": 100,
+               "Range": 372.8
           },
           "NOTES": {
                "Electric motor 2": "218 HP"
@@ -177,7 +177,7 @@
 },{
      "model_name": "NIO ET7 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS - 100 KWH (653 HP)": {
+          "ENGINE SPECS": {
                "Electrical motor power": "180.2 kw (245 hp)",
                "Total maximum power": "480.3 kw (653 hp)",
                "Total maximum torque": "626.9 lb-ft (850 Nm)",
@@ -185,7 +185,7 @@
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
+               "Acceleration 0-62 Mph (0-100 kph)": 3.9
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -199,17 +199,17 @@
                "Tire Size": "245/50 R19"
           },
           "DIMENSIONS": {
-               "Length": "200.7 in (5098 mm)",
-               "Width": "78.2 in (1986 mm)",
-               "Height": "59.3 in (1506 mm)",
+               "Length": 200.7,
+               "Width": 78.2,
+               "Height": 59.3,
                "Front/rear Track": "65.7/65.8 in (1,669/1,671 mm)",
-               "Wheelbase": "120.5 in (3061 mm)",
-               "Aerodynamics (Cd)": "0.23"
+               "Wheelbase": 120.5,
+               "Aerodynamics (Cd)": 0.23
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion",
-               "Nominal Capacity": "100 kWh",
-               "Range": "435 miles (700.1 km)"
+               "Nominal Capacity": 100,
+               "Range": 435
           },
           "NOTES": {
                "Electric motor 2": "408 HP"

@@ -2,9 +2,9 @@
 {
      "model_name": "OLDSMOBILE 442 Convertible 1970-1971",
      "technical_specs": {
-          "ENGINE SPECS - 7.5L 4MT (365 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "7456 cm3",
+               "Displacement": 7456,
                "Power": "268.5 KW @ 4800 RPM\n365 HP @ 4800 RPM\n360 BHP @ 4800 RPM",
                "Torque": "500 lb-ft @ 3200 RPM\n678 Nm @ 3200 RPM",
                "Fuel System": "Carburetor",
@@ -22,23 +22,23 @@
                "Tire Size": "G70 x 14"
           },
           "DIMENSIONS": {
-               "Length": "203.2 in (5161 mm)",
-               "Width": "76.2 in (1935 mm)",
-               "Height": "52.8 in (1341 mm)",
+               "Length": 203.2,
+               "Width": 76.2,
+               "Height": 52.8,
                "Front/rear Track": "59/59 in (1,499/1,499 mm)",
-               "Wheelbase": "112 in (2845 mm)"
+               "Wheelbase": 112
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3686 lbs (1672 kg)"
+               "Unladen Weight": 3686
           }
      },
      "img": "images/OLDSMOBILE 442 Convertible 1970-197105-03-06-26-09.jpg"
 },{
      "model_name": "OLDSMOBILE 88 1949-1953",
      "technical_specs": {
-          "ENGINE SPECS - 3.4": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3438 cm3",
+               "Displacement": 3438,
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
@@ -54,9 +54,9 @@
 },{
      "model_name": "OLDSMOBILE Alero coupe 1999-2004",
      "technical_specs": {
-          "ENGINE SPECS - 2.2L DOHC 4AT (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2198 cm3",
+               "Displacement": 2198,
                "Power": "104 KW @ 5600 RPM\n140 HP @ 5600 RPM\n139 BHP @ 5600 RPM",
                "Torque": "150 lb-ft @ 4000 RPM\n203 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -74,22 +74,22 @@
                "Tire Size": "P215/60 R15"
           },
           "DIMENSIONS": {
-               "Length": "186.7 in (4742 mm)",
-               "Width": "70.1 in (1781 mm)",
-               "Height": "54.5 in (1384 mm)",
+               "Length": 186.7,
+               "Width": 70.1,
+               "Height": 54.5,
                "Front/rear Track": "59.1/59.3 in (1,501/1,506 mm)",
-               "Wheelbase": "107 in (2718 mm)",
-               "Ground Clearance": "5 in (127 mm)",
-               "Cargo Volume": "14.6 cuFT (413 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 107,
+               "Ground Clearance": 5,
+               "Cargo Volume": 14.6,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "2950 lbs (1338 kg)"
+               "Unladen Weight": 2950
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "24 mpg US (9.8 L/100Km)",
-               "Highway": "32 mpg US (7.4 L/100Km)",
-               "Combined": "28 mpg US (8.4 L/100Km)"
+               "City": 24,
+               "Highway": 32,
+               "Combined": 28
           },
           "": {}
      },
@@ -97,9 +97,9 @@
 },{
      "model_name": "OLDSMOBILE Alero sedan 1999-2004",
      "technical_specs": {
-          "ENGINE SPECS - 2.2L DOHC 4AT (140 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L4",
-               "Displacement": "2198 cm3",
+               "Displacement": 2198,
                "Power": "104 KW @ 5600 RPM\n140 HP @ 5600 RPM\n139 BHP @ 5600 RPM",
                "Torque": "150 lb-ft @ 4000 RPM\n203 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -117,22 +117,22 @@
                "Tire Size": "P215/60 R15"
           },
           "DIMENSIONS": {
-               "Length": "186.7 in (4742 mm)",
-               "Width": "70.1 in (1781 mm)",
-               "Height": "54.5 in (1384 mm)",
+               "Length": 186.7,
+               "Width": 70.1,
+               "Height": 54.5,
                "Front/rear Track": "59.1/59.3 in (1,501/1,506 mm)",
-               "Wheelbase": "107 in (2718 mm)",
-               "Ground Clearance": "5 in (127 mm)",
-               "Cargo Volume": "14.6 cuFT (413 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 107,
+               "Ground Clearance": 5,
+               "Cargo Volume": 14.6,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3008 lbs (1364 kg)"
+               "Unladen Weight": 3008
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "24 mpg US (9.8 L/100Km)",
-               "Highway": "32 mpg US (7.4 L/100Km)",
-               "Combined": "28 mpg US (8.4 L/100Km)"
+               "City": 24,
+               "Highway": 32,
+               "Combined": 28
           },
           "": {}
      },
@@ -140,17 +140,17 @@
 },{
      "model_name": "OLDSMOBILE Aurora 2000-2003",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 4AT FWD (215 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3473 cm3",
+               "Displacement": 3473,
                "Power": "160 KW @ 5600 RPM\n218 HP @ 5600 RPM\n215 BHP @ 5600 RPM",
                "Torque": "260 lb-ft @ 4400 RPM\n353 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "126 mph (203 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8 s"
+               "Top Speed": 126,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -161,21 +161,21 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "199.3 in (5062 mm)",
-               "Width": "72.9 in (1852 mm)",
-               "Height": "56.7 in (1440 mm)",
+               "Length": 199.3,
+               "Width": 72.9,
+               "Height": 56.7,
                "Front/rear Track": "62.3/62.3 in (1,582/1,582 mm)",
-               "Wheelbase": "112.2 in (2850 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Cargo Volume": "14.9 cuFT (422 L)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 112.2,
+               "Ground Clearance": 5.9,
+               "Cargo Volume": 14.9,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3627 lbs (1645 kg)"
+               "Unladen Weight": 3627
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "17 mpg US (13.8 L/100Km)",
-               "Highway": "25 mpg US (9.4 L/100Km)"
+               "City": 17,
+               "Highway": 25
           },
           "": {}
      },
@@ -183,16 +183,16 @@
 },{
      "model_name": "1995 Oldsmobile Aurora",
      "technical_specs": {
-          "ENGINE SPECS - 4.0L V8 4AT (250 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3995 cm3",
+               "Displacement": 3995,
                "Power": "186.4 KW @ 5600 RPM\n253.5 HP @ 5600 RPM\n250 BHP @ 5600 RPM",
                "Torque": "260 lb-ft @ 4400 RPM\n353 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "135 mph (217 km/h)"
+               "Top Speed": 135
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -203,28 +203,28 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": "205.4 in (5217 mm)",
-               "Width": "74.4 in (1890 mm)",
-               "Height": "55.4 in (1407 mm)",
+               "Length": 205.4,
+               "Width": 74.4,
+               "Height": 55.4,
                "Front/rear Track": "62.5/62.6 in (1,588/1,590 mm)",
-               "Wheelbase": "113.8 in (2891 mm)",
-               "Ground Clearance": "5.9 in (150 mm)",
-               "Aerodynamics (Cd)": "0.32"
+               "Wheelbase": 113.8,
+               "Ground Clearance": 5.9,
+               "Aerodynamics (Cd)": 0.32
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3829 lbs (1737 kg)"
+               "Unladen Weight": 3829
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": "13.1 mpg US (18 L/100Km)"
+               "Combined": 13.1
           }
      },
      "img": "images/1995 Oldsmobile Aurora05-03-06-26-18.jpg"
 },{
      "model_name": "OLDSMOBILE Bravada 2001-2004",
      "technical_specs": {
-          "ENGINE SPECS - 4.2L 4AT AWD (270 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "L6",
-               "Displacement": "4195 cm3",
+               "Displacement": 4195,
                "Power": "201 KW @ 6000 RPM\n275 HP @ 6000 RPM\n270 BHP @ 6000 RPM",
                "Torque": "275 lb-ft @ 3600 RPM\n373 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
@@ -242,21 +242,21 @@
                "Tire Size": "P245/65 R17"
           },
           "DIMENSIONS": {
-               "Length": "191.8 in (4872 mm)",
-               "Width": "75.4 in (1915 mm)",
-               "Height": "74.5 in (1892 mm)",
+               "Length": 191.8,
+               "Width": 75.4,
+               "Height": 74.5,
                "Front/rear Track": "2.5/2.4 in (64/61 mm)",
-               "Wheelbase": "113 in (2870 mm)",
-               "Ground Clearance": "8 in (203 mm)",
-               "Cargo Volume": "39.8 cuFT (1127 L)"
+               "Wheelbase": 113,
+               "Ground Clearance": 8,
+               "Cargo Volume": 39.8
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4628 lbs (2099 kg)",
-               "Gross Weight Limit": "5750 lbs (2608 kg)"
+               "Unladen Weight": 4628,
+               "Gross Weight Limit": 5750
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "14 mpg US (16.8 L/100Km)",
-               "Highway": "19 mpg US (12.4 L/100Km)"
+               "City": 14,
+               "Highway": 19
           },
           "": {}
      },
@@ -264,14 +264,14 @@
 },{
      "model_name": "OLDSMOBILE Curved Dash 1901-1907",
      "technical_specs": {
-          "ENGINE SPECS - 1.6": {
-               "Displacement": "1564 cm3",
+          "ENGINE SPECS": {
+               "Displacement": 1564,
                "Power": "4 KW @ 400 RPM\n5 HP @ 400 RPM\n5 BHP @ 400 RPM",
                "Fuel System": "Carburator",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "20 mph (32 km/h)"
+               "Top Speed": 20
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -283,16 +283,16 @@
           },
           "DIMENSIONS": {
                "Front/rear Track": "47/47 in (1,194/1,194 mm)",
-               "Wheelbase": "69 in (1753 mm)"
+               "Wheelbase": 69
           }
      },
      "img": "images/OLDSMOBILE Curved Dash 1901-190705-03-06-26-22.jpg"
 },{
      "model_name": "OLDSMOBILE Cutlass S 1975",
      "technical_specs": {
-          "ENGINE SPECS - 5.7": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "5735 cm3",
+               "Displacement": 5735,
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
@@ -300,24 +300,24 @@
                "Drive Type": "Rear Wheel Drive"
           },
           "DIMENSIONS": {
-               "Length": "222.1 in (5641 mm)",
-               "Width": "79.5 in (2019 mm)",
-               "Height": "53.4 in (1356 mm)",
+               "Length": 222.1,
+               "Width": 79.5,
+               "Height": 53.4,
                "Front/rear Track": "63.6/64.4 in (1,615/1,636 mm)",
-               "Wheelbase": "124 in (3150 mm)",
-               "Ground Clearance": "5.1 in (130 mm)"
+               "Wheelbase": 124,
+               "Ground Clearance": 5.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4295 lbs (1948 kg)"
+               "Unladen Weight": 4295
           }
      },
      "img": "images/OLDSMOBILE Cutlass S 197505-03-06-26-23.jpg"
 },{
      "model_name": "1961 Oldsmobile Cutlass Sedan",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V8 4MT (185 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "3523 cm3",
+               "Displacement": 3523,
                "Power": "136.1 KW @ 4800 RPM\n185 HP @ 4800 RPM\n183 BHP @ 4800 RPM",
                "Torque": "155 lb-ft @ 3200 RPM\n210 Nm @ 3200 RPM",
                "Fuel System": "Carburetor",
@@ -328,29 +328,29 @@
                "Gearbox": "4-Speed manual"
           },
           "DIMENSIONS": {
-               "Length": "188.2 in (4780 mm)",
-               "Width": "71.6 in (1819 mm)",
-               "Wheelbase": "112 in (2845 mm)"
+               "Length": 188.2,
+               "Width": 71.6,
+               "Wheelbase": 112
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": "5602 lbs (2541 kg)"
+               "Gross Weight Limit": 5602
           }
      },
      "img": "images/1961 Oldsmobile Cutlass Sedan05-03-06-26-25.jpg"
 },{
      "model_name": "OLDSMOBILE Intrigue 1997-2002",
      "technical_specs": {
-          "ENGINE SPECS - 3.5L V6 4AT FWD (218 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3473 cm3",
+               "Displacement": 3473,
                "Power": "160 KW @ 5600 RPM\n218 HP @ 5600 RPM\n215 BHP @ 5600 RPM",
                "Torque": "230 lb-ft @ 4400 RPM\n312 Nm @ 4400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": "18 gallons (68.1 L)"
+               "Fuel capacity": 18
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "126 mph (203 km/h)"
+               "Top Speed": 126
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -364,15 +364,15 @@
                "Tire Size": "P225/60 R16"
           },
           "DIMENSIONS": {
-               "Length": "195.6 in (4968 mm)",
-               "Width": "73.6 in (1869 mm)",
-               "Height": "56.6 in (1438 mm)",
+               "Length": 195.6,
+               "Width": 73.6,
+               "Height": 56.6,
                "Front/rear Track": "62.1/61.7 in (1,577/1,567 mm)",
-               "Wheelbase": "109 in (2769 mm)",
-               "Ground Clearance": "5.7 in (145 mm)"
+               "Wheelbase": 109,
+               "Ground Clearance": 5.7
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3435 lbs (1558 kg)"
+               "Unladen Weight": 3435
           },
           "": {}
      },
@@ -380,17 +380,17 @@
 },{
      "model_name": "OLDSMOBILE Silhouette 1996-2004",
      "technical_specs": {
-          "ENGINE SPECS - 3.4L V6 4AT (185 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3350 cm3",
+               "Displacement": 3350,
                "Power": "138 KW @ 5200 RPM\n185 HP @ 5200 RPM\n185 BHP @ 5200 RPM",
                "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "118 mph (190 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "11.4 s"
+               "Top Speed": 118,
+               "Acceleration 0-62 Mph (0-100 kph)": 11.4
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -404,30 +404,30 @@
                "Tire Size": "205/70 R15"
           },
           "DIMENSIONS": {
-               "Length": "201.4 in (5116 mm)",
-               "Width": "72.2 in (1834 mm)",
-               "Height": "68.1 in (1730 mm)",
+               "Length": 201.4,
+               "Width": 72.2,
+               "Height": 68.1,
                "Front/rear Track": "61.5/63.3 in (1,562/1,608 mm)",
-               "Wheelbase": "120 in (3048 mm)",
-               "Ground Clearance": "6.9 in (175 mm)",
-               "Cargo Volume": "24.2 cuFT (685 L)",
-               "Aerodynamics (Cd)": "0.34"
+               "Wheelbase": 120,
+               "Ground Clearance": 6.9,
+               "Cargo Volume": 24.2,
+               "Aerodynamics (Cd)": 0.34
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3948 lbs (1791 kg)"
+               "Unladen Weight": 3948
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "19 mpg US (12.4 L/100Km)",
-               "Highway": "26 mpg US (9 L/100Km)"
+               "City": 19,
+               "Highway": 26
           }
      },
      "img": "images/OLDSMOBILE Silhouette 1996-200405-03-06-26-29.jpg"
 },{
      "model_name": "1986 Oldsmobile Toronado",
      "technical_specs": {
-          "ENGINE SPECS - 3.8": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "3785 cm3",
+               "Displacement": 3785,
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
@@ -435,25 +435,25 @@
                "Drive Type": "Front Wheel Drive"
           },
           "DIMENSIONS": {
-               "Length": "185.5 in (4712 mm)",
-               "Width": "72.8 in (1849 mm)",
-               "Height": "53 in (1346 mm)"
+               "Length": 185.5,
+               "Width": 72.8,
+               "Height": 53
           }
      },
      "img": {}
 },{
      "model_name": "1979 Oldsmobile Toronado",
      "technical_specs": {
-          "ENGINE SPECS - 4.1L V6 4AT (126 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V6",
-               "Displacement": "4121 cm3",
+               "Displacement": 4121,
                "Power": "93 KW @ 3800 RPM\n126 HP @ 3800 RPM\n125 BHP @ 3800 RPM",
                "Torque": "209 lb-ft @ 2000 RPM\n283 Nm @ 2000 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "100 mph (161 km/h)"
+               "Top Speed": 100
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -464,15 +464,15 @@
                "Rear": "Drums"
           },
           "DIMENSIONS": {
-               "Length": "205.6 in (5222 mm)",
-               "Width": "80 in (2032 mm)",
-               "Height": "54.2 in (1377 mm)",
+               "Length": 205.6,
+               "Width": 80,
+               "Height": 54.2,
                "Front/rear Track": "59.3/60 in (1,506/1,524 mm)",
-               "Wheelbase": "114 in (2896 mm)",
-               "Ground Clearance": "5.1 in (130 mm)"
+               "Wheelbase": 114,
+               "Ground Clearance": 5.1
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "3536 lbs (1604 kg)"
+               "Unladen Weight": 3536
           },
           "": {}
      },
@@ -480,47 +480,47 @@
 },{
      "model_name": "OLDSMOBILE Toronado 1971-1978",
      "technical_specs": {
-          "ENGINE SPECS - 7.5": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "7467 cm3",
+               "Displacement": 7467,
                "Power": "198 KW @ 4200 RPM\n269 HP @ 4200 RPM\n266 BHP @ 4200 RPM",
                "Torque": "375 lb-ft @ 2800 RPM\n508 Nm @ 2800 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)"
+               "Top Speed": 130
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
                "Gearbox": "Automatic, 3 Speed"
           },
           "DIMENSIONS": {
-               "Length": "220.1 in (5591 mm)",
-               "Width": "79.7 in (2024 mm)",
-               "Height": "54.7 in (1389 mm)",
+               "Length": 220.1,
+               "Width": 79.7,
+               "Height": 54.7,
                "Front/rear Track": "63.5/63.5 in (1,613/1,613 mm)",
-               "Wheelbase": "122.2 in (3104 mm)"
+               "Wheelbase": 122.2
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4581 lbs (2078 kg)"
+               "Unladen Weight": 4581
           }
      },
      "img": "images/OLDSMOBILE Toronado 1971-197805-03-06-26-43.jpg"
 },{
      "model_name": "1966 Oldsmobile Toronado",
      "technical_specs": {
-          "ENGINE SPECS - 7.0L V8 3AT (390 HP)": {
+          "ENGINE SPECS": {
                "Cylinders": "V8",
-               "Displacement": "6970 cm3",
+               "Displacement": 6970,
                "Power": "287 KW @ 4800 RPM\n390 HP @ 4800 RPM\n385 BHP @ 4800 RPM",
                "Torque": "475 lb-ft @ 3200 RPM\n644 Nm @ 3200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": "130 mph (209 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": "8 s"
+               "Top Speed": 130,
+               "Acceleration 0-62 Mph (0-100 kph)": 8
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -534,21 +534,21 @@
                "Tire Size": "8.85 X 15"
           },
           "DIMENSIONS": {
-               "Length": "211 in (5359 mm)",
-               "Width": "79 in (2007 mm)",
-               "Height": "54.3 in (1379 mm)",
+               "Length": 211,
+               "Width": 79,
+               "Height": 54.3,
                "Front/rear Track": "63.5/63 in (1,613/1,600 mm)",
-               "Wheelbase": "119 in (3023 mm)",
-               "Cargo Volume": "14.5 cuFT (411 L)",
-               "Aerodynamics (Cd)": "0.5"
+               "Wheelbase": 119,
+               "Cargo Volume": 14.5,
+               "Aerodynamics (Cd)": 0.5
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": "4669 lbs (2118 kg)"
+               "Unladen Weight": 4669
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": "7.2 mpg US (32.7 L/100Km)",
-               "Highway": "13.1 mpg US (18 L/100Km)",
-               "Combined": "11.8 mpg US (19.9 L/100Km)",
+               "City": 7.2,
+               "Highway": 13.1,
+               "Combined": 11.8,
                "CO2 Emissions": "-"
           }
      },
