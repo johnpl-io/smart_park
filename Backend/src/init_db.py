@@ -25,7 +25,10 @@ class User(Base):
     owns = relationship("Owns", back_populates="user", cascade="all, delete")
     park_history = relationship("ParkHistory", back_populates="user", cascade="all, delete")
     park = relationship("Park", back_populates="user", cascade = "all, delete")
-
+    
+    def __repr__(self):
+        return f"User(user_id={self.user_id}, username={self.username}, email={self.email})"
+    
     
 
 class Car(Base):
@@ -34,12 +37,15 @@ class Car(Base):
     car_id = Column(Integer, primary_key=True)
     car_model = Column(String, nullable=False)
     
-    #width = Column(Float, nullable=False)
-    #len = Column(Float, nullable=False)
+    width = Column(Float, nullable=True)
+    len = Column(Float, nullable=True)
+    height = Column(Float, nullable=True)
     
     owns = relationship("Owns", back_populates="car")
     park = relationship("Park", back_populates="car")
 
+    def __repr__(self):
+        return f"Car(car_id={self.car_id}, car_model={self.car_model})"
     
 
 class Owns(Base):
