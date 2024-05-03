@@ -1,16 +1,160 @@
 { "brand_name" : "MINI", "models": [
 {
+     "model_name": "2019 MINI Clubman",
+     "technical_specs": {
+          "ENGINE SPECS - COOPER 1.5L 7AT (136 HP)": {
+               "Cylinders": "L3",
+               "Displacement": "1499 cm3",
+               "Power": "100 KW @ 4400 RPM\n136 HP @ 4400 RPM\n134 BHP @ 4400 RPM",
+               "Torque": "162 lb-ft @ 1250 RPM\n220 Nm @ 1250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": "12.7 gallons (48.1 L)"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": "127 mph (204 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.2 s"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "7-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16 91W"
+          },
+          "DIMENSIONS": {
+               "Length": "167.4 in (4252 mm)",
+               "Width": "70.9 in (1801 mm)",
+               "Height": "56.7 in (1440 mm)",
+               "Front/rear Track": "61.6/61.6 in (1,565/1,565 mm)",
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "12.7 cuFT (360 L)",
+               "Aerodynamics (Cd)": "0.31"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "Combined": "43.6 mpg US (5.4 L/100Km)",
+               "CO2 Emissions": "122 g/km"
+          },
+          "": {}
+     },
+     "img": "images/2019 MINI Clubman05-03-06-12-07.jpg"
+},{
+     "model_name": "2015 MINI Clubman",
+     "technical_specs": {
+          "ENGINE SPECS - COOPER 1.5L 6AT (136 HP)": {
+               "Cylinders": "L3",
+               "Displacement": "1499 cm3",
+               "Power": "100 KW @ 4400 RPM\n136 HP @ 4400 RPM\n134 BHP @ 4400 RPM",
+               "Torque": "162 lb-ft @ 1250 RPM\n220 Nm @ 1250 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": "12.7 gallons (48.1 L)"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": "127 mph (204 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.1 s"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "205/55 R16 91W"
+          },
+          "DIMENSIONS": {
+               "Length": "167.4 in (4252 mm)",
+               "Width": "70.9 in (1801 mm)",
+               "Height": "56.7 in (1440 mm)",
+               "Front/rear Track": "61.6/61.6 in (1,565/1,565 mm)",
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "12.7 cuFT (360 L)",
+               "Aerodynamics (Cd)": "0.32"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": "2910 lbs (1320 kg)",
+               "Gross Weight Limit": "4167 lbs (1890 kg)"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": "37.3 mpg US (6.3 L/100Km)",
+               "Highway": "50 mpg US (4.7 L/100Km)",
+               "Combined": "44.4 mpg US (5.3 L/100Km)",
+               "CO2 Emissions": "123 g/km"
+          },
+          "": {}
+     },
+     "img": "images/2015 MINI Clubman05-03-06-12-11.jpg"
+},{
+     "model_name": "MINI Clubman 2007-2015",
+     "technical_specs": {
+          "ENGINE SPECS - COOPER 1.6L 6AT FWD (120 HP)": {
+               "Cylinders": "L4",
+               "Displacement": "1598 cm3",
+               "Power": "88 KW @ 6000 RPM\n120 HP @ 6000 RPM\n118 BHP @ 6000 RPM",
+               "Torque": "118 lb-ft @ 4250 RPM\n160 Nm @ 4250 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": "10.6 gallons (40.1 L)"
+          },
+          "PERFORMANCE SPECS": {
+               "Top Speed": "121 mph (195 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Front Wheel Drive",
+               "Gearbox": "6-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "175/65 R15"
+          },
+          "DIMENSIONS": {
+               "Length": "155.1 in (3940 mm)",
+               "Width": "66.1 in (1679 mm)",
+               "Height": "56.2 in (1427 mm)",
+               "Front/rear Track": "57.4/57.8 in (1,458/1,468 mm)",
+               "Wheelbase": "100.3 in (2548 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "9.2 cuFT (261 L)",
+               "Aerodynamics (Cd)": "0.33"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": "2557 lbs (1160 kg)",
+               "Gross Weight Limit": "3715 lbs (1685 kg)"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": "25.6 mpg US (9.2 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "35.6 mpg US (6.6 L/100Km)",
+               "CO2 Emissions": "159 g/km"
+          },
+          "": {}
+     },
+     "img": "images/MINI Clubman 2007-201505-03-06-12-17.jpg"
+},{
      "model_name": "2024 MINI Countryman SE ALL4",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 66.45 KWH AWD (313 HP)": {
                "Total maximum power": "230.2 kw (313 hp)",
                "Total maximum torque": "364.4 lb-ft (494 Nm)",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
@@ -20,11 +164,12 @@
                "Maximum Capacity": "66.45 kWh"
           },
           "": {}
-     }
+     },
+     "img": "images/2024 MINI Countryman SE ALL405-03-06-12-19.jpg"
 },{
      "model_name": "2024 Mini Countryman C",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - (170 HP)": {
                "Cylinders": "L3",
                "Power": "125 KW @ - RPM\n170 HP @ - RPM\n168 BHP @ - RPM",
                "Torque": "207 lb-ft @ - RPM\n280 Nm @ - RPM",
@@ -32,32 +177,33 @@
                "Fuel": "Mild Hybrid"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 132,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.3
+               "Top Speed": "132 mph (212 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.3 s"
           },
           "BRAKES SPECS": {
                "Front": "Ventilated Discs",
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Cargo Volume": 15.9
+               "Cargo Volume": "15.9 cuFT (450 L)"
           }
-     }
+     },
+     "img": "images/2024 Mini Countryman C05-03-06-12-20.jpg"
 },{
      "model_name": "2021 Mini Countryman",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.5L 6MT (136 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1499,
+               "Displacement": "1499 cm3",
                "Power": "100 KW @ 4500-6500 RPM\n136 HP @ 4500-6500 RPM\n134 BHP @ 4500-6500 RPM",
                "Torque": "162 lb-ft @ 1480-4100 RPM\n220 Nm @ 1480-4100 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.5
+               "Fuel capacity": "13.5 gallons (51.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 127,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+               "Top Speed": "127 mph (204 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -71,42 +217,43 @@
                "Tire Size": "205/65 R16 95W"
           },
           "DIMENSIONS": {
-               "Length": 169.2,
-               "Width": 71.7,
-               "Height": 61.3,
+               "Length": "169.2 in (4298 mm)",
+               "Width": "71.7 in (1821 mm)",
+               "Height": "61.3 in (1557 mm)",
                "Front/rear Track": "62.4/62.5 in (1,585/1,588 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 15.9,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "15.9 cuFT (450 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3263,
-               "Gross Weight Limit": 4332
+               "Unladen Weight": "3263 lbs (1480 kg)",
+               "Gross Weight Limit": "4332 lbs (1965 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 31.4,
-               "Highway": 47,
-               "Combined": 39.9,
-               "CO2 Emissions": 135
+               "City": "31.4 mpg US (7.5 L/100Km)",
+               "Highway": "47 mpg US (5 L/100Km)",
+               "Combined": "39.9 mpg US (5.9 L/100Km)",
+               "CO2 Emissions": "135 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2021 Mini Countryman05-03-06-12-25.jpg"
 },{
      "model_name": "MINI Countryman 2016-2020",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.5L 6AT (136 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1499,
+               "Displacement": "1499 cm3",
                "Power": "100 KW @ 4400-6000 RPM\n136 HP @ 4400-6000 RPM\n134 BHP @ 4400-6000 RPM",
                "Torque": "162 lb-ft @ 1400-4300 RPM\n220 Nm @ 1400-4300 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.5
+               "Fuel capacity": "13.5 gallons (51.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.6
+               "Top Speed": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -120,42 +267,43 @@
                "Tire Size": "205/65 R16 95W"
           },
           "DIMENSIONS": {
-               "Length": 169.3,
-               "Width": 71.7,
-               "Height": 61.3,
+               "Length": "169.3 in (4300 mm)",
+               "Width": "71.7 in (1821 mm)",
+               "Height": "61.3 in (1557 mm)",
                "Front/rear Track": "62.4/62.5 in (1,585/1,588 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 15.9,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "15.9 cuFT (450 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3064,
-               "Gross Weight Limit": 4354
+               "Unladen Weight": "3064 lbs (1390 kg)",
+               "Gross Weight Limit": "4354 lbs (1975 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 35.1,
-               "Highway": 46.1,
-               "Combined": 41.3,
-               "CO2 Emissions": 130
+               "City": "35.1 mpg US (6.7 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "41.3 mpg US (5.7 L/100Km)",
+               "CO2 Emissions": "130 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Countryman 2016-202005-03-06-12-30.jpg"
 },{
      "model_name": "MINI Countryman 2014-2016",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.6L 6AT FWD (122 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "90 KW @ 6000 RPM\n122 HP @ 6000 RPM\n121 BHP @ 6000 RPM",
                "Torque": "118 lb-ft @ 4250 RPM\n160 Nm @ 4250 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.4
+               "Fuel capacity": "12.4 gallons (46.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 114,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.6
+               "Top Speed": "114 mph (183 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -169,40 +317,41 @@
                "Tire Size": "205/60 R16 92H"
           },
           "DIMENSIONS": {
-               "Length": 162.7,
-               "Width": 70.4,
-               "Height": 61,
+               "Length": "162.7 in (4133 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "60.1/61.2 in (1,527/1,554 mm)",
-               "Wheelbase": 102.2,
-               "Cargo Volume": 12.4
+               "Wheelbase": "102.2 in (2596 mm)",
+               "Cargo Volume": "12.4 cuFT (351 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2855,
-               "Gross Weight Limit": 3979
+               "Unladen Weight": "2855 lbs (1295 kg)",
+               "Gross Weight Limit": "3979 lbs (1805 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26.1,
-               "Highway": 42,
-               "Combined": 34.1,
-               "CO2 Emissions": 159
+               "City": "26.1 mpg US (9 L/100Km)",
+               "Highway": "42 mpg US (5.6 L/100Km)",
+               "Combined": "34.1 mpg US (6.9 L/100Km)",
+               "CO2 Emissions": "159 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Countryman 2014-201605-03-06-12-36.jpg"
 },{
      "model_name": "MINI Countryman 2010-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.6L 6AT FWD 5MT FWD (122 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "90 KW @ 6000 RPM\n122 HP @ 6000 RPM\n121 BHP @ 6000 RPM",
                "Torque": "118 lb-ft @ 4250 RPM\n160 Nm @ 4250 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.4
+               "Fuel capacity": "12.4 gallons (46.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 113,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.6
+               "Top Speed": "113 mph (182 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -216,199 +365,60 @@
                "Tire Size": "205/60 R16 92H"
           },
           "DIMENSIONS": {
-               "Length": 161.3,
-               "Width": 70.4,
-               "Height": 61.5,
+               "Length": "161.3 in (4097 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "61.5 in (1562 mm)",
                "Front/rear Track": "60.4/61.4 in (1,534/1,560 mm)",
-               "Wheelbase": 102.2,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 12.36,
-               "Aerodynamics (Cd)": 0.35,
-               "Turning circle": 38.1
+               "Wheelbase": "102.2 in (2596 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "12.36 cuFT (350 L)",
+               "Aerodynamics (Cd)": "0.35",
+               "Turning circle": "38.1 ft (11.6 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3020,
-               "Gross Weight Limit": 3979
+               "Unladen Weight": "3020 lbs (1370 kg)",
+               "Gross Weight Limit": "3979 lbs (1805 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25.3,
-               "Highway": 39.2,
-               "Combined": 32.7,
-               "CO2 Emissions": 168
+               "City": "25.3 mpg US (9.3 L/100Km)",
+               "Highway": "39.2 mpg US (6 L/100Km)",
+               "Combined": "32.7 mpg US (7.2 L/100Km)",
+               "CO2 Emissions": "168 g/km"
           },
           "": {}
-     }
-},{
-     "model_name": "2019 MINI Clubman",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "L3",
-               "Displacement": 1499,
-               "Power": "100 KW @ 4400 RPM\n136 HP @ 4400 RPM\n134 BHP @ 4400 RPM",
-               "Torque": "162 lb-ft @ 1250 RPM\n220 Nm @ 1250 RPM",
-               "Fuel System": "Multipoint Injection",
-               "Fuel": "Gasoline",
-               "Fuel capacity": 12.7
-          },
-          "PERFORMANCE SPECS": {
-               "Top Speed": 127,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.2
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "Front Wheel Drive",
-               "Gearbox": "7-speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "205/55 R16 91W"
-          },
-          "DIMENSIONS": {
-               "Length": 167.4,
-               "Width": 70.9,
-               "Height": 56.7,
-               "Front/rear Track": "61.6/61.6 in (1,565/1,565 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 12.7,
-               "Aerodynamics (Cd)": 0.31
-          },
-          "FUEL ECONOMY (NEDC)": {
-               "Combined": 43.6,
-               "CO2 Emissions": 122
-          },
-          "": {}
-     }
-},{
-     "model_name": "2015 MINI Clubman",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "L3",
-               "Displacement": 1499,
-               "Power": "100 KW @ 4400 RPM\n136 HP @ 4400 RPM\n134 BHP @ 4400 RPM",
-               "Torque": "162 lb-ft @ 1250 RPM\n220 Nm @ 1250 RPM",
-               "Fuel System": "Turbocharged Direct Injection",
-               "Fuel": "Gasoline",
-               "Fuel capacity": 12.7
-          },
-          "PERFORMANCE SPECS": {
-               "Top Speed": 127,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.1
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "Front Wheel Drive",
-               "Gearbox": "6-speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "205/55 R16 91W"
-          },
-          "DIMENSIONS": {
-               "Length": 167.4,
-               "Width": 70.9,
-               "Height": 56.7,
-               "Front/rear Track": "61.6/61.6 in (1,565/1,565 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 12.7,
-               "Aerodynamics (Cd)": 0.32
-          },
-          "WEIGHT SPECS": {
-               "Unladen Weight": 2910,
-               "Gross Weight Limit": 4167
-          },
-          "FUEL ECONOMY (NEDC)": {
-               "City": 37.3,
-               "Highway": 50,
-               "Combined": 44.4,
-               "CO2 Emissions": 123
-          },
-          "": {}
-     }
-},{
-     "model_name": "MINI Clubman 2007-2015",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "L4",
-               "Displacement": 1598,
-               "Power": "88 KW @ 6000 RPM\n120 HP @ 6000 RPM\n118 BHP @ 6000 RPM",
-               "Torque": "118 lb-ft @ 4250 RPM\n160 Nm @ 4250 RPM",
-               "Fuel System": "Multipoint Injection",
-               "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
-          },
-          "PERFORMANCE SPECS": {
-               "Top Speed": 121,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.9
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "Front Wheel Drive",
-               "Gearbox": "6-speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "175/65 R15"
-          },
-          "DIMENSIONS": {
-               "Length": 155.1,
-               "Width": 66.1,
-               "Height": 56.2,
-               "Front/rear Track": "57.4/57.8 in (1,458/1,468 mm)",
-               "Wheelbase": 100.3,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 9.2,
-               "Aerodynamics (Cd)": 0.33
-          },
-          "WEIGHT SPECS": {
-               "Unladen Weight": 2557,
-               "Gross Weight Limit": 3715
-          },
-          "FUEL ECONOMY (NEDC)": {
-               "City": 25.6,
-               "Highway": 46.1,
-               "Combined": 35.6,
-               "CO2 Emissions": 159
-          },
-          "": {}
-     }
+     },
+     "img": "images/MINI Countryman 2010-201405-03-06-12-42.jpg"
 },{
      "model_name": "2024 Mini Cooper SE",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 54.2 KWH (218 HP)": {
                "Total maximum power": "160.3 kw (218 hp)",
                "Total maximum torque": "243.4 lb-ft (330 Nm)",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+               "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
                "Maximum Capacity": "54.2 kWh",
-               "Range": 249.8
+               "Range": "249.8 miles (402.0 km)"
           }
-     }
+     },
+     "img": "images/2024 Mini Cooper SE05-03-06-12-43.jpg"
 },{
      "model_name": "MINI Mini Cooper 3-door 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L 6MT (136 HP)": {
                "Cylinders": "L3",
                "Power": "100 KW @ - RPM\n136 HP @ - RPM\n134 BHP @ - RPM",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 120,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+               "Top Speed": "120 mph (193 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -419,25 +429,26 @@
                "Rear": "Ventilated Discs"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 43.6,
-               "CO2 Emissions": 124
+               "Combined": "43.6 mpg US (5.4 L/100Km)",
+               "CO2 Emissions": "124 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Mini Cooper 3-door 2021-Present05-03-06-12-46.jpg"
 },{
      "model_name": "MINI John Cooper Works GP 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 8AT FWD (306 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "225.1 KW @ 5000-6250 RPM\n306 HP @ 5000-6250 RPM\n302 BHP @ 5000-6250 RPM",
                "Torque": "332 lb-ft @ 1750-4500 RPM\n450 Nm @ 1750-4500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 165,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+               "Top Speed": "165 mph (266 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -451,34 +462,35 @@
                "Tire Size": "225/35 R18"
           },
           "DIMENSIONS": {
-               "Length": 157.7,
-               "Width": 68,
-               "Height": 56.1,
+               "Length": "157.7 in (4006 mm)",
+               "Width": "68 in (1727 mm)",
+               "Height": "56.1 in (1425 mm)",
                "Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
-               "Wheelbase": 101.1,
-               "Cargo Volume": 9.8,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "101.1 in (2568 mm)",
+               "Cargo Volume": "9.8 cuFT (278 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 32.2,
-               "CO2 Emissions": 167
+               "Combined": "32.2 mpg US (7.3 L/100Km)",
+               "CO2 Emissions": "167 g/km"
           }
-     }
+     },
+     "img": "images/MINI John Cooper Works GP 2019-Present05-03-06-12-47.jpg"
 },{
      "model_name": "MINI Hatch 2018-2021",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.5L 6AT (136 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1499,
+               "Displacement": "1499 cm3",
                "Power": "100 KW @ 4400-6000 RPM\n136 HP @ 4400-6000 RPM\n134 BHP @ 4400-6000 RPM",
                "Torque": "162 lb-ft @ 1250-4300 RPM\n220 Nm @ 1250-4300 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.6
+               "Fuel capacity": "11.6 gallons (43.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.8
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -492,42 +504,43 @@
                "Tire Size": "175/65 R15 84H"
           },
           "DIMENSIONS": {
-               "Length": 150.4,
-               "Width": 68,
-               "Height": 55.7,
+               "Length": "150.4 in (3820 mm)",
+               "Width": "68 in (1727 mm)",
+               "Height": "55.7 in (1415 mm)",
                "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
-               "Wheelbase": 98.2,
-               "Ground Clearance": 5.6,
-               "Cargo Volume": 7.5,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "98.2 in (2494 mm)",
+               "Ground Clearance": "5.6 in (142 mm)",
+               "Cargo Volume": "7.5 cuFT (212 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2624,
-               "Gross Weight Limit": 3516
+               "Unladen Weight": "2624 lbs (1190 kg)",
+               "Gross Weight Limit": "3516 lbs (1595 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 39.2,
-               "Highway": 57.4,
-               "Combined": 49,
-               "CO2 Emissions": 112
+               "City": "39.2 mpg US (6 L/100Km)",
+               "Highway": "57.4 mpg US (4.1 L/100Km)",
+               "Combined": "49 mpg US (4.8 L/100Km)",
+               "CO2 Emissions": "112 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Hatch 2018-202105-03-06-12-51.jpg"
 },{
      "model_name": "MINI Hatch 5 Doors 2018-2021",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.5L 6AT (136 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1499,
+               "Displacement": "1499 cm3",
                "Power": "100 KW @ 4400-6000 RPM\n136 HP @ 4400-6000 RPM\n134 BHP @ 4400-6000 RPM",
                "Torque": "162 lb-ft @ 1250-4300 RPM\n220 Nm @ 1250-4300 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.6
+               "Fuel capacity": "11.6 gallons (43.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 129,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+               "Top Speed": "129 mph (208 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -541,41 +554,42 @@
                "Tire Size": "175/65 R15 84H"
           },
           "DIMENSIONS": {
-               "Length": 156.8,
-               "Width": 68,
-               "Height": 56.1,
+               "Length": "156.8 in (3983 mm)",
+               "Width": "68 in (1727 mm)",
+               "Height": "56.1 in (1425 mm)",
                "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
-               "Wheelbase": 101.1,
-               "Cargo Volume": 9.8,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "101.1 in (2568 mm)",
+               "Cargo Volume": "9.8 cuFT (278 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2756,
-               "Gross Weight Limit": 3748
+               "Unladen Weight": "2756 lbs (1250 kg)",
+               "Gross Weight Limit": "3748 lbs (1700 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 38.6,
-               "Highway": 56,
-               "Combined": 48,
-               "CO2 Emissions": 114
+               "City": "38.6 mpg US (6.1 L/100Km)",
+               "Highway": "56 mpg US (4.2 L/100Km)",
+               "Combined": "48 mpg US (4.9 L/100Km)",
+               "CO2 Emissions": "114 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Hatch 5 Doors 2018-202105-03-06-12-56.jpg"
 },{
      "model_name": "2014 MINI F55 Hatch",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.5L 6AT FWD (136 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1499,
+               "Displacement": "1499 cm3",
                "Power": "100 KW @ 4250-6000 RPM\n136 HP @ 4250-6000 RPM\n134 BHP @ 4250-6000 RPM",
                "Torque": "162 lb-ft @ 1250-4000 RPM\n220 Nm @ 1250-4000 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.8
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -589,41 +603,42 @@
                "Tire Size": "175/65 R15 84H"
           },
           "DIMENSIONS": {
-               "Length": 150.4,
-               "Width": 68,
-               "Height": 55.7,
+               "Length": "150.4 in (3820 mm)",
+               "Width": "68 in (1727 mm)",
+               "Height": "55.7 in (1415 mm)",
                "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
-               "Wheelbase": 98.2,
-               "Cargo Volume": 7.5,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "98.2 in (2494 mm)",
+               "Cargo Volume": "7.5 cuFT (212 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2458,
-               "Gross Weight Limit": 3516
+               "Unladen Weight": "2458 lbs (1115 kg)",
+               "Gross Weight Limit": "3516 lbs (1595 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 39.9,
-               "Highway": 58.8,
-               "Combined": 50,
-               "CO2 Emissions": 109
+               "City": "39.9 mpg US (5.9 L/100Km)",
+               "Highway": "58.8 mpg US (4 L/100Km)",
+               "Combined": "50 mpg US (4.7 L/100Km)",
+               "CO2 Emissions": "109 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2014 MINI F55 Hatch05-03-06-13-00.jpg"
 },{
      "model_name": "MINI Hatch 5 Doors 2014-2018",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.5L 6AT FWD (136 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1499,
+               "Displacement": "1499 cm3",
                "Power": "100 KW @ 4500-6000 RPM\n136 HP @ 4500-6000 RPM\n134 BHP @ 4500-6000 RPM",
                "Torque": "162 lb-ft @ 1250-4000 RPM\n220 Nm @ 1250-4000 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 129,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+               "Top Speed": "129 mph (208 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -637,44 +652,45 @@
                "Tire Size": "175/65 R15 84H"
           },
           "DIMENSIONS": {
-               "Length": 156.8,
-               "Width": 68,
-               "Height": 56.1,
+               "Length": "156.8 in (3983 mm)",
+               "Width": "68 in (1727 mm)",
+               "Height": "56.1 in (1425 mm)",
                "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
-               "Wheelbase": 101.1,
-               "Cargo Volume": 9.8,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "101.1 in (2568 mm)",
+               "Cargo Volume": "9.8 cuFT (278 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2590,
-               "Gross Weight Limit": 3748
+               "Unladen Weight": "2590 lbs (1175 kg)",
+               "Gross Weight Limit": "3748 lbs (1700 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 39.2,
-               "Highway": 57.4,
-               "Combined": 49,
-               "CO2 Emissions": 111
+               "City": "39.2 mpg US (6 L/100Km)",
+               "Highway": "57.4 mpg US (4.1 L/100Km)",
+               "Combined": "49 mpg US (4.8 L/100Km)",
+               "CO2 Emissions": "111 g/km"
           },
           "NOTES": {
                "Torque with overboost": "230 Nm (170 lb-ft)"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Hatch 5 Doors 2014-201805-03-06-13-03.jpg"
 },{
      "model_name": "MINI Hatch (R56) 2006-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.6I 6MT FWD (120 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "88.3 KW @ 6000 RPM\n120 HP @ 6000 RPM\n118 BHP @ 6000 RPM",
                "Torque": "118 lb-ft @ 4250 RPM\n160 Nm @ 4250 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 126,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.1
+               "Top Speed": "126 mph (203 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -688,41 +704,42 @@
                "Tire Size": "195/55/R16"
           },
           "DIMENSIONS": {
-               "Length": 146.1,
-               "Width": 66.1,
-               "Height": 55.5,
+               "Length": "146.1 in (3711 mm)",
+               "Width": "66.1 in (1679 mm)",
+               "Height": "55.5 in (1410 mm)",
                "Front/rear Track": "57.1/57.5 in (1,450/1,461 mm)",
-               "Wheelbase": 97.2,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 5.7,
-               "Aerodynamics (Cd)": 0.36
+               "Wheelbase": "97.2 in (2469 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "5.7 cuFT (161 L)",
+               "Aerodynamics (Cd)": "0.36"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2348,
-               "Gross Weight Limit": 3340
+               "Unladen Weight": "2348 lbs (1065 kg)",
+               "Gross Weight Limit": "3340 lbs (1515 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.2,
-               "Highway": 51.1,
-               "Combined": 40.6
+               "City": "30.2 mpg US (7.8 L/100Km)",
+               "Highway": "51.1 mpg US (4.6 L/100Km)",
+               "Combined": "40.6 mpg US (5.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Hatch (R56) 2006-201405-03-06-13-07.jpg"
 },{
      "model_name": "MINI Hatch (R50) 2001-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.6L 5MT FWD (116 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "85 KW @ 6000 RPM\n116 HP @ 6000 RPM\n114 BHP @ 6000 RPM",
                "Torque": "109 lb-ft @ 9 RPM\n148 Nm @ 9 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.2
+               "Top Speed": "124.3 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -736,41 +753,42 @@
                "Tire Size": "175/65/R15 H"
           },
           "DIMENSIONS": {
-               "Length": 142.8,
-               "Width": 66.5,
-               "Height": 55.4,
+               "Length": "142.8 in (3627 mm)",
+               "Width": "66.5 in (1689 mm)",
+               "Height": "55.4 in (1407 mm)",
                "Front/rear Track": "57.4/57.7 in (1,458/1,466 mm)",
-               "Wheelbase": 97.1,
-               "Ground Clearance": 4.7,
-               "Cargo Volume": 23.5,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "97.1 in (2466 mm)",
+               "Ground Clearance": "4.7 in (119 mm)",
+               "Cargo Volume": "23.5 cuFT (665 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2370.4,
-               "Gross Weight Limit": 3263.4
+               "Unladen Weight": "2370.4 lbs (1075 kg)",
+               "Gross Weight Limit": "3263.4 lbs (1480 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26.1,
-               "Highway": 43.6,
-               "Combined": 35.1,
-               "CO2 Emissions": 165
+               "City": "26.1 mpg US (9 L/100Km)",
+               "Highway": "43.6 mpg US (5.4 L/100Km)",
+               "Combined": "35.1 mpg US (6.7 L/100Km)",
+               "CO2 Emissions": "165 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Hatch (R50) 2001-200605-03-06-13-09.jpg"
 },{
      "model_name": "MINI Hatch 1997-2000",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.3L 4MT FWD (63 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1275,
+               "Displacement": "1275 cm3",
                "Power": "46 KW @ 5500 RPM\n63 HP @ 5500 RPM\n62 BHP @ 5500 RPM",
                "Torque": "70 lb-ft @ 3000 RPM\n95 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 88.9,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.8
+               "Top Speed": "88.9 mph (143 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -784,30 +802,31 @@
                "Tire Size": "145/70 R12"
           },
           "DIMENSIONS": {
-               "Length": 120.1,
-               "Width": 55.5,
-               "Height": 53.1,
+               "Length": "120.1 in (3051 mm)",
+               "Width": "55.5 in (1410 mm)",
+               "Height": "53.1 in (1349 mm)",
                "Front/rear Track": "49.2/47.6 in (1,250/1,209 mm)",
-               "Wheelbase": 80.3,
-               "Ground Clearance": 4.7,
-               "Cargo Volume": 4.1
+               "Wheelbase": "80.3 in (2040 mm)",
+               "Ground Clearance": "4.7 in (119 mm)",
+               "Cargo Volume": "4.1 cuFT (116 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1477.1,
-               "Gross Weight Limit": 2535.3
+               "Unladen Weight": "1477.1 lbs (670 kg)",
+               "Gross Weight Limit": "2535.3 lbs (1150 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 27.7,
-               "Highway": 42.8,
-               "Combined": 35.6,
-               "CO2 Emissions": 158
+               "City": "27.7 mpg US (8.5 L/100Km)",
+               "Highway": "42.8 mpg US (5.5 L/100Km)",
+               "Combined": "35.6 mpg US (6.6 L/100Km)",
+               "CO2 Emissions": "158 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Hatch 1997-200005-03-06-13-12.jpg"
 },{
      "model_name": "2023 MINI Cooper SE Convertible",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 32.6 KWH (184 HP)": {
                "Total maximum power": "135.3 kw (184 hp)",
                "Total maximum torque": "199.1 lb-ft (270 Nm)",
                "Fuel System": "Electric",
@@ -815,7 +834,7 @@
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "93 mph (150 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": 7.3
+               "Acceleration 0-62 Mph (0-100 kph)": "7.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -829,34 +848,35 @@
                "Tire Size": "195/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 151.6,
-               "Width": 68,
-               "Height": 56.2,
+               "Length": "151.6 in (3851 mm)",
+               "Width": "68 in (1727 mm)",
+               "Height": "56.2 in (1427 mm)",
                "Front/rear Track": "58.4/58.4 in (1,483/1,483 mm)",
-               "Wheelbase": 98.2,
-               "Ground Clearance": 5,
-               "Turning circle": 35.1
+               "Wheelbase": "98.2 in (2494 mm)",
+               "Ground Clearance": "5 in (127 mm)",
+               "Turning circle": "35.1 ft (10.7 m)"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
                "Maximum Capacity": "32.6 kWh",
-               "Range": 126.1
+               "Range": "126.1 miles (202.9 km)"
           },
           "NOTES": {
                "Average Energy consumption WLTP": "15.2-17.6 kWh/100 km\nAverage Energy consumption: 14.9-16.9 kWh/100 km"
           }
-     }
+     },
+     "img": "images/2023 MINI Cooper SE Convertible05-03-06-13-14.jpg"
 },{
      "model_name": "MINI Convertible 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.5L 6MT (136 HP)": {
                "Cylinders": "L3",
                "Power": "100 KW @ - RPM\n136 HP @ - RPM\n134 BHP @ - RPM",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 128,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.8
+               "Top Speed": "128 mph (206 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -867,25 +887,26 @@
                "Rear": "Ventilated Discs"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 43.6,
-               "CO2 Emissions": 132
+               "Combined": "43.6 mpg US (5.4 L/100Km)",
+               "CO2 Emissions": "132 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Convertible 2021-Present05-03-06-13-15.jpg"
 },{
      "model_name": "MINI Convertible 2018-2021",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 7AT (190 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "141 KW @ 5000-6000 RPM\n191.7 HP @ 5000-6000 RPM\n189 BHP @ 5000-6000 RPM",
                "Torque": "207 lb-ft @ 1250-4000 RPM\n280 Nm @ 1250-4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 143,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+               "Top Speed": "143 mph (230 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -896,32 +917,33 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 150.4,
-               "Width": 68,
-               "Height": 55.7,
-               "Wheelbase": 98.2
+               "Length": "150.4 in (3820 mm)",
+               "Width": "68 in (1727 mm)",
+               "Height": "55.7 in (1415 mm)",
+               "Wheelbase": "98.2 in (2494 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 39.2,
-               "CO2 Emissions": 139
+               "Combined": "39.2 mpg US (6 L/100Km)",
+               "CO2 Emissions": "139 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Convertible 2018-202105-03-06-13-18.jpg"
 },{
      "model_name": "MINI Convertible 2015-2018",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.5L 6AT (136 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1499,
+               "Displacement": "1499 cm3",
                "Power": "100 KW @ 4400 RPM\n136 HP @ 4400 RPM\n134 BHP @ 4400 RPM",
                "Torque": "162 lb-ft @ 1250 RPM\n220 Nm @ 1250 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.6
+               "Fuel capacity": "11.6 gallons (43.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 128,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.7
+               "Top Speed": "128 mph (206 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -935,42 +957,43 @@
                "Tire Size": "175/65 R15 84H"
           },
           "DIMENSIONS": {
-               "Length": 150.4,
-               "Width": 68,
-               "Height": 55.7,
+               "Length": "150.4 in (3820 mm)",
+               "Width": "68 in (1727 mm)",
+               "Height": "55.7 in (1415 mm)",
                "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
-               "Wheelbase": 98.2,
-               "Ground Clearance": 4.5,
-               "Cargo Volume": 5.7,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "98.2 in (2494 mm)",
+               "Ground Clearance": "4.5 in (114 mm)",
+               "Cargo Volume": "5.7 cuFT (161 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2712,
-               "Gross Weight Limit": 3737
+               "Unladen Weight": "2712 lbs (1230 kg)",
+               "Gross Weight Limit": "3737 lbs (1695 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 37.3,
-               "Highway": 50,
-               "Combined": 44.4,
-               "CO2 Emissions": 123
+               "City": "37.3 mpg US (6.3 L/100Km)",
+               "Highway": "50 mpg US (4.7 L/100Km)",
+               "Combined": "44.4 mpg US (5.3 L/100Km)",
+               "CO2 Emissions": "123 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Convertible 2015-201805-03-06-13-21.jpg"
 },{
      "model_name": "MINI Convertible 2009-2015",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.6L 6AT (120 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "88 KW @ 6000 RPM\n120 HP @ 6000 RPM\n118 BHP @ 6000 RPM",
                "Torque": "118 lb-ft @ 4250 RPM\n160 Nm @ 4250 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 119,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.3
+               "Top Speed": "119 mph (192 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -984,42 +1007,43 @@
                "Tire Size": "195/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 146.2,
-               "Width": 66.2,
-               "Height": 55.6,
+               "Length": "146.2 in (3713 mm)",
+               "Width": "66.2 in (1681 mm)",
+               "Height": "55.6 in (1412 mm)",
                "Front/rear Track": "57.2/57.5 in (1,453/1,461 mm)",
-               "Wheelbase": 97.1,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 4.4,
-               "Aerodynamics (Cd)": 0.37
+               "Wheelbase": "97.1 in (2466 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "4.4 cuFT (125 L)",
+               "Aerodynamics (Cd)": "0.37"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2601,
-               "Gross Weight Limit": 3605
+               "Unladen Weight": "2601 lbs (1180 kg)",
+               "Gross Weight Limit": "3605 lbs (1635 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25.3,
-               "Highway": 45.2,
-               "Combined": 35.1,
-               "CO2 Emissions": 161
+               "City": "25.3 mpg US (9.3 L/100Km)",
+               "Highway": "45.2 mpg US (5.2 L/100Km)",
+               "Combined": "35.1 mpg US (6.7 L/100Km)",
+               "CO2 Emissions": "161 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Convertible 2009-201505-03-06-13-26.jpg"
 },{
      "model_name": "MINI Convertible 2004-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.6L 5MT FWD (115 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "85 KW @ 6000 RPM\n116 HP @ 6000 RPM\n114 BHP @ 6000 RPM",
                "Torque": "111 lb-ft @ 4500 RPM\n150 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 119.9,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+               "Top Speed": "119.9 mph (193 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1033,38 +1057,39 @@
                "Tire Size": "175/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 143.1,
-               "Width": 66.5,
-               "Height": 55.7,
+               "Length": "143.1 in (3635 mm)",
+               "Width": "66.5 in (1689 mm)",
+               "Height": "55.7 in (1415 mm)",
                "Front/rear Track": "57.4/57.4 in (1,458/1,458 mm)",
-               "Wheelbase": 97.1,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 4.2,
-               "Aerodynamics (Cd)": 0.37
+               "Wheelbase": "97.1 in (2466 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "4.2 cuFT (119 L)",
+               "Aerodynamics (Cd)": "0.37"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2535.3,
-               "Gross Weight Limit": 3472.3
+               "Unladen Weight": "2535.3 lbs (1150 kg)",
+               "Gross Weight Limit": "3472.3 lbs (1575 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.3,
-               "Highway": 41.3,
-               "Combined": 32.2,
-               "CO2 Emissions": 175
+               "City": "23.3 mpg US (10.1 L/100Km)",
+               "Highway": "41.3 mpg US (5.7 L/100Km)",
+               "Combined": "32.2 mpg US (7.3 L/100Km)",
+               "CO2 Emissions": "175 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Convertible 2004-200905-03-06-13-28.jpg"
 },{
      "model_name": "2022 Mini Copper S",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.5L 6MT (136 HP)": {
                "Cylinders": "L3",
                "Power": "100 KW @ - RPM\n136 HP @ - RPM\n134 BHP @ - RPM",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 129,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.4
+               "Top Speed": "129 mph (208 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1075,25 +1100,26 @@
                "Rear": "Ventilated Discs"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 43.6,
-               "CO2 Emissions": 125
+               "Combined": "43.6 mpg US (5.4 L/100Km)",
+               "CO2 Emissions": "125 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2022 Mini Copper S05-03-06-13-30.jpg"
 },{
      "model_name": "MINI Mini Classic 1997-2000",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 4MT (63 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1275,
+               "Displacement": "1275 cm3",
                "Power": "46 KW @ 5500 RPM\n63 HP @ 5500 RPM\n62 BHP @ 5500 RPM",
                "Torque": "70 lb-ft @ 3000 RPM\n95 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 88.9,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.8
+               "Top Speed": "88.9 mph (143 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1107,38 +1133,39 @@
                "Tire Size": "145/70SR12"
           },
           "DIMENSIONS": {
-               "Length": 120.1,
-               "Width": 55.5,
-               "Height": 53.1,
+               "Length": "120.1 in (3051 mm)",
+               "Width": "55.5 in (1410 mm)",
+               "Height": "53.1 in (1349 mm)",
                "Front/rear Track": "49.2/47.6 in (1,250/1,209 mm)",
-               "Wheelbase": 80.3,
-               "Cargo Volume": 4.1
+               "Wheelbase": "80.3 in (2040 mm)",
+               "Cargo Volume": "4.1 cuFT (116 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1477.1,
-               "Gross Weight Limit": 2314.9
+               "Unladen Weight": "1477.1 lbs (670 kg)",
+               "Gross Weight Limit": "2314.9 lbs (1050 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 27.7,
-               "Highway": 42.8,
-               "Combined": 35.6,
-               "CO2 Emissions": 158
+               "City": "27.7 mpg US (8.5 L/100Km)",
+               "Highway": "42.8 mpg US (5.5 L/100Km)",
+               "Combined": "35.6 mpg US (6.6 L/100Km)",
+               "CO2 Emissions": "158 g/km"
           }
-     }
+     },
+     "img": "images/MINI Mini Classic 1997-200005-03-06-13-32.jpg"
 },{
      "model_name": "MINI Clubvan 2012-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "4",
-               "Displacement": 1598,
+          "ENGINE SPECS - COOPER 1.6L 6MT FWD (122 HP)": {
+               "Cylinders": "L4",
+               "Displacement": "1598 cm3",
                "Power": "90 KW @ 6000 RPM\n122 HP @ 6000 RPM\n121 BHP @ 6000 RPM",
                "Torque": "118 lb-ft @ 4250 RPM\n160 Nm @ 4250 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 125,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+               "Top Speed": "125 mph (201 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1149,38 +1176,39 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 155.1,
-               "Width": 66.1,
-               "Height": 56.2,
+               "Length": "155.1 in (3940 mm)",
+               "Width": "66.1 in (1679 mm)",
+               "Height": "56.2 in (1427 mm)",
                "Front/rear Track": "57.4/57.8 in (1,458/1,468 mm)",
-               "Wheelbase": 100.3,
-               "Cargo Volume": 30.4
+               "Wheelbase": "100.3 in (2548 mm)",
+               "Cargo Volume": "30.4 cuFT (861 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2524,
-               "Gross Weight Limit": 3627
+               "Unladen Weight": "2524 lbs (1145 kg)",
+               "Gross Weight Limit": "3627 lbs (1645 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 42.8,
-               "CO2 Emissions": 129
+               "Combined": "42.8 mpg US (5.5 L/100Km)",
+               "CO2 Emissions": "129 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Clubvan 2012-Present05-03-06-13-34.jpg"
 },{
      "model_name": "MINI Coupe 2011-2015",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.6L 6AT FWD (122 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "90 KW @ 6000 RPM\n122 HP @ 6000 RPM\n121 BHP @ 6000 RPM",
                "Torque": "118 lb-ft @ 4250 RPM\n160 Nm @ 4250 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 123,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.3
+               "Top Speed": "123 mph (198 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1194,42 +1222,43 @@
                "Tire Size": "175/65 R15 84H"
           },
           "DIMENSIONS": {
-               "Length": 146.77,
-               "Width": 66.26,
-               "Height": 54.25,
+               "Length": "146.77 in (3728 mm)",
+               "Width": "66.26 in (1683 mm)",
+               "Height": "54.25 in (1378 mm)",
                "Front/rear Track": "57.4/57.8 in (1,458/1,468 mm)",
-               "Wheelbase": 97.12,
-               "Ground Clearance": 5.47,
-               "Cargo Volume": 9.89,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "97.12 in (2467 mm)",
+               "Ground Clearance": "5.47 in (139 mm)",
+               "Cargo Volume": "9.89 cuFT (280 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2668,
-               "Gross Weight Limit": 3042
+               "Unladen Weight": "2668 lbs (1210 kg)",
+               "Gross Weight Limit": "3042 lbs (1380 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 27,
-               "Highway": 46.1,
-               "Combined": 36.8,
-               "CO2 Emissions": 150
+               "City": "27 mpg US (8.7 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "36.8 mpg US (6.4 L/100Km)",
+               "CO2 Emissions": "150 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Coupe 2011-201505-03-06-13-38.jpg"
 },{
      "model_name": "MINI Paceman 2013-2016",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.6L 6AT FWD (122 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "90 KW @ 6000 RPM\n122 HP @ 6000 RPM\n121 BHP @ 6000 RPM",
                "Torque": "118 lb-ft @ 4250 RPM\n160 Nm @ 4250 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.4
+               "Fuel capacity": "12.4 gallons (46.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 114,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+               "Top Speed": "114 mph (183 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1243,42 +1272,43 @@
                "Tire Size": "205/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 161.8,
-               "Width": 70.3,
-               "Height": 59.8,
+               "Length": "161.8 in (4110 mm)",
+               "Width": "70.3 in (1786 mm)",
+               "Height": "59.8 in (1519 mm)",
                "Front/rear Track": "60.6/61.7 in (1,539/1,567 mm)",
-               "Wheelbase": 102.2,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 11.7,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "102.2 in (2596 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "11.7 cuFT (331 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3494,
-               "Gross Weight Limit": 3869
+               "Unladen Weight": "3494 lbs (1585 kg)",
+               "Gross Weight Limit": "3869 lbs (1755 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25.3,
-               "Highway": 39.2,
-               "Combined": 32.7,
-               "CO2 Emissions": 168
+               "City": "25.3 mpg US (9.3 L/100Km)",
+               "Highway": "39.2 mpg US (6 L/100Km)",
+               "Combined": "32.7 mpg US (7.2 L/100Km)",
+               "CO2 Emissions": "168 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MINI Paceman 2013-201605-03-06-13-43.jpg"
 },{
      "model_name": "2011 MINI Roadster (R59)",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - COOPER 1.6L 6AT FWD (122 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "90 KW @ 6000 RPM\n122 HP @ 6000 RPM\n121 BHP @ 6000 RPM",
                "Torque": "118 lb-ft @ 4250 RPM\n160 Nm @ 4250 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 119,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+               "Top Speed": "119 mph (192 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1292,26 +1322,27 @@
                "Tire Size": "175/65 R15 84H"
           },
           "DIMENSIONS": {
-               "Length": 146.8,
-               "Width": 66.3,
-               "Height": 54.5,
+               "Length": "146.8 in (3729 mm)",
+               "Width": "66.3 in (1684 mm)",
+               "Height": "54.5 in (1384 mm)",
                "Front/rear Track": "57.4/57.8 in (1,458/1,468 mm)",
-               "Wheelbase": 97.1,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 8.5,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "97.1 in (2466 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "8.5 cuFT (241 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2557,
-               "Gross Weight Limit": 3197
+               "Unladen Weight": "2557 lbs (1160 kg)",
+               "Gross Weight Limit": "3197 lbs (1450 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26.4,
-               "Highway": 44.4,
-               "Combined": 35.6,
-               "CO2 Emissions": 154
+               "City": "26.4 mpg US (8.9 L/100Km)",
+               "Highway": "44.4 mpg US (5.3 L/100Km)",
+               "Combined": "35.6 mpg US (6.6 L/100Km)",
+               "CO2 Emissions": "154 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2011 MINI Roadster (R59)05-03-06-13-46.jpg"
 },	
  ] } 

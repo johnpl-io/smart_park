@@ -1,8 +1,57 @@
 { "brand_name" : "JEEP", "models": [
 {
+     "model_name": "2024 Jeep Gladiator",
+     "technical_specs": {
+          "ENGINE SPECS - 3.6L PENTASTAR V6 6MT (289 HP)": {
+               "Cylinders": "V6",
+               "Power": "212.5 KW @ - RPM\n289 HP @ - RPM\n285 BHP @ - RPM",
+               "Torque": "260 lb-ft @ - RPM\n353 Nm @ - RPM",
+               "Fuel": "Gasoline"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-speed manual"
+          }
+     },
+     "img": "images/2024 Jeep Gladiator05-03-05-19-55.jpg"
+},{
+     "model_name": "2021 Jeep Gladiator",
+     "technical_specs": {
+          "ENGINE SPECS - 3.6L V6 STAR & STOP 6MT 4X4 (285 HP)": {
+               "Cylinders": "V6",
+               "Displacement": "3604 cm3",
+               "Power": "209.6 KW @ 6400 RPM\n285 HP @ 6400 RPM\n281 BHP @ 6400 RPM",
+               "Torque": "260 lb-ft @ 4400 RPM\n353 Nm @ 4400 RPM",
+               "Fuel System": "Turbocharge Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": "21.9 gallons (82.9 L)"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "6-Speed manual"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "DIMENSIONS": {
+               "Length": "218.1 in (5540 mm)",
+               "Width": "73.8 in (1875 mm)",
+               "Height": "73.1 in (1857 mm)",
+               "Front/rear Track": "62.9/62.9 in (1,598/1,598 mm)",
+               "Wheelbase": "137.3 in (3487 mm)",
+               "Ground Clearance": "10 in (254 mm)"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": "4650 lbs (2109 kg)"
+          },
+          "": {}
+     },
+     "img": "images/2021 Jeep Gladiator05-03-05-19-57.jpg"
+},{
      "model_name": "2024 Jeep Wrangler Willys",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L AWD (270 HP)": {
                "Cylinders": "L4",
                "Power": "198.6 KW @ - RPM\n270 HP @ - RPM\n266 BHP @ - RPM",
                "Torque": "295 lb-ft @ - RPM\n400 Nm @ - RPM",
@@ -13,11 +62,12 @@
                "Drive Type": "All Wheel Drive"
           },
           "": {}
-     }
+     },
+     "img": "images/2024 Jeep Wrangler Willys05-03-05-19-59.jpg"
 },{
      "model_name": "2024 Jeep Wrangler 4xe",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 6MT AWD (285 HP)": {
                "Cylinders": "V6",
                "Power": "209.6 KW @ - RPM\n285 HP @ - RPM\n281 BHP @ - RPM",
                "Torque": "260 lb-ft @ - RPM\n353 Nm @ - RPM",
@@ -28,11 +78,12 @@
                "Drive Type": "All Wheel Drive",
                "Gearbox": "6-speed manual"
           }
-     }
+     },
+     "img": "images/2024 Jeep Wrangler 4xe05-03-05-20-00.jpg"
 },{
      "model_name": "2024 Jeep Wrangler Rubicon 4xe",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L PHEV 6MT AWD (375 HP)": {
                "Cylinders": "L4",
                "Power": "275.8 KW @ - RPM\n375 HP @ - RPM\n370 BHP @ - RPM",
                "Torque": "470 lb-ft @ - RPM\n637 Nm @ - RPM",
@@ -43,18 +94,19 @@
                "Drive Type": "All Wheel Drive",
                "Gearbox": "6-speed manual"
           }
-     }
+     },
+     "img": "images/2024 Jeep Wrangler Rubicon 4xe05-03-05-20-01.jpg"
 },{
      "model_name": "2022 Jeep Wrangler 4xe",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L PHEV 8AT (380 HP)": {
                "Cylinders": "L4",
                "Power": "279.5 KW @ - RPM\n380 HP @ - RPM\n375 BHP @ - RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Hybrid Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": 6.4
+               "Acceleration 0-62 Mph (0-100 kph)": "6.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -65,15 +117,16 @@
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion",
-               "Nominal Capacity": 17
+               "Nominal Capacity": "17 kWh"
           }
-     }
+     },
+     "img": "images/2022 Jeep Wrangler 4xe05-03-05-20-03.jpg"
 },{
-     "model_name": "JEEP Wrangler Rubicon 2018-Present",
+     "model_name": "2018 Jeep Wrangler Rubicon JL",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6 V6 6MT (285 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3605,
+               "Displacement": "3605 cm3",
                "Power": "212.5 KW @ 6400 RPM\n289 HP @ 6400 RPM\n285 BHP @ 6400 RPM",
                "Torque": "260 lb-ft @ 4800 RPM\n353 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
@@ -91,37 +144,38 @@
                "Tire Size": "285 / 70R17C BSW"
           },
           "DIMENSIONS": {
-               "Length": 166.8,
-               "Width": 73.8,
-               "Height": 73.6,
-               "Wheelbase": 96.8,
-               "Ground Clearance": 10.4
+               "Length": "166.8 in (4237 mm)",
+               "Width": "73.8 in (1875 mm)",
+               "Height": "73.6 in (1869 mm)",
+               "Wheelbase": "96.8 in (2459 mm)",
+               "Ground Clearance": "10.4 in (264 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 23,
-               "Combined": 19
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "23 mpg US (10.2 L/100Km)",
+               "Combined": "19 mpg US (12.4 L/100Km)"
           },
           "NOTES": {
                "Cargo volume with rear seats folded": "72.4 cu-ft (2050 liters)"
           },
           "": {}
-     }
+     },
+     "img": "images/2018 Jeep Wrangler Rubicon JL05-03-05-20-04.jpg"
 },{
-     "model_name": "JEEP Wrangler 2006-2018",
+     "model_name": "2007 Jeep Wrangler JK",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8L V6 4AT AWD (198 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3778,
+               "Displacement": "3778 cm3",
                "Power": "145.6 KW @ 5000 RPM\n198 HP @ 5000 RPM\n195 BHP @ 5000 RPM",
                "Torque": "232 lb-ft @ 4000 RPM\n315 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.4
+               "Fuel capacity": "17.4 gallons (65.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.6
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -135,42 +189,43 @@
                "Tire Size": "245/75R16"
           },
           "DIMENSIONS": {
-               "Length": 166.14,
-               "Width": 73.62,
-               "Height": 70.86,
+               "Length": "166.14 in (4220 mm)",
+               "Width": "73.62 in (1870 mm)",
+               "Height": "70.86 in (1800 mm)",
                "Front/rear Track": "61.81/61.81 in (1,570/1,570 mm)",
-               "Wheelbase": 95.27,
-               "Ground Clearance": 8.9,
-               "Cargo Volume": 5,
-               "Aerodynamics (Cd)": 0.55
+               "Wheelbase": "95.27 in (2420 mm)",
+               "Ground Clearance": "8.9 in (226 mm)",
+               "Cargo Volume": "5 cuFT (142 L)",
+               "Aerodynamics (Cd)": "0.55"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3792,
-               "Gross Weight Limit": 4835
+               "Unladen Weight": "3792 lbs (1720 kg)",
+               "Gross Weight Limit": "4835 lbs (2193 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14.3,
-               "Highway": 26.7,
-               "Combined": 20.3,
-               "CO2 Emissions": 275
+               "City": "14.3 mpg US (16.4 L/100Km)",
+               "Highway": "26.7 mpg US (8.8 L/100Km)",
+               "Combined": "20.3 mpg US (11.6 L/100Km)",
+               "CO2 Emissions": "275 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2007 Jeep Wrangler JK05-03-05-20-06.jpg"
 },{
-     "model_name": "JEEP Wrangler Rubicon 2006-2018",
+     "model_name": "2007 Jeep Wrangler JK Rubicon",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 5AT AWD (284 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3604,
+               "Displacement": "3604 cm3",
                "Power": "208.9 KW @ 6350 RPM\n284 HP @ 6350 RPM\n280 BHP @ 6350 RPM",
                "Torque": "252 lb-ft @ 4300 RPM\n342 Nm @ 4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.4
+               "Fuel capacity": "17.4 gallons (65.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -184,41 +239,42 @@
                "Tire Size": "255/75R17"
           },
           "DIMENSIONS": {
-               "Length": 166.14,
-               "Width": 73.62,
-               "Height": 70.86,
+               "Length": "166.14 in (4220 mm)",
+               "Width": "73.62 in (1870 mm)",
+               "Height": "70.86 in (1800 mm)",
                "Front/rear Track": "61.81/61.81 in (1,570/1,570 mm)",
-               "Wheelbase": 95.27,
-               "Ground Clearance": 9.3,
-               "Cargo Volume": 5,
-               "Aerodynamics (Cd)": 0.55
+               "Wheelbase": "95.27 in (2420 mm)",
+               "Ground Clearance": "9.3 in (236 mm)",
+               "Cargo Volume": "5 cuFT (142 L)",
+               "Aerodynamics (Cd)": "0.55"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3810,
-               "Gross Weight Limit": 5000
+               "Unladen Weight": "3810 lbs (1728 kg)",
+               "Gross Weight Limit": "5000 lbs (2268 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.1,
-               "Highway": 26.7,
-               "Combined": 20.8,
-               "CO2 Emissions": 263
+               "City": "15.1 mpg US (15.6 L/100Km)",
+               "Highway": "26.7 mpg US (8.8 L/100Km)",
+               "Combined": "20.8 mpg US (11.3 L/100Km)",
+               "CO2 Emissions": "263 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2007 Jeep Wrangler JK Rubicon05-03-05-20-09.jpg"
 },{
-     "model_name": "JEEP Wrangler 1996-2006",
+     "model_name": "1996 Jeep Wrangler TJ",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 5MT AWD (143 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2429,
+               "Displacement": "2429 cm3",
                "Power": "105 KW @ 5200 RPM\n143 HP @ 5200 RPM\n141 BHP @ 5200 RPM",
                "Torque": "159 lb-ft @ 4000 RPM\n216 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 101,
-               "Acceleration 0-62 Mph (0-100 kph)": 12
+               "Top Speed": "101 mph (163 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -232,42 +288,43 @@
                "Tire Size": "215/75 R15"
           },
           "DIMENSIONS": {
-               "Length": 154.1,
-               "Width": 68.5,
-               "Height": 69.5,
+               "Length": "154.1 in (3914 mm)",
+               "Width": "68.5 in (1740 mm)",
+               "Height": "69.5 in (1765 mm)",
                "Front/rear Track": "58.1/58.1 in (1,476/1,476 mm)",
-               "Wheelbase": 93.5,
-               "Ground Clearance": 9.5,
-               "Cargo Volume": 10.9,
-               "Aerodynamics (Cd)": 0.55
+               "Wheelbase": "93.5 in (2375 mm)",
+               "Ground Clearance": "9.5 in (241 mm)",
+               "Cargo Volume": "10.9 cuFT (309 L)",
+               "Aerodynamics (Cd)": "0.55"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3274,
-               "Gross Weight Limit": 4233
+               "Unladen Weight": "3274 lbs (1485 kg)",
+               "Gross Weight Limit": "4233 lbs (1920 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.8,
-               "Highway": 28.3,
-               "Combined": 22.6,
-               "CO2 Emissions": 248
+               "City": "16.8 mpg US (14 L/100Km)",
+               "Highway": "28.3 mpg US (8.3 L/100Km)",
+               "Combined": "22.6 mpg US (10.4 L/100Km)",
+               "CO2 Emissions": "248 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/1996 Jeep Wrangler TJ05-03-05-20-11.jpg"
 },{
-     "model_name": "JEEP Wrangler 1987-1996",
+     "model_name": "1987 Jeep Wrangler",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L 5MT AWD (119 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2464,
+               "Displacement": "2464 cm3",
                "Power": "87.5 KW @ 5300 RPM\n119 HP @ 5300 RPM\n117 BHP @ 5300 RPM",
                "Torque": "135 lb-ft @ 2900 RPM\n183 Nm @ 2900 RPM",
                "Fuel System": "Throttle body injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.1
+               "Fuel capacity": "20.1 gallons (76.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.8
+               "Top Speed": "93 mph (150 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -281,86 +338,40 @@
                "Tire Size": "215/75 R15T"
           },
           "DIMENSIONS": {
-               "Length": 152,
-               "Width": 66,
-               "Height": 68.7,
+               "Length": "152 in (3861 mm)",
+               "Width": "66 in (1676 mm)",
+               "Height": "68.7 in (1745 mm)",
                "Front/rear Track": "58/58 in (1,473/1,473 mm)",
-               "Wheelbase": 93.4,
-               "Ground Clearance": 8.2,
-               "Aerodynamics (Cd)": 0.65
+               "Wheelbase": "93.4 in (2372 mm)",
+               "Ground Clearance": "8.2 in (208 mm)",
+               "Aerodynamics (Cd)": "0.65"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2954.19,
-               "Gross Weight Limit": 4299.01
+               "Unladen Weight": "2954.19 lbs (1340 kg)",
+               "Gross Weight Limit": "4299.01 lbs (1950 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14.8,
-               "Highway": 22.2,
-               "Combined": 17.2
+               "City": "14.8 mpg US (15.9 L/100Km)",
+               "Highway": "22.2 mpg US (10.6 L/100Km)",
+               "Combined": "17.2 mpg US (13.7 L/100Km)"
           },
           "": {}
-     }
-},{
-     "model_name": "2024 Jeep Gladiator",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "V6",
-               "Power": "212.5 KW @ - RPM\n289 HP @ - RPM\n285 BHP @ - RPM",
-               "Torque": "260 lb-ft @ - RPM\n353 Nm @ - RPM",
-               "Fuel": "Gasoline"
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "All Wheel Drive",
-               "Gearbox": "6-speed manual"
-          }
-     }
-},{
-     "model_name": "2021 Jeep Gladiator",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "V6",
-               "Displacement": 3604,
-               "Power": "209.6 KW @ 6400 RPM\n285 HP @ 6400 RPM\n281 BHP @ 6400 RPM",
-               "Torque": "260 lb-ft @ 4400 RPM\n353 Nm @ 4400 RPM",
-               "Fuel System": "Turbocharge Direct Injection",
-               "Fuel": "Gasoline",
-               "Fuel capacity": 21.9
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "All Wheel Drive",
-               "Gearbox": "6-Speed manual"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Discs"
-          },
-          "DIMENSIONS": {
-               "Length": 218.1,
-               "Width": 73.8,
-               "Height": 73.1,
-               "Front/rear Track": "62.9/62.9 in (1,598/1,598 mm)",
-               "Wheelbase": 137.3,
-               "Ground Clearance": 10
-          },
-          "WEIGHT SPECS": {
-               "Unladen Weight": 4650
-          },
-          "": {}
-     }
+     },
+     "img": "images/1987 Jeep Wrangler05-03-05-20-14.jpg"
 },{
      "model_name": "JEEP Renegade 2018-2022",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L T4 16V DDCT 6AT (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1332,
+               "Displacement": "1332 cm3",
                "Power": "110.3 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "199 lb-ft @ 1850 RPM\n270 Nm @ 1850 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 122,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.4
+               "Top Speed": "122 mph (196 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -371,39 +382,40 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 166.8,
-               "Width": 71.1,
-               "Height": 65.6,
-               "Wheelbase": 101.2,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 12.4
+               "Length": "166.8 in (4237 mm)",
+               "Width": "71.1 in (1806 mm)",
+               "Height": "65.6 in (1666 mm)",
+               "Wheelbase": "101.2 in (2570 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "12.4 cuFT (351 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2910
+               "Unladen Weight": "2910 lbs (1320 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 32.7,
-               "Highway": 42,
-               "Combined": 37.9,
-               "CO2 Emissions": 141
+               "City": "32.7 mpg US (7.2 L/100Km)",
+               "Highway": "42 mpg US (5.6 L/100Km)",
+               "Combined": "37.9 mpg US (6.2 L/100Km)",
+               "CO2 Emissions": "141 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Renegade 2018-202205-03-05-20-17.jpg"
 },{
      "model_name": "JEEP Renegade 2014-2018",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L MULTIAIR 6AT (140 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1368,
+               "Displacement": "1368 cm3",
                "Power": "103 KW @ 5500 RPM\n140 HP @ 5500 RPM\n138 BHP @ 5500 RPM",
                "Torque": "170 lb-ft @ 1750 RPM\n230 Nm @ 1750 RPM",
                "Fuel System": "Turbocharged Port Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.7
+               "Fuel capacity": "12.7 gallons (48.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 11
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -417,30 +429,31 @@
                "Tire Size": "215/65 R16"
           },
           "DIMENSIONS": {
-               "Length": 166.8,
-               "Width": 71.1,
-               "Height": 65.6,
+               "Length": "166.8 in (4237 mm)",
+               "Width": "71.1 in (1806 mm)",
+               "Height": "65.6 in (1666 mm)",
                "Front/rear Track": "60.7/60.7 in (1,542/1,542 mm)",
-               "Wheelbase": 101.2,
-               "Ground Clearance": 6.9,
-               "Cargo Volume": 12.4,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "101.2 in (2570 mm)",
+               "Ground Clearance": "6.9 in (175 mm)",
+               "Cargo Volume": "12.4 cuFT (351 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3042
+               "Unladen Weight": "3042 lbs (1380 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 31.4,
-               "Highway": 47,
-               "Combined": 39.9,
-               "CO2 Emissions": 137
+               "City": "31.4 mpg US (7.5 L/100Km)",
+               "Highway": "47 mpg US (5 L/100Km)",
+               "Combined": "39.9 mpg US (5.9 L/100Km)",
+               "CO2 Emissions": "137 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Renegade 2014-201805-03-05-20-20.jpg"
 },{
      "model_name": "JEEP Compass 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L GSE 6AT (150 HP)": {
                "Cylinders": "L4",
                "Power": "110.3 KW @ - RPM\n150 HP @ - RPM\n148 BHP @ - RPM",
                "Torque": "199 lb-ft @ - RPM\n270 Nm @ - RPM",
@@ -456,22 +469,23 @@
                "Rear": "Ventilated Discs"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Compass 2021-Present05-03-05-20-23.jpg"
 },{
      "model_name": "JEEP Compass 2019-2021",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 6AT 4X2 (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1332,
+               "Displacement": "1332 cm3",
                "Power": "110.3 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "199 lb-ft @ 2500 RPM\n270 Nm @ 2500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.1
+               "Top Speed": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -485,40 +499,41 @@
                "Tire Size": "P 225/60 R 17"
           },
           "DIMENSIONS": {
-               "Length": 173,
-               "Width": 71.6,
-               "Height": 63.9,
-               "Wheelbase": 103.8,
-               "Ground Clearance": 7.8,
-               "Cargo Volume": 15.5,
-               "Turning circle": 36.3
+               "Length": "173 in (4394 mm)",
+               "Width": "71.6 in (1819 mm)",
+               "Height": "63.9 in (1623 mm)",
+               "Wheelbase": "103.8 in (2637 mm)",
+               "Ground Clearance": "7.8 in (198 mm)",
+               "Cargo Volume": "15.5 cuFT (439 L)",
+               "Turning circle": "36.3 ft (11.1 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3318
+               "Unladen Weight": "3318 lbs (1505 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 35.6,
-               "Highway": 47,
-               "Combined": 42.8,
-               "CO2 Emissions": 125
+               "City": "35.6 mpg US (6.6 L/100Km)",
+               "Highway": "47 mpg US (5 L/100Km)",
+               "Combined": "42.8 mpg US (5.5 L/100Km)",
+               "CO2 Emissions": "125 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Compass 2019-202105-03-05-20-26.jpg"
 },{
      "model_name": "JEEP Compass 2016-2019",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L MULTIAIR 6MT (140 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1368,
+               "Displacement": "1368 cm3",
                "Power": "103 KW @ 5500 RPM\n140 HP @ 5500 RPM\n138 BHP @ 5500 RPM",
                "Torque": "170 lb-ft @ 1750 RPM\n230 Nm @ 1750 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.9
+               "Fuel capacity": "15.9 gallons (60.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 121,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+               "Top Speed": "121 mph (195 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -532,41 +547,42 @@
                "Tire Size": "P 225/60 R17"
           },
           "DIMENSIONS": {
-               "Length": 173,
-               "Width": 73.8,
-               "Height": 64.6,
+               "Length": "173 in (4394 mm)",
+               "Width": "73.8 in (1875 mm)",
+               "Height": "64.6 in (1641 mm)",
                "Front/rear Track": "60.7/60.3 in (1,542/1,532 mm)",
-               "Wheelbase": 103.8,
-               "Ground Clearance": 8.2,
-               "Cargo Volume": 27.2,
-               "Aerodynamics (Cd)": 0.36
+               "Wheelbase": "103.8 in (2637 mm)",
+               "Ground Clearance": "8.2 in (208 mm)",
+               "Cargo Volume": "27.2 cuFT (770 L)",
+               "Aerodynamics (Cd)": "0.36"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3153
+               "Unladen Weight": "3153 lbs (1430 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.2,
-               "Highway": 45.2,
-               "Combined": 37.9,
-               "CO2 Emissions": 143
+               "City": "30.2 mpg US (7.8 L/100Km)",
+               "Highway": "45.2 mpg US (5.2 L/100Km)",
+               "Combined": "37.9 mpg US (6.2 L/100Km)",
+               "CO2 Emissions": "143 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Compass 2016-201905-03-05-20-29.jpg"
 },{
      "model_name": "JEEP Compass 2011-2016",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L FWD 5MT (156 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "115 KW @ 6300 RPM\n156 HP @ 6300 RPM\n154 BHP @ 6300 RPM",
                "Torque": "140 lb-ft @ 5100 RPM\n190 Nm @ 5100 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.5
+               "Fuel capacity": "13.5 gallons (51.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 115,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.6
+               "Top Speed": "115 mph (185 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -580,41 +596,42 @@
                "Tire Size": "215/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 175.1,
-               "Width": 71.3,
-               "Height": 65.5,
+               "Length": "175.1 in (4448 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "65.5 in (1664 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": 103.7,
-               "Ground Clearance": 8.1,
-               "Cargo Volume": 16.2
+               "Wheelbase": "103.7 in (2634 mm)",
+               "Ground Clearance": "8.1 in (206 mm)",
+               "Cargo Volume": "16.2 cuFT (459 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3139,
-               "Gross Weight Limit": 4431
+               "Unladen Weight": "3139 lbs (1424 kg)",
+               "Gross Weight Limit": "4431 lbs (2010 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.1,
-               "Highway": 38.6,
-               "Combined": 30.9,
-               "CO2 Emissions": 175
+               "City": "23.1 mpg US (10.2 L/100Km)",
+               "Highway": "38.6 mpg US (6.1 L/100Km)",
+               "Combined": "30.9 mpg US (7.6 L/100Km)",
+               "CO2 Emissions": "175 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Compass 2011-201605-03-05-20-33.jpg"
 },{
-     "model_name": "JEEP Compass 2006-2011",
+     "model_name": "2007 Jeep Compass",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L FWD 5MT FWD (156 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "115 KW @ 6300 RPM\n156 HP @ 6300 RPM\n154 BHP @ 6300 RPM",
                "Torque": "140 lb-ft @ 5100 RPM\n190 Nm @ 5100 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.5
+               "Fuel capacity": "13.5 gallons (51.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 115,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.6
+               "Top Speed": "115 mph (185 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -628,37 +645,38 @@
                "Tire Size": "215/60 r17"
           },
           "DIMENSIONS": {
-               "Length": 173.22,
-               "Width": 71.25,
-               "Height": 64.17,
+               "Length": "173.22 in (4400 mm)",
+               "Width": "71.25 in (1810 mm)",
+               "Height": "64.17 in (1630 mm)",
                "Front/rear Track": "59.84/59.84 in (1,520/1,520 mm)",
-               "Wheelbase": 103.93,
-               "Ground Clearance": 8,
-               "Cargo Volume": 11.8
+               "Wheelbase": "103.93 in (2640 mm)",
+               "Ground Clearance": "8 in (203 mm)",
+               "Cargo Volume": "11.8 cuFT (334 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3305,
-               "Gross Weight Limit": 4431
+               "Unladen Weight": "3305 lbs (1499 kg)",
+               "Gross Weight Limit": "4431 lbs (2010 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.1,
-               "Highway": 38.6,
-               "Combined": 30.9,
-               "CO2 Emissions": 175
+               "City": "23.1 mpg US (10.2 L/100Km)",
+               "Highway": "38.6 mpg US (6.1 L/100Km)",
+               "Combined": "30.9 mpg US (7.6 L/100Km)",
+               "CO2 Emissions": "175 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2007 Jeep Compass05-03-05-20-36.jpg"
 },{
      "model_name": "JEEP Grand Cherokee 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L PENTASTAR V6 8AT (293 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3604,
+               "Displacement": "3604 cm3",
                "Power": "215.5 KW @ 6400 RPM\n293 HP @ 6400 RPM\n289 BHP @ 6400 RPM",
                "Torque": "260 lb-ft @ 4000 RPM\n353 Nm @ 4000 RPM",
                "Fuel System": "Sequential, multiport, electronic, returnless",
                "Fuel": "Gasoline",
-               "Fuel capacity": 23
+               "Fuel capacity": "23 gallons (87.1 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -672,30 +690,31 @@
                "Tire Size": "265/50 R20"
           },
           "DIMENSIONS": {
-               "Length": 193.5,
-               "Width": 77.5,
-               "Height": 70.8,
+               "Length": "193.5 in (4915 mm)",
+               "Width": "77.5 in (1969 mm)",
+               "Height": "70.8 in (1798 mm)",
                "Front/rear Track": "65.4/65.4 in (1,661/1,661 mm)",
-               "Wheelbase": 116.7,
-               "Ground Clearance": 8.4,
-               "Cargo Volume": 37.7,
-               "Aerodynamics (Cd)": 0.357
+               "Wheelbase": "116.7 in (2964 mm)",
+               "Ground Clearance": "8.4 in (213 mm)",
+               "Cargo Volume": "37.7 cuFT (1068 L)",
+               "Aerodynamics (Cd)": "0.357"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4238,
-               "Gross Weight Limit": 5521
+               "Unladen Weight": "4238 lbs (1922 kg)",
+               "Gross Weight Limit": "5521 lbs (2504 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19,
-               "Highway": 26,
-               "Combined": 21
+               "City": "19 mpg US (12.4 L/100Km)",
+               "Highway": "26 mpg US (9 L/100Km)",
+               "Combined": "21 mpg US (11.2 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Grand Cherokee 2021-Present05-03-05-20-38.jpg"
 },{
      "model_name": "JEEP Grand Cherokee L 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 4X4 (290 HP)": {
                "Cylinders": "V6",
                "Power": "213.3 KW @ - RPM\n290 HP @ - RPM\n286 BHP @ - RPM",
                "Torque": "257 lb-ft @ 1800-6400 RPM\n348 Nm @ 1800-6400 RPM"
@@ -705,22 +724,23 @@
                "Gearbox": "8-speed automatic"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Grand Cherokee L 2020-Present05-03-05-20-40.jpg"
 },{
      "model_name": "JEEP GRAND CHEROKEE TRACKHAWK 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.2L HEMI V8 8AT AWD (719 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6200,
+               "Displacement": "6200 cm3",
                "Power": "528.8 KW @ 6000 RPM\n719 HP @ 6000 RPM\n709 BHP @ 6000 RPM",
                "Torque": "645 lb-ft @ 4800 RPM\n875 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 24.6
+               "Fuel capacity": "24.6 gallons (93.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 180,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+               "Top Speed": "180 mph (290 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -734,26 +754,27 @@
                "Tire Size": "295/45 ZR20"
           },
           "DIMENSIONS": {
-               "Length": 189.8,
-               "Width": 76.5,
-               "Height": 70,
+               "Length": "189.8 in (4821 mm)",
+               "Width": "76.5 in (1943 mm)",
+               "Height": "70 in (1778 mm)",
                "Front/rear Track": "64.4/64.8 in (1,636/1,646 mm)",
-               "Wheelbase": 114.7,
-               "Ground Clearance": 8.1,
-               "Cargo Volume": 36.4,
-               "Aerodynamics (Cd)": 0.37
+               "Wheelbase": "114.7 in (2913 mm)",
+               "Ground Clearance": "8.1 in (206 mm)",
+               "Cargo Volume": "36.4 cuFT (1031 L)",
+               "Aerodynamics (Cd)": "0.37"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 5364,
-               "Gross Weight Limit": 6601
+               "Unladen Weight": "5364 lbs (2433 kg)",
+               "Gross Weight Limit": "6601 lbs (2994 kg)"
           }
-     }
+     },
+     "img": "images/JEEP GRAND CHEROKEE TRACKHAWK 2018-Present05-03-05-20-42.jpg"
 },{
      "model_name": "2013 Jeep Grand Cherokee SRT8",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4L HEMI V8 8AT (470 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6417,
+               "Displacement": "6417 cm3",
                "Power": "351 KW @ 6000 RPM\n477.2 HP @ 6000 RPM\n471 BHP @ 6000 RPM",
                "Torque": "465 lb-ft @ 4300 RPM\n630 Nm @ 4300 RPM",
                "Fuel System": "Multipoint Injection",
@@ -771,36 +792,37 @@
                "Tire Size": "295/45ZR20"
           },
           "DIMENSIONS": {
-               "Length": 191.3,
-               "Width": 77.1,
-               "Height": 69.1,
+               "Length": "191.3 in (4859 mm)",
+               "Width": "77.1 in (1958 mm)",
+               "Height": "69.1 in (1755 mm)",
                "Front/rear Track": "63.7/64.3 in (1,618/1,633 mm)",
-               "Wheelbase": 114.8,
-               "Ground Clearance": 8.3,
-               "Cargo Volume": 35.1,
-               "Aerodynamics (Cd)": 0.39
+               "Wheelbase": "114.8 in (2916 mm)",
+               "Ground Clearance": "8.3 in (211 mm)",
+               "Cargo Volume": "35.1 cuFT (994 L)",
+               "Aerodynamics (Cd)": "0.39"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 5150,
-               "Gross Weight Limit": 6499
+               "Unladen Weight": "5150 lbs (2336 kg)",
+               "Gross Weight Limit": "6499 lbs (2948 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 13,
-               "Highway": 19,
-               "Combined": 16
+               "City": "13 mpg US (18.1 L/100Km)",
+               "Highway": "19 mpg US (12.4 L/100Km)",
+               "Combined": "16 mpg US (14.7 L/100Km)"
           }
-     }
+     },
+     "img": "images/2013 Jeep Grand Cherokee SRT805-03-05-20-43.jpg"
 },{
      "model_name": "JEEP Grand Cherokee 2013-2020",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 2WD 8AT (284 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3604,
+               "Displacement": "3604 cm3",
                "Power": "209 KW @ 6400 RPM\n284 HP @ 6400 RPM\n280 BHP @ 6400 RPM",
                "Torque": "260 lb-ft @ 4800 RPM\n353 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 24.6
+               "Fuel capacity": "24.6 gallons (93.1 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -814,39 +836,40 @@
                "Tire Size": "P245/70 R17"
           },
           "DIMENSIONS": {
-               "Length": 189.8,
-               "Width": 76.5,
-               "Height": 69.3,
+               "Length": "189.8 in (4821 mm)",
+               "Width": "76.5 in (1943 mm)",
+               "Height": "69.3 in (1760 mm)",
                "Front/rear Track": "63.9/64.1 in (1,623/1,628 mm)",
-               "Wheelbase": 114.8,
-               "Ground Clearance": 8.6,
-               "Cargo Volume": 36.3,
-               "Aerodynamics (Cd)": 0.371
+               "Wheelbase": "114.8 in (2916 mm)",
+               "Ground Clearance": "8.6 in (218 mm)",
+               "Cargo Volume": "36.3 cuFT (1028 L)",
+               "Aerodynamics (Cd)": "0.371"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4545,
-               "Gross Weight Limit": 6500
+               "Unladen Weight": "4545 lbs (2062 kg)",
+               "Gross Weight Limit": "6500 lbs (2948 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 25
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "25 mpg US (9.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Grand Cherokee 2013-202005-03-05-20-46.jpg"
 },{
      "model_name": "2012 Jeep Grand Cherokee SRT8",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4L V8 5AT AWD (461 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6424,
+               "Displacement": "6424 cm3",
                "Power": "343 KW @ 6000 RPM\n467 HP @ 6000 RPM\n460 BHP @ 6000 RPM",
                "Torque": "465 lb-ft @ 4200 RPM\n630 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -860,41 +883,42 @@
                "Tire Size": "295/45ZR20"
           },
           "DIMENSIONS": {
-               "Length": 191.3,
-               "Width": 84.9,
-               "Height": 70.1,
+               "Length": "191.3 in (4859 mm)",
+               "Width": "84.9 in (2156 mm)",
+               "Height": "70.1 in (1781 mm)",
                "Front/rear Track": "63.7/64.3 in (1,618/1,633 mm)",
-               "Wheelbase": 114.8,
-               "Ground Clearance": 8.3,
-               "Cargo Volume": 35.1,
-               "Aerodynamics (Cd)": 0.39
+               "Wheelbase": "114.8 in (2916 mm)",
+               "Ground Clearance": "8.3 in (211 mm)",
+               "Cargo Volume": "35.1 cuFT (994 L)",
+               "Aerodynamics (Cd)": "0.39"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 5150,
-               "Gross Weight Limit": 6499
+               "Unladen Weight": "5150 lbs (2336 kg)",
+               "Gross Weight Limit": "6499 lbs (2948 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 11.3,
-               "Highway": 23.3,
-               "Combined": 16.7,
-               "CO2 Emissions": 328
+               "City": "11.3 mpg US (20.8 L/100Km)",
+               "Highway": "23.3 mpg US (10.1 L/100Km)",
+               "Combined": "16.7 mpg US (14.1 L/100Km)",
+               "CO2 Emissions": "328 g/km"
           }
-     }
+     },
+     "img": "images/2012 Jeep Grand Cherokee SRT805-03-05-20-48.jpg"
 },{
      "model_name": "JEEP Grand Cherokee 2010-2013",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 6AT AWD (286 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3604,
+               "Displacement": "3604 cm3",
                "Power": "210 KW @ 6350 RPM\n286 HP @ 6350 RPM\n282 BHP @ 6350 RPM",
                "Torque": "256 lb-ft @ 4300 RPM\n347 Nm @ 4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 24.6
+               "Fuel capacity": "24.6 gallons (93.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 128,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.1
+               "Top Speed": "128 mph (206 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -908,41 +932,42 @@
                "Tire Size": "265/60R18 or 265/50R20"
           },
           "DIMENSIONS": {
-               "Length": 189.8,
-               "Width": 84.8,
-               "Height": 70.1,
+               "Length": "189.8 in (4821 mm)",
+               "Width": "84.8 in (2154 mm)",
+               "Height": "70.1 in (1781 mm)",
                "Front/rear Track": "64.1/64.3 in (1,628/1,633 mm)",
-               "Wheelbase": 114.8,
-               "Ground Clearance": 8.6,
-               "Cargo Volume": 29.2,
-               "Aerodynamics (Cd)": 0.373
+               "Wheelbase": "114.8 in (2916 mm)",
+               "Ground Clearance": "8.6 in (218 mm)",
+               "Cargo Volume": "29.2 cuFT (827 L)",
+               "Aerodynamics (Cd)": "0.373"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4996,
-               "Gross Weight Limit": 6501
+               "Unladen Weight": "4996 lbs (2266 kg)",
+               "Gross Weight Limit": "6501 lbs (2949 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.5,
-               "Highway": 27.4,
-               "Combined": 21.4,
-               "CO2 Emissions": 265
+               "City": "15.5 mpg US (15.2 L/100Km)",
+               "Highway": "27.4 mpg US (8.6 L/100Km)",
+               "Combined": "21.4 mpg US (11 L/100Km)",
+               "CO2 Emissions": "265 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Grand Cherokee 2010-201305-03-05-20-51.jpg"
 },{
      "model_name": "JEEP Grand Cherokee SRT-8 2006-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.1L V8 5AT (425 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6059,
+               "Displacement": "6059 cm3",
                "Power": "313 KW @ 6200 RPM\n425 HP @ 6200 RPM\n420 BHP @ 6200 RPM",
                "Torque": "420 lb-ft @ 4800 RPM\n570 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 152.23,
-               "Acceleration 0-62 Mph (0-100 kph)": 5
+               "Top Speed": "152.23 mph (245 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -956,41 +981,42 @@
                "Tire Size": "285/40R20"
           },
           "DIMENSIONS": {
-               "Length": 187,
-               "Width": 73.62,
-               "Height": 68.5,
+               "Length": "187 in (4750 mm)",
+               "Width": "73.62 in (1870 mm)",
+               "Height": "68.5 in (1740 mm)",
                "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
-               "Wheelbase": 109.44,
-               "Ground Clearance": 7,
-               "Cargo Volume": 34.5,
-               "Aerodynamics (Cd)": 0.39
+               "Wheelbase": "109.44 in (2780 mm)",
+               "Ground Clearance": "7 in (178 mm)",
+               "Cargo Volume": "34.5 cuFT (977 L)",
+               "Aerodynamics (Cd)": "0.39"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4739.9,
-               "Gross Weight Limit": 6062.7
+               "Unladen Weight": "4739.9 lbs (2150 kg)",
+               "Gross Weight Limit": "6062.7 lbs (2750 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 10.7,
-               "Highway": 17.9,
-               "Combined": 14.3,
-               "CO2 Emissions": 381
+               "City": "10.7 mpg US (22 L/100Km)",
+               "Highway": "17.9 mpg US (13.1 L/100Km)",
+               "Combined": "14.3 mpg US (16.4 L/100Km)",
+               "CO2 Emissions": "381 g/km"
           }
-     }
+     },
+     "img": "images/JEEP Grand Cherokee SRT-8 2006-201005-03-05-20-53.jpg"
 },{
      "model_name": "JEEP Grand Cherokee 2005-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.7L V6 5AT AWD (201 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3701,
+               "Displacement": "3701 cm3",
                "Power": "148 KW @ 5100 RPM\n201 HP @ 5100 RPM\n198 BHP @ 5100 RPM",
                "Torque": "226 lb-ft @ 3700 RPM\n306 Nm @ 3700 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.6
+               "Fuel capacity": "20.6 gallons (78.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 111.84,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+               "Top Speed": "111.84 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1004,43 +1030,44 @@
                "Tire Size": "245/65 R17"
           },
           "DIMENSIONS": {
-               "Length": 187,
-               "Width": 73.6,
-               "Height": 70.3,
+               "Length": "187 in (4750 mm)",
+               "Width": "73.6 in (1869 mm)",
+               "Height": "70.3 in (1786 mm)",
                "Front/rear Track": "62/62 in (1,575/1,575 mm)",
-               "Wheelbase": 109.4,
-               "Ground Clearance": 8.2,
-               "Cargo Volume": 34.5,
-               "Aerodynamics (Cd)": 0.41,
-               "Turning circle": 37.1
+               "Wheelbase": "109.4 in (2779 mm)",
+               "Ground Clearance": "8.2 in (208 mm)",
+               "Cargo Volume": "34.5 cuFT (977 L)",
+               "Aerodynamics (Cd)": "0.41",
+               "Turning circle": "37.1 ft (11.3 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4486.4,
-               "Gross Weight Limit": 6062.71
+               "Unladen Weight": "4486.4 lbs (2035 kg)",
+               "Gross Weight Limit": "6062.71 lbs (2750 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 13.36,
-               "Highway": 22.19,
-               "Combined": 17.81,
-               "CO2 Emissions": 314
+               "City": "13.36 mpg US (17.6 L/100Km)",
+               "Highway": "22.19 mpg US (10.6 L/100Km)",
+               "Combined": "17.81 mpg US (13.2 L/100Km)",
+               "CO2 Emissions": "314 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Grand Cherokee 2005-201005-03-05-20-55.jpg"
 },{
      "model_name": "JEEP Grand Cherokee 2003-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.0L V6 4AT AWD (190 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3960,
+               "Displacement": "3960 cm3",
                "Power": "140 KW @ 5000 RPM\n190 HP @ 5000 RPM\n188 BHP @ 5000 RPM",
                "Torque": "218 lb-ft @ 3000 RPM\n295 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.6
+               "Fuel capacity": "20.6 gallons (78.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112.46,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.9
+               "Top Speed": "112.46 mph (181 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1054,42 +1081,43 @@
                "Tire Size": "235/65HR17"
           },
           "DIMENSIONS": {
-               "Length": 181.49,
-               "Width": 73.22,
-               "Height": 70.86,
+               "Length": "181.49 in (4610 mm)",
+               "Width": "73.22 in (1860 mm)",
+               "Height": "70.86 in (1800 mm)",
                "Front/rear Track": "59.44/59.44 in (1,510/1,510 mm)",
-               "Wheelbase": 105.9,
-               "Ground Clearance": 8.7,
-               "Cargo Volume": 19.5,
-               "Aerodynamics (Cd)": 0.45,
-               "Turning circle": 36.4
+               "Wheelbase": "105.9 in (2690 mm)",
+               "Ground Clearance": "8.7 in (221 mm)",
+               "Cargo Volume": "19.5 cuFT (552 L)",
+               "Aerodynamics (Cd)": "0.45",
+               "Turning circle": "36.4 ft (11.1 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3926.43,
-               "Gross Weight Limit": 5346.2
+               "Unladen Weight": "3926.43 lbs (1781 kg)",
+               "Gross Weight Limit": "5346.2 lbs (2425 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 10.74,
-               "Highway": 19.6,
-               "Combined": 14.98
+               "City": "10.74 mpg US (21.9 L/100Km)",
+               "Highway": "19.6 mpg US (12 L/100Km)",
+               "Combined": "14.98 mpg US (15.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Grand Cherokee 2003-200505-03-05-20-57.jpg"
 },{
      "model_name": "JEEP Grand Cherokee 1999-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.0L 4AT (190 HP)": {
                "Cylinders": "L6",
-               "Displacement": 3960,
+               "Displacement": "3960 cm3",
                "Power": "140 KW @ 5000 RPM\n190 HP @ 5000 RPM\n188 BHP @ 5000 RPM",
                "Torque": "218 lb-ft @ 3000 RPM\n295 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.6
+               "Fuel capacity": "20.6 gallons (78.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 117.43,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.9
+               "Top Speed": "117.43 mph (189 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1103,43 +1131,44 @@
                "Tire Size": "225/75R16"
           },
           "DIMENSIONS": {
-               "Length": 181.49,
-               "Width": 72.44,
-               "Height": 72.44,
+               "Length": "181.49 in (4610 mm)",
+               "Width": "72.44 in (1840 mm)",
+               "Height": "72.44 in (1840 mm)",
                "Front/rear Track": "59.44/59.44 in (1,510/1,510 mm)",
-               "Wheelbase": 105.9,
-               "Ground Clearance": 9.1,
-               "Cargo Volume": 39,
-               "Aerodynamics (Cd)": 0.45,
-               "Turning circle": 36.4
+               "Wheelbase": "105.9 in (2690 mm)",
+               "Ground Clearance": "9.1 in (231 mm)",
+               "Cargo Volume": "39 cuFT (1104 L)",
+               "Aerodynamics (Cd)": "0.45",
+               "Turning circle": "36.4 ft (11.1 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3926.43,
-               "Gross Weight Limit": 5346.2
+               "Unladen Weight": "3926.43 lbs (1781 kg)",
+               "Gross Weight Limit": "5346.2 lbs (2425 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 10.54,
-               "Highway": 19.27,
-               "Combined": 14.7,
-               "CO2 Emissions": 373
+               "City": "10.54 mpg US (22.3 L/100Km)",
+               "Highway": "19.27 mpg US (12.2 L/100Km)",
+               "Combined": "14.7 mpg US (16 L/100Km)",
+               "CO2 Emissions": "373 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Grand Cherokee 1999-200305-03-05-21-00.jpg"
 },{
      "model_name": "1993 Jeep Grand Cherokee ZJ",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.0L V6 4AT AWD (184 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3960,
+               "Displacement": "3960 cm3",
                "Power": "135 KW @ 4700 RPM\n184 HP @ 4700 RPM\n181 BHP @ 4700 RPM",
                "Torque": "214 lb-ft @ 3950 RPM\n290 Nm @ 3950 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 23
+               "Fuel capacity": "23 gallons (87.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 111.84,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.2
+               "Top Speed": "111.84 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1153,110 +1182,35 @@
                "Tire Size": "225/75R15"
           },
           "DIMENSIONS": {
-               "Length": 177.16,
-               "Width": 69.29,
-               "Height": 64.96,
+               "Length": "177.16 in (4500 mm)",
+               "Width": "69.29 in (1760 mm)",
+               "Height": "64.96 in (1650 mm)",
                "Front/rear Track": "57.87/57.87 in (1,470/1,470 mm)",
-               "Wheelbase": 105.9,
-               "Ground Clearance": 8.2,
-               "Cargo Volume": 40.1,
-               "Aerodynamics (Cd)": 0.45,
-               "Turning circle": 38.4
+               "Wheelbase": "105.9 in (2690 mm)",
+               "Ground Clearance": "8.2 in (208 mm)",
+               "Cargo Volume": "40.1 cuFT (1136 L)",
+               "Aerodynamics (Cd)": "0.45",
+               "Turning circle": "38.4 ft (11.7 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3769.9,
-               "Gross Weight Limit": 5687.9
+               "Unladen Weight": "3769.9 lbs (1710 kg)",
+               "Gross Weight Limit": "5687.9 lbs (2580 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 10.3,
-               "Highway": 20.6,
-               "Combined": 15.9,
-               "CO2 Emissions": 352
+               "City": "10.3 mpg US (22.8 L/100Km)",
+               "Highway": "20.6 mpg US (11.4 L/100Km)",
+               "Combined": "15.9 mpg US (14.8 L/100Km)",
+               "CO2 Emissions": "352 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/1993 Jeep Grand Cherokee ZJ05-03-05-21-03.jpg"
 },{
-     "model_name": "JEEP Cherokee 2018-Present",
+     "model_name": "2018 Jeep Wrangler Unlimited Rubicon JL",
      "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "L4",
-               "Displacement": 1994,
-               "Power": "201.3 KW @ 5200 RPM\n274 HP @ 5200 RPM\n270 BHP @ 5200 RPM",
-               "Torque": "295 lb-ft @ 3000-4500 RPM\n400 Nm @ 3000-4500 RPM",
-               "Fuel System": "Turbocharged Direct Injection",
-               "Fuel": "Gasoline",
-               "Fuel capacity": 15.9
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "Rear Wheel Drive",
-               "Gearbox": "9-speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "225/60 R17"
-          },
-          "DIMENSIONS": {
-               "Length": 182,
-               "Width": 73.2,
-               "Height": 65.7,
-               "Front/rear Track": "62.7/63.1 in (1,593/1,603 mm)",
-               "Wheelbase": 106.48,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 24.6
-          },
-          "": {}
-     }
-},{
-     "model_name": "JEEP Cherokee 2013-2018",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "L4",
-               "Displacement": 2360,
-               "Power": "137 KW @ 6250 RPM\n186 HP @ 6250 RPM\n184 BHP @ 6250 RPM",
-               "Torque": "171 lb-ft @ 4800 RPM\n232 Nm @ 4800 RPM",
-               "Fuel System": "Multipoint Injection",
-               "Fuel": "Gasoline",
-               "Fuel capacity": 15.9
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "All Wheel Drive",
-               "Gearbox": "9-speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Solid Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "225/60R17"
-          },
-          "DIMENSIONS": {
-               "Length": 182,
-               "Width": 73.2,
-               "Height": 66.3,
-               "Front/rear Track": "62/61.9 in (1,575/1,572 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 7.9,
-               "Cargo Volume": 24.8,
-               "Aerodynamics (Cd)": 0.34
-          },
-          "WEIGHT SPECS": {
-               "Unladen Weight": 4044
-          },
-          "FUEL ECONOMY (NEDC)": {
-               "City": 22,
-               "Highway": 29
-          },
-          "": {}
-     }
-},{
-     "model_name": "JEEP Wrangler Unlimited Rubicon 2018-Present",
-     "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 6MT (285 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3605,
+               "Displacement": "3605 cm3",
                "Power": "212.5 KW @ 6400 RPM\n289 HP @ 6400 RPM\n285 BHP @ 6400 RPM",
                "Torque": "260 lb-ft @ 4800 RPM\n353 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
@@ -1274,42 +1228,43 @@
                "Tire Size": "285 / 70R17C BSW"
           },
           "DIMENSIONS": {
-               "Length": 188.4,
-               "Width": 73.8,
-               "Height": 73.6,
+               "Length": "188.4 in (4785 mm)",
+               "Width": "73.8 in (1875 mm)",
+               "Height": "73.6 in (1869 mm)",
                "Front/rear Track": "62.9/62.9 in (1,598/1,598 mm)",
-               "Wheelbase": 118.4,
-               "Ground Clearance": 10.8,
-               "Cargo Volume": 18.8
+               "Wheelbase": "118.4 in (3007 mm)",
+               "Ground Clearance": "10.8 in (274 mm)",
+               "Cargo Volume": "18.8 cuFT (532 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4439
+               "Unladen Weight": "4439 lbs (2013 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 23.1,
-               "Combined": 19
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "23.1 mpg US (10.2 L/100Km)",
+               "Combined": "19 mpg US (12.4 L/100Km)"
           },
           "NOTES": {
                "Cargo volume with rear seats folded": "72.4 cu-ft (2050 liters)"
           },
           "": {}
-     }
+     },
+     "img": "images/2018 Jeep Wrangler Unlimited Rubicon JL05-03-05-21-05.jpg"
 },{
-     "model_name": "JEEP Wrangler Unlimited 2012-2018",
+     "model_name": "2012 Jeep Wrangler JK Unlimited",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 5AT AWD (285 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3604,
+               "Displacement": "3604 cm3",
                "Power": "209.6 KW @ 6350 RPM\n285 HP @ 6350 RPM\n281 BHP @ 6350 RPM",
                "Torque": "252 lb-ft @ 4800 RPM\n342 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 22.5
+               "Fuel capacity": "22.5 gallons (85.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1323,38 +1278,39 @@
                "Tire Size": "P255/70R18"
           },
           "DIMENSIONS": {
-               "Length": 152.8,
-               "Width": 73.7,
-               "Height": 70.9,
+               "Length": "152.8 in (3881 mm)",
+               "Width": "73.7 in (1872 mm)",
+               "Height": "70.9 in (1801 mm)",
                "Front/rear Track": "61.9/61.9 in (1,572/1,572 mm)",
-               "Wheelbase": 3.8,
-               "Ground Clearance": 9,
-               "Cargo Volume": 17.15,
-               "Aerodynamics (Cd)": 0.55
+               "Wheelbase": "3.8 in (97 mm)",
+               "Ground Clearance": "9 in (229 mm)",
+               "Cargo Volume": "17.15 cuFT (486 L)",
+               "Aerodynamics (Cd)": "0.55"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4156,
-               "Gross Weight Limit": 5600
+               "Unladen Weight": "4156 lbs (1885 kg)",
+               "Gross Weight Limit": "5600 lbs (2540 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14.6,
-               "Highway": 25.6,
-               "Combined": 20.1,
-               "CO2 Emissions": 273
+               "City": "14.6 mpg US (16.1 L/100Km)",
+               "Highway": "25.6 mpg US (9.2 L/100Km)",
+               "Combined": "20.1 mpg US (11.7 L/100Km)",
+               "CO2 Emissions": "273 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2012 Jeep Wrangler JK Unlimited05-03-05-21-08.jpg"
 },{
-     "model_name": "JEEP Wrangler Unlimited 2006-2012",
+     "model_name": "2007 Jeep Wrangler JK Unlimited",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 5AT AWD (284 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3604,
+               "Displacement": "3604 cm3",
                "Power": "209 KW @ 6400 RPM\n284 HP @ 6400 RPM\n280 BHP @ 6400 RPM",
                "Torque": "260 lb-ft @ 4800 RPM\n353 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.4
+               "Fuel capacity": "17.4 gallons (65.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1368,42 +1324,43 @@
                "Tire Size": "P225/75R1"
           },
           "DIMENSIONS": {
-               "Length": 187,
-               "Width": 74.01,
-               "Height": 70.86,
+               "Length": "187 in (4750 mm)",
+               "Width": "74.01 in (1880 mm)",
+               "Height": "70.86 in (1800 mm)",
                "Front/rear Track": "61.81/61.81 in (1,570/1,570 mm)",
-               "Wheelbase": 116.14,
-               "Ground Clearance": 9,
-               "Cargo Volume": 17.6,
-               "Aerodynamics (Cd)": 0.55
+               "Wheelbase": "116.14 in (2950 mm)",
+               "Ground Clearance": "9 in (229 mm)",
+               "Cargo Volume": "17.6 cuFT (498 L)",
+               "Aerodynamics (Cd)": "0.55"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4156,
-               "Gross Weight Limit": 5600
+               "Unladen Weight": "4156 lbs (1885 kg)",
+               "Gross Weight Limit": "5600 lbs (2540 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14.6,
-               "Highway": 25.6,
-               "Combined": 21.4,
-               "CO2 Emissions": 273
+               "City": "14.6 mpg US (16.1 L/100Km)",
+               "Highway": "25.6 mpg US (9.2 L/100Km)",
+               "Combined": "21.4 mpg US (11 L/100Km)",
+               "CO2 Emissions": "273 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2007 Jeep Wrangler JK Unlimited05-03-05-21-10.jpg"
 },{
-     "model_name": "JEEP Wrangler Unlimited Rubicon 2006-2010",
+     "model_name": "2007 Jeep Wrangler JK Unlimited Rubicon",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8L V6 4AT AWD (198 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3778,
+               "Displacement": "3778 cm3",
                "Power": "145.6 KW @ 5000 RPM\n198 HP @ 5000 RPM\n195 BHP @ 5000 RPM",
                "Torque": "232 lb-ft @ 4000 RPM\n315 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18.5
+               "Fuel capacity": "18.5 gallons (70.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.6
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1417,41 +1374,42 @@
                "Tire Size": "255/75R17"
           },
           "DIMENSIONS": {
-               "Length": 187,
-               "Width": 74.01,
-               "Height": 70.86,
+               "Length": "187 in (4750 mm)",
+               "Width": "74.01 in (1880 mm)",
+               "Height": "70.86 in (1800 mm)",
                "Front/rear Track": "61.81 in (1570 mm)",
-               "Wheelbase": 116.14,
-               "Ground Clearance": 9.3,
-               "Cargo Volume": 17.6,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "116.14 in (2950 mm)",
+               "Ground Clearance": "9.3 in (236 mm)",
+               "Cargo Volume": "17.6 cuFT (498 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3792,
-               "Gross Weight Limit": 4835
+               "Unladen Weight": "3792 lbs (1720 kg)",
+               "Gross Weight Limit": "4835 lbs (2193 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14.3,
-               "Highway": 26.7,
-               "Combined": 20.3,
-               "CO2 Emissions": 282
+               "City": "14.3 mpg US (16.4 L/100Km)",
+               "Highway": "26.7 mpg US (8.8 L/100Km)",
+               "Combined": "20.3 mpg US (11.6 L/100Km)",
+               "CO2 Emissions": "282 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2007 Jeep Wrangler JK Unlimited Rubicon05-03-05-21-13.jpg"
 },{
      "model_name": "2005 Jeep Wrangler Unlimited",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.0 4AT (193 HP)": {
                "Cylinders": "L6",
-               "Displacement": 3960,
+               "Displacement": "3960 cm3",
                "Power": "142 KW @ 4600 RPM\n193 HP @ 4600 RPM\n190 BHP @ 4600 RPM",
                "Torque": "253 lb-ft @ 3200 RPM\n343 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 107,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.6
+               "Top Speed": "107 mph (172 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1465,38 +1423,39 @@
                "Tire Size": "215/75 R 15"
           },
           "DIMENSIONS": {
-               "Length": 155.4,
-               "Width": 66.7,
-               "Height": 68.4,
+               "Length": "155.4 in (3947 mm)",
+               "Width": "66.7 in (1694 mm)",
+               "Height": "68.4 in (1737 mm)",
                "Front/rear Track": "58/58 in (1,473/1,473 mm)",
-               "Wheelbase": 103.4,
-               "Ground Clearance": 8.3,
-               "Cargo Volume": 28.5,
-               "Aerodynamics (Cd)": 0.58
+               "Wheelbase": "103.4 in (2626 mm)",
+               "Ground Clearance": "8.3 in (211 mm)",
+               "Cargo Volume": "28.5 cuFT (807 L)",
+               "Aerodynamics (Cd)": "0.58"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3724.2
+               "Unladen Weight": "3724.2 lbs (1689 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 12.7,
-               "Highway": 23.5,
-               "Combined": 18.1,
-               "CO2 Emissions": 309
+               "City": "12.7 mpg US (18.5 L/100Km)",
+               "Highway": "23.5 mpg US (10 L/100Km)",
+               "Combined": "18.1 mpg US (13 L/100Km)",
+               "CO2 Emissions": "309 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2005 Jeep Wrangler Unlimited05-03-05-21-15.jpg"
 },{
      "model_name": "JEEP Wagoneer 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.7L V8 HEMI 8AT (392 HP)": {
                "Cylinders": "V8",
-               "Displacement": 5654,
+               "Displacement": "5654 cm3",
                "Power": "288.3 KW @ 5600 RPM\n392 HP @ 5600 RPM\n387 BHP @ 5600 RPM",
                "Torque": "404 lb-ft @ 3950 RPM\n548 Nm @ 3950 RPM",
                "Electrical motor power": "12 kw (16 hp)",
                "Fuel System": "Sequential, multiport, electronic, returnless",
                "Fuel": "Mild Hybrid",
-               "Fuel capacity": 26.4
+               "Fuel capacity": "26.4 gallons (99.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1510,32 +1469,33 @@
                "Tire Size": "275/55R20"
           },
           "DIMENSIONS": {
-               "Length": 214.7,
-               "Width": 83.6,
-               "Height": 75.6,
+               "Length": "214.7 in (5453 mm)",
+               "Width": "83.6 in (2123 mm)",
+               "Height": "75.6 in (1920 mm)",
                "Front/rear Track": "68.5/68.3 in (1,740/1,735 mm)",
-               "Wheelbase": 123,
-               "Ground Clearance": 8.3,
-               "Cargo Volume": 27.4,
-               "Aerodynamics (frontal area)": "3.46 m2",
-               "Aerodynamics (Cd)": 0.352
+               "Wheelbase": "123 in (3124 mm)",
+               "Ground Clearance": "8.3 in (211 mm)",
+               "Cargo Volume": "27.4 cuFT (776 L)",
+               "Aerodynamics (Cd)": "0.352",
+               "Aerodynamics (frontal area)": "3.46 m2"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Wagoneer 2021-Present05-03-05-21-17.jpg"
 },{
      "model_name": "JEEP Grand Wagoneer 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4L V8 8AT 4WD (471 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6417,
+               "Displacement": "6417 cm3",
                "Power": "346.4 KW @ 6000 RPM\n471 HP @ 6000 RPM\n465 BHP @ 6000 RPM",
                "Torque": "455 lb-ft @ 4400 RPM\n617 Nm @ 4400 RPM",
                "Fuel System": "Sequential, multiport, electronic",
                "Fuel": "Gasoline",
-               "Fuel capacity": 26.4
+               "Fuel capacity": "26.4 gallons (99.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1549,28 +1509,29 @@
                "Tire Size": "275/55R20"
           },
           "DIMENSIONS": {
-               "Length": 214.7,
-               "Width": 83.6,
-               "Height": 75.6,
+               "Length": "214.7 in (5453 mm)",
+               "Width": "83.6 in (2123 mm)",
+               "Height": "75.6 in (1920 mm)",
                "Front/rear Track": "68.5/68.3 in (1,740/1,735 mm)",
-               "Wheelbase": 123,
-               "Cargo Volume": 27.4
+               "Wheelbase": "123 in (3124 mm)",
+               "Cargo Volume": "27.4 cuFT (776 L)"
           }
-     }
+     },
+     "img": "images/JEEP Grand Wagoneer 2021-Present05-03-05-21-18.jpg"
 },{
      "model_name": "JEEP Wagoneer 1963-1993",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8L 3MT AWD (147 HP)": {
                "Cylinders": "L6",
-               "Displacement": 3801,
+               "Displacement": "3801 cm3",
                "Power": "108 KW @ 4300 RPM\n147 HP @ 4300 RPM\n145 BHP @ 4300 RPM",
                "Torque": "215 lb-ft @ 1600 RPM\n292 Nm @ 1600 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 89,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.1
+               "Top Speed": "89 mph (143 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1584,29 +1545,30 @@
                "Tire Size": "235/60 R 17"
           },
           "DIMENSIONS": {
-               "Length": 183.5,
-               "Width": 75.5,
-               "Height": 65,
+               "Length": "183.5 in (4661 mm)",
+               "Width": "75.5 in (1918 mm)",
+               "Height": "65 in (1651 mm)",
                "Front/rear Track": "57/57 in (1,448/1,448 mm)",
-               "Wheelbase": 110,
-               "Ground Clearance": 7.8,
-               "Aerodynamics (Cd)": 0.654
+               "Wheelbase": "110 in (2794 mm)",
+               "Ground Clearance": "7.8 in (198 mm)",
+               "Aerodynamics (Cd)": "0.654"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3801,
-               "Gross Weight Limit": 4500
+               "Unladen Weight": "3801 lbs (1724 kg)",
+               "Gross Weight Limit": "4500 lbs (2041 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 11.9,
-               "Highway": 12.3,
-               "Combined": 13.7
+               "City": "11.9 mpg US (19.8 L/100Km)",
+               "Highway": "12.3 mpg US (19.1 L/100Km)",
+               "Combined": "13.7 mpg US (17.2 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Wagoneer 1963-199305-03-05-21-20.jpg"
 },{
      "model_name": "2024 Jeep Wrangler Rubicon 392",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4L V8 PHEV 8AT AWD (470 HP)": {
                "Cylinders": "V8",
                "Power": "345.7 KW @ - RPM\n470 HP @ - RPM\n464 BHP @ - RPM",
                "Torque": "470 lb-ft @ - RPM\n637 Nm @ - RPM",
@@ -1618,13 +1580,14 @@
                "Gearbox": "8-speed automatic"
           },
           "DIMENSIONS": {
-               "Ground Clearance": 12.9
+               "Ground Clearance": "12.9 in (328 mm)"
           }
-     }
+     },
+     "img": "images/2024 Jeep Wrangler Rubicon 39205-03-05-21-22.jpg"
 },{
      "model_name": "JEEP Avenger 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 54 KWH FWD (156 HP)": {
                "Total maximum power": "114.7 kw (156 hp)",
                "Total maximum torque": "191.8 lb-ft (260 Nm)",
                "Fuel System": "Electric",
@@ -1632,7 +1595,7 @@
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "93 mph (150 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": 9
+               "Acceleration 0-62 Mph (0-100 kph)": "9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1646,39 +1609,118 @@
                "Tire Size": "215/65R16"
           },
           "DIMENSIONS": {
-               "Length": 160.6,
-               "Width": 70.4,
-               "Height": 60.2,
-               "Wheelbase": 100.9,
-               "Ground Clearance": 8.2,
-               "Cargo Volume": 12.5,
-               "Turning circle": 34.4
+               "Length": "160.6 in (4079 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "60.2 in (1529 mm)",
+               "Wheelbase": "100.9 in (2563 mm)",
+               "Ground Clearance": "8.2 in (208 mm)",
+               "Cargo Volume": "12.5 cuFT (354 L)",
+               "Turning circle": "34.4 ft (10.5 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3386,
-               "Gross Weight Limit": 4464
+               "Unladen Weight": "3386 lbs (1536 kg)",
+               "Gross Weight Limit": "4464 lbs (2025 kg)"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Nominal Capacity": 51,
+               "Nominal Capacity": "51 kWh",
                "Maximum Capacity": "54 kWh",
-               "Range": 243.6
+               "Range": "243.6 miles (392.0 km)"
           },
           "NOTES": {
                "Average Energy consumption WLTP": "15.8 kWh/100 km"
           }
-     }
+     },
+     "img": "images/JEEP Avenger 2022-Present05-03-05-21-24.jpg"
 },{
-     "model_name": "JEEP Cherokee/Liberty 2007-2012",
+     "model_name": "2019 Jeep Cherokee KL",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L TURBO 9AT (270 HP)": {
+               "Cylinders": "L4",
+               "Displacement": "1994 cm3",
+               "Power": "201.3 KW @ 5200 RPM\n274 HP @ 5200 RPM\n270 BHP @ 5200 RPM",
+               "Torque": "295 lb-ft @ 3000-4500 RPM\n400 Nm @ 3000-4500 RPM",
+               "Fuel System": "Turbocharged Direct Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": "15.9 gallons (60.2 L)"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "Rear Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60 R17"
+          },
+          "DIMENSIONS": {
+               "Length": "182 in (4623 mm)",
+               "Width": "73.2 in (1859 mm)",
+               "Height": "65.7 in (1669 mm)",
+               "Front/rear Track": "62.7/63.1 in (1,593/1,603 mm)",
+               "Wheelbase": "106.48 in (2705 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "24.6 cuFT (697 L)"
+          },
+          "": {}
+     },
+     "img": "images/2019 Jeep Cherokee KL05-03-05-21-27.jpg"
+},{
+     "model_name": "2014 Jeep Cherokee KL",
+     "technical_specs": {
+          "ENGINE SPECS - 2.4L 4X4 9AT (186 HP)": {
+               "Cylinders": "L4",
+               "Displacement": "2360 cm3",
+               "Power": "137 KW @ 6250 RPM\n186 HP @ 6250 RPM\n184 BHP @ 6250 RPM",
+               "Torque": "171 lb-ft @ 4800 RPM\n232 Nm @ 4800 RPM",
+               "Fuel System": "Multipoint Injection",
+               "Fuel": "Gasoline",
+               "Fuel capacity": "15.9 gallons (60.2 L)"
+          },
+          "TRANSMISSION SPECS": {
+               "Drive Type": "All Wheel Drive",
+               "Gearbox": "9-speed automatic"
+          },
+          "BRAKES SPECS": {
+               "Front": "Ventilated Discs",
+               "Rear": "Solid Discs"
+          },
+          "TIRES SPECS": {
+               "Tire Size": "225/60R17"
+          },
+          "DIMENSIONS": {
+               "Length": "182 in (4623 mm)",
+               "Width": "73.2 in (1859 mm)",
+               "Height": "66.3 in (1684 mm)",
+               "Front/rear Track": "62/61.9 in (1,575/1,572 mm)",
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "7.9 in (201 mm)",
+               "Cargo Volume": "24.8 cuFT (702 L)",
+               "Aerodynamics (Cd)": "0.34"
+          },
+          "WEIGHT SPECS": {
+               "Unladen Weight": "4044 lbs (1834 kg)"
+          },
+          "FUEL ECONOMY (NEDC)": {
+               "City": "22 mpg US (10.7 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)"
+          },
+          "": {}
+     },
+     "img": "images/2014 Jeep Cherokee KL05-03-05-21-29.jpg"
+},{
+     "model_name": "2008 Jeep Liberty KK",
+     "technical_specs": {
+          "ENGINE SPECS - 3.7L V6 4AT (210 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3700,
+               "Displacement": "3700 cm3",
                "Power": "156.6 KW @ 5200 RPM\n213 HP @ 5200 RPM\n210 BHP @ 5200 RPM",
                "Torque": "235 lb-ft @ 4000 RPM\n319 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.1
+               "Fuel capacity": "20.1 gallons (76.1 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1692,41 +1734,42 @@
                "Tire Size": "225/75 R16"
           },
           "DIMENSIONS": {
-               "Length": 176.9,
-               "Width": 72.4,
-               "Height": 70.6,
+               "Length": "176.9 in (4493 mm)",
+               "Width": "72.4 in (1839 mm)",
+               "Height": "70.6 in (1793 mm)",
                "Front/rear Track": "61/61 in (1,549/1,549 mm)",
-               "Wheelbase": 106.1,
-               "Ground Clearance": 9.4,
-               "Cargo Volume": 31,
-               "Aerodynamics (Cd)": 0.42
+               "Wheelbase": "106.1 in (2695 mm)",
+               "Ground Clearance": "9.4 in (239 mm)",
+               "Cargo Volume": "31 cuFT (878 L)",
+               "Aerodynamics (Cd)": "0.42"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4222,
-               "Gross Weight Limit": 5600
+               "Unladen Weight": "4222 lbs (1915 kg)",
+               "Gross Weight Limit": "5600 lbs (2540 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16,
-               "Highway": 22,
-               "Combined": 18
+               "City": "16 mpg US (14.7 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)",
+               "Combined": "18 mpg US (13.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/2008 Jeep Liberty KK05-03-05-21-32.jpg"
 },{
-     "model_name": "JEEP Cherokee/Liberty 2005-2007",
+     "model_name": "2005 Jeep Liberty/Cherokee",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 16V 6MT (147 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2429,
+               "Displacement": "2429 cm3",
                "Power": "112 KW @ 5200 RPM\n152 HP @ 5200 RPM\n150 BHP @ 5200 RPM",
                "Torque": "159 lb-ft @ 4000 RPM\n216 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.1
+               "Fuel capacity": "20.1 gallons (76.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 104,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.9
+               "Top Speed": "104 mph (167 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1740,42 +1783,43 @@
                "Tire Size": "235/70R16"
           },
           "DIMENSIONS": {
-               "Length": 177.16,
-               "Width": 71.65,
-               "Height": 71.65,
+               "Length": "177.16 in (4500 mm)",
+               "Width": "71.65 in (1820 mm)",
+               "Height": "71.65 in (1820 mm)",
                "Front/rear Track": "59.84/59.84 in (1,520/1,520 mm)",
-               "Wheelbase": 104.33,
-               "Ground Clearance": 6.4,
-               "Cargo Volume": 32.1,
-               "Aerodynamics (Cd)": 0.42
+               "Wheelbase": "104.33 in (2650 mm)",
+               "Ground Clearance": "6.4 in (163 mm)",
+               "Cargo Volume": "32.1 cuFT (909 L)",
+               "Aerodynamics (Cd)": "0.42"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3802.97,
-               "Gross Weight Limit": 5200.7
+               "Unladen Weight": "3802.97 lbs (1725 kg)",
+               "Gross Weight Limit": "5200.7 lbs (2359 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.8,
-               "Highway": 27.35,
-               "Combined": 22.19,
-               "CO2 Emissions": 253
+               "City": "16.8 mpg US (14 L/100Km)",
+               "Highway": "27.35 mpg US (8.6 L/100Km)",
+               "Combined": "22.19 mpg US (10.6 L/100Km)",
+               "CO2 Emissions": "253 g/km"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
-     "model_name": "JEEP Cherokee/Liberty 2001-2005",
+     "model_name": "2001 Jeep Liberty/Cherokee KJ",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 5MT (147 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2429,
+               "Displacement": "2429 cm3",
                "Power": "112 KW @ 5200 RPM\n152 HP @ 5200 RPM\n150 BHP @ 5200 RPM",
                "Torque": "165 lb-ft @ 4000 RPM\n224 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.1
+               "Fuel capacity": "20.1 gallons (76.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 108.1,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.9
+               "Top Speed": "108.1 mph (174 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1789,42 +1833,43 @@
                "Tire Size": "235/75 HR16"
           },
           "DIMENSIONS": {
-               "Length": 174.8,
-               "Width": 71.65,
-               "Height": 73.62,
+               "Length": "174.8 in (4440 mm)",
+               "Width": "71.65 in (1820 mm)",
+               "Height": "73.62 in (1870 mm)",
                "Front/rear Track": "59.84/59.84 in (1,520/1,520 mm)",
-               "Wheelbase": 104.33,
-               "Ground Clearance": 9.6,
-               "Cargo Volume": 29,
-               "Aerodynamics (Cd)": 0.42
+               "Wheelbase": "104.33 in (2650 mm)",
+               "Ground Clearance": "9.6 in (244 mm)",
+               "Cargo Volume": "29 cuFT (821 L)",
+               "Aerodynamics (Cd)": "0.42"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3814,
-               "Gross Weight Limit": 5200.7
+               "Unladen Weight": "3814 lbs (1730 kg)",
+               "Gross Weight Limit": "5200.7 lbs (2359 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.8,
-               "Highway": 27.3,
-               "Combined": 22.2,
-               "CO2 Emissions": 253
+               "City": "16.8 mpg US (14 L/100Km)",
+               "Highway": "27.3 mpg US (8.6 L/100Km)",
+               "Combined": "22.2 mpg US (10.6 L/100Km)",
+               "CO2 Emissions": "253 g/km"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
-     "model_name": "JEEP Cherokee 1997-2001",
+     "model_name": "1997 Jeep Cherokee XJ",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L 5MT AWD (118 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2471,
+               "Displacement": "2471 cm3",
                "Power": "87 KW @ 5200 RPM\n118 HP @ 5200 RPM\n117 BHP @ 5200 RPM",
                "Torque": "146 lb-ft @ 3450 RPM\n198 Nm @ 3450 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.1
+               "Fuel capacity": "20.1 gallons (76.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 102.5,
-               "Acceleration 0-62 Mph (0-100 kph)": 13
+               "Top Speed": "102.5 mph (165 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1838,38 +1883,39 @@
                "Tire Size": "215/75 R15"
           },
           "DIMENSIONS": {
-               "Length": 167.32,
-               "Width": 70.47,
-               "Height": 64.17,
+               "Length": "167.32 in (4250 mm)",
+               "Width": "70.47 in (1790 mm)",
+               "Height": "64.17 in (1630 mm)",
                "Front/rear Track": "57.87/57.87 in (1,470/1,470 mm)",
-               "Wheelbase": 101.57,
-               "Ground Clearance": 8.1,
-               "Cargo Volume": 34,
-               "Aerodynamics (Cd)": 0.51
+               "Wheelbase": "101.57 in (2580 mm)",
+               "Ground Clearance": "8.1 in (206 mm)",
+               "Cargo Volume": "34 cuFT (963 L)",
+               "Aerodynamics (Cd)": "0.51"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3174.6,
-               "Gross Weight Limit": 4640.7
+               "Unladen Weight": "3174.6 lbs (1440 kg)",
+               "Gross Weight Limit": "4640.7 lbs (2105 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.1,
-               "Highway": 26.1,
-               "Combined": 20.6,
-               "CO2 Emissions": 272
+               "City": "15.1 mpg US (15.6 L/100Km)",
+               "Highway": "26.1 mpg US (9 L/100Km)",
+               "Combined": "20.6 mpg US (11.4 L/100Km)",
+               "CO2 Emissions": "272 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/1997 Jeep Cherokee XJ05-03-05-21-39.jpg"
 },{
-     "model_name": "JEEP Cherokee 1984-1997",
+     "model_name": "1984 Jeep Cherokee",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L 3AT AWD (105 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2464,
+               "Displacement": "2464 cm3",
                "Power": "78.3 KW @ 4800 RPM\n106 HP @ 4800 RPM\n105 BHP @ 4800 RPM",
                "Torque": "132 lb-ft @ 2800 RPM\n179 Nm @ 2800 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.1
+               "Fuel capacity": "20.1 gallons (76.1 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1883,41 +1929,42 @@
                "Tire Size": "215/75R15"
           },
           "DIMENSIONS": {
-               "Length": 166.9,
-               "Width": 70.5,
-               "Height": 63.9,
+               "Length": "166.9 in (4239 mm)",
+               "Width": "70.5 in (1791 mm)",
+               "Height": "63.9 in (1623 mm)",
                "Front/rear Track": "57.87/57.87 in (1,470/1,470 mm)",
-               "Wheelbase": 101.4,
-               "Ground Clearance": 7.7,
-               "Cargo Volume": 35.1,
-               "Aerodynamics (Cd)": 0.52
+               "Wheelbase": "101.4 in (2576 mm)",
+               "Ground Clearance": "7.7 in (196 mm)",
+               "Cargo Volume": "35.1 cuFT (994 L)",
+               "Aerodynamics (Cd)": "0.52"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3351,
-               "Gross Weight Limit": 4872.21
+               "Unladen Weight": "3351 lbs (1520 kg)",
+               "Gross Weight Limit": "4872.21 lbs (2210 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21,
-               "Highway": 29,
-               "Combined": 24
+               "City": "21 mpg US (11.2 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)",
+               "Combined": "24 mpg US (9.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/1984 Jeep Cherokee05-03-05-21-44.jpg"
 },{
      "model_name": "JEEP Commander 2008-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.7L V8 5AT (231 HP)": {
                "Cylinders": "V8",
-               "Displacement": 4701,
+               "Displacement": "4701 cm3",
                "Power": "170 KW @ 4500 RPM\n231 HP @ 4500 RPM\n228 BHP @ 4500 RPM",
                "Torque": "302 lb-ft @ 3600 RPM\n409 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.6
+               "Fuel capacity": "20.6 gallons (78.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 117,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.5
+               "Top Speed": "117 mph (188 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1931,42 +1978,43 @@
                "Tire Size": "245/65 R17"
           },
           "DIMENSIONS": {
-               "Length": 188.5,
-               "Width": 74.7,
-               "Height": 71.9,
+               "Length": "188.5 in (4788 mm)",
+               "Width": "74.7 in (1897 mm)",
+               "Height": "71.9 in (1826 mm)",
                "Front/rear Track": "62.6/62.6 in (1,590/1,590 mm)",
-               "Wheelbase": 109.4,
-               "Ground Clearance": 8.3,
-               "Cargo Volume": 7.5,
-               "Aerodynamics (Cd)": 0.42
+               "Wheelbase": "109.4 in (2779 mm)",
+               "Ground Clearance": "8.3 in (211 mm)",
+               "Cargo Volume": "7.5 cuFT (212 L)",
+               "Aerodynamics (Cd)": "0.42"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 5082,
-               "Gross Weight Limit": 6393
+               "Unladen Weight": "5082 lbs (2305 kg)",
+               "Gross Weight Limit": "6393 lbs (2900 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 12.3,
-               "Highway": 19.3,
-               "Combined": 15.9,
-               "CO2 Emissions": 352
+               "City": "12.3 mpg US (19.1 L/100Km)",
+               "Highway": "19.3 mpg US (12.2 L/100Km)",
+               "Combined": "15.9 mpg US (14.8 L/100Km)",
+               "CO2 Emissions": "352 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Commander 2008-201005-03-05-21-47.jpg"
 },{
      "model_name": "JEEP Commander 2005-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.7L V8 5AT AWD (231 HP)": {
                "Cylinders": "V8",
-               "Displacement": 4701,
+               "Displacement": "4701 cm3",
                "Power": "170 KW @ 4500 RPM\n231 HP @ 4500 RPM\n228 BHP @ 4500 RPM",
                "Torque": "302 lb-ft @ 3600 RPM\n409 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.6
+               "Fuel capacity": "20.6 gallons (78.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 117.43,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.5
+               "Top Speed": "117.43 mph (189 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1980,38 +2028,39 @@
                "Tire Size": "245/65 R17"
           },
           "DIMENSIONS": {
-               "Length": 188.5,
-               "Width": 89,
-               "Height": 71.9,
+               "Length": "188.5 in (4788 mm)",
+               "Width": "89 in (2261 mm)",
+               "Height": "71.9 in (1826 mm)",
                "Front/rear Track": "62.6/62.6 in (1,590/1,590 mm)",
-               "Wheelbase": 109.5,
-               "Ground Clearance": 8.4,
-               "Cargo Volume": 36.3,
-               "Aerodynamics (Cd)": 0.41
+               "Wheelbase": "109.5 in (2781 mm)",
+               "Ground Clearance": "8.4 in (213 mm)",
+               "Cargo Volume": "36.3 cuFT (1028 L)",
+               "Aerodynamics (Cd)": "0.41"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 5081.65,
-               "Gross Weight Limit": 6393.4
+               "Unladen Weight": "5081.65 lbs (2305 kg)",
+               "Gross Weight Limit": "6393.4 lbs (2900 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 12.25,
-               "Highway": 19.27,
-               "Combined": 15.89,
-               "CO2 Emissions": 352
+               "City": "12.25 mpg US (19.2 L/100Km)",
+               "Highway": "19.27 mpg US (12.2 L/100Km)",
+               "Combined": "15.89 mpg US (14.8 L/100Km)",
+               "CO2 Emissions": "352 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Commander 2005-200705-03-05-21-49.jpg"
 },{
      "model_name": "JEEP Patriot 2007-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 16V FWD 5MT (159 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "117 KW @ 6400 RPM\n159 HP @ 6400 RPM\n157 BHP @ 6400 RPM",
                "Torque": "141 lb-ft @ 5000 RPM\n191 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.5
+               "Fuel capacity": "13.5 gallons (51.1 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2025,19 +2074,20 @@
                "Tire Size": "215/60/R17"
           },
           "DIMENSIONS": {
-               "Length": 173.7,
-               "Width": 69.1,
-               "Height": 64.4,
+               "Length": "173.7 in (4412 mm)",
+               "Width": "69.1 in (1755 mm)",
+               "Height": "64.4 in (1636 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": 103.7,
-               "Ground Clearance": 9,
-               "Cargo Volume": 11.8
+               "Wheelbase": "103.7 in (2634 mm)",
+               "Ground Clearance": "9 in (229 mm)",
+               "Cargo Volume": "11.8 cuFT (334 L)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23,
-               "Highway": 29
+               "City": "23 mpg US (10.2 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/JEEP Patriot 2007-201405-03-05-21-54.jpg"
 },	
  ] } 

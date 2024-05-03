@@ -2,18 +2,18 @@
 {
      "model_name": "2022 Lotus Emira",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 8AT RWD (365 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1991,
+               "Displacement": "1991 cm3",
                "Power": "268.5 KW @ -0 RPM\n365 HP @ -0 RPM\n360 BHP @ -0 RPM",
                "Torque": "317 lb-ft @ - RPM\n430 Nm @ - RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.9
+               "Fuel capacity": "13.9 gallons (52.6 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 180,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+               "Top Speed": "180 mph (290 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -27,22 +27,23 @@
                "Tire Size": "245/35/R20 // 295/30/R20"
           },
           "DIMENSIONS": {
-               "Length": 173.7,
-               "Width": 74.6,
-               "Height": 48.2,
+               "Length": "173.7 in (4412 mm)",
+               "Width": "74.6 in (1895 mm)",
+               "Height": "48.2 in (1224 mm)",
                "Front/rear Track": "64/63.3 in (1,626/1,608 mm)",
-               "Wheelbase": 101.4,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "101.4 in (2576 mm)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3188
+               "Unladen Weight": "3188 lbs (1446 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/2022 Lotus Emira05-03-05-38-58.jpg"
 },{
      "model_name": "LOTUS Sport 240 Final Edition 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 6MT (240 HP)": {
                "Cylinders": "L4",
                "Power": "176.5 KW @ 7200 RPM\n240 HP @ 7200 RPM\n237 BHP @ 7200 RPM",
                "Torque": "180 lb-ft @ 3000-7000 RPM\n244 Nm @ 3000-7000 RPM",
@@ -50,8 +51,8 @@
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 147,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+               "Top Speed": "147 mph (237 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -62,32 +63,33 @@
                "Rear": "Ventilated Discs"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2033
+               "Unladen Weight": "2033 lbs (922 kg)"
           },
           "FUEL ECONOMY (WLTP)": {
                "Low": "20.1 mpg US (11.7 L/100Km)",
                "Medium": "31.4 mpg US (7.5 L/100Km)",
                "High": "34.1 mpg US (6.9 L/100Km)",
                "Extra high": "31.4 mpg US (7.5 L/100Km)",
-               "Combined": 30.2,
+               "Combined": "30.2 mpg US (7.8 L/100Km)",
                "CO2 Emissions (Combined)": "177 g/km"
           }
-     }
+     },
+     "img": "images/LOTUS Sport 240 Final Edition 2021-Present05-03-05-39-00.jpg"
 },{
      "model_name": "2016 Lotus Elise Cup 250",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 6MT (250 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1796,
+               "Displacement": "1796 cm3",
                "Power": "183.9 KW @ 7200 RPM\n250 HP @ 7200 RPM\n247 BHP @ 7200 RPM",
                "Torque": "184 lb-ft @ 3500-5500 RPM\n250 Nm @ 3500-5500 RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.7
+               "Fuel capacity": "12.7 gallons (48.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 154,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+               "Top Speed": "154 mph (248 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -101,34 +103,35 @@
                "Tire Size": "195/50 ZR16 // 225/45 ZR17"
           },
           "DIMENSIONS": {
-               "Length": 150.6,
-               "Width": 67.7,
-               "Height": 44
+               "Length": "150.6 in (3825 mm)",
+               "Width": "67.7 in (1720 mm)",
+               "Height": "44 in (1118 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2022
+               "Unladen Weight": "2022 lbs (917 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.3,
-               "Highway": 39.2,
-               "Combined": 31.4,
-               "CO2 Emissions": 175
+               "City": "23.3 mpg US (10.1 L/100Km)",
+               "Highway": "39.2 mpg US (6 L/100Km)",
+               "Combined": "31.4 mpg US (7.5 L/100Km)",
+               "CO2 Emissions": "175 g/km"
           }
-     }
+     },
+     "img": "images/2016 Lotus Elise Cup 25005-03-05-39-02.jpg"
 },{
      "model_name": "2010 Lotus Elise Series 3",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L S 6MT RWD (134 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "100 KW @ 6800 RPM\n134 HP @ 6800 RPM\n134 BHP @ 6800 RPM",
                "Torque": "118 lb-ft @ 4400 RPM\n160 Nm @ 4400 RPM",
                "Fuel System": "Turbocharged multipoint injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 127,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+               "Top Speed": "127 mph (204 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -142,41 +145,42 @@
                "Tire Size": "175/55 R16 front and 225/45 R17 rear"
           },
           "DIMENSIONS": {
-               "Length": 149,
-               "Width": 67.7,
-               "Height": 44,
+               "Length": "149 in (3785 mm)",
+               "Width": "67.7 in (1720 mm)",
+               "Height": "44 in (1118 mm)",
                "Front/rear Track": "57.3/59.3 in (1,455/1,506 mm)",
-               "Wheelbase": 90.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 3.9,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "90.5 in (2299 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "3.9 cuFT (110 L)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1918,
-               "Gross Weight Limit": 2571
+               "Unladen Weight": "1918 lbs (870 kg)",
+               "Gross Weight Limit": "2571 lbs (1166 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28.3,
-               "Highway": 47,
-               "Combined": 37.3,
-               "CO2 Emissions": 149
+               "City": "28.3 mpg US (8.3 L/100Km)",
+               "Highway": "47 mpg US (5 L/100Km)",
+               "Combined": "37.3 mpg US (6.3 L/100Km)",
+               "CO2 Emissions": "149 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2010 Lotus Elise Series 305-03-05-39-04.jpg"
 },{
      "model_name": "2008 Lotus Elise",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 5MT (122 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1796,
+               "Displacement": "1796 cm3",
                "Power": "89 KW @ 5600 RPM\n121 HP @ 5600 RPM\n119 BHP @ 5600 RPM",
                "Torque": "124 lb-ft @ 3500 RPM\n168 Nm @ 3500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+               "Top Speed": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -190,42 +194,43 @@
                "Tire Size": "175/55 R16 || 225/45 R17"
           },
           "DIMENSIONS": {
-               "Length": 149,
-               "Width": 67.6,
-               "Height": 43.9,
+               "Length": "149 in (3785 mm)",
+               "Width": "67.6 in (1717 mm)",
+               "Height": "43.9 in (1115 mm)",
                "Front/rear Track": "57.3/59.3 in (1,455/1,506 mm)",
-               "Wheelbase": 90.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 3.95,
-               "Aerodynamics (Cd)": 0.41
+               "Wheelbase": "90.5 in (2299 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "3.95 cuFT (112 L)",
+               "Aerodynamics (Cd)": "0.41"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1565,
-               "Gross Weight Limit": 2116
+               "Unladen Weight": "1565 lbs (710 kg)",
+               "Gross Weight Limit": "2116 lbs (960 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24.2,
-               "Highway": 38.6,
-               "Combined": 31.8,
-               "CO2 Emissions": 170
+               "City": "24.2 mpg US (9.7 L/100Km)",
+               "Highway": "38.6 mpg US (6.1 L/100Km)",
+               "Combined": "31.8 mpg US (7.4 L/100Km)",
+               "CO2 Emissions": "170 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2008 Lotus Elise05-03-05-39-06.jpg"
 },{
      "model_name": "2001 Lotus Elise Series 2",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 5MT FWD (120 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1796,
+               "Displacement": "1796 cm3",
                "Power": "88 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
                "Torque": "122 lb-ft @ 3000 RPM\n165 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10
+               "Fuel capacity": "10 gallons (37.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+               "Top Speed": "124.3 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -239,41 +244,42 @@
                "Tire Size": "225/45 R17"
           },
           "DIMENSIONS": {
-               "Length": 148.8,
-               "Width": 67.7,
-               "Height": 44.9,
+               "Length": "148.8 in (3780 mm)",
+               "Width": "67.7 in (1720 mm)",
+               "Height": "44.9 in (1140 mm)",
                "Front/rear Track": "57.5/59.1 in (1,461/1,501 mm)",
-               "Wheelbase": 90.6,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 4.1,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "90.6 in (2301 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "4.1 cuFT (116 L)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1565.3
+               "Unladen Weight": "1565.3 lbs (710 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25,
-               "Highway": 38.6,
-               "Combined": 32.2,
-               "CO2 Emissions": 170
+               "City": "25 mpg US (9.4 L/100Km)",
+               "Highway": "38.6 mpg US (6.1 L/100Km)",
+               "Combined": "32.2 mpg US (7.3 L/100Km)",
+               "CO2 Emissions": "170 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2001 Lotus Elise Series 205-03-05-39-09.jpg"
 },{
      "model_name": "1997 Lotus Elise",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 5MT RWD (118 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1796,
+               "Displacement": "1796 cm3",
                "Power": "88 KW @ 5500 RPM\n120 HP @ 5500 RPM\n118 BHP @ 5500 RPM",
                "Torque": "122 lb-ft @ 3000 RPM\n165 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 9.5
+               "Fuel capacity": "9.5 gallons (36.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 125.5,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+               "Top Speed": "125.5 mph (202 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -287,29 +293,30 @@
                "Tire Size": "205/50 VR16"
           },
           "DIMENSIONS": {
-               "Length": 146.9,
-               "Width": 66.9,
-               "Height": 47.2,
+               "Length": "146.9 in (3731 mm)",
+               "Width": "66.9 in (1699 mm)",
+               "Height": "47.2 in (1199 mm)",
                "Front/rear Track": "56.7/57.1 in (1,440/1,450 mm)",
-               "Wheelbase": 90.6,
-               "Ground Clearance": 6.3,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "90.6 in (2301 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1541
+               "Unladen Weight": "1541 lbs (699 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24.5,
-               "Highway": 41.3,
-               "Combined": 33.1,
-               "CO2 Emissions": 170
+               "City": "24.5 mpg US (9.6 L/100Km)",
+               "Highway": "41.3 mpg US (5.7 L/100Km)",
+               "Combined": "33.1 mpg US (7.1 L/100Km)",
+               "CO2 Emissions": "170 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/1997 Lotus Elise05-03-05-39-11.jpg"
 },{
      "model_name": "LOTUS Sport 420 Final Edition 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 6MT (420 HP)": {
                "Cylinders": "V6",
                "Power": "308.9 KW @ 7000 RPM\n420 HP @ 7000 RPM\n414 BHP @ 7000 RPM",
                "Torque": "315 lb-ft @ 2600-7000 RPM\n427 Nm @ 2600-7000 RPM",
@@ -317,8 +324,8 @@
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 180,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+               "Top Speed": "180 mph (290 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive"
@@ -335,14 +342,15 @@
                "Medium": "23.8 mpg US (9.9 L/100Km)",
                "High": "27.7 mpg US (8.5 L/100Km)",
                "Extra high": "25 mpg US (9.4 L/100Km)",
-               "Combined": 23.1,
+               "Combined": "23.1 mpg US (10.2 L/100Km)",
                "CO2 Emissions (Combined)": "230 g/km"
           }
-     }
+     },
+     "img": "images/LOTUS Sport 420 Final Edition 2021-Present05-03-05-39-13.jpg"
 },{
      "model_name": "LOTUS Sport 390 Final Edition 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 6MT (390 HP)": {
                "Cylinders": "V6",
                "Power": "286.8 KW @ 7000 RPM\n390 HP @ 7000 RPM\n385 BHP @ 7000 RPM",
                "Torque": "310 lb-ft @ 3000-6700 RPM\n420 Nm @ 3000-6700 RPM",
@@ -350,8 +358,8 @@
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 172,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+               "Top Speed": "172 mph (277 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -365,31 +373,32 @@
                "Tire Size": "195/50 R16 // 225/45 R17"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2509
+               "Unladen Weight": "2509 lbs (1138 kg)"
           },
           "FUEL ECONOMY (WLTP)": {
                "Low": "14 mpg US (16.8 L/100Km)",
                "Medium": "23.8 mpg US (9.9 L/100Km)",
                "High": "27.7 mpg US (8.5 L/100Km)",
                "Extra high": "25 mpg US (9.4 L/100Km)",
-               "Combined": 23.1,
+               "Combined": "23.1 mpg US (10.2 L/100Km)",
                "CO2 Emissions (Combined)": "230 g/km"
           }
-     }
+     },
+     "img": "images/LOTUS Sport 390 Final Edition 2021-Present05-03-05-39-15.jpg"
 },{
      "model_name": "LOTUS Exige 410 Sport 2017-2021",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 6MT (410 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3458,
+               "Displacement": "3458 cm3",
                "Power": "301.6 KW @ 7000 RPM\n410 HP @ 7000 RPM\n404 BHP @ 7000 RPM",
                "Torque": "310 lb-ft @ 3000-7000 RPM\n420 Nm @ 3000-7000 RPM",
                "Fuel System": "Supercharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 145,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+               "Top Speed": "145 mph (233 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -403,27 +412,28 @@
                "Tire Size": "215/45 ZR17 // 285/30 ZR18"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2443
+               "Unladen Weight": "2443 lbs (1108 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "CO2 Emissions": 240
+               "CO2 Emissions": "240 g/km"
           }
-     }
+     },
+     "img": "images/LOTUS Exige 410 Sport 2017-202105-03-05-39-16.jpg"
 },{
      "model_name": "LOTUS Exige S 2012-2021",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - S 3.5L V6 6MT (350 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3456,
+               "Displacement": "3456 cm3",
                "Power": "257 KW @ 7000 RPM\n349 HP @ 7000 RPM\n345 BHP @ 7000 RPM",
                "Torque": "295 lb-ft @ 4500 RPM\n400 Nm @ 4500 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 170,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+               "Top Speed": "170 mph (274 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -437,39 +447,40 @@
                "Tire Size": "205/45 R17 || 265/35 R18"
           },
           "DIMENSIONS": {
-               "Length": 159.4,
-               "Width": 70.9,
-               "Height": 44.4,
+               "Length": "159.4 in (4049 mm)",
+               "Width": "70.9 in (1801 mm)",
+               "Height": "44.4 in (1128 mm)",
                "Front/rear Track": "57.2/59 in (1,453/1,499 mm)",
-               "Wheelbase": 93.3,
-               "Aerodynamics (Cd)": 0.43
+               "Wheelbase": "93.3 in (2370 mm)",
+               "Aerodynamics (Cd)": "0.43"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2593
+               "Unladen Weight": "2593 lbs (1176 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.2,
-               "Highway": 30.9,
-               "Combined": 23.3,
-               "CO2 Emissions": 236
+               "City": "16.2 mpg US (14.5 L/100Km)",
+               "Highway": "30.9 mpg US (7.6 L/100Km)",
+               "Combined": "23.3 mpg US (10.1 L/100Km)",
+               "CO2 Emissions": "236 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Exige S 2012-202105-03-05-39-19.jpg"
 },{
      "model_name": "LOTUS Exige 2008-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 6MT (192 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1796,
+               "Displacement": "1796 cm3",
                "Power": "141 KW @ 7800 RPM\n192 HP @ 7800 RPM\n189 BHP @ 7800 RPM",
                "Torque": "133 lb-ft @ 6800 RPM\n180 Nm @ 6800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 147,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+               "Top Speed": "147 mph (237 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -483,41 +494,42 @@
                "Tire Size": "195/50 R16 || 225/45 R17"
           },
           "DIMENSIONS": {
-               "Length": 149,
-               "Width": 67.6,
-               "Height": 46,
+               "Length": "149 in (3785 mm)",
+               "Width": "67.6 in (1717 mm)",
+               "Height": "46 in (1168 mm)",
                "Front/rear Track": "57.3/59.3 in (1,455/1,506 mm)",
-               "Wheelbase": 90.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 3.95,
-               "Aerodynamics (Cd)": 0.44
+               "Wheelbase": "90.5 in (2299 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "3.95 cuFT (112 L)",
+               "Aerodynamics (Cd)": "0.44"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1929,
-               "Gross Weight Limit": 2480
+               "Unladen Weight": "1929 lbs (875 kg)",
+               "Gross Weight Limit": "2480 lbs (1125 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19.4,
-               "Highway": 34.6,
-               "Combined": 26.7,
-               "CO2 Emissions": 208
+               "City": "19.4 mpg US (12.1 L/100Km)",
+               "Highway": "34.6 mpg US (6.8 L/100Km)",
+               "Combined": "26.7 mpg US (8.8 L/100Km)",
+               "CO2 Emissions": "208 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Exige 2008-201205-03-05-39-21.jpg"
 },{
      "model_name": "LOTUS Exige 2004-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8 6MT (192 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1796,
+               "Displacement": "1796 cm3",
                "Power": "141 KW @ 7800 RPM\n192 HP @ 7800 RPM\n189 BHP @ 7800 RPM",
                "Torque": "134 lb-ft @ 6800 RPM\n181 Nm @ 6800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 147.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+               "Top Speed": "147.3 mph (237 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -531,41 +543,42 @@
                "Tire Size": "225/45ZR17"
           },
           "DIMENSIONS": {
-               "Length": 149.6,
-               "Width": 68.1,
-               "Height": 45.7,
+               "Length": "149.6 in (3800 mm)",
+               "Width": "68.1 in (1730 mm)",
+               "Height": "45.7 in (1161 mm)",
                "Front/rear Track": "57.5/59.4 in (1,461/1,509 mm)",
-               "Wheelbase": 90.6,
-               "Ground Clearance": 4.2,
-               "Cargo Volume": 3.9,
-               "Aerodynamics (Cd)": 0.42
+               "Wheelbase": "90.6 in (2301 mm)",
+               "Ground Clearance": "4.2 in (107 mm)",
+               "Cargo Volume": "3.9 cuFT (110 L)",
+               "Aerodynamics (Cd)": "0.42"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1929,
-               "Gross Weight Limit": 2292.8
+               "Unladen Weight": "1929 lbs (875 kg)",
+               "Gross Weight Limit": "2292.8 lbs (1040 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19.4,
-               "Highway": 34.6,
-               "Combined": 26.7,
-               "CO2 Emissions": 208
+               "City": "19.4 mpg US (12.1 L/100Km)",
+               "Highway": "34.6 mpg US (6.8 L/100Km)",
+               "Combined": "26.7 mpg US (8.8 L/100Km)",
+               "CO2 Emissions": "208 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Exige 2004-200705-03-05-39-23.jpg"
 },{
      "model_name": "LOTUS Exige 2000-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8 5MT (179 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1796,
+               "Displacement": "1796 cm3",
                "Power": "133 KW @ 7800 RPM\n179 HP @ 7800 RPM\n178 BHP @ 7800 RPM",
                "Torque": "126 lb-ft @ 5000 RPM\n171 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 136.1,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+               "Top Speed": "136.1 mph (219 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -579,34 +592,35 @@
                "Tire Size": "225/45ZR17"
           },
           "DIMENSIONS": {
-               "Length": 148.8,
-               "Width": 67.7,
-               "Height": 46.5,
+               "Length": "148.8 in (3780 mm)",
+               "Width": "67.7 in (1720 mm)",
+               "Height": "46.5 in (1181 mm)",
                "Front/rear Track": "57.1/58.7 in (1,450/1,491 mm)",
-               "Wheelbase": 90.6,
-               "Ground Clearance": 4.2,
-               "Cargo Volume": 4,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "90.6 in (2301 mm)",
+               "Ground Clearance": "4.2 in (107 mm)",
+               "Cargo Volume": "4 cuFT (113 L)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1719.6,
-               "Gross Weight Limit": 2127
+               "Unladen Weight": "1719.6 lbs (780 kg)",
+               "Gross Weight Limit": "2127 lbs (965 kg)"
           }
-     }
+     },
+     "img": "images/LOTUS Exige 2000-200305-03-05-39-24.jpg"
 },{
      "model_name": "LOTUS Evora GT (North America) 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 6AT (422 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3456,
+               "Displacement": "3456 cm3",
                "Power": "310.4 KW @ 7000 RPM\n422 HP @ 7000 RPM\n416 BHP @ 7000 RPM",
                "Torque": "332 lb-ft @ 3500 RPM\n450 Nm @ 3500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 188,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "188 mph (303 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -620,35 +634,36 @@
                "Tire Size": "245/35 ZR19-93Y // 295/30 ZR20-101Y"
           },
           "DIMENSIONS": {
-               "Length": 173,
-               "Width": 77.6,
-               "Height": 48.1
+               "Length": "173 in (4394 mm)",
+               "Width": "77.6 in (1971 mm)",
+               "Height": "48.1 in (1222 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 32300
+               "Unladen Weight": "32300 lbs (14651 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17.4,
-               "Highway": 24,
-               "Combined": 19.9,
-               "CO2 Emissions": 440
+               "City": "17.4 mpg US (13.5 L/100Km)",
+               "Highway": "24 mpg US (9.8 L/100Km)",
+               "Combined": "19.9 mpg US (11.8 L/100Km)",
+               "CO2 Emissions": "440 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Evora GT (North America) 2019-Present05-03-05-39-27.jpg"
 },{
      "model_name": "LOTUS Evora GT410 Sport 2018",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 6AT (416 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3456,
+               "Displacement": "3456 cm3",
                "Power": "306 KW @ - RPM\n416 HP @ - RPM\n410 BHP @ - RPM",
                "Torque": "310 lb-ft @ - RPM\n420 Nm @ - RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 171,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+               "Top Speed": "171 mph (275 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -662,36 +677,37 @@
                "Tire Size": "235/35 R19 || 285/30 R20"
           },
           "DIMENSIONS": {
-               "Length": 173,
-               "Width": 77.6,
-               "Height": 48.1,
-               "Aerodynamics (Cd)": 0.35
+               "Length": "173 in (4394 mm)",
+               "Width": "77.6 in (1971 mm)",
+               "Height": "48.1 in (1222 mm)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2934
+               "Unladen Weight": "2934 lbs (1331 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25,
-               "Highway": 24.5,
-               "Combined": 21.4,
-               "CO2 Emissions": 248
+               "City": "25 mpg US (9.4 L/100Km)",
+               "Highway": "24.5 mpg US (9.6 L/100Km)",
+               "Combined": "21.4 mpg US (11 L/100Km)",
+               "CO2 Emissions": "248 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Evora GT410 Sport 201805-03-05-39-28.jpg"
 },{
      "model_name": "LOTUS Evora GT430 2017-2018",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5 V6 6AT (436 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3456,
+               "Displacement": "3456 cm3",
                "Power": "320.7 KW @ 7000 RPM\n436 HP @ 7000 RPM\n430 BHP @ 7000 RPM",
                "Torque": "332 lb-ft @ 4500 RPM\n450 Nm @ 4500 RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 174,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+               "Top Speed": "174 mph (280 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -705,33 +721,34 @@
                "Tire Size": "245/35 R19 || 295/30R20"
           },
           "DIMENSIONS": {
-               "Length": 173,
-               "Width": 72.6,
-               "Height": 48.4,
+               "Length": "173 in (4394 mm)",
+               "Width": "72.6 in (1844 mm)",
+               "Height": "48.4 in (1229 mm)",
                "Front/rear Track": "61.6/62 in (1,565/1,575 mm)",
-               "Wheelbase": 101.4,
-               "Cargo Volume": 5.7,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "101.4 in (2576 mm)",
+               "Cargo Volume": "5.7 cuFT (161 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2888
+               "Unladen Weight": "2888 lbs (1310 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Evora GT430 2017-201805-03-05-39-30.jpg"
 },{
      "model_name": "LOTUS Evora Sport 410 2016-2018",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 6AT (416 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3456,
+               "Displacement": "3456 cm3",
                "Power": "306 KW @ 7000 RPM\n416 HP @ 7000 RPM\n410 BHP @ 7000 RPM",
                "Torque": "310 lb-ft @ 3500 RPM\n420 Nm @ 3500 RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 174,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+               "Top Speed": "174 mph (280 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -745,40 +762,41 @@
                "Tire Size": "235/35 R19 || 285/30 R20"
           },
           "DIMENSIONS": {
-               "Length": 173,
-               "Width": 72.6,
-               "Height": 48.4,
+               "Length": "173 in (4394 mm)",
+               "Width": "72.6 in (1844 mm)",
+               "Height": "48.4 in (1229 mm)",
                "Front/rear Track": "61.6/62 in (1,565/1,575 mm)",
-               "Wheelbase": 101.4,
-               "Cargo Volume": 5.7,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "101.4 in (2576 mm)",
+               "Cargo Volume": "5.7 cuFT (161 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2945
+               "Unladen Weight": "2945 lbs (1336 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.7,
-               "Highway": 33.1,
-               "Combined": 24.2,
-               "CO2 Emissions": 230
+               "City": "16.7 mpg US (14.1 L/100Km)",
+               "Highway": "33.1 mpg US (7.1 L/100Km)",
+               "Combined": "24.2 mpg US (9.7 L/100Km)",
+               "CO2 Emissions": "230 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Evora Sport 410 2016-201805-03-05-39-32.jpg"
 },{
      "model_name": "2015 Lotus Evora 400",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 6AT (406 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3456,
+               "Displacement": "3456 cm3",
                "Power": "298 KW @ 7000 RPM\n405 HP @ 7000 RPM\n400 BHP @ 7000 RPM",
                "Torque": "302 lb-ft @ 3500-6500 RPM\n409 Nm @ 3500-6500 RPM",
                "Fuel System": "Supercharged Multi-Point Sequential Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.9
+               "Fuel capacity": "15.9 gallons (60.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 186,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.3
+               "Top Speed": "186 mph (299 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -792,37 +810,38 @@
                "Tire Size": "235/35 R19 91Y // 285/30 R20 99Y"
           },
           "DIMENSIONS": {
-               "Length": 173,
-               "Width": 80.6,
-               "Height": 51.1,
-               "Wheelbase": 101.4,
-               "Cargo Volume": 5.7,
-               "Aerodynamics (Cd)": 0.35
+               "Length": "173 in (4394 mm)",
+               "Width": "80.6 in (2047 mm)",
+               "Height": "51.1 in (1298 mm)",
+               "Wheelbase": "101.4 in (2576 mm)",
+               "Cargo Volume": "5.7 cuFT (161 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3128
+               "Unladen Weight": "3128 lbs (1419 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
                "City": "Infinity mpg US (0 L/100Km)",
-               "CO2 Emissions": 220
+               "CO2 Emissions": "220 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2015 Lotus Evora 40005-03-05-39-34.jpg"
 },{
      "model_name": "LOTUS Evora 2008-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 6AT RWD (280 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3506,
+               "Displacement": "3506 cm3",
                "Power": "206 KW @ 6400 RPM\n280 HP @ 6400 RPM\n276 BHP @ 6400 RPM",
                "Torque": "258 lb-ft @ 4600 RPM\n350 Nm @ 4600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.9
+               "Fuel capacity": "15.9 gallons (60.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 163,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+               "Top Speed": "163 mph (262 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -836,37 +855,38 @@
                "Tire Size": "225/40 ZR18 || 255/35 ZR19"
           },
           "DIMENSIONS": {
-               "Length": 171.3,
-               "Width": 80.6,
-               "Height": 48.4,
+               "Length": "171.3 in (4351 mm)",
+               "Width": "80.6 in (2047 mm)",
+               "Height": "48.4 in (1229 mm)",
                "Front/rear Track": "61.6/61.3 in (1,565/1,557 mm)",
-               "Wheelbase": 101.4,
-               "Ground Clearance": 4.7,
-               "Cargo Volume": 5.7,
-               "Aerodynamics (Cd)": 0.33,
-               "Turning circle": 35.1
+               "Wheelbase": "101.4 in (2576 mm)",
+               "Ground Clearance": "4.7 in (119 mm)",
+               "Cargo Volume": "5.7 cuFT (161 L)",
+               "Aerodynamics (Cd)": "0.33",
+               "Turning circle": "35.1 ft (10.7 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3166,
-               "Gross Weight Limit": 4048
+               "Unladen Weight": "3166 lbs (1436 kg)",
+               "Gross Weight Limit": "4048 lbs (1836 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18.7,
-               "Highway": 35.6,
-               "Combined": 26.7,
-               "CO2 Emissions": 210
+               "City": "18.7 mpg US (12.6 L/100Km)",
+               "Highway": "35.6 mpg US (6.6 L/100Km)",
+               "Combined": "26.7 mpg US (8.8 L/100Km)",
+               "CO2 Emissions": "210 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Evora 2008-Present05-03-05-39-37.jpg"
 },{
      "model_name": "LOTUS Eletre 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 100 KWH 4WD (600 HP)": {
                "Electrical motor power": "441.3 kw (600 hp)"
           },
           "PERFORMANCE SPECS": {
                "Top speed (electrical)": "162 mph (261 km/h)",
-               "Acceleration 0-62 Mph (0-100 kph)": 3
+               "Acceleration 0-62 Mph (0-100 kph)": "3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -877,65 +897,67 @@
                "Rear": "Ventilated discs"
           },
           "DIMENSIONS": {
-               "Length": 200.9,
-               "Width": 87.8,
-               "Height": 64.2,
-               "Wheelbase": 118.9
+               "Length": "200.9 in (5103 mm)",
+               "Width": "87.8 in (2230 mm)",
+               "Height": "64.2 in (1631 mm)",
+               "Wheelbase": "118.9 in (3020 mm)"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Nominal Capacity": 100,
-               "Range": 372.8
+               "Nominal Capacity": "100 kWh",
+               "Range": "372.8 miles (600.0 km)"
           },
           "NOTES": {}
-     }
+     },
+     "img": "images/LOTUS Eletre 2022-Present05-03-05-39-39.jpg"
 },{
      "model_name": "LOTUS Evija 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1471 KW (2000 HP)": {
                "Power": "1471 KW @ - RPM\n2000 HP @ - RPM\n1973 BHP @ - RPM",
                "Torque": "1254 lb-ft @ - RPM\n1700 Nm @ - RPM",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 199,
-               "Acceleration 0-62 Mph (0-100 kph)": 3
+               "Top Speed": "199 mph (320 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
                "Gearbox": "Single speed"
           },
           "DIMENSIONS": {
-               "Length": 175.6,
-               "Width": 78.7,
-               "Height": 44.2
+               "Length": "175.6 in (4460 mm)",
+               "Width": "78.7 in (1999 mm)",
+               "Height": "44.2 in (1123 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3704
+               "Unladen Weight": "3704 lbs (1680 kg)"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
                "Maximum Capacity": "70 kWh",
-               "Range": 250
+               "Range": "250 miles (402.3 km)"
           },
           "NOTES": {
                "Charging time (350kW charger)": "18 minutes"
           }
-     }
+     },
+     "img": "images/LOTUS Evija 2020-Present05-03-05-39-41.jpg"
 },{
      "model_name": "LOTUS 3 Eleven 430 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5 V6 6MT (436 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3500,
+               "Displacement": "3500 cm3",
                "Power": "320.7 KW @ 7000 RPM\n436 HP @ 7000 RPM\n430 BHP @ 7000 RPM",
                "Torque": "325 lb-ft @ 4500 RPM\n440 Nm @ 4500 RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 180,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.2
+               "Top Speed": "180 mph (290 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -949,23 +971,24 @@
                "Tire Size": "225/40 R18 || 275/30 R19"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2028
+               "Unladen Weight": "2028 lbs (920 kg)"
           }
-     }
+     },
+     "img": "images/LOTUS 3 Eleven 430 2018-Present05-03-05-39-42.jpg"
 },{
      "model_name": "LOTUS 2 Eleven 2007-2015",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8 6MT (256 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1796,
+               "Displacement": "1796 cm3",
                "Power": "188 KW @ 8000 RPM\n256 HP @ 8000 RPM\n252 BHP @ 8000 RPM",
                "Torque": "178 lb-ft @ 7000 RPM\n241 Nm @ 7000 RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -979,40 +1002,41 @@
                "Tire Size": "195/50 R16 || 225/45 R17"
           },
           "DIMENSIONS": {
-               "Length": 150.4,
-               "Width": 68.3,
-               "Height": 43.8,
+               "Length": "150.4 in (3820 mm)",
+               "Width": "68.3 in (1735 mm)",
+               "Height": "43.8 in (1113 mm)",
                "Front/rear Track": "57.3/63.2 in (1,455/1,605 mm)",
-               "Wheelbase": 90.5,
-               "Ground Clearance": 3.93,
+               "Wheelbase": "90.5 in (2299 mm)",
+               "Ground Clearance": "3.93 in (100 mm)",
                "Cargo Volume": "None cuFT (0 L)",
-               "Aerodynamics (Cd)": 0.4
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1642,
-               "Gross Weight Limit": 2183
+               "Unladen Weight": "1642 lbs (745 kg)",
+               "Gross Weight Limit": "2183 lbs (990 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.7,
-               "Highway": 27.4,
-               "Combined": 22
+               "City": "15.7 mpg US (15 L/100Km)",
+               "Highway": "27.4 mpg US (8.6 L/100Km)",
+               "Combined": "22 mpg US (10.7 L/100Km)"
           }
-     }
+     },
+     "img": "images/LOTUS 2 Eleven 2007-201505-03-05-39-45.jpg"
 },{
      "model_name": "LOTUS Elan Roadster 1989-1994",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6I 16V 5MT (167 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1588,
+               "Displacement": "1588 cm3",
                "Power": "122.8 KW @ 6500 RPM\n167 HP @ 6500 RPM\n165 BHP @ 6500 RPM",
                "Torque": "148 lb-ft @ 4200 RPM\n201 Nm @ 4200 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.2
+               "Fuel capacity": "12.2 gallons (46.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 137,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+               "Top Speed": "137 mph (220 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1026,34 +1050,35 @@
                "Tire Size": "205/50 R15"
           },
           "DIMENSIONS": {
-               "Length": 149.7,
-               "Width": 68.3,
-               "Height": 48.4,
+               "Length": "149.7 in (3802 mm)",
+               "Width": "68.3 in (1735 mm)",
+               "Height": "48.4 in (1229 mm)",
                "Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
-               "Wheelbase": 88.6,
-               "Ground Clearance": 5.1
+               "Wheelbase": "88.6 in (2250 mm)",
+               "Ground Clearance": "5.1 in (130 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2198
+               "Unladen Weight": "2198 lbs (997 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21.8,
-               "Highway": 35.1,
-               "Combined": 26.4
+               "City": "21.8 mpg US (10.8 L/100Km)",
+               "Highway": "35.1 mpg US (6.7 L/100Km)",
+               "Combined": "26.4 mpg US (8.9 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Elan Roadster 1989-199405-03-05-39-47.jpg"
 },{
      "model_name": "LOTUS Elan Roadster 1962-1973",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L 4MT (101 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1499,
+               "Displacement": "1499 cm3",
                "Power": "75 KW @ 5700 RPM\n102 HP @ 5700 RPM\n101 BHP @ 5700 RPM",
                "Torque": "102 lb-ft @ 4500 RPM\n138 Nm @ 4500 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1067,31 +1092,32 @@
                "Tire Size": "5.20-13"
           },
           "DIMENSIONS": {
-               "Length": 145.2,
-               "Width": 56,
-               "Height": 43.5,
+               "Length": "145.2 in (3688 mm)",
+               "Width": "56 in (1422 mm)",
+               "Height": "43.5 in (1105 mm)",
                "Front/rear Track": "47/47 in (1,194/1,194 mm)",
-               "Wheelbase": 84,
-               "Ground Clearance": 6
+               "Wheelbase": "84 in (2134 mm)",
+               "Ground Clearance": "6 in (152 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1290
+               "Unladen Weight": "1290 lbs (585 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Elan Roadster 1962-197305-03-05-39-49.jpg"
 },{
      "model_name": "LOTUS Elite 1973-1983",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5MT (144 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1973,
+               "Displacement": "1973 cm3",
                "Power": "106 KW @ 6500 RPM\n144 HP @ 6500 RPM\n142 BHP @ 6500 RPM",
                "Torque": "131 lb-ft @ 5000 RPM\n178 Nm @ 5000 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118
+               "Top Speed": "118 mph (190 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1102,31 +1128,32 @@
                "Rear": "Drums"
           },
           "DIMENSIONS": {
-               "Length": 175.6,
-               "Width": 71.7,
-               "Height": 47.6,
+               "Length": "175.6 in (4460 mm)",
+               "Width": "71.7 in (1821 mm)",
+               "Height": "47.6 in (1209 mm)",
                "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
-               "Wheelbase": 97.6,
-               "Ground Clearance": 5.5
+               "Wheelbase": "97.6 in (2479 mm)",
+               "Ground Clearance": "5.5 in (140 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2337
+               "Unladen Weight": "2337 lbs (1060 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Elite 1973-198305-03-05-39-51.jpg"
 },{
      "model_name": "LOTUS Elite 1957-1963",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 4MT (72 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1216,
+               "Displacement": "1216 cm3",
                "Power": "53 KW @ 6100 RPM\n72 HP @ 6100 RPM\n71 BHP @ 6100 RPM",
                "Torque": "77 lb-ft @ 3750 RPM\n104 Nm @ 3750 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112
+               "Top Speed": "112 mph (180 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1137,34 +1164,35 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 146,
-               "Width": 59.3,
-               "Height": 46.5,
+               "Length": "146 in (3708 mm)",
+               "Width": "59.3 in (1506 mm)",
+               "Height": "46.5 in (1181 mm)",
                "Front/rear Track": "47/52 in (1,194/1,321 mm)",
-               "Wheelbase": 88,
-               "Ground Clearance": 6.5,
-               "Aerodynamics (Cd)": 0.29
+               "Wheelbase": "88 in (2235 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Aerodynamics (Cd)": "0.29"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1116
+               "Unladen Weight": "1116 lbs (506 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Elite 1957-196305-03-05-39-53.jpg"
 },{
      "model_name": "LOTUS Esprit 1976-2004",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5MT RWD (162 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1973,
+               "Displacement": "1973 cm3",
                "Power": "199 KW @ 6200 RPM\n271 HP @ 6200 RPM\n267 BHP @ 6200 RPM",
                "Torque": "140 lb-ft @ 4900 RPM\n190 Nm @ 4900 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19.3
+               "Fuel capacity": "19.3 gallons (73.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 137,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+               "Top Speed": "137 mph (220 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1178,33 +1206,34 @@
                "Tire Size": "285/35 ZR18"
           },
           "DIMENSIONS": {
-               "Length": 165,
-               "Width": 73.3,
-               "Height": 43.7,
+               "Length": "165 in (4191 mm)",
+               "Width": "73.3 in (1862 mm)",
+               "Height": "43.7 in (1110 mm)",
                "Front/rear Track": "59.5/59.5 in (1,511/1,511 mm)",
-               "Wheelbase": 96,
-               "Ground Clearance": 4.1,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "96 in (2438 mm)",
+               "Ground Clearance": "4.1 in (104 mm)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1984
+               "Unladen Weight": "1984 lbs (900 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Esprit 1976-200405-03-05-39-57.jpg"
 },{
      "model_name": "LOTUS Europa S 2006-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0 TURBO 6MT (200 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "147 KW @ 5400 RPM\n200 HP @ 5400 RPM\n197 BHP @ 5400 RPM",
                "Torque": "201 lb-ft @ 5000 RPM\n272 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 150.4,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.8
+               "Top Speed": "150.4 mph (242 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1218,40 +1247,41 @@
                "Tire Size": "175/55 R17 / 225/45 R17"
           },
           "DIMENSIONS": {
-               "Length": 153.5,
-               "Width": 67.3,
-               "Height": 44.1,
+               "Length": "153.5 in (3899 mm)",
+               "Width": "67.3 in (1709 mm)",
+               "Height": "44.1 in (1120 mm)",
                "Front/rear Track": "57.5/58.7 in (1,461/1,491 mm)",
-               "Wheelbase": 91.7,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 5.4,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "91.7 in (2329 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "5.4 cuFT (153 L)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2193.6
+               "Unladen Weight": "2193.6 lbs (995 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18.5,
-               "Highway": 32.2,
-               "Combined": 25.3,
-               "CO2 Emissions": 220
+               "City": "18.5 mpg US (12.7 L/100Km)",
+               "Highway": "32.2 mpg US (7.3 L/100Km)",
+               "Combined": "25.3 mpg US (9.3 L/100Km)",
+               "CO2 Emissions": "220 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Europa S 2006-201005-03-05-39-59.jpg"
 },{
-     "model_name": "LOTUS Europa 1965-1975",
+     "model_name": "1965 Lotus Europa",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L 4MT RWD (79 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1470,
+               "Displacement": "1470 cm3",
                "Power": "58 KW @ 6000 RPM\n79 HP @ 6000 RPM\n78 BHP @ 6000 RPM",
                "Torque": "76 lb-ft @ 4000 RPM\n103 Nm @ 4000 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.6
+               "Fuel capacity": "11.6 gallons (43.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 115
+               "Top Speed": "115 mph (185 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1265,32 +1295,33 @@
                "Tire Size": "155/80 R13"
           },
           "DIMENSIONS": {
-               "Length": 156.5,
-               "Width": 64.5,
-               "Height": 42,
+               "Length": "156.5 in (3975 mm)",
+               "Width": "64.5 in (1638 mm)",
+               "Height": "42 in (1067 mm)",
                "Front/rear Track": "53/53.3 in (1,346/1,354 mm)",
-               "Wheelbase": 91,
-               "Ground Clearance": 6,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "91 in (2311 mm)",
+               "Ground Clearance": "6 in (152 mm)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1455
+               "Unladen Weight": "1455 lbs (660 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/1965 Lotus Europa05-03-05-40-01.jpg"
 },{
      "model_name": "LOTUS Excel 1982-1992",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2L 4AT RWD (183 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2174,
+               "Displacement": "2174 cm3",
                "Power": "134 KW @ 6500 RPM\n183 HP @ 6500 RPM\n180 BHP @ 6500 RPM",
                "Torque": "165 lb-ft @ 5000 RPM\n224 Nm @ 5000 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124
+               "Top Speed": "124 mph (200 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1304,19 +1335,20 @@
                "Tire Size": "215/50 R15"
           },
           "DIMENSIONS": {
-               "Length": 172.3,
-               "Width": 71.5,
-               "Height": 40,
+               "Length": "172.3 in (4376 mm)",
+               "Width": "71.5 in (1816 mm)",
+               "Height": "40 in (1016 mm)",
                "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
-               "Wheelbase": 97.7,
-               "Ground Clearance": 4.9,
-               "Cargo Volume": 13.1,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "97.7 in (2482 mm)",
+               "Ground Clearance": "4.9 in (124 mm)",
+               "Cargo Volume": "13.1 cuFT (371 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2595
+               "Unladen Weight": "2595 lbs (1177 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/LOTUS Excel 1982-199205-03-05-40-03.jpg"
 },	
  ] } 

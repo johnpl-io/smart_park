@@ -2,17 +2,17 @@
 {
      "model_name": "SPYKER C8 Preliator 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.2L V8 6MT (525 HP)": {
                "Cylinders": "V8",
-               "Displacement": 4172,
+               "Displacement": "4172 cm3",
                "Power": "386.1 KW @ 6800 RPM\n525 HP @ 6800 RPM\n518 BHP @ 6800 RPM",
                "Torque": "443 lb-ft @ 3500 RPM\n600 Nm @ 3500 RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 200,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+               "Top Speed": "200 mph (322 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -26,29 +26,30 @@
                "Tire Size": "235 / 35 ZR19 || 295 / 30 ZR19"
           },
           "DIMENSIONS": {
-               "Length": 182.2,
-               "Width": 76.9,
-               "Height": 47.3,
-               "Wheelbase": 107.3,
-               "Cargo Volume": 4.2
+               "Length": "182.2 in (4628 mm)",
+               "Width": "76.9 in (1953 mm)",
+               "Height": "47.3 in (1201 mm)",
+               "Wheelbase": "107.3 in (2725 mm)",
+               "Cargo Volume": "4.2 cuFT (119 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3064
+               "Unladen Weight": "3064 lbs (1390 kg)"
           }
-     }
+     },
+     "img": "images/SPYKER C8 Preliator 2016-Present05-03-07-19-54.jpg"
 },{
      "model_name": "SPYKER C8 Double 12 S 2002-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.2 V8": {
                "Cylinders": "V8",
-               "Displacement": 4172,
+               "Displacement": "4172 cm3",
                "Torque": "354 lb-ft @ 7500 RPM\n480 Nm @ 7500 RPM",
                "Fuel System": "Mutltipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 199,
-               "Acceleration 0-62 Mph (0-100 kph)": 4
+               "Top Speed": "199 mph (320 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -62,30 +63,31 @@
                "Tire Size": "225/40Z R18 (front) - 335/35Z R18 (rear)"
           },
           "DIMENSIONS": {
-               "Length": 180.5,
-               "Width": 75.6,
-               "Height": 49.4,
+               "Length": "180.5 in (4585 mm)",
+               "Width": "75.6 in (1920 mm)",
+               "Height": "49.4 in (1255 mm)",
                "Front/rear Track": "57.9/66.1 in (1,471/1,679 mm)",
-               "Wheelbase": 105.3
+               "Wheelbase": "105.3 in (2675 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2976
+               "Unladen Weight": "2976 lbs (1350 kg)"
           }
-     }
+     },
+     "img": "images/SPYKER C8 Double 12 S 2002-Present05-03-07-19-55.jpg"
 },{
      "model_name": "SPYKER C12 LaTurbie 2006-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.0L W12 6MT (507 HP)": {
                "Cylinders": "W12",
-               "Displacement": 5998,
+               "Displacement": "5998 cm3",
                "Power": "372.9 KW @ - RPM\n506.9 HP @ - RPM\n500 BHP @ - RPM",
                "Torque": "443 lb-ft @ - RPM\n600 Nm @ - RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -96,31 +98,32 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": 177,
-               "Width": 79.5,
-               "Height": 48.4,
+               "Length": "177 in (4496 mm)",
+               "Width": "79.5 in (2019 mm)",
+               "Height": "48.4 in (1229 mm)",
                "Front/rear Track": "61.8 / 68.9 in (1,570/1,750 mm)",
-               "Wheelbase": 101.6,
-               "Ground Clearance": 4,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "101.6 in (2581 mm)",
+               "Ground Clearance": "4 in (102 mm)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3362
+               "Unladen Weight": "3362 lbs (1525 kg)"
           }
-     }
+     },
+     "img": "images/SPYKER C12 LaTurbie 2006-Present05-03-07-19-57.jpg"
 },{
      "model_name": "SPYKER C8 Laviolette 2001-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.2 V8": {
                "Cylinders": "V8",
-               "Displacement": 4172,
+               "Displacement": "4172 cm3",
                "Torque": "354 lb-ft @ 7500 RPM\n480 Nm @ 7500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 187,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+               "Top Speed": "187 mph (301 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -134,30 +137,31 @@
                "Tire Size": "225/40Z R18 Front / 225/35Z R18 Rear"
           },
           "DIMENSIONS": {
-               "Length": 164.8,
-               "Width": 74,
-               "Height": 49,
+               "Length": "164.8 in (4186 mm)",
+               "Width": "74 in (1880 mm)",
+               "Height": "49 in (1245 mm)",
                "Front/rear Track": "55.1/62.2 in (1,400/1,580 mm)",
-               "Wheelbase": 101.4
+               "Wheelbase": "101.4 in (2576 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2811
+               "Unladen Weight": "2811 lbs (1275 kg)"
           }
-     }
+     },
+     "img": "images/SPYKER C8 Laviolette 2001-Present05-03-07-19-59.jpg"
 },{
      "model_name": "SPYKER C8 Spyder 2000-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.2L V8 6MT (400 HP)": {
                "Cylinders": "V8",
-               "Displacement": 4172,
+               "Displacement": "4172 cm3",
                "Power": "294.2 KW @ 7500 RPM\n400 HP @ 7500 RPM\n395 BHP @ 7500 RPM",
                "Torque": "354 lb-ft @ 4000 RPM\n480 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 187,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+               "Top Speed": "187 mph (301 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -171,22 +175,23 @@
                "Tire Size": "225/40Z R18 // 225/35Z R18"
           },
           "DIMENSIONS": {
-               "Length": 164.8,
-               "Width": 74,
-               "Height": 42.5,
+               "Length": "164.8 in (4186 mm)",
+               "Width": "74 in (1880 mm)",
+               "Height": "42.5 in (1080 mm)",
                "Front/rear Track": "55.1/62.2 in (1,400/1,580 mm)",
-               "Wheelbase": 101.4,
-               "Ground Clearance": 5.8
+               "Wheelbase": "101.4 in (2576 mm)",
+               "Ground Clearance": "5.8 in (147 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2756
+               "Unladen Weight": "2756 lbs (1250 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14,
-               "Highway": 19,
-               "Combined": 17
+               "City": "14 mpg US (16.8 L/100Km)",
+               "Highway": "19 mpg US (12.4 L/100Km)",
+               "Combined": "17 mpg US (13.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SPYKER C8 Spyder 2000-Present05-03-07-20-01.jpg"
 },	
  ] } 

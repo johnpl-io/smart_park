@@ -2,17 +2,17 @@
 {
      "model_name": "AC Ace 1993-1996",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.9L V8 4AT (260 HP)": {
                "Cylinders": "V8",
-               "Displacement": 4942,
+               "Displacement": "4942 cm3",
                "Power": "191.2 KW @ 5250 RPM\n260 HP @ 5250 RPM\n256 BHP @ 5250 RPM",
                "Torque": "320 lb-ft @ 3250 RPM\n434 Nm @ 3250 RPM",
                "Fuel System": "Multipoint Injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21.1
+               "Fuel capacity": "21.1 gallons (79.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 140
+               "Top Speed": "140 mph (225 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -26,35 +26,36 @@
                "Tire Size": "225/50 ZR16"
           },
           "DIMENSIONS": {
-               "Length": 174,
-               "Width": 73.6,
-               "Height": 51.2,
+               "Length": "174 in (4420 mm)",
+               "Width": "73.6 in (1869 mm)",
+               "Height": "51.2 in (1300 mm)",
                "Front/rear Track": "62.6/61.8 in (1,590/1,570 mm)",
-               "Wheelbase": 97.3,
-               "Cargo Volume": 6.5
+               "Wheelbase": "97.3 in (2471 mm)",
+               "Cargo Volume": "6.5 cuFT (184 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3175
+               "Unladen Weight": "3175 lbs (1440 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 27.4
+               "Combined": "27.4 mpg US (8.6 L/100Km)"
           }
-     }
+     },
+     "img": "images/AC Ace 1993-199605-03-03-13-57.jpg"
 },{
      "model_name": "AC Aceca 1998-2000",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V8 32V TURBO 6MT (354 HP)": {
                "Cylinders": "V8",
-               "Displacement": 3506,
+               "Displacement": "3506 cm3",
                "Power": "257.4 KW @ 6500 RPM\n350 HP @ 6500 RPM\n345 BHP @ 6500 RPM",
                "Torque": "300 lb-ft @ 4000 RPM\n407 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": 23.8
+               "Fuel capacity": "23.8 gallons (90.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -68,123 +69,127 @@
                "Tire Size": "255/55 R18"
           },
           "DIMENSIONS": {
-               "Length": 183.5,
-               "Width": 74.4,
-               "Height": 52.8,
+               "Length": "183.5 in (4661 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "52.8 in (1341 mm)",
                "Front/rear Track": "62.6/61.8 in (1,590/1,570 mm)",
-               "Wheelbase": 107.1,
-               "Cargo Volume": 17.7,
+               "Wheelbase": "107.1 in (2720 mm)",
+               "Cargo Volume": "17.7 cuFT (501 L)",
                "Aerodynamics (frontal area)": "2.1 m2",
-               "Aerodynamics (Cd)": 0.35,
+               "Aerodynamics (Cd)": "0.35",
                "Turning circle (wall to wall)": "37.1 ft (11.3 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3560
+               "Unladen Weight": "3560 lbs (1615 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 11.8,
-               "Highway": 26.1
+               "City": "11.8 mpg US (19.9 L/100Km)",
+               "Highway": "26.1 mpg US (9 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/AC Aceca 1998-200005-03-03-13-58.jpg"
 },{
      "model_name": "AC Cobra MkIII 1965-1967",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.7L V8 4MT (280 HP)": {
                "Cylinders": "V8",
-               "Displacement": 4727,
+               "Displacement": "4727 cm3",
                "Power": "205.9 KW @ 5800 RPM\n280 HP @ 5800 RPM\n276 BHP @ 5800 RPM",
                "Torque": "314 lb-ft @ 3400 RPM\n426 Nm @ 3400 RPM",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18
+               "Fuel capacity": "18 gallons (68.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 140,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.7
+               "Top Speed": "140 mph (225 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
                "Gearbox": "4-speed manual"
           },
           "DIMENSIONS": {
-               "Length": 151.5,
-               "Width": 61,
-               "Height": 49,
+               "Length": "151.5 in (3848 mm)",
+               "Width": "61 in (1549 mm)",
+               "Height": "49 in (1245 mm)",
                "Front/rear Track": "51.5/52.5 in (1,308/1,334 mm)",
-               "Wheelbase": 90,
+               "Wheelbase": "90 in (2286 mm)",
                "Aerodynamics (frontal area)": "1.6 m2"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2019
+               "Unladen Weight": "2019 lbs (916 kg)"
           }
-     }
+     },
+     "img": "images/AC Cobra MkIII 1965-196705-03-03-14-00.jpg"
 },{
      "model_name": "AC Cobra 378 MkIV 1965-1967",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.2L V8 6MT": {
                "Cylinders": "V8",
                "Power": "328.1 KW @ - RPM\n446.1 HP @ - RPM\n440 BHP @ - RPM",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18
+               "Fuel capacity": "18 gallons (68.1 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
                "Gearbox": "6-speed manual"
           },
           "DIMENSIONS": {
-               "Length": 153.5,
-               "Width": 70.1,
-               "Height": 46.9,
+               "Length": "153.5 in (3899 mm)",
+               "Width": "70.1 in (1781 mm)",
+               "Height": "46.9 in (1191 mm)",
                "Front/rear Track": "54.9/56.7 in (1,394/1,440 mm)",
-               "Wheelbase": 90,
-               "Ground Clearance": 5.1
+               "Wheelbase": "90 in (2286 mm)",
+               "Ground Clearance": "5.1 in (130 mm)"
           }
-     }
+     },
+     "img": "images/AC Cobra 378 MkIV 1965-196705-03-03-14-01.jpg"
 },{
      "model_name": "AC Cobra MkII 1963-1965",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.7L V8 4MT (271 HP)": {
                "Cylinders": "V8",
-               "Displacement": 4727,
+               "Displacement": "4727 cm3",
                "Power": "199.3 KW @ 5800 RPM\n271 HP @ 5800 RPM\n267 BHP @ 5800 RPM",
                "Torque": "312 lb-ft @ 3400 RPM\n423 Nm @ 3400 RPM",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18
+               "Fuel capacity": "18 gallons (68.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 141,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.3
+               "Top Speed": "141 mph (227 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
                "Gearbox": "4-speed manual"
           },
           "DIMENSIONS": {
-               "Length": 151.5,
-               "Width": 62.8,
-               "Height": 45,
+               "Length": "151.5 in (3848 mm)",
+               "Width": "62.8 in (1595 mm)",
+               "Height": "45 in (1143 mm)",
                "Front/rear Track": "51.5/52.5 in (1,308/1,334 mm)",
-               "Wheelbase": 90,
-               "Ground Clearance": 7,
+               "Wheelbase": "90 in (2286 mm)",
+               "Ground Clearance": "7 in (178 mm)",
                "Aerodynamics (frontal area)": "1.47 m2",
                "Turning circle (wall to wall)": "34.1 ft (10.4 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2019,
-               "Gross Weight Limit": 2205
+               "Unladen Weight": "2019 lbs (916 kg)",
+               "Gross Weight Limit": "2205 lbs (1000 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 12.5,
-               "Highway": 16.3,
-               "Combined": 14.5
+               "City": "12.5 mpg US (18.8 L/100Km)",
+               "Highway": "16.3 mpg US (14.4 L/100Km)",
+               "Combined": "14.5 mpg US (16.2 L/100Km)"
           }
-     }
+     },
+     "img": "images/AC Cobra MkII 1963-196505-03-03-14-03.jpg"
 },{
      "model_name": "AC 428 Convertible 1966-1971",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0L V8 3AT (350 HP)": {
                "Cylinders": "V8",
-               "Displacement": 7017,
+               "Displacement": "7017 cm3",
                "Power": "257.4 KW @ 4600 RPM\n350 HP @ 4600 RPM\n345 BHP @ 4600 RPM",
                "Torque": "462 lb-ft @ 2800 RPM\n626 Nm @ 2800 RPM",
                "Fuel System": "Carburetor",
@@ -199,24 +204,25 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 174,
-               "Width": 67,
-               "Height": 51,
+               "Length": "174 in (4420 mm)",
+               "Width": "67 in (1702 mm)",
+               "Height": "51 in (1295 mm)",
                "Front/rear Track": "55/56 in (1,397/1,422 mm)",
-               "Wheelbase": 96,
-               "Ground Clearance": 6
+               "Wheelbase": "96 in (2438 mm)",
+               "Ground Clearance": "6 in (152 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3143
+               "Unladen Weight": "3143 lbs (1426 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/AC 428 Convertible 1966-197105-03-03-14-05.jpg"
 },{
      "model_name": "AC 428 Coupe 1966-1973",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0L V8 3AT (350 HP)": {
                "Cylinders": "V8",
-               "Displacement": 7017,
+               "Displacement": "7017 cm3",
                "Power": "257.4 KW @ 4600 RPM\n350 HP @ 4600 RPM\n345 BHP @ 4600 RPM",
                "Torque": "462 lb-ft @ 2800 RPM\n626 Nm @ 2800 RPM",
                "Fuel System": "Carburetor",
@@ -231,14 +237,15 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 174,
-               "Width": 67,
-               "Height": 51,
+               "Length": "174 in (4420 mm)",
+               "Width": "67 in (1702 mm)",
+               "Height": "51 in (1295 mm)",
                "Front/rear Track": "55/56 in (1,397/1,422 mm)",
-               "Wheelbase": 96,
-               "Ground Clearance": 6
+               "Wheelbase": "96 in (2438 mm)",
+               "Ground Clearance": "6 in (152 mm)"
           },
           "": {}
-     }
+     },
+     "img": "images/AC 428 Coupe 1966-197305-03-03-14-07.jpg"
 },	
  ] } 

@@ -2,17 +2,17 @@
 {
      "model_name": "BUFORI Geneva (MKIV) 2010-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4 V8 (477 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6424,
+               "Displacement": "6424 cm3",
                "Power": "351 KW @ 6000 RPM\n477 HP @ 6000 RPM\n471 BHP @ 6000 RPM",
                "Torque": "465 lb-ft @ 4200 RPM\n630 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 174,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+               "Top Speed": "174 mph (280 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -26,31 +26,32 @@
                "Tire Size": "Front: 245/45 R20. Rear: 255/45 R20"
           },
           "DIMENSIONS": {
-               "Length": 215.4,
-               "Width": 75.2,
-               "Height": 59.8,
+               "Length": "215.4 in (5471 mm)",
+               "Width": "75.2 in (1910 mm)",
+               "Height": "59.8 in (1519 mm)",
                "Front/rear Track": "63.6/64 in (1,615/1,626 mm)",
-               "Wheelbase": 140.6
+               "Wheelbase": "140.6 in (3571 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 5401
+               "Unladen Weight": "5401 lbs (2450 kg)"
           },
           "NOTES": {}
-     }
+     },
+     "img": "images/BUFORI Geneva (MKIV) 2010-Present05-03-03-55-19.jpg"
 },{
      "model_name": "BUFORI La Joya (MKIII) 2004-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.7 V6 (173 HP)": {
                "Cylinders": "v6",
-               "Displacement": 2656,
+               "Displacement": "2656 cm3",
                "Power": "127 KW @ 6000 RPM\n173 HP @ 6000 RPM\n170 BHP @ 6000 RPM",
                "Torque": "181 lb-ft @ 4000 RPM\n245 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.8
+               "Top Speed": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -64,36 +65,37 @@
                "Tire Size": "255/40 R17"
           },
           "DIMENSIONS": {
-               "Length": 170.5,
-               "Width": 71.1,
-               "Height": 53.7,
+               "Length": "170.5 in (4331 mm)",
+               "Width": "71.1 in (1806 mm)",
+               "Height": "53.7 in (1364 mm)",
                "Front/rear Track": "60.4/0 in (1,534/0 mm)",
-               "Ground Clearance": 110.2,
-               "Cargo Volume": 8.8
+               "Ground Clearance": "110.2 in (2799 mm)",
+               "Cargo Volume": "8.8 cuFT (249 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3285,
-               "Gross Weight Limit": 3616
+               "Unladen Weight": "3285 lbs (1490 kg)",
+               "Gross Weight Limit": "3616 lbs (1640 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 25.8,
-               "CO2 Emissions": 298
+               "Combined": "25.8 mpg US (9.1 L/100Km)",
+               "CO2 Emissions": "298 g/km"
           }
-     }
+     },
+     "img": "images/BUFORI La Joya (MKIII) 2004-Present05-03-03-55-21.jpg"
 },{
      "model_name": "BUFORI MK I 1988-1992",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6 3AT (75 HP)": {
                "Cylinders": "4",
-               "Displacement": 1584,
+               "Displacement": "1584 cm3",
                "Power": "55 KW @ 5000 RPM\n75 HP @ 5000 RPM\n74 BHP @ 5000 RPM",
                "Torque": "72 lb-ft @ 3200 RPM\n98 Nm @ 3200 RPM",
                "Fuel System": "Twin Carburator",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -107,33 +109,34 @@
                "Tire Size": "175 / 65 R14"
           },
           "DIMENSIONS": {
-               "Length": 151.6,
-               "Width": 65,
-               "Wheelbase": 95.3
+               "Length": "151.6 in (3851 mm)",
+               "Width": "65 in (1651 mm)",
+               "Wheelbase": "95.3 in (2421 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1962
+               "Unladen Weight": "1962 lbs (890 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 29,
-               "Highway": 24.2
+               "City": "29 mpg US (8.1 L/100Km)",
+               "Highway": "24.2 mpg US (9.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/BUFORI MK I 1988-199205-03-03-55-23.jpg"
 },{
      "model_name": "1992 Buori MK I 2nd Series",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 3AT RWD (108 HP)": {
                "Cylinders": "4",
-               "Displacement": 1815,
+               "Displacement": "1815 cm3",
                "Power": "79 KW @ 5200 RPM\n107 HP @ 5200 RPM\n106 BHP @ 5200 RPM",
                "Torque": "119 lb-ft @ 4500 RPM\n161 Nm @ 4500 RPM",
                "Fuel System": "Single-point fuel injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.35
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.35 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -147,33 +150,34 @@
                "Tire Size": "175/65 R14"
           },
           "DIMENSIONS": {
-               "Length": 149.6,
-               "Width": 61.4,
-               "Wheelbase": 94.5
+               "Length": "149.6 in (3800 mm)",
+               "Width": "61.4 in (1560 mm)",
+               "Wheelbase": "94.5 in (2400 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2105
+               "Unladen Weight": "2105 lbs (955 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 31.4,
-               "Highway": 21.4
+               "City": "31.4 mpg US (7.5 L/100Km)",
+               "Highway": "21.4 mpg US (11 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/1992 Buori MK I 2nd Series05-03-03-55-25.jpg"
 },{
      "model_name": "BUFORI V6i 1992-1994",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8L V6 4AT RWD (173 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3791,
+               "Displacement": "3791 cm3",
                "Power": "127 KW @ 4800 RPM\n173 HP @ 4800 RPM\n170 BHP @ 4800 RPM",
                "Torque": "216 lb-ft @ 3600 RPM\n293 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 149,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.2
+               "Top Speed": "149 mph (240 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -187,18 +191,19 @@
                "Tire Size": "205/65R15"
           },
           "DIMENSIONS": {
-               "Length": 165.4,
-               "Width": 68.9,
-               "Wheelbase": 105
+               "Length": "165.4 in (4201 mm)",
+               "Width": "68.9 in (1750 mm)",
+               "Wheelbase": "105 in (2667 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2315
+               "Unladen Weight": "2315 lbs (1050 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.3,
-               "Highway": 24.2
+               "City": "23.3 mpg US (10.1 L/100Km)",
+               "Highway": "24.2 mpg US (9.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/BUFORI V6i 1992-199405-03-03-55-27.jpg"
 },	
  ] } 

@@ -2,14 +2,14 @@
 {
      "model_name": "2019 SMART EQ ForFour",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 41 KW (82 HP)": {
                "Power": "60 KW @ - RPM\n81.6 HP @ - RPM\n80 BHP @ - RPM",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 81,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.7
+               "Top Speed": "81 mph (130 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive"
@@ -19,34 +19,35 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 137.4,
-               "Width": 65.4,
-               "Height": 61,
+               "Length": "137.4 in (3490 mm)",
+               "Width": "65.4 in (1661 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "57.8/56.3 in (1,468/1,430 mm)",
-               "Wheelbase": 98.2,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 6.5,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "98.2 in (2494 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "6.5 cuFT (184 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "NOTES": {
                "Combined power consumption (kWh/100 km), 4.6 kW on-board charger": "17.3-15.9 kWh\nCombined power consumption (kWh/100 km), 22 kW on-board charger: 15.9-14.6 KWh"
           }
-     }
+     },
+     "img": "images/2019 SMART EQ ForFour05-03-07-18-42.jpg"
 },{
      "model_name": "SMART forfour 2014-2019",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.9L 5MT RWD (90 HP)": {
                "Cylinders": "L3",
-               "Displacement": 898,
+               "Displacement": "898 cm3",
                "Power": "66 KW @ 5500 RPM\n90 HP @ 5500 RPM\n89 BHP @ 5500 RPM",
                "Torque": "100 lb-ft @ 2500 RPM\n136 Nm @ 2500 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 7.4
+               "Fuel capacity": "7.4 gallons (28.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 103,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.2
+               "Top Speed": "103 mph (166 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -60,41 +61,42 @@
                "Tire Size": "165/65 R15 || 185/60 R15"
           },
           "DIMENSIONS": {
-               "Length": 137.4,
-               "Width": 65.4,
-               "Height": 61,
+               "Length": "137.4 in (3490 mm)",
+               "Width": "65.4 in (1661 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "57.8/56.3 in (1,468/1,430 mm)",
-               "Wheelbase": 98.2,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 6.5,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "98.2 in (2494 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "6.5 cuFT (184 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2194,
-               "Gross Weight Limit": 3086
+               "Unladen Weight": "2194 lbs (995 kg)",
+               "Gross Weight Limit": "3086 lbs (1400 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 46.1,
-               "Highway": 60.3,
-               "Combined": 54.7,
-               "CO2 Emissions": 99
+               "City": "46.1 mpg US (5.1 L/100Km)",
+               "Highway": "60.3 mpg US (3.9 L/100Km)",
+               "Combined": "54.7 mpg US (4.3 L/100Km)",
+               "CO2 Emissions": "99 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART forfour 2014-201905-03-07-18-45.jpg"
 },{
      "model_name": "SMART ForFour 2003-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.1L 5MT FWD (64 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1124,
+               "Displacement": "1124 cm3",
                "Power": "47 KW @ 5500 RPM\n64 HP @ 5500 RPM\n63 BHP @ 5500 RPM",
                "Torque": "68 lb-ft @ 2500 RPM\n92 Nm @ 2500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 98,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.3
+               "Top Speed": "98 mph (158 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -108,37 +110,38 @@
                "Tire Size": "175/65 R14"
           },
           "DIMENSIONS": {
-               "Length": 147.7,
-               "Width": 66.3,
-               "Height": 57.1,
+               "Length": "147.7 in (3752 mm)",
+               "Width": "66.3 in (1684 mm)",
+               "Height": "57.1 in (1450 mm)",
                "Front/rear Track": "57.5/56.9 in (1,461/1,445 mm)",
-               "Wheelbase": 98.4,
-               "Cargo Volume": 9.5
+               "Wheelbase": "98.4 in (2499 mm)",
+               "Cargo Volume": "9.5 cuFT (269 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2127,
-               "Gross Weight Limit": 3197
+               "Unladen Weight": "2127 lbs (965 kg)",
+               "Gross Weight Limit": "3197 lbs (1450 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 34.1,
-               "Highway": 52.3,
-               "Combined": 43.5,
-               "CO2 Emissions": 128
+               "City": "34.1 mpg US (6.9 L/100Km)",
+               "Highway": "52.3 mpg US (4.5 L/100Km)",
+               "Combined": "43.5 mpg US (5.4 L/100Km)",
+               "CO2 Emissions": "128 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART ForFour 2003-200605-03-07-18-48.jpg"
 },{
      "model_name": "2019 Smart-EQ fortwo",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 41 KW (82 HP)": {
                "Power": "60 KW @ - RPM\n81.6 HP @ - RPM\n80 BHP @ - RPM",
                "Torque": "118 lb-ft @ - RPM\n160 Nm @ - RPM",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 81,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.6
+               "Top Speed": "81 mph (130 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive"
@@ -148,37 +151,38 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 105.9,
-               "Width": 65.4,
-               "Height": 61,
+               "Length": "105.9 in (2690 mm)",
+               "Width": "65.4 in (1661 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "57.8/56.3 in (1,468/1,430 mm)",
-               "Wheelbase": 73.7,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 9.2,
-               "Aerodynamics (Cd)": 0.38
+               "Wheelbase": "73.7 in (1872 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "9.2 cuFT (261 L)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "POWER SYSTEM SPECS": {
-               "Range": 92
+               "Range": "92 miles (148.1 km)"
           },
           "NOTES": {
                "Combined power consumption (kWh/100 km), 4.6 kW on-board charger": "16.5-15.2 kWh\nCombined power consumption (kWh/100 km), 22 kW on-board charger: 15.2-14.0 KWh"
           }
-     }
+     },
+     "img": "images/2019 Smart-EQ fortwo05-03-07-18-50.jpg"
 },{
      "model_name": "SMART fortwo 2014-2019",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.9L 5MT RWD (90 HP)": {
                "Cylinders": "L3",
-               "Displacement": 898,
+               "Displacement": "898 cm3",
                "Power": "66 KW @ 5500 RPM\n90 HP @ 5500 RPM\n89 BHP @ 5500 RPM",
                "Torque": "100 lb-ft @ 2500 RPM\n136 Nm @ 2500 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 7.4
+               "Fuel capacity": "7.4 gallons (28.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 96,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.4
+               "Top Speed": "96 mph (154 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -192,42 +196,43 @@
                "Tire Size": "65/65 R 15 || 15//185/60 R 15"
           },
           "DIMENSIONS": {
-               "Length": 105.9,
-               "Width": 65.4,
-               "Height": 61,
+               "Length": "105.9 in (2690 mm)",
+               "Width": "65.4 in (1661 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "57.8/56.3 in (1,468/1,430 mm)",
-               "Wheelbase": 73.7,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 9.2,
-               "Aerodynamics (Cd)": 0.38
+               "Wheelbase": "73.7 in (1872 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "9.2 cuFT (261 L)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1984,
-               "Gross Weight Limit": 2579
+               "Unladen Weight": "1984 lbs (900 kg)",
+               "Gross Weight Limit": "2579 lbs (1170 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 48,
-               "Highway": 63.6,
-               "Combined": 56,
-               "CO2 Emissions": 97
+               "City": "48 mpg US (4.9 L/100Km)",
+               "Highway": "63.6 mpg US (3.7 L/100Km)",
+               "Combined": "56 mpg US (4.2 L/100Km)",
+               "CO2 Emissions": "97 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART fortwo 2014-201905-03-07-18-52.jpg"
 },{
      "model_name": "SMART ForTwo 2012-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5AT FWD (61 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "45 KW @ 5800 RPM\n61 HP @ 5800 RPM\n60 BHP @ 5800 RPM",
                "Torque": "66 lb-ft @ 3000 RPM\n89 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 8.7
+               "Fuel capacity": "8.7 gallons (32.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 90,
-               "Acceleration 0-62 Mph (0-100 kph)": 16.7
+               "Top Speed": "90 mph (145 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "16.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -241,42 +246,43 @@
                "Tire Size": "175/55R15"
           },
           "DIMENSIONS": {
-               "Length": 106.3,
-               "Width": 61.4,
-               "Height": 60.6,
+               "Length": "106.3 in (2700 mm)",
+               "Width": "61.4 in (1560 mm)",
+               "Height": "60.6 in (1539 mm)",
                "Front/rear Track": "50.4/54.3 in (1,280/1,379 mm)",
-               "Wheelbase": 73.6,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 7.8,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "73.6 in (1869 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "7.8 cuFT (221 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1653,
-               "Gross Weight Limit": 2249
+               "Unladen Weight": "1653 lbs (750 kg)",
+               "Gross Weight Limit": "2249 lbs (1020 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 38.6,
-               "Highway": 58.8,
-               "Combined": 50,
-               "CO2 Emissions": 112
+               "City": "38.6 mpg US (6.1 L/100Km)",
+               "Highway": "58.8 mpg US (4 L/100Km)",
+               "Combined": "50 mpg US (4.7 L/100Km)",
+               "CO2 Emissions": "112 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART ForTwo 2012-201405-03-07-18-54.jpg"
 },{
      "model_name": "SMART ForTwo 2007-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT FWD (61 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "45 KW @ 5800 RPM\n61 HP @ 5800 RPM\n60 BHP @ 5800 RPM",
                "Torque": "66 lb-ft @ 3000 RPM\n89 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 8.7
+               "Fuel capacity": "8.7 gallons (32.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 90,
-               "Acceleration 0-62 Mph (0-100 kph)": 16.7
+               "Top Speed": "90 mph (145 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "16.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -290,41 +296,42 @@
                "Tire Size": "175/55R15"
           },
           "DIMENSIONS": {
-               "Length": 106.3,
-               "Width": 61.4,
-               "Height": 60.6,
+               "Length": "106.3 in (2700 mm)",
+               "Width": "61.4 in (1560 mm)",
+               "Height": "60.6 in (1539 mm)",
                "Front/rear Track": "50.4/54.3 in (1,280/1,379 mm)",
-               "Wheelbase": 73.6,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 7.8
+               "Wheelbase": "73.6 in (1869 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "7.8 cuFT (221 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1653,
-               "Gross Weight Limit": 2249
+               "Unladen Weight": "1653 lbs (750 kg)",
+               "Gross Weight Limit": "2249 lbs (1020 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 38.6,
-               "Highway": 58.8,
-               "Combined": 50,
-               "CO2 Emissions": 112
+               "City": "38.6 mpg US (6.1 L/100Km)",
+               "Highway": "58.8 mpg US (4 L/100Km)",
+               "Combined": "50 mpg US (4.7 L/100Km)",
+               "CO2 Emissions": "112 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART ForTwo 2007-201205-03-07-18-57.jpg"
 },{
      "model_name": "SMART ForTwo 2003-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.7L 6MT FWD (50 HP)": {
                "Cylinders": "L3",
-               "Displacement": 698,
+               "Displacement": "698 cm3",
                "Power": "37 KW @ 5250 RPM\n50 HP @ 5250 RPM\n50 BHP @ 5250 RPM",
                "Torque": "59 lb-ft @ 1800\u20134000 RPM\n80 Nm @ 1800\u20134000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 8.7
+               "Fuel capacity": "8.7 gallons (32.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 84,
-               "Acceleration 0-62 Mph (0-100 kph)": 18.3
+               "Top Speed": "84 mph (135 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "18.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -338,40 +345,41 @@
                "Tire Size": "155/65 R15 // 175/55 R15"
           },
           "DIMENSIONS": {
-               "Length": 98.4,
-               "Width": 59.6,
-               "Height": 60.2,
+               "Length": "98.4 in (2499 mm)",
+               "Width": "59.6 in (1514 mm)",
+               "Height": "60.2 in (1529 mm)",
                "Front/rear Track": "50.8/53.1 in (1,290/1,349 mm)",
-               "Wheelbase": 71.3,
-               "Cargo Volume": 5.3
+               "Wheelbase": "71.3 in (1811 mm)",
+               "Cargo Volume": "5.3 cuFT (150 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1609,
-               "Gross Weight Limit": 2183
+               "Unladen Weight": "1609 lbs (730 kg)",
+               "Gross Weight Limit": "2183 lbs (990 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 39.9,
-               "Highway": 58.8,
-               "Combined": 50,
-               "CO2 Emissions": 113
+               "City": "39.9 mpg US (5.9 L/100Km)",
+               "Highway": "58.8 mpg US (4 L/100Km)",
+               "Combined": "50 mpg US (4.7 L/100Km)",
+               "CO2 Emissions": "113 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART ForTwo 2003-200705-03-07-18-59.jpg"
 },{
      "model_name": "SMART City Coupe 1998-2002",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.6L 6AT FWD (45 HP)": {
                "Cylinders": "L3",
-               "Displacement": 599,
+               "Displacement": "599 cm3",
                "Power": "33 KW @ 5250 RPM\n45 HP @ 5250 RPM\n44 BHP @ 5250 RPM",
                "Torque": "52 lb-ft @ 3000 RPM\n70 Nm @ 3000 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 8.7
+               "Fuel capacity": "8.7 gallons (32.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 84,
-               "Acceleration 0-62 Mph (0-100 kph)": 18.9
+               "Top Speed": "84 mph (135 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "18.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -385,39 +393,40 @@
                "Tire Size": "145/65 R15 || 175/55 R15"
           },
           "DIMENSIONS": {
-               "Length": 98.4,
-               "Width": 59.8,
-               "Height": 60.2,
+               "Length": "98.4 in (2499 mm)",
+               "Width": "59.8 in (1519 mm)",
+               "Height": "60.2 in (1529 mm)",
                "Front/rear Track": "50.8/53.1 in (1,290/1,349 mm)",
-               "Wheelbase": 71.3,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 5.3,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "71.3 in (1811 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "5.3 cuFT (150 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1587,
-               "Gross Weight Limit": 2160.5
+               "Unladen Weight": "1587 lbs (720 kg)",
+               "Gross Weight Limit": "2160.5 lbs (980 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 38.6,
-               "Highway": 54.7,
-               "Combined": 48,
-               "CO2 Emissions": 118
+               "City": "38.6 mpg US (6.1 L/100Km)",
+               "Highway": "54.7 mpg US (4.3 L/100Km)",
+               "Combined": "48 mpg US (4.9 L/100Km)",
+               "CO2 Emissions": "118 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART City Coupe 1998-200205-03-07-19-02.jpg"
 },{
      "model_name": "2019 smart EQ fortwo Cabrio",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 41 KW (82 HP)": {
                "Power": "60 KW @ - RPM\n81.6 HP @ - RPM\n80 BHP @ - RPM",
                "Torque": "118 lb-ft @ - RPM\n160 Nm @ - RPM",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive"
@@ -427,33 +436,34 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 106.1,
-               "Width": 65.5,
-               "Height": 61.1,
+               "Length": "106.1 in (2695 mm)",
+               "Width": "65.5 in (1664 mm)",
+               "Height": "61.1 in (1552 mm)",
                "Front/rear Track": "57.8/56.3 in (1,468/1,430 mm)",
-               "Wheelbase": 73.7,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 9.2,
-               "Aerodynamics (Cd)": 0.38
+               "Wheelbase": "73.7 in (1872 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "9.2 cuFT (261 L)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "NOTES": {
                "Combined power consumption (kWh/100 km), 4.6 kW on-board charger": "16.8-15.4 kWh\nCombined power consumption (kWh/100 km), 22 kW on-board charger: 15.4-14.2 KWh"
           }
-     }
+     },
+     "img": "images/2019 smart EQ fortwo Cabrio05-03-07-19-04.jpg"
 },{
      "model_name": "SMART fortwo Cabrio 2016-2019",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.9L TURBO 5MT (90 HP)": {
                "Cylinders": "L3",
-               "Displacement": 898,
+               "Displacement": "898 cm3",
                "Power": "66.2 KW @ 5500 RPM\n90 HP @ 5500 RPM\n89 BHP @ 5500 RPM",
                "Torque": "100 lb-ft @ 2500 RPM\n135 Nm @ 2500 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 96,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+               "Top Speed": "96 mph (154 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -467,41 +477,42 @@
                "Tire Size": "165/65 R 15 || 185/60 R 15"
           },
           "DIMENSIONS": {
-               "Length": 106.1,
-               "Width": 65.5,
-               "Height": 61.1,
+               "Length": "106.1 in (2695 mm)",
+               "Width": "65.5 in (1664 mm)",
+               "Height": "61.1 in (1552 mm)",
                "Front/rear Track": "57.8/56.3 in (1,468/1,430 mm)",
-               "Wheelbase": 73.7,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 9.2,
-               "Aerodynamics (Cd)": 0.38
+               "Wheelbase": "73.7 in (1872 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "9.2 cuFT (261 L)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2116,
-               "Gross Weight Limit": 2635
+               "Unladen Weight": "2116 lbs (960 kg)",
+               "Gross Weight Limit": "2635 lbs (1195 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 47,
-               "Highway": 60.3,
-               "Combined": 54.7,
-               "CO2 Emissions": 99
+               "City": "47 mpg US (5 L/100Km)",
+               "Highway": "60.3 mpg US (3.9 L/100Km)",
+               "Combined": "54.7 mpg US (4.3 L/100Km)",
+               "CO2 Emissions": "99 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART fortwo Cabrio 2016-201905-03-07-19-06.jpg"
 },{
      "model_name": "SMART fortwo Cabrio 2012-2016",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5AT (71 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "52.2 KW @ 5800 RPM\n71 HP @ 5800 RPM\n70 BHP @ 5800 RPM",
                "Torque": "68 lb-ft @ 2800 RPM\n92 Nm @ 2800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 90,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.7
+               "Top Speed": "90 mph (145 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -515,42 +526,43 @@
                "Tire Size": "175/55R15 || 195/50R15"
           },
           "DIMENSIONS": {
-               "Length": 106.1,
-               "Width": 61.4,
-               "Height": 61.6,
+               "Length": "106.1 in (2695 mm)",
+               "Width": "61.4 in (1560 mm)",
+               "Height": "61.6 in (1565 mm)",
                "Front/rear Track": "50.5/54.5 in (1,283/1,384 mm)",
-               "Wheelbase": 73.5,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 7.8,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "73.5 in (1867 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "7.8 cuFT (221 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1742,
-               "Gross Weight Limit": 2249
+               "Unladen Weight": "1742 lbs (790 kg)",
+               "Gross Weight Limit": "2249 lbs (1020 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 50,
-               "Highway": 57.4,
-               "Combined": 53.5,
-               "CO2 Emissions": 100
+               "City": "50 mpg US (4.7 L/100Km)",
+               "Highway": "57.4 mpg US (4.1 L/100Km)",
+               "Combined": "53.5 mpg US (4.4 L/100Km)",
+               "CO2 Emissions": "100 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART fortwo Cabrio 2012-201605-03-07-19-08.jpg"
 },{
      "model_name": "SMART fortwo Cabrio 2010-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5AT (71 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "52.2 KW @ 5800 RPM\n71 HP @ 5800 RPM\n70 BHP @ 5800 RPM",
                "Torque": "68 lb-ft @ 2800 RPM\n92 Nm @ 2800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 8.7
+               "Fuel capacity": "8.7 gallons (32.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 90,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.7
+               "Top Speed": "90 mph (145 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -564,41 +576,42 @@
                "Tire Size": "175/55R15 || 195/50R15"
           },
           "DIMENSIONS": {
-               "Length": 106.1,
-               "Width": 6.1,
-               "Height": 60.7,
+               "Length": "106.1 in (2695 mm)",
+               "Width": "6.1 in (155 mm)",
+               "Height": "60.7 in (1542 mm)",
                "Front/rear Track": "50.5/54.5 in (1,283/1,384 mm)",
-               "Wheelbase": 73.5,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 7.8,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "73.5 in (1867 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "7.8 cuFT (221 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1742,
-               "Gross Weight Limit": 2249
+               "Unladen Weight": "1742 lbs (790 kg)",
+               "Gross Weight Limit": "2249 lbs (1020 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 50,
-               "Highway": 57.4,
-               "Combined": 53.5,
-               "CO2 Emissions": 100
+               "City": "50 mpg US (4.7 L/100Km)",
+               "Highway": "57.4 mpg US (4.1 L/100Km)",
+               "Combined": "53.5 mpg US (4.4 L/100Km)",
+               "CO2 Emissions": "100 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART fortwo Cabrio 2010-201205-03-07-19-10.jpg"
 },{
      "model_name": "SMART ForTwo Cabrio 2007-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5AT FWD (71 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "52 KW @ 5800 RPM\n71 HP @ 5800 RPM\n70 BHP @ 5800 RPM",
                "Torque": "68 lb-ft @ 4500 RPM\n92 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 90,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.3
+               "Top Speed": "90 mph (145 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -612,41 +625,42 @@
                "Tire Size": "175/55R15"
           },
           "DIMENSIONS": {
-               "Length": 106.3,
-               "Width": 61.4,
-               "Height": 60.6,
+               "Length": "106.3 in (2700 mm)",
+               "Width": "61.4 in (1560 mm)",
+               "Height": "60.6 in (1539 mm)",
                "Front/rear Track": "50.4/54.3 in (1,280/1,379 mm)",
-               "Wheelbase": 73.6,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 7.8,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "73.6 in (1869 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "7.8 cuFT (221 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1664,
-               "Gross Weight Limit": 2249
+               "Unladen Weight": "1664 lbs (755 kg)",
+               "Gross Weight Limit": "2249 lbs (1020 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 46.1,
-               "Highway": 58.8,
-               "Combined": 53.5,
-               "CO2 Emissions": 105
+               "City": "46.1 mpg US (5.1 L/100Km)",
+               "Highway": "58.8 mpg US (4 L/100Km)",
+               "Combined": "53.5 mpg US (4.4 L/100Km)",
+               "CO2 Emissions": "105 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART ForTwo Cabrio 2007-201005-03-07-19-12.jpg"
 },{
      "model_name": "SMART ForTwo Cabrio 2004-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.7L 6AT FWD (61 HP)": {
                "Cylinders": "L3",
-               "Displacement": 698,
+               "Displacement": "698 cm3",
                "Power": "45 KW @ 5250 RPM\n61 HP @ 5250 RPM\n60 BHP @ 5250 RPM",
                "Torque": "70 lb-ft @ 2000\u20134000 RPM\n95 Nm @ 2000\u20134000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 84,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.5
+               "Top Speed": "84 mph (135 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -660,42 +674,43 @@
                "Tire Size": "145/65 R15 || 175/55 R15"
           },
           "DIMENSIONS": {
-               "Length": 98.4,
-               "Width": 59.6,
-               "Height": 61,
+               "Length": "98.4 in (2499 mm)",
+               "Width": "59.6 in (1514 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "50.1/53.3 in (1,273/1,354 mm)",
-               "Wheelbase": 71.3,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 5.3,
-               "Aerodynamics (Cd)": 0.38
+               "Wheelbase": "71.3 in (1811 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "5.3/12.8 cuFT (150 L)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1631,
-               "Gross Weight Limit": 2183
+               "Unladen Weight": "1631 lbs (740 kg)",
+               "Gross Weight Limit": "2183 lbs (990 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 39.9,
-               "Highway": 58.8,
-               "Combined": 50,
-               "CO2 Emissions": 113
+               "City": "39.9 mpg US (5.9 L/100Km)",
+               "Highway": "58.8 mpg US (4 L/100Km)",
+               "Combined": "50 mpg US (4.7 L/100Km)",
+               "CO2 Emissions": "113 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART ForTwo Cabrio 2004-200705-03-07-19-14.jpg"
 },{
      "model_name": "SMART City Cabrio 2000-2004",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.6L 6AT FWD (55 HP)": {
                "Cylinders": "L3",
-               "Displacement": 599,
+               "Displacement": "599 cm3",
                "Power": "40.4 KW @ 5250 RPM\n55 HP @ 5250 RPM\n54 BHP @ 5250 RPM",
                "Torque": "59 lb-ft @ 2000 RPM\n80 Nm @ 2000 RPM",
                "Fuel System": "Turbocharged Common Rail",
                "Fuel": "Gasoline",
-               "Fuel capacity": 8.7
+               "Fuel capacity": "8.7 gallons (32.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 84,
-               "Acceleration 0-62 Mph (0-100 kph)": 17.2
+               "Top Speed": "84 mph (135 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "17.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -709,31 +724,32 @@
                "Tire Size": "145/65 R15 || 175/55 R15"
           },
           "DIMENSIONS": {
-               "Length": 98.4,
-               "Width": 59.6,
-               "Height": 61,
+               "Length": "98.4 in (2499 mm)",
+               "Width": "59.6 in (1514 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "50.1/53.3 in (1,273/1,354 mm)",
-               "Wheelbase": 71.3,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 5.3,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "71.3 in (1811 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "5.3 cuFT (150 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1609,
-               "Gross Weight Limit": 2183
+               "Unladen Weight": "1609 lbs (730 kg)",
+               "Gross Weight Limit": "2183 lbs (990 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 40.6,
-               "Highway": 56,
-               "Combined": 49,
-               "CO2 Emissions": 115
+               "City": "40.6 mpg US (5.8 L/100Km)",
+               "Highway": "56 mpg US (4.2 L/100Km)",
+               "Combined": "49 mpg US (4.8 L/100Km)",
+               "CO2 Emissions": "115 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART City Cabrio 2000-200405-03-07-19-17.jpg"
 },{
      "model_name": "2016 SMART fortwo Electric Drive",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 17.6 KWH (81 HP)": {
                "Power": "60 KW @ - RPM\n81.6 HP @ - RPM\n80 BHP @ - RPM",
                "Torque": "118 lb-ft @ - RPM\n160 Nm @ - RPM",
                "Fuel System": "17.6 kWh lithium-ion battery",
@@ -751,29 +767,30 @@
                "Tire Size": "65/65 R 15 || 15//185/60 R 15"
           },
           "DIMENSIONS": {
-               "Length": 105.9,
-               "Width": 65.4,
-               "Height": 61,
+               "Length": "105.9 in (2690 mm)",
+               "Width": "65.4 in (1661 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "57.8/56.3 in (1,468/1,430 mm)",
-               "Wheelbase": 73.7,
-               "Ground Clearance": 5.2,
-               "Aerodynamics (Cd)": 0.38
+               "Wheelbase": "73.7 in (1872 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "NOTES": {
                "Electric range": "160 km (99 miles)\nBattery charging time: 2.5 hours (45 min with fast-charger)"
           }
-     }
+     },
+     "img": "images/2016 SMART fortwo Electric Drive05-03-07-19-19.jpg"
 },{
      "model_name": "SMART fortwo Cabrio Electric Drive 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 17.6 KWH (81 HP)": {
                "Power": "60 KW @ - RPM\n81.6 HP @ - RPM\n80 BHP @ - RPM",
                "Torque": "118 lb-ft @ - RPM\n160 Nm @ - RPM",
                "Fuel System": "17.6 kWh lithium-ion battery",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 81
+               "Top Speed": "81 mph (130 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -787,29 +804,30 @@
                "Tire Size": "65/65 R 15 || 15//185/60 R 15"
           },
           "DIMENSIONS": {
-               "Length": 105.9,
-               "Width": 65.4,
-               "Height": 61,
+               "Length": "105.9 in (2690 mm)",
+               "Width": "65.4 in (1661 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "57.8/56.3 in (1,468/1,430 mm)",
-               "Wheelbase": 73.7,
-               "Ground Clearance": 5.2,
-               "Aerodynamics (Cd)": 0.38
+               "Wheelbase": "73.7 in (1872 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "NOTES": {
                "Electric range": "155 km (96 miles)\nBattery charging time: 2.5 hours (45 min with fast-charger)"
           }
-     }
+     },
+     "img": "images/SMART fortwo Cabrio Electric Drive 2016-Present05-03-07-19-21.jpg"
 },{
      "model_name": "SMART forfour Electric Drive 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 17.6 KWH (81 HP)": {
                "Power": "60 KW @ - RPM\n81.6 HP @ - RPM\n80 BHP @ - RPM",
                "Torque": "118 lb-ft @ - RPM\n160 Nm @ - RPM",
                "Fuel System": "17.6 kWh lithium-ion battery",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 81
+               "Top Speed": "81 mph (130 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -823,30 +841,31 @@
                "Tire Size": "165/65 R15 || 185/60 R15"
           },
           "DIMENSIONS": {
-               "Length": 137.4,
-               "Width": 65.4,
-               "Height": 61,
+               "Length": "137.4 in (3490 mm)",
+               "Width": "65.4 in (1661 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "57.8/56.3 in (1,468/1,430 mm)",
-               "Wheelbase": 98.2,
-               "Ground Clearance": 5.2,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "98.2 in (2494 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "NOTES": {
                "Electric range": "155 km (96 miles)\nBattery charging time: 2.5 hours (45 min with fast-charger)"
           }
-     }
+     },
+     "img": "images/SMART forfour Electric Drive 2016-Present05-03-07-19-23.jpg"
 },{
      "model_name": "SMART Electric Drive 2012-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - ELECTRIC DRIVE (75 HP)": {
                "Power": "55 KW @ - RPM\n75 HP @ - RPM\n74 BHP @ - RPM",
                "Torque": "96 lb-ft @ - RPM\n130 Nm @ - RPM",
                "Fuel System": "Electric Battery",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 75,
-               "Acceleration 0-62 Mph (0-100 kph)": 13
+               "Top Speed": "75 mph (121 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -860,26 +879,27 @@
                "Tire Size": "155/60 R15 || 175/55 R15"
           },
           "DIMENSIONS": {
-               "Length": 106.1,
-               "Width": 61.4,
-               "Height": 61.2,
+               "Length": "106.1 in (2695 mm)",
+               "Width": "61.4 in (1560 mm)",
+               "Height": "61.2 in (1554 mm)",
                "Front/rear Track": "50/53.7 in (1,270/1,364 mm)",
-               "Wheelbase": 73.5,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 7.8,
-               "Aerodynamics (Cd)": 0.38
+               "Wheelbase": "73.5 in (1867 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "7.8 cuFT (221 L)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1962
+               "Unladen Weight": "1962 lbs (890 kg)"
           },
           "NOTES": {
                "Battery capacity": "17.6 kW\u00b7h lithium-ion battery by Deutsche ACCUmotive\nRange: 140 km (87 mi)"
           }
-     }
+     },
+     "img": "images/SMART Electric Drive 2012-Present05-03-07-19-25.jpg"
 },{
      "model_name": "2023 Smart 1",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 66 KWH RWD (272 HP)": {
                "Electrical motor power": "200.1 kw (272 hp)",
                "Electrical motor torque": "253 lb-ft (343 Nm)",
                "Total maximum power": "200.1 kw (272 hp)",
@@ -902,36 +922,37 @@
                "Tire Size": "235/45 R19"
           },
           "DIMENSIONS": {
-               "Length": 168.1,
-               "Width": 71.7,
-               "Height": 64.4,
-               "Wheelbase": 108.3,
-               "Cargo Volume": 9.6
+               "Length": "168.1 in (4270 mm)",
+               "Width": "71.7 in (1821 mm)",
+               "Height": "64.4 in (1636 mm)",
+               "Wheelbase": "108.3 in (2751 mm)",
+               "Cargo Volume": "9.6 cuFT (272 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4012,
-               "Gross Weight Limit": 5004
+               "Unladen Weight": "4012 lbs (1820 kg)",
+               "Gross Weight Limit": "5004 lbs (2270 kg)"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
                "Maximum Capacity": "66 kWh",
-               "Range": 261
+               "Range": "261 miles (420.0 km)"
           }
-     }
+     },
+     "img": "images/2023 Smart 105-03-07-19-27.jpg"
 },{
      "model_name": "SMART Crossblade 2002-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.6L 6AT (70 HP)": {
                "Cylinders": "L3",
-               "Displacement": 599,
+               "Displacement": "599 cm3",
                "Power": "52 KW @ 5470 RPM\n70 HP @ 5470 RPM\n70 BHP @ 5470 RPM",
                "Torque": "80 lb-ft @ 2200 RPM\n108 Nm @ 2200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 83.8,
-               "Acceleration 0-62 Mph (0-100 kph)": 17
+               "Top Speed": "83.8 mph (135 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "17 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -945,39 +966,40 @@
                "Tire Size": "215/35R16"
           },
           "DIMENSIONS": {
-               "Length": 103.1,
-               "Width": 63.7,
-               "Height": 59.4,
+               "Length": "103.1 in (2619 mm)",
+               "Width": "63.7 in (1618 mm)",
+               "Height": "59.4 in (1509 mm)",
                "Front/rear Track": "50/53.1 in (1,270/1,349 mm)",
-               "Wheelbase": 71.2,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 4.3
+               "Wheelbase": "71.2 in (1808 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "4.3 cuFT (122 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1631.4,
-               "Gross Weight Limit": 2182.5
+               "Unladen Weight": "1631.4 lbs (740 kg)",
+               "Gross Weight Limit": "2182.5 lbs (990 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 37.9,
-               "Highway": 44.3,
-               "Combined": 41.2,
-               "CO2 Emissions": 136
+               "City": "37.9 mpg US (6.2 L/100Km)",
+               "Highway": "44.3 mpg US (5.3 L/100Km)",
+               "Combined": "41.2 mpg US (5.7 L/100Km)",
+               "CO2 Emissions": "136 g/km"
           }
-     }
+     },
+     "img": "images/SMART Crossblade 2002-200305-03-07-19-29.jpg"
 },{
      "model_name": "SMART ForFour Brabus 2005-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L 16V 5MT FWD (177 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1468,
+               "Displacement": "1468 cm3",
                "Power": "130 KW @ 6000 RPM\n177 HP @ 6000 RPM\n174 BHP @ 6000 RPM",
                "Torque": "170 lb-ft @ 3500 RPM\n230 Nm @ 3500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 137.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.9
+               "Top Speed": "137.3 mph (221 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -991,37 +1013,38 @@
                "Tire Size": "225/35R17"
           },
           "DIMENSIONS": {
-               "Length": 147.6,
-               "Width": 66.1,
-               "Height": 57,
+               "Length": "147.6 in (3749 mm)",
+               "Width": "66.1 in (1679 mm)",
+               "Height": "57 in (1448 mm)",
                "Front/rear Track": "57.4/56.6 in (1,458/1,438 mm)",
-               "Wheelbase": 98.4,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 9.5
+               "Wheelbase": "98.4 in (2499 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "9.5 cuFT (269 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2403,
-               "Gross Weight Limit": 3461.2
+               "Unladen Weight": "2403 lbs (1090 kg)",
+               "Gross Weight Limit": "3461.2 lbs (1570 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 34.5,
-               "CO2 Emissions": 159
+               "Combined": "34.5 mpg US (6.8 L/100Km)",
+               "CO2 Emissions": "159 g/km"
           }
-     }
+     },
+     "img": "images/SMART ForFour Brabus 2005-200605-03-07-19-31.jpg"
 },{
      "model_name": "SMART ForTwo Brabus 2012-2019",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L BRABUS (102 HP)": {
                "Cylinders": "3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "75 KW @ 6000 RPM\n102 HP @ 6000 RPM\n101 BHP @ 6000 RPM",
                "Torque": "108 lb-ft @ 2500-2600 RPM\n146 Nm @ 2500-2600 RPM",
                "Fuel System": "Electronic multipoint fuel injection with electronic accelerator",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 96,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+               "Top Speed": "96 mph (154 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1035,38 +1058,39 @@
                "Tire Size": "175/50 R 16; 225/35 R 17"
           },
           "DIMENSIONS": {
-               "Length": 106.1,
-               "Width": 61.4,
-               "Height": 61.2,
+               "Length": "106.1 in (2695 mm)",
+               "Width": "61.4 in (1560 mm)",
+               "Height": "61.2 in (1554 mm)",
                "Front/rear Track": "50/53.7 in (1,270/1,364 mm)",
-               "Wheelbase": 73.5,
-               "Cargo Volume": 7.8
+               "Wheelbase": "73.5 in (1867 mm)",
+               "Cargo Volume": "7.8 cuFT (221 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1753,
-               "Gross Weight Limit": 2315
+               "Unladen Weight": "1753 lbs (795 kg)",
+               "Gross Weight Limit": "2315 lbs (1050 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 37,
-               "Highway": 53,
-               "Combined": 45,
-               "CO2 Emissions": 119
+               "City": "37 mpg US (6.4 L/100Km)",
+               "Highway": "53 mpg US (4.4 L/100Km)",
+               "Combined": "45 mpg US (5.2 L/100Km)",
+               "CO2 Emissions": "119 g/km"
           }
-     }
+     },
+     "img": "images/SMART ForTwo Brabus 2012-201905-03-07-19-33.jpg"
 },{
      "model_name": "SMART ForTwo Brabus 2007-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0: 5MT (98 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "72 KW @ 5500 RPM\n98 HP @ 5500 RPM\n97 BHP @ 5500 RPM",
                "Torque": "103 lb-ft @ 3500 RPM\n140 Nm @ 3500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 96,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+               "Top Speed": "96 mph (154 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1080,40 +1104,41 @@
                "Tire Size": "175/50 R16 // 225/35 R17"
           },
           "DIMENSIONS": {
-               "Length": 106.1,
-               "Width": 61.4,
-               "Height": 60.3,
+               "Length": "106.1 in (2695 mm)",
+               "Width": "61.4 in (1560 mm)",
+               "Height": "60.3 in (1532 mm)",
                "Front/rear Track": "50/53.6 in (1,270/1,361 mm)",
-               "Wheelbase": 73.5,
-               "Ground Clearance": 6.9,
-               "Cargo Volume": 7.8,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "73.5 in (1867 mm)",
+               "Ground Clearance": "6.9 in (175 mm)",
+               "Cargo Volume": "7.8 cuFT (221 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1719,
-               "Gross Weight Limit": 2315
+               "Unladen Weight": "1719 lbs (780 kg)",
+               "Gross Weight Limit": "2315 lbs (1050 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 35.1,
-               "Highway": 53.4,
-               "Combined": 44.4,
-               "CO2 Emissions": 126
+               "City": "35.1 mpg US (6.7 L/100Km)",
+               "Highway": "53.4 mpg US (4.4 L/100Km)",
+               "Combined": "44.4 mpg US (5.3 L/100Km)",
+               "CO2 Emissions": "126 g/km"
           }
-     }
+     },
+     "img": "images/SMART ForTwo Brabus 2007-201205-03-07-19-35.jpg"
 },{
      "model_name": "SMART ForTwo Brabus 2003-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.7L 6AT (74 HP)": {
                "Cylinders": "L3",
-               "Displacement": 698,
+               "Displacement": "698 cm3",
                "Power": "55 KW @ 5250 RPM\n74 HP @ 5250 RPM\n74 BHP @ 5250 RPM",
                "Torque": "81 lb-ft @ 2200-3500 RPM\n110 Nm @ 2200-3500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.3
+               "Top Speed": "93 mph (150 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1127,39 +1152,40 @@
                "Tire Size": "175/50 R16 (front) - 205/45 R16 (rear)"
           },
           "DIMENSIONS": {
-               "Length": 98.4,
-               "Width": 59.6,
-               "Height": 61,
+               "Length": "98.4 in (2499 mm)",
+               "Width": "59.6 in (1514 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "49.8/53.5 in (1,265/1,359 mm)",
-               "Wheelbase": 71.3,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 5.3
+               "Wheelbase": "71.3 in (1811 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "5.3 cuFT (150 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1609,
-               "Gross Weight Limit": 2183
+               "Unladen Weight": "1609 lbs (730 kg)",
+               "Gross Weight Limit": "2183 lbs (990 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 36.2,
-               "Highway": 51.1,
-               "Combined": 37.3,
-               "CO2 Emissions": 127
+               "City": "36.2 mpg US (6.5 L/100Km)",
+               "Highway": "51.1 mpg US (4.6 L/100Km)",
+               "Combined": "37.3 mpg US (6.3 L/100Km)",
+               "CO2 Emissions": "127 g/km"
           }
-     }
+     },
+     "img": "images/SMART ForTwo Brabus 2003-200705-03-07-19-37.jpg"
 },{
      "model_name": "2012 smart fortwo Brabus cabrio",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0 5AT (102 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "75 KW @ 6000 RPM\n102 HP @ 6000 RPM\n101 BHP @ 6000 RPM",
                "Torque": "108 lb-ft @ 2500-3600 RPM\n147 Nm @ 2500-3600 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 96,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+               "Top Speed": "96 mph (154 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1173,40 +1199,41 @@
                "Tire Size": "175/50 R16 || 225/35 R17"
           },
           "DIMENSIONS": {
-               "Length": 106.1,
-               "Width": 61.4,
-               "Height": 61.2,
+               "Length": "106.1 in (2695 mm)",
+               "Width": "61.4 in (1560 mm)",
+               "Height": "61.2 in (1554 mm)",
                "Front/rear Track": "50/53.7 in (1,270/1,364 mm)",
-               "Wheelbase": 73.5,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 7.8,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "73.5 in (1867 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "7.8 cuFT (221 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1786,
-               "Gross Weight Limit": 2315
+               "Unladen Weight": "1786 lbs (810 kg)",
+               "Gross Weight Limit": "2315 lbs (1050 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 37,
-               "Highway": 53,
-               "Combined": 45,
-               "CO2 Emissions": 119
+               "City": "37 mpg US (6.4 L/100Km)",
+               "Highway": "53 mpg US (4.4 L/100Km)",
+               "Combined": "45 mpg US (5.2 L/100Km)",
+               "CO2 Emissions": "119 g/km"
           }
-     }
+     },
+     "img": "images/2012 smart fortwo Brabus cabrio05-03-07-19-39.jpg"
 },{
      "model_name": "SMART ForTwo Cabrio Brabus 2007-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0 5AT (98 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "72 KW @ 5500 RPM\n98 HP @ 5500 RPM\n97 BHP @ 5500 RPM",
                "Torque": "103 lb-ft @ 3500 RPM\n140 Nm @ 3500 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 96,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+               "Top Speed": "96 mph (154 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1220,40 +1247,41 @@
                "Tire Size": "175/50R16 || 225/35R17"
           },
           "DIMENSIONS": {
-               "Length": 106.1,
-               "Width": 61.4,
-               "Height": 60.3,
+               "Length": "106.1 in (2695 mm)",
+               "Width": "61.4 in (1560 mm)",
+               "Height": "60.3 in (1532 mm)",
                "Front/rear Track": "50/53.6 in (1,270/1,361 mm)",
-               "Wheelbase": 73.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 7.8,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "73.5 in (1867 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "7.8 cuFT (221 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1709,
-               "Gross Weight Limit": 2315
+               "Unladen Weight": "1709 lbs (775 kg)",
+               "Gross Weight Limit": "2315 lbs (1050 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 35.1,
-               "Highway": 53.4,
-               "Combined": 44.4,
-               "CO2 Emissions": 126
+               "City": "35.1 mpg US (6.7 L/100Km)",
+               "Highway": "53.4 mpg US (4.4 L/100Km)",
+               "Combined": "44.4 mpg US (5.3 L/100Km)",
+               "CO2 Emissions": "126 g/km"
           }
-     }
+     },
+     "img": "images/SMART ForTwo Cabrio Brabus 2007-201205-03-07-19-41.jpg"
 },{
      "model_name": "2003 SMART ForTwo Cabrio Brabus",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.7 6AT (75 HP)": {
                "Cylinders": "L3",
-               "Displacement": 698,
+               "Displacement": "698 cm3",
                "Power": "55 KW @ 5250 RPM\n75 HP @ 5250 RPM\n74 BHP @ 5250 RPM",
                "Torque": "81 lb-ft @ 2200-3500 RPM\n110 Nm @ 2200-3500 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.3
+               "Top Speed": "93 mph (150 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1267,41 +1295,42 @@
                "Tire Size": "175/50 R16 || 205/45 R16"
           },
           "DIMENSIONS": {
-               "Length": 98.4,
-               "Width": 59.6,
-               "Height": 61,
+               "Length": "98.4 in (2499 mm)",
+               "Width": "59.6 in (1514 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "49.8/53.5 in (1,265/1,359 mm)",
-               "Wheelbase": 71.3,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 5.3,
-               "Aerodynamics (Cd)": 0.38
+               "Wheelbase": "71.3 in (1811 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "5.3 cuFT (150 L)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1631,
-               "Gross Weight Limit": 2183
+               "Unladen Weight": "1631 lbs (740 kg)",
+               "Gross Weight Limit": "2183 lbs (990 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 36.2,
-               "Highway": 51.1,
-               "Combined": 44.4,
-               "CO2 Emissions": 127
+               "City": "36.2 mpg US (6.5 L/100Km)",
+               "Highway": "51.1 mpg US (4.6 L/100Km)",
+               "Combined": "44.4 mpg US (5.3 L/100Km)",
+               "CO2 Emissions": "127 g/km"
           }
-     }
+     },
+     "img": "images/2003 SMART ForTwo Cabrio Brabus05-03-07-19-43.jpg"
 },{
      "model_name": "Smart Roadster",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.7L 6MT RWD (60 HP)": {
                "Cylinders": "L3",
-               "Displacement": 698,
+               "Displacement": "698 cm3",
                "Power": "45 KW @ 5250 RPM\n61 HP @ 5250 RPM\n60 BHP @ 5250 RPM",
                "Torque": "70 lb-ft @ 2500 RPM\n95 Nm @ 2500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 9.2
+               "Fuel capacity": "9.2 gallons (34.8 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.5
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1315,39 +1344,40 @@
                "Tire Size": "185/55 R15"
           },
           "DIMENSIONS": {
-               "Length": 134.9,
-               "Width": 63.6,
-               "Height": 46.9,
+               "Length": "134.9 in (3426 mm)",
+               "Width": "63.6 in (1615 mm)",
+               "Height": "46.9 in (1191 mm)",
                "Front/rear Track": "53.4/54.8 in (1,356/1,392 mm)",
-               "Wheelbase": 92.9,
-               "Cargo Volume": 4.6
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Cargo Volume": "4.6 cuFT (130 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1742,
-               "Gross Weight Limit": 2271
+               "Unladen Weight": "1742 lbs (790 kg)",
+               "Gross Weight Limit": "2271 lbs (1030 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 37.9,
-               "Highway": 57.4,
-               "Combined": 48,
-               "CO2 Emissions": 117
+               "City": "37.9 mpg US (6.2 L/100Km)",
+               "Highway": "57.4 mpg US (4.1 L/100Km)",
+               "Combined": "48 mpg US (4.9 L/100Km)",
+               "CO2 Emissions": "117 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/Smart Roadster05-03-07-19-45.jpg"
 },{
      "model_name": "SMART Roadster Brabus 2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.7": {
                "Cylinders": "L3",
-               "Displacement": 698,
+               "Displacement": "698 cm3",
                "Power": "74 KW @ 5250 RPM\n101 HP @ 5250 RPM\n99 BHP @ 5250 RPM",
                "Torque": "96 lb-ft @ 2500-4500 RPM\n130 Nm @ 2500-4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+               "Top Speed": "118 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1361,39 +1391,40 @@
                "Tire Size": "205/40 R17 (front) - 225/35 R17 (rear)"
           },
           "DIMENSIONS": {
-               "Length": 134.9,
-               "Width": 63.6,
-               "Height": 46.9,
+               "Length": "134.9 in (3426 mm)",
+               "Width": "63.6 in (1615 mm)",
+               "Height": "46.9 in (1191 mm)",
                "Front/rear Track": "53.7/54.4 in (1,364/1,382 mm)",
-               "Wheelbase": 92.9,
-               "Cargo Volume": 4.6
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Cargo Volume": "4.6 cuFT (130 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1834,
-               "Gross Weight Limit": 2271
+               "Unladen Weight": "1834 lbs (832 kg)",
+               "Gross Weight Limit": "2271 lbs (1030 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 36.8,
-               "Highway": 52.3,
-               "Combined": 45.2,
-               "CO2 Emissions": 122
+               "City": "36.8 mpg US (6.4 L/100Km)",
+               "Highway": "52.3 mpg US (4.5 L/100Km)",
+               "Combined": "45.2 mpg US (5.2 L/100Km)",
+               "CO2 Emissions": "122 g/km"
           }
-     }
+     },
+     "img": "images/SMART Roadster Brabus 200305-03-07-19-47.jpg"
 },{
      "model_name": "SMART Roadster Coupe 2003-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.7L 6AT (61 HP)": {
                "Cylinders": "L3",
-               "Displacement": 698,
+               "Displacement": "698 cm3",
                "Power": "44.9 KW @ 5250 RPM\n61 HP @ 5250 RPM\n60 BHP @ 5250 RPM",
                "Torque": "70 lb-ft @ 2000 RPM\n95 Nm @ 2000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.5
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1407,38 +1438,39 @@
                "Tire Size": "205/50 R15"
           },
           "DIMENSIONS": {
-               "Length": 134.9,
-               "Width": 63.6,
-               "Height": 47.5,
+               "Length": "134.9 in (3426 mm)",
+               "Width": "63.6 in (1615 mm)",
+               "Height": "47.5 in (1207 mm)",
                "Front/rear Track": "53.4/54.8 in (1,356/1,392 mm)",
-               "Wheelbase": 92.9,
-               "Cargo Volume": 8.8
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Cargo Volume": "8.8 cuFT (249 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1786,
-               "Gross Weight Limit": 2271
+               "Unladen Weight": "1786 lbs (810 kg)",
+               "Gross Weight Limit": "2271 lbs (1030 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 37.9,
-               "Highway": 57.4,
-               "Combined": 48
+               "City": "37.9 mpg US (6.2 L/100Km)",
+               "Highway": "57.4 mpg US (4.1 L/100Km)",
+               "Combined": "48 mpg US (4.9 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SMART Roadster Coupe 2003-200605-03-07-19-50.jpg"
 },{
      "model_name": "SMART Roadster Coupe Brabus 2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.7L 6AT (101 HP)": {
                "Cylinders": "L3",
-               "Displacement": 698,
+               "Displacement": "698 cm3",
                "Power": "74 KW @ 5250 RPM\n101 HP @ 5250 RPM\n99 BHP @ 5250 RPM",
                "Torque": "96 lb-ft @ 2500-4500 RPM\n130 Nm @ 2500-4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 121,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+               "Top Speed": "121 mph (195 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1452,24 +1484,25 @@
                "Tire Size": "205/40 R17(front) - 225/35 R17(rear)"
           },
           "DIMENSIONS": {
-               "Length": 134.9,
-               "Width": 63.6,
-               "Height": 47.5,
+               "Length": "134.9 in (3426 mm)",
+               "Width": "63.6 in (1615 mm)",
+               "Height": "47.5 in (1207 mm)",
                "Front/rear Track": "53.4/54.8 in (1,356/1,392 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 5,
-               "Cargo Volume": 8.8
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "5 in (127 mm)",
+               "Cargo Volume": "8.8 cuFT (249 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1878,
-               "Gross Weight Limit": 2271
+               "Unladen Weight": "1878 lbs (852 kg)",
+               "Gross Weight Limit": "2271 lbs (1030 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 36.8,
-               "Highway": 52.3,
-               "Combined": 45.2,
-               "CO2 Emissions": 122
+               "City": "36.8 mpg US (6.4 L/100Km)",
+               "Highway": "52.3 mpg US (4.5 L/100Km)",
+               "Combined": "45.2 mpg US (5.2 L/100Km)",
+               "CO2 Emissions": "122 g/km"
           }
-     }
+     },
+     "img": "images/SMART Roadster Coupe Brabus 200305-03-07-19-52.jpg"
 },	
  ] } 

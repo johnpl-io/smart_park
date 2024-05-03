@@ -2,17 +2,17 @@
 {
      "model_name": "SCION FR-S 2013-2016",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 6AT (200 HP)": {
                "Cylinders": "H4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "147 KW @ 7000 RPM\n200 HP @ 7000 RPM\n197 BHP @ 7000 RPM",
                "Torque": "151 lb-ft @ 6400-6600 RPM\n205 Nm @ 6400-6600 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -26,38 +26,39 @@
                "Tire Size": "205/55R16"
           },
           "DIMENSIONS": {
-               "Length": 166.9,
-               "Width": 69.9,
-               "Height": 50.6,
+               "Length": "166.9 in (4239 mm)",
+               "Width": "69.9 in (1775 mm)",
+               "Height": "50.6 in (1285 mm)",
                "Front/rear Track": "59.8/64.6 in (1,519/1,641 mm)",
-               "Wheelbase": 101.2,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 8.6,
-               "Aerodynamics (Cd)": 0.27
+               "Wheelbase": "101.2 in (2570 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "8.6 cuFT (244 L)",
+               "Aerodynamics (Cd)": "0.27"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2784,
-               "Gross Weight Limit": 3748
+               "Unladen Weight": "2784 lbs (1263 kg)",
+               "Gross Weight Limit": "3748 lbs (1700 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24.5,
-               "Highway": 41.3,
-               "Combined": 33.1,
-               "CO2 Emissions": 181
+               "City": "24.5 mpg US (9.6 L/100Km)",
+               "Highway": "41.3 mpg US (5.7 L/100Km)",
+               "Combined": "33.1 mpg US (7.1 L/100Km)",
+               "CO2 Emissions": "181 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SCION FR-S 2013-201605-03-07-10-31.jpg"
 },{
      "model_name": "2016 Scion iA",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L 6AT (106 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1496,
+               "Displacement": "1496 cm3",
                "Power": "79 KW @ 6000 RPM\n107 HP @ 6000 RPM\n106 BHP @ 6000 RPM",
                "Torque": "103 lb-ft @ 4000 RPM\n140 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.6
+               "Fuel capacity": "11.6 gallons (43.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -71,37 +72,38 @@
                "Tire Size": "185/60R16"
           },
           "DIMENSIONS": {
-               "Length": 171.1,
-               "Width": 66.7,
-               "Height": 58.5,
+               "Length": "171.1 in (4346 mm)",
+               "Width": "66.7 in (1694 mm)",
+               "Height": "58.5 in (1486 mm)",
                "Front/rear Track": "58.9/58.5 in (1,496/1,486 mm)",
-               "Wheelbase": 101.2,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 15.5,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "101.2 in (2570 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "15.5 cuFT (439 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2416,
-               "Gross Weight Limit": 3640
+               "Unladen Weight": "2416 lbs (1096 kg)",
+               "Gross Weight Limit": "3640 lbs (1651 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 31.8,
-               "Highway": 21,
-               "Combined": 34
+               "City": "31.8 mpg US (7.4 L/100Km)",
+               "Highway": "21 mpg US (11.2 L/100Km)",
+               "Combined": "34 mpg US (6.9 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/2016 Scion iA05-03-07-10-33.jpg"
 },{
      "model_name": "SCION iM 2016-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 6MT (137 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1798,
+               "Displacement": "1798 cm3",
                "Power": "102.2 KW @ 6100 RPM\n139 HP @ 6100 RPM\n137 BHP @ 6100 RPM",
                "Torque": "126 lb-ft @ 4000 RPM\n171 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.6
+               "Fuel capacity": "11.6 gallons (43.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -115,39 +117,40 @@
                "Tire Size": "225/45R17"
           },
           "DIMENSIONS": {
-               "Length": 170.5,
-               "Width": 69.3,
-               "Height": 55.3,
+               "Length": "170.5 in (4331 mm)",
+               "Width": "69.3 in (1760 mm)",
+               "Height": "55.3 in (1405 mm)",
                "Front/rear Track": "60.4/60.4 in (1,534/1,534 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 12.7,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "12.7 cuFT (360 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2943,
-               "Gross Weight Limit": 3814
+               "Unladen Weight": "2943 lbs (1335 kg)",
+               "Gross Weight Limit": "3814 lbs (1730 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28,
-               "Highway": 37
+               "City": "28 mpg US (8.4 L/100Km)",
+               "Highway": "37 mpg US (6.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SCION iM 2016-201705-03-07-10-35.jpg"
 },{
      "model_name": "SCION iQ 2011-2016",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3 CVT (98 HP)": {
                "Cylinders": "4",
-               "Displacement": 1329,
+               "Displacement": "1329 cm3",
                "Power": "72 KW @ 6000 RPM\n98 HP @ 6000 RPM\n97 BHP @ 6000 RPM",
                "Torque": "91 lb-ft @ 4400 RPM\n123 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.6
+               "Top Speed": "106 mph (171 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -161,37 +164,38 @@
                "Tire Size": "175/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 117.5,
-               "Width": 66.1,
-               "Height": 59.1,
+               "Length": "117.5 in (2985 mm)",
+               "Width": "66.1 in (1679 mm)",
+               "Height": "59.1 in (1501 mm)",
                "Front/rear Track": "58.3/57.5 in (1,481/1,461 mm)",
-               "Wheelbase": 78.7,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 3.5
+               "Wheelbase": "78.7 in (1999 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "3.5 cuFT (99 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2216,
-               "Gross Weight Limit": 2800
+               "Unladen Weight": "2216 lbs (1005 kg)",
+               "Gross Weight Limit": "2800 lbs (1270 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 36,
-               "Highway": 37,
-               "Combined": 37
+               "City": "36 mpg US (6.5 L/100Km)",
+               "Highway": "37 mpg US (6.4 L/100Km)",
+               "Combined": "37 mpg US (6.4 L/100Km)"
           }
-     }
+     },
+     "img": "images/SCION iQ 2011-201605-03-07-10-37.jpg"
 },{
      "model_name": "SCION tC 2013-2016",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5 6AT (180 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2494,
+               "Displacement": "2494 cm3",
                "Power": "134 KW @ 6000 RPM\n182 HP @ 6000 RPM\n180 BHP @ 6000 RPM",
                "Torque": "173 lb-ft @ 4100 RPM\n235 Nm @ 4100 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": 7.4
+               "Acceleration 0-62 Mph (0-100 kph)": "7.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -205,36 +209,37 @@
                "Tire Size": "225/45R18"
           },
           "DIMENSIONS": {
-               "Length": 174,
-               "Width": 70.7,
-               "Height": 55.7,
+               "Length": "174 in (4420 mm)",
+               "Width": "70.7 in (1796 mm)",
+               "Height": "55.7 in (1415 mm)",
                "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 14.7,
-               "Aerodynamics (Cd)": 0.325
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "14.7 cuFT (416 L)",
+               "Aerodynamics (Cd)": "0.325"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3115
+               "Unladen Weight": "3115 lbs (1413 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23,
-               "Highway": 31,
-               "Combined": 26
+               "City": "23 mpg US (10.2 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)",
+               "Combined": "26 mpg US (9 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SCION tC 2013-201605-03-07-10-39.jpg"
 },{
      "model_name": "SCION tC 2003-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L VVTI 4AT (163 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2362,
+               "Displacement": "2362 cm3",
                "Power": "120 KW @ 6000 RPM\n163 HP @ 6000 RPM\n161 BHP @ 6000 RPM",
                "Torque": "162 lb-ft @ 4000 RPM\n220 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -248,38 +253,39 @@
                "Tire Size": "215/45Z R17"
           },
           "DIMENSIONS": {
-               "Length": 174,
-               "Width": 66.9,
-               "Height": 55.7,
+               "Length": "174 in (4420 mm)",
+               "Width": "66.9 in (1699 mm)",
+               "Height": "55.7 in (1415 mm)",
                "Front/rear Track": "59.3/59.3 in (1,506/1,506 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 5.2,
-               "Cargo Volume": 12.8,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "5.2 in (132 mm)",
+               "Cargo Volume": "12.8 cuFT (362 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2987
+               "Unladen Weight": "2987 lbs (1355 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21,
-               "Highway": 29
+               "City": "21 mpg US (11.2 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SCION tC 2003-201005-03-07-10-41.jpg"
 },{
      "model_name": "2004 Scion xA",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5 VVTI 4AT (105 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1496,
+               "Displacement": "1496 cm3",
                "Power": "77 KW @ 6000 RPM\n105 HP @ 6000 RPM\n103 BHP @ 6000 RPM",
                "Torque": "101 lb-ft @ 4200 RPM\n137 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+               "Top Speed": "109 mph (175 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -293,35 +299,36 @@
                "Tire Size": "185/60 R15"
           },
           "DIMENSIONS": {
-               "Length": 154,
-               "Width": 66.7,
-               "Height": 60.2,
+               "Length": "154 in (3912 mm)",
+               "Width": "66.7 in (1694 mm)",
+               "Height": "60.2 in (1529 mm)",
                "Front/rear Track": "57.3/56.3 in (1,455/1,430 mm)",
-               "Wheelbase": 93.3,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 11.7,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "93.3 in (2370 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "11.7 cuFT (331 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2340
+               "Unladen Weight": "2340 lbs (1061 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.9,
-               "Highway": 37.9
+               "City": "30.9 mpg US (7.6 L/100Km)",
+               "Highway": "37.9 mpg US (6.2 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/2004 Scion xA05-03-07-10-43.jpg"
 },{
      "model_name": "SCION xB 2007-2015",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 4AT (158 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2362,
+               "Displacement": "2362 cm3",
                "Power": "118 KW @ 5700 RPM\n160 HP @ 5700 RPM\n158 BHP @ 5700 RPM",
                "Torque": "162 lb-ft @ 4000 RPM\n220 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -335,37 +342,38 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 167.3,
-               "Width": 69.3,
-               "Height": 64.6,
+               "Length": "167.3 in (4249 mm)",
+               "Width": "69.3 in (1760 mm)",
+               "Height": "64.6 in (1641 mm)",
                "Front/rear Track": "60/59.8 in (1,524/1,519 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 21.7,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "21.7 cuFT (614 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3084
+               "Unladen Weight": "3084 lbs (1399 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22,
-               "Highway": 28,
-               "Combined": 24,
-               "CO2 Emissions": 233.2
+               "City": "22 mpg US (10.7 L/100Km)",
+               "Highway": "28 mpg US (8.4 L/100Km)",
+               "Combined": "24 mpg US (9.8 L/100Km)",
+               "CO2 Emissions": "233.2 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SCION xB 2007-201505-03-07-10-45.jpg"
 },{
      "model_name": "SCION xB 2003-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L VVTI 4AT (108 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1496,
+               "Displacement": "1496 cm3",
                "Power": "79.4 KW @ 6000 RPM\n108 HP @ 6000 RPM\n106 BHP @ 6000 RPM",
                "Torque": "101 lb-ft @ 4200 RPM\n137 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -379,35 +387,36 @@
                "Tire Size": "185/60 R15"
           },
           "DIMENSIONS": {
-               "Length": 155.3,
-               "Width": 66.5,
-               "Height": 64.6,
+               "Length": "155.3 in (3945 mm)",
+               "Width": "66.5 in (1689 mm)",
+               "Height": "64.6 in (1641 mm)",
                "Front/rear Track": "57.3/56.3 in (1,455/1,430 mm)",
-               "Wheelbase": 98.4,
-               "Ground Clearance": 6.1,
-               "Cargo Volume": 21.2
+               "Wheelbase": "98.4 in (2499 mm)",
+               "Ground Clearance": "6.1 in (155 mm)",
+               "Cargo Volume": "21.2 cuFT (600 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3020,
-               "Gross Weight Limit": 3968
+               "Unladen Weight": "3020 lbs (1370 kg)",
+               "Gross Weight Limit": "3968 lbs (1800 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/SCION xB 2003-200705-03-07-10-47.jpg"
 },{
      "model_name": "SCION xD 2007-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 4AT (128 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1798,
+               "Displacement": "1798 cm3",
                "Power": "95 KW @ 6000 RPM\n129 HP @ 6000 RPM\n127 BHP @ 6000 RPM",
                "Torque": "125 lb-ft @ 4400 RPM\n169 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.6
+               "Fuel capacity": "11.6 gallons (43.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 116,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+               "Top Speed": "116 mph (187 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -421,25 +430,26 @@
                "Tire Size": "195/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 154.9,
-               "Width": 67.9,
-               "Height": 60,
+               "Length": "154.9 in (3934 mm)",
+               "Width": "67.9 in (1725 mm)",
+               "Height": "60 in (1524 mm)",
                "Front/rear Track": "58.5/58.7 in (1,486/1,491 mm)",
-               "Wheelbase": 96.9,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 10.5,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "96.9 in (2461 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "10.5 cuFT (297 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2657,
-               "Gross Weight Limit": 3649
+               "Unladen Weight": "2657 lbs (1205 kg)",
+               "Gross Weight Limit": "3649 lbs (1655 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26,
-               "Highway": 32,
-               "Combined": 28
+               "City": "26 mpg US (9 L/100Km)",
+               "Highway": "32 mpg US (7.4 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SCION xD 2007-201405-03-07-10-49.jpg"
 },	
  ] } 

@@ -2,16 +2,16 @@
 {
      "model_name": "MARUSSIA B1 2010-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.8L TURBO (360 HP)": {
                "Cylinders": "v6, turbocharged",
-               "Displacement": 2800,
+               "Displacement": "2800 cm3",
                "Power": "269 KW @ - RPM\n360 HP @ - RPM\n361 BHP @ - RPM",
                "Torque": "384 lb-ft @ 4000 RPM\n521 Nm @ 4000 RPM",
                "Fuel System": "direct petrol injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155
+               "Top Speed": "155 mph (249 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -25,29 +25,30 @@
                "Tire Size": "245/35 R20; 285/35 R20"
           },
           "DIMENSIONS": {
-               "Length": 182.5,
-               "Width": 78.7,
-               "Height": 43.3
+               "Length": "182.5 in (4636 mm)",
+               "Width": "78.7 in (1999 mm)",
+               "Height": "43.3 in (1100 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2425
+               "Unladen Weight": "2425 lbs (1100 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/MARUSSIA B1 2010-Present05-03-05-40-18.jpg"
 },{
      "model_name": "MARUSSIA B2 2010-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.8L TURBO 6AT RWD (360 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2800,
+               "Displacement": "2800 cm3",
                "Power": "269 KW @ - RPM\n366 HP @ - RPM\n361 BHP @ - RPM",
                "Torque": "384 lb-ft @ 4000 RPM\n521 Nm @ 4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21.1
+               "Fuel capacity": "21.1 gallons (79.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155
+               "Top Speed": "155 mph (249 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -61,14 +62,15 @@
                "Tire Size": "245/35 R20; 285/35 R20"
           },
           "DIMENSIONS": {
-               "Length": 182.5,
-               "Width": 78.7,
-               "Height": 43.3
+               "Length": "182.5 in (4636 mm)",
+               "Width": "78.7 in (1999 mm)",
+               "Height": "43.3 in (1100 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2425
+               "Unladen Weight": "2425 lbs (1100 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/MARUSSIA B2 2010-Present05-03-05-40-20.jpg"
 },	
  ] } 

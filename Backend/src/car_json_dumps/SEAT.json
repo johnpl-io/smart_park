@@ -2,18 +2,18 @@
 {
      "model_name": "SEAT Arona 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L ECOTSI 5MT (95 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "69.9 KW @ 5000-5500 RPM\n95 HP @ 5000-5500 RPM\n94 BHP @ 5000-5500 RPM",
                "Torque": "129 lb-ft @ 2000-3500 RPM\n175 Nm @ 2000-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 113,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+               "Top Speed": "113 mph (182 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -27,45 +27,46 @@
                "Tire Size": "205/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 163.5,
-               "Width": 70.1,
-               "Height": 61.1,
+               "Length": "163.5 in (4153 mm)",
+               "Width": "70.1 in (1781 mm)",
+               "Height": "61.1 in (1552 mm)",
                "Front/rear Track": "59.6/58.9 in (1,514/1,496 mm)",
-               "Wheelbase": 101,
-               "Cargo Volume": 14.1,
-               "Turning circle": 34.8
+               "Wheelbase": "101 in (2565 mm)",
+               "Cargo Volume": "14.1 cuFT (399 L)",
+               "Turning circle": "34.8 ft (10.6 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2447,
-               "Gross Weight Limit": 3770
+               "Unladen Weight": "2447 lbs (1110 kg)",
+               "Gross Weight Limit": "3770 lbs (1710 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 40.6,
-               "Highway": 53.5,
-               "Combined": 48,
-               "CO2 Emissions": 113
+               "City": "40.6 mpg US (5.8 L/100Km)",
+               "Highway": "53.5 mpg US (4.4 L/100Km)",
+               "Combined": "48 mpg US (4.9 L/100Km)",
+               "CO2 Emissions": "113 g/km"
           },
           "FUEL ECONOMY (WLTP)": {
-               "Combined": 43.6,
+               "Combined": "43.6 mpg US (5.4 L/100Km)",
                "CO2 Emissions (Combined)": "123 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Arona 2021-Present05-03-07-10-52.jpg"
 },{
      "model_name": "SEAT Arona 2017-2021",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L ECOTSI 5MT (95 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "69.9 KW @ 5000-5500 RPM\n95 HP @ 5000-5500 RPM\n94 BHP @ 5000-5500 RPM",
                "Torque": "129 lb-ft @ 2000-3500 RPM\n175 Nm @ 2000-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 107,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.4
+               "Top Speed": "107 mph (172 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -79,40 +80,41 @@
                "Tire Size": "205/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 162.9,
-               "Width": 70.1,
-               "Height": 61.1,
+               "Length": "162.9 in (4138 mm)",
+               "Width": "70.1 in (1781 mm)",
+               "Height": "61.1 in (1552 mm)",
                "Front/rear Track": "59.2/58.5 in (1,504/1,486 mm)",
-               "Wheelbase": 101,
-               "Ground Clearance": 7.5,
-               "Cargo Volume": 14.1
+               "Wheelbase": "101 in (2565 mm)",
+               "Ground Clearance": "7.5 in (191 mm)",
+               "Cargo Volume": "14.1 cuFT (399 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2822
+               "Unladen Weight": "2822 lbs (1280 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 38.6,
-               "Highway": 56,
-               "Combined": 48,
-               "CO2 Emissions": 111
+               "City": "38.6 mpg US (6.1 L/100Km)",
+               "Highway": "56 mpg US (4.2 L/100Km)",
+               "Combined": "48 mpg US (4.9 L/100Km)",
+               "CO2 Emissions": "111 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Arona 2017-202105-03-07-10-55.jpg"
 },{
      "model_name": "SEAT Ibiza 5 Doors 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L MPI 5MT (80 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "58.8 KW @ 6300 RPM\n80 HP @ 6300 RPM\n79 BHP @ 6300 RPM",
                "Torque": "69 lb-ft @ 3750 RPM\n93 Nm @ 3750 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.3
+               "Top Speed": "106 mph (171 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -126,45 +128,46 @@
                "Tire Size": "185/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 159.8,
-               "Width": 70.1,
-               "Height": 56.9,
+               "Length": "159.8 in (4059 mm)",
+               "Width": "70.1 in (1781 mm)",
+               "Height": "56.9 in (1445 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 100.9,
-               "Cargo Volume": 12.5,
-               "Turning circle": 34.8
+               "Wheelbase": "100.9 in (2563 mm)",
+               "Cargo Volume": "12.5 cuFT (354 L)",
+               "Turning circle": "34.8 ft (10.6 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2260,
-               "Gross Weight Limit": 3594
+               "Unladen Weight": "2260 lbs (1025 kg)",
+               "Gross Weight Limit": "3594 lbs (1630 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 42,
-               "Highway": 56,
-               "Combined": 50,
-               "CO2 Emissions": 107
+               "City": "42 mpg US (5.6 L/100Km)",
+               "Highway": "56 mpg US (4.2 L/100Km)",
+               "Combined": "50 mpg US (4.7 L/100Km)",
+               "CO2 Emissions": "107 g/km"
           },
           "FUEL ECONOMY (WLTP)": {
-               "Combined": 43.6,
+               "Combined": "43.6 mpg US (5.4 L/100Km)",
                "CO2 Emissions (Combined)": "122 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 5 Doors 2021-Present05-03-07-10-57.jpg"
 },{
      "model_name": "SEAT Ibiza 5-doors 2017-2021",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L MPI 5MT (65 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "47.8 KW @ 5000-6000 RPM\n65 HP @ 5000-6000 RPM\n64 BHP @ 5000-6000 RPM",
                "Torque": "70 lb-ft @ 3000-4300 RPM\n95 Nm @ 3000-4300 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 101,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.7
+               "Top Speed": "101 mph (163 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -175,34 +178,35 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 159.8,
-               "Width": 76.5,
-               "Height": 56.9,
+               "Length": "159.8 in (4059 mm)",
+               "Width": "76.5 in (1943 mm)",
+               "Height": "56.9 in (1445 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 100.9,
-               "Cargo Volume": 1.4
+               "Wheelbase": "100.9 in (2563 mm)",
+               "Cargo Volume": "1.4 cuFT (40 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2405,
-               "Gross Weight Limit": 3616
+               "Unladen Weight": "2405 lbs (1091 kg)",
+               "Gross Weight Limit": "3616 lbs (1640 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 5-doors 2017-202105-03-07-11-01.jpg"
 },{
      "model_name": "SEAT Ibiza 5 Doors 2008-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT FWD (60 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1198,
+               "Displacement": "1198 cm3",
                "Power": "44 KW @ 5200 RPM\n60 HP @ 5200 RPM\n59 BHP @ 5200 RPM",
                "Torque": "80 lb-ft @ 3000 RPM\n108 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 96,
-               "Acceleration 0-62 Mph (0-100 kph)": 16.3
+               "Top Speed": "96 mph (154 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "16.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -216,40 +220,41 @@
                "Tire Size": "175/70 R14"
           },
           "DIMENSIONS": {
-               "Length": 159.5,
-               "Width": 66.7,
-               "Height": 56.9,
+               "Length": "159.5 in (4051 mm)",
+               "Width": "66.7 in (1694 mm)",
+               "Height": "56.9 in (1445 mm)",
                "Front/rear Track": "57.7/57.4 in (1,466/1,458 mm)",
-               "Wheelbase": 97.2,
-               "Cargo Volume": 10.3
+               "Wheelbase": "97.2 in (2469 mm)",
+               "Cargo Volume": "10.3 cuFT (292 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2202,
-               "Gross Weight Limit": 3307
+               "Unladen Weight": "2202 lbs (999 kg)",
+               "Gross Weight Limit": "3307 lbs (1500 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 32.2,
-               "Highway": 52.2,
-               "Combined": 42.7,
-               "CO2 Emissions": 128
+               "City": "32.2 mpg US (7.3 L/100Km)",
+               "Highway": "52.2 mpg US (4.5 L/100Km)",
+               "Combined": "42.7 mpg US (5.5 L/100Km)",
+               "CO2 Emissions": "128 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 5 Doors 2008-201705-03-07-11-04.jpg"
 },{
      "model_name": "SEAT Ibiza 5 Doors 2006-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT FWD (64 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1198,
+               "Displacement": "1198 cm3",
                "Power": "47 KW @ 5400 RPM\n64 HP @ 5400 RPM\n63 BHP @ 5400 RPM",
                "Torque": "83 lb-ft @ 3000 RPM\n113 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 103,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.9
+               "Top Speed": "103 mph (166 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -263,40 +268,41 @@
                "Tire Size": "195/55R15"
           },
           "DIMENSIONS": {
-               "Length": 155.6,
-               "Width": 66.9,
-               "Height": 56.7,
+               "Length": "155.6 in (3952 mm)",
+               "Width": "66.9 in (1699 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "55.9/55.4 in (1,420/1,407 mm)",
-               "Wheelbase": 96.9,
-               "Cargo Volume": 9.4
+               "Wheelbase": "96.9 in (2461 mm)",
+               "Cargo Volume": "9.4 cuFT (266 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2244.3,
-               "Gross Weight Limit": 3390.7
+               "Unladen Weight": "2244.3 lbs (1018 kg)",
+               "Gross Weight Limit": "3390.7 lbs (1538 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.9,
-               "Highway": 46.1,
-               "Combined": 39.9,
-               "CO2 Emissions": 142
+               "City": "30.9 mpg US (7.6 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "39.9 mpg US (5.9 L/100Km)",
+               "CO2 Emissions": "142 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 5 Doors 2006-200805-03-07-11-08.jpg"
 },{
      "model_name": "SEAT Ibiza 5 Doors 2002-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT FWD (64 HP": {
                "Cylinders": "L3",
-               "Displacement": 1198,
+               "Displacement": "1198 cm3",
                "Power": "47 KW @ 5400 RPM\n64 HP @ 5400 RPM\n63 BHP @ 5400 RPM",
                "Torque": "83 lb-ft @ 3000 RPM\n113 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 103,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.9
+               "Top Speed": "103 mph (166 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -310,42 +316,43 @@
                "Tire Size": "195/55R15"
           },
           "DIMENSIONS": {
-               "Length": 155.6,
-               "Width": 66.9,
-               "Height": 56.7,
+               "Length": "155.6 in (3952 mm)",
+               "Width": "66.9 in (1699 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "55.9/55.4 in (1,420/1,407 mm)",
-               "Wheelbase": 96.9,
-               "Ground Clearance": 4.3,
-               "Cargo Volume": 9.4,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "96.9 in (2461 mm)",
+               "Ground Clearance": "4.3 in (109 mm)",
+               "Cargo Volume": "9.4 cuFT (266 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2244.3,
-               "Gross Weight Limit": 3390.7
+               "Unladen Weight": "2244.3 lbs (1018 kg)",
+               "Gross Weight Limit": "3390.7 lbs (1538 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.9,
-               "Highway": 46.1,
-               "Combined": 39.9,
-               "CO2 Emissions": 142
+               "City": "30.9 mpg US (7.6 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "39.9 mpg US (5.9 L/100Km)",
+               "CO2 Emissions": "142 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 5 Doors 2002-200605-03-07-11-12.jpg"
 },{
      "model_name": "SEAT Ibiza 5 Doors 1999-2002",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 16V 5MT FWD (75 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1391,
+               "Displacement": "1391 cm3",
                "Power": "55 KW @ 5000 RPM\n75 HP @ 5000 RPM\n74 BHP @ 5000 RPM",
                "Torque": "93 lb-ft @ 3300 RPM\n126 Nm @ 3300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 105.6,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+               "Top Speed": "105.6 mph (170 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -359,40 +366,41 @@
                "Tire Size": "175/70R13"
           },
           "DIMENSIONS": {
-               "Length": 152.7,
-               "Width": 64.6,
-               "Height": 55.9,
+               "Length": "152.7 in (3879 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
-               "Wheelbase": 96.1,
-               "Cargo Volume": 8.8
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Cargo Volume": "8.8 cuFT (249 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2211.2,
-               "Gross Weight Limit": 3280.5
+               "Unladen Weight": "2211.2 lbs (1003 kg)",
+               "Gross Weight Limit": "3280.5 lbs (1488 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28,
-               "Highway": 44.4,
-               "Combined": 36.7,
-               "CO2 Emissions": 152.3
+               "City": "28 mpg US (8.4 L/100Km)",
+               "Highway": "44.4 mpg US (5.3 L/100Km)",
+               "Combined": "36.7 mpg US (6.4 L/100Km)",
+               "CO2 Emissions": "152.3 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 5 Doors 1999-200205-03-07-11-15.jpg"
 },{
      "model_name": "SEAT Ibiza 5 Doors 1996-1999",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT FWD (50 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1000,
+               "Displacement": "1000 cm3",
                "Power": "37 KW @ 5000 RPM\n50 HP @ 5000 RPM\n50 BHP @ 5000 RPM",
                "Torque": "63 lb-ft @ 3200 RPM\n86 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 90.1,
-               "Acceleration 0-62 Mph (0-100 kph)": 19.4
+               "Top Speed": "90.1 mph (145 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "19.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -406,42 +414,43 @@
                "Tire Size": "155R13"
           },
           "DIMENSIONS": {
-               "Length": 151.6,
-               "Width": 64.6,
-               "Height": 55.9,
+               "Length": "151.6 in (3851 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/55.9 in (1,430/1,420 mm)",
-               "Wheelbase": 96.1,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 9.5,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "9.5 cuFT (269 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2006.2,
-               "Gross Weight Limit": 3064.4
+               "Unladen Weight": "2006.2 lbs (910 kg)",
+               "Gross Weight Limit": "3064.4 lbs (1390 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.2,
-               "Highway": 47,
-               "Combined": 39.2,
-               "CO2 Emissions": 142.8
+               "City": "30.2 mpg US (7.8 L/100Km)",
+               "Highway": "47 mpg US (5 L/100Km)",
+               "Combined": "39.2 mpg US (6 L/100Km)",
+               "CO2 Emissions": "142.8 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 5 Doors 1996-199905-03-07-11-18.jpg"
 },{
      "model_name": "SEAT Ibiza 5 Doors 1993-1996",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 5MT (54 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1272,
+               "Displacement": "1272 cm3",
                "Power": "40 KW @ 5000 RPM\n54 HP @ 5000 RPM\n54 BHP @ 5000 RPM",
                "Torque": "70 lb-ft @ 3200 RPM\n95 Nm @ 3200 RPM",
                "Fuel System": "Monopoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93.8,
-               "Acceleration 0-62 Mph (0-100 kph)": 16.8
+               "Top Speed": "93.8 mph (151 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "16.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -455,29 +464,30 @@
                "Tire Size": "185/60/R14"
           },
           "DIMENSIONS": {
-               "Length": 150,
-               "Width": 64.6,
-               "Height": 55.9,
+               "Length": "150 in (3810 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/55.9 in (1,430/1,420 mm)",
-               "Wheelbase": 96.1,
-               "Cargo Volume": 9.5
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Cargo Volume": "9.5 cuFT (269 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1951.1,
-               "Gross Weight Limit": 3020.3
+               "Unladen Weight": "1951.1 lbs (885 kg)",
+               "Gross Weight Limit": "3020.3 lbs (1370 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 33.6,
-               "CO2 Emissions": 166.6
+               "Combined": "33.6 mpg US (7 L/100Km)",
+               "CO2 Emissions": "166.6 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 5 Doors 1993-199605-03-07-11-21.jpg"
 },{
      "model_name": "2020 Seat Leon Hatchback",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L TSI (110 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "80.9 KW @ - RPM\n110 HP @ - RPM\n108 BHP @ - RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
@@ -490,29 +500,30 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 172,
-               "Width": 70.9,
-               "Height": 57.3,
-               "Wheelbase": 105.7,
-               "Cargo Volume": 13.4
+               "Length": "172 in (4369 mm)",
+               "Width": "70.9 in (1801 mm)",
+               "Height": "57.3 in (1455 mm)",
+               "Wheelbase": "105.7 in (2685 mm)",
+               "Cargo Volume": "13.4 cuFT (379 L)"
           },
           "": {}
-     }
+     },
+     "img": "images/2020 Seat Leon Hatchback05-03-07-11-24.jpg"
 },{
      "model_name": "2012 SEAT Leon",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L TSI 6MT FWD (110 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1197,
+               "Displacement": "1197 cm3",
                "Power": "81 KW @ 4600-5600 RPM\n110 HP @ 4600-5600 RPM\n109 BHP @ 4600-5600 RPM",
                "Torque": "129 lb-ft @ 1400-4000 RPM\n175 Nm @ 1400-4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 121,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.9
+               "Top Speed": "121 mph (195 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -526,42 +537,43 @@
                "Tire Size": "205/55 R16 91V"
           },
           "DIMENSIONS": {
-               "Length": 167.8,
-               "Width": 71.5,
-               "Height": 57.4,
+               "Length": "167.8 in (4262 mm)",
+               "Width": "71.5 in (1816 mm)",
+               "Height": "57.4 in (1458 mm)",
                "Front/rear Track": "61/59.8 in (1,549/1,519 mm)",
-               "Wheelbase": 103.8,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 13.4,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "103.8 in (2637 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "13.4 cuFT (379 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2674,
-               "Gross Weight Limit": 3836
+               "Unladen Weight": "2674 lbs (1213 kg)",
+               "Gross Weight Limit": "3836 lbs (1740 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 38.6,
-               "Highway": 56,
-               "Combined": 48,
-               "CO2 Emissions": 114
+               "City": "38.6 mpg US (6.1 L/100Km)",
+               "Highway": "56 mpg US (4.2 L/100Km)",
+               "Combined": "48 mpg US (4.9 L/100Km)",
+               "CO2 Emissions": "114 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2012 SEAT Leon05-03-07-11-29.jpg"
 },{
      "model_name": "SEAT Leon 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 5MT FWD (85 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1390,
+               "Displacement": "1390 cm3",
                "Power": "63 KW @ 5000 RPM\n86 HP @ 5000 RPM\n84 BHP @ 5000 RPM",
                "Torque": "97 lb-ft @ 3800 RPM\n132 Nm @ 3800 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 107,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.7
+               "Top Speed": "107 mph (172 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -575,41 +587,42 @@
                "Tire Size": "195/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 169.9,
-               "Width": 69.6,
-               "Height": 57.3,
+               "Length": "169.9 in (4315 mm)",
+               "Width": "69.6 in (1768 mm)",
+               "Height": "57.3 in (1455 mm)",
                "Front/rear Track": "60.6/59.7 in (1,539/1,516 mm)",
-               "Wheelbase": 101.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 12,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "101.5 in (2578 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "12 cuFT (340 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2592,
-               "Gross Weight Limit": 3849
+               "Unladen Weight": "2592 lbs (1176 kg)",
+               "Gross Weight Limit": "3849 lbs (1746 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 27.3,
-               "Highway": 45.2,
-               "Combined": 36.2,
-               "CO2 Emissions": 154
+               "City": "27.3 mpg US (8.6 L/100Km)",
+               "Highway": "45.2 mpg US (5.2 L/100Km)",
+               "Combined": "36.2 mpg US (6.5 L/100Km)",
+               "CO2 Emissions": "154 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Leon 2009-201205-03-07-11-33.jpg"
 },{
      "model_name": "SEAT Leon 2005-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 5MT FWD (85 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1390,
+               "Displacement": "1390 cm3",
                "Power": "63 KW @ 5000 RPM\n85 HP @ 5000 RPM\n84 BHP @ 5000 RPM",
                "Torque": "96 lb-ft @ 3600 RPM\n130 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106.8,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.7
+               "Top Speed": "106.8 mph (172 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -623,41 +636,42 @@
                "Tire Size": "205/50 R16"
           },
           "DIMENSIONS": {
-               "Length": 169.9,
-               "Width": 69.6,
-               "Height": 57.4,
+               "Length": "169.9 in (4315 mm)",
+               "Width": "69.6 in (1768 mm)",
+               "Height": "57.4 in (1458 mm)",
                "Front/rear Track": "60.4/59.7 in (1,534/1,516 mm)",
-               "Wheelbase": 101.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 12,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "101.5 in (2578 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "12 cuFT (340 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2537.5,
-               "Gross Weight Limit": 3849.3
+               "Unladen Weight": "2537.5 lbs (1151 kg)",
+               "Gross Weight Limit": "3849.3 lbs (1746 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24.5,
-               "Highway": 41.3,
-               "Combined": 33.1,
-               "CO2 Emissions": 170
+               "City": "24.5 mpg US (9.6 L/100Km)",
+               "Highway": "41.3 mpg US (5.7 L/100Km)",
+               "Combined": "33.1 mpg US (7.1 L/100Km)",
+               "CO2 Emissions": "170 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Leon 2005-200905-03-07-11-36.jpg"
 },{
      "model_name": "SEAT Leon 2000-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 16V 5MT FWD (75 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1391,
+               "Displacement": "1391 cm3",
                "Power": "55 KW @ 5000 RPM\n75 HP @ 5000 RPM\n74 BHP @ 5000 RPM",
                "Torque": "94 lb-ft @ 3300 RPM\n127 Nm @ 3300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.6
+               "Top Speed": "106 mph (171 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -671,33 +685,34 @@
                "Tire Size": "195/65R15"
           },
           "DIMENSIONS": {
-               "Length": 164.7,
-               "Width": 68.6,
-               "Height": 56.7,
+               "Length": "164.7 in (4183 mm)",
+               "Width": "68.6 in (1742 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "59.1/58.3 in (1,501/1,481 mm)",
-               "Wheelbase": 98.9,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 12,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "98.9 in (2512 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "12 cuFT (340 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2504.5,
-               "Gross Weight Limit": 3706
+               "Unladen Weight": "2504.5 lbs (1136 kg)",
+               "Gross Weight Limit": "3706 lbs (1681 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 27.7,
-               "Highway": 43.5,
-               "Combined": 35.2,
-               "CO2 Emissions": 161
+               "City": "27.7 mpg US (8.5 L/100Km)",
+               "Highway": "43.5 mpg US (5.4 L/100Km)",
+               "Combined": "35.2 mpg US (6.7 L/100Km)",
+               "CO2 Emissions": "161 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Leon 2000-200605-03-07-11-40.jpg"
 },{
      "model_name": "SEAT Ateca 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L TSI 6MT (110 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "80.9 KW @ - RPM\n110 HP @ - RPM\n108 BHP @ - RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
@@ -711,31 +726,32 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 171.8,
-               "Width": 72.5,
-               "Height": 63,
+               "Length": "171.8 in (4364 mm)",
+               "Width": "72.5 in (1842 mm)",
+               "Height": "63 in (1600 mm)",
                "Front/rear Track": "62/61.9 in (1,575/1,572 mm)",
-               "Wheelbase": 103.9,
-               "Ground Clearance": 7.4,
-               "Cargo Volume": 18
+               "Wheelbase": "103.9 in (2639 mm)",
+               "Ground Clearance": "7.4 in (188 mm)",
+               "Cargo Volume": "18 cuFT (510 L)"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ateca 2020-Present05-03-07-11-43.jpg"
 },{
      "model_name": "SEAT Ateca 2016-2020",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L TSI 6MT (115 HP)": {
                "Cylinders": "L4",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "84.6 KW @ 5000-5500 RPM\n115 HP @ 5000-5500 RPM\n113 BHP @ 5000-5500 RPM",
                "Torque": "148 lb-ft @ 2000-3500 RPM\n200 Nm @ 2000-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 114,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+               "Top Speed": "114 mph (183 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -749,32 +765,33 @@
                "Tire Size": "215/55 R17"
           },
           "DIMENSIONS": {
-               "Length": 171.8,
-               "Width": 72.5,
-               "Height": 63,
+               "Length": "171.8 in (4364 mm)",
+               "Width": "72.5 in (1842 mm)",
+               "Height": "63 in (1600 mm)",
                "Front/rear Track": "62/61.9 in (1,575/1,572 mm)",
-               "Wheelbase": 103.9,
-               "Ground Clearance": 7.4,
-               "Cargo Volume": 18,
-               "Aerodynamics (Cd)": 0.36
+               "Wheelbase": "103.9 in (2639 mm)",
+               "Ground Clearance": "7.4 in (188 mm)",
+               "Cargo Volume": "18 cuFT (510 L)",
+               "Aerodynamics (Cd)": "0.36"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2822,
-               "Gross Weight Limit": 4034
+               "Unladen Weight": "2822 lbs (1280 kg)",
+               "Gross Weight Limit": "4034 lbs (1830 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 45.2,
-               "CO2 Emissions": 119
+               "Combined": "45.2 mpg US (5.2 L/100Km)",
+               "CO2 Emissions": "119 g/km"
           },
           "NOTES": {},
           "": {}
-     }
+     },
+     "img": "images/SEAT Ateca 2016-202005-03-07-11-46.jpg"
 },{
      "model_name": "2020 SEAT Leon Sportstourer",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L TSI (110 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "80.9 KW @ - RPM\n110 HP @ - RPM\n108 BHP @ - RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
@@ -787,29 +804,30 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 182.8,
-               "Width": 70.9,
-               "Height": 57,
-               "Wheelbase": 105.7,
-               "Cargo Volume": 21.8
+               "Length": "182.8 in (4643 mm)",
+               "Width": "70.9 in (1801 mm)",
+               "Height": "57 in (1448 mm)",
+               "Wheelbase": "105.7 in (2685 mm)",
+               "Cargo Volume": "21.8 cuFT (617 L)"
           },
           "": {}
-     }
+     },
+     "img": "images/2020 SEAT Leon Sportstourer05-03-07-11-49.jpg"
 },{
      "model_name": "2013 SEAT Leon ST",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L ECOTSI 5MT FWD (115 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "84.6 KW @ 5000-5500 RPM\n115 HP @ 5000-5500 RPM\n113 BHP @ 5000-5500 RPM",
                "Torque": "148 lb-ft @ 1500-3500 RPM\n200 Nm @ 1500-3500 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 126,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+               "Top Speed": "126 mph (203 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -820,67 +838,69 @@
                "Rear": "solid discs"
           },
           "DIMENSIONS": {
-               "Length": 178.5,
-               "Width": 71.5,
-               "Height": 57.3,
+               "Length": "178.5 in (4534 mm)",
+               "Width": "71.5 in (1816 mm)",
+               "Height": "57.3 in (1455 mm)",
                "Front/rear Track": "61/59.8 in (1,549/1,519 mm)",
-               "Wheelbase": 103.8,
-               "Cargo Volume": 20.7
+               "Wheelbase": "103.8 in (2637 mm)",
+               "Cargo Volume": "20.7 cuFT (586 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2705,
-               "Gross Weight Limit": 4079
+               "Unladen Weight": "2705 lbs (1227 kg)",
+               "Gross Weight Limit": "4079 lbs (1850 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 40.6,
-               "Highway": 56,
-               "Combined": 50,
-               "CO2 Emissions": 102
+               "City": "40.6 mpg US (5.8 L/100Km)",
+               "Highway": "56 mpg US (4.2 L/100Km)",
+               "Combined": "50 mpg US (4.7 L/100Km)",
+               "CO2 Emissions": "102 g/km"
           },
           "NOTES": {},
           "": {}
-     }
+     },
+     "img": "images/2013 SEAT Leon ST05-03-07-11-55.jpg"
 },{
      "model_name": "2019 SEAT Mii electric",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 61 KW (83 HP)": {
                "Power": "61 KW @ - RPM\n83 HP @ - RPM\n82 BHP @ - RPM",
                "Torque": "156 lb-ft @ - RPM\n212 Nm @ - RPM"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 81
+               "Top Speed": "81 mph (130 km/h)"
           },
           "BRAKES SPECS": {
                "Front": "Ventilated Discs",
                "Rear": "Drums"
           },
           "DIMENSIONS": {
-               "Length": 140,
-               "Width": 64.8,
-               "Height": 58.2,
-               "Wheelbase": 95.3,
-               "Cargo Volume": 8.8
+               "Length": "140 in (3556 mm)",
+               "Width": "64.8 in (1646 mm)",
+               "Height": "58.2 in (1478 mm)",
+               "Wheelbase": "95.3 in (2421 mm)",
+               "Cargo Volume": "8.8 cuFT (249 L)"
           },
           "POWER SYSTEM SPECS": {
-               "Nominal Capacity": 36.8,
-               "Range": 161.5
+               "Nominal Capacity": "36.8 kWh",
+               "Range": "161.5 miles (259.9 km)"
           },
           "NOTES": {}
-     }
+     },
+     "img": "images/2019 SEAT Mii electric05-03-07-11-56.jpg"
 },{
      "model_name": "SEAT Mii 5 doors 2012-2019",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5AT FWD (75 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "55 KW @ 6200 RPM\n74 HP @ 6200 RPM\n74 BHP @ 6200 RPM",
                "Torque": "70 lb-ft @ 3000-4300 RPM\n95 Nm @ 3000-4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106,
-               "Acceleration 0-62 Mph (0-100 kph)": 14
+               "Top Speed": "106 mph (171 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -894,38 +914,39 @@
                "Tire Size": "165/70R14"
           },
           "DIMENSIONS": {
-               "Length": 140,
-               "Width": 64.6,
-               "Height": 58.2,
+               "Length": "140 in (3556 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "58.2 in (1478 mm)",
                "Front/rear Track": "56.2/56.1 in (1,427/1,425 mm)",
-               "Wheelbase": 95.3,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 8.4
+               "Wheelbase": "95.3 in (2421 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "8.4 cuFT (238 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2055,
-               "Gross Weight Limit": 2844
+               "Unladen Weight": "2055 lbs (932 kg)",
+               "Gross Weight Limit": "2844 lbs (1290 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 52.3,
-               "CO2 Emissions": 105
+               "Combined": "52.3 mpg US (4.5 L/100Km)",
+               "CO2 Emissions": "105 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Mii 5 doors 2012-201905-03-07-11-58.jpg"
 },{
      "model_name": "SEAT Mii 3 doors 2011-2019",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5AT FWD (75 HP)": {
                "Cylinders": "3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "55 KW @ 6200 RPM\n75 HP @ 6200 RPM\n74 BHP @ 6200 RPM",
                "Torque": "70 lb-ft @ 3000-4300 RPM\n95 Nm @ 3000-4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106,
-               "Acceleration 0-62 Mph (0-100 kph)": 14
+               "Top Speed": "106 mph (171 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -936,39 +957,40 @@
                "Rear": "drums"
           },
           "DIMENSIONS": {
-               "Length": 140,
-               "Width": 64.6,
-               "Height": 58.2,
+               "Length": "140 in (3556 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "58.2 in (1478 mm)",
                "Front/rear Track": "56.2/56.1 in (1,427/1,425 mm)",
-               "Wheelbase": 95.3,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 8.4
+               "Wheelbase": "95.3 in (2421 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "8.4 cuFT (238 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2055,
-               "Gross Weight Limit": 2844
+               "Unladen Weight": "2055 lbs (932 kg)",
+               "Gross Weight Limit": "2844 lbs (1290 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 52.3,
-               "CO2 Emissions": 105
+               "Combined": "52.3 mpg US (4.5 L/100Km)",
+               "CO2 Emissions": "105 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Mii 3 doors 2011-201905-03-07-12-00.jpg"
 },{
      "model_name": "SEAT Leon SC 3-doors 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L TSI 6MT (115 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "84.6 KW @ 5000-5500 RPM\n115 HP @ 5000-5500 RPM\n113 BHP @ 5000-5500 RPM",
                "Torque": "148 lb-ft @ 3500 RPM\n200 Nm @ 3500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 123,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+               "Top Speed": "123 mph (198 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -982,38 +1004,39 @@
                "Tire Size": "195/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 167.2,
-               "Width": 71.3,
-               "Height": 56.9,
+               "Length": "167.2 in (4247 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "56.9 in (1445 mm)",
                "Front/rear Track": "61/59.8 in (1,549/1,519 mm)",
-               "Wheelbase": 81.1,
-               "Cargo Volume": 13.4
+               "Wheelbase": "81.1 in (2060 mm)",
+               "Cargo Volume": "13.4 cuFT (379 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2601,
-               "Gross Weight Limit": 3770
+               "Unladen Weight": "2601 lbs (1180 kg)",
+               "Gross Weight Limit": "3770 lbs (1710 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 53.5,
-               "CO2 Emissions": 102
+               "Combined": "53.5 mpg US (4.4 L/100Km)",
+               "CO2 Emissions": "102 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Leon SC 3-doors 2017-Present05-03-07-12-03.jpg"
 },{
      "model_name": "SEAT Leon SC 3-doors 2013-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L TSI 5MT FWD (86 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1197,
+               "Displacement": "1197 cm3",
                "Power": "63 KW @ 4800 RPM\n86 HP @ 4800 RPM\n84 BHP @ 4800 RPM",
                "Torque": "118 lb-ft @ 1500-3500 RPM\n160 Nm @ 1500-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 111,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.9
+               "Top Speed": "111 mph (179 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1027,42 +1050,43 @@
                "Tire Size": "205/55 R16 91V"
           },
           "DIMENSIONS": {
-               "Length": 166.5,
-               "Width": 71.3,
-               "Height": 57.5,
+               "Length": "166.5 in (4229 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "57.5 in (1461 mm)",
                "Front/rear Track": "61/59.8 in (1,549/1,519 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 13.4,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "13.4 cuFT (379 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2575,
-               "Gross Weight Limit": 3748
+               "Unladen Weight": "2575 lbs (1168 kg)",
+               "Gross Weight Limit": "3748 lbs (1700 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 36.2,
-               "Highway": 53.5,
-               "Combined": 45.2,
-               "CO2 Emissions": 119
+               "City": "36.2 mpg US (6.5 L/100Km)",
+               "Highway": "53.5 mpg US (4.4 L/100Km)",
+               "Combined": "45.2 mpg US (5.2 L/100Km)",
+               "CO2 Emissions": "119 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Leon SC 3-doors 2013-201705-03-07-12-08.jpg"
 },{
      "model_name": "SEAT Altea Freetrack 2009-2015",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L TSI 6MT FWD (125 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1390,
+               "Displacement": "1390 cm3",
                "Power": "91.9 KW @ 5600 RPM\n125 HP @ 5600 RPM\n123 BHP @ 5600 RPM",
                "Torque": "148 lb-ft @ 1750 RPM\n200 Nm @ 1750 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.9
+               "Fuel capacity": "15.9 gallons (60.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 117,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.9
+               "Top Speed": "117 mph (188 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1076,42 +1100,43 @@
                "Tire Size": "225/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 176.9,
-               "Width": 70.4,
-               "Height": 63.9,
+               "Length": "176.9 in (4493 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "63.9 in (1623 mm)",
                "Front/rear Track": "60.7/60.1 in (1,542/1,527 mm)",
-               "Wheelbase": 101.4,
-               "Ground Clearance": 7.3,
-               "Cargo Volume": 18.8,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "101.4 in (2576 mm)",
+               "Ground Clearance": "7.3 in (185 mm)",
+               "Cargo Volume": "18.8 cuFT (532 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3060,
-               "Gross Weight Limit": 4480
+               "Unladen Weight": "3060 lbs (1388 kg)",
+               "Gross Weight Limit": "4480 lbs (2032 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28.3,
-               "Highway": 42.8,
-               "Combined": 35.6,
-               "CO2 Emissions": 155
+               "City": "28.3 mpg US (8.3 L/100Km)",
+               "Highway": "42.8 mpg US (5.5 L/100Km)",
+               "Combined": "35.6 mpg US (6.6 L/100Km)",
+               "CO2 Emissions": "155 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Altea Freetrack 2009-201505-03-07-12-12.jpg"
 },{
      "model_name": "SEAT Altea XL 2009-2015",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L TSI 6MT (105 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1197,
+               "Displacement": "1197 cm3",
                "Power": "77.3 KW @ 5000 RPM\n105 HP @ 5000 RPM\n104 BHP @ 5000 RPM",
                "Torque": "129 lb-ft @ 1550 RPM\n175 Nm @ 1550 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 114,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.6
+               "Top Speed": "114 mph (183 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1125,42 +1150,43 @@
                "Tire Size": "205/55R16"
           },
           "DIMENSIONS": {
-               "Length": 175.9,
-               "Width": 69.6,
-               "Height": 62.2,
+               "Length": "175.9 in (4468 mm)",
+               "Width": "69.6 in (1768 mm)",
+               "Height": "62.2 in (1580 mm)",
                "Front/rear Track": "60.4/60 in (1,534/1,524 mm)",
-               "Wheelbase": 101.5,
-               "Ground Clearance": 7.1,
-               "Cargo Volume": 18.8,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "101.5 in (2578 mm)",
+               "Ground Clearance": "7.1 in (180 mm)",
+               "Cargo Volume": "18.8 cuFT (532 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2844,
-               "Gross Weight Limit": 4264
+               "Unladen Weight": "2844 lbs (1290 kg)",
+               "Gross Weight Limit": "4264 lbs (1934 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 32.2,
-               "Highway": 46.1,
-               "Combined": 39.9,
-               "CO2 Emissions": 139
+               "City": "32.2 mpg US (7.3 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "39.9 mpg US (5.9 L/100Km)",
+               "CO2 Emissions": "139 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Altea XL 2009-201505-03-07-12-16.jpg"
 },{
      "model_name": "SEAT Altea 2009-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L TSI 6MT FWD (105 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1197,
+               "Displacement": "1197 cm3",
                "Power": "77 KW @ 5000 RPM\n105 HP @ 5000 RPM\n103 BHP @ 5000 RPM",
                "Torque": "129 lb-ft @ 1550-4100 RPM\n175 Nm @ 1550-4100 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 114,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.3
+               "Top Speed": "114 mph (183 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1174,43 +1200,44 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 168.6,
-               "Width": 69.6,
-               "Height": 62,
+               "Length": "168.6 in (4282 mm)",
+               "Width": "69.6 in (1768 mm)",
+               "Height": "62 in (1575 mm)",
                "Front/rear Track": "60.4/59.5 in (1,534/1,511 mm)",
-               "Wheelbase": 101.5,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 14.4,
-               "Aerodynamics (Cd)": 0.34,
-               "Turning circle": 35.1
+               "Wheelbase": "101.5 in (2578 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "14.4 cuFT (408 L)",
+               "Aerodynamics (Cd)": "0.34",
+               "Turning circle": "35.1 ft (10.7 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2998,
-               "Gross Weight Limit": 4145
+               "Unladen Weight": "2998 lbs (1360 kg)",
+               "Gross Weight Limit": "4145 lbs (1880 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 34.1,
-               "Highway": 46.1,
-               "Combined": 41.3,
-               "CO2 Emissions": 132
+               "City": "34.1 mpg US (6.9 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "41.3 mpg US (5.7 L/100Km)",
+               "CO2 Emissions": "132 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Altea 2009-Present05-03-07-12-21.jpg"
 },{
      "model_name": "SEAT Altea Freetrack 2007-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L TFSI 6MT AWD (200 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1984,
+               "Displacement": "1984 cm3",
                "Power": "147 KW @ 5100 RPM\n200 HP @ 5100 RPM\n197 BHP @ 5100 RPM",
                "Torque": "207 lb-ft @ 1800 RPM\n280 Nm @ 1800 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.7
+               "Fuel capacity": "13.7 gallons (51.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 133,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+               "Top Speed": "133 mph (214 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1224,42 +1251,43 @@
                "Tire Size": "225/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 176.9,
-               "Width": 70.4,
-               "Height": 63.8,
+               "Length": "176.9 in (4493 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "63.8 in (1621 mm)",
                "Front/rear Track": "60.7/60.1 in (1,542/1,527 mm)",
-               "Wheelbase": 101.4,
-               "Ground Clearance": 7.3,
-               "Cargo Volume": 18.8,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "101.4 in (2576 mm)",
+               "Ground Clearance": "7.3 in (185 mm)",
+               "Cargo Volume": "18.8 cuFT (532 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3463.5,
-               "Gross Weight Limit": 4830.3
+               "Unladen Weight": "3463.5 lbs (1571 kg)",
+               "Gross Weight Limit": "4830.3 lbs (2191 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18.4,
-               "Highway": 31.8,
-               "Combined": 25,
-               "CO2 Emissions": 223
+               "City": "18.4 mpg US (12.8 L/100Km)",
+               "Highway": "31.8 mpg US (7.4 L/100Km)",
+               "Combined": "25 mpg US (9.4 L/100Km)",
+               "CO2 Emissions": "223 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Altea Freetrack 2007-200905-03-07-12-23.jpg"
 },{
      "model_name": "SEAT Altea XL 2006-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 5MT FWD (85 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1390,
+               "Displacement": "1390 cm3",
                "Power": "63 KW @ 5000 RPM\n86 HP @ 5000 RPM\n84 BHP @ 5000 RPM",
                "Torque": "96 lb-ft @ 3600 RPM\n130 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 105,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.1
+               "Top Speed": "105 mph (169 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1273,42 +1301,43 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 176,
-               "Width": 69.7,
-               "Height": 62.2,
+               "Length": "176 in (4470 mm)",
+               "Width": "69.7 in (1770 mm)",
+               "Height": "62.2 in (1580 mm)",
                "Front/rear Track": "60.2/59.8 in (1,529/1,519 mm)",
-               "Wheelbase": 101.6,
-               "Ground Clearance": 7.1,
-               "Cargo Volume": 18.8,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "101.6 in (2581 mm)",
+               "Ground Clearance": "7.1 in (180 mm)",
+               "Cargo Volume": "18.8 cuFT (532 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2877,
-               "Gross Weight Limit": 4299
+               "Unladen Weight": "2877 lbs (1305 kg)",
+               "Gross Weight Limit": "4299 lbs (1950 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24.2,
-               "Highway": 40.5,
-               "Combined": 32.2,
-               "CO2 Emissions": 175
+               "City": "24.2 mpg US (9.7 L/100Km)",
+               "Highway": "40.5 mpg US (5.8 L/100Km)",
+               "Combined": "32.2 mpg US (7.3 L/100Km)",
+               "CO2 Emissions": "175 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Altea XL 2006-200905-03-07-12-27.jpg"
 },{
      "model_name": "SEAT Altea 2004-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 5MT FWD (85 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1390,
+               "Displacement": "1390 cm3",
                "Power": "63 KW @ 5000 RPM\n86 HP @ 5000 RPM\n84 BHP @ 5000 RPM",
                "Torque": "96 lb-ft @ 3600 RPM\n130 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 105,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.8
+               "Top Speed": "105 mph (169 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1322,41 +1351,42 @@
                "Tire Size": "205/55R16"
           },
           "DIMENSIONS": {
-               "Length": 170.3,
-               "Width": 69.6,
-               "Height": 61.7,
+               "Length": "170.3 in (4326 mm)",
+               "Width": "69.6 in (1768 mm)",
+               "Height": "61.7 in (1567 mm)",
                "Front/rear Track": "60.23/59.84 in (1,530/1,520 mm)",
-               "Wheelbase": 101.5,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 14.4,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "101.5 in (2578 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "14.4 cuFT (408 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2791.1,
-               "Gross Weight Limit": 4157.9
+               "Unladen Weight": "2791.1 lbs (1266 kg)",
+               "Gross Weight Limit": "4157.9 lbs (1886 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.7,
-               "Highway": 39.9,
-               "Combined": 31.8,
-               "CO2 Emissions": 178
+               "City": "23.7 mpg US (9.9 L/100Km)",
+               "Highway": "39.9 mpg US (5.9 L/100Km)",
+               "Combined": "31.8 mpg US (7.4 L/100Km)",
+               "CO2 Emissions": "178 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Altea 2004-200905-03-07-12-31.jpg"
 },{
      "model_name": "SEAT Leon Cupra R 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0 TSI 6AT (310 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1984,
+               "Displacement": "1984 cm3",
                "Power": "228 KW @ 5800-6500 RPM\n310 HP @ 5800-6500 RPM\n306 BHP @ 5800-6500 RPM",
                "Torque": "280 lb-ft @ 1800-5700 RPM\n380 Nm @ 1800-5700 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1370,37 +1400,38 @@
                "Tire Size": "235/35 R 19"
           },
           "DIMENSIONS": {
-               "Length": 170.2,
-               "Width": 71.5,
-               "Height": 56.5,
+               "Length": "170.2 in (4323 mm)",
+               "Width": "71.5 in (1816 mm)",
+               "Height": "56.5 in (1435 mm)",
                "Front/rear Track": "61.7/60.7 in (1,567/1,542 mm)",
-               "Wheelbase": 103.6,
-               "Cargo Volume": 13.4
+               "Wheelbase": "103.6 in (2631 mm)",
+               "Cargo Volume": "13.4 cuFT (379 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3261,
-               "Gross Weight Limit": 4255
+               "Unladen Weight": "3261 lbs (1479 kg)",
+               "Gross Weight Limit": "4255 lbs (1930 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 34.1,
-               "CO2 Emissions": 158
+               "Combined": "34.1 mpg US (6.9 L/100Km)",
+               "CO2 Emissions": "158 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Leon Cupra R 2017-Present05-03-07-12-33.jpg"
 },{
      "model_name": "SEAT Leon Cupra R 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0 MT 6MT (243 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1984,
+               "Displacement": "1984 cm3",
                "Power": "179 KW @ 6000 RPM\n243 HP @ 6000 RPM\n240 BHP @ 6000 RPM",
                "Torque": "221 lb-ft @ 2200-5700 RPM\n300 Nm @ 2200-5700 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 153,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.6
+               "Top Speed": "153 mph (246 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1414,42 +1445,43 @@
                "Tire Size": "235/35 R19"
           },
           "DIMENSIONS": {
-               "Length": 169.6,
-               "Width": 69.6,
-               "Height": 56.8,
+               "Length": "169.6 in (4308 mm)",
+               "Width": "69.6 in (1768 mm)",
+               "Height": "56.8 in (1443 mm)",
                "Front/rear Track": "60.1/59.4 in (1,527/1,509 mm)",
-               "Wheelbase": 101.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 12,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "101.5 in (2578 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "12 cuFT (340 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3031,
-               "Gross Weight Limit": 4288
+               "Unladen Weight": "3031 lbs (1375 kg)",
+               "Gross Weight Limit": "4288 lbs (1945 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 33.6,
-               "Highway": 19.1,
-               "Combined": 27.4,
-               "CO2 Emissions": 190
+               "City": "33.6 mpg US (7 L/100Km)",
+               "Highway": "19.1 mpg US (12.3 L/100Km)",
+               "Combined": "27.4 mpg US (8.6 L/100Km)",
+               "CO2 Emissions": "190 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Leon Cupra R 2009-201205-03-07-12-35.jpg"
 },{
      "model_name": "2002 SEAT Leon Cupra R",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 6MT (210 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1781,
+               "Displacement": "1781 cm3",
                "Power": "154 KW @ 5800 RPM\n209 HP @ 5800 RPM\n207 BHP @ 5800 RPM",
                "Torque": "199 lb-ft @ 2100 RPM\n270 Nm @ 2100 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 147.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 7
+               "Top Speed": "147.3 mph (237 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1463,42 +1495,43 @@
                "Tire Size": "225/40/R18"
           },
           "DIMENSIONS": {
-               "Length": 164.7,
-               "Width": 68.6,
-               "Height": 56.7,
+               "Length": "164.7 in (4183 mm)",
+               "Width": "68.6 in (1742 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "59.1/58.3 in (1,501/1,481 mm)",
-               "Wheelbase": 98.9,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 12,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "98.9 in (2512 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "12 cuFT (340 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2956.4,
-               "Gross Weight Limit": 3992.6
+               "Unladen Weight": "2956.4 lbs (1341 kg)",
+               "Gross Weight Limit": "3992.6 lbs (1811 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18.8,
-               "Highway": 36.2,
-               "Combined": 27,
-               "CO2 Emissions": 210
+               "City": "18.8 mpg US (12.5 L/100Km)",
+               "Highway": "36.2 mpg US (6.5 L/100Km)",
+               "Combined": "27 mpg US (8.7 L/100Km)",
+               "CO2 Emissions": "210 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2002 SEAT Leon Cupra R05-03-07-12-37.jpg"
 },{
      "model_name": "SEAT Alhambra 2010-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L TSI 6MT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1390,
+               "Displacement": "1390 cm3",
                "Power": "110 KW @ 5800 RPM\n150 HP @ 5800 RPM\n148 BHP @ 5800 RPM",
                "Torque": "177 lb-ft @ 1500-4000 RPM\n240 Nm @ 1500-4000 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18.5
+               "Fuel capacity": "18.5 gallons (70.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 122.4,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+               "Top Speed": "122.4 mph (197 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1512,42 +1545,43 @@
                "Tire Size": "205/60 R16 - 215/60 R16 - 225/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 191.1,
-               "Width": 75,
-               "Height": 67.7,
+               "Length": "191.1 in (4854 mm)",
+               "Width": "75 in (1905 mm)",
+               "Height": "67.7 in (1720 mm)",
                "Front/rear Track": "61.8/63.7 in (1,570/1,618 mm)",
-               "Wheelbase": 114.9,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 9.4,
-               "Aerodynamics (Cd)": 0.29
+               "Wheelbase": "114.9 in (2918 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "9.4 cuFT (266 L)",
+               "Aerodynamics (Cd)": "0.29"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3739,
-               "Gross Weight Limit": 5467.5
+               "Unladen Weight": "3739 lbs (1696 kg)",
+               "Gross Weight Limit": "5467.5 lbs (2480 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25.6,
-               "Highway": 38.6,
-               "Combined": 32.7,
-               "CO2 Emissions": 167
+               "City": "25.6 mpg US (9.2 L/100Km)",
+               "Highway": "38.6 mpg US (6.1 L/100Km)",
+               "Combined": "32.7 mpg US (7.2 L/100Km)",
+               "CO2 Emissions": "167 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Alhambra 2010-Present05-03-07-12-41.jpg"
 },{
      "model_name": "SEAT Alhambra 2000-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L T 5AT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1781,
+               "Displacement": "1781 cm3",
                "Power": "110 KW @ 5800 RPM\n150 HP @ 5800 RPM\n148 BHP @ 5800 RPM",
                "Torque": "162 lb-ft @ 1800 RPM\n220 Nm @ 1800 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18.5
+               "Fuel capacity": "18.5 gallons (70.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 122,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.1
+               "Top Speed": "122 mph (196 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1561,42 +1595,43 @@
                "Tire Size": "215/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 182.4,
-               "Width": 71.3,
-               "Height": 67.2,
+               "Length": "182.4 in (4633 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "67.2 in (1707 mm)",
                "Front/rear Track": "59.8/59.3 in (1,519/1,506 mm)",
-               "Wheelbase": 111.6,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 9,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "111.6 in (2835 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "9 cuFT (255 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3543,
-               "Gross Weight Limit": 5467
+               "Unladen Weight": "3543 lbs (1607 kg)",
+               "Gross Weight Limit": "5467 lbs (2480 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.7,
-               "Highway": 29.4,
-               "Combined": 23.1,
-               "CO2 Emissions": 245
+               "City": "16.7 mpg US (14.1 L/100Km)",
+               "Highway": "29.4 mpg US (8 L/100Km)",
+               "Combined": "23.1 mpg US (10.2 L/100Km)",
+               "CO2 Emissions": "245 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Alhambra 2000-201005-03-07-12-45.jpg"
 },{
      "model_name": "SEAT Alhambra 1996-2000",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L TURBO 5MT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1781,
+               "Displacement": "1781 cm3",
                "Power": "110 KW @ 5700 RPM\n150 HP @ 5700 RPM\n148 BHP @ 5700 RPM",
                "Torque": "155 lb-ft @ 1750 RPM\n210 Nm @ 1750 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18.5
+               "Fuel capacity": "18.5 gallons (70.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 120.5,
-               "Acceleration 0-62 Mph (0-100 kph)": 12
+               "Top Speed": "120.5 mph (194 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1610,40 +1645,41 @@
                "Tire Size": "215/60R15"
           },
           "DIMENSIONS": {
-               "Length": 181.9,
-               "Width": 71.3,
-               "Height": 68.1,
+               "Length": "181.9 in (4620 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "68.1 in (1730 mm)",
                "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
-               "Wheelbase": 111.8,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 9,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "111.8 in (2840 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "9 cuFT (255 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3503.1,
-               "Gross Weight Limit": 5291.1
+               "Unladen Weight": "3503.1 lbs (1589 kg)",
+               "Gross Weight Limit": "5291.1 lbs (2400 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 23.3,
-               "CO2 Emissions": 241
+               "Combined": "23.3 mpg US (10.1 L/100Km)",
+               "CO2 Emissions": "241 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Alhambra 1996-200005-03-07-12-48.jpg"
 },{
      "model_name": "SEAT Leon Cupra 2013-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L TSI 6AT FWD (280 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1984,
+               "Displacement": "1984 cm3",
                "Power": "206 KW @ 5600-6500 RPM\n280 HP @ 5600-6500 RPM\n276 BHP @ 5600-6500 RPM",
                "Torque": "258 lb-ft @ 1750-5600 RPM\n350 Nm @ 1750-5600 RPM",
                "Fuel System": "Multipoint Injection + Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.7
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1657,39 +1693,40 @@
                "Tire Size": "235/30 R19 91Y"
           },
           "DIMENSIONS": {
-               "Length": 166.8,
-               "Width": 71.3,
-               "Height": 56,
+               "Length": "166.8 in (4237 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "56 in (1422 mm)",
                "Front/rear Track": "60.4/59.4 in (1,534/1,509 mm)",
-               "Wheelbase": 102.2,
-               "Cargo Volume": 13.4
+               "Wheelbase": "102.2 in (2596 mm)",
+               "Cargo Volume": "13.4 cuFT (379 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3075,
-               "Gross Weight Limit": 4365
+               "Unladen Weight": "3075 lbs (1395 kg)",
+               "Gross Weight Limit": "4365 lbs (1980 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28,
-               "Highway": 41.3,
-               "Combined": 35.6,
-               "CO2 Emissions": 149
+               "City": "28 mpg US (8.4 L/100Km)",
+               "Highway": "41.3 mpg US (5.7 L/100Km)",
+               "Combined": "35.6 mpg US (6.6 L/100Km)",
+               "CO2 Emissions": "149 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Leon Cupra 2013-Present05-03-07-12-50.jpg"
 },{
      "model_name": "SEAT Leon Cupra 2006-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L TFSI 6MT (240 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1984,
+               "Displacement": "1984 cm3",
                "Power": "177 KW @ 5700 RPM\n240 HP @ 5700 RPM\n237 BHP @ 5700 RPM",
                "Torque": "221 lb-ft @ 2200 RPM\n300 Nm @ 2200 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 153.5,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.4
+               "Top Speed": "153.5 mph (247 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1703,40 +1740,41 @@
                "Tire Size": "225/40 R18"
           },
           "DIMENSIONS": {
-               "Length": 169.9,
-               "Width": 69.6,
-               "Height": 57.4,
+               "Length": "169.9 in (4315 mm)",
+               "Width": "69.6 in (1768 mm)",
+               "Height": "57.4 in (1458 mm)",
                "Front/rear Track": "60.4/59.7 in (1,534/1,516 mm)",
-               "Wheelbase": 101.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 12,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "101.5 in (2578 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "12 cuFT (340 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2976.2,
-               "Gross Weight Limit": 4288
+               "Unladen Weight": "2976.2 lbs (1350 kg)",
+               "Gross Weight Limit": "4288 lbs (1945 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19.8,
-               "Highway": 34.6,
-               "Combined": 27.4,
-               "CO2 Emissions": 200
+               "City": "19.8 mpg US (11.9 L/100Km)",
+               "Highway": "34.6 mpg US (6.8 L/100Km)",
+               "Combined": "27.4 mpg US (8.6 L/100Km)",
+               "CO2 Emissions": "200 g/km"
           }
-     }
+     },
+     "img": "images/SEAT Leon Cupra 2006-Present05-03-07-12-52.jpg"
 },{
      "model_name": "SEAT Leon Cupra 4 2001-2002",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.8 V6 6MT AWD (204 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2791,
+               "Displacement": "2791 cm3",
                "Power": "150 KW @ 6000 RPM\n204 HP @ 6000 RPM\n201 BHP @ 6000 RPM",
                "Torque": "199 lb-ft @ 3200 RPM\n270 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 147.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.3
+               "Top Speed": "147.3 mph (237 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1750,41 +1788,42 @@
                "Tire Size": "225/45R17"
           },
           "DIMENSIONS": {
-               "Length": 164.7,
-               "Width": 68.6,
-               "Height": 56.7,
+               "Length": "164.7 in (4183 mm)",
+               "Width": "68.6 in (1742 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "59.1/58.3 in (1,501/1,481 mm)",
-               "Wheelbase": 98.9,
-               "Cargo Volume": 12,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "98.9 in (2512 mm)",
+               "Cargo Volume": "12 cuFT (340 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3251.8,
-               "Gross Weight Limit": 4431.3
+               "Unladen Weight": "3251.8 lbs (1475 kg)",
+               "Gross Weight Limit": "4431.3 lbs (2010 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20.5,
-               "Highway": 32.2,
-               "Combined": 26.1,
-               "CO2 Emissions": 264
+               "City": "20.5 mpg US (11.5 L/100Km)",
+               "Highway": "32.2 mpg US (7.3 L/100Km)",
+               "Combined": "26.1 mpg US (9 L/100Km)",
+               "CO2 Emissions": "264 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Leon Cupra 4 2001-200205-03-07-12-54.jpg"
 },{
      "model_name": "SEAT Ibiza 5 doors 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L ECOTSI 5MT (95 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "69.9 KW @ 5000-5500 RPM\n95 HP @ 5000-5500 RPM\n94 BHP @ 5000-5500 RPM",
                "Torque": "129 lb-ft @ 2000-3500 RPM\n175 Nm @ 2000-3500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 113,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.3
+               "Top Speed": "113 mph (182 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1795,37 +1834,38 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 159.8,
-               "Width": 76.5,
-               "Height": 56.9,
+               "Length": "159.8 in (4059 mm)",
+               "Width": "76.5 in (1943 mm)",
+               "Height": "56.9 in (1445 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 100.9,
-               "Cargo Volume": 12.5
+               "Wheelbase": "100.9 in (2563 mm)",
+               "Cargo Volume": "12.5 cuFT (354 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2452,
-               "Gross Weight Limit": 3616
+               "Unladen Weight": "2452 lbs (1112 kg)",
+               "Gross Weight Limit": "3616 lbs (1640 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "CO2 Emissions": 106
+               "CO2 Emissions": "106 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 5 doors 2017-Present05-03-07-12-58.jpg"
 },{
      "model_name": "2015 Seat Leon ST Cupra",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L TSI 6AT (280 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1984,
+               "Displacement": "1984 cm3",
                "Power": "206 KW @ 5600-6500 RPM\n280 HP @ 5600-6500 RPM\n276 BHP @ 5600-6500 RPM",
                "Torque": "258 lb-ft @ 1750-5600 RPM\n350 Nm @ 1750-5600 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 6
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1839,41 +1879,42 @@
                "Tire Size": "235/35 R19"
           },
           "DIMENSIONS": {
-               "Length": 178.5,
-               "Width": 71.5,
-               "Height": 57.1,
+               "Length": "178.5 in (4534 mm)",
+               "Width": "71.5 in (1816 mm)",
+               "Height": "57.1 in (1450 mm)",
                "Front/rear Track": "61/59.8 in (1,549/1,519 mm)",
-               "Wheelbase": 103.8,
-               "Ground Clearance": 5.8,
-               "Cargo Volume": 20.7
+               "Wheelbase": "103.8 in (2637 mm)",
+               "Ground Clearance": "5.8 in (147 mm)",
+               "Cargo Volume": "20.7 cuFT (586 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3232,
-               "Gross Weight Limit": 4409
+               "Unladen Weight": "3232 lbs (1466 kg)",
+               "Gross Weight Limit": "4409 lbs (2000 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26.4,
-               "Highway": 42,
-               "Combined": 34.6,
-               "CO2 Emissions": 158
+               "City": "26.4 mpg US (8.9 L/100Km)",
+               "Highway": "42 mpg US (5.6 L/100Km)",
+               "Combined": "34.6 mpg US (6.8 L/100Km)",
+               "CO2 Emissions": "158 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2015 Seat Leon ST Cupra05-03-07-13-01.jpg"
 },{
      "model_name": "SEAT Leon X-Perience 2014-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L TSI 6MT (125 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1395,
+               "Displacement": "1395 cm3",
                "Power": "91.9 KW @ 5000-6000 RPM\n125 HP @ 5000-6000 RPM\n123 BHP @ 5000-6000 RPM",
                "Torque": "148 lb-ft @ 1400-4000 RPM\n200 Nm @ 1400-4000 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124,
-               "Acceleration 0-62 Mph (0-100 kph)": 10
+               "Top Speed": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1884,41 +1925,42 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 178.9,
-               "Width": 77.8,
-               "Height": 58.3,
+               "Length": "178.9 in (4544 mm)",
+               "Width": "77.8 in (1976 mm)",
+               "Height": "58.3 in (1481 mm)",
                "Front/rear Track": "60.9/59.4 in (1,547/1,509 mm)",
-               "Wheelbase": 103.5,
-               "Ground Clearance": 6.4,
-               "Cargo Volume": 20.7
+               "Wheelbase": "103.5 in (2629 mm)",
+               "Ground Clearance": "6.4 in (163 mm)",
+               "Cargo Volume": "20.7 cuFT (586 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3371,
-               "Gross Weight Limit": 4519
+               "Unladen Weight": "3371 lbs (1529 kg)",
+               "Gross Weight Limit": "4519 lbs (2050 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 42,
-               "Highway": 52.3,
-               "Combined": 48,
-               "CO2 Emissions": 122
+               "City": "42 mpg US (5.6 L/100Km)",
+               "Highway": "52.3 mpg US (4.5 L/100Km)",
+               "Combined": "48 mpg US (4.9 L/100Km)",
+               "CO2 Emissions": "122 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Leon X-Perience 2014-Present05-03-07-13-04.jpg"
 },{
      "model_name": "SEAT Tarraco 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L TSI 6MT (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1498,
+               "Displacement": "1498 cm3",
                "Power": "110.3 KW @ 5000-6000 RPM\n150 HP @ 5000-6000 RPM\n148 BHP @ 5000-6000 RPM",
                "Torque": "184 lb-ft @ 1500-3500 RPM\n250 Nm @ 1500-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.3
+               "Fuel capacity": "15.3 gallons (57.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 125,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+               "Top Speed": "125 mph (201 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1932,38 +1974,39 @@
                "Tire Size": "215/65 R17"
           },
           "DIMENSIONS": {
-               "Length": 186.4,
-               "Width": 72.4,
-               "Height": 65.3,
+               "Length": "186.4 in (4735 mm)",
+               "Width": "72.4 in (1839 mm)",
+               "Height": "65.3 in (1659 mm)",
                "Front/rear Track": "62.4/62 in (1,585/1,575 mm)",
-               "Wheelbase": 109.8,
-               "Cargo Volume": 26.8,
+               "Wheelbase": "109.8 in (2789 mm)",
+               "Cargo Volume": "26.8 cuFT (759 L)",
                "Turning circle (curb to curb)": "39 ft (11.9 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3360,
-               "Gross Weight Limit": 4894
+               "Unladen Weight": "3360 lbs (1524 kg)",
+               "Gross Weight Limit": "4894 lbs (2220 kg)"
           },
           "FUEL ECONOMY (WLTP)": {
                "CO2 Emissions (Combined)": "150 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Tarraco 2018-Present05-03-07-13-08.jpg"
 },{
      "model_name": "2001 SEAT Arosa",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT FWD (50 HP)": {
                "Cylinders": "L4",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "37 KW @ 5200 RPM\n50 HP @ 5200 RPM\n50 BHP @ 5200 RPM",
                "Torque": "63 lb-ft @ 3000 RPM\n86 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 9
+               "Fuel capacity": "9 gallons (34.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93.8,
-               "Acceleration 0-62 Mph (0-100 kph)": 17.7
+               "Top Speed": "93.8 mph (151 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "17.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1977,42 +2020,43 @@
                "Tire Size": "155/70 TR13"
           },
           "DIMENSIONS": {
-               "Length": 139.8,
-               "Width": 64.6,
-               "Height": 57.5,
+               "Length": "139.8 in (3551 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "57.5 in (1461 mm)",
                "Front/rear Track": "54.7/55.1 in (1,389/1,400 mm)",
-               "Wheelbase": 91.3,
-               "Ground Clearance": 4.6,
-               "Cargo Volume": 4.6,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "91.3 in (2319 mm)",
+               "Ground Clearance": "4.6 in (117 mm)",
+               "Cargo Volume": "4.6 cuFT (130 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1940.1,
-               "Gross Weight Limit": 2998.3
+               "Unladen Weight": "1940.1 lbs (880 kg)",
+               "Gross Weight Limit": "2998.3 lbs (1360 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.1,
-               "Highway": 50,
-               "Combined": 40.5,
-               "CO2 Emissions": 139
+               "City": "30.1 mpg US (7.8 L/100Km)",
+               "Highway": "50 mpg US (4.7 L/100Km)",
+               "Combined": "40.5 mpg US (5.8 L/100Km)",
+               "CO2 Emissions": "139 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2001 SEAT Arosa05-03-07-13-11.jpg"
 },{
      "model_name": "SEAT Arosa 1997-2001",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT FWD (50 HP)": {
                "Cylinders": "L4",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "37 KW @ 5000 RPM\n50 HP @ 5000 RPM\n50 BHP @ 5000 RPM",
                "Torque": "63 lb-ft @ 3000 RPM\n86 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 9
+               "Fuel capacity": "9 gallons (34.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93.8,
-               "Acceleration 0-62 Mph (0-100 kph)": 17.4
+               "Top Speed": "93.8 mph (151 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "17.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2026,42 +2070,43 @@
                "Tire Size": "155/70TR13"
           },
           "DIMENSIONS": {
-               "Length": 139.4,
-               "Width": 64.6,
-               "Height": 57.4,
+               "Length": "139.4 in (3541 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "57.4 in (1458 mm)",
                "Front/rear Track": "53.9/55.1 in (1,369/1,400 mm)",
-               "Wheelbase": 91.3,
-               "Ground Clearance": 4.6,
-               "Cargo Volume": 4.6,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "91.3 in (2319 mm)",
+               "Ground Clearance": "4.6 in (117 mm)",
+               "Cargo Volume": "4.6 cuFT (130 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1849.7,
-               "Gross Weight Limit": 2788.8
+               "Unladen Weight": "1849.7 lbs (839 kg)",
+               "Gross Weight Limit": "2788.8 lbs (1265 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 31.4,
-               "Highway": 50,
-               "Combined": 40.6,
-               "CO2 Emissions": 139
+               "City": "31.4 mpg US (7.5 L/100Km)",
+               "Highway": "50 mpg US (4.7 L/100Km)",
+               "Combined": "40.6 mpg US (5.8 L/100Km)",
+               "CO2 Emissions": "139 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Arosa 1997-200105-03-07-13-13.jpg"
 },{
      "model_name": "SEAT Cordoba 2003-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT FWD (70 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1198,
+               "Displacement": "1198 cm3",
                "Power": "51 KW @ 5400 RPM\n69 HP @ 5400 RPM\n68 BHP @ 5400 RPM",
                "Torque": "83 lb-ft @ 3000 RPM\n113 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106.2,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.7
+               "Top Speed": "106.2 mph (171 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2075,41 +2120,42 @@
                "Tire Size": "195/55R15"
           },
           "DIMENSIONS": {
-               "Length": 168.5,
-               "Width": 66.9,
-               "Height": 56.7,
+               "Length": "168.5 in (4280 mm)",
+               "Width": "66.9 in (1699 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "55.9/55.4 in (1,420/1,407 mm)",
-               "Wheelbase": 96.9,
-               "Cargo Volume": 17.1,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "96.9 in (2461 mm)",
+               "Cargo Volume": "17.1 cuFT (484 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2295,
-               "Gross Weight Limit": 3483.3
+               "Unladen Weight": "2295 lbs (1041 kg)",
+               "Gross Weight Limit": "3483.3 lbs (1580 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.9,
-               "Highway": 46.1,
-               "Combined": 39.9,
-               "CO2 Emissions": 142
+               "City": "30.9 mpg US (7.6 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "39.9 mpg US (5.9 L/100Km)",
+               "CO2 Emissions": "142 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Cordoba 2003-200905-03-07-13-17.jpg"
 },{
      "model_name": "SEAT Cordoba 1999-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 16V 5MT FWD (75 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1391,
+               "Displacement": "1391 cm3",
                "Power": "55 KW @ 5000 RPM\n75 HP @ 5000 RPM\n74 BHP @ 5000 RPM",
                "Torque": "93 lb-ft @ 3300 RPM\n126 Nm @ 3300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 105.6,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.9
+               "Top Speed": "105.6 mph (170 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2123,40 +2169,41 @@
                "Tire Size": "175/70R13"
           },
           "DIMENSIONS": {
-               "Length": 163.8,
-               "Width": 64.6,
-               "Height": 55.9,
+               "Length": "163.8 in (4161 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
-               "Wheelbase": 96.1,
-               "Cargo Volume": 16.1
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Cargo Volume": "16.1 cuFT (456 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2233.3,
-               "Gross Weight Limit": 3302.5
+               "Unladen Weight": "2233.3 lbs (1013 kg)",
+               "Gross Weight Limit": "3302.5 lbs (1498 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28,
-               "Highway": 44.4,
-               "Combined": 36.7,
-               "CO2 Emissions": 161
+               "City": "28 mpg US (8.4 L/100Km)",
+               "Highway": "44.4 mpg US (5.3 L/100Km)",
+               "Combined": "36.7 mpg US (6.4 L/100Km)",
+               "CO2 Emissions": "161 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Cordoba 1999-200305-03-07-13-21.jpg"
 },{
      "model_name": "SEAT Cordoba 1996-1999",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 5MT FWD (60 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1390,
+               "Displacement": "1390 cm3",
                "Power": "44 KW @ 4700 RPM\n60 HP @ 4700 RPM\n59 BHP @ 4700 RPM",
                "Torque": "86 lb-ft @ 2800 RPM\n116 Nm @ 2800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 97.6,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.7
+               "Top Speed": "97.6 mph (157 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2170,40 +2217,41 @@
                "Tire Size": "175/70 R13"
           },
           "DIMENSIONS": {
-               "Length": 163,
-               "Width": 64.6,
-               "Height": 55.9,
+               "Length": "163 in (4140 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
-               "Wheelbase": 96.1,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 16.1
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "16.1 cuFT (456 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2094.4,
-               "Gross Weight Limit": 3163.6
+               "Unladen Weight": "2094.4 lbs (950 kg)",
+               "Gross Weight Limit": "3163.6 lbs (1435 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26.7,
-               "Highway": 44.4,
-               "Combined": 35.6,
-               "CO2 Emissions": 158
+               "City": "26.7 mpg US (8.8 L/100Km)",
+               "Highway": "44.4 mpg US (5.3 L/100Km)",
+               "Combined": "35.6 mpg US (6.6 L/100Km)",
+               "CO2 Emissions": "158 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Cordoba 1996-199905-03-07-13-24.jpg"
 },{
      "model_name": "2000 SEAT Cordoba Cupra",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L TURBO 5MT FWD (156 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1781,
+               "Displacement": "1781 cm3",
                "Power": "115 KW @ 5800 RPM\n156 HP @ 5800 RPM\n154 BHP @ 5800 RPM",
                "Torque": "155 lb-ft @ 1800 RPM\n210 Nm @ 1800 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 135.5,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.9
+               "Top Speed": "135.5 mph (218 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2217,39 +2265,40 @@
                "Tire Size": "195/45R16"
           },
           "DIMENSIONS": {
-               "Length": 163.8,
-               "Width": 64.6,
-               "Height": 55.9,
+               "Length": "163.8 in (4161 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
-               "Wheelbase": 96.1,
-               "Cargo Volume": 16.1,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Cargo Volume": "16.1 cuFT (456 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2449.3,
-               "Gross Weight Limit": 3518.6
+               "Unladen Weight": "2449.3 lbs (1111 kg)",
+               "Gross Weight Limit": "3518.6 lbs (1596 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21.8,
-               "Highway": 39.2,
-               "Combined": 30.2,
-               "CO2 Emissions": 189
+               "City": "21.8 mpg US (10.8 L/100Km)",
+               "Highway": "39.2 mpg US (6 L/100Km)",
+               "Combined": "30.2 mpg US (7.8 L/100Km)",
+               "CO2 Emissions": "189 g/km"
           }
-     }
+     },
+     "img": "images/2000 SEAT Cordoba Cupra05-03-07-13-26.jpg"
 },{
      "model_name": "SEAT Cordoba SX 1999-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 16V 5MT FWD (100 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1595,
+               "Displacement": "1595 cm3",
                "Power": "74 KW @ 5600 RPM\n100 HP @ 5600 RPM\n99 BHP @ 5600 RPM",
                "Torque": "107 lb-ft @ 3800 RPM\n145 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 116.8,
-               "Acceleration 0-62 Mph (0-100 kph)": 11
+               "Top Speed": "116.8 mph (188 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2263,41 +2312,42 @@
                "Tire Size": "185/55R15"
           },
           "DIMENSIONS": {
-               "Length": 163.8,
-               "Width": 64.6,
-               "Height": 1.4,
+               "Length": "163.8 in (4161 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "1.4 in (36 mm)",
                "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
-               "Wheelbase": 96.1,
-               "Cargo Volume": 16.1,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Cargo Volume": "16.1 cuFT (456 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2376.6,
-               "Gross Weight Limit": 3390.7
+               "Unladen Weight": "2376.6 lbs (1078 kg)",
+               "Gross Weight Limit": "3390.7 lbs (1538 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21.6,
-               "Highway": 39.2,
-               "Combined": 30.2,
-               "CO2 Emissions": 187
+               "City": "21.6 mpg US (10.9 L/100Km)",
+               "Highway": "39.2 mpg US (6 L/100Km)",
+               "Combined": "30.2 mpg US (7.8 L/100Km)",
+               "CO2 Emissions": "187 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Cordoba SX 1999-200305-03-07-13-28.jpg"
 },{
      "model_name": "SEAT Cordoba SX 1996-1999",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT FWD (100 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "74 KW @ 5800 RPM\n101 HP @ 5800 RPM\n99 BHP @ 5800 RPM",
                "Torque": "103 lb-ft @ 3500 RPM\n140 Nm @ 3500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 116.8,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+               "Top Speed": "116.8 mph (188 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2311,41 +2361,42 @@
                "Tire Size": "185/55HR15"
           },
           "DIMENSIONS": {
-               "Length": 163,
-               "Width": 64.6,
-               "Height": 55.5,
+               "Length": "163 in (4140 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.5 in (1410 mm)",
                "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
-               "Wheelbase": 96.1,
-               "Cargo Volume": 16.1,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Cargo Volume": "16.1 cuFT (456 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2259.7,
-               "Gross Weight Limit": 3329
+               "Unladen Weight": "2259.7 lbs (1025 kg)",
+               "Gross Weight Limit": "3329 lbs (1510 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21.6,
-               "Highway": 39.2,
-               "Combined": 30.2,
-               "CO2 Emissions": 186
+               "City": "21.6 mpg US (10.9 L/100Km)",
+               "Highway": "39.2 mpg US (6 L/100Km)",
+               "Combined": "30.2 mpg US (7.8 L/100Km)",
+               "CO2 Emissions": "186 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Cordoba SX 1996-199905-03-07-13-31.jpg"
 },{
      "model_name": "SEAT Cordoba Vario 1999-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 16V 5MT FWD (75 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1391,
+               "Displacement": "1391 cm3",
                "Power": "55 KW @ 5000 RPM\n75 HP @ 5000 RPM\n74 BHP @ 5000 RPM",
                "Torque": "93 lb-ft @ 3300 RPM\n126 Nm @ 3300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 103.8,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.2
+               "Top Speed": "103.8 mph (167 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2359,41 +2410,42 @@
                "Tire Size": "175/70 R13"
           },
           "DIMENSIONS": {
-               "Length": 163.8,
-               "Width": 64.6,
-               "Height": 55.9,
+               "Length": "163.8 in (4161 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
-               "Wheelbase": 96.1,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 16.1
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "16.1 cuFT (456 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2273,
-               "Gross Weight Limit": 3342.2
+               "Unladen Weight": "2273 lbs (1031 kg)",
+               "Gross Weight Limit": "3342.2 lbs (1516 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28,
-               "Highway": 43.6,
-               "Combined": 36.2,
-               "CO2 Emissions": 154.7
+               "City": "28 mpg US (8.4 L/100Km)",
+               "Highway": "43.6 mpg US (5.4 L/100Km)",
+               "Combined": "36.2 mpg US (6.5 L/100Km)",
+               "CO2 Emissions": "154.7 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Cordoba Vario 1999-200305-03-07-13-34.jpg"
 },{
      "model_name": "SEAT Cordoba Vario 1996-1999",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 5MT RWD (60 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1390,
+               "Displacement": "1390 cm3",
                "Power": "44 KW @ 4700 RPM\n60 HP @ 4700 RPM\n59 BHP @ 4700 RPM",
                "Torque": "86 lb-ft @ 3000 RPM\n116 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 96.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 16.4
+               "Top Speed": "96.3 mph (155 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "16.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2407,41 +2459,42 @@
                "Tire Size": "175/70 R13"
           },
           "DIMENSIONS": {
-               "Length": 163,
-               "Width": 64.6,
-               "Height": 56.3,
+               "Length": "163 in (4140 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "56.3 in (1430 mm)",
                "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
-               "Wheelbase": 96.1,
-               "Cargo Volume": 16.1,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Cargo Volume": "16.1 cuFT (456 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2193.6,
-               "Gross Weight Limit": 3262.8
+               "Unladen Weight": "2193.6 lbs (995 kg)",
+               "Gross Weight Limit": "3262.8 lbs (1480 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26.4,
-               "Highway": 42.8,
-               "Combined": 34.6,
-               "CO2 Emissions": 162
+               "City": "26.4 mpg US (8.9 L/100Km)",
+               "Highway": "42.8 mpg US (5.5 L/100Km)",
+               "Combined": "34.6 mpg US (6.8 L/100Km)",
+               "CO2 Emissions": "162 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Cordoba Vario 1996-199905-03-07-13-37.jpg"
 },{
      "model_name": "SEAT Exeo 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 6MT (102 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1595,
+               "Displacement": "1595 cm3",
                "Power": "75 KW @ 5600 RPM\n102 HP @ 5600 RPM\n101 BHP @ 5600 RPM",
                "Torque": "109 lb-ft @ 3800 RPM\n148 Nm @ 3800 RPM",
                "Fuel System": "Multipoint injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18.5
+               "Fuel capacity": "18.5 gallons (70.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.6
+               "Top Speed": "118 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2455,42 +2508,43 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 183.5,
-               "Width": 69.7,
-               "Height": 56.3,
+               "Length": "183.5 in (4661 mm)",
+               "Width": "69.7 in (1770 mm)",
+               "Height": "56.3 in (1430 mm)",
                "Front/rear Track": "59.9/59.9 in (1,521/1,521 mm)",
-               "Wheelbase": 104,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 16.2,
-               "Aerodynamics (Cd)": 0.29
+               "Wheelbase": "104 in (2642 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "16.2 cuFT (459 L)",
+               "Aerodynamics (Cd)": "0.29"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2888,
-               "Gross Weight Limit": 4122
+               "Unladen Weight": "2888 lbs (1310 kg)",
+               "Gross Weight Limit": "4122 lbs (1870 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22.2,
-               "Highway": 40.6,
-               "Combined": 31.4,
-               "CO2 Emissions": 179
+               "City": "22.2 mpg US (10.6 L/100Km)",
+               "Highway": "40.6 mpg US (5.8 L/100Km)",
+               "Combined": "31.4 mpg US (7.5 L/100Km)",
+               "CO2 Emissions": "179 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Exeo 2008-201305-03-07-13-41.jpg"
 },{
      "model_name": "2009 SEAT Exeo ST",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 6MT (102 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1595,
+               "Displacement": "1595 cm3",
                "Power": "75 KW @ 5600 RPM\n102 HP @ 5600 RPM\n101 BHP @ 5600 RPM",
                "Torque": "109 lb-ft @ 3800 RPM\n148 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18.5
+               "Fuel capacity": "18.5 gallons (70.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 115,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.1
+               "Top Speed": "115 mph (185 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2504,43 +2558,44 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 183.7,
-               "Width": 69.7,
-               "Height": 57.2,
+               "Length": "183.7 in (4666 mm)",
+               "Width": "69.7 in (1770 mm)",
+               "Height": "57.2 in (1453 mm)",
                "Front/rear Track": "59.9/59.9 in (1,521/1,521 mm)",
-               "Wheelbase": 104,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 15.6,
-               "Aerodynamics (Cd)": 0.32,
-               "Turning circle": 36.7
+               "Wheelbase": "104 in (2642 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "15.6 cuFT (442 L)",
+               "Aerodynamics (Cd)": "0.32",
+               "Turning circle": "36.7 ft (11.2 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3020,
-               "Gross Weight Limit": 4255
+               "Unladen Weight": "3020 lbs (1370 kg)",
+               "Gross Weight Limit": "4255 lbs (1930 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21.5,
-               "Highway": 40.5,
-               "Combined": 30.5,
-               "CO2 Emissions": 179
+               "City": "21.5 mpg US (10.9 L/100Km)",
+               "Highway": "40.5 mpg US (5.8 L/100Km)",
+               "Combined": "30.5 mpg US (7.7 L/100Km)",
+               "CO2 Emissions": "179 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2009 SEAT Exeo ST05-03-07-13-45.jpg"
 },{
      "model_name": "SEAT Ibiza SportCoupe (SC) 2008-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT FWD (70 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1198,
+               "Displacement": "1198 cm3",
                "Power": "51 KW @ 5400 RPM\n69 HP @ 5400 RPM\n68 BHP @ 5400 RPM",
                "Torque": "83 lb-ft @ 3000 RPM\n113 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 102,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.4
+               "Top Speed": "102 mph (164 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2554,41 +2609,42 @@
                "Tire Size": "185/60/R15"
           },
           "DIMENSIONS": {
-               "Length": 158.8,
-               "Width": 66.7,
-               "Height": 56.2,
+               "Length": "158.8 in (4034 mm)",
+               "Width": "66.7 in (1694 mm)",
+               "Height": "56.2 in (1427 mm)",
                "Front/rear Track": "57.7/57.4 in (1,466/1,458 mm)",
-               "Wheelbase": 97.2,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 10
+               "Wheelbase": "97.2 in (2469 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "10 cuFT (283 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2147,
-               "Gross Weight Limit": 3252
+               "Unladen Weight": "2147 lbs (974 kg)",
+               "Gross Weight Limit": "3252 lbs (1475 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.9,
-               "Highway": 48,
-               "Combined": 39.8,
-               "CO2 Emissions": 139
+               "City": "30.9 mpg US (7.6 L/100Km)",
+               "Highway": "48 mpg US (4.9 L/100Km)",
+               "Combined": "39.8 mpg US (5.9 L/100Km)",
+               "CO2 Emissions": "139 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza SportCoupe (SC) 2008-201705-03-07-13-48.jpg"
 },{
      "model_name": "SEAT Ibiza 3 Doors 2006-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT FWD (64 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1198,
+               "Displacement": "1198 cm3",
                "Power": "47 KW @ 5400 RPM\n64 HP @ 5400 RPM\n63 BHP @ 5400 RPM",
                "Torque": "83 lb-ft @ 3000 RPM\n113 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 103,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.9
+               "Top Speed": "103 mph (166 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2602,41 +2658,42 @@
                "Tire Size": "195/55/R15"
           },
           "DIMENSIONS": {
-               "Length": 155.6,
-               "Width": 66.9,
-               "Height": 56.7,
+               "Length": "155.6 in (3952 mm)",
+               "Width": "66.9 in (1699 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "55.9/55.4 in (1,420/1,407 mm)",
-               "Wheelbase": 96.9,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 9.4
+               "Wheelbase": "96.9 in (2461 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "9.4 cuFT (266 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2193.6,
-               "Gross Weight Limit": 3340
+               "Unladen Weight": "2193.6 lbs (995 kg)",
+               "Gross Weight Limit": "3340 lbs (1515 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.9,
-               "Highway": 46.1,
-               "Combined": 39.9,
-               "CO2 Emissions": 142
+               "City": "30.9 mpg US (7.6 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "39.9 mpg US (5.9 L/100Km)",
+               "CO2 Emissions": "142 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 3 Doors 2006-200805-03-07-13-52.jpg"
 },{
      "model_name": "SEAT Ibiza 3 Doors 2002-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT FWD (64 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1198,
+               "Displacement": "1198 cm3",
                "Power": "47 KW @ 5400 RPM\n64 HP @ 5400 RPM\n63 BHP @ 5400 RPM",
                "Torque": "83 lb-ft @ 3000 RPM\n113 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 103,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.9
+               "Top Speed": "103 mph (166 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2650,43 +2707,44 @@
                "Tire Size": "195/55/R15"
           },
           "DIMENSIONS": {
-               "Length": 155.6,
-               "Width": 66.9,
-               "Height": 56.7,
+               "Length": "155.6 in (3952 mm)",
+               "Width": "66.9 in (1699 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "55.9/55.4 in (1,420/1,407 mm)",
-               "Wheelbase": 96.9,
-               "Ground Clearance": 4.3,
-               "Cargo Volume": 9.4,
-               "Aerodynamics (Cd)": 0.31,
-               "Turning circle": 34.8
+               "Wheelbase": "96.9 in (2461 mm)",
+               "Ground Clearance": "4.3 in (109 mm)",
+               "Cargo Volume": "9.4 cuFT (266 L)",
+               "Aerodynamics (Cd)": "0.31",
+               "Turning circle": "34.8 ft (10.6 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2193.6,
-               "Gross Weight Limit": 3340
+               "Unladen Weight": "2193.6 lbs (995 kg)",
+               "Gross Weight Limit": "3340 lbs (1515 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.9,
-               "Highway": 46.1,
-               "Combined": 39.9,
-               "CO2 Emissions": 142
+               "City": "30.9 mpg US (7.6 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "39.9 mpg US (5.9 L/100Km)",
+               "CO2 Emissions": "142 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 3 Doors 2002-200605-03-07-13-56.jpg"
 },{
      "model_name": "SEAT Ibiza 3 Doors 1999-2002",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 16V 5MT FWD (75 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1391,
+               "Displacement": "1391 cm3",
                "Power": "55 KW @ 5000 RPM\n75 HP @ 5000 RPM\n74 BHP @ 5000 RPM",
                "Torque": "93 lb-ft @ 3300 RPM\n126 Nm @ 3300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.4
+               "Fuel capacity": "12.4 gallons (46.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 105.6,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+               "Top Speed": "105.6 mph (170 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2700,42 +2758,43 @@
                "Tire Size": "175/70/R13"
           },
           "DIMENSIONS": {
-               "Length": 152.7,
-               "Width": 64.6,
-               "Height": 55.9,
+               "Length": "152.7 in (3879 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
-               "Wheelbase": 96.1,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 8.8,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "8.8 cuFT (249 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2138.5,
-               "Gross Weight Limit": 3207.7
+               "Unladen Weight": "2138.5 lbs (970 kg)",
+               "Gross Weight Limit": "3207.7 lbs (1455 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28,
-               "Highway": 44.4,
-               "Combined": 36.6,
-               "CO2 Emissions": 152.3
+               "City": "28 mpg US (8.4 L/100Km)",
+               "Highway": "44.4 mpg US (5.3 L/100Km)",
+               "Combined": "36.6 mpg US (6.4 L/100Km)",
+               "CO2 Emissions": "152.3 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 3 Doors 1999-200205-03-07-13-59.jpg"
 },{
      "model_name": "SEAT Ibiza 3 Doors 1996-1999",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT FWD (50 HP)": {
                "Cylinders": "L4",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "37 KW @ 5000 RPM\n50 HP @ 5000 RPM\n50 BHP @ 5000 RPM",
                "Torque": "63 lb-ft @ 3200 RPM\n86 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.4
+               "Fuel capacity": "12.4 gallons (46.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 90.1,
-               "Acceleration 0-62 Mph (0-100 kph)": 19.4
+               "Top Speed": "90.1 mph (145 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "19.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2749,42 +2808,43 @@
                "Tire Size": "155R13"
           },
           "DIMENSIONS": {
-               "Length": 151.6,
-               "Width": 64.6,
-               "Height": 55.9,
+               "Length": "151.6 in (3851 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
-               "Wheelbase": 96.1,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 9.5,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "9.5 cuFT (269 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1951.1,
-               "Gross Weight Limit": 3020.3
+               "Unladen Weight": "1951.1 lbs (885 kg)",
+               "Gross Weight Limit": "3020.3 lbs (1370 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.2,
-               "Highway": 47,
-               "Combined": 39.2,
-               "CO2 Emissions": 142.8
+               "City": "30.2 mpg US (7.8 L/100Km)",
+               "Highway": "47 mpg US (5 L/100Km)",
+               "Combined": "39.2 mpg US (6 L/100Km)",
+               "CO2 Emissions": "142.8 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 3 Doors 1996-199905-03-07-14-03.jpg"
 },{
      "model_name": "SEAT Ibiza 3 Doors 1993-1996",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT FWD (45 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1043,
+               "Displacement": "1043 cm3",
                "Power": "33 KW @ 5600 RPM\n45 HP @ 5600 RPM\n44 BHP @ 5600 RPM",
                "Torque": "56 lb-ft @ 2800 RPM\n76 Nm @ 2800 RPM",
                "Fuel System": "Monopoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.4
+               "Fuel capacity": "12.4 gallons (46.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 85.7,
-               "Acceleration 0-62 Mph (0-100 kph)": 22.3
+               "Top Speed": "85.7 mph (138 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "22.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2798,39 +2858,40 @@
                "Tire Size": "155R13"
           },
           "DIMENSIONS": {
-               "Length": 150,
-               "Width": 64.6,
-               "Height": 55.9,
+               "Length": "150 in (3810 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/55.9 in (1,430/1,420 mm)",
-               "Wheelbase": 96.1,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 9.5,
-               "Aerodynamics (Cd)": 166.6
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "9.5 cuFT (269 L)",
+               "Aerodynamics (Cd)": "166.6"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1862.9,
-               "Gross Weight Limit": 3020.3
+               "Unladen Weight": "1862.9 lbs (845 kg)",
+               "Gross Weight Limit": "3020.3 lbs (1370 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 33.6,
-               "CO2 Emissions": 166.6
+               "Combined": "33.6 mpg US (7 L/100Km)",
+               "CO2 Emissions": "166.6 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza 3 Doors 1993-199605-03-07-14-06.jpg"
 },{
      "model_name": "SEAT Ibiza Bocanegra 2009-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4 TSI 7AT (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1390,
+               "Displacement": "1390 cm3",
                "Power": "110 KW @ 5800 RPM\n150 HP @ 5800 RPM\n148 BHP @ 5800 RPM",
                "Torque": "162 lb-ft @ 1250-4500 RPM\n220 Nm @ 1250-4500 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 131,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.7
+               "Top Speed": "131 mph (211 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2844,41 +2905,42 @@
                "Tire Size": "215/40 R17"
           },
           "DIMENSIONS": {
-               "Length": 160.3,
-               "Width": 66.6,
-               "Height": 56,
+               "Length": "160.3 in (4072 mm)",
+               "Width": "66.6 in (1692 mm)",
+               "Height": "56 in (1422 mm)",
                "Front/rear Track": "57/56.7 in (1,448/1,440 mm)",
-               "Wheelbase": 97.2,
-               "Ground Clearance": 4.9,
-               "Cargo Volume": 10,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "97.2 in (2469 mm)",
+               "Ground Clearance": "4.9 in (124 mm)",
+               "Cargo Volume": "10 cuFT (283 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2573,
-               "Gross Weight Limit": 3677
+               "Unladen Weight": "2573 lbs (1167 kg)",
+               "Gross Weight Limit": "3677 lbs (1668 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 29,
-               "Highway": 44.4,
-               "Combined": 37.3,
-               "CO2 Emissions": 146
+               "City": "29 mpg US (8.1 L/100Km)",
+               "Highway": "44.4 mpg US (5.3 L/100Km)",
+               "Combined": "37.3 mpg US (6.3 L/100Km)",
+               "CO2 Emissions": "146 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza Bocanegra 2009-201705-03-07-14-08.jpg"
 },{
      "model_name": "SEAT Ibiza Cupra 2012-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L TSI 7AT (180 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1390,
+               "Displacement": "1390 cm3",
                "Power": "132 KW @ 6200 RPM\n180 HP @ 6200 RPM\n177 BHP @ 6200 RPM",
                "Torque": "184 lb-ft @ 2000-4500 RPM\n249 Nm @ 2000-4500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 142,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.9
+               "Top Speed": "142 mph (229 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2892,38 +2954,39 @@
                "Tire Size": "215/40 R17"
           },
           "DIMENSIONS": {
-               "Length": 159.9,
-               "Width": 66.6,
-               "Height": 55.9,
+               "Length": "159.9 in (4061 mm)",
+               "Width": "66.6 in (1692 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "57/56.7 in (1,448/1,440 mm)",
-               "Wheelbase": 97.2,
-               "Cargo Volume": 10
+               "Wheelbase": "97.2 in (2469 mm)",
+               "Cargo Volume": "10 cuFT (283 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2584,
-               "Gross Weight Limit": 3688
+               "Unladen Weight": "2584 lbs (1172 kg)",
+               "Gross Weight Limit": "3688 lbs (1673 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 31.4,
-               "Highway": 46.1,
-               "Combined": 39.9,
-               "CO2 Emissions": 139
+               "City": "31.4 mpg US (7.5 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "39.9 mpg US (5.9 L/100Km)",
+               "CO2 Emissions": "139 g/km"
           }
-     }
+     },
+     "img": "images/SEAT Ibiza Cupra 2012-201705-03-07-14-10.jpg"
 },{
      "model_name": "SEAT Ibiza Cupra 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4 TSI 7AT (180 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1390,
+               "Displacement": "1390 cm3",
                "Power": "132 KW @ 6200 RPM\n180 HP @ 6200 RPM\n177 BHP @ 6200 RPM",
                "Torque": "184 lb-ft @ 2000-4500 RPM\n249 Nm @ 2000-4500 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 142,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.9
+               "Top Speed": "142 mph (229 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2937,41 +3000,42 @@
                "Tire Size": "215/40 R17"
           },
           "DIMENSIONS": {
-               "Length": 159.9,
-               "Width": 66.6,
-               "Height": 55.9,
+               "Length": "159.9 in (4061 mm)",
+               "Width": "66.6 in (1692 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "57/56.7 in (1,448/1,440 mm)",
-               "Wheelbase": 97.2,
-               "Ground Clearance": 4.9,
-               "Cargo Volume": 10,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "97.2 in (2469 mm)",
+               "Ground Clearance": "4.9 in (124 mm)",
+               "Cargo Volume": "10 cuFT (283 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2584,
-               "Gross Weight Limit": 3688
+               "Unladen Weight": "2584 lbs (1172 kg)",
+               "Gross Weight Limit": "3688 lbs (1673 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 31.4,
-               "Highway": 46.1,
-               "Combined": 39.9,
-               "CO2 Emissions": 139
+               "City": "31.4 mpg US (7.5 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "39.9 mpg US (5.9 L/100Km)",
+               "CO2 Emissions": "139 g/km"
           }
-     }
+     },
+     "img": "images/SEAT Ibiza Cupra 2009-201205-03-07-14-12.jpg"
 },{
      "model_name": "SEAT Ibiza Cupra 2006-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 20V TURBO 5MT FWD (180 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1781,
+               "Displacement": "1781 cm3",
                "Power": "132 KW @ 5800 RPM\n179 HP @ 5800 RPM\n177 BHP @ 5800 RPM",
                "Torque": "181 lb-ft @ 2000 RPM\n245 Nm @ 2000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 142,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.3
+               "Top Speed": "142 mph (229 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2985,41 +3049,42 @@
                "Tire Size": "205/40/R17"
           },
           "DIMENSIONS": {
-               "Length": 155.6,
-               "Width": 66.9,
-               "Height": 56.7,
+               "Length": "155.6 in (3952 mm)",
+               "Width": "66.9 in (1699 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "56/55.6 in (1,422/1,412 mm)",
-               "Wheelbase": 96.9,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 9.4
+               "Wheelbase": "96.9 in (2461 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "9.4 cuFT (266 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2595,
-               "Gross Weight Limit": 3635
+               "Unladen Weight": "2595 lbs (1177 kg)",
+               "Gross Weight Limit": "3635 lbs (1649 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21.6,
-               "Highway": 38.6,
-               "Combined": 29.8,
-               "CO2 Emissions": 190
+               "City": "21.6 mpg US (10.9 L/100Km)",
+               "Highway": "38.6 mpg US (6.1 L/100Km)",
+               "Combined": "29.8 mpg US (7.9 L/100Km)",
+               "CO2 Emissions": "190 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza Cupra 2006-200905-03-07-14-14.jpg"
 },{
      "model_name": "SEAT Ibiza Cupra 1999-2001",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L TURBO 5MT FWD (156 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1781,
+               "Displacement": "1781 cm3",
                "Power": "115 KW @ 5800 RPM\n156 HP @ 5800 RPM\n154 BHP @ 5800 RPM",
                "Torque": "155 lb-ft @ 1800 RPM\n210 Nm @ 1800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 135.5,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.9
+               "Top Speed": "135.5 mph (218 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3033,40 +3098,41 @@
                "Tire Size": "195/45R16"
           },
           "DIMENSIONS": {
-               "Length": 152.7,
-               "Width": 64.6,
-               "Height": 55.9,
+               "Length": "152.7 in (3879 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
-               "Wheelbase": 96.1,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 8.8
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "8.8 cuFT (249 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2411.8,
-               "Gross Weight Limit": 3481.1
+               "Unladen Weight": "2411.8 lbs (1094 kg)",
+               "Gross Weight Limit": "3481.1 lbs (1579 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21.8,
-               "Highway": 39.2,
-               "Combined": 30.2,
-               "CO2 Emissions": 185.6
+               "City": "21.8 mpg US (10.8 L/100Km)",
+               "Highway": "39.2 mpg US (6 L/100Km)",
+               "Combined": "30.2 mpg US (7.8 L/100Km)",
+               "CO2 Emissions": "185.6 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza Cupra 1999-200105-03-07-14-15.jpg"
 },{
      "model_name": "SEAT Ibiza Cupra 1996-1999",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 16V 5MT (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1984,
+               "Displacement": "1984 cm3",
                "Power": "110 KW @ 6000 RPM\n150 HP @ 6000 RPM\n148 BHP @ 6000 RPM",
                "Torque": "133 lb-ft @ 4600 RPM\n180 Nm @ 4600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 134.2,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.3
+               "Top Speed": "134.2 mph (216 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3080,40 +3146,41 @@
                "Tire Size": "195/45R16"
           },
           "DIMENSIONS": {
-               "Length": 151.6,
-               "Width": 64.6,
-               "Height": 55.5,
+               "Length": "151.6 in (3851 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "55.5 in (1410 mm)",
                "Front/rear Track": "56.3/54.7 in (1,430/1,389 mm)",
-               "Wheelbase": 96.1,
-               "Cargo Volume": 9.5,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Cargo Volume": "9.5 cuFT (269 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2370,
-               "Gross Weight Limit": 3439.2
+               "Unladen Weight": "2370 lbs (1075 kg)",
+               "Gross Weight Limit": "3439.2 lbs (1560 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19.8,
-               "Highway": 36.7,
-               "Combined": 28,
-               "CO2 Emissions": 201
+               "City": "19.8 mpg US (11.9 L/100Km)",
+               "Highway": "36.7 mpg US (6.4 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)",
+               "CO2 Emissions": "201 g/km"
           }
-     }
+     },
+     "img": "images/SEAT Ibiza Cupra 1996-199905-03-07-14-17.jpg"
 },{
      "model_name": "2009 Seat Ibiza FR 5-doors",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT FWD (70 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1198,
+               "Displacement": "1198 cm3",
                "Power": "51 KW @ 5400 RPM\n69 HP @ 5400 RPM\n68 BHP @ 5400 RPM",
                "Torque": "83 lb-ft @ 3000 RPM\n113 Nm @ 3000 RPM",
                "Fuel System": "Turbocharged multipoint injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 101,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.9
+               "Top Speed": "101 mph (163 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3127,43 +3194,44 @@
                "Tire Size": "215/40 R17"
           },
           "DIMENSIONS": {
-               "Length": 160.94,
-               "Width": 66.65,
-               "Height": 56.73,
+               "Length": "160.94 in (4088 mm)",
+               "Width": "66.65 in (1693 mm)",
+               "Height": "56.73 in (1441 mm)",
                "Front/rear Track": "57/56.7 in (1,448/1,440 mm)",
-               "Wheelbase": 97.2,
-               "Ground Clearance": 4.9,
-               "Cargo Volume": 10.3,
-               "Aerodynamics (Cd)": 0.3,
-               "Turning circle": 34.4
+               "Wheelbase": "97.2 in (2469 mm)",
+               "Ground Clearance": "4.9 in (124 mm)",
+               "Cargo Volume": "10.3 cuFT (292 L)",
+               "Aerodynamics (Cd)": "0.3",
+               "Turning circle": "34.4 ft (10.5 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2313,
-               "Gross Weight Limit": 3307
+               "Unladen Weight": "2313 lbs (1049 kg)",
+               "Gross Weight Limit": "3307 lbs (1500 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 33.1,
-               "Highway": 53.5,
-               "Combined": 43.6,
-               "CO2 Emissions": 125
+               "City": "33.1 mpg US (7.1 L/100Km)",
+               "Highway": "53.5 mpg US (4.4 L/100Km)",
+               "Combined": "43.6 mpg US (5.4 L/100Km)",
+               "CO2 Emissions": "125 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2009 Seat Ibiza FR 5-doors05-03-07-14-21.jpg"
 },{
      "model_name": "SEAT Ibiza FR Sport Coupe (SC) 2009-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2 TSI 7AT FWD (105 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1197,
+               "Displacement": "1197 cm3",
                "Power": "77 KW @ 5000 RPM\n105 HP @ 5000 RPM\n103 BHP @ 5000 RPM",
                "Torque": "129 lb-ft @ 1550 RPM\n175 Nm @ 1550 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.7
+               "Top Speed": "118 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3177,43 +3245,44 @@
                "Tire Size": "215/40 R17"
           },
           "DIMENSIONS": {
-               "Length": 160.31,
-               "Width": 66.65,
-               "Height": 56,
+               "Length": "160.31 in (4072 mm)",
+               "Width": "66.65 in (1693 mm)",
+               "Height": "56 in (1422 mm)",
                "Front/rear Track": "57/56.7 in (1,448/1,440 mm)",
-               "Wheelbase": 97.2,
-               "Ground Clearance": 175,
-               "Cargo Volume": 10,
-               "Aerodynamics (Cd)": 0.3,
-               "Turning circle": 34.4
+               "Wheelbase": "97.2 in (2469 mm)",
+               "Ground Clearance": "175 in (4445 mm)",
+               "Cargo Volume": "10 cuFT (283 L)",
+               "Aerodynamics (Cd)": "0.3",
+               "Turning circle": "34.4 ft (10.5 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2458,
-               "Gross Weight Limit": 3452
+               "Unladen Weight": "2458 lbs (1115 kg)",
+               "Gross Weight Limit": "3452 lbs (1566 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 33.6,
-               "Highway": 53.5,
-               "Combined": 44.4,
-               "CO2 Emissions": 124
+               "City": "33.6 mpg US (7 L/100Km)",
+               "Highway": "53.5 mpg US (4.4 L/100Km)",
+               "Combined": "44.4 mpg US (5.3 L/100Km)",
+               "CO2 Emissions": "124 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza FR Sport Coupe (SC) 2009-201705-03-07-14-25.jpg"
 },{
      "model_name": "SEAT Ibiza ST 2010-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT (60 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1198,
+               "Displacement": "1198 cm3",
                "Power": "44 KW @ 5200 RPM\n60 HP @ 5200 RPM\n59 BHP @ 5200 RPM",
                "Torque": "80 lb-ft @ 3000 RPM\n108 Nm @ 3000 RPM",
                "Fuel System": "Turbocharged multipoint injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 96,
-               "Acceleration 0-62 Mph (0-100 kph)": 16.7
+               "Top Speed": "96 mph (154 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "16.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3227,42 +3296,43 @@
                "Tire Size": "185/60 R15"
           },
           "DIMENSIONS": {
-               "Length": 166.4,
-               "Width": 66.6,
-               "Height": 56.9,
+               "Length": "166.4 in (4227 mm)",
+               "Width": "66.6 in (1692 mm)",
+               "Height": "56.9 in (1445 mm)",
                "Front/rear Track": "57.7/57.3 in (1,466/1,455 mm)",
-               "Wheelbase": 97.2,
-               "Ground Clearance": 4.9,
-               "Cargo Volume": 15.2,
-               "Aerodynamics (Cd)": 0.3,
-               "Turning circle": 34.4
+               "Wheelbase": "97.2 in (2469 mm)",
+               "Ground Clearance": "4.9 in (124 mm)",
+               "Cargo Volume": "15.2 cuFT (430 L)",
+               "Aerodynamics (Cd)": "0.3",
+               "Turning circle": "34.4 ft (10.5 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2447,
-               "Gross Weight Limit": 3450
+               "Unladen Weight": "2447 lbs (1110 kg)",
+               "Gross Weight Limit": "3450 lbs (1565 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 32.2,
-               "Highway": 52.3,
-               "Combined": 42.8,
-               "CO2 Emissions": 128
+               "City": "32.2 mpg US (7.3 L/100Km)",
+               "Highway": "52.3 mpg US (4.5 L/100Km)",
+               "Combined": "42.8 mpg US (5.5 L/100Km)",
+               "CO2 Emissions": "128 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Ibiza ST 2010-201705-03-07-14-28.jpg"
 },{
      "model_name": "SEAT Leon FR 2006-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0 TFSI 6MT (200 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1984,
+               "Displacement": "1984 cm3",
                "Power": "147 KW @ 5100 RPM\n200 HP @ 5100 RPM\n197 BHP @ 5100 RPM",
                "Torque": "207 lb-ft @ 1800 RPM\n280 Nm @ 1800 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 142.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.3
+               "Top Speed": "142.3 mph (229 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3276,41 +3346,42 @@
                "Tire Size": "225/45R17"
           },
           "DIMENSIONS": {
-               "Length": 169.9,
-               "Width": 69.6,
-               "Height": 57.4,
+               "Length": "169.9 in (4315 mm)",
+               "Width": "69.6 in (1768 mm)",
+               "Height": "57.4 in (1458 mm)",
                "Front/rear Track": "60.4/59.7 in (1,534/1,516 mm)",
-               "Wheelbase": 101.5,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 12,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "101.5 in (2578 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "12 cuFT (340 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2885.8,
-               "Gross Weight Limit": 4197.6
+               "Unladen Weight": "2885.8 lbs (1309 kg)",
+               "Gross Weight Limit": "4197.6 lbs (1904 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21.4,
-               "Highway": 37.9,
-               "Combined": 29.8,
-               "CO2 Emissions": 190
+               "City": "21.4 mpg US (11 L/100Km)",
+               "Highway": "37.9 mpg US (6.2 L/100Km)",
+               "Combined": "29.8 mpg US (7.9 L/100Km)",
+               "CO2 Emissions": "190 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Leon FR 2006-201205-03-07-14-31.jpg"
 },{
      "model_name": "SEAT Leon FR / TopSport 2002-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8 20VT 6MT (180 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1781,
+               "Displacement": "1781 cm3",
                "Power": "132 KW @ 5500 RPM\n180 HP @ 5500 RPM\n177 BHP @ 5500 RPM",
                "Torque": "173 lb-ft @ 2000 RPM\n235 Nm @ 2000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 142,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.7
+               "Top Speed": "142 mph (229 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3324,42 +3395,43 @@
                "Tire Size": "225/45R17"
           },
           "DIMENSIONS": {
-               "Length": 164.7,
-               "Width": 68.6,
-               "Height": 56.7,
+               "Length": "164.7 in (4183 mm)",
+               "Width": "68.6 in (1742 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "59.1/58.3 in (1,501/1,481 mm)",
-               "Wheelbase": 98.9,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 12,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "98.9 in (2512 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "12 cuFT (340 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2786.6,
-               "Gross Weight Limit": 3988.2
+               "Unladen Weight": "2786.6 lbs (1264 kg)",
+               "Gross Weight Limit": "3988.2 lbs (1809 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19.8,
-               "Highway": 36.7,
-               "Combined": 27.7,
-               "CO2 Emissions": 202
+               "City": "19.8 mpg US (11.9 L/100Km)",
+               "Highway": "36.7 mpg US (6.4 L/100Km)",
+               "Combined": "27.7 mpg US (8.5 L/100Km)",
+               "CO2 Emissions": "202 g/km"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "SEAT Malaga 1985-1992",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT FWD (63 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1193,
+               "Displacement": "1193 cm3",
                "Power": "46 KW @ 5800 RPM\n63 HP @ 5800 RPM\n62 BHP @ 5800 RPM",
                "Torque": "65 lb-ft @ 3500 RPM\n88 Nm @ 3500 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93.2,
-               "Acceleration 0-62 Mph (0-100 kph)": 18
+               "Top Speed": "93.2 mph (150 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "18 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3373,40 +3445,41 @@
                "Tire Size": "155/55/SR13"
           },
           "DIMENSIONS": {
-               "Length": 168.1,
-               "Width": 65,
-               "Height": 55.1,
+               "Length": "168.1 in (4270 mm)",
+               "Width": "65 in (1651 mm)",
+               "Height": "55.1 in (1400 mm)",
                "Front/rear Track": "55.1/55.51 in (1,400/1,410 mm)",
-               "Wheelbase": 96.5,
-               "Ground Clearance": 4.9,
-               "Cargo Volume": 18.2
+               "Wheelbase": "96.5 in (2451 mm)",
+               "Ground Clearance": "4.9 in (124 mm)",
+               "Cargo Volume": "18.2 cuFT (515 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2006.2,
-               "Gross Weight Limit": 3196.7
+               "Unladen Weight": "2006.2 lbs (910 kg)",
+               "Gross Weight Limit": "3196.7 lbs (1450 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25.3,
-               "Highway": 47,
-               "Combined": 33.1,
-               "CO2 Emissions": 169
+               "City": "25.3 mpg US (9.3 L/100Km)",
+               "Highway": "47 mpg US (5 L/100Km)",
+               "Combined": "33.1 mpg US (7.1 L/100Km)",
+               "CO2 Emissions": "169 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Malaga 1985-199205-03-07-14-36.jpg"
 },{
      "model_name": "SEAT Marbella 1986-1998",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.9L 4MT (41 HP)": {
                "Cylinders": "L4",
-               "Displacement": 903,
+               "Displacement": "903 cm3",
                "Power": "30 KW @ 5800 RPM\n41 HP @ 5800 RPM\n40 BHP @ 5800 RPM",
                "Torque": "44 lb-ft @ 2800 RPM\n60 Nm @ 2800 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 83.9,
-               "Acceleration 0-62 Mph (0-100 kph)": 19.2
+               "Top Speed": "83.9 mph (135 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "19.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3420,40 +3493,41 @@
                "Tire Size": "135SR13"
           },
           "DIMENSIONS": {
-               "Length": 137,
-               "Width": 57.5,
-               "Height": 56.7,
+               "Length": "137 in (3480 mm)",
+               "Width": "57.5 in (1461 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "49.2/49.2 in (1,250/1,250 mm)",
-               "Wheelbase": 85,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 9.6
+               "Wheelbase": "85 in (2159 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "9.6 cuFT (272 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1565.3,
-               "Gross Weight Limit": 2535.3
+               "Unladen Weight": "1565.3 lbs (710 kg)",
+               "Gross Weight Limit": "2535.3 lbs (1150 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 32.2,
-               "Highway": 48,
-               "Combined": 35.6,
-               "CO2 Emissions": 157.1
+               "City": "32.2 mpg US (7.3 L/100Km)",
+               "Highway": "48 mpg US (4.9 L/100Km)",
+               "Combined": "35.6 mpg US (6.6 L/100Km)",
+               "CO2 Emissions": "157.1 g/km"
           }
-     }
+     },
+     "img": "images/SEAT Marbella 1986-199805-03-07-14-37.jpg"
 },{
      "model_name": "SEAT Toledo 2012-2018",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L TSI 6MT (110 HP)": {
                "Cylinders": "L3",
-               "Displacement": 999,
+               "Displacement": "999 cm3",
                "Power": "80.9 KW @ 5500 RPM\n110 HP @ 5500 RPM\n108 BHP @ 5500 RPM",
                "Torque": "148 lb-ft @ 3500 RPM\n200 Nm @ 3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.8
+               "Top Speed": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3467,37 +3541,38 @@
                "Tire Size": "185/60 R15"
           },
           "DIMENSIONS": {
-               "Length": 176.5,
-               "Width": 67.2,
-               "Height": 57.5,
+               "Length": "176.5 in (4483 mm)",
+               "Width": "67.2 in (1707 mm)",
+               "Height": "57.5 in (1461 mm)",
                "Front/rear Track": "57.6/59.1 in (1,463/1,501 mm)",
-               "Wheelbase": 102.4,
-               "Cargo Volume": 19.4
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Cargo Volume": "19.4 cuFT (549 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2590,
-               "Gross Weight Limit": 3605
+               "Unladen Weight": "2590 lbs (1175 kg)",
+               "Gross Weight Limit": "3605 lbs (1635 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "CO2 Emissions": 104
+               "CO2 Emissions": "104 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Toledo 2012-201805-03-07-14-41.jpg"
 },{
      "model_name": "SEAT Toledo 2004-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT FWD (102 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1595,
+               "Displacement": "1595 cm3",
                "Power": "75 KW @ 5600 RPM\n102 HP @ 5600 RPM\n101 BHP @ 5600 RPM",
                "Torque": "109 lb-ft @ 3800 RPM\n148 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.9
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3511,42 +3586,43 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 175.5,
-               "Width": 69.6,
-               "Height": 61.7,
+               "Length": "175.5 in (4458 mm)",
+               "Width": "69.6 in (1768 mm)",
+               "Height": "61.7 in (1567 mm)",
                "Front/rear Track": "60.4/60 in (1,534/1,524 mm)",
-               "Wheelbase": 101.5,
-               "Ground Clearance": 4.7,
-               "Cargo Volume": 16.2,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "101.5 in (2578 mm)",
+               "Ground Clearance": "4.7 in (119 mm)",
+               "Cargo Volume": "16.2 cuFT (459 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2907.9,
-               "Gross Weight Limit": 4285.8
+               "Unladen Weight": "2907.9 lbs (1319 kg)",
+               "Gross Weight Limit": "4285.8 lbs (1944 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22.4,
-               "Highway": 38.5,
-               "Combined": 30.5,
-               "CO2 Emissions": 185
+               "City": "22.4 mpg US (10.5 L/100Km)",
+               "Highway": "38.5 mpg US (6.1 L/100Km)",
+               "Combined": "30.5 mpg US (7.7 L/100Km)",
+               "CO2 Emissions": "185 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Toledo 2004-200905-03-07-14-44.jpg"
 },{
      "model_name": "1999 SEAT Toledo",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 16V 5MT FWD (105 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1595,
+               "Displacement": "1595 cm3",
                "Power": "77 KW @ 5700 RPM\n105 HP @ 5700 RPM\n103 BHP @ 5700 RPM",
                "Torque": "109 lb-ft @ 4500 RPM\n148 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 119.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.9
+               "Top Speed": "119.3 mph (192 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3560,41 +3636,42 @@
                "Tire Size": "195/65R15"
           },
           "DIMENSIONS": {
-               "Length": 174.8,
-               "Width": 68.5,
-               "Height": 56.7,
+               "Length": "174.8 in (4440 mm)",
+               "Width": "68.5 in (1740 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "59.4/58.7 in (1,509/1,491 mm)",
-               "Wheelbase": 98.8,
-               "Ground Clearance": 4.7,
-               "Cargo Volume": 17.6,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "98.8 in (2510 mm)",
+               "Ground Clearance": "4.7 in (119 mm)",
+               "Cargo Volume": "17.6 cuFT (498 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2570.6,
-               "Gross Weight Limit": 3831.6
+               "Unladen Weight": "2570.6 lbs (1166 kg)",
+               "Gross Weight Limit": "3831.6 lbs (1738 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25,
-               "Highway": 42.8,
-               "Combined": 34,
-               "CO2 Emissions": 166
+               "City": "25 mpg US (9.4 L/100Km)",
+               "Highway": "42.8 mpg US (5.5 L/100Km)",
+               "Combined": "34 mpg US (6.9 L/100Km)",
+               "CO2 Emissions": "166 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/1999 SEAT Toledo05-03-07-14-48.jpg"
 },{
      "model_name": "SEAT Toledo 1995-1999",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT FWD (101 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1595,
+               "Displacement": "1595 cm3",
                "Power": "74 KW @ 5800 RPM\n101 HP @ 5800 RPM\n99 BHP @ 5800 RPM",
                "Torque": "103 lb-ft @ 3500 RPM\n140 Nm @ 3500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 116.8,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.3
+               "Top Speed": "116.8 mph (188 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3608,42 +3685,43 @@
                "Tire Size": "185/60R14"
           },
           "DIMENSIONS": {
-               "Length": 170.1,
-               "Width": 65.4,
-               "Height": 55.9,
+               "Length": "170.1 in (4321 mm)",
+               "Width": "65.4 in (1661 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/55.9 in (1,430/1,420 mm)",
-               "Wheelbase": 97.2,
-               "Ground Clearance": 4.7,
-               "Cargo Volume": 19.4,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "97.2 in (2469 mm)",
+               "Ground Clearance": "4.7 in (119 mm)",
+               "Cargo Volume": "19.4 cuFT (549 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2535.3,
-               "Gross Weight Limit": 3406.1
+               "Unladen Weight": "2535.3 lbs (1150 kg)",
+               "Gross Weight Limit": "3406.1 lbs (1545 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21.8,
-               "Highway": 38.6,
-               "Combined": 30.2,
-               "CO2 Emissions": 185.6
+               "City": "21.8 mpg US (10.8 L/100Km)",
+               "Highway": "38.6 mpg US (6.1 L/100Km)",
+               "Combined": "30.2 mpg US (7.8 L/100Km)",
+               "CO2 Emissions": "185.6 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SEAT Toledo 1995-199905-03-07-14-51.jpg"
 },{
      "model_name": "1991 SEAT Toledo",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT FWD (71 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1595,
+               "Displacement": "1595 cm3",
                "Power": "52 KW @ 5200 RPM\n71 HP @ 5200 RPM\n70 BHP @ 5200 RPM",
                "Torque": "92 lb-ft @ 2750 RPM\n124 Nm @ 2750 RPM",
                "Fuel System": "Monopoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 105.6,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.3
+               "Top Speed": "105.6 mph (170 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -3657,23 +3735,24 @@
                "Tire Size": "175/70R13"
           },
           "DIMENSIONS": {
-               "Length": 170.1,
-               "Width": 65.4,
-               "Height": 55.9,
+               "Length": "170.1 in (4321 mm)",
+               "Width": "65.4 in (1661 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "56.3/55.9 in (1,430/1,420 mm)",
-               "Wheelbase": 97.2,
-               "Cargo Volume": 19.4,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "97.2 in (2469 mm)",
+               "Cargo Volume": "19.4 cuFT (549 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2226.7,
-               "Gross Weight Limit": 3295.9
+               "Unladen Weight": "2226.7 lbs (1010 kg)",
+               "Gross Weight Limit": "3295.9 lbs (1495 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 31.8,
-               "CO2 Emissions": 176.1
+               "Combined": "31.8 mpg US (7.4 L/100Km)",
+               "CO2 Emissions": "176.1 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/1991 SEAT Toledo05-03-07-14-55.jpg"
 },	
  ] } 

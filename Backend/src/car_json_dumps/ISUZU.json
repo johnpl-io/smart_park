@@ -2,9 +2,9 @@
 {
      "model_name": "ISUZU D-Max Arctic Trucks AT35 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5 5AT 4X4 (163 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2499,
+               "Displacement": "2499 cm3",
                "Power": "119.9 KW @ 3600 RPM\n163 HP @ 3600 RPM\n161 BHP @ 3600 RPM",
                "Torque": "295 lb-ft @ 1400-2000 RPM\n400 Nm @ 1400-2000 RPM",
                "Fuel System": "Turbocharged Common Rail",
@@ -22,32 +22,33 @@
                "Tire Size": "315/70 R17"
           },
           "DIMENSIONS": {
-               "Length": 208.5,
-               "Width": 78.7,
-               "Height": 76,
-               "Wheelbase": 121.9,
-               "Ground Clearance": 11.4,
-               "Aerodynamics (Cd)": 0.47
+               "Length": "208.5 in (5296 mm)",
+               "Width": "78.7 in (1999 mm)",
+               "Height": "76 in (1930 mm)",
+               "Wheelbase": "121.9 in (3096 mm)",
+               "Ground Clearance": "11.4 in (290 mm)",
+               "Aerodynamics (Cd)": "0.47"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4652,
-               "Gross Weight Limit": 6956
+               "Unladen Weight": "4652 lbs (2110 kg)",
+               "Gross Weight Limit": "6956 lbs (3155 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU D-Max Arctic Trucks AT35 2016-Present05-03-05-16-25.jpg"
 },{
      "model_name": "ISUZU D-Max Double Cab 2015-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L 5AT 4X4 (163 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2499,
+               "Displacement": "2499 cm3",
                "Power": "119.9 KW @ 3600 RPM\n163 HP @ 3600 RPM\n161 BHP @ 3600 RPM",
                "Torque": "295 lb-ft @ 1400-2000 RPM\n400 Nm @ 1400-2000 RPM",
                "Fuel System": "Turbocharged Common Rail",
                "Fuel": "Diesel"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112
+               "Top Speed": "112 mph (180 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -61,37 +62,38 @@
                "Tire Size": "245/70 R16"
           },
           "DIMENSIONS": {
-               "Length": 208.5,
-               "Width": 73.4,
-               "Height": 70.3,
-               "Wheelbase": 121.9,
-               "Ground Clearance": 9.3,
-               "Aerodynamics (Cd)": 0.47
+               "Length": "208.5 in (5296 mm)",
+               "Width": "73.4 in (1864 mm)",
+               "Height": "70.3 in (1786 mm)",
+               "Wheelbase": "121.9 in (3096 mm)",
+               "Ground Clearance": "9.3 in (236 mm)",
+               "Aerodynamics (Cd)": "0.47"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4319,
-               "Gross Weight Limit": 6724
+               "Unladen Weight": "4319 lbs (1959 kg)",
+               "Gross Weight Limit": "6724 lbs (3050 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.3,
-               "Highway": 32.2,
-               "Combined": 28,
-               "CO2 Emissions": 220
+               "City": "23.3 mpg US (10.1 L/100Km)",
+               "Highway": "32.2 mpg US (7.3 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)",
+               "CO2 Emissions": "220 g/km"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "ISUZU D-Max Double Cab 2012-2015",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L 5MT AWD (136 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2499,
+               "Displacement": "2499 cm3",
                "Power": "100 KW @ 3600 RPM\n136 HP @ 3600 RPM\n134 BHP @ 3600 RPM",
                "Fuel System": "Turbocharged Common Rail",
                "Fuel": "Diesel"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106
+               "Top Speed": "106 mph (171 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -105,77 +107,79 @@
                "Tire Size": "245/70 R16"
           },
           "DIMENSIONS": {
-               "Length": 208.5,
-               "Width": 74,
-               "Height": 70.3,
+               "Length": "208.5 in (5296 mm)",
+               "Width": "74 in (1880 mm)",
+               "Height": "70.3 in (1786 mm)",
                "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
-               "Wheelbase": 121.9,
-               "Ground Clearance": 8.9,
-               "Aerodynamics (Cd)": 0.47
+               "Wheelbase": "121.9 in (3096 mm)",
+               "Ground Clearance": "8.9 in (226 mm)",
+               "Aerodynamics (Cd)": "0.47"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4539,
-               "Gross Weight Limit": 6504
+               "Unladen Weight": "4539 lbs (2059 kg)",
+               "Gross Weight Limit": "6504 lbs (2950 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24,
-               "Highway": 33,
-               "Combined": 29,
-               "CO2 Emissions": 213
+               "City": "24 mpg US (9.8 L/100Km)",
+               "Highway": "33 mpg US (7.1 L/100Km)",
+               "Combined": "29 mpg US (8.1 L/100Km)",
+               "CO2 Emissions": "213 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU D-Max Double Cab 2012-201505-03-05-16-39.jpg"
 },{
      "model_name": "ISUZU Rodeo Single Cab 2002-2011",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5 D 5MT (205 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2499,
+               "Displacement": "2499 cm3",
                "Power": "150.8 KW @ 5400 RPM\n205 HP @ 5400 RPM\n202 BHP @ 5400 RPM",
                "Fuel System": "Common Rail",
                "Fuel": "Diesel"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 108,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.2
+               "Top Speed": "108 mph (174 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
                "Gearbox": "5-Speed manual"
           },
           "DIMENSIONS": {
-               "Length": 202.9,
-               "Width": 67.7,
-               "Height": 64.3,
+               "Length": "202.9 in (5154 mm)",
+               "Width": "67.7 in (1720 mm)",
+               "Height": "64.3 in (1633 mm)",
                "Front/rear Track": "57.4/57.4 in (1,458/1,458 mm)",
-               "Wheelbase": 120,
-               "Ground Clearance": 7.6
+               "Wheelbase": "120 in (3048 mm)",
+               "Ground Clearance": "7.6 in (193 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3560,
-               "Gross Weight Limit": 6283
+               "Unladen Weight": "3560 lbs (1615 kg)",
+               "Gross Weight Limit": "6283 lbs (2850 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25.3,
-               "Highway": 37.3,
-               "Combined": 31.8,
-               "CO2 Emissions": 196
+               "City": "25.3 mpg US (9.3 L/100Km)",
+               "Highway": "37.3 mpg US (6.3 L/100Km)",
+               "Combined": "31.8 mpg US (7.4 L/100Km)",
+               "CO2 Emissions": "196 g/km"
           }
-     }
+     },
+     "img": "images/ISUZU Rodeo Single Cab 2002-201105-03-05-16-40.jpg"
 },{
      "model_name": "ISUZU Rodeo Crew Cab 2002-2011",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2I V6 4AT AWD (208 HP)": {
                "Cylinders": "L4",
-               "Displacement": 3165,
+               "Displacement": "3165 cm3",
                "Power": "153 KW @ 5400 RPM\n208 HP @ 5400 RPM\n205 BHP @ 5400 RPM",
                "Torque": "214 lb-ft @ 3000 RPM\n290 Nm @ 3000 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.6
+               "Fuel capacity": "16.6 gallons (62.8 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 115
+               "Top Speed": "115 mph (185 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -189,38 +193,39 @@
                "Tire Size": "235/75 R15"
           },
           "DIMENSIONS": {
-               "Length": 200,
-               "Width": 70.8,
-               "Height": 68.3,
+               "Length": "200 in (5080 mm)",
+               "Width": "70.8 in (1798 mm)",
+               "Height": "68.3 in (1735 mm)",
                "Front/rear Track": "59.8/60 in (1,519/1,524 mm)",
-               "Wheelbase": 120,
-               "Ground Clearance": 8
+               "Wheelbase": "120 in (3048 mm)",
+               "Ground Clearance": "8 in (203 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4265,
-               "Gross Weight Limit": 6503
+               "Unladen Weight": "4265 lbs (1935 kg)",
+               "Gross Weight Limit": "6503 lbs (2950 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16,
-               "Highway": 19.9
+               "City": "16 mpg US (14.7 L/100Km)",
+               "Highway": "19.9 mpg US (11.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU Rodeo Crew Cab 2002-201105-03-05-16-42.jpg"
 },{
      "model_name": "ISUZU 117 Coupe 1968-1981",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 4MT RWD (120 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1584,
+               "Displacement": "1584 cm3",
                "Power": "88.3 KW @ 6400 RPM\n120 HP @ 6400 RPM\n118 BHP @ 6400 RPM",
                "Torque": "105 lb-ft @ 5000 RPM\n142 Nm @ 5000 RPM",
                "Fuel System": "2 Carburetors",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+               "Top Speed": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -234,39 +239,40 @@
                "Tire Size": "6.45 H 14"
           },
           "DIMENSIONS": {
-               "Length": 168.5,
-               "Width": 63,
-               "Height": 52,
+               "Length": "168.5 in (4280 mm)",
+               "Width": "63 in (1600 mm)",
+               "Height": "52 in (1321 mm)",
                "Front/rear Track": "52.2/51.6 in (1,326/1,311 mm)",
-               "Wheelbase": 98.4,
-               "Ground Clearance": 7.1,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "98.4 in (2499 mm)",
+               "Ground Clearance": "7.1 in (180 mm)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2315,
-               "Gross Weight Limit": 3307
+               "Unladen Weight": "2315 lbs (1050 kg)",
+               "Gross Weight Limit": "3307 lbs (1500 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20.5,
-               "Highway": 23.5,
-               "Combined": 22
+               "City": "20.5 mpg US (11.5 L/100Km)",
+               "Highway": "23.5 mpg US (10 L/100Km)",
+               "Combined": "22 mpg US (10.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU 117 Coupe 1968-198105-03-05-16-47.jpg"
 },{
      "model_name": "ISUZU Amigo 3 Doors 1997-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2L 5MT RWD (132 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2198,
+               "Displacement": "2198 cm3",
                "Power": "97.1 KW @ 5200 RPM\n132 HP @ 5200 RPM\n130 BHP @ 5200 RPM",
                "Torque": "148 lb-ft @ 4000 RPM\n200 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -280,40 +286,41 @@
                "Tire Size": "235/60R16"
           },
           "DIMENSIONS": {
-               "Length": 167.8,
-               "Width": 70.4,
-               "Height": 66.6,
+               "Length": "167.8 in (4262 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "66.6 in (1692 mm)",
                "Front/rear Track": "59.6/59.8 in (1,514/1,519 mm)",
-               "Wheelbase": 96.9,
-               "Ground Clearance": 7.9,
-               "Cargo Volume": 21,
-               "Aerodynamics (Cd)": 0.43
+               "Wheelbase": "96.9 in (2461 mm)",
+               "Ground Clearance": "7.9 in (201 mm)",
+               "Cargo Volume": "21 cuFT (595 L)",
+               "Aerodynamics (Cd)": "0.43"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3360,
-               "Gross Weight Limit": 4451
+               "Unladen Weight": "3360 lbs (1524 kg)",
+               "Gross Weight Limit": "4451 lbs (2019 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21,
-               "Highway": 24,
-               "Combined": 22
+               "City": "21 mpg US (11.2 L/100Km)",
+               "Highway": "24 mpg US (9.8 L/100Km)",
+               "Combined": "22 mpg US (10.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU Amigo 3 Doors 1997-200305-03-05-16-49.jpg"
 },{
      "model_name": "ISUZU Amigo Cabrio 1998-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2L 5MT RWD (132 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2198,
+               "Displacement": "2198 cm3",
                "Power": "97.1 KW @ 5200 RPM\n132 HP @ 5200 RPM\n130 BHP @ 5200 RPM",
                "Torque": "144 lb-ft @ 4000 RPM\n195 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 101,
-               "Acceleration 0-62 Mph (0-100 kph)": 12
+               "Top Speed": "101 mph (163 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -327,37 +334,38 @@
                "Tire Size": "235/60R16"
           },
           "DIMENSIONS": {
-               "Length": 167.8,
-               "Width": 70.4,
-               "Height": 66.6,
+               "Length": "167.8 in (4262 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "66.6 in (1692 mm)",
                "Front/rear Track": "59.6/59.8 in (1,514/1,519 mm)",
-               "Wheelbase": 96.9,
-               "Ground Clearance": 7.9,
-               "Cargo Volume": 21,
-               "Aerodynamics (Cd)": 0.43
+               "Wheelbase": "96.9 in (2461 mm)",
+               "Ground Clearance": "7.9 in (201 mm)",
+               "Cargo Volume": "21 cuFT (595 L)",
+               "Aerodynamics (Cd)": "0.43"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3329,
-               "Gross Weight Limit": 4550
+               "Unladen Weight": "3329 lbs (1510 kg)",
+               "Gross Weight Limit": "4550 lbs (2064 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21,
-               "Highway": 24,
-               "Combined": 22
+               "City": "21 mpg US (11.2 L/100Km)",
+               "Highway": "24 mpg US (9.8 L/100Km)",
+               "Combined": "22 mpg US (10.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU Amigo Cabrio 1998-200305-03-05-16-52.jpg"
 },{
      "model_name": "ISUZU Ascender 2001-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.2L 4AT 2WD (275 HP)": {
                "Cylinders": "L6",
-               "Displacement": 4160,
+               "Displacement": "4160 cm3",
                "Power": "205 KW @ 6000 RPM\n279 HP @ 6000 RPM\n275 BHP @ 6000 RPM",
                "Torque": "275 lb-ft @ 3600 RPM\n373 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 25.1
+               "Fuel capacity": "25.1 gallons (95.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -371,41 +379,42 @@
                "Tire Size": "245/70 R 16"
           },
           "DIMENSIONS": {
-               "Length": 191.6,
-               "Width": 76.1,
-               "Height": 74.5,
+               "Length": "191.6 in (4867 mm)",
+               "Width": "76.1 in (1933 mm)",
+               "Height": "74.5 in (1892 mm)",
                "Front/rear Track": "63.1/62 in (1,603/1,575 mm)",
-               "Wheelbase": 113,
-               "Ground Clearance": 9.3,
-               "Cargo Volume": 79.4,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "113 in (2870 mm)",
+               "Ground Clearance": "9.3 in (236 mm)",
+               "Cargo Volume": "79.4 cuFT (2248 L)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4417,
-               "Gross Weight Limit": 5550
+               "Unladen Weight": "4417 lbs (2004 kg)",
+               "Gross Weight Limit": "5550 lbs (2517 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14,
-               "Highway": 20,
-               "Combined": 18.1
+               "City": "14 mpg US (16.8 L/100Km)",
+               "Highway": "20 mpg US (11.8 L/100Km)",
+               "Combined": "18.1 mpg US (13 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU Ascender 2001-200805-03-05-16-54.jpg"
 },{
      "model_name": "ISUZU Axiom 2001-2004",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 4AT AWD (231 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3494,
+               "Displacement": "3494 cm3",
                "Power": "170 KW @ 5600 RPM\n231 HP @ 5600 RPM\n228 BHP @ 5600 RPM",
                "Torque": "232 lb-ft @ 3000 RPM\n314 Nm @ 3000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19.5
+               "Fuel capacity": "19.5 gallons (73.8 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -419,37 +428,38 @@
                "Tire Size": "235/65 R17"
           },
           "DIMENSIONS": {
-               "Length": 182.6,
-               "Width": 70.7,
-               "Height": 67.2,
+               "Length": "182.6 in (4638 mm)",
+               "Width": "70.7 in (1796 mm)",
+               "Height": "67.2 in (1707 mm)",
                "Front/rear Track": "59.6/59.8 in (1,514/1,519 mm)",
-               "Wheelbase": 106.4,
-               "Ground Clearance": 7.9,
-               "Cargo Volume": 35.2
+               "Wheelbase": "106.4 in (2703 mm)",
+               "Ground Clearance": "7.9 in (201 mm)",
+               "Cargo Volume": "35.2 cuFT (997 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4266,
-               "Gross Weight Limit": 5203
+               "Unladen Weight": "4266 lbs (1935 kg)",
+               "Gross Weight Limit": "5203 lbs (2360 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16,
-               "Highway": 19.9
+               "City": "16 mpg US (14.7 L/100Km)",
+               "Highway": "19.9 mpg US (11.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU Axiom 2001-200405-03-05-16-57.jpg"
 },{
      "model_name": "ISUZU Hombre CrewCab 1995-2000",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2L 4AT FWD (122 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2189,
+               "Displacement": "2189 cm3",
                "Power": "90 KW @ 5000 RPM\n122 HP @ 5000 RPM\n121 BHP @ 5000 RPM",
                "Torque": "140 lb-ft @ 3600 RPM\n190 Nm @ 3600 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112
+               "Top Speed": "112 mph (180 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -463,30 +473,31 @@
                "Tire Size": "205/75R15"
           },
           "DIMENSIONS": {
-               "Length": 203.5,
-               "Width": 67.9,
-               "Height": 62.7,
+               "Length": "203.5 in (5169 mm)",
+               "Width": "67.9 in (1725 mm)",
+               "Height": "62.7 in (1593 mm)",
                "Front/rear Track": "54.5/54.6 in (1,384/1,387 mm)",
-               "Wheelbase": 122.9,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 3.9
+               "Wheelbase": "122.9 in (3122 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "3.9 cuFT (110 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3230.3,
-               "Gross Weight Limit": 4599.6
+               "Unladen Weight": "3230.3 lbs (1465 kg)",
+               "Gross Weight Limit": "4599.6 lbs (2086 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.1,
-               "Highway": 29
+               "City": "23.1 mpg US (10.2 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU Hombre CrewCab 1995-200005-03-05-17-00.jpg"
 },{
      "model_name": "ISUZU i-Series Crew Cab 2005-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.8L 5MT FWD (177 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2770,
+               "Displacement": "2770 cm3",
                "Power": "130 KW @ 5600 RPM\n177 HP @ 5600 RPM\n174 BHP @ 5600 RPM",
                "Torque": "185 lb-ft @ 2800 RPM\n251 Nm @ 2800 RPM",
                "Fuel System": "Electronic Injection",
@@ -504,29 +515,30 @@
                "Tire Size": "205/75 R15"
           },
           "DIMENSIONS": {
-               "Length": 207.1,
-               "Width": 67.6,
-               "Height": 64.9,
+               "Length": "207.1 in (5260 mm)",
+               "Width": "67.6 in (1717 mm)",
+               "Height": "64.9 in (1648 mm)",
                "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
-               "Wheelbase": 125.9
+               "Wheelbase": "125.9 in (3198 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3353.8,
-               "Gross Weight Limit": 5000.9
+               "Unladen Weight": "3353.8 lbs (1521 kg)",
+               "Gross Weight Limit": "5000.9 lbs (2268 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19.1,
-               "Highway": 28.3,
-               "Combined": 22.4
+               "City": "19.1 mpg US (12.3 L/100Km)",
+               "Highway": "28.3 mpg US (8.3 L/100Km)",
+               "Combined": "22.4 mpg US (10.5 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU i-Series Crew Cab 2005-200905-03-05-17-02.jpg"
 },{
      "model_name": "ISUZU i-Series Double Cab 2005-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.8L 5MT FWD (177 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2770,
+               "Displacement": "2770 cm3",
                "Power": "130 KW @ 5600 RPM\n177 HP @ 5600 RPM\n174 BHP @ 5600 RPM",
                "Torque": "185 lb-ft @ 2800 RPM\n251 Nm @ 2800 RPM",
                "Fuel System": "Electronic Injection",
@@ -544,37 +556,38 @@
                "Tire Size": "225/70 R15"
           },
           "DIMENSIONS": {
-               "Length": 207.1,
-               "Width": 67.6,
-               "Height": 64.9,
+               "Length": "207.1 in (5260 mm)",
+               "Width": "67.6 in (1717 mm)",
+               "Height": "64.9 in (1648 mm)",
                "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
-               "Wheelbase": 125.9
+               "Wheelbase": "125.9 in (3198 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3519.2,
-               "Gross Weight Limit": 5000.9
+               "Unladen Weight": "3519.2 lbs (1596 kg)",
+               "Gross Weight Limit": "5000.9 lbs (2268 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19.1,
-               "Highway": 28.3,
-               "Combined": 22.4
+               "City": "19.1 mpg US (12.3 L/100Km)",
+               "Highway": "28.3 mpg US (8.3 L/100Km)",
+               "Combined": "22.4 mpg US (10.5 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU i-Series Double Cab 2005-200905-03-05-17-05.jpg"
 },{
      "model_name": "ISUZU MU-7 2004-2013",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.0D 5AT AWD (177 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2999,
+               "Displacement": "2999 cm3",
                "Power": "130.2 KW @ 3600 RPM\n177 HP @ 3600 RPM\n175 BHP @ 3600 RPM",
                "Torque": "280 lb-ft @ 2000 RPM\n380 Nm @ 2000 RPM",
                "Fuel System": "Turbocharged Common Rail",
                "Fuel": "Diesel"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 107,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.2
+               "Top Speed": "107 mph (172 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -588,34 +601,35 @@
                "Tire Size": "245/70 R16"
           },
           "DIMENSIONS": {
-               "Length": 195,
-               "Width": 80.87,
-               "Height": 71.06,
+               "Length": "195 in (4953 mm)",
+               "Width": "80.87 in (2054 mm)",
+               "Height": "71.06 in (1805 mm)",
                "Front/rear Track": "59.84/60.03 in (1,520/1,525 mm)",
-               "Wheelbase": 120,
-               "Ground Clearance": 8.27,
-               "Aerodynamics (Cd)": 0.5
+               "Wheelbase": "120 in (3048 mm)",
+               "Ground Clearance": "8.27 in (210 mm)",
+               "Aerodynamics (Cd)": "0.5"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3902
+               "Unladen Weight": "3902 lbs (1770 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU MU-7 2004-201305-03-05-17-07.jpg"
 },{
      "model_name": "ISUZU Trooper 3 Doors 1998-2002",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2L V6 5MT AWD (204 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3165,
+               "Displacement": "3165 cm3",
                "Power": "150 KW @ 5400 RPM\n204 HP @ 5400 RPM\n201 BHP @ 5400 RPM",
                "Torque": "210 lb-ft @ 3000 RPM\n284 Nm @ 3000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 22.5
+               "Fuel capacity": "22.5 gallons (85.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99.4,
-               "Acceleration 0-62 Mph (0-100 kph)": 16.5
+               "Top Speed": "99.4 mph (160 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "16.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -629,32 +643,33 @@
                "Tire Size": "245/70R16"
           },
           "DIMENSIONS": {
-               "Length": 171.9,
-               "Width": 72.2,
-               "Height": 72.2,
+               "Length": "171.9 in (4366 mm)",
+               "Width": "72.2 in (1834 mm)",
+               "Height": "72.2 in (1834 mm)",
                "Front/rear Track": "58.7/58.9 in (1,491/1,496 mm)",
-               "Wheelbase": 91.7,
-               "Cargo Volume": 26.9
+               "Wheelbase": "91.7 in (2329 mm)",
+               "Cargo Volume": "26.9 cuFT (762 L)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 22.4
+               "Combined": "22.4 mpg US (10.5 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU Trooper 3 Doors 1998-200205-03-05-17-09.jpg"
 },{
      "model_name": "ISUZU Trooper 5 Doors 1998-2002",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.6L 5MT AWD (122 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2581,
+               "Displacement": "2581 cm3",
                "Power": "90 KW @ 4600 RPM\n122 HP @ 4600 RPM\n121 BHP @ 4600 RPM",
                "Torque": "151 lb-ft @ 2600 RPM\n204 Nm @ 2600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 22.5
+               "Fuel capacity": "22.5 gallons (85.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 87
+               "Top Speed": "87 mph (140 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -668,18 +683,19 @@
                "Tire Size": "245/70 R16"
           },
           "DIMENSIONS": {
-               "Length": 183.9,
-               "Width": 68.5,
-               "Height": 72.2,
+               "Length": "183.9 in (4671 mm)",
+               "Width": "68.5 in (1740 mm)",
+               "Height": "72.2 in (1834 mm)",
                "Front/rear Track": "58.7/58.9 in (1,491/1,496 mm)",
-               "Wheelbase": 108.7,
-               "Ground Clearance": 8.3,
-               "Cargo Volume": 41.6
+               "Wheelbase": "108.7 in (2761 mm)",
+               "Ground Clearance": "8.3 in (211 mm)",
+               "Cargo Volume": "41.6 cuFT (1178 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3483.9
+               "Unladen Weight": "3483.9 lbs (1580 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/ISUZU Trooper 5 Doors 1998-200205-03-05-17-12.jpg"
 },	
  ] } 

@@ -2,17 +2,17 @@
 {
      "model_name": "DeLorean DMC-12 1981-1983",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.6L V6 5MT (145 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2849,
+               "Displacement": "2849 cm3",
                "Power": "106.6 KW @ 5500 RPM\n145 HP @ 5500 RPM\n143 BHP @ 5500 RPM",
                "Torque": "166 lb-ft @ 2750 RPM\n225 Nm @ 2750 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.7
+               "Fuel capacity": "13.7 gallons (51.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130
+               "Top Speed": "130 mph (209 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -26,20 +26,21 @@
                "Tire Size": "195/60HR-14 || 235/60HR-15"
           },
           "DIMENSIONS": {
-               "Length": 168.1,
-               "Width": 72.8,
-               "Height": 46.1,
+               "Length": "168.1 in (4270 mm)",
+               "Width": "72.8 in (1849 mm)",
+               "Height": "46.1 in (1171 mm)",
                "Front/rear Track": "65.4/62.6 in (1,661/1,590 mm)",
-               "Wheelbase": 94.8,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 14,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "94.8 in (2408 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "14 cuFT (396 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 21,
-               "CO2 Emissions": 266
+               "Combined": "21 mpg US (11.2 L/100Km)",
+               "CO2 Emissions": "266 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/DeLorean DMC-12 1981-198305-03-04-26-18.jpg"
 },	
  ] } 

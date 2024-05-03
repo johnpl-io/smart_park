@@ -1,372 +1,15 @@
 { "brand_name" : "ACURA", "models": [
 {
-     "model_name": "ACURA MDX 2021-Present",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "V6",
-               "Power": "213.3 KW @ 6200 RPM\n290 HP @ 6200 RPM\n286 BHP @ 6200 RPM",
-               "Torque": "267 lb-ft @ 4700 RPM\n362 Nm @ 4700 RPM",
-               "Fuel System": "Direct injection",
-               "Fuel": "Gasoline",
-               "Fuel capacity": 18.5
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "Front Wheel Drive",
-               "Gearbox": "10-speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Solid Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "255 / 55R-19"
-          },
-          "DIMENSIONS": {
-               "Length": 198.4,
-               "Width": 78.7,
-               "Height": 67.1,
-               "Front/rear Track": "67.7x67.7 in (1720 mm)",
-               "Wheelbase": 113.8,
-               "Ground Clearance": 7.3,
-               "Cargo Volume": 16.3,
-               "Aerodynamics (Cd)": 67.7,
-               "Turning circle (curb to curb)": "40.5 ft (12.3 m)"
-          },
-          "WEIGHT SPECS": {
-               "Unladen Weight": 4271
-          },
-          "FUEL ECONOMY (NEDC)": {
-               "City": 19,
-               "Highway": 26,
-               "Combined": 22
-          },
-          "": {}
-     }
-},{
-     "model_name": "ACURA MDX A-Spec 2018-Present",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "V6",
-               "Displacement": 3500,
-               "Power": "213.3 KW @ 6200 RPM\n290 HP @ 6200 RPM\n286 BHP @ 6200 RPM",
-               "Torque": "267 lb-ft @ 4700 RPM\n362 Nm @ 4700 RPM",
-               "Fuel System": "Direct Injection",
-               "Fuel": "Gasoline",
-               "Fuel capacity": 19.5
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "All Wheel Drive",
-               "Gearbox": "9-Speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "245/60 R18"
-          },
-          "DIMENSIONS": {
-               "Length": 196.2,
-               "Width": 77.2,
-               "Height": 67.4,
-               "Front/rear Track": "66.3/66.3 in (1,684/1,684 mm)",
-               "Wheelbase": 111,
-               "Ground Clearance": 7.3,
-               "Cargo Volume": 15
-          },
-          "WEIGHT SPECS": {
-               "Unladen Weight": 4001
-          },
-          "FUEL ECONOMY (NEDC)": {
-               "City": 18,
-               "Highway": 26.1,
-               "Combined": 21
-          },
-          "": {}
-     }
-},{
-     "model_name": "ACURA MDX 2016-2021",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "V6",
-               "Displacement": 3500,
-               "Power": "216.3 KW @ 6200 RPM\n294 HP @ 6200 RPM\n290 BHP @ 6200 RPM",
-               "Torque": "267 lb-ft @ 4700 RPM\n362 Nm @ 4700 RPM",
-               "Fuel System": "Direct Injection",
-               "Fuel": "Gasoline"
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "Front Wheel Drive",
-               "Gearbox": "9-speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "245/60 R18"
-          },
-          "DIMENSIONS": {
-               "Length": 196.2,
-               "Width": 77.2,
-               "Height": 67.4,
-               "Front/rear Track": "66.3/66.3 in (1,684/1,684 mm)",
-               "Wheelbase": 111,
-               "Ground Clearance": 7.3,
-               "Cargo Volume": 15
-          },
-          "WEIGHT SPECS": {
-               "Unladen Weight": 4001
-          },
-          "FUEL ECONOMY (NEDC)": {
-               "City": 19,
-               "Highway": 27,
-               "Combined": 22
-          },
-          "": {}
-     }
-},{
-     "model_name": "2013 Acura MDX",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "V6",
-               "Displacement": 3500,
-               "Power": "216 KW @ 6200 RPM\n294 HP @ 6200 RPM\n290 BHP @ 6200 RPM",
-               "Torque": "267 lb-ft @ 4500 RPM\n362 Nm @ 4500 RPM",
-               "Fuel System": "Direct Injection",
-               "Fuel": "Gasoline"
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "Front Wheel Drive",
-               "Gearbox": "6-speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "245/60 R18"
-          },
-          "DIMENSIONS": {
-               "Length": 193.6,
-               "Width": 77.2,
-               "Height": 67.6,
-               "Front/rear Track": "66.3/66.3 in (1,684/1,684 mm)",
-               "Wheelbase": 111,
-               "Cargo Volume": 14.8
-          },
-          "WEIGHT SPECS": {
-               "Unladen Weight": 4063
-          },
-          "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 28,
-               "Combined": 23
-          },
-          "": {}
-     }
-},{
-     "model_name": "ACURA MDX 2010-2013",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "V6",
-               "Displacement": 3664,
-               "Power": "224 KW @ 6300 RPM\n305 HP @ 6300 RPM\n300 BHP @ 6300 RPM",
-               "Torque": "270 lb-ft @ 4500 RPM\n366 Nm @ 4500 RPM",
-               "Fuel System": "Multipoint Injection",
-               "Fuel": "Gasoline",
-               "Fuel capacity": 21.1
-          },
-          "PERFORMANCE SPECS": {
-               "Top Speed": 137,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.3
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "All Wheel Drive",
-               "Gearbox": "6-speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "255/55 R18"
-          },
-          "DIMENSIONS": {
-               "Length": 191.6,
-               "Width": 78.5,
-               "Height": 68.2,
-               "Front/rear Track": "67.7/67.5 in (1,720/1,715 mm)",
-               "Wheelbase": 108.3,
-               "Ground Clearance": 8.2,
-               "Cargo Volume": 15,
-               "Aerodynamics (Cd)": 0.36
-          },
-          "WEIGHT SPECS": {
-               "Unladen Weight": 4550,
-               "Gross Weight Limit": 5790
-          },
-          "FUEL ECONOMY (NEDC)": {
-               "City": 16,
-               "Highway": 21,
-               "Combined": 18
-          }
-     }
-},{
-     "model_name": "ACURA MDX 2006-2009",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "V6",
-               "Displacement": 3664,
-               "Power": "224 KW @ 6000 RPM\n305 HP @ 6000 RPM\n300 BHP @ 6000 RPM",
-               "Torque": "275 lb-ft @ 5000 RPM\n373 Nm @ 5000 RPM",
-               "Fuel System": "Multipoint Injection System",
-               "Fuel": "Gasoline",
-               "Fuel capacity": 21
-          },
-          "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.7
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "All Wheel Drive",
-               "Gearbox": "5-speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "P255/55/R18 104H"
-          },
-          "DIMENSIONS": {
-               "Length": 190.7,
-               "Width": 78.5,
-               "Height": 68.2,
-               "Front/rear Track": "67.7/67.5 in (1,720/1,715 mm)",
-               "Wheelbase": 108.3,
-               "Ground Clearance": 8,
-               "Cargo Volume": 15,
-               "Aerodynamics (Cd)": 0.36
-          },
-          "WEIGHT SPECS": {
-               "Unladen Weight": 4539,
-               "Gross Weight Limit": 5732
-          },
-          "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 22,
-               "Combined": 19.5,
-               "CO2 Emissions": 287
-          }
-     }
-},{
-     "model_name": "ACURA MDX 2004-2006",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "V6",
-               "Displacement": 3471,
-               "Power": "194 KW @ 5800 RPM\n264 HP @ 5800 RPM\n260 BHP @ 5800 RPM",
-               "Torque": "253 lb-ft @ 3500-5000 RPM\n343 Nm @ 3500-5000 RPM",
-               "Fuel System": "Multipoint Injection",
-               "Fuel": "Gasoline",
-               "Fuel capacity": 19.3
-          },
-          "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.42
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "All Wheel Drive",
-               "Gearbox": "5-speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "P235/65/R17"
-          },
-          "DIMENSIONS": {
-               "Length": 188.7,
-               "Width": 77,
-               "Height": 68.7,
-               "Front/rear Track": "66.3/66.5 in (1,684/1,689 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 8,
-               "Cargo Volume": 14.8,
-               "Aerodynamics (Cd)": 0.36
-          },
-          "WEIGHT SPECS": {
-               "Unladen Weight": 4451,
-               "Gross Weight Limit": 5798
-          },
-          "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 23.1,
-               "Combined": 20,
-               "CO2 Emissions": 280
-          }
-     }
-},{
-     "model_name": "2001 Acura MDX",
-     "technical_specs": {
-          "ENGINE SPECS": {
-               "Cylinders": "V6",
-               "Displacement": 3471,
-               "Power": "179 KW @ 5750 RPM\n243 HP @ 5750 RPM\n240 BHP @ 5750 RPM",
-               "Torque": "245 lb-ft @ 3000-5000 RPM\n332 Nm @ 3000-5000 RPM",
-               "Fuel System": "PGM-FI Multi-Point Injection",
-               "Fuel": "Gasoline",
-               "Fuel capacity": 19.3
-          },
-          "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": 8.7
-          },
-          "TRANSMISSION SPECS": {
-               "Drive Type": "All Wheel Drive",
-               "Gearbox": "5-speed automatic"
-          },
-          "BRAKES SPECS": {
-               "Front": "Ventilated Discs",
-               "Rear": "Discs"
-          },
-          "TIRES SPECS": {
-               "Tire Size": "P235/65/R17"
-          },
-          "DIMENSIONS": {
-               "Length": 188.5,
-               "Width": 76.3,
-               "Height": 68.7,
-               "Front/rear Track": "66.3/66.5 in (1,684/1,689 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 8,
-               "Cargo Volume": 81.5,
-               "Aerodynamics (Cd)": 0.36
-          },
-          "WEIGHT SPECS": {
-               "Unladen Weight": 4328,
-               "Gross Weight Limit": 5690
-          },
-          "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 23.1,
-               "Combined": 17.8,
-               "CO2 Emissions": 314
-          },
-          "": {}
-     }
-},{
      "model_name": "ACURA RDX 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L VTEC 10AT (272 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1996,
+               "Displacement": "1996 cm3",
                "Power": "200.1 KW @ 6500 RPM\n272 HP @ 6500 RPM\n268 BHP @ 6500 RPM",
                "Torque": "280 lb-ft @ 1600-4500 RPM\n380 Nm @ 1600-4500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -380,36 +23,37 @@
                "Tire Size": "235/55 R19"
           },
           "DIMENSIONS": {
-               "Length": 187.4,
-               "Width": 74.8,
-               "Height": 65.7,
+               "Length": "187.4 in (4760 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "65.7 in (1669 mm)",
                "Front/rear Track": "64.2/64.7 in (1,631/1,643 mm)",
-               "Wheelbase": 108.3,
-               "Ground Clearance": 8.2,
-               "Cargo Volume": 29.5,
-               "Turning circle": 39
+               "Wheelbase": "108.3 in (2751 mm)",
+               "Ground Clearance": "8.2 in (208 mm)",
+               "Cargo Volume": "29.5 cuFT (835 L)",
+               "Turning circle": "39 ft (11.9 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3788
+               "Unladen Weight": "3788 lbs (1718 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22,
-               "Highway": 28,
-               "Combined": 24
+               "City": "22 mpg US (10.7 L/100Km)",
+               "Highway": "28 mpg US (8.4 L/100Km)",
+               "Combined": "24 mpg US (9.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA RDX 2021-Present05-03-03-14-09.jpg"
 },{
      "model_name": "ACURA RDX 2018-2021",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 10AT (275 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "154.5 KW @ 6000 RPM\n210 HP @ 6000 RPM\n207 BHP @ 6000 RPM",
                "Torque": "280 lb-ft @ 1500-4000 RPM\n380 Nm @ 1500-4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16
+               "Fuel capacity": "16 gallons (60.6 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -419,18 +63,19 @@
                "Front": "Ventilated Discs",
                "Rear": "Discs"
           }
-     }
+     },
+     "img": "images/ACURA RDX 2018-202105-03-03-14-11.jpg"
 },{
      "model_name": "ACURA RDX 2015-2018",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 6AT (279 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3471,
+               "Displacement": "3471 cm3",
                "Power": "208.1 KW @ 6200 RPM\n283 HP @ 6200 RPM\n279 BHP @ 6200 RPM",
                "Torque": "252 lb-ft @ 4900 RPM\n342 Nm @ 4900 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.9
+               "Fuel capacity": "15.9 gallons (60.2 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -444,31 +89,32 @@
                "Tire Size": "P 235/60 R 18"
           },
           "DIMENSIONS": {
-               "Length": 184.4,
-               "Width": 73.7,
-               "Height": 65,
+               "Length": "184.4 in (4684 mm)",
+               "Width": "73.7 in (1872 mm)",
+               "Height": "65 in (1651 mm)",
                "Front/rear Track": "63.1/63.4 in (1,603/1,610 mm)",
-               "Wheelbase": 105.7,
-               "Ground Clearance": 8.1,
-               "Cargo Volume": 26.1,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "105.7 in (2685 mm)",
+               "Ground Clearance": "8.1 in (206 mm)",
+               "Cargo Volume": "26.1 cuFT (739 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3737
+               "Unladen Weight": "3737 - 3781 lbs (1695 - 1715 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19.9,
-               "Highway": 29,
-               "Combined": 23
+               "City": "19.9 mpg US (11.8 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)",
+               "Combined": "23 mpg US (10.2 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA RDX 2015-201805-03-03-14-13.jpg"
 },{
      "model_name": "ACURA RDX 2012-2015",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 AWD 6AT (273 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3500,
+               "Displacement": "3500 cm3",
                "Power": "201 KW @ 6200 RPM\n273 HP @ 6200 RPM\n270 BHP @ 6200 RPM",
                "Torque": "251 lb-ft @ 5000 RPM\n340 Nm @ 5000 RPM",
                "Fuel System": "Direct Injection",
@@ -486,41 +132,42 @@
                "Tire Size": "235/60 R18"
           },
           "DIMENSIONS": {
-               "Length": 183.5,
-               "Width": 73.7,
-               "Height": 66.1,
+               "Length": "183.5 in (4661 mm)",
+               "Width": "73.7 in (1872 mm)",
+               "Height": "66.1 in (1679 mm)",
                "Front/rear Track": "63.1/63.4 in (1,603/1,610 mm)",
-               "Wheelbase": 105.7,
-               "Ground Clearance": 8.1,
-               "Cargo Volume": 26.1,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "105.7 in (2685 mm)",
+               "Ground Clearance": "8.1 in (206 mm)",
+               "Cargo Volume": "26.1 cuFT (739 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3838,
-               "Gross Weight Limit": 4982
+               "Unladen Weight": "3838 lbs (1741 kg)",
+               "Gross Weight Limit": "4982 lbs (2260 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19,
-               "Highway": 27,
-               "Combined": 22
+               "City": "19 mpg US (12.4 L/100Km)",
+               "Highway": "27 mpg US (8.7 L/100Km)",
+               "Combined": "22 mpg US (10.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA RDX 2012-201505-03-03-14-14.jpg"
 },{
      "model_name": "2007 Acura RDX",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.3L TURBO FWD 5AT (240 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2300,
+               "Displacement": "2300 cm3",
                "Power": "176 KW @ 6000 RPM\n239 HP @ 6000 RPM\n236 BHP @ 6000 RPM",
                "Torque": "260 lb-ft @ 4500 RPM\n353 Nm @ 4500 RPM",
                "Fuel System": "multi-point injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18
+               "Fuel capacity": "18 gallons (68.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 121,
-               "Acceleration 0-62 Mph (0-100 kph)": 9
+               "Top Speed": "121 mph (195 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -534,28 +181,29 @@
                "Tire Size": "235/55 R18"
           },
           "DIMENSIONS": {
-               "Length": 180.7,
-               "Width": 73.6,
-               "Height": 65.2,
+               "Length": "180.7 in (4590 mm)",
+               "Width": "73.6 in (1869 mm)",
+               "Height": "65.2 in (1656 mm)",
                "Front/rear Track": "61.9/62.6 in (1,572/1,590 mm)",
-               "Wheelbase": 104.3,
-               "Ground Clearance": 6.25,
-               "Cargo Volume": 27.8
+               "Wheelbase": "104.3 in (2649 mm)",
+               "Ground Clearance": "6.25 in (159 mm)",
+               "Cargo Volume": "27.8 cuFT (787 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3743
+               "Unladen Weight": "3743 lbs (1698 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19,
-               "Highway": 24,
-               "Combined": 20.3
+               "City": "19 mpg US (12.4 L/100Km)",
+               "Highway": "24 mpg US (9.8 L/100Km)",
+               "Combined": "20.3 mpg US (11.6 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/2007 Acura RDX05-03-03-14-16.jpg"
 },{
      "model_name": "ACURA TLX 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 10AT (272 HP)": {
                "Cylinders": "L4",
                "Power": "200.1 KW @ - RPM\n272 HP @ - RPM\n268 BHP @ - RPM",
                "Fuel System": "Turbocharged Direct Injection",
@@ -570,30 +218,31 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 194.6,
-               "Width": 75.2,
-               "Height": 56.4,
+               "Length": "194.6 in (4943 mm)",
+               "Width": "75.2 in (1910 mm)",
+               "Height": "56.4 in (1433 mm)",
                "Front/rear Track": "64.0x64.6 in (1626 mm)",
-               "Wheelbase": 113,
-               "Cargo Volume": 13.5
+               "Wheelbase": "113 in (2870 mm)",
+               "Cargo Volume": "13.5 cuFT (382 L)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA TLX 2020-Present05-03-03-14-19.jpg"
 },{
      "model_name": "2015 Acua TLX",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 8AT (209 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2354,
+               "Displacement": "2354 cm3",
                "Power": "154 KW @ 6800 RPM\n209 HP @ 6800 RPM\n207 BHP @ 6800 RPM",
                "Torque": "182 lb-ft @ 4500 RPM\n247 Nm @ 4500 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.2
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -607,39 +256,40 @@
                "Tire Size": "225/55 R17"
           },
           "DIMENSIONS": {
-               "Length": 190.2,
-               "Width": 73,
-               "Height": 57,
+               "Length": "190.2 in (4831 mm)",
+               "Width": "73 in (1854 mm)",
+               "Height": "57 in (1448 mm)",
                "Front/rear Track": "62.8/63.1 in (1,595/1,603 mm)",
-               "Wheelbase": 109.3,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 13.2,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "109.3 in (2776 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "13.2 cuFT (374 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3483
+               "Unladen Weight": "3483 lbs (1580 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24,
-               "Highway": 35,
-               "Combined": 28
+               "City": "24 mpg US (9.8 L/100Km)",
+               "Highway": "35 mpg US (6.7 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/2015 Acua TLX05-03-03-14-21.jpg"
 },{
      "model_name": "ACURA ILX 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 16V I-VTEC 8AT (201 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2354,
+               "Displacement": "2354 cm3",
                "Power": "147.8 KW @ 6800 RPM\n201 HP @ 6800 RPM\n198 BHP @ 6800 RPM",
                "Torque": "180 lb-ft @ 3800 RPM\n244 Nm @ 3800 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 138,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.4
+               "Top Speed": "138 mph (222 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -653,37 +303,38 @@
                "Tire Size": "P215/45 R17"
           },
           "DIMENSIONS": {
-               "Length": 181.9,
-               "Width": 70.6,
-               "Height": 55.6,
+               "Length": "181.9 in (4620 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "55.6 in (1412 mm)",
                "Front/rear Track": "59.4/60.2 in (1,509/1,529 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 12.3
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "12.3 cuFT (348 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3093
+               "Unladen Weight": "3093 lbs (1403 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24,
-               "Highway": 34.1,
-               "Combined": 28
+               "City": "24 mpg US (9.8 L/100Km)",
+               "Highway": "34.1 mpg US (6.9 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)"
           }
-     }
+     },
+     "img": "images/ACURA ILX 2018-Present05-03-03-14-23.jpg"
 },{
      "model_name": "ACURA ILX 2016-2018",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 8AT (201 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2354,
+               "Displacement": "2354 cm3",
                "Power": "147.8 KW @ 6800 RPM\n201 HP @ 6800 RPM\n198 BHP @ 6800 RPM",
                "Torque": "180 lb-ft @ 3800 RPM\n244 Nm @ 3800 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 138,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.4
+               "Top Speed": "138 mph (222 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -697,29 +348,30 @@
                "Tire Size": "P215/45 R17"
           },
           "DIMENSIONS": {
-               "Length": 181.9,
-               "Width": 70.6,
-               "Height": 55.6,
+               "Length": "181.9 in (4620 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "55.6 in (1412 mm)",
                "Front/rear Track": "59.4/60.2 in (1,509/1,529 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 12.3
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "12.3 cuFT (348 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3093
+               "Unladen Weight": "3093 lbs (1403 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25,
-               "Highway": 35.1,
-               "Combined": 29
+               "City": "25 mpg US (9.4 L/100Km)",
+               "Highway": "35.1 mpg US (6.7 L/100Km)",
+               "Combined": "29 mpg US (8.1 L/100Km)"
           }
-     }
+     },
+     "img": "images/ACURA ILX 2016-201805-03-03-14-24.jpg"
 },{
      "model_name": "ACURA ILX 2014-2016",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5AT (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "112 KW @ 6500 RPM\n152 HP @ 6500 RPM\n150 BHP @ 6500 RPM",
                "Torque": "140 lb-ft @ 4300 RPM\n190 Nm @ 4300 RPM",
                "Fuel System": "Direct injection",
@@ -737,30 +389,31 @@
                "Tire Size": "P215/45 R17"
           },
           "DIMENSIONS": {
-               "Length": 179.1,
-               "Width": 70.6,
-               "Height": 55.6,
+               "Length": "179.1 in (4549 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "55.6 in (1412 mm)",
                "Front/rear Track": "59.4/60.3 in (1,509/1,532 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 6.2,
-               "Cargo Volume": 12.3
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "6.2 in (157 mm)",
+               "Cargo Volume": "12.3 cuFT (348 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2954
+               "Unladen Weight": "2954 lbs (1340 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24,
-               "Highway": 35.1,
-               "Combined": 28
+               "City": "24 mpg US (9.8 L/100Km)",
+               "Highway": "35.1 mpg US (6.7 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA ILX 2014-201605-03-03-14-26.jpg"
 },{
      "model_name": "ACURA ILX 2012-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5AT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1997,
+               "Displacement": "1997 cm3",
                "Power": "112 KW @ 6500 RPM\n152 HP @ 6500 RPM\n150 BHP @ 6500 RPM",
                "Torque": "140 lb-ft @ 4300 RPM\n190 Nm @ 4300 RPM",
                "Fuel System": "Electronic Injection",
@@ -778,35 +431,36 @@
                "Tire Size": "215/45R17"
           },
           "DIMENSIONS": {
-               "Length": 179.1,
-               "Width": 70.6,
-               "Height": 55.6,
+               "Length": "179.1 in (4549 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "55.6 in (1412 mm)",
                "Front/rear Track": "59.4/60.3 in (1,509/1,532 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 12.28
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "12.28 cuFT (348 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2910
+               "Unladen Weight": "2910 lbs (1320 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24,
-               "Highway": 35,
-               "Combined": 28
+               "City": "24 mpg US (9.8 L/100Km)",
+               "Highway": "35 mpg US (6.7 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA ILX 2012-201405-03-03-14-28.jpg"
 },{
      "model_name": "ACURA RLX 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 10AT (310 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3471,
+               "Displacement": "3471 cm3",
                "Power": "231.2 KW @ 6500 RPM\n314 HP @ 6500 RPM\n310 BHP @ 6500 RPM",
                "Torque": "272 lb-ft @ 4500 RPM\n369 Nm @ 4500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18.5
+               "Fuel capacity": "18.5 gallons (70.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -820,38 +474,39 @@
                "Tire Size": "245/40 R19"
           },
           "DIMENSIONS": {
-               "Length": 198.1,
-               "Width": 74.4,
-               "Height": 57.7,
+               "Length": "198.1 in (5032 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "57.7 in (1466 mm)",
                "Front/rear Track": "64.3/64.2 in (1,633/1,631 mm)",
-               "Wheelbase": 112.2,
-               "Ground Clearance": 4.5,
-               "Cargo Volume": 14.9
+               "Wheelbase": "112.2 in (2850 mm)",
+               "Ground Clearance": "4.5 in (114 mm)",
+               "Cargo Volume": "14.9 cuFT (422 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3977
+               "Unladen Weight": "3977 lbs (1804 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 30,
-               "Combined": 23
+               "City": "20 mpg US (11.8 L/100Km)",
+               "Highway": "30 mpg US (7.8 L/100Km)",
+               "Combined": "23 mpg US (10.2 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA RLX 2017-Present05-03-03-14-30.jpg"
 },{
      "model_name": "2014 Acura RLX",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 FWD (310 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3500,
+               "Displacement": "3500 cm3",
                "Power": "257 KW @ 6500 RPM\n350 HP @ 6500 RPM\n345 BHP @ 6500 RPM",
                "Torque": "272 lb-ft @ 2000-6000 RPM\n369 Nm @ 2000-6000 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -865,30 +520,31 @@
                "Tire Size": "245/45 R18 69V"
           },
           "DIMENSIONS": {
-               "Length": 196.1,
-               "Width": 74.7,
-               "Height": 57.2,
+               "Length": "196.1 in (4981 mm)",
+               "Width": "74.7 in (1897 mm)",
+               "Height": "57.2 in (1453 mm)",
                "Front/rear Track": "64.3/64.2 in (1,633/1,631 mm)",
-               "Wheelbase": 112.2,
-               "Ground Clearance": 4.5,
-               "Cargo Volume": 14.9,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "112.2 in (2850 mm)",
+               "Ground Clearance": "4.5 in (114 mm)",
+               "Cargo Volume": "14.9 cuFT (422 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3933,
-               "Gross Weight Limit": 4993
+               "Unladen Weight": "3933 lbs (1784 kg)",
+               "Gross Weight Limit": "4993 lbs (2265 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 31,
-               "Combined": 24
+               "City": "20 mpg US (11.8 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)",
+               "Combined": "24 mpg US (9.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/2014 Acura RLX05-03-03-14-32.jpg"
 },{
      "model_name": "2024 Acura ZDX",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - A-SPEC 102 KWH (340 HP)": {
                "Total maximum power": "250.1 kw (340 hp)",
                "Fuel System": "Electric",
                "Fuel": "Electric"
@@ -904,35 +560,36 @@
                "Tire Size": "265/50R20 (All-Season)"
           },
           "DIMENSIONS": {
-               "Length": 197.7,
-               "Width": 77,
-               "Height": 64.4,
-               "Wheelbase": 121.8
+               "Length": "197.7 in (5022 mm)",
+               "Width": "77 in (1956 mm)",
+               "Height": "64.4 in (1636 mm)",
+               "Wheelbase": "121.8 in (3094 mm)"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Nominal Capacity": 102
+               "Nominal Capacity": "102 kWh"
           },
           "NOTES": {
                "Single motor range": "523 Km (325 miles)\nDual motor range: 507 Km (315 miles)"
           },
           "": {}
-     }
+     },
+     "img": "images/2024 Acura ZDX05-03-03-14-34.jpg"
 },{
      "model_name": "ACURA ZDX 2009-2013",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.7L V6 VTEC 6AT AWD (300 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3664,
+               "Displacement": "3664 cm3",
                "Power": "221 KW @ 6300 RPM\n300 HP @ 6300 RPM\n296 BHP @ 6300 RPM",
                "Torque": "270 lb-ft @ 4500 RPM\n366 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21
+               "Fuel capacity": "21 gallons (79.5 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -946,39 +603,40 @@
                "Tire Size": "255/50 R19"
           },
           "DIMENSIONS": {
-               "Length": 192.4,
-               "Width": 85.6,
-               "Height": 62.8,
+               "Length": "192.4 in (4887 mm)",
+               "Width": "85.6 in (2174 mm)",
+               "Height": "62.8 in (1595 mm)",
                "Front/rear Track": "67.7/67.7 in (1,720/1,720 mm)",
-               "Wheelbase": 108.3,
-               "Ground Clearance": 7.9,
-               "Cargo Volume": 27.5,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "108.3 in (2751 mm)",
+               "Ground Clearance": "7.9 in (201 mm)",
+               "Cargo Volume": "27.5 cuFT (779 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4451,
-               "Gross Weight Limit": 5456
+               "Unladen Weight": "4451 lbs (2019 kg)",
+               "Gross Weight Limit": "5456 lbs (2475 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16,
-               "Highway": 23,
-               "Combined": 19
+               "City": "16 mpg US (14.7 L/100Km)",
+               "Highway": "23 mpg US (10.2 L/100Km)",
+               "Combined": "19 mpg US (12.4 L/100Km)"
           }
-     }
+     },
+     "img": "images/ACURA ZDX 2009-201305-03-03-14-36.jpg"
 },{
      "model_name": "2016 Acura NSX",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 9AT AWD (573 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3493,
+               "Displacement": "3493 cm3",
                "Power": "372.9 KW @ 6500-7500 RPM\n506.9 HP @ 6500-7500 RPM\n500 BHP @ 6500-7500 RPM",
                "Torque": "406 lb-ft @ 2000-6000 RPM\n550 Nm @ 2000-6000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Hybrid"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 191,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+               "Top Speed": "191 mph (307 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -992,37 +650,38 @@
                "Tire Size": "245/35ZR19 93Y || 305/30ZR20 103Y"
           },
           "DIMENSIONS": {
-               "Length": 176,
-               "Width": 87.3,
-               "Height": 47.8,
+               "Length": "176 in (4470 mm)",
+               "Width": "87.3 in (2217 mm)",
+               "Height": "47.8 in (1214 mm)",
                "Front/rear Track": "62.5/63.7 in (1,588/1,618 mm)",
-               "Wheelbase": 103.5,
-               "Ground Clearance": 3.7,
-               "Cargo Volume": 4.4
+               "Wheelbase": "103.5 in (2629 mm)",
+               "Ground Clearance": "3.7 in (94 mm)",
+               "Cargo Volume": "4.4 cuFT (125 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3803
+               "Unladen Weight": "3803 lbs (1725 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 22,
-               "Combined": 21
+               "City": "20 mpg US (11.8 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)",
+               "Combined": "21 mpg US (11.2 L/100Km)"
           }
-     }
+     },
+     "img": "images/2016 Acura NSX05-03-03-14-38.jpg"
 },{
      "model_name": "ACURA NSX-T 2001-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.0L V6 4AT (252 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2977,
+               "Displacement": "2977 cm3",
                "Power": "185 KW @ 6600 RPM\n252 HP @ 6600 RPM\n248 BHP @ 6600 RPM",
                "Torque": "210 lb-ft @ 5300 RPM\n285 Nm @ 5300 RPM",
                "Fuel System": "Electronic Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 161.6,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+               "Top Speed": "161.6 mph (260 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1036,33 +695,34 @@
                "Tire Size": "215/40 ZR16 (Front) - 245/40 ZR17 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": 174.2,
-               "Width": 71.3,
-               "Height": 46.1,
+               "Length": "174.2 in (4425 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "46.1 in (1171 mm)",
                "Front/rear Track": "59.4/60.2 in (1,509/1,529 mm)",
-               "Wheelbase": 99.6,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 5,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "99.6 in (2530 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "5 cuFT (142 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3065,
-               "Gross Weight Limit": 3550.1
+               "Unladen Weight": "3065 lbs (1390 kg)",
+               "Gross Weight Limit": "3550.1 lbs (1610 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 12.8,
-               "Highway": 26.7,
-               "Combined": 19.1,
-               "CO2 Emissions": 287
+               "City": "12.8 mpg US (18.4 L/100Km)",
+               "Highway": "26.7 mpg US (8.8 L/100Km)",
+               "Combined": "19.1 mpg US (12.3 L/100Km)",
+               "CO2 Emissions": "287 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA NSX-T 2001-200505-03-03-14-40.jpg"
 },{
      "model_name": "ACURA NSX 2001-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.0L V6 4AT (252 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2977,
+               "Displacement": "2977 cm3",
                "Power": "188 KW @ 6600 RPM\n252 HP @ 6600 RPM\n252 BHP @ 6600 RPM",
                "Torque": "210 lb-ft @ 5300 RPM\n285 Nm @ 5300 RPM",
                "Fuel System": "Multipoint Injection",
@@ -1080,39 +740,40 @@
                "Tire Size": "215/40R1783Y // 255/40R1794Y"
           },
           "DIMENSIONS": {
-               "Length": 174.2,
-               "Width": 71.3,
-               "Height": 46.1,
+               "Length": "174.2 in (4425 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "46.1 in (1171 mm)",
                "Front/rear Track": "59.5/60.7 in (1,511/1,542 mm)",
-               "Wheelbase": 99.6,
-               "Ground Clearance": 4.7,
-               "Cargo Volume": 5,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "99.6 in (2530 mm)",
+               "Ground Clearance": "4.7 in (119 mm)",
+               "Cargo Volume": "5 cuFT (142 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3197,
-               "Gross Weight Limit": 3549
+               "Unladen Weight": "3197 lbs (1450 kg)",
+               "Gross Weight Limit": "3549 lbs (1610 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 24
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "24 mpg US (9.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA NSX 2001-200505-03-03-14-42.jpg"
 },{
      "model_name": "ACURA NSX 1991-2001",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.0L V6 5MT (270 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2977,
+               "Displacement": "2977 cm3",
                "Power": "201 KW @ 7100 RPM\n270 HP @ 7100 RPM\n270 BHP @ 7100 RPM",
                "Torque": "210 lb-ft @ 5300 RPM\n285 Nm @ 5300 RPM",
                "Fuel System": "Electronic Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 168,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+               "Top Speed": "168 mph (270 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1126,29 +787,30 @@
                "Tire Size": "205/50ZR ZR15 // 225/50 ZR16"
           },
           "DIMENSIONS": {
-               "Length": 173.4,
-               "Width": 71.3,
-               "Height": 46.1,
+               "Length": "173.4 in (4404 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "46.1 in (1171 mm)",
                "Front/rear Track": "59.4/60.2 in (1,509/1,529 mm)",
-               "Wheelbase": 99.6,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 5,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "99.6 in (2530 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "5 cuFT (142 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3010
+               "Unladen Weight": "3010 lbs (1365 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16,
-               "Highway": 22,
-               "Combined": 18,
-               "CO2 Emissions": 311
+               "City": "16 mpg US (14.7 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)",
+               "Combined": "18 mpg US (13.1 L/100Km)",
+               "CO2 Emissions": "311 g/km"
           }
-     }
+     },
+     "img": "images/ACURA NSX 1991-200105-03-03-14-43.jpg"
 },{
      "model_name": "2024 Acura Integra Type S",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L VTEC 6MT FWD (324 HP)": {
                "Cylinders": "L4",
                "Power": "238.6 KW @ 6500 RPM\n324 HP @ 6500 RPM\n320 BHP @ 6500 RPM",
                "Torque": "310 lb-ft @ 2600-4000 RPM\n420 Nm @ 2600-4000 RPM",
@@ -1167,20 +829,21 @@
                "Tire Size": "265/30 R19"
           },
           "DIMENSIONS": {
-               "Length": 186,
-               "Width": 74.8,
-               "Height": 55.4,
+               "Length": "186 in (4724 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "55.4 in (1407 mm)",
                "Front/rear Track": "64/63.5 in (1,626/1,613 mm)",
-               "Wheelbase": 107.7
+               "Wheelbase": "107.7 in (2736 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3219
+               "Unladen Weight": "3219 lbs (1460 kg)"
           }
-     }
+     },
+     "img": "images/2024 Acura Integra Type S05-03-03-14-45.jpg"
 },{
      "model_name": "2023 Acura Integra",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L VTEC CVT (200 HP)": {
                "Cylinders": "L4",
                "Power": "147.1 KW @ 6000 RPM\n200 HP @ 6000 RPM\n197 BHP @ 6000 RPM",
                "Torque": "192 lb-ft @ 1800-5000 RPM\n260 Nm @ 1800-5000 RPM",
@@ -1199,24 +862,25 @@
                "Tire Size": "215/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 185.8,
-               "Width": 72,
-               "Height": 55.5,
+               "Length": "185.8 in (4719 mm)",
+               "Width": "72 in (1829 mm)",
+               "Height": "55.5 in (1410 mm)",
                "Front/rear Track": "60.5 / 61.6 in (1,537/1,565 mm)",
-               "Wheelbase": 107.7
+               "Wheelbase": "107.7 in (2736 mm)"
           }
-     }
+     },
+     "img": "images/2023 Acura Integra05-03-03-14-47.jpg"
 },{
      "model_name": "ACURA Integra Sedan 1994-2001",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 4AT FWD (141 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1834,
+               "Displacement": "1834 cm3",
                "Power": "103.7 KW @ 6300 RPM\n141 HP @ 6300 RPM\n139 BHP @ 6300 RPM",
                "Torque": "127 lb-ft @ 5200 RPM\n172 Nm @ 5200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1230,32 +894,33 @@
                "Tire Size": "P195/60/R14 85H"
           },
           "DIMENSIONS": {
-               "Length": 178.1,
-               "Width": 67.3,
-               "Height": 52.1,
+               "Length": "178.1 in (4524 mm)",
+               "Width": "67.3 in (1709 mm)",
+               "Height": "52.1 in (1323 mm)",
                "Front/rear Track": "58.1/57.8 in (1,476/1,468 mm)",
-               "Wheelbase": 103.1,
-               "Ground Clearance": 4.3,
-               "Cargo Volume": 12.3,
-               "Aerodynamics (Cd)": 0.33,
-               "Turning circle": 34.8
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Ground Clearance": "4.3 in (109 mm)",
+               "Cargo Volume": "12.3 cuFT (348 L)",
+               "Aerodynamics (Cd)": "0.33",
+               "Turning circle": "34.8 ft (10.6 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2745
+               "Unladen Weight": "2745 lbs (1245 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24,
-               "Highway": 30.9,
-               "Combined": 26.1
+               "City": "24 mpg US (9.8 L/100Km)",
+               "Highway": "30.9 mpg US (7.6 L/100Km)",
+               "Combined": "26.1 mpg US (9 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA Integra Sedan 1994-200105-03-03-14-49.jpg"
 },{
      "model_name": "ACURA Integra Sedan 1989-1993",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 5MT FWD 140 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1834,
+               "Displacement": "1834 cm3",
                "Power": "103 KW @ 6300 RPM\n140 HP @ 6300 RPM\n138 BHP @ 6300 RPM",
                "Torque": "126 lb-ft @ 5000 RPM\n171 Nm @ 5000 RPM",
                "Fuel System": "Electronic Fuel Injection",
@@ -1273,31 +938,32 @@
                "Tire Size": "P195/60 R14 85H"
           },
           "DIMENSIONS": {
-               "Length": 172.9,
-               "Width": 67.5,
-               "Height": 50,
+               "Length": "172.9 in (4392 mm)",
+               "Width": "67.5 in (1715 mm)",
+               "Height": "50 in (1270 mm)",
                "Front/rear Track": "58.1/58.1 in (1,476/1,476 mm)",
-               "Wheelbase": 100.4,
-               "Ground Clearance": 4.7,
-               "Cargo Volume": 16,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "100.4 in (2550 mm)",
+               "Ground Clearance": "4.7 in (119 mm)",
+               "Cargo Volume": "16 cuFT (453 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2623
+               "Unladen Weight": "2623 lbs (1190 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25,
-               "Highway": 31,
-               "Combined": 26,
-               "CO2 Emissions": 215
+               "City": "25 mpg US (9.4 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)",
+               "Combined": "26 mpg US (9 L/100Km)",
+               "CO2 Emissions": "215 g/km"
           }
-     }
+     },
+     "img": "images/ACURA Integra Sedan 1989-199305-03-03-14-51.jpg"
 },{
      "model_name": "ACURA Integra Sedan 1986-1989",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT (113 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1590,
+               "Displacement": "1590 cm3",
                "Power": "84 KW @ 6250 RPM\n113 HP @ 6250 RPM\n113 BHP @ 6250 RPM",
                "Torque": "99 lb-ft @ 5500 RPM\n134 Nm @ 5500 RPM",
                "Fuel System": "Electronic Fuel Injection",
@@ -1315,39 +981,40 @@
                "Tire Size": "195/60 R14"
           },
           "DIMENSIONS": {
-               "Length": 171.3,
-               "Width": 65.6,
-               "Height": 50.8,
+               "Length": "171.3 in (4351 mm)",
+               "Width": "65.6 in (1666 mm)",
+               "Height": "50.8 in (1290 mm)",
                "Front/rear Track": "55.9/56.5 in (1,420/1,435 mm)",
-               "Wheelbase": 99.2,
-               "Ground Clearance": 6.2,
-               "Cargo Volume": 16,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "99.2 in (2520 mm)",
+               "Ground Clearance": "6.2 in (157 mm)",
+               "Cargo Volume": "16 cuFT (453 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2390
+               "Unladen Weight": "2390 lbs (1084 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26,
-               "Highway": 30,
-               "Combined": 27.4,
-               "CO2 Emissions": 204
+               "City": "26 mpg US (9 L/100Km)",
+               "Highway": "30 mpg US (7.8 L/100Km)",
+               "Combined": "27.4 mpg US (8.6 L/100Km)",
+               "CO2 Emissions": "204 g/km"
           }
-     }
+     },
+     "img": "images/ACURA Integra Sedan 1986-198905-03-03-14-52.jpg"
 },{
      "model_name": "ACURA CL 2001-2004",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2L 5AT FWD (225 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3210,
+               "Displacement": "3210 cm3",
                "Power": "168 KW @ 5600 RPM\n228 HP @ 5600 RPM\n225 BHP @ 5600 RPM",
                "Torque": "217 lb-ft @ 4700 RPM\n294 Nm @ 4700 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 136.7
+               "Top Speed": "136.7 mph (220 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1361,40 +1028,41 @@
                "Tire Size": "P205/60 R16 91V"
           },
           "DIMENSIONS": {
-               "Length": 192,
-               "Width": 70.6,
-               "Height": 55.5,
+               "Length": "192 in (4877 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "55.5 in (1410 mm)",
                "Front/rear Track": "61.1/61 in (1,552/1,549 mm)",
-               "Wheelbase": 106.9,
-               "Ground Clearance": 6.2,
-               "Cargo Volume": 13.6
+               "Wheelbase": "106.9 in (2715 mm)",
+               "Ground Clearance": "6.2 in (157 mm)",
+               "Cargo Volume": "13.6 cuFT (385 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3470,
-               "Gross Weight Limit": 4024.1
+               "Unladen Weight": "3470 lbs (1574 kg)",
+               "Gross Weight Limit": "4024.1 lbs (1825 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 27,
-               "Combined": 21,
-               "CO2 Emissions": 267
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "27 mpg US (8.7 L/100Km)",
+               "Combined": "21 mpg US (11.2 L/100Km)",
+               "CO2 Emissions": "267 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA CL 2001-200405-03-03-14-55.jpg"
 },{
      "model_name": "ACURA CL 1997-2001",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2L 5MT (145 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2156,
+               "Displacement": "2156 cm3",
                "Power": "108 KW @ 5500-6000 RPM\n145 HP @ 5500-6000 RPM\n145 BHP @ 5500-6000 RPM",
                "Torque": "147 lb-ft @ 4500 RPM\n199 Nm @ 4500 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1408,37 +1076,38 @@
                "Tire Size": "P205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 190,
-               "Width": 70.1,
-               "Height": 54.7,
+               "Length": "190 in (4826 mm)",
+               "Width": "70.1 in (1781 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "59.6/59.1 in (1,514/1,501 mm)",
-               "Wheelbase": 106.9,
-               "Ground Clearance": 4.3,
-               "Cargo Volume": 12,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "106.9 in (2715 mm)",
+               "Ground Clearance": "4.3 in (109 mm)",
+               "Cargo Volume": "12 cuFT (340 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3009
+               "Unladen Weight": "3009 lbs (1365 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25,
-               "Highway": 32,
-               "Combined": 28,
-               "CO2 Emissions": 200
+               "City": "25 mpg US (9.4 L/100Km)",
+               "Highway": "32 mpg US (7.4 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)",
+               "CO2 Emissions": "200 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA CL 1997-200105-03-03-14-57.jpg"
 },{
      "model_name": "ACURA CSX 2009-2011",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 16V 5AT (157 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "115.5 KW @ 6000 RPM\n157 HP @ 6000 RPM\n155 BHP @ 6000 RPM",
                "Torque": "139 lb-ft @ 4500 RPM\n188 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1452,33 +1121,34 @@
                "Tire Size": "205/55R16"
           },
           "DIMENSIONS": {
-               "Length": 178.9,
-               "Width": 69,
-               "Height": 56.5,
+               "Length": "178.9 in (4544 mm)",
+               "Width": "69 in (1753 mm)",
+               "Height": "56.5 in (1435 mm)",
                "Front/rear Track": "59/60.2 in (1,499/1,529 mm)",
-               "Wheelbase": 106.3,
-               "Cargo Volume": 12
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Cargo Volume": "12 cuFT (340 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2844
+               "Unladen Weight": "2844 lbs (1290 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24.8,
-               "Highway": 36.2
+               "City": "24.8 mpg US (9.5 L/100Km)",
+               "Highway": "36.2 mpg US (6.5 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA CSX 2009-201105-03-03-14-59.jpg"
 },{
      "model_name": "ACURA CSX 2005-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0I 16V 5MT (157 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "115.5 KW @ 6000 RPM\n157 HP @ 6000 RPM\n155 BHP @ 6000 RPM",
                "Torque": "139 lb-ft @ 4500 RPM\n188 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1492,37 +1162,38 @@
                "Tire Size": "205/55R16"
           },
           "DIMENSIONS": {
-               "Length": 178.9,
-               "Width": 69,
-               "Height": 56.5,
+               "Length": "178.9 in (4544 mm)",
+               "Width": "69 in (1753 mm)",
+               "Height": "56.5 in (1435 mm)",
                "Front/rear Track": "59/60.2 in (1,499/1,529 mm)",
-               "Wheelbase": 106.3,
-               "Cargo Volume": 12
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Cargo Volume": "12 cuFT (340 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2895
+               "Unladen Weight": "2895 lbs (1313 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28,
-               "Highway": 36.8
+               "City": "28 mpg US (8.4 L/100Km)",
+               "Highway": "36.8 mpg US (6.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA CSX 2005-200905-03-03-15-00.jpg"
 },{
      "model_name": "ACURA EL 1997-2000",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 16V 5MT (107 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1590,
+               "Displacement": "1590 cm3",
                "Power": "78.7 KW @ 6200 RPM\n107 HP @ 6200 RPM\n106 BHP @ 6200 RPM",
                "Torque": "103 lb-ft @ 4600 RPM\n139 Nm @ 4600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.4
+               "Top Speed": "109 mph (175 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1536,37 +1207,38 @@
                "Tire Size": "175/70 R13"
           },
           "DIMENSIONS": {
-               "Length": 176.4,
-               "Width": 67.1,
-               "Height": 54.9,
+               "Length": "176.4 in (4481 mm)",
+               "Width": "67.1 in (1704 mm)",
+               "Height": "54.9 in (1394 mm)",
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": 103.1,
-               "Cargo Volume": 13.2
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Cargo Volume": "13.2 cuFT (374 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2524,
-               "Gross Weight Limit": 3638
+               "Unladen Weight": "2524 lbs (1145 kg)",
+               "Gross Weight Limit": "3638 lbs (1650 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 33.1,
-               "Highway": 37.9
+               "City": "33.1 mpg US (7.1 L/100Km)",
+               "Highway": "37.9 mpg US (6.2 L/100Km)"
           }
-     }
+     },
+     "img": "images/ACURA EL 1997-200005-03-03-15-02.jpg"
 },{
      "model_name": "ACURA Integra Coupe 1994-2001",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 5MT FWD (196 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1797,
+               "Displacement": "1797 cm3",
                "Power": "144.2 KW @ 8000 RPM\n196 HP @ 8000 RPM\n193 BHP @ 8000 RPM",
                "Torque": "131 lb-ft @ 7300 RPM\n178 Nm @ 7300 RPM",
                "Fuel System": "Electronic Fuel Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 145,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+               "Top Speed": "145 mph (233 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1580,32 +1252,33 @@
                "Tire Size": "P195/60/R14 85H"
           },
           "DIMENSIONS": {
-               "Length": 172.4,
-               "Width": 67.3,
-               "Height": 50.8,
+               "Length": "172.4 in (4379 mm)",
+               "Width": "67.3 in (1709 mm)",
+               "Height": "50.8 in (1290 mm)",
                "Front/rear Track": "58.1/57.8 in (1,476/1,468 mm)",
-               "Wheelbase": 101.2,
-               "Ground Clearance": 4.3,
-               "Cargo Volume": 13.3,
-               "Aerodynamics (Cd)": 0.32,
-               "Turning circle": 34.8
+               "Wheelbase": "101.2 in (2570 mm)",
+               "Ground Clearance": "4.3 in (109 mm)",
+               "Cargo Volume": "13.3 cuFT (377 L)",
+               "Aerodynamics (Cd)": "0.32",
+               "Turning circle": "34.8 ft (10.6 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2469,
-               "Gross Weight Limit": 3417
+               "Unladen Weight": "2469 lbs (1120 kg)",
+               "Gross Weight Limit": "3417 lbs (1550 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24.2,
-               "Highway": 30.2
+               "City": "24.2 mpg US (9.7 L/100Km)",
+               "Highway": "30.2 mpg US (7.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA Integra Coupe 1994-200105-03-03-15-05.jpg"
 },{
      "model_name": "ACURA Integra Coupe 1989-1994",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 5MT (140 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1834,
+               "Displacement": "1834 cm3",
                "Power": "103 KW @ 6000 RPM\n140 HP @ 6000 RPM\n138 BHP @ 6000 RPM",
                "Torque": "126 lb-ft @ 5000 RPM\n171 Nm @ 5000 RPM",
                "Fuel System": "Electronic Fuel Injection",
@@ -1623,31 +1296,32 @@
                "Tire Size": "195/60 R14 85H"
           },
           "DIMENSIONS": {
-               "Length": 172.9,
-               "Width": 67.5,
-               "Height": 50,
+               "Length": "172.9 in (4392 mm)",
+               "Width": "67.5 in (1715 mm)",
+               "Height": "50 in (1270 mm)",
                "Front/rear Track": "58.1/58.1 in (1,476/1,476 mm)",
-               "Wheelbase": 100.4,
-               "Ground Clearance": 4.7,
-               "Cargo Volume": 16,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "100.4 in (2550 mm)",
+               "Ground Clearance": "4.7 in (119 mm)",
+               "Cargo Volume": "16 cuFT (453 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2557
+               "Unladen Weight": "2557 lbs (1160 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25,
-               "Highway": 31,
-               "Combined": 26,
-               "CO2 Emissions": 215
+               "City": "25 mpg US (9.4 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)",
+               "Combined": "26 mpg US (9 L/100Km)",
+               "CO2 Emissions": "215 g/km"
           }
-     }
+     },
+     "img": "images/ACURA Integra Coupe 1989-199405-03-03-15-07.jpg"
 },{
      "model_name": "ACURA Integra Coupe 1986-1989",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT (113 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1590,
+               "Displacement": "1590 cm3",
                "Power": "85 KW @ 6250 RPM\n113 HP @ 6250 RPM\n114 BHP @ 6250 RPM",
                "Torque": "99 lb-ft @ 5500 RPM\n134 Nm @ 5500 RPM",
                "Fuel System": "Electronic Injection",
@@ -1665,31 +1339,32 @@
                "Tire Size": "195/60 R14"
           },
           "DIMENSIONS": {
-               "Length": 168.5,
-               "Width": 65.6,
-               "Height": 50.8,
+               "Length": "168.5 in (4280 mm)",
+               "Width": "65.6 in (1666 mm)",
+               "Height": "50.8 in (1290 mm)",
                "Front/rear Track": "55.9/56.5 in (1,420/1,435 mm)",
-               "Wheelbase": 96.5,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 16,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "96.5 in (2451 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "16 cuFT (453 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2326
+               "Unladen Weight": "2326 lbs (1055 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26,
-               "Highway": 30,
-               "Combined": 27.4,
-               "CO2 Emissions": 204
+               "City": "26 mpg US (9 L/100Km)",
+               "Highway": "30 mpg US (7.8 L/100Km)",
+               "Combined": "27.4 mpg US (8.6 L/100Km)",
+               "CO2 Emissions": "204 g/km"
           }
-     }
+     },
+     "img": "images/ACURA Integra Coupe 1986-198905-03-03-15-09.jpg"
 },{
      "model_name": "ACURA Legend 1990-1996",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2L V6 5MT (202 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3206,
+               "Displacement": "3206 cm3",
                "Power": "150 KW @ 5500 RPM\n202 HP @ 5500 RPM\n201 BHP @ 5500 RPM",
                "Torque": "210 lb-ft @ 4500 RPM\n285 Nm @ 4500 RPM",
                "Fuel System": "Electronic Fuel Injection",
@@ -1707,36 +1382,37 @@
                "Tire Size": "205/60 R15"
           },
           "DIMENSIONS": {
-               "Length": 194.9,
-               "Width": 71.3,
-               "Height": 55.1,
+               "Length": "194.9 in (4950 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "55.1 in (1400 mm)",
                "Front/rear Track": "61/60.6 in (1,549/1,539 mm)",
-               "Wheelbase": 114.6,
-               "Ground Clearance": 6,
-               "Cargo Volume": 14.8,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "114.6 in (2911 mm)",
+               "Ground Clearance": "6 in (152 mm)",
+               "Cargo Volume": "14.8 cuFT (419 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3455
+               "Unladen Weight": "3455 lbs (1567 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 31,
-               "Combined": 24,
-               "CO2 Emissions": 233
+               "City": "20 mpg US (11.8 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)",
+               "Combined": "24 mpg US (9.8 L/100Km)",
+               "CO2 Emissions": "233 g/km"
           }
-     }
+     },
+     "img": "images/ACURA Legend 1990-199605-03-03-15-11.jpg"
 },{
      "model_name": "ACURA Legend 1986-1991",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L V6 5AT FWD (151 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2494,
+               "Displacement": "2494 cm3",
                "Power": "112 KW @ 5800 RPM\n152 HP @ 5800 RPM\n150 BHP @ 5800 RPM",
                "Torque": "154 lb-ft @ 4500 RPM\n209 Nm @ 4500 RPM",
                "Fuel System": "Electronic Fuel Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18
+               "Fuel capacity": "18 gallons (68.1 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1750,37 +1426,38 @@
                "Tire Size": "205/60 R15"
           },
           "DIMENSIONS": {
-               "Length": 189.4,
-               "Width": 68.3,
-               "Height": 54.7,
+               "Length": "189.4 in (4811 mm)",
+               "Width": "68.3 in (1735 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "59.1/57.5 in (1,501/1,461 mm)",
-               "Wheelbase": 108.7,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 14,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "108.7 in (2761 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "14 cuFT (396 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3077
+               "Unladen Weight": "3077 lbs (1396 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Highway": 25
+               "Highway": "25 mpg US (9.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA Legend 1986-199105-03-03-15-13.jpg"
 },{
      "model_name": "ACURA Legend Coupe 1990-1995",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2 V6": {
                "Cylinders": "V6",
-               "Displacement": 3206,
+               "Displacement": "3206 cm3",
                "Power": "150 KW @ 5500 RPM\n202 HP @ 5500 RPM\n201 BHP @ 5500 RPM",
                "Torque": "210 lb-ft @ 4500 RPM\n285 Nm @ 4500 RPM",
                "Fuel System": "Electronic Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 140.4,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+               "Top Speed": "140.4 mph (226 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1794,32 +1471,33 @@
                "Tire Size": "205/60 R15"
           },
           "DIMENSIONS": {
-               "Length": 192.5,
-               "Width": 71.3,
-               "Height": 53.5,
+               "Length": "192.5 in (4890 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "53.5 in (1359 mm)",
                "Front/rear Track": "61/60.6 in (1,549/1,539 mm)",
-               "Wheelbase": 114.6,
-               "Ground Clearance": 6,
-               "Cargo Volume": 15.1,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "114.6 in (2911 mm)",
+               "Ground Clearance": "6 in (152 mm)",
+               "Cargo Volume": "15.1 cuFT (428 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3455,
-               "Gross Weight Limit": 4739.9
+               "Unladen Weight": "3455 lbs (1567 kg)",
+               "Gross Weight Limit": "4739.9 lbs (2150 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 31,
-               "Combined": 24,
-               "CO2 Emissions": 233
+               "City": "20 mpg US (11.8 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)",
+               "Combined": "24 mpg US (9.8 L/100Km)",
+               "CO2 Emissions": "233 g/km"
           }
-     }
+     },
+     "img": "images/ACURA Legend Coupe 1990-199505-03-03-15-15.jpg"
 },{
      "model_name": "ACURA Legend Coupe 1987-1990",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.7L V6 5AT FWD (161 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2675,
+               "Displacement": "2675 cm3",
                "Power": "120 KW @ 5900 RPM\n163 HP @ 5900 RPM\n161 BHP @ 5900 RPM",
                "Torque": "162 lb-ft @ 4500 RPM\n220 Nm @ 4500 RPM",
                "Fuel System": "Electronic Fuel Injection",
@@ -1837,35 +1515,36 @@
                "Tire Size": "205/60 R15"
           },
           "DIMENSIONS": {
-               "Length": 188,
-               "Width": 68.7,
-               "Height": 53.9,
+               "Length": "188 in (4775 mm)",
+               "Width": "68.7 in (1745 mm)",
+               "Height": "53.9 in (1369 mm)",
                "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
-               "Wheelbase": 106.1,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 14.7,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "106.1 in (2695 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "14.7 cuFT (416 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3183
+               "Unladen Weight": "3183 lbs (1444 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 13.1,
-               "Highway": 10.7
+               "City": "13.1 mpg US (18 L/100Km)",
+               "Highway": "10.7 mpg US (22 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA Legend Coupe 1987-199005-03-03-15-16.jpg"
 },{
      "model_name": "ACURA RL 2008-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.7L V6 VTEC AWD 5AT (300 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3664,
+               "Displacement": "3664 cm3",
                "Power": "224 KW @ 6300 RPM\n305 HP @ 6300 RPM\n300 BHP @ 6300 RPM",
                "Torque": "271 lb-ft @ 5000 RPM\n367 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19.3
+               "Fuel capacity": "19.3 gallons (73.1 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1879,41 +1558,42 @@
                "Tire Size": "245/45 R18"
           },
           "DIMENSIONS": {
-               "Length": 195.8,
-               "Width": 72.7,
-               "Height": 57.2,
+               "Length": "195.8 in (4973 mm)",
+               "Width": "72.7 in (1847 mm)",
+               "Height": "57.2 in (1453 mm)",
                "Front/rear Track": "62/62.4 in (1,575/1,585 mm)",
-               "Wheelbase": 110.2,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 13.1,
-               "Aerodynamics (Cd)": 0.3,
-               "Turning circle": 39.7
+               "Wheelbase": "110.2 in (2799 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "13.1 cuFT (371 L)",
+               "Aerodynamics (Cd)": "0.3",
+               "Turning circle": "39.7 ft (12.1 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4083,
-               "Gross Weight Limit": 5082
+               "Unladen Weight": "4083 lbs (1852 kg)",
+               "Gross Weight Limit": "5082 lbs (2305 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16,
-               "Highway": 22,
-               "Combined": 19
+               "City": "16 mpg US (14.7 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)",
+               "Combined": "19 mpg US (12.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA RL 2008-201205-03-03-15-18.jpg"
 },{
      "model_name": "ACURA RL 2004-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5 V6 5AT (300 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3471,
+               "Displacement": "3471 cm3",
                "Power": "221 KW @ 6200 RPM\n300 HP @ 6200 RPM\n296 BHP @ 6200 RPM",
                "Torque": "260 lb-ft @ 5000 RPM\n353 Nm @ 5000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.3
+               "Top Speed": "155.3 mph (250 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1927,39 +1607,40 @@
                "Tire Size": "P245/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 193.6,
-               "Width": 72.7,
-               "Height": 57.1,
+               "Length": "193.6 in (4917 mm)",
+               "Width": "72.7 in (1847 mm)",
+               "Height": "57.1 in (1450 mm)",
                "Front/rear Track": "62/62.4 in (1,575/1,585 mm)",
-               "Wheelbase": 110.2,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 13,
-               "Aerodynamics (Cd)": 0.29
+               "Wheelbase": "110.2 in (2799 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "13 cuFT (368 L)",
+               "Aerodynamics (Cd)": "0.29"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3984,
-               "Gross Weight Limit": 5093.6
+               "Unladen Weight": "3984 lbs (1807 kg)",
+               "Gross Weight Limit": "5093.6 lbs (2310 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18,
-               "Highway": 26,
-               "CO2 Emissions": 282
+               "City": "18 mpg US (13.1 L/100Km)",
+               "Highway": "26 mpg US (9 L/100Km)",
+               "CO2 Emissions": "282 g/km"
           }
-     }
+     },
+     "img": "images/ACURA RL 2004-200805-03-03-15-20.jpg"
 },{
      "model_name": "ACURA RSX 2005-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5AT (160 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "114 KW @ 6500 RPM\n160 HP @ 6500 RPM\n153 BHP @ 6500 RPM",
                "Torque": "141 lb-ft @ 4000 RPM\n191 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.7
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1973,39 +1654,40 @@
                "Tire Size": "P205/55R16"
           },
           "DIMENSIONS": {
-               "Length": 172.4,
-               "Width": 67.9,
-               "Height": 54.9,
+               "Length": "172.4 in (4379 mm)",
+               "Width": "67.9 in (1725 mm)",
+               "Height": "54.9 in (1394 mm)",
                "Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
-               "Wheelbase": 101.2,
-               "Ground Clearance": 6,
-               "Cargo Volume": 16,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "101.2 in (2570 mm)",
+               "Ground Clearance": "6 in (152 mm)",
+               "Cargo Volume": "16 cuFT (453 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2734
+               "Unladen Weight": "2734 lbs (1240 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 27,
-               "Highway": 34,
-               "Combined": 29.5,
-               "CO2 Emissions": 189
+               "City": "27 mpg US (8.7 L/100Km)",
+               "Highway": "34 mpg US (6.9 L/100Km)",
+               "Combined": "29.5 mpg US (8 L/100Km)",
+               "CO2 Emissions": "189 g/km"
           }
-     }
+     },
+     "img": "images/ACURA RSX 2005-200605-03-03-15-22.jpg"
 },{
      "model_name": "ACURA RSX TYPE-S 2002-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5AT (160 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1991,
+               "Displacement": "1991 cm3",
                "Power": "117.7 KW @ 6500 RPM\n160 HP @ 6500 RPM\n158 BHP @ 6500 RPM",
                "Torque": "141 lb-ft @ 4000 RPM\n191 Nm @ 4000 RPM",
                "Fuel System": "Multi-Point Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 143,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.6
+               "Top Speed": "143 mph (230 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2019,27 +1701,28 @@
                "Tire Size": "P205/55R16"
           },
           "DIMENSIONS": {
-               "Length": 172.2,
-               "Width": 67.9,
-               "Height": 54.7,
+               "Length": "172.2 in (4374 mm)",
+               "Width": "67.9 in (1725 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "58.4/58.4 in (1,483/1,483 mm)",
-               "Wheelbase": 101.2,
-               "Ground Clearance": 4.4,
-               "Cargo Volume": 17.8,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "101.2 in (2570 mm)",
+               "Ground Clearance": "4.4 in (112 mm)",
+               "Cargo Volume": "17.8 cuFT (504 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24,
-               "Highway": 33.1
+               "City": "24 mpg US (9.8 L/100Km)",
+               "Highway": "33.1 mpg US (7.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA RSX TYPE-S 2002-200505-03-03-15-24.jpg"
 },{
      "model_name": "ACURA RSX 2002-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5AT (160 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "119 KW @ 6500 RPM\n160 HP @ 6500 RPM\n160 BHP @ 6500 RPM",
                "Torque": "141 lb-ft @ 4000 RPM\n191 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -2057,36 +1740,37 @@
                "Tire Size": "P205/55R16"
           },
           "DIMENSIONS": {
-               "Length": 172.2,
-               "Width": 67.9,
-               "Height": 54.7,
+               "Length": "172.2 in (4374 mm)",
+               "Width": "67.9 in (1725 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "58.4/58.4 in (1,483/1,483 mm)",
-               "Wheelbase": 101.2,
-               "Ground Clearance": 6,
-               "Cargo Volume": 17.8
+               "Wheelbase": "101.2 in (2570 mm)",
+               "Ground Clearance": "6 in (152 mm)",
+               "Cargo Volume": "17.8 cuFT (504 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2721
+               "Unladen Weight": "2721 lbs (1234 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 27,
-               "Highway": 33
+               "City": "27 mpg US (8.7 L/100Km)",
+               "Highway": "33 mpg US (7.1 L/100Km)"
           }
-     }
+     },
+     "img": "images/ACURA RSX 2002-200505-03-03-15-26.jpg"
 },{
      "model_name": "ACURA RSX TYPE-S 2005-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5AT (160 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "117.7 KW @ 4000 RPM\n160 HP @ 4000 RPM\n158 BHP @ 4000 RPM",
                "Torque": "141 lb-ft @ - RPM\n191 Nm @ - RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 11
+               "Top Speed": "118 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2100,39 +1784,40 @@
                "Tire Size": "P215/45R17"
           },
           "DIMENSIONS": {
-               "Length": 172.4,
-               "Width": 67.9,
-               "Height": 54.9,
+               "Length": "172.4 in (4379 mm)",
+               "Width": "67.9 in (1725 mm)",
+               "Height": "54.9 in (1394 mm)",
                "Front/rear Track": "58.5/58.5 in (1,486/1,486 mm)",
-               "Wheelbase": 101.2,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 16
+               "Wheelbase": "101.2 in (2570 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "16 cuFT (453 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2822,
-               "Gross Weight Limit": 3968
+               "Unladen Weight": "2822 lbs (1280 kg)",
+               "Gross Weight Limit": "3968 lbs (1800 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23,
-               "Highway": 31
+               "City": "23 mpg US (10.2 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA RSX TYPE-S 2005-200605-03-03-15-28.jpg"
 },{
      "model_name": "ACURA SLX 1997-1999",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 4AT AWD (216 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3493,
+               "Displacement": "3493 cm3",
                "Power": "159 KW @ 5400 RPM\n216 HP @ 5400 RPM\n213 BHP @ 5400 RPM",
                "Torque": "230 lb-ft @ 3000 RPM\n312 Nm @ 3000 RPM",
                "Fuel System": "Electronic Fuel Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 22.5
+               "Fuel capacity": "22.5 gallons (85.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 111.9,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.8
+               "Top Speed": "111.9 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2146,39 +1831,40 @@
                "Tire Size": "P245/70R16"
           },
           "DIMENSIONS": {
-               "Length": 187.8,
-               "Width": 72.2,
-               "Height": 72.2,
+               "Length": "187.8 in (4770 mm)",
+               "Width": "72.2 in (1834 mm)",
+               "Height": "72.2 in (1834 mm)",
                "Front/rear Track": "59.6/59.8 in (1,514/1,519 mm)",
-               "Wheelbase": 108.7,
-               "Ground Clearance": 8.3,
-               "Cargo Volume": 43.7
+               "Wheelbase": "108.7 in (2761 mm)",
+               "Ground Clearance": "8.3 in (211 mm)",
+               "Cargo Volume": "43.7 cuFT (1237 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4615,
-               "Gross Weight Limit": 5510
+               "Unladen Weight": "4615 lbs (2093 kg)",
+               "Gross Weight Limit": "5510 lbs (2499 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15,
-               "Highway": 19,
-               "Combined": 16.8,
-               "CO2 Emissions": 333
+               "City": "15 mpg US (15.7 L/100Km)",
+               "Highway": "19 mpg US (12.4 L/100Km)",
+               "Combined": "16.8 mpg US (14 L/100Km)",
+               "CO2 Emissions": "333 g/km"
           }
-     }
+     },
+     "img": "images/ACURA SLX 1997-199905-03-03-15-30.jpg"
 },{
      "model_name": "ACURA SLX 1996-1997",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2L V6 4AT AWD (190 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3165,
+               "Displacement": "3165 cm3",
                "Power": "140 KW @ 5600 RPM\n190 HP @ 5600 RPM\n188 BHP @ 5600 RPM",
                "Torque": "188 lb-ft @ 4000 RPM\n255 Nm @ 4000 RPM",
                "Fuel System": "Electronic Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 103,
-               "Acceleration 0-62 Mph (0-100 kph)": 10
+               "Top Speed": "103 mph (166 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2192,35 +1878,36 @@
                "Tire Size": "215/80R16"
           },
           "DIMENSIONS": {
-               "Length": 183.5,
-               "Width": 72.4,
-               "Height": 72.2,
+               "Length": "183.5 in (4661 mm)",
+               "Width": "72.4 in (1839 mm)",
+               "Height": "72.2 in (1834 mm)",
                "Front/rear Track": "57.3/57.1 in (1,455/1,450 mm)",
-               "Wheelbase": 108.7,
-               "Ground Clearance": 8.5,
-               "Cargo Volume": 46.3
+               "Wheelbase": "108.7 in (2761 mm)",
+               "Ground Clearance": "8.5 in (216 mm)",
+               "Cargo Volume": "46.3 cuFT (1311 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4314.4,
-               "Gross Weight Limit": 5509.3
+               "Unladen Weight": "4314.4 lbs (1957 kg)",
+               "Gross Weight Limit": "5509.3 lbs (2499 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Highway": 13.1,
-               "Combined": 12.6,
-               "CO2 Emissions": 444
+               "Highway": "13.1 mpg US (18 L/100Km)",
+               "Combined": "12.6 mpg US (18.7 L/100Km)",
+               "CO2 Emissions": "444 g/km"
           }
-     }
+     },
+     "img": "images/ACURA SLX 1996-199705-03-03-15-32.jpg"
 },{
      "model_name": "ACURA TL 2008-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 VTEC FWD 5AT (280 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3471,
+               "Displacement": "3471 cm3",
                "Power": "209 KW @ 6200 RPM\n284 HP @ 6200 RPM\n280 BHP @ 6200 RPM",
                "Torque": "254 lb-ft @ 5000 RPM\n344 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Fuel Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.1
+               "Fuel capacity": "17.1 gallons (64.7 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2234,42 +1921,43 @@
                "Tire Size": "245/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 195.3,
-               "Width": 74,
-               "Height": 57.2,
+               "Length": "195.3 in (4961 mm)",
+               "Width": "74 in (1880 mm)",
+               "Height": "57.2 in (1453 mm)",
                "Front/rear Track": "63.2/63.8 in (1,605/1,621 mm)",
-               "Wheelbase": 109.3,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 13.1,
-               "Aerodynamics (Cd)": 0.29,
-               "Turning circle": 39.7
+               "Wheelbase": "109.3 in (2776 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "13.1 cuFT (371 L)",
+               "Aerodynamics (Cd)": "0.29",
+               "Turning circle": "39.7 ft (12.1 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3708,
-               "Gross Weight Limit": 4696
+               "Unladen Weight": "3708 lbs (1682 kg)",
+               "Gross Weight Limit": "4696 lbs (2130 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18,
-               "Highway": 26,
-               "Combined": 22
+               "City": "18 mpg US (13.1 L/100Km)",
+               "Highway": "26 mpg US (9 L/100Km)",
+               "Combined": "22 mpg US (10.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA TL 2008-201405-03-03-15-34.jpg"
 },{
      "model_name": "ACURA TL 2003-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2L 24V V6 5AT FWD (261 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3210,
+               "Displacement": "3210 cm3",
                "Power": "192 KW @ 6200 RPM\n261 HP @ 6200 RPM\n257 BHP @ 6200 RPM",
                "Torque": "233 lb-ft @ 5000 RPM\n316 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 140,
-               "Acceleration 0-62 Mph (0-100 kph)": 6
+               "Top Speed": "140 mph (225 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2283,38 +1971,39 @@
                "Tire Size": "235/45 WR17"
           },
           "DIMENSIONS": {
-               "Length": 189.3,
-               "Width": 72.2,
-               "Height": 56.7,
+               "Length": "189.3 in (4808 mm)",
+               "Width": "72.2 in (1834 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "62.1/62 in (1,577/1,575 mm)",
-               "Wheelbase": 107.9,
-               "Ground Clearance": 5.8,
-               "Cargo Volume": 12.5,
-               "Aerodynamics (Cd)": 0.29
+               "Wheelbase": "107.9 in (2741 mm)",
+               "Ground Clearance": "5.8 in (147 mm)",
+               "Cargo Volume": "12.5 cuFT (354 L)",
+               "Aerodynamics (Cd)": "0.29"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3649
+               "Unladen Weight": "3649 lbs (1655 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19.9,
-               "Highway": 29
+               "City": "19.9 mpg US (11.8 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA TL 2003-200805-03-03-15-37.jpg"
 },{
      "model_name": "ACURA TL 1999-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.3L 4AT FWD (176 HP)": {
                "Cylinders": "L5",
-               "Displacement": 2451,
+               "Displacement": "2451 cm3",
                "Power": "129.4 KW @ 6300 RPM\n176 HP @ 6300 RPM\n174 BHP @ 6300 RPM",
                "Torque": "170 lb-ft @ 3900 RPM\n230 Nm @ 3900 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 146
+               "Top Speed": "146 mph (235 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2328,33 +2017,34 @@
                "Tire Size": "215/55 R17"
           },
           "DIMENSIONS": {
-               "Length": 190.6,
-               "Width": 70.3,
-               "Height": 55.5,
+               "Length": "190.6 in (4841 mm)",
+               "Width": "70.3 in (1786 mm)",
+               "Height": "55.5 in (1410 mm)",
                "Front/rear Track": "59.8/59.4 in (1,519/1,509 mm)",
-               "Wheelbase": 111.8,
-               "Ground Clearance": 4.7,
-               "Cargo Volume": 14.1
+               "Wheelbase": "111.8 in (2840 mm)",
+               "Ground Clearance": "4.7 in (119 mm)",
+               "Cargo Volume": "14.1 cuFT (399 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3042
+               "Unladen Weight": "3042 lbs (1380 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA TL 1999-200305-03-03-15-39.jpg"
 },{
      "model_name": "ACURA TL 1995-1998",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L 4AT FWD (176 HP)": {
                "Cylinders": "L5",
-               "Displacement": 2500,
+               "Displacement": "2500 cm3",
                "Power": "130 KW @ 6300 RPM\n177 HP @ 6300 RPM\n174 BHP @ 6300 RPM",
                "Torque": "170 lb-ft @ 3900 RPM\n230 Nm @ 3900 RPM",
                "Fuel System": "Electronic Fuel Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": 9.3
+               "Acceleration 0-62 Mph (0-100 kph)": "9.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2368,37 +2058,38 @@
                "Tire Size": "P205/60 HR16"
           },
           "DIMENSIONS": {
-               "Length": 191.5,
-               "Width": 70.3,
-               "Height": 55.3,
+               "Length": "191.5 in (4864 mm)",
+               "Width": "70.3 in (1786 mm)",
+               "Height": "55.3 in (1405 mm)",
                "Front/rear Track": "70/59.4 in (1,778/1,509 mm)",
-               "Wheelbase": 111.8,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 14.1,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "111.8 in (2840 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "14.1 cuFT (399 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3290
+               "Unladen Weight": "3290 lbs (1492 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 25,
-               "Combined": 21,
-               "CO2 Emissions": 267
+               "City": "20 mpg US (11.8 L/100Km)",
+               "Highway": "25 mpg US (9.4 L/100Km)",
+               "Combined": "21 mpg US (11.2 L/100Km)",
+               "CO2 Emissions": "267 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA TL 1995-199805-03-03-15-41.jpg"
 },{
      "model_name": "ACURA TSX Sport Wagon 2010-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 5AT (201 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2354,
+               "Displacement": "2354 cm3",
                "Power": "147.8 KW @ 7000 RPM\n201 HP @ 7000 RPM\n198 BHP @ 7000 RPM",
                "Torque": "170 lb-ft @ 4300 RPM\n230 Nm @ 4300 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18.5
+               "Fuel capacity": "18.5 gallons (70.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2412,33 +2103,34 @@
                "Tire Size": "P225/50 R17 93V"
           },
           "DIMENSIONS": {
-               "Length": 189.2,
-               "Width": 72.4,
-               "Height": 57.9,
+               "Length": "189.2 in (4806 mm)",
+               "Width": "72.4 in (1839 mm)",
+               "Height": "57.9 in (1471 mm)",
                "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
-               "Wheelbase": 106.5,
-               "Cargo Volume": 31.5
+               "Wheelbase": "106.5 in (2705 mm)",
+               "Cargo Volume": "31.5 cuFT (892 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3585
+               "Unladen Weight": "3585 lbs (1626 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22,
-               "Highway": 30.2,
-               "Combined": 25
+               "City": "22 mpg US (10.7 L/100Km)",
+               "Highway": "30.2 mpg US (7.8 L/100Km)",
+               "Combined": "25 mpg US (9.4 L/100Km)"
           }
-     }
+     },
+     "img": "images/ACURA TSX Sport Wagon 2010-201405-03-03-15-43.jpg"
 },{
      "model_name": "ACURA TSX 2008-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L I-VTEC 5AT (201 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2354,
+               "Displacement": "2354 cm3",
                "Power": "150 KW @ 7000 RPM\n204 HP @ 7000 RPM\n201 BHP @ 7000 RPM",
                "Torque": "172 lb-ft @ 4300 RPM\n233 Nm @ 4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18.5
+               "Fuel capacity": "18.5 gallons (70.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2452,42 +2144,43 @@
                "Tire Size": "225/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 186.1,
-               "Width": 72.4,
-               "Height": 56.7,
+               "Length": "186.1 in (4727 mm)",
+               "Width": "72.4 in (1839 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "62.2/62.2 in (1,580/1,580 mm)",
-               "Wheelbase": 106.4,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 12.6,
-               "Aerodynamics (Cd)": 0.27,
-               "Turning circle": 39.7
+               "Wheelbase": "106.4 in (2703 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "12.6 cuFT (357 L)",
+               "Aerodynamics (Cd)": "0.27",
+               "Turning circle": "39.7 ft (12.1 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3479,
-               "Gross Weight Limit": 4475
+               "Unladen Weight": "3479 lbs (1578 kg)",
+               "Gross Weight Limit": "4475 lbs (2030 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22,
-               "Highway": 31,
-               "Combined": 26
+               "City": "22 mpg US (10.7 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)",
+               "Combined": "26 mpg US (9 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ACURA TSX 2008-201405-03-03-15-45.jpg"
 },{
      "model_name": "2003 Acura TSX",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 16V 5AT FWD (203 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2354,
+               "Displacement": "2354 cm3",
                "Power": "149 KW @ 6800 RPM\n203 HP @ 6800 RPM\n200 BHP @ 6800 RPM",
                "Torque": "166 lb-ft @ 4500 RPM\n225 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 134,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+               "Top Speed": "134 mph (216 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2501,20 +2194,21 @@
                "Tire Size": "P215/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 183.3,
-               "Width": 69.4,
-               "Height": 57.3,
+               "Length": "183.3 in (4656 mm)",
+               "Width": "69.4 in (1763 mm)",
+               "Height": "57.3 in (1455 mm)",
                "Front/rear Track": "59.6/59.6 in (1,514/1,514 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 6.2,
-               "Cargo Volume": 13,
-               "Aerodynamics (Cd)": 0.27
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "6.2 in (157 mm)",
+               "Cargo Volume": "13 cuFT (368 L)",
+               "Aerodynamics (Cd)": "0.27"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3296,
-               "Gross Weight Limit": 4244
+               "Unladen Weight": "3296 lbs (1495 kg)",
+               "Gross Weight Limit": "4244 lbs (1925 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/2003 Acura TSX05-03-03-15-47.jpg"
 },	
  ] } 

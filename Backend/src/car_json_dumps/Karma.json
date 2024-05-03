@@ -2,16 +2,16 @@
 {
      "model_name": "Karma Revero GT 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L (403 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "296.4 KW @ - RPM\n403 HP @ - RPM\n397 BHP @ - RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Hybrid"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 125,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.6
+               "Top Speed": "125 mph (201 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive"
@@ -21,35 +21,36 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": 196.8,
-               "Width": 84,
-               "Height": 52.4,
-               "Wheelbase": 124.4
+               "Length": "196.8 in (4999 mm)",
+               "Width": "84 in (2134 mm)",
+               "Height": "52.4 in (1331 mm)",
+               "Wheelbase": "124.4 in (3160 mm)"
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": 5509
+               "Gross Weight Limit": "5509 lbs (2499 kg)"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion Polymer",
-               "Nominal Capacity": 21.4,
+               "Nominal Capacity": "21.4 kWh",
                "Charging time (normal)": "10 hours",
-               "Range": 50
+               "Range": "50 miles (80.5 km)"
           }
-     }
+     },
+     "img": "images/Karma Revero GT 2019-Present05-03-05-21-55.jpg"
 },{
      "model_name": "Karma Revero GTS 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 394 KW (536 HP)": {
                "Cylinders": "L3",
-               "Displacement": 1499,
+               "Displacement": "1499 cm3",
                "Power": "394.2 KW @ - RPM\n536 HP @ - RPM\n529 BHP @ - RPM",
                "Torque": "635 lb-ft @ - RPM\n861 Nm @ - RPM",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 4
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
@@ -62,16 +63,17 @@
                "Tire Size": "255/35 R22"
           },
           "DIMENSIONS": {
-               "Length": 196.8,
-               "Width": 84,
-               "Height": 52.4,
-               "Wheelbase": 124.4
+               "Length": "196.8 in (4999 mm)",
+               "Width": "84 in (2134 mm)",
+               "Height": "52.4 in (1331 mm)",
+               "Wheelbase": "124.4 in (3160 mm)"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Nominal Capacity": 28,
-               "Range": 360
+               "Nominal Capacity": "28 kWh",
+               "Range": "360 miles (579.4 km)"
           }
-     }
+     },
+     "img": "images/Karma Revero GTS 2019-Present05-03-05-21-57.jpg"
 },	
  ] } 

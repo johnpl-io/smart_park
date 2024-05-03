@@ -2,17 +2,17 @@
 {
      "model_name": "EAGLE Premier 1987-1993",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.0L V6 4AT FWD (152 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2975,
+               "Displacement": "2975 cm3",
                "Power": "111.8 KW @ 5000 RPM\n152 HP @ 5000 RPM\n150 BHP @ 5000 RPM",
                "Torque": "171 lb-ft @ 3600 RPM\n232 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.9
+               "Fuel capacity": "16.9 gallons (64.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 121
+               "Top Speed": "121 mph (195 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -26,32 +26,33 @@
                "Tire Size": "205/70 R14"
           },
           "DIMENSIONS": {
-               "Length": 192.9,
-               "Width": 70.1,
-               "Height": 54.7,
+               "Length": "192.9 in (4900 mm)",
+               "Width": "70.1 in (1781 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "58.3/57.1 in (1,481/1,450 mm)",
-               "Wheelbase": 106.1,
-               "Cargo Volume": 17
+               "Wheelbase": "106.1 in (2695 mm)",
+               "Cargo Volume": "17 cuFT (481 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3086
+               "Unladen Weight": "3086 lbs (1400 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.7,
-               "Highway": 21.4
+               "City": "15.7 mpg US (15 L/100Km)",
+               "Highway": "21.4 mpg US (11 L/100Km)"
           }
-     }
+     },
+     "img": "images/EAGLE Premier 1987-199305-03-04-29-32.jpg"
 },{
      "model_name": "EAGLE Summit 1993-1996",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L 12V 5MT (92 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1468,
+               "Displacement": "1468 cm3",
                "Power": "67.7 KW @ 6000 RPM\n92 HP @ 6000 RPM\n91 BHP @ 6000 RPM",
                "Torque": "93 lb-ft @ 3000 RPM\n126 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -65,31 +66,32 @@
                "Tire Size": "145/80 R13 S"
           },
           "DIMENSIONS": {
-               "Length": 171.1,
-               "Width": 66.5,
-               "Height": 51.6,
+               "Length": "171.1 in (4346 mm)",
+               "Width": "66.5 in (1689 mm)",
+               "Height": "51.6 in (1311 mm)",
                "Front/rear Track": "57.1/57.5 in (1,450/1,461 mm)",
-               "Wheelbase": 96.1
+               "Wheelbase": "96.1 in (2441 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2086
+               "Unladen Weight": "2086 lbs (946 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 35.1
+               "Combined": "35.1 mpg US (6.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "EAGLE Summit Wagon 1992-1996",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8I 16V 4AT (116 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1834,
+               "Displacement": "1834 cm3",
                "Power": "85.3 KW @ 6000 RPM\n116 HP @ 6000 RPM\n114 BHP @ 6000 RPM",
                "Torque": "117 lb-ft @ 4500 RPM\n158 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -103,32 +105,33 @@
                "Tire Size": "205/70 R14 S"
           },
           "DIMENSIONS": {
-               "Length": 168.5,
-               "Width": 66.7,
-               "Height": 62.6,
+               "Length": "168.5 in (4280 mm)",
+               "Width": "66.7 in (1694 mm)",
+               "Height": "62.6 in (1590 mm)",
                "Front/rear Track": "57.3/57.5 in (1,455/1,461 mm)",
-               "Wheelbase": 99.2,
-               "Cargo Volume": 23.9
+               "Wheelbase": "99.2 in (2520 mm)",
+               "Cargo Volume": "23.9 cuFT (677 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2734
+               "Unladen Weight": "2734 lbs (1240 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 25.3
+               "Combined": "25.3 mpg US (9.3 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/EAGLE Summit Wagon 1992-199605-03-04-29-47.jpg"
 },{
      "model_name": "EAGLE Talon 1995-1998",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0I 16V 4AT (140 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1996,
+               "Displacement": "1996 cm3",
                "Power": "103 KW @ 6000 RPM\n140 HP @ 6000 RPM\n138 BHP @ 6000 RPM",
                "Torque": "130 lb-ft @ 4800 RPM\n176 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.9
+               "Fuel capacity": "15.9 gallons (60.2 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -142,13 +145,14 @@
                "Tire Size": "205/55 R16 V"
           },
           "DIMENSIONS": {
-               "Length": 172.2,
-               "Width": 68.3,
-               "Height": 51,
+               "Length": "172.2 in (4374 mm)",
+               "Width": "68.3 in (1735 mm)",
+               "Height": "51 in (1295 mm)",
                "Front/rear Track": "59.7/59.1 in (1,516/1,501 mm)",
-               "Wheelbase": 98.8
+               "Wheelbase": "98.8 in (2510 mm)"
           },
           "": {}
-     }
+     },
+     "img": "images/EAGLE Talon 1995-199805-03-04-29-49.jpg"
 },	
  ] } 

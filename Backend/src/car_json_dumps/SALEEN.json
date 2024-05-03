@@ -2,17 +2,17 @@
 {
      "model_name": "SALEEN S7 2000-2004",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0 V8": {
                "Cylinders": "V8",
-               "Displacement": 6997,
+               "Displacement": "6997 cm3",
                "Power": "404 KW @ 6400 RPM\n550 HP @ 6400 RPM\n542 BHP @ 6400 RPM",
                "Torque": "525 lb-ft @ 4000 RPM\n712 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 198.8,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "198.8 mph (320 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -26,36 +26,37 @@
                "Tire Size": "275/30 ZR19 (front) - 345/30 ZR20 (rear)"
           },
           "DIMENSIONS": {
-               "Length": 188,
-               "Width": 78.3,
-               "Height": 41,
+               "Length": "188 in (4775 mm)",
+               "Width": "78.3 in (1989 mm)",
+               "Height": "41 in (1041 mm)",
                "Front/rear Track": "68.8/67.3 in (1,748/1,709 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 3.9,
-               "Cargo Volume": 2.7
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "3.9 in (99 mm)",
+               "Cargo Volume": "2.7 cuFT (76 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2750
+               "Unladen Weight": "2750 lbs (1247 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 10,
-               "Highway": 17
+               "City": "10 mpg US (23.5 L/100Km)",
+               "Highway": "17 mpg US (13.8 L/100Km)"
           }
-     }
+     },
+     "img": "images/SALEEN S7 2000-200405-03-07-09-50.jpg"
 },{
      "model_name": "SALEEN S7 2005-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0L V8 TWIN TURBO 6MT (750 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6997,
+               "Displacement": "6997 cm3",
                "Power": "559 KW @ 6300 RPM\n750 HP @ 6300 RPM\n750 BHP @ 6300 RPM",
                "Torque": "700 lb-ft @ 4800 RPM\n949 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 248,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+               "Top Speed": "248 mph (399 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -69,18 +70,19 @@
                "Tire Size": "Front: 275/30 ZR19 - Rear: 345/30 ZR20"
           },
           "DIMENSIONS": {
-               "Length": 188,
-               "Width": 78.3,
-               "Height": 41,
+               "Length": "188 in (4775 mm)",
+               "Width": "78.3 in (1989 mm)",
+               "Height": "41 in (1041 mm)",
                "Front/rear Track": "68.8/67.3 in (1,748/1,709 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 4,
-               "Cargo Volume": 2.7,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "4 in (102 mm)",
+               "Cargo Volume": "2.7 cuFT (76 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2950
+               "Unladen Weight": "2950 lbs (1338 kg)"
           }
-     }
+     },
+     "img": "images/SALEEN S7 2005-200605-03-07-09-52.jpg"
 },	
  ] } 

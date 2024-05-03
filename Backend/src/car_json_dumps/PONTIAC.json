@@ -2,9 +2,9 @@
 {
      "model_name": "PONTIAC Aztek 2000-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.4L V6 4AT AWD (185 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3350,
+               "Displacement": "3350 cm3",
                "Power": "138 KW @ 5200 RPM\n187.6 HP @ 5200 RPM\n185 BHP @ 5200 RPM",
                "Torque": "210 lb-ft @ 4000 RPM\n285 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -22,31 +22,32 @@
                "Tire Size": "215/70 R16"
           },
           "DIMENSIONS": {
-               "Length": 182.2,
-               "Width": 73.6,
-               "Height": 66.9,
+               "Length": "182.2 in (4628 mm)",
+               "Width": "73.6 in (1869 mm)",
+               "Height": "66.9 in (1699 mm)",
                "Front/rear Track": "62.5 / 63.4 in (1,588/1,610 mm)",
-               "Wheelbase": 108.3,
-               "Ground Clearance": 7.2,
-               "Cargo Volume": 45.4,
-               "Aerodynamics (Cd)": 0.5
+               "Wheelbase": "108.3 in (2751 mm)",
+               "Ground Clearance": "7.2 in (183 mm)",
+               "Cargo Volume": "45.4 cuFT (1286 L)",
+               "Aerodynamics (Cd)": "0.5"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4043
+               "Unladen Weight": "4043 lbs (1834 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16,
-               "Highway": 22,
-               "Combined": 18
+               "City": "16 mpg US (14.7 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)",
+               "Combined": "18 mpg US (13.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Aztek 2000-200505-03-06-43-41.jpg"
 },{
      "model_name": "PONTIAC Bonneville 2004-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8L V6 4AT FWD (210 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3800,
+               "Displacement": "3800 cm3",
                "Power": "156.6 KW @ 5200 RPM\n212.9 HP @ 5200 RPM\n210 BHP @ 5200 RPM",
                "Torque": "230 lb-ft @ 4000 RPM\n312 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -64,32 +65,33 @@
                "Tire Size": "225/60R16"
           },
           "DIMENSIONS": {
-               "Length": 202.6,
-               "Width": 74.2,
-               "Height": 56.6,
+               "Length": "202.6 in (5146 mm)",
+               "Width": "74.2 in (1885 mm)",
+               "Height": "56.6 in (1438 mm)",
                "Front/rear Track": "62.6/62.1 in (1,590/1,577 mm)",
-               "Wheelbase": 112.2,
-               "Ground Clearance": 5.4,
-               "Cargo Volume": 18,
-               "Aerodynamics (Cd)": 0.36
+               "Wheelbase": "112.2 in (2850 mm)",
+               "Ground Clearance": "5.4 in (137 mm)",
+               "Cargo Volume": "18 cuFT (510 L)",
+               "Aerodynamics (Cd)": "0.36"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3590
+               "Unladen Weight": "3590 lbs (1628 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 29,
-               "Combined": 24,
-               "CO2 Emissions": 233.2
+               "City": "20 mpg US (11.8 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)",
+               "Combined": "24 mpg US (9.8 L/100Km)",
+               "CO2 Emissions": "233.2 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Bonneville 2004-200505-03-06-43-43.jpg"
 },{
      "model_name": "PONTIAC Bonneville 2000-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8L V6 4AT FWD (210 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3800,
+               "Displacement": "3800 cm3",
                "Power": "156.6 KW @ 5200 RPM\n212.9 HP @ 5200 RPM\n210 BHP @ 5200 RPM",
                "Torque": "230 lb-ft @ 4000 RPM\n312 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -107,31 +109,32 @@
                "Tire Size": "225/60R16"
           },
           "DIMENSIONS": {
-               "Length": 202.6,
-               "Width": 74.2,
-               "Height": 56.6,
+               "Length": "202.6 in (5146 mm)",
+               "Width": "74.2 in (1885 mm)",
+               "Height": "56.6 in (1438 mm)",
                "Front/rear Track": "62.6/62.1 in (1,590/1,577 mm)",
-               "Wheelbase": 112.2,
-               "Ground Clearance": 5.4,
-               "Cargo Volume": 18,
-               "Aerodynamics (Cd)": 0.36
+               "Wheelbase": "112.2 in (2850 mm)",
+               "Ground Clearance": "5.4 in (137 mm)",
+               "Cargo Volume": "18 cuFT (510 L)",
+               "Aerodynamics (Cd)": "0.36"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3590
+               "Unladen Weight": "3590 lbs (1628 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 29,
-               "Combined": 24
+               "City": "20 mpg US (11.8 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)",
+               "Combined": "24 mpg US (9.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Bonneville 2000-200305-03-06-43-44.jpg"
 },{
      "model_name": "PONTIAC Bonneville 1961-1964",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4 V8 3AT (235 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6375,
+               "Displacement": "6375 cm3",
                "Power": "175.2 KW @ 3600 RPM\n238.3 HP @ 3600 RPM\n235 BHP @ 3600 RPM",
                "Torque": "297 lb-ft @ 2000 RPM\n402 Nm @ 2000 RPM",
                "Fuel System": "Carburetor",
@@ -149,23 +152,24 @@
                "Tire Size": "8 x 14"
           },
           "DIMENSIONS": {
-               "Length": 217,
-               "Width": 78.2,
-               "Height": 55.6,
+               "Length": "217 in (5512 mm)",
+               "Width": "78.2 in (1986 mm)",
+               "Height": "55.6 in (1412 mm)",
                "Front/rear Track": "62.5/62.5 in (1,588/1,588 mm)",
-               "Wheelbase": 123
+               "Wheelbase": "123 in (3124 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3810
+               "Unladen Weight": "3810 lbs (1728 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Bonneville 1961-196405-03-06-43-47.jpg"
 },{
      "model_name": "PONTIAC Bonneville 1959-1960",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4 V8 3MT (260 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6375,
+               "Displacement": "6375 cm3",
                "Power": "193.9 KW @ - RPM\n263.6 HP @ - RPM\n260 BHP @ - RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
@@ -179,21 +183,22 @@
                "Rear": "Drums"
           },
           "DIMENSIONS": {
-               "Length": 220.7,
-               "Width": 80.7,
-               "Wheelbase": 124
+               "Length": "220.7 in (5606 mm)",
+               "Width": "80.7 in (2050 mm)",
+               "Wheelbase": "124 in (3150 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4085
+               "Unladen Weight": "4085 lbs (1853 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Bonneville 1959-196005-03-06-43-48.jpg"
 },{
      "model_name": "PONTIAC Bonneville 1958-1958",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.0 V8 2AT (255 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6063,
+               "Displacement": "6063 cm3",
                "Power": "167.8 KW @ - RPM\n228.1 HP @ - RPM\n225 BHP @ - RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
@@ -210,26 +215,27 @@
                "Tire Size": "8.00x14"
           },
           "DIMENSIONS": {
-               "Length": 211,
-               "Width": 77.4,
+               "Length": "211 in (5359 mm)",
+               "Width": "77.4 in (1966 mm)",
                "Front/rear Track": "58.8/59.4 in (1,494/1,509 mm)",
-               "Wheelbase": 122
+               "Wheelbase": "122 in (3099 mm)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Bonneville 1958-195805-03-06-43-50.jpg"
 },{
      "model_name": "PONTIAC Fiero 1985-1988",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L 5MT FWD (94 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2471,
+               "Displacement": "2471 cm3",
                "Power": "69 KW @ 4400 RPM\n94 HP @ 4400 RPM\n93 BHP @ 4400 RPM",
                "Torque": "134 lb-ft @ 2800 RPM\n182 Nm @ 2800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 97
+               "Top Speed": "97 mph (156 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -243,25 +249,26 @@
                "Tire Size": "185/80 R 13"
           },
           "DIMENSIONS": {
-               "Length": 160.7,
-               "Width": 68.9,
-               "Height": 46.9,
+               "Length": "160.7 in (4082 mm)",
+               "Width": "68.9 in (1750 mm)",
+               "Height": "46.9 in (1191 mm)",
                "Front/rear Track": "57.8/58.7 in (1,468/1,491 mm)",
-               "Wheelbase": 93.4,
-               "Ground Clearance": 5.3,
-               "Aerodynamics (Cd)": 0.37
+               "Wheelbase": "93.4 in (2372 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Aerodynamics (Cd)": "0.37"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2504
+               "Unladen Weight": "2504 lbs (1136 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Fiero 1985-198805-03-06-43-52.jpg"
 },{
      "model_name": "PONTIAC Firebird 2000-2002",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8L V6 5MT (205 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3791,
+               "Displacement": "3791 cm3",
                "Power": "149 KW @ 5200 RPM\n205 HP @ 5200 RPM\n200 BHP @ 5200 RPM",
                "Torque": "225 lb-ft @ 4000 RPM\n305 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -279,25 +286,26 @@
                "Tire Size": "235/55R16"
           },
           "DIMENSIONS": {
-               "Length": 193.3,
-               "Width": 74.4,
-               "Height": 51.2,
+               "Length": "193.3 in (4910 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "51.2 in (1300 mm)",
                "Front/rear Track": "60.7/60.6 in (1,542/1,539 mm)",
-               "Wheelbase": 101.1,
-               "Ground Clearance": 4.5,
-               "Cargo Volume": 12.9
+               "Wheelbase": "101.1 in (2568 mm)",
+               "Ground Clearance": "4.5 in (114 mm)",
+               "Cargo Volume": "12.9 cuFT (365 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3319
+               "Unladen Weight": "3319 lbs (1505 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Firebird 2000-200205-03-06-43-54.jpg"
 },{
      "model_name": "PONTIAC Firebird Convertible 2000-2002",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8 V6": {
                "Cylinders": "V6",
-               "Displacement": 3791,
+               "Displacement": "3791 cm3",
                "Power": "149 KW @ 5200 RPM\n205 HP @ 5200 RPM\n200 BHP @ 5200 RPM",
                "Torque": "225 lb-ft @ 4000 RPM\n305 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -315,32 +323,33 @@
                "Tire Size": "235/55R16"
           },
           "DIMENSIONS": {
-               "Length": 193.3,
-               "Width": 74.4,
-               "Height": 51.2,
+               "Length": "193.3 in (4910 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "51.2 in (1300 mm)",
                "Front/rear Track": "60.7/60.6 in (1,542/1,539 mm)",
-               "Wheelbase": 101.1,
-               "Ground Clearance": 4.5,
-               "Cargo Volume": 12.9
+               "Wheelbase": "101.1 in (2568 mm)",
+               "Ground Clearance": "4.5 in (114 mm)",
+               "Cargo Volume": "12.9 cuFT (365 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3484
+               "Unladen Weight": "3484 lbs (1580 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Firebird Convertible 2000-200205-03-06-43-56.jpg"
 },{
      "model_name": "PONTIAC Firebird Convertible 1995-1997",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.4L V6 4AT (148 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3353,
+               "Displacement": "3353 cm3",
                "Power": "109 KW @ 4600 RPM\n148 HP @ 4600 RPM\n146 BHP @ 4600 RPM",
                "Torque": "190 lb-ft @ 3150 RPM\n257 Nm @ 3150 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3
+               "Top Speed": "124.3 mph (200 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -354,36 +363,37 @@
                "Tire Size": "205/60R16"
           },
           "DIMENSIONS": {
-               "Length": 195.7,
-               "Width": 74.4,
-               "Height": 52,
+               "Length": "195.7 in (4971 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "52 in (1321 mm)",
                "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
-               "Wheelbase": 101.2,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "101.2 in (2570 mm)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3368.7,
-               "Gross Weight Limit": 4409.2
+               "Unladen Weight": "3368.7 lbs (1528 kg)",
+               "Gross Weight Limit": "4409.2 lbs (2000 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 26.1,
-               "CO2 Emissions": 214.2
+               "Combined": "26.1 mpg US (9 L/100Km)",
+               "CO2 Emissions": "214.2 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Firebird Convertible 1995-199705-03-06-43-58.jpg"
 },{
      "model_name": "PONTIAC Firebird 1994-1997",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.4 V6": {
                "Cylinders": "V6",
-               "Displacement": 3353,
+               "Displacement": "3353 cm3",
                "Power": "109 KW @ 4600 RPM\n148 HP @ 4600 RPM\n146 BHP @ 4600 RPM",
                "Torque": "190 lb-ft @ 3150 RPM\n257 Nm @ 3150 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3
+               "Top Speed": "124.3 mph (200 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -397,36 +407,37 @@
                "Tire Size": "215/60R16"
           },
           "DIMENSIONS": {
-               "Length": 195.7,
-               "Width": 74.4,
-               "Height": 52,
+               "Length": "195.7 in (4971 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "52 in (1321 mm)",
                "Front/rear Track": "60.6/60.6 in (1,539/1,539 mm)",
-               "Wheelbase": 101.2,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "101.2 in (2570 mm)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3368.7,
-               "Gross Weight Limit": 4409.2
+               "Unladen Weight": "3368.7 lbs (1528 kg)",
+               "Gross Weight Limit": "4409.2 lbs (2000 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 26.7,
-               "CO2 Emissions": 209.4
+               "Combined": "26.7 mpg US (8.8 L/100Km)",
+               "CO2 Emissions": "209.4 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Firebird 1994-199705-03-06-44-00.jpg"
 },{
      "model_name": "1990 Pontiac Firebird",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.1L V6 4AT RWD (140 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3129,
+               "Displacement": "3129 cm3",
                "Power": "103 KW @ 4800 RPM\n140 HP @ 4800 RPM\n138 BHP @ 4800 RPM",
                "Torque": "184 lb-ft @ 3200 RPM\n250 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 111.84
+               "Top Speed": "111.84 mph (180 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -440,29 +451,30 @@
                "Tire Size": "215/65R15"
           },
           "DIMENSIONS": {
-               "Length": 195.3,
-               "Width": 72.4,
-               "Height": 49.6,
+               "Length": "195.3 in (4961 mm)",
+               "Width": "72.4 in (1839 mm)",
+               "Height": "49.6 in (1260 mm)",
                "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
-               "Wheelbase": 101.2,
-               "Cargo Volume": 12.4
+               "Wheelbase": "101.2 in (2570 mm)",
+               "Cargo Volume": "12.4 cuFT (351 L)"
           },
           "": {}
-     }
+     },
+     "img": "images/1990 Pontiac Firebird05-03-06-44-01.jpg"
 },{
      "model_name": "PONTIAC Firebird 1982-1992",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L 5MT RWD (90 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2471,
+               "Displacement": "2471 cm3",
                "Power": "66 KW @ 4400 RPM\n90 HP @ 4400 RPM\n89 BHP @ 4400 RPM",
                "Torque": "132 lb-ft @ 2800 RPM\n179 Nm @ 2800 RPM",
                "Fuel System": "Monopoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.6
+               "Fuel capacity": "15.6 gallons (59.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 100
+               "Top Speed": "100 mph (161 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -476,33 +488,34 @@
                "Tire Size": "195/75 R 14"
           },
           "DIMENSIONS": {
-               "Length": 190.6,
-               "Width": 72.4,
-               "Height": 49.6,
+               "Length": "190.6 in (4841 mm)",
+               "Width": "72.4 in (1839 mm)",
+               "Height": "49.6 in (1260 mm)",
                "Front/rear Track": "60.6/61.6 in (1,539/1,565 mm)",
-               "Wheelbase": 101,
-               "Ground Clearance": 4.6,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "101 in (2565 mm)",
+               "Ground Clearance": "4.6 in (117 mm)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2868
+               "Unladen Weight": "2868 lbs (1301 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Firebird 1982-199205-03-06-44-04.jpg"
 },{
      "model_name": "1970 Pontiac Firebird",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.1L L6 3AT RWD (111 HP)": {
                "Cylinders": "L6",
-               "Displacement": 4093,
+               "Displacement": "4093 cm3",
                "Power": "82 KW @ 3800 RPM\n111 HP @ 3800 RPM\n110 BHP @ 3800 RPM",
                "Torque": "185 lb-ft @ 1600 RPM\n251 Nm @ 1600 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21
+               "Fuel capacity": "21 gallons (79.5 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 100
+               "Top Speed": "100 mph (161 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -516,31 +529,32 @@
                "Tire Size": "E78x14"
           },
           "DIMENSIONS": {
-               "Length": 191.6,
-               "Width": 73.4,
-               "Height": 50.4,
+               "Length": "191.6 in (4867 mm)",
+               "Width": "73.4 in (1864 mm)",
+               "Height": "50.4 in (1280 mm)",
                "Front/rear Track": "61.3/60 in (1,557/1,524 mm)",
-               "Wheelbase": 108
+               "Wheelbase": "108 in (2743 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3239
+               "Unladen Weight": "3239 lbs (1469 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/1970 Pontiac Firebird05-03-06-44-06.jpg"
 },{
      "model_name": "PONTIAC Firebird 1967-1969",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8L L6 4MT RWD (220 HP)": {
                "Cylinders": "L6",
-               "Displacement": 3770,
+               "Displacement": "3770 cm3",
                "Power": "160 KW @ 5200 RPM\n220 HP @ 5200 RPM\n215 BHP @ 5200 RPM",
                "Torque": "240 lb-ft @ 3800 RPM\n325 Nm @ 3800 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 114,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.1
+               "Top Speed": "114 mph (183 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -554,24 +568,25 @@
                "Tire Size": "E70-14"
           },
           "DIMENSIONS": {
-               "Length": 188.8,
-               "Width": 72.6,
-               "Height": 51.5,
+               "Length": "188.8 in (4796 mm)",
+               "Width": "72.6 in (1844 mm)",
+               "Height": "51.5 in (1308 mm)",
                "Front/rear Track": "59/60 in (1,499/1,524 mm)",
-               "Wheelbase": 108.1,
-               "Ground Clearance": 7
+               "Wheelbase": "108.1 in (2746 mm)",
+               "Ground Clearance": "7 in (178 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3280
+               "Unladen Weight": "3280 lbs (1488 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Firebird 1967-196905-03-06-44-07.jpg"
 },{
      "model_name": "PONTIAC G3 2009-2011",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L ECOTEC 5MT (106 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "79 KW @ 6400 RPM\n106 HP @ 6400 RPM\n106 BHP @ 6400 RPM",
                "Torque": "107 lb-ft @ 3400 RPM\n145 Nm @ 3400 RPM",
                "Fuel System": "Electronic Injection",
@@ -589,29 +604,30 @@
                "Tire Size": "185/60R14"
           },
           "DIMENSIONS": {
-               "Length": 166.7,
-               "Width": 65.7,
-               "Height": 58.9,
+               "Length": "166.7 in (4234 mm)",
+               "Width": "65.7 in (1669 mm)",
+               "Height": "58.9 in (1496 mm)",
                "Front/rear Track": "2.2/2.2 in (56/56 mm)",
-               "Wheelbase": 97.6,
-               "Ground Clearance": 4.9,
-               "Cargo Volume": 14,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "97.6 in (2479 mm)",
+               "Ground Clearance": "4.9 in (124 mm)",
+               "Cargo Volume": "14 cuFT (396 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2549
+               "Unladen Weight": "2549 lbs (1156 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 27,
-               "Highway": 34
+               "City": "27 mpg US (8.7 L/100Km)",
+               "Highway": "34 mpg US (6.9 L/100Km)"
           }
-     }
+     },
+     "img": "images/PONTIAC G3 2009-201105-03-06-44-09.jpg"
 },{
      "model_name": "PONTIAC G5 2007-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2L 5AT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2384,
+               "Displacement": "2384 cm3",
                "Power": "129 KW @ 6200 RPM\n175 HP @ 6200 RPM\n173 BHP @ 6200 RPM",
                "Torque": "163 lb-ft @ 4800 RPM\n221 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
@@ -629,33 +645,34 @@
                "Tire Size": "205/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 179.8,
-               "Width": 67.5,
-               "Height": 55.7,
+               "Length": "179.8 in (4567 mm)",
+               "Width": "67.5 in (1715 mm)",
+               "Height": "55.7 in (1415 mm)",
                "Front/rear Track": "58.7/58.1 in (1,491/1,476 mm)",
-               "Wheelbase": 103.5,
-               "Ground Clearance": 5.36,
-               "Cargo Volume": 13.9
+               "Wheelbase": "103.5 in (2629 mm)",
+               "Ground Clearance": "5.36 in (136 mm)",
+               "Cargo Volume": "13.9 cuFT (394 L)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21,
-               "Highway": 31
+               "City": "21 mpg US (11.2 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC G5 2007-201005-03-06-44-11.jpg"
 },{
      "model_name": "PONTIAC G5 Sedan 2004-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2L 5MT (145 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2196,
+               "Displacement": "2196 cm3",
                "Power": "108 KW @ 5400 RPM\n145 HP @ 5400 RPM\n145 BHP @ 5400 RPM",
                "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118
+               "Top Speed": "118 mph (190 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -669,33 +686,34 @@
                "Tire Size": "195/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 180.3,
-               "Width": 67.9,
-               "Height": 57.1,
+               "Length": "180.3 in (4580 mm)",
+               "Width": "67.9 in (1725 mm)",
+               "Height": "57.1 in (1450 mm)",
                "Front/rear Track": "58.7/58.1 in (1,491/1,476 mm)",
-               "Wheelbase": 103.3,
-               "Ground Clearance": 5.4,
-               "Cargo Volume": 14
+               "Wheelbase": "103.3 in (2624 mm)",
+               "Ground Clearance": "5.4 in (137 mm)",
+               "Cargo Volume": "14 cuFT (396 L)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24.8,
-               "Highway": 38.6,
-               "Combined": 29.4,
-               "CO2 Emissions": 190.4
+               "City": "24.8 mpg US (9.5 L/100Km)",
+               "Highway": "38.6 mpg US (6.1 L/100Km)",
+               "Combined": "29.4 mpg US (8 L/100Km)",
+               "CO2 Emissions": "190.4 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC G5 Sedan 2004-201005-03-06-44-13.jpg"
 },{
      "model_name": "PONTIAC G6 Sedan 2008-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 4AT (164 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2384,
+               "Displacement": "2384 cm3",
                "Power": "122.3 KW @ 6400 RPM\n166 HP @ 6400 RPM\n164 BHP @ 6400 RPM",
                "Torque": "156 lb-ft @ 5000 RPM\n212 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.9
+               "Fuel capacity": "16.9 gallons (64.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -709,39 +727,40 @@
                "Tire Size": "225/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 189,
-               "Width": 70.6,
-               "Height": 57,
+               "Length": "189 in (4801 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "57 in (1448 mm)",
                "Front/rear Track": "59.6/60 in (1,514/1,524 mm)",
-               "Wheelbase": 112.3,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 14,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "112.3 in (2852 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "14 cuFT (396 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3305,
-               "Gross Weight Limit": 4519
+               "Unladen Weight": "3305 lbs (1499 kg)",
+               "Gross Weight Limit": "4519 lbs (2050 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22,
-               "Highway": 33,
-               "Combined": 26
+               "City": "22 mpg US (10.7 L/100Km)",
+               "Highway": "33 mpg US (7.1 L/100Km)",
+               "Combined": "26 mpg US (9 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC G6 Sedan 2008-201005-03-06-44-16.jpg"
 },{
      "model_name": "PONTIAC G6 Coupe 2006-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 4AT FWD (167 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2376,
+               "Displacement": "2376 cm3",
                "Power": "124 KW @ 6300 RPM\n167 HP @ 6300 RPM\n166 BHP @ 6300 RPM",
                "Torque": "162 lb-ft @ 4500 RPM\n220 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109
+               "Top Speed": "109 mph (175 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -755,32 +774,33 @@
                "Tire Size": "215/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 189.1,
-               "Width": 70.4,
-               "Height": 56.4,
+               "Length": "189.1 in (4803 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "56.4 in (1433 mm)",
                "Front/rear Track": "59.8/60.4 in (1,519/1,534 mm)",
-               "Wheelbase": 112.3,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 13.4,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "112.3 in (2852 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "13.4 cuFT (379 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3318
+               "Unladen Weight": "3318 lbs (1505 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.5,
-               "Highway": 36.8,
-               "Combined": 28,
-               "CO2 Emissions": 199.9
+               "City": "23.5 mpg US (10 L/100Km)",
+               "Highway": "36.8 mpg US (6.4 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)",
+               "CO2 Emissions": "199.9 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC G6 Coupe 2006-200805-03-06-44-18.jpg"
 },{
      "model_name": "PONTIAC G6 Convertible 2006-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 4AT (167 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2376,
+               "Displacement": "2376 cm3",
                "Power": "124 KW @ 6300 RPM\n167 HP @ 6300 RPM\n166 BHP @ 6300 RPM",
                "Torque": "162 lb-ft @ 4500 RPM\n220 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
@@ -798,27 +818,28 @@
                "Tire Size": "215/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 189.1,
-               "Width": 70.4,
-               "Height": 57.1,
+               "Length": "189.1 in (4803 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "57.1 in (1450 mm)",
                "Front/rear Track": "59.8/60.4 in (1,519/1,534 mm)",
-               "Wheelbase": 112.3,
-               "Cargo Volume": 5.8
+               "Wheelbase": "112.3 in (2852 mm)",
+               "Cargo Volume": "5.8/1.8 cuFT (164 L)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.5,
-               "Highway": 36.8,
-               "Combined": 28,
-               "CO2 Emissions": 199.9
+               "City": "23.5 mpg US (10 L/100Km)",
+               "Highway": "36.8 mpg US (6.4 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)",
+               "CO2 Emissions": "199.9 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC G6 Convertible 2006-200805-03-06-44-19.jpg"
 },{
      "model_name": "2005 Pontiac G6 Sedan",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 4AT FWD (167 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2376,
+               "Displacement": "2376 cm3",
                "Power": "124 KW @ 6300 RPM\n167 HP @ 6300 RPM\n166 BHP @ 6300 RPM",
                "Torque": "162 lb-ft @ 4500 RPM\n220 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
@@ -836,36 +857,37 @@
                "Tire Size": "P215/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 189.1,
-               "Width": 70.4,
-               "Height": 57.1,
+               "Length": "189.1 in (4803 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "57.1 in (1450 mm)",
                "Front/rear Track": "59.6/60.4 in (1,514/1,534 mm)",
-               "Wheelbase": 112.3,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 14
+               "Wheelbase": "112.3 in (2852 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "14 cuFT (396 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3380
+               "Unladen Weight": "3380 lbs (1533 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22.6,
-               "Highway": 36.8,
-               "Combined": 28,
-               "CO2 Emissions": 199.9
+               "City": "22.6 mpg US (10.4 L/100Km)",
+               "Highway": "36.8 mpg US (6.4 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)",
+               "CO2 Emissions": "199.9 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2005 Pontiac G6 Sedan05-03-06-44-22.jpg"
 },{
      "model_name": "PONTIAC G6 Convertible 2008-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 4AT (219 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3510,
+               "Displacement": "3510 cm3",
                "Power": "163.3 KW @ 5800 RPM\n222 HP @ 5800 RPM\n219 BHP @ 5800 RPM",
                "Torque": "251 lb-ft @ 3200 RPM\n340 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.9
+               "Fuel capacity": "16.9 gallons (64.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -879,37 +901,38 @@
                "Tire Size": "225/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 189.1,
-               "Width": 70.6,
-               "Height": 56.7,
+               "Length": "189.1 in (4803 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "59.8/60.4 in (1,519/1,534 mm)",
-               "Wheelbase": 112.3,
-               "Ground Clearance": 6.1,
-               "Cargo Volume": 12.6,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "112.3 in (2852 mm)",
+               "Ground Clearance": "6.1 in (155 mm)",
+               "Cargo Volume": "12.6 cuFT (357 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3856,
-               "Gross Weight Limit": 4740
+               "Unladen Weight": "3856 lbs (1749 kg)",
+               "Gross Weight Limit": "4740 lbs (2150 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 26,
-               "Combined": 20
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "26 mpg US (9 L/100Km)",
+               "Combined": "20 mpg US (11.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC G6 Convertible 2008-201005-03-06-44-24.jpg"
 },{
      "model_name": "PONTIAC G6 Coupe 2008-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 GT 4AT (219 HP)": {
                "Cylinders": "L4",
-               "Displacement": 3510,
+               "Displacement": "3510 cm3",
                "Power": "163.3 KW @ 5800 RPM\n222 HP @ 5800 RPM\n219 BHP @ 5800 RPM",
                "Torque": "220 lb-ft @ 4000 RPM\n298 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.9
+               "Fuel capacity": "16.9 gallons (64.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -923,32 +946,33 @@
                "Tire Size": "225/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 189.1,
-               "Width": 70.4,
-               "Height": 56.4,
+               "Length": "189.1 in (4803 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "56.4 in (1433 mm)",
                "Front/rear Track": "59.8/60.4 in (1,519/1,534 mm)",
-               "Wheelbase": 112.3,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 12,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "112.3 in (2852 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "12 cuFT (340 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3415,
-               "Gross Weight Limit": 4299
+               "Unladen Weight": "3415 lbs (1549 kg)",
+               "Gross Weight Limit": "4299 lbs (1950 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 26,
-               "Combined": 20
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "26 mpg US (9 L/100Km)",
+               "Combined": "20 mpg US (11.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC G6 Coupe 2008-201005-03-06-44-26.jpg"
 },{
      "model_name": "PONTIAC G8 2007-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 5AT (261 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3564,
+               "Displacement": "3564 cm3",
                "Power": "194 KW @ 6300 RPM\n261 HP @ 6300 RPM\n260 BHP @ 6300 RPM",
                "Torque": "250 lb-ft @ 3200 RPM\n339 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
@@ -966,25 +990,26 @@
                "Tire Size": "245/45R18"
           },
           "DIMENSIONS": {
-               "Length": 196.1,
-               "Width": 74.8,
-               "Height": 57.7,
+               "Length": "196.1 in (4981 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "57.7 in (1466 mm)",
                "Front/rear Track": "67.2/63.3 in (1,707/1,608 mm)",
-               "Wheelbase": 114.8,
-               "Ground Clearance": 4.3,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "114.8 in (2916 mm)",
+               "Ground Clearance": "4.3 in (109 mm)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3885
+               "Unladen Weight": "3885 lbs (1762 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC G8 2007-200905-03-06-44-27.jpg"
 },{
      "model_name": "PONTIAC Grand Am Coupe 1998-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2L 5MT FWD (141 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2189,
+               "Displacement": "2189 cm3",
                "Power": "104 KW @ 5600 RPM\n141 HP @ 5600 RPM\n139 BHP @ 5600 RPM",
                "Torque": "150 lb-ft @ 4000 RPM\n203 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -1002,25 +1027,26 @@
                "Tire Size": "215/60R15"
           },
           "DIMENSIONS": {
-               "Length": 186.3,
-               "Width": 70.4,
-               "Height": 55.1,
+               "Length": "186.3 in (4732 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "55.1 in (1400 mm)",
                "Front/rear Track": "59/59.1 in (1,499/1,501 mm)",
-               "Wheelbase": 107.2,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 13.2
+               "Wheelbase": "107.2 in (2723 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "13.2 cuFT (374 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3066
+               "Unladen Weight": "3066 lbs (1391 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Grand Am Coupe 1998-200505-03-06-44-29.jpg"
 },{
      "model_name": "PONTIAC Grand Am 1998-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2L 5MT FWD (141 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2189,
+               "Displacement": "2189 cm3",
                "Power": "104 KW @ 5600 RPM\n141 HP @ 5600 RPM\n139 BHP @ 5600 RPM",
                "Torque": "150 lb-ft @ 4000 RPM\n203 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -1038,34 +1064,35 @@
                "Tire Size": "215/60R15"
           },
           "DIMENSIONS": {
-               "Length": 186.3,
-               "Width": 70.4,
-               "Height": 55.1,
+               "Length": "186.3 in (4732 mm)",
+               "Width": "70.4 in (1788 mm)",
+               "Height": "55.1 in (1400 mm)",
                "Front/rear Track": "59/59.1 in (1,499/1,501 mm)",
-               "Wheelbase": 107.2,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 13.2
+               "Wheelbase": "107.2 in (2723 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "13.2 cuFT (374 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3116
+               "Unladen Weight": "3116 lbs (1413 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Grand Am 1998-200505-03-06-44-31.jpg"
 },{
      "model_name": "PONTIAC Grand Prix 2003-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8L V6 4AT FWD (203 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3800,
+               "Displacement": "3800 cm3",
                "Power": "149 KW @ 5200 RPM\n203 HP @ 5200 RPM\n200 BHP @ 5200 RPM",
                "Torque": "229 lb-ft @ 4000 RPM\n310 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.9
+               "Fuel capacity": "16.9 gallons (64.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 108,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+               "Top Speed": "108 mph (174 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1079,36 +1106,37 @@
                "Tire Size": "P225/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 198.3,
-               "Width": 73.8,
-               "Height": 55.9,
+               "Length": "198.3 in (5037 mm)",
+               "Width": "73.8 in (1875 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "61.6/61.3 in (1,565/1,557 mm)",
-               "Wheelbase": 110.5,
-               "Cargo Volume": 16
+               "Wheelbase": "110.5 in (2807 mm)",
+               "Cargo Volume": "16 cuFT (453 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3549
+               "Unladen Weight": "3549 lbs (1610 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 30
+               "City": "20 mpg US (11.8 L/100Km)",
+               "Highway": "30 mpg US (7.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Grand Prix 2003-200805-03-06-44-33.jpg"
 },{
      "model_name": "1997 Pontiac Grand Prix Sedan",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.1L V6 4AT FWD (177 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3135,
+               "Displacement": "3135 cm3",
                "Power": "130 KW @ 5200 RPM\n177 HP @ 5200 RPM\n174 BHP @ 5200 RPM",
                "Torque": "194 lb-ft @ 4000 RPM\n263 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18
+               "Fuel capacity": "18 gallons (68.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 121.2
+               "Top Speed": "121.2 mph (195 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1122,30 +1150,31 @@
                "Tire Size": "205/70/R15"
           },
           "DIMENSIONS": {
-               "Length": 197.5,
-               "Width": 72.7,
-               "Height": 54.7,
+               "Length": "197.5 in (5017 mm)",
+               "Width": "72.7 in (1847 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "61.4/61 in (1,560/1,549 mm)",
-               "Wheelbase": 110.5
+               "Wheelbase": "110.5 in (2807 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3384.1
+               "Unladen Weight": "3384.1 lbs (1535 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/1997 Pontiac Grand Prix Sedan05-03-06-44-35.jpg"
 },{
      "model_name": "1997 Pontiac Grand Prix Coupe",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8L V6 4AT FWD (203 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3791,
+               "Displacement": "3791 cm3",
                "Power": "149 KW @ 5200 RPM\n203 HP @ 5200 RPM\n200 BHP @ 5200 RPM",
                "Torque": "225 lb-ft @ 4000 RPM\n305 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3
+               "Top Speed": "124.3 mph (200 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1159,36 +1188,37 @@
                "Tire Size": "225/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 197.5,
-               "Width": 72.7,
-               "Height": 54.7,
+               "Length": "197.5 in (5017 mm)",
+               "Width": "72.7 in (1847 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "61.4/61.1 in (1,560/1,552 mm)",
-               "Wheelbase": 110.5
+               "Wheelbase": "110.5 in (2807 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3428.2
+               "Unladen Weight": "3428.2 lbs (1555 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19.9,
-               "Highway": 30.2,
-               "Combined": 24,
-               "CO2 Emissions": 233.2
+               "City": "19.9 mpg US (11.8 L/100Km)",
+               "Highway": "30.2 mpg US (7.8 L/100Km)",
+               "Combined": "24 mpg US (9.8 L/100Km)",
+               "CO2 Emissions": "233.2 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/1997 Pontiac Grand Prix Coupe05-03-06-44-37.jpg"
 },{
      "model_name": "PONTIAC Grand Prix Coupe 1990-1992",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.1L V6 4AT FWD (129 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3135,
+               "Displacement": "3135 cm3",
                "Power": "95 KW @ 4900 RPM\n129 HP @ 4900 RPM\n127 BHP @ 4900 RPM",
                "Torque": "185 lb-ft @ 3200 RPM\n251 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118.1
+               "Top Speed": "118.1 mph (190 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1202,31 +1232,32 @@
                "Tire Size": "215/65R15"
           },
           "DIMENSIONS": {
-               "Length": 195.3,
-               "Width": 71.6,
-               "Height": 54.7,
+               "Length": "195.3 in (4961 mm)",
+               "Width": "71.6 in (1819 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "59.4/57.9 in (1,509/1,471 mm)",
-               "Wheelbase": 107.5,
-               "Cargo Volume": 14.9
+               "Wheelbase": "107.5 in (2731 mm)",
+               "Cargo Volume": "14.9 cuFT (422 L)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 23.3,
-               "CO2 Emissions": 240.4
+               "Combined": "23.3 mpg US (10.1 L/100Km)",
+               "CO2 Emissions": "240.4 g/km"
           }
-     }
+     },
+     "img": "images/PONTIAC Grand Prix Coupe 1990-199205-03-06-44-39.jpg"
 },{
      "model_name": "PONTIAC Grand Prix 1990-1994",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.1L V6 4AT FWD (129 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3135,
+               "Displacement": "3135 cm3",
                "Power": "95 KW @ 4900 RPM\n129 HP @ 4900 RPM\n127 BHP @ 4900 RPM",
                "Torque": "185 lb-ft @ 3200 RPM\n251 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118.1
+               "Top Speed": "118.1 mph (190 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1240,24 +1271,25 @@
                "Tire Size": "215/65R15"
           },
           "DIMENSIONS": {
-               "Length": 195.3,
-               "Width": 71.6,
-               "Height": 54.7,
+               "Length": "195.3 in (4961 mm)",
+               "Width": "71.6 in (1819 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "59.4/57.9 in (1,509/1,471 mm)",
-               "Wheelbase": 107.5,
-               "Cargo Volume": 14.9
+               "Wheelbase": "107.5 in (2731 mm)",
+               "Cargo Volume": "14.9 cuFT (422 L)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 23.3,
-               "CO2 Emissions": 240.4
+               "Combined": "23.3 mpg US (10.1 L/100Km)",
+               "CO2 Emissions": "240.4 g/km"
           }
-     }
+     },
+     "img": "images/PONTIAC Grand Prix 1990-199405-03-06-44-40.jpg"
 },{
      "model_name": "PONTIAC GTO 2003-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.7L V8 6MT RWD (350 HP)": {
                "Cylinders": "V8",
-               "Displacement": 5665,
+               "Displacement": "5665 cm3",
                "Power": "261 KW @ 5200 RPM\n355 HP @ 5200 RPM\n350 BHP @ 5200 RPM",
                "Torque": "365 lb-ft @ 4000 RPM\n495 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -1275,24 +1307,25 @@
                "Tire Size": "235/40R18"
           },
           "DIMENSIONS": {
-               "Length": 189.8,
-               "Width": 72.5,
-               "Height": 54.9,
+               "Length": "189.8 in (4821 mm)",
+               "Width": "72.5 in (1842 mm)",
+               "Height": "54.9 in (1394 mm)",
                "Front/rear Track": "62.1/62.1 in (1,577/1,577 mm)",
-               "Wheelbase": 109.8,
-               "Cargo Volume": 7
+               "Wheelbase": "109.8 in (2789 mm)",
+               "Cargo Volume": "7 cuFT (198 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3726
+               "Unladen Weight": "3726 lbs (1690 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC GTO 2003-200605-03-06-44-42.jpg"
 },{
      "model_name": "PONTIAC GTO 1970-1974",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5 V8": {
                "Cylinders": "V8",
-               "Displacement": 6548,
+               "Displacement": "6548 cm3",
                "Power": "261 KW @ 5000 RPM\n350 HP @ 5000 RPM\n350 BHP @ 5000 RPM",
                "Torque": "445 lb-ft @ 3000 RPM\n603 Nm @ 3000 RPM",
                "Fuel System": "Carburetor",
@@ -1310,23 +1343,24 @@
                "Tire Size": "G78 X 14"
           },
           "DIMENSIONS": {
-               "Length": 202.9,
-               "Width": 76.7,
-               "Height": 52.3,
+               "Length": "202.9 in (5154 mm)",
+               "Width": "76.7 in (1948 mm)",
+               "Height": "52.3 in (1328 mm)",
                "Front/rear Track": "61/60 in (1,549/1,524 mm)",
-               "Wheelbase": 112
+               "Wheelbase": "112 in (2845 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3781
+               "Unladen Weight": "3781 lbs (1715 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC GTO 1970-197405-03-06-44-44.jpg"
 },{
      "model_name": "PONTIAC GTO 1968-1970",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5 V8": {
                "Cylinders": "V8",
-               "Displacement": 6548,
+               "Displacement": "6548 cm3",
                "Power": "261 KW @ 5000 RPM\n350 HP @ 5000 RPM\n350 BHP @ 5000 RPM",
                "Torque": "445 lb-ft @ 3000 RPM\n603 Nm @ 3000 RPM",
                "Fuel System": "Carburetor",
@@ -1344,60 +1378,62 @@
                "Tire Size": "G78X14"
           },
           "DIMENSIONS": {
-               "Length": 202.9,
-               "Width": 76.7,
-               "Height": 52.3,
+               "Length": "202.9 in (5154 mm)",
+               "Width": "76.7 in (1948 mm)",
+               "Height": "52.3 in (1328 mm)",
                "Front/rear Track": "61/60 in (1,549/1,524 mm)",
-               "Wheelbase": 112
+               "Wheelbase": "112 in (2845 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3781
+               "Unladen Weight": "3781 lbs (1715 kg)"
           }
-     }
+     },
+     "img": "images/PONTIAC GTO 1968-197005-03-06-44-46.jpg"
 },{
      "model_name": "PONTIAC GTO Convertible 1967-1968",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4 V8": {
                "Cylinders": "V8",
-               "Displacement": 6362,
+               "Displacement": "6362 cm3",
                "Power": "272 KW @ 5200 RPM\n375 HP @ 5200 RPM\n365 BHP @ 5200 RPM",
                "Torque": "424 lb-ft @ 3600 RPM\n575 Nm @ 3600 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 120,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.9
+               "Top Speed": "120 mph (193 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive"
           },
           "DIMENSIONS": {
-               "Length": 206.4,
-               "Width": 74.4,
-               "Height": 54,
+               "Length": "206.4 in (5243 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "54 in (1372 mm)",
                "Front/rear Track": "58/59.1 in (1,473/1,501 mm)",
-               "Wheelbase": 115,
-               "Ground Clearance": 6.1
+               "Wheelbase": "115 in (2921 mm)",
+               "Ground Clearance": "6.1 in (155 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3556
+               "Unladen Weight": "3556 lbs (1613 kg)"
           }
-     }
+     },
+     "img": "images/PONTIAC GTO Convertible 1967-196805-03-06-44-47.jpg"
 },{
      "model_name": "1965 Pontiac GTO",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4L V8 3MT (375 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6362,
+               "Displacement": "6362 cm3",
                "Power": "272 KW @ 5200 RPM\n375 HP @ 5200 RPM\n365 BHP @ 5200 RPM",
                "Torque": "424 lb-ft @ 3600 RPM\n575 Nm @ 3600 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 120,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.9
+               "Top Speed": "120 mph (193 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1408,31 +1444,32 @@
                "Rear": "Drums"
           },
           "DIMENSIONS": {
-               "Length": 206.4,
-               "Width": 74.4,
-               "Height": 54,
+               "Length": "206.4 in (5243 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "54 in (1372 mm)",
                "Front/rear Track": "58/59.1 in (1,473/1,501 mm)",
-               "Wheelbase": 115,
-               "Ground Clearance": 6.1
+               "Wheelbase": "115 in (2921 mm)",
+               "Ground Clearance": "6.1 in (155 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3556
+               "Unladen Weight": "3556 lbs (1613 kg)"
           }
-     }
+     },
+     "img": "images/1965 Pontiac GTO05-03-06-44-49.jpg"
 },{
      "model_name": "PONTIAC Lemans GTO Convertible 1964-1965",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4L V8 3MT (330 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6362,
+               "Displacement": "6362 cm3",
                "Power": "243 KW @ 4800 RPM\n330 HP @ 4800 RPM\n326 BHP @ 4800 RPM",
                "Torque": "428 lb-ft @ 3200 RPM\n580 Nm @ 3200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 122,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.9
+               "Top Speed": "122 mph (196 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1446,30 +1483,31 @@
                "Tire Size": "7.50X14"
           },
           "DIMENSIONS": {
-               "Length": 203,
-               "Width": 73.3,
-               "Height": 54,
+               "Length": "203 in (5156 mm)",
+               "Width": "73.3 in (1862 mm)",
+               "Height": "54 in (1372 mm)",
                "Front/rear Track": "58/58 in (1,473/1,473 mm)",
-               "Wheelbase": 115
+               "Wheelbase": "115 in (2921 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3400
+               "Unladen Weight": "3400 lbs (1542 kg)"
           }
-     }
+     },
+     "img": "images/PONTIAC Lemans GTO Convertible 1964-196505-03-06-44-50.jpg"
 },{
      "model_name": "PONTIAC Montana SV6 2005-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 SWB 4AT AWD (200 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3498,
+               "Displacement": "3498 cm3",
                "Power": "149 KW @ 5200 RPM\n203 HP @ 5200 RPM\n200 BHP @ 5200 RPM",
                "Torque": "220 lb-ft @ 4400 RPM\n298 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 25.1
+               "Fuel capacity": "25.1 gallons (95.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106
+               "Top Speed": "106 mph (171 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1483,35 +1521,36 @@
                "Tire Size": "225/60/R17"
           },
           "DIMENSIONS": {
-               "Length": 205.5,
-               "Width": 72,
-               "Height": 72,
+               "Length": "205.5 in (5220 mm)",
+               "Width": "72 in (1829 mm)",
+               "Height": "72 in (1829 mm)",
                "Front/rear Track": "62.4/62.9 in (1,585/1,598 mm)",
-               "Wheelbase": 121.1,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 26.9
+               "Wheelbase": "121.1 in (3076 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "26.9 cuFT (762 L)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18,
-               "Highway": 25
+               "City": "18 mpg US (13.1 L/100Km)",
+               "Highway": "25 mpg US (9.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Montana SV6 2005-200905-03-06-44-52.jpg"
 },{
      "model_name": "PONTIAC Montana 2000-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.4L V6 4AT (186 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3350,
+               "Displacement": "3350 cm3",
                "Power": "137 KW @ 5200 RPM\n186 HP @ 5200 RPM\n184 BHP @ 5200 RPM",
                "Torque": "210 lb-ft @ 4000 RPM\n285 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 25.1
+               "Fuel capacity": "25.1 gallons (95.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+               "Top Speed": "106 mph (171 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1525,37 +1564,38 @@
                "Tire Size": "215/70/R15"
           },
           "DIMENSIONS": {
-               "Length": 200.9,
-               "Width": 72,
-               "Height": 68.2,
+               "Length": "200.9 in (5103 mm)",
+               "Width": "72 in (1829 mm)",
+               "Height": "68.2 in (1732 mm)",
                "Front/rear Track": "61.8/63.3 in (1,570/1,608 mm)",
-               "Wheelbase": 121,
-               "Ground Clearance": 6.5
+               "Wheelbase": "121 in (3073 mm)",
+               "Ground Clearance": "6.5 in (165 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3942,
-               "Gross Weight Limit": 5357
+               "Unladen Weight": "3942 lbs (1788 kg)",
+               "Gross Weight Limit": "5357 lbs (2430 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18.1,
-               "Highway": 24
+               "City": "18.1 mpg US (13 L/100Km)",
+               "Highway": "24 mpg US (9.8 L/100Km)"
           }
-     }
+     },
+     "img": "images/PONTIAC Montana 2000-200505-03-06-44-54.jpg"
 },{
      "model_name": "PONTIAC Solstice Coupe 2008-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L ECOTEC TURBO 5AT (264 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "194 KW @ 5300 RPM\n264 HP @ 5300 RPM\n260 BHP @ 5300 RPM",
                "Torque": "260 lb-ft @ 5300 RPM\n353 Nm @ 5300 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.7
+               "Fuel capacity": "13.7 gallons (51.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 150,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+               "Top Speed": "150 mph (241 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1569,37 +1609,38 @@
                "Tire Size": "P245/45R18"
           },
           "DIMENSIONS": {
-               "Length": 157.2,
-               "Width": 71.3,
-               "Height": 50.9,
+               "Length": "157.2 in (3993 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "50.9 in (1293 mm)",
                "Front/rear Track": "60.7/61.4 in (1,542/1,560 mm)",
-               "Wheelbase": 95.1,
-               "Ground Clearance": 4.5,
-               "Cargo Volume": 5.6,
-               "Aerodynamics (Cd)": 0.43
+               "Wheelbase": "95.1 in (2416 mm)",
+               "Ground Clearance": "4.5 in (114 mm)",
+               "Cargo Volume": "5.6 cuFT (159 L)",
+               "Aerodynamics (Cd)": "0.43"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3042,
-               "Gross Weight Limit": 3594
+               "Unladen Weight": "3042 lbs (1380 kg)",
+               "Gross Weight Limit": "3594 lbs (1630 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19,
-               "Highway": 27,
-               "Combined": 21
+               "City": "19 mpg US (12.4 L/100Km)",
+               "Highway": "27 mpg US (8.7 L/100Km)",
+               "Combined": "21 mpg US (11.2 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Solstice Coupe 2008-200905-03-06-44-57.jpg"
 },{
      "model_name": "PONTIAC Solstice 2005-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L TURBO 5AT RWD (260 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "194 KW @ 5300 RPM\n264 HP @ 5300 RPM\n260 BHP @ 5300 RPM",
                "Torque": "260 lb-ft @ 2500 RPM\n353 Nm @ 2500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.7
+               "Fuel capacity": "13.7 gallons (51.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1613,27 +1654,28 @@
                "Tire Size": "245/45 R18"
           },
           "DIMENSIONS": {
-               "Length": 157.2,
-               "Width": 71.3,
-               "Height": 50.1,
+               "Length": "157.2 in (3993 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "50.1 in (1273 mm)",
                "Front/rear Track": "2.4/2.4 in (61/61 mm)",
-               "Wheelbase": 95.1,
-               "Ground Clearance": 5,
-               "Cargo Volume": 5.4
+               "Wheelbase": "95.1 in (2416 mm)",
+               "Ground Clearance": "5 in (127 mm)",
+               "Cargo Volume": "5.4 cuFT (153 L)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Solstice 2005-200905-03-06-44-59.jpg"
 },{
      "model_name": "1995 Pontiac Sunfire Cabrio",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2I 3AT FWD (124 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2190,
+               "Displacement": "2190 cm3",
                "Power": "91 KW @ 5200 RPM\n123.7 HP @ 5200 RPM\n122 BHP @ 5200 RPM",
                "Torque": "130 lb-ft @ 4000 RPM\n176 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.1
+               "Fuel capacity": "15.1 gallons (57.2 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1647,32 +1689,33 @@
                "Tire Size": "195/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 181.9,
-               "Width": 67.3,
-               "Height": 54.7,
+               "Length": "181.9 in (4620 mm)",
+               "Width": "67.3 in (1709 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "57.7/56.5 in (1,466/1,435 mm)",
-               "Wheelbase": 104.1,
-               "Cargo Volume": 9.9
+               "Wheelbase": "104.1 in (2644 mm)",
+               "Cargo Volume": "9.9 cuFT (280 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2833
+               "Unladen Weight": "2833 lbs (1285 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/1995 Pontiac Sunfire Cabrio05-03-06-45-01.jpg"
 },{
      "model_name": "PONTIAC Sunfire 2001-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2L 4AT FWD (140 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2189,
+               "Displacement": "2189 cm3",
                "Power": "104 KW @ 5600 RPM\n141 HP @ 5600 RPM\n139 BHP @ 5600 RPM",
                "Torque": "150 lb-ft @ 4000 RPM\n203 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.3
+               "Fuel capacity": "15.3 gallons (57.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118
+               "Top Speed": "118 mph (190 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1686,36 +1729,37 @@
                "Tire Size": "195/65R15"
           },
           "DIMENSIONS": {
-               "Length": 182,
-               "Width": 68.4,
-               "Height": 53,
+               "Length": "182 in (4623 mm)",
+               "Width": "68.4 in (1737 mm)",
+               "Height": "53 in (1346 mm)",
                "Front/rear Track": "57.6/56.4 in (1,463/1,433 mm)",
-               "Wheelbase": 104.1,
-               "Cargo Volume": 12.4
+               "Wheelbase": "104.1 in (2644 mm)",
+               "Cargo Volume": "12.4 cuFT (351 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2771
+               "Unladen Weight": "2771 lbs (1257 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24,
-               "Highway": 33,
-               "Combined": 28
+               "City": "24 mpg US (9.8 L/100Km)",
+               "Highway": "33 mpg US (7.1 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)"
           }
-     }
+     },
+     "img": "images/PONTIAC Sunfire 2001-200505-03-06-45-03.jpg"
 },{
      "model_name": "2000 Pontiac Sunfire Coupe",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2L 5MT FWD (116 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2189,
+               "Displacement": "2189 cm3",
                "Power": "86 KW @ 5000 RPM\n117 HP @ 5000 RPM\n115 BHP @ 5000 RPM",
                "Torque": "135 lb-ft @ 3600 RPM\n183 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.3
+               "Fuel capacity": "15.3 gallons (57.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109
+               "Top Speed": "109 mph (175 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1729,37 +1773,38 @@
                "Tire Size": "195/70R14"
           },
           "DIMENSIONS": {
-               "Length": 182,
-               "Width": 68.4,
-               "Height": 53,
+               "Length": "182 in (4623 mm)",
+               "Width": "68.4 in (1737 mm)",
+               "Height": "53 in (1346 mm)",
                "Front/rear Track": "57.6/56.4 in (1,463/1,433 mm)",
-               "Wheelbase": 104.1,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 12.4
+               "Wheelbase": "104.1 in (2644 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "12.4 cuFT (351 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2606
+               "Unladen Weight": "2606 lbs (1182 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.5,
-               "Highway": 36.8
+               "City": "23.5 mpg US (10 L/100Km)",
+               "Highway": "36.8 mpg US (6.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/2000 Pontiac Sunfire Coupe05-03-06-45-06.jpg"
 },{
      "model_name": "2000 Pontiac Sunfire Sedan",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4I 16V 5MT FWD (154 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2392,
+               "Displacement": "2392 cm3",
                "Power": "113.3 KW @ 5600 RPM\n154.1 HP @ 5600 RPM\n152 BHP @ 5600 RPM",
                "Torque": "155 lb-ft @ 4400 RPM\n210 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.3
+               "Fuel capacity": "15.3 gallons (57.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118
+               "Top Speed": "118 mph (190 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1773,31 +1818,32 @@
                "Tire Size": "195/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 181.7,
-               "Width": 67.9,
-               "Height": 54.8,
+               "Length": "181.7 in (4615 mm)",
+               "Width": "67.9 in (1725 mm)",
+               "Height": "54.8 in (1392 mm)",
                "Front/rear Track": "57.6/56.8 in (1,463/1,443 mm)",
-               "Cargo Volume": 13.1
+               "Cargo Volume": "13.1 cuFT (371 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2800
+               "Unladen Weight": "2800 lbs (1270 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22,
-               "Highway": 31.8
+               "City": "22 mpg US (10.7 L/100Km)",
+               "Highway": "31.8 mpg US (7.4 L/100Km)"
           }
-     }
+     },
+     "img": {}
 },{
      "model_name": "1995 Pontiac Sunfire Sedan",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2I 3AT FWD (124 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2190,
+               "Displacement": "2190 cm3",
                "Power": "91 KW @ 5200 RPM\n124 HP @ 5200 RPM\n122 BHP @ 5200 RPM",
                "Torque": "130 lb-ft @ 4000 RPM\n176 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.3
+               "Fuel capacity": "15.3 gallons (57.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1811,33 +1857,34 @@
                "Tire Size": "195/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 181.7,
-               "Width": 67.9,
-               "Height": 54.8,
+               "Length": "181.7 in (4615 mm)",
+               "Width": "67.9 in (1725 mm)",
+               "Height": "54.8 in (1392 mm)",
                "Front/rear Track": "57.6/56.8 in (1,463/1,443 mm)",
-               "Wheelbase": 104.1,
-               "Cargo Volume": 13.1
+               "Wheelbase": "104.1 in (2644 mm)",
+               "Cargo Volume": "13.1 cuFT (371 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2723
+               "Unladen Weight": "2723 lbs (1235 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/1995 Pontiac Sunfire Sedan05-03-06-45-20.jpg"
 },{
      "model_name": "PONTIAC Torrent 2005-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.4L V6 5AT (185 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3350,
+               "Displacement": "3350 cm3",
                "Power": "138 KW @ 5200 RPM\n188 HP @ 5200 RPM\n185 BHP @ 5200 RPM",
                "Torque": "210 lb-ft @ 3800 RPM\n285 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.6
+               "Fuel capacity": "16.6 gallons (62.8 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1851,38 +1898,39 @@
                "Tire Size": "235/65 R16"
           },
           "DIMENSIONS": {
-               "Length": 188.8,
-               "Width": 71.4,
-               "Height": 69.3,
+               "Length": "188.8 in (4796 mm)",
+               "Width": "71.4 in (1814 mm)",
+               "Height": "69.3 in (1760 mm)",
                "Front/rear Track": "61.6/61.6 in (1,565/1,565 mm)",
-               "Wheelbase": 112.5,
-               "Ground Clearance": 7.9,
-               "Cargo Volume": 35.2
+               "Wheelbase": "112.5 in (2858 mm)",
+               "Ground Clearance": "7.9 in (201 mm)",
+               "Cargo Volume": "35.2 cuFT (997 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3660
+               "Unladen Weight": "3660 lbs (1660 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19,
-               "Highway": 24
+               "City": "19 mpg US (12.4 L/100Km)",
+               "Highway": "24 mpg US (9.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Torrent 2005-200905-03-06-45-22.jpg"
 },{
      "model_name": "PONTIAC Trans Sport 1990-1996",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.3I 16V 5MT FWD (137 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2260,
+               "Displacement": "2260 cm3",
                "Power": "101 KW @ 6000 RPM\n137 HP @ 6000 RPM\n135 BHP @ 6000 RPM",
                "Torque": "138 lb-ft @ 2800 RPM\n187 Nm @ 2800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.1
+               "Fuel capacity": "20.1 gallons (76.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 115,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.3
+               "Top Speed": "115 mph (185 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1896,29 +1944,30 @@
                "Tire Size": "205/65R15"
           },
           "DIMENSIONS": {
-               "Length": 194.9,
-               "Width": 74.4,
-               "Height": 65.74,
+               "Length": "194.9 in (4950 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "65.74 in (1670 mm)",
                "Front/rear Track": "59.1/61.4 in (1,501/1,560 mm)",
-               "Wheelbase": 109.8,
-               "Ground Clearance": 6.9,
-               "Cargo Volume": 18.4
+               "Wheelbase": "109.8 in (2789 mm)",
+               "Ground Clearance": "6.9 in (175 mm)",
+               "Cargo Volume": "18.4 cuFT (521 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3825,
-               "Gross Weight Limit": 5125.7
+               "Unladen Weight": "3825 lbs (1735 kg)",
+               "Gross Weight Limit": "5125.7 lbs (2325 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 22.2
+               "Combined": "22.2 mpg US (10.6 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Trans Sport 1990-199605-03-06-45-24.jpg"
 },{
      "model_name": "PONTIAC Vibe GT 2008-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4 DOHC 5AT (160 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2362,
+               "Displacement": "2362 cm3",
                "Power": "118 KW @ 6000 RPM\n160 HP @ 6000 RPM\n158 BHP @ 6000 RPM",
                "Torque": "162 lb-ft @ 4000 RPM\n220 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -1936,40 +1985,41 @@
                "Tire Size": "P215/45R18"
           },
           "DIMENSIONS": {
-               "Length": 171.1,
-               "Width": 69.5,
-               "Height": 61.4,
+               "Length": "171.1 in (4346 mm)",
+               "Width": "69.5 in (1765 mm)",
+               "Height": "61.4 in (1560 mm)",
                "Front/rear Track": "59.8/59.9 in (1,519/1,521 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 6.7,
-               "Cargo Volume": 20.1,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "6.7 in (170 mm)",
+               "Cargo Volume": "20.1 cuFT (569 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3161,
-               "Gross Weight Limit": 4034
+               "Unladen Weight": "3161 lbs (1434 kg)",
+               "Gross Weight Limit": "4034 lbs (1830 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21,
-               "Highway": 28,
-               "Combined": 24.5
+               "City": "21 mpg US (11.2 L/100Km)",
+               "Highway": "28 mpg US (8.4 L/100Km)",
+               "Combined": "24.5 mpg US (9.6 L/100Km)"
           },
           "NOTES": {}
-     }
+     },
+     "img": "images/PONTIAC Vibe GT 2008-201005-03-06-45-26.jpg"
 },{
      "model_name": "PONTIAC Vibe 2008-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8 DOHC 4AT (130 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1794,
+               "Displacement": "1794 cm3",
                "Power": "96 KW @ 6000 RPM\n130 HP @ 6000 RPM\n129 BHP @ 6000 RPM",
                "Torque": "128 lb-ft @ 4400 RPM\n174 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+               "Top Speed": "109 mph (175 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1983,41 +2033,42 @@
                "Tire Size": "P205/55R16"
           },
           "DIMENSIONS": {
-               "Length": 171.1,
-               "Width": 69.5,
-               "Height": 61,
+               "Length": "171.1 in (4346 mm)",
+               "Width": "69.5 in (1765 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "59.8/59.9 in (1,519/1,521 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 6.7,
-               "Cargo Volume": 20.1,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "6.7 in (170 mm)",
+               "Cargo Volume": "20.1 cuFT (569 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2723,
-               "Gross Weight Limit": 3616
+               "Unladen Weight": "2723 lbs (1235 kg)",
+               "Gross Weight Limit": "3616 lbs (1640 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26,
-               "Highway": 31,
-               "Combined": 28
+               "City": "26 mpg US (9 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)"
           },
           "NOTES": {},
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Vibe 2008-201005-03-06-45-28.jpg"
 },{
      "model_name": "PONTIAC Vibe GT 2003-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8 VVTL-I 6MT (175 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1796,
+               "Displacement": "1796 cm3",
                "Power": "129 KW @ 7600 RPM\n175 HP @ 7600 RPM\n173 BHP @ 7600 RPM",
                "Torque": "130 lb-ft @ 6800 RPM\n176 Nm @ 6800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2031,32 +2082,33 @@
                "Tire Size": "215/50R17"
           },
           "DIMENSIONS": {
-               "Length": 171.9,
-               "Width": 69.9,
-               "Height": 62.2,
+               "Length": "171.9 in (4366 mm)",
+               "Width": "69.9 in (1775 mm)",
+               "Height": "62.2 in (1580 mm)",
                "Front/rear Track": "59.3/58.5 in (1,506/1,486 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 19.3
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "19.3 cuFT (547 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2800
+               "Unladen Weight": "2800 lbs (1270 kg)"
           }
-     }
+     },
+     "img": "images/PONTIAC Vibe GT 2003-200705-03-06-45-30.jpg"
 },{
      "model_name": "PONTIAC Vibe 2002-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L VVTL-I 4AT AWD (125 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1795,
+               "Displacement": "1795 cm3",
                "Power": "92 KW @ 6000 RPM\n125 HP @ 6000 RPM\n123 BHP @ 6000 RPM",
                "Torque": "118 lb-ft @ 4200 RPM\n160 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 110,
-               "Acceleration 0-62 Mph (0-100 kph)": 10
+               "Top Speed": "110 mph (177 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2070,18 +2122,19 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 171.9,
-               "Width": 69.9,
-               "Height": 62.2,
+               "Length": "171.9 in (4366 mm)",
+               "Width": "69.9 in (1775 mm)",
+               "Height": "62.2 in (1580 mm)",
                "Front/rear Track": "59.6/58.9 in (1,514/1,496 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 19.3
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "19.3 cuFT (547 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2976
+               "Unladen Weight": "2976 lbs (1350 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/PONTIAC Vibe 2002-201005-03-06-45-32.jpg"
 },	
  ] } 

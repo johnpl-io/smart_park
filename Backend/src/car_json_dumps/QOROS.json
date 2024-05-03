@@ -2,17 +2,17 @@
 {
      "model_name": "QOROS 3 City SUV 2015-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6 TURBO 6AT (156 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "115.1 KW @ 5500 RPM\n156.4 HP @ 5500 RPM\n154 BHP @ 5500 RPM",
                "Torque": "155 lb-ft @ 1750-5000 RPM\n210 Nm @ 1750-5000 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 129,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.8
+               "Top Speed": "129 mph (208 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -26,38 +26,39 @@
                "Tire Size": "215/60 R17"
           },
           "DIMENSIONS": {
-               "Length": 175.3,
-               "Width": 73,
-               "Height": 59.2,
+               "Length": "175.3 in (4453 mm)",
+               "Width": "73 in (1854 mm)",
+               "Height": "59.2 in (1504 mm)",
                "Front/rear Track": "62.5/62.1 in (1,588/1,577 mm)",
-               "Wheelbase": 106.1,
-               "Ground Clearance": 6.7,
-               "Cargo Volume": 14.2,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "106.1 in (2695 mm)",
+               "Ground Clearance": "6.7 in (170 mm)",
+               "Cargo Volume": "14.2 cuFT (402 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3153
+               "Unladen Weight": "3153 lbs (1430 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 34.1
+               "Combined": "34.1 mpg US (6.9 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/QOROS 3 City SUV 2015-Present05-03-06-55-29.jpg"
 },{
      "model_name": "QOROS 3 Hatchbach 2014-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 6AT (126 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "93 KW @ 6150 RPM\n126 HP @ 6150 RPM\n125 BHP @ 6150 RPM",
                "Torque": "114 lb-ft @ 3900 RPM\n155 Nm @ 3900 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 120,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.6
+               "Top Speed": "120 mph (193 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -71,38 +72,39 @@
                "Tire Size": "205/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 174.7,
-               "Width": 72.4,
-               "Height": 56.9,
+               "Length": "174.7 in (4437 mm)",
+               "Width": "72.4 in (1839 mm)",
+               "Height": "56.9 in (1445 mm)",
                "Front/rear Track": "62.2/62.4 in (1,580/1,585 mm)",
-               "Wheelbase": 105.9,
-               "Ground Clearance": 4.4,
-               "Cargo Volume": 14.2,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "105.9 in (2690 mm)",
+               "Ground Clearance": "4.4 in (112 mm)",
+               "Cargo Volume": "14.2 cuFT (402 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2998
+               "Unladen Weight": "2998 lbs (1360 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 38.6
+               "Combined": "38.6 mpg US (6.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/QOROS 3 Hatchbach 2014-Present05-03-06-55-31.jpg"
 },{
      "model_name": "QOROS 3 Sedan 2013-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 6AT FWD (126 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "93 KW @ 6150 RPM\n126 HP @ 6150 RPM\n125 BHP @ 6150 RPM",
                "Torque": "114 lb-ft @ 3800 RPM\n155 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 122,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.6
+               "Top Speed": "122 mph (196 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -116,29 +118,30 @@
                "Tire Size": "205/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 181.7,
-               "Width": 72.4,
-               "Height": 56.9,
+               "Length": "181.7 in (4615 mm)",
+               "Width": "72.4 in (1839 mm)",
+               "Height": "56.9 in (1445 mm)",
                "Front/rear Track": "62.2/62.4 in (1,580/1,585 mm)",
-               "Wheelbase": 105.9,
-               "Ground Clearance": 4.4,
-               "Cargo Volume": 15.9,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "105.9 in (2690 mm)",
+               "Ground Clearance": "4.4 in (112 mm)",
+               "Cargo Volume": "15.9 cuFT (450 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2998
+               "Unladen Weight": "2998 lbs (1360 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 39.2
+               "Combined": "39.2 mpg US (6 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/QOROS 3 Sedan 2013-Present05-03-06-55-34.jpg"
 },{
      "model_name": "QOROS 5 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L TURBO 6AT (156 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "115.1 KW @ 5500 RPM\n156 HP @ 5500 RPM\n154 BHP @ 5500 RPM",
                "Torque": "155 lb-ft @ 1750-5000 RPM\n210 Nm @ 1750-5000 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
@@ -151,6 +154,7 @@
                "Front": "Ventilated Discs",
                "Rear": "Discs"
           }
-     }
+     },
+     "img": "images/QOROS 5 2016-Present05-03-06-55-35.jpg"
 },	
  ] } 

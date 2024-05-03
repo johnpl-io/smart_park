@@ -2,22 +2,23 @@
 {
      "model_name": "2024 Suzuki Swift",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L MHEV": {
                "Cylinders": "L3",
                "Fuel": "Mild Hybrid"
           }
-     }
+     },
+     "img": "images/2024 Suzuki Swift05-03-07-24-09.jpg"
 },{
      "model_name": "2021 Suzuki Swift",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L DUALJET CVT (83 HP)": {
                "Power": "61 KW @ - RPM\n83 HP @ - RPM\n82 BHP @ - RPM",
                "Torque": "79 lb-ft @ 2800 RPM\n107 Nm @ 2800 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Hybrid Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": 12.2
+               "Acceleration 0-62 Mph (0-100 kph)": "12.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -30,22 +31,23 @@
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion"
           }
-     }
+     },
+     "img": "images/2021 Suzuki Swift05-03-07-24-10.jpg"
 },{
      "model_name": "SUZUKI Swift 5 Doors 2017-2020",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT (112 HP)": {
                "Cylinders": "L3",
-               "Displacement": 996,
+               "Displacement": "996 cm3",
                "Power": "82.4 KW @ 5500 RPM\n112 HP @ 5500 RPM\n111 BHP @ 5500 RPM",
                "Torque": "111 lb-ft @ 1700-4500 RPM\n150 Nm @ 1700-4500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 9.8
+               "Fuel capacity": "9.8 gallons (37.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 121,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.6
+               "Top Speed": "121 mph (195 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -59,37 +61,38 @@
                "Tire Size": "185/55 R16 83 V"
           },
           "DIMENSIONS": {
-               "Length": 151.2,
-               "Width": 66.7,
-               "Height": 59.1,
+               "Length": "151.2 in (3840 mm)",
+               "Width": "66.7 in (1694 mm)",
+               "Height": "59.1 in (1501 mm)",
                "Front/rear Track": "58.3/58.5 in (1,481/1,486 mm)",
-               "Wheelbase": 2450,
-               "Ground Clearance": 4.7,
-               "Cargo Volume": 9.4
+               "Wheelbase": "2450 in (62230 mm)",
+               "Ground Clearance": "4.7 in (119 mm)",
+               "Cargo Volume": "9.4 cuFT (266 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 750,
-               "Gross Weight Limit": 3042
+               "Unladen Weight": "750 lbs (340 kg)",
+               "Gross Weight Limit": "3042 lbs (1380 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 41.3,
-               "Highway": 58.8,
-               "Combined": 51.1,
-               "CO2 Emissions": 104
+               "City": "41.3 mpg US (5.7 L/100Km)",
+               "Highway": "58.8 mpg US (4 L/100Km)",
+               "Combined": "51.1 mpg US (4.6 L/100Km)",
+               "CO2 Emissions": "104 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Swift 5 Doors 2017-202005-03-07-24-13.jpg"
 },{
      "model_name": "SUZUKI Swift Sport 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 6AT (140 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1373,
+               "Displacement": "1373 cm3",
                "Power": "103 KW @ 5500 RPM\n140 HP @ 5500 RPM\n138 BHP @ 5500 RPM",
                "Torque": "170 lb-ft @ 2500-3500 RPM\n230 Nm @ 2500-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 9.8
+               "Fuel capacity": "9.8 gallons (37.1 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -103,40 +106,41 @@
                "Tire Size": "195/45 R17"
           },
           "DIMENSIONS": {
-               "Length": 153.1,
-               "Width": 68.3,
-               "Height": 58.9,
+               "Length": "153.1 in (3889 mm)",
+               "Width": "68.3 in (1735 mm)",
+               "Height": "58.9 in (1496 mm)",
                "Front/rear Track": "59.4/59.6 in (1,509/1,514 mm)",
-               "Wheelbase": 96.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 9.4
+               "Wheelbase": "96.5 in (2451 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "9.4 cuFT (266 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2138
+               "Unladen Weight": "2138 lbs (970 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 34.6,
-               "Highway": 49,
-               "Combined": 42.8,
-               "CO2 Emissions": 125
+               "City": "34.6 mpg US (6.8 L/100Km)",
+               "Highway": "49 mpg US (4.8 L/100Km)",
+               "Combined": "42.8 mpg US (5.5 L/100Km)",
+               "CO2 Emissions": "125 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Swift Sport 2017-Present05-03-07-24-15.jpg"
 },{
      "model_name": "SUZUKI Swift 5 Doors 2014-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 4AT (94 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1242,
+               "Displacement": "1242 cm3",
                "Power": "69.1 KW @ 6000 RPM\n94 HP @ 6000 RPM\n93 BHP @ 6000 RPM",
                "Torque": "87 lb-ft @ 4800 RPM\n118 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 9.8
+               "Fuel capacity": "9.8 gallons (37.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.5
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -150,42 +154,43 @@
                "Tire Size": "175/65 R15 84T 2"
           },
           "DIMENSIONS": {
-               "Length": 151.6,
-               "Width": 66.7,
-               "Height": 59.4,
+               "Length": "151.6 in (3851 mm)",
+               "Width": "66.7 in (1694 mm)",
+               "Height": "59.4 in (1509 mm)",
                "Front/rear Track": "58.7/58.9 in (1,491/1,496 mm)",
-               "Wheelbase": 95.7,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 7.5,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "95.7 in (2431 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "7.5 cuFT (212 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2348,
-               "Gross Weight Limit": 3263
+               "Unladen Weight": "2348 lbs (1065 kg)",
+               "Gross Weight Limit": "3263 lbs (1480 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 34.6,
-               "Highway": 48,
-               "Combined": 42,
-               "CO2 Emissions": 128
+               "City": "34.6 mpg US (6.8 L/100Km)",
+               "Highway": "48 mpg US (4.9 L/100Km)",
+               "Combined": "42 mpg US (5.6 L/100Km)",
+               "CO2 Emissions": "128 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Swift 5 Doors 2014-201705-03-07-24-17.jpg"
 },{
      "model_name": "SUZUKI Swift 5 Doors 2010-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 4AT (94 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1242,
+               "Displacement": "1242 cm3",
                "Power": "70 KW @ 6000 RPM\n95 HP @ 6000 RPM\n94 BHP @ 6000 RPM",
                "Torque": "87 lb-ft @ 4800 RPM\n118 Nm @ 4800 RPM",
                "Fuel System": "Turbocharged direct injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.1
+               "Fuel capacity": "11.1 gallons (42.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.5
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -199,43 +204,44 @@
                "Tire Size": "185/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 151.6,
-               "Width": 66.7,
-               "Height": 59.4,
+               "Length": "151.6 in (3851 mm)",
+               "Width": "66.7 in (1694 mm)",
+               "Height": "59.4 in (1509 mm)",
                "Front/rear Track": "58.7/58.9 in (1,491/1,496 mm)",
-               "Wheelbase": 95.7,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 7.5,
-               "Aerodynamics (Cd)": 0.35,
-               "Turning circle": 31.5
+               "Wheelbase": "95.7 in (2431 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "7.5 cuFT (212 L)",
+               "Aerodynamics (Cd)": "0.35",
+               "Turning circle": "31.5 ft (9.6 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2293,
-               "Gross Weight Limit": 3263
+               "Unladen Weight": "2293 lbs (1040 kg)",
+               "Gross Weight Limit": "3263 lbs (1480 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 35,
-               "Highway": 48,
-               "Combined": 42,
-               "CO2 Emissions": 129
+               "City": "35 mpg US (6.7 L/100Km)",
+               "Highway": "48 mpg US (4.9 L/100Km)",
+               "Combined": "42 mpg US (5.6 L/100Km)",
+               "CO2 Emissions": "129 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Swift 5 Doors 2010-201405-03-07-24-20.jpg"
 },{
      "model_name": "SUZUKI Swift 5 Doors 2005-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 5AT AWD (92 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1328,
+               "Displacement": "1328 cm3",
                "Power": "68 KW @ 5800 RPM\n92 HP @ 5800 RPM\n91 BHP @ 5800 RPM",
                "Torque": "86 lb-ft @ 4200 RPM\n117 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+               "Top Speed": "109 mph (175 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -249,39 +255,40 @@
                "Tire Size": "165/70R14"
           },
           "DIMENSIONS": {
-               "Length": 145.5,
-               "Width": 66.5,
-               "Height": 59.1,
+               "Length": "145.5 in (3696 mm)",
+               "Width": "66.5 in (1689 mm)",
+               "Height": "59.1 in (1501 mm)",
                "Front/rear Track": "57.9/58.3 in (1,471/1,481 mm)",
-               "Wheelbase": 93.7,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 7.5
+               "Wheelbase": "93.7 in (2380 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "7.5 cuFT (212 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2205,
-               "Gross Weight Limit": 3273.8
+               "Unladen Weight": "2205 lbs (1000 kg)",
+               "Gross Weight Limit": "3273.8 lbs (1485 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 29.4,
-               "Highway": 45.2
+               "City": "29.4 mpg US (8 L/100Km)",
+               "Highway": "45.2 mpg US (5.2 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Swift 5 Doors 2005-200905-03-07-24-23.jpg"
 },{
      "model_name": "SUZUKI Swift 5 Doors 1996-2002",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 3AT FWD (53 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1298,
+               "Displacement": "1298 cm3",
                "Power": "50 KW @ 6000 RPM\n68 HP @ 6000 RPM\n67 BHP @ 6000 RPM",
                "Torque": "73 lb-ft @ 3500 RPM\n99 Nm @ 3500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 87,
-               "Acceleration 0-62 Mph (0-100 kph)": 13
+               "Top Speed": "87 mph (140 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -295,41 +302,42 @@
                "Tire Size": "155/70SR13"
           },
           "DIMENSIONS": {
-               "Length": 151.2,
-               "Width": 62.2,
-               "Height": 54.3,
+               "Length": "151.2 in (3840 mm)",
+               "Width": "62.2 in (1580 mm)",
+               "Height": "54.3 in (1379 mm)",
                "Front/rear Track": "53.5/52.7 in (1,359/1,339 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 8.8,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "8.8 cuFT (249 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1730.6,
-               "Gross Weight Limit": 2822
+               "Unladen Weight": "1730.6 lbs (785 kg)",
+               "Gross Weight Limit": "2822 lbs (1280 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 27.4,
-               "Highway": 39.9,
-               "Combined": 34.1
+               "City": "27.4 mpg US (8.6 L/100Km)",
+               "Highway": "39.9 mpg US (5.9 L/100Km)",
+               "Combined": "34.1 mpg US (6.9 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Swift 5 Doors 1996-200205-03-07-24-25.jpg"
 },{
      "model_name": "SUZUKI Swift 5 Doors 1991-1996",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT (53 HP)": {
                "Cylinders": "L3",
-               "Displacement": 993,
+               "Displacement": "993 cm3",
                "Power": "39 KW @ 5700 RPM\n53 HP @ 5700 RPM\n52 BHP @ 5700 RPM",
                "Torque": "56 lb-ft @ 3300 RPM\n76 Nm @ 3300 RPM",
                "Fuel System": "Monopoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 90.09,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.9
+               "Top Speed": "90.09 mph (145 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -343,31 +351,32 @@
                "Tire Size": "155/70R13"
           },
           "DIMENSIONS": {
-               "Length": 151.2,
-               "Width": 62.2,
-               "Height": 54.3,
+               "Length": "151.2 in (3840 mm)",
+               "Width": "62.2 in (1580 mm)",
+               "Height": "54.3 in (1379 mm)",
                "Front/rear Track": "53.5/52.7 in (1,359/1,339 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 8.8,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "8.8 cuFT (249 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1631.4,
-               "Gross Weight Limit": 2689.6
+               "Unladen Weight": "1631.4 lbs (740 kg)",
+               "Gross Weight Limit": "2689.6 lbs (1220 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 33.1,
-               "Highway": 45.2,
-               "Combined": 44.4,
+               "City": "33.1 mpg US (7.1 L/100Km)",
+               "Highway": "45.2 mpg US (5.2 L/100Km)",
+               "Combined": "44.4 mpg US (5.3 L/100Km)",
                "CO2 Emissions": "-"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Swift 5 Doors 1991-199605-03-07-24-27.jpg"
 },{
      "model_name": "2023 Suzuki Jimny 5 doors",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L 4AT": {
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
@@ -379,27 +388,28 @@
                "Rear": "Ventilated discs"
           },
           "DIMENSIONS": {
-               "Length": 156.9,
-               "Width": 64.8,
-               "Height": 67.7,
-               "Wheelbase": 102
+               "Length": "156.9 in (3985 mm)",
+               "Width": "64.8 in (1646 mm)",
+               "Height": "67.7 in (1720 mm)",
+               "Wheelbase": "102 in (2591 mm)"
           },
           "": {}
-     }
+     },
+     "img": "images/2023 Suzuki Jimny 5 doors05-03-07-24-29.jpg"
 },{
      "model_name": "2018 Suzuki Jimny",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L ALLGRIP PRO 4AT AWD (101 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1462,
+               "Displacement": "1462 cm3",
                "Power": "74.3 KW @ 6000 RPM\n101 HP @ 6000 RPM\n100 BHP @ 6000 RPM",
                "Torque": "96 lb-ft @ 4000 RPM\n130 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 87
+               "Top Speed": "87 mph (140 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -413,47 +423,48 @@
                "Tire Size": "195/80R15"
           },
           "DIMENSIONS": {
-               "Length": 143.5,
-               "Width": 64.8,
-               "Height": 67.9,
+               "Length": "143.5 in (3645 mm)",
+               "Width": "64.8 in (1646 mm)",
+               "Height": "67.9 in (1725 mm)",
                "Front/rear Track": "54.9/55.3 in (1,394/1,405 mm)",
-               "Wheelbase": 88.6,
-               "Ground Clearance": 8.3,
-               "Cargo Volume": 3
+               "Wheelbase": "88.6 in (2250 mm)",
+               "Ground Clearance": "8.3 in (211 mm)",
+               "Cargo Volume": "3 cuFT (85 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2502,
-               "Gross Weight Limit": 3164
+               "Unladen Weight": "2502 lbs (1135 kg)",
+               "Gross Weight Limit": "3164 lbs (1435 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28,
-               "Highway": 34.1,
-               "Combined": 31.4,
-               "CO2 Emissions": 170
+               "City": "28 mpg US (8.4 L/100Km)",
+               "Highway": "34.1 mpg US (6.9 L/100Km)",
+               "Combined": "31.4 mpg US (7.5 L/100Km)",
+               "CO2 Emissions": "170 g/km"
           },
           "FUEL ECONOMY (WLTP)": {
                "Low": "24 mpg US (9.8 L/100Km)",
                "Medium": "30.9 mpg US (7.6 L/100Km)",
                "High": "30.5 mpg US (7.7 L/100Km)",
                "Extra high": "23.5 mpg US (10 L/100Km)",
-               "Combined": 26.7
+               "Combined": "26.7 mpg US (8.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/2018 Suzuki Jimny05-03-07-24-31.jpg"
 },{
      "model_name": "2012 Suzuki Jimny hard-top",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3 DOHC 4AT (85 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1328,
+               "Displacement": "1328 cm3",
                "Power": "62 KW @ 6000 RPM\n84 HP @ 6000 RPM\n83 BHP @ 6000 RPM",
                "Torque": "81 lb-ft @ 4100 RPM\n110 Nm @ 4100 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 84,
-               "Acceleration 0-62 Mph (0-100 kph)": 17.2
+               "Top Speed": "84 mph (135 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "17.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -467,41 +478,42 @@
                "Tire Size": "205/70R15"
           },
           "DIMENSIONS": {
-               "Length": 139.6,
-               "Width": 63,
-               "Height": 67.1,
+               "Length": "139.6 in (3546 mm)",
+               "Width": "63 in (1600 mm)",
+               "Height": "67.1 in (1704 mm)",
                "Front/rear Track": "53.3/53.7 in (1,354/1,364 mm)",
-               "Wheelbase": 88.6,
-               "Ground Clearance": 7.5,
-               "Cargo Volume": 4
+               "Wheelbase": "88.6 in (2250 mm)",
+               "Ground Clearance": "7.5 in (191 mm)",
+               "Cargo Volume": "4 cuFT (113 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2436,
-               "Gross Weight Limit": 3131
+               "Unladen Weight": "2436 lbs (1105 kg)",
+               "Gross Weight Limit": "3131 lbs (1420 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26.1,
-               "Highway": 37.3,
-               "Combined": 32.2,
-               "CO2 Emissions": 167
+               "City": "26.1 mpg US (9 L/100Km)",
+               "Highway": "37.3 mpg US (6.3 L/100Km)",
+               "Combined": "32.2 mpg US (7.3 L/100Km)",
+               "CO2 Emissions": "167 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2012 Suzuki Jimny hard-top05-03-07-24-33.jpg"
 },{
      "model_name": "SUZUKI Jimny 2005-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L VVT 4AT AWD (82 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1328,
+               "Displacement": "1328 cm3",
                "Power": "60 KW @ 5500 RPM\n82 HP @ 5500 RPM\n80 BHP @ 5500 RPM",
                "Torque": "81 lb-ft @ 4500 RPM\n110 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 84,
-               "Acceleration 0-62 Mph (0-100 kph)": 17.2
+               "Top Speed": "84 mph (135 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "17.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -515,40 +527,41 @@
                "Tire Size": "205/70/R15"
           },
           "DIMENSIONS": {
-               "Length": 144.3,
-               "Width": 63,
-               "Height": 65.7,
+               "Length": "144.3 in (3665 mm)",
+               "Width": "63 in (1600 mm)",
+               "Height": "65.7 in (1669 mm)",
                "Front/rear Track": "53.3/53.7 in (1,354/1,364 mm)",
-               "Wheelbase": 88.6,
-               "Ground Clearance": 7.5,
-               "Cargo Volume": 4,
-               "Turning circle": 32.2
+               "Wheelbase": "88.6 in (2250 mm)",
+               "Ground Clearance": "7.5 in (191 mm)",
+               "Cargo Volume": "4 cuFT (113 L)",
+               "Turning circle": "32.2 ft (9.8 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2370,
-               "Gross Weight Limit": 3131
+               "Unladen Weight": "2370 lbs (1075 kg)",
+               "Gross Weight Limit": "3131 lbs (1420 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25.8,
-               "Highway": 38.6,
-               "Combined": 32.7,
-               "CO2 Emissions": 181
+               "City": "25.8 mpg US (9.1 L/100Km)",
+               "Highway": "38.6 mpg US (6.1 L/100Km)",
+               "Combined": "32.7 mpg US (7.2 L/100Km)",
+               "CO2 Emissions": "181 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Jimny 2005-201205-03-07-24-36.jpg"
 },{
      "model_name": "SUZUKI Jimny Cabriolet 2005-2011",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L VVT 5MT AWD (68 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1328,
+               "Displacement": "1328 cm3",
                "Power": "63 KW @ 5500 RPM\n86 HP @ 5500 RPM\n84 BHP @ 5500 RPM",
                "Torque": "81 lb-ft @ 4500 RPM\n110 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 87
+               "Top Speed": "87 mph (140 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -562,39 +575,40 @@
                "Tire Size": "205/70R15"
           },
           "DIMENSIONS": {
-               "Length": 144.3,
-               "Width": 63,
-               "Height": 65.6,
+               "Length": "144.3 in (3665 mm)",
+               "Width": "63 in (1600 mm)",
+               "Height": "65.6 in (1666 mm)",
                "Front/rear Track": "53.3/53.7 in (1,354/1,364 mm)",
-               "Wheelbase": 88.6,
-               "Ground Clearance": 7.5,
-               "Cargo Volume": 4
+               "Wheelbase": "88.6 in (2250 mm)",
+               "Ground Clearance": "7.5 in (191 mm)",
+               "Cargo Volume": "4 cuFT (113 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2281.8,
-               "Gross Weight Limit": 3130.6
+               "Unladen Weight": "2281.8 lbs (1035 kg)",
+               "Gross Weight Limit": "3130.6 lbs (1420 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25.3,
-               "Highway": 37.9,
-               "Combined": 32.2,
-               "CO2 Emissions": 174
+               "City": "25.3 mpg US (9.3 L/100Km)",
+               "Highway": "37.9 mpg US (6.2 L/100Km)",
+               "Combined": "32.2 mpg US (7.3 L/100Km)",
+               "CO2 Emissions": "174 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Jimny Cabriolet 2005-201105-03-07-24-38.jpg"
 },{
      "model_name": "SUZUKI Ignis 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L CVT (91 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1242,
+               "Displacement": "1242 cm3",
                "Power": "66.9 KW @ 6000 RPM\n91 HP @ 6000 RPM\n90 BHP @ 6000 RPM",
                "Torque": "87 lb-ft @ 4400 RPM\n118 Nm @ 4400 RPM",
                "Electrical motor power": "2.2 kw (3 hp)",
                "Electrical motor torque": "36.9 lb-ft (50 Nm)",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Mild Hybrid",
-               "Fuel capacity": 8.5
+               "Fuel capacity": "8.5 gallons (32.2 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -608,16 +622,16 @@
                "Tire Size": "175/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 145.7,
-               "Width": 65.4,
-               "Height": 63.2,
-               "Wheelbase": 95.9,
-               "Ground Clearance": 7.1,
-               "Cargo Volume": 9.4,
+               "Length": "145.7 in (3701 mm)",
+               "Width": "65.4 in (1661 mm)",
+               "Height": "63.2 in (1605 mm)",
+               "Wheelbase": "95.9 in (2436 mm)",
+               "Ground Clearance": "7.1 in (180 mm)",
+               "Cargo Volume": "9.4 cuFT (266 L)",
                "Turning circle (curb to curb)": "30.8 ft (9.4 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1874
+               "Unladen Weight": "1874 - 1940 lbs (850 - 880 kg)"
           },
           "FUEL ECONOMY (WLTP)": {
                "Low": "37.3 mpg US (6.3 L/100Km)",
@@ -625,17 +639,18 @@
                "High": "51.1 mpg US (4.6 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Ignis 2019-Present05-03-07-24-41.jpg"
 },{
      "model_name": "SUZUKI Ignis 2016-2019",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT AWD (90 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1242,
+               "Displacement": "1242 cm3",
                "Power": "66.2 KW @ 6000 RPM\n90 HP @ 6000 RPM\n89 BHP @ 6000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 7.9
+               "Fuel capacity": "7.9 gallons (29.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -646,26 +661,27 @@
                "Rear": "Drums"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 47,
-               "CO2 Emissions": 114
+               "Combined": "47 mpg US (5 L/100Km)",
+               "CO2 Emissions": "114 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Ignis 2016-201905-03-07-24-43.jpg"
 },{
      "model_name": "SUZUKI Ignis 2003-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 5MT FWD (94 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1328,
+               "Displacement": "1328 cm3",
                "Power": "69 KW @ 6000 RPM\n94 HP @ 6000 RPM\n93 BHP @ 6000 RPM",
                "Torque": "87 lb-ft @ 4100 RPM\n118 Nm @ 4100 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.3
+               "Fuel capacity": "10.3 gallons (39.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -679,40 +695,41 @@
                "Tire Size": "165/70R14"
           },
           "DIMENSIONS": {
-               "Length": 148.4,
-               "Width": 64.2,
-               "Height": 61.6,
+               "Length": "148.4 in (3769 mm)",
+               "Width": "64.2 in (1631 mm)",
+               "Height": "61.6 in (1565 mm)",
                "Front/rear Track": "55.9/55.5 in (1,420/1,410 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 6.7,
-               "Cargo Volume": 8.3
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "6.7 in (170 mm)",
+               "Cargo Volume": "8.3 cuFT (235 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2050.3,
-               "Gross Weight Limit": 3240.8
+               "Unladen Weight": "2050.3 lbs (930 kg)",
+               "Gross Weight Limit": "3240.8 lbs (1470 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28.3,
-               "Highway": 42.7,
-               "Combined": 36.2,
-               "CO2 Emissions": 154
+               "City": "28.3 mpg US (8.3 L/100Km)",
+               "Highway": "42.7 mpg US (5.5 L/100Km)",
+               "Combined": "36.2 mpg US (6.5 L/100Km)",
+               "CO2 Emissions": "154 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Ignis 2003-200805-03-07-24-46.jpg"
 },{
      "model_name": "SUZUKI Ignis Sport 2003-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L 5MT (109 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1490,
+               "Displacement": "1490 cm3",
                "Power": "80 KW @ 6400 RPM\n109 HP @ 6400 RPM\n107 BHP @ 6400 RPM",
                "Torque": "103 lb-ft @ 4100 RPM\n140 Nm @ 4100 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 114.9,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+               "Top Speed": "114.9 mph (185 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -726,40 +743,41 @@
                "Tire Size": "185/55R15"
           },
           "DIMENSIONS": {
-               "Length": 142.5,
-               "Width": 64.9,
-               "Height": 59.8,
+               "Length": "142.5 in (3620 mm)",
+               "Width": "64.9 in (1648 mm)",
+               "Height": "59.8 in (1519 mm)",
                "Front/rear Track": "55.9/55.1 in (1,420/1,400 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 8.3
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "8.3 cuFT (235 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2006.2,
-               "Gross Weight Limit": 3152.6
+               "Unladen Weight": "2006.2 lbs (910 kg)",
+               "Gross Weight Limit": "3152.6 lbs (1430 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26.1,
-               "Highway": 40.5,
-               "Combined": 34.1,
-               "CO2 Emissions": 164
+               "City": "26.1 mpg US (9 L/100Km)",
+               "Highway": "40.5 mpg US (5.8 L/100Km)",
+               "Combined": "34.1 mpg US (6.9 L/100Km)",
+               "CO2 Emissions": "164 g/km"
           }
-     }
+     },
+     "img": "images/SUZUKI Ignis Sport 2003-200605-03-07-24-47.jpg"
 },{
      "model_name": "SUZUKI Ignis 3 Doors 2000-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 4AT FWD (83 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1328,
+               "Displacement": "1328 cm3",
                "Power": "61 KW @ 5500 RPM\n83 HP @ 5500 RPM\n82 BHP @ 5500 RPM",
                "Torque": "81 lb-ft @ 3500 RPM\n110 Nm @ 3500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99.4,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.4
+               "Top Speed": "99.4 mph (160 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -773,35 +791,36 @@
                "Tire Size": "165/70R14"
           },
           "DIMENSIONS": {
-               "Length": 142.5,
-               "Width": 63,
-               "Height": 60.6,
+               "Length": "142.5 in (3620 mm)",
+               "Width": "63 in (1600 mm)",
+               "Height": "60.6 in (1539 mm)",
                "Front/rear Track": "55.1/54.3 in (1,400/1,379 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 6.4
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "6.4 cuFT (181 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1884.9,
-               "Gross Weight Limit": 3152.6
+               "Unladen Weight": "1884.9 lbs (855 kg)",
+               "Gross Weight Limit": "3152.6 lbs (1430 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Ignis 3 Doors 2000-200305-03-07-24-50.jpg"
 },{
      "model_name": "SUZUKI Ignis 5 Doors 2000-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 4AT (83 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1328,
+               "Displacement": "1328 cm3",
                "Power": "61 KW @ 5500 RPM\n83 HP @ 5500 RPM\n82 BHP @ 5500 RPM",
                "Torque": "81 lb-ft @ 3500 RPM\n110 Nm @ 3500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99.4,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.4
+               "Top Speed": "99.4 mph (160 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -815,41 +834,42 @@
                "Tire Size": "165/70R14"
           },
           "DIMENSIONS": {
-               "Length": 142.5,
-               "Width": 63,
-               "Height": 60.6,
+               "Length": "142.5 in (3620 mm)",
+               "Width": "63 in (1600 mm)",
+               "Height": "60.6 in (1539 mm)",
                "Front/rear Track": "55.1/54.3 in (1,400/1,379 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 6.3
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "6.3 cuFT (178 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1962.1,
-               "Gross Weight Limit": 3152.6
+               "Unladen Weight": "1962.1 lbs (890 kg)",
+               "Gross Weight Limit": "3152.6 lbs (1430 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 24.8,
-               "Highway": 41.3,
-               "Combined": 31.8,
+               "City": "24.8 mpg US (9.5 L/100Km)",
+               "Highway": "41.3 mpg US (5.7 L/100Km)",
+               "Combined": "31.8 mpg US (7.4 L/100Km)",
                "CO2 Emissions": "-"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Ignis 5 Doors 2000-200305-03-07-24-52.jpg"
 },{
      "model_name": "SUZUKI Vitara 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L BOOSTERJET 5MT (112 HP)": {
                "Cylinders": "L4",
-               "Displacement": 998,
+               "Displacement": "998 cm3",
                "Power": "82.4 KW @ 5500 RPM\n112 HP @ 5500 RPM\n111 BHP @ 5500 RPM",
                "Torque": "125 lb-ft @ 2000-3500 RPM\n170 Nm @ 2000-3500 RPM",
                "Fuel System": "Turbocharge Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.4
+               "Fuel capacity": "12.4 gallons (46.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -863,41 +883,42 @@
                "Tire Size": "215/55 R17"
           },
           "DIMENSIONS": {
-               "Length": 164.4,
-               "Width": 69.9,
-               "Height": 63.4,
+               "Length": "164.4 in (4176 mm)",
+               "Width": "69.9 in (1775 mm)",
+               "Height": "63.4 in (1610 mm)",
                "Front/rear Track": "60.4/59.3 in (1,534/1,506 mm)",
-               "Wheelbase": 98.4,
-               "Ground Clearance": 7.3,
-               "Cargo Volume": 13.2
+               "Wheelbase": "98.4 in (2499 mm)",
+               "Ground Clearance": "7.3 in (185 mm)",
+               "Cargo Volume": "13.2 cuFT (374 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2392,
-               "Gross Weight Limit": 3814
+               "Unladen Weight": "2392 - 2557 lbs (1085 - 1160 kg)",
+               "Gross Weight Limit": "3814 lbs (1730 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 37.9,
-               "Highway": 49,
-               "Combined": 44.4,
-               "CO2 Emissions": 121
+               "City": "37.9 mpg US (6.2 L/100Km)",
+               "Highway": "49 mpg US (4.8 L/100Km)",
+               "Combined": "44.4 mpg US (5.3 L/100Km)",
+               "CO2 Emissions": "121 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Vitara 2018-Present05-03-07-24-56.jpg"
 },{
      "model_name": "SUZUKI Vitara 2014-2018",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 2WD 5MT (120 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1586,
+               "Displacement": "1586 cm3",
                "Power": "88 KW @ 6000 RPM\n120 HP @ 6000 RPM\n118 BHP @ 6000 RPM",
                "Torque": "115 lb-ft @ 4400 RPM\n156 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Fuel Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.4
+               "Fuel capacity": "12.4 gallons (46.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -911,41 +932,42 @@
                "Tire Size": "215/55R17"
           },
           "DIMENSIONS": {
-               "Length": 164.4,
-               "Width": 69.9,
-               "Height": 63.4,
+               "Length": "164.4 in (4176 mm)",
+               "Width": "69.9 in (1775 mm)",
+               "Height": "63.4 in (1610 mm)",
                "Front/rear Track": "60.4/59.3 in (1,534/1,506 mm)",
-               "Wheelbase": 98.4,
-               "Ground Clearance": 7.3,
-               "Cargo Volume": 13.2
+               "Wheelbase": "98.4 in (2499 mm)",
+               "Ground Clearance": "7.3 in (185 mm)",
+               "Cargo Volume": "13.2 cuFT (374 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2370,
-               "Gross Weight Limit": 3814
+               "Unladen Weight": "2370 lbs (1075 kg)",
+               "Gross Weight Limit": "3814 lbs (1730 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 37.3,
-               "Highway": 49,
-               "Combined": 44.4,
-               "CO2 Emissions": 123
+               "City": "37.3 mpg US (6.3 L/100Km)",
+               "Highway": "49 mpg US (4.8 L/100Km)",
+               "Combined": "44.4 mpg US (5.3 L/100Km)",
+               "CO2 Emissions": "123 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Vitara 2014-201805-03-07-24-59.jpg"
 },{
      "model_name": "SUZUKI SX4 S-Cross 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT (111 HP)": {
                "Cylinders": "L3",
-               "Displacement": 998,
+               "Displacement": "998 cm3",
                "Power": "81.7 KW @ 5500 RPM\n111 HP @ 5500 RPM\n110 BHP @ 5500 RPM",
                "Torque": "125 lb-ft @ 2000-3500 RPM\n170 Nm @ 2000-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.4
+               "Fuel capacity": "12.4 gallons (46.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 11
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -959,41 +981,42 @@
                "Tire Size": "215/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 169.3,
-               "Width": 70.3,
-               "Height": 62.2,
+               "Length": "169.3 in (4300 mm)",
+               "Width": "70.3 in (1786 mm)",
+               "Height": "62.2 in (1580 mm)",
                "Front/rear Track": "60.4/59.3 in (1,534/1,506 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 7.1,
-               "Cargo Volume": 15.5
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "7.1 in (180 mm)",
+               "Cargo Volume": "15.5 cuFT (439 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2568,
-               "Gross Weight Limit": 3814
+               "Unladen Weight": "2568 lbs (1165 kg)",
+               "Gross Weight Limit": "3814 lbs (1730 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 41.3,
-               "Highway": 51.1,
-               "Combined": 47,
-               "CO2 Emissions": 113
+               "City": "41.3 mpg US (5.7 L/100Km)",
+               "Highway": "51.1 mpg US (4.6 L/100Km)",
+               "Combined": "47 mpg US (5 L/100Km)",
+               "CO2 Emissions": "113 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI SX4 S-Cross 2016-Present05-03-07-25-02.jpg"
 },{
      "model_name": "SUZUKI SX4 2013-2016",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT AWD (120 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1586,
+               "Displacement": "1586 cm3",
                "Power": "88 KW @ 6000 RPM\n120 HP @ 6000 RPM\n118 BHP @ 6000 RPM",
                "Torque": "115 lb-ft @ 4400 RPM\n156 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 12.4
+               "Fuel capacity": "12.4 gallons (46.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109,
-               "Acceleration 0-62 Mph (0-100 kph)": 12
+               "Top Speed": "109 mph (175 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1007,42 +1030,43 @@
                "Tire Size": "205/60R16"
           },
           "DIMENSIONS": {
-               "Length": 169.3,
-               "Width": 69.5,
-               "Height": 62,
+               "Length": "169.3 in (4300 mm)",
+               "Width": "69.5 in (1765 mm)",
+               "Height": "62 in (1575 mm)",
                "Front/rear Track": "60.4/59.3 in (1,534/1,506 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 6.7,
-               "Cargo Volume": 15.2,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "6.7 in (170 mm)",
+               "Cargo Volume": "15.2 cuFT (430 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2745,
-               "Gross Weight Limit": 3814
+               "Unladen Weight": "2745 lbs (1245 kg)",
+               "Gross Weight Limit": "3814 lbs (1730 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 34.6,
-               "Highway": 47,
-               "Combined": 41.3,
-               "CO2 Emissions": 136
+               "City": "34.6 mpg US (6.8 L/100Km)",
+               "Highway": "47 mpg US (5 L/100Km)",
+               "Combined": "41.3 mpg US (5.7 L/100Km)",
+               "CO2 Emissions": "136 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI SX4 2013-201605-03-07-25-04.jpg"
 },{
      "model_name": "SUZUKI SX4 2006-2013",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L 5MT FWD (111 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1490,
+               "Displacement": "1490 cm3",
                "Power": "82 KW @ 6000 RPM\n111 HP @ 6000 RPM\n110 BHP @ 6000 RPM",
                "Torque": "107 lb-ft @ 4400 RPM\n145 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 11
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1056,41 +1080,42 @@
                "Tire Size": "195/65R15"
           },
           "DIMENSIONS": {
-               "Length": 161.4,
-               "Width": 68.1,
-               "Height": 61.6,
+               "Length": "161.4 in (4100 mm)",
+               "Width": "68.1 in (1730 mm)",
+               "Height": "61.6 in (1565 mm)",
                "Front/rear Track": "59/58.8 in (1,499/1,494 mm)",
-               "Wheelbase": 98.4,
-               "Ground Clearance": 7.5,
-               "Cargo Volume": 9.5,
-               "Turning circle": 34.8
+               "Wheelbase": "98.4 in (2499 mm)",
+               "Ground Clearance": "7.5 in (191 mm)",
+               "Cargo Volume": "9.5 cuFT (269 L)",
+               "Turning circle": "34.8 ft (10.6 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2513,
-               "Gross Weight Limit": 3549
+               "Unladen Weight": "2513 lbs (1140 kg)",
+               "Gross Weight Limit": "3549 lbs (1610 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.2,
-               "Highway": 46.1,
-               "Combined": 38.6,
-               "CO2 Emissions": 139
+               "City": "30.2 mpg US (7.8 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "38.6 mpg US (6.1 L/100Km)",
+               "CO2 Emissions": "139 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI SX4 2006-201305-03-07-25-09.jpg"
 },{
      "model_name": "SUZUKI Escudo / Vitara 3 Doors 2005-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT (106 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1586,
+               "Displacement": "1586 cm3",
                "Power": "78 KW @ 5900 RPM\n106 HP @ 5900 RPM\n105 BHP @ 5900 RPM",
                "Torque": "103 lb-ft @ 4100 RPM\n140 Nm @ 4100 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99.4,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.4
+               "Top Speed": "99.4 mph (160 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1104,42 +1129,43 @@
                "Tire Size": "225/70R16"
           },
           "DIMENSIONS": {
-               "Length": 157.7,
-               "Width": 71.3,
-               "Height": 66.7,
+               "Length": "157.7 in (4006 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "66.7 in (1694 mm)",
                "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
-               "Wheelbase": 96.1,
-               "Ground Clearance": 7.9,
-               "Cargo Volume": 6.4,
-               "Aerodynamics (Cd)": 0.45
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Ground Clearance": "7.9 in (201 mm)",
+               "Cargo Volume": "6.4 cuFT (181 L)",
+               "Aerodynamics (Cd)": "0.45"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2965.2,
-               "Gross Weight Limit": 3968.3
+               "Unladen Weight": "2965.2 lbs (1345 kg)",
+               "Gross Weight Limit": "3968.3 lbs (1800 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22.2,
-               "Highway": 30.9,
-               "Combined": 27,
-               "CO2 Emissions": 210
+               "City": "22.2 mpg US (10.6 L/100Km)",
+               "Highway": "30.9 mpg US (7.6 L/100Km)",
+               "Combined": "27 mpg US (8.7 L/100Km)",
+               "CO2 Emissions": "210 g/km"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "SUZUKI Vitara 3 Doors 1989-1998",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 16V 5MT AWD (97 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1590,
+               "Displacement": "1590 cm3",
                "Power": "71 KW @ 5600 RPM\n97 HP @ 5600 RPM\n95 BHP @ 5600 RPM",
                "Torque": "97 lb-ft @ 4000 RPM\n132 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.1
+               "Fuel capacity": "11.1 gallons (42.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 87,
-               "Acceleration 0-62 Mph (0-100 kph)": 13
+               "Top Speed": "87 mph (140 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1153,39 +1179,40 @@
                "Tire Size": "195R15"
           },
           "DIMENSIONS": {
-               "Length": 142.5,
-               "Width": 64.2,
-               "Height": 65.7,
+               "Length": "142.5 in (3620 mm)",
+               "Width": "64.2 in (1631 mm)",
+               "Height": "65.7 in (1669 mm)",
                "Front/rear Track": "55.1/55.1 in (1,400/1,400 mm)",
-               "Wheelbase": 86.6,
-               "Ground Clearance": 7.9,
-               "Cargo Volume": 7.1
+               "Wheelbase": "86.6 in (2200 mm)",
+               "Ground Clearance": "7.9 in (201 mm)",
+               "Cargo Volume": "7.1 cuFT (201 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2403,
-               "Gross Weight Limit": 3306.9
+               "Unladen Weight": "2403 lbs (1090 kg)",
+               "Gross Weight Limit": "3306.9 lbs (1500 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 24.7,
-               "CO2 Emissions": 226.1
+               "Combined": "24.7 mpg US (9.5 L/100Km)",
+               "CO2 Emissions": "226.1 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Vitara 3 Doors 1989-199805-03-07-25-13.jpg"
 },{
      "model_name": "SUZUKI Vitara Cabrio 1989-1998",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 16V 5MT AWD (97 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1590,
+               "Displacement": "1590 cm3",
                "Power": "71 KW @ 5600 RPM\n97 HP @ 5600 RPM\n95 BHP @ 5600 RPM",
                "Torque": "97 lb-ft @ 4000 RPM\n132 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93.2,
-               "Acceleration 0-62 Mph (0-100 kph)": 13
+               "Top Speed": "93.2 mph (150 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1199,40 +1226,41 @@
                "Tire Size": "195R15"
           },
           "DIMENSIONS": {
-               "Length": 142.5,
-               "Width": 64.2,
-               "Height": 65.7,
+               "Length": "142.5 in (3620 mm)",
+               "Width": "64.2 in (1631 mm)",
+               "Height": "65.7 in (1669 mm)",
                "Front/rear Track": "55.1/55.1 in (1,400/1,400 mm)",
-               "Wheelbase": 86.6,
-               "Cargo Volume": 7.1
+               "Wheelbase": "86.6 in (2200 mm)",
+               "Cargo Volume": "7.1 cuFT (201 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2381,
-               "Gross Weight Limit": 3306.9
+               "Unladen Weight": "2381 lbs (1080 kg)",
+               "Gross Weight Limit": "3306.9 lbs (1500 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 24.7,
-               "CO2 Emissions": 226.1
+               "Combined": "24.7 mpg US (9.5 L/100Km)",
+               "CO2 Emissions": "226.1 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Vitara Cabrio 1989-199805-03-07-25-15.jpg"
 },{
      "model_name": "SUZUKI Swace 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L CVT (102 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1798,
+               "Displacement": "1798 cm3",
                "Power": "75 KW @ 5200 RPM\n102 HP @ 5200 RPM\n101 BHP @ 5200 RPM",
                "Torque": "105 lb-ft @ 3600 RPM\n142 Nm @ 3600 RPM",
                "Electrical motor power": "53 kw (72 hp)",
                "Electrical motor torque": "120.2 lb-ft (163 Nm)",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Hybrid Gasoline",
-               "Fuel capacity": 11.4
+               "Fuel capacity": "11.4 gallons (43.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1246,43 +1274,44 @@
                "Tire Size": "205/55R16"
           },
           "DIMENSIONS": {
-               "Length": 183.3,
-               "Width": 70.5,
-               "Height": 57.5,
+               "Length": "183.3 in (4656 mm)",
+               "Width": "70.5 in (1791 mm)",
+               "Height": "57.5 in (1461 mm)",
                "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 21
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "21 cuFT (595 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3086,
-               "Gross Weight Limit": 4045
+               "Unladen Weight": "3086 - 3131 lbs (1400 - 1420 kg)",
+               "Gross Weight Limit": "4045 lbs (1835 kg)"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion",
-               "Nominal Capacity": 3.6
+               "Nominal Capacity": "3.6 kWh"
           },
           "FUEL ECONOMY (WLTP)": {
                "CO2 Emissions (Low)": "99 g/km",
                "CO2 Emissions (High)": "115 g/km"
           }
-     }
+     },
+     "img": "images/SUZUKI Swace 2020-Present05-03-07-25-17.jpg"
 },{
      "model_name": "SUZUKI Across 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L E-CVT AWD (185 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2487,
+               "Displacement": "2487 cm3",
                "Power": "136.1 KW @ - RPM\n185 HP @ - RPM\n183 BHP @ - RPM",
                "Torque": "167 lb-ft @ - RPM\n227 Nm @ - RPM",
                "Electrical motor power": "133.9 kw (182 hp)",
                "Electrical motor torque": "199.1 lb-ft (270 Nm)",
                "Fuel System": "Direct injection",
                "Fuel": "Hybrid Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112
+               "Top Speed": "112 mph (180 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1296,43 +1325,44 @@
                "Tire Size": "235/55 R19"
           },
           "DIMENSIONS": {
-               "Length": 182.5,
-               "Width": 73,
-               "Height": 66.5,
+               "Length": "182.5 in (4636 mm)",
+               "Width": "73 in (1854 mm)",
+               "Height": "66.5 in (1689 mm)",
                "Front/rear Track": "63/64.2 in (1,600/1,631 mm)",
-               "Wheelbase": 105.9,
-               "Ground Clearance": 7.5,
-               "Cargo Volume": 17.3,
+               "Wheelbase": "105.9 in (2690 mm)",
+               "Ground Clearance": "7.5 in (191 mm)",
+               "Cargo Volume": "17.3 cuFT (490 L)",
                "Turning circle (curb to curb)": "37.4 ft (11.4 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4277,
-               "Gross Weight Limit": 5534
+               "Unladen Weight": "4277 lbs (1940 kg)",
+               "Gross Weight Limit": "5534 lbs (2510 kg)"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion",
-               "Nominal Capacity": 18.1,
-               "Range": 46.6
+               "Nominal Capacity": "18.1 kWh",
+               "Range": "46.6 miles (75.0 km)"
           },
           "NOTES": {
                "Electric motor rear": "54 HP, 121 Nm"
           }
-     }
+     },
+     "img": "images/SUZUKI Across 2020-Present05-03-07-25-19.jpg"
 },{
      "model_name": "SUZUKI Grand Vitara 3 Doors 2008-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT AWD (106 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1586,
+               "Displacement": "1586 cm3",
                "Power": "78 KW @ 5900 RPM\n106 HP @ 5900 RPM\n105 BHP @ 5900 RPM",
                "Torque": "107 lb-ft @ 4100 RPM\n145 Nm @ 4100 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.4
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1346,32 +1376,33 @@
                "Tire Size": "225/70R16"
           },
           "DIMENSIONS": {
-               "Length": 152.2,
-               "Width": 71.3,
-               "Height": 66.7,
+               "Length": "152.2 in (3866 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "66.7 in (1694 mm)",
                "Front/rear Track": "60.6/61.8 in (1,539/1,570 mm)",
-               "Wheelbase": 96.1,
-               "Ground Clearance": 7.9,
-               "Cargo Volume": 6.5
+               "Wheelbase": "96.1 in (2441 mm)",
+               "Ground Clearance": "7.9 in (201 mm)",
+               "Cargo Volume": "6.5 cuFT (184 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3102,
-               "Gross Weight Limit": 4034
+               "Unladen Weight": "3102 lbs (1407 kg)",
+               "Gross Weight Limit": "4034 lbs (1830 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.1,
-               "Highway": 33.1,
-               "Combined": 28.7,
-               "CO2 Emissions": 195
+               "City": "23.1 mpg US (10.2 L/100Km)",
+               "Highway": "33.1 mpg US (7.1 L/100Km)",
+               "Combined": "28.7 mpg US (8.2 L/100Km)",
+               "CO2 Emissions": "195 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Grand Vitara 3 Doors 2008-Present05-03-07-25-22.jpg"
 },{
      "model_name": "SUZUKI APV 2004-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L 5MT (91 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1493,
+               "Displacement": "1493 cm3",
                "Power": "67 KW @ 6000 RPM\n91 HP @ 6000 RPM\n90 BHP @ 6000 RPM",
                "Torque": "90 lb-ft @ 3000 RPM\n122 Nm @ 3000 RPM",
                "Fuel System": "Mutlipoint Injection",
@@ -1389,42 +1420,43 @@
                "Tire Size": "185R14C"
           },
           "DIMENSIONS": {
-               "Length": 163.6,
-               "Width": 65.2,
-               "Height": 73.2,
+               "Length": "163.6 in (4155 mm)",
+               "Width": "65.2 in (1656 mm)",
+               "Height": "73.2 in (1859 mm)",
                "Front/rear Track": "56.5/56.5 in (1,435/1,435 mm)",
-               "Wheelbase": 103.3,
-               "Ground Clearance": 6.2,
-               "Aerodynamics (Cd)": 0.45
+               "Wheelbase": "103.3 in (2624 mm)",
+               "Ground Clearance": "6.2 in (157 mm)",
+               "Aerodynamics (Cd)": "0.45"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2513,
-               "Gross Weight Limit": 4299
+               "Unladen Weight": "2513 lbs (1140 kg)",
+               "Gross Weight Limit": "4299 lbs (1950 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 29.4,
-               "CO2 Emissions": 187
+               "Combined": "29.4 mpg US (8 L/100Km)",
+               "CO2 Emissions": "187 g/km"
           },
           "NOTES": {
                "Cargo capacity": "3,400 l (120 cu-ft) with all seats folded."
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI APV 2004-Present05-03-07-25-24.jpg"
 },{
      "model_name": "SUZUKI Baleno 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L BOOSTERJET 5MT (111 HP)": {
                "Cylinders": "L3",
-               "Displacement": 998,
+               "Displacement": "998 cm3",
                "Power": "81.7 KW @ 5500 RPM\n111 HP @ 5500 RPM\n110 BHP @ 5500 RPM",
                "Torque": "125 lb-ft @ 2000-3500 RPM\n170 Nm @ 2000-3500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 9.8
+               "Fuel capacity": "9.8 gallons (37.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.4
+               "Top Speed": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1438,33 +1470,34 @@
                "Tire Size": "185/55 R16 83V"
           },
           "DIMENSIONS": {
-               "Length": 157.3,
-               "Width": 68.7,
-               "Height": 57.9,
+               "Length": "157.3 in (3995 mm)",
+               "Width": "68.7 in (1745 mm)",
+               "Height": "57.9 in (1471 mm)",
                "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
-               "Wheelbase": 99.2,
-               "Ground Clearance": 4.3,
-               "Cargo Volume": 12.5,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "99.2 in (2520 mm)",
+               "Ground Clearance": "4.3 in (109 mm)",
+               "Cargo Volume": "12.5 cuFT (354 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2161,
-               "Gross Weight Limit": 3153
+               "Unladen Weight": "2161 lbs (980 kg)",
+               "Gross Weight Limit": "3153 lbs (1430 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 43.6,
-               "Highway": 58.8,
-               "Combined": 52.3,
-               "CO2 Emissions": 105
+               "City": "43.6 mpg US (5.4 L/100Km)",
+               "Highway": "58.8 mpg US (4 L/100Km)",
+               "Combined": "52.3 mpg US (4.5 L/100Km)",
+               "CO2 Emissions": "105 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Baleno 2016-Present05-03-07-25-27.jpg"
 },{
      "model_name": "2022 Suzuki S-Cross",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L BOOSTERJET 6AT AWD (129 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1373,
+               "Displacement": "1373 cm3",
                "Power": "95 KW @ 5500 RPM\n129 HP @ 5500 RPM\n127 BHP @ 5500 RPM",
                "Torque": "173 lb-ft @ 2000-3000 RPM\n235 Nm @ 2000-3000 RPM",
                "Electrical motor power": "10 kw (14 hp)",
@@ -1472,11 +1505,11 @@
                "Total maximum power": "94.9 kw (129 hp)",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Mild Hybrid",
-               "Fuel capacity": 12.4
+               "Fuel capacity": "12.4 gallons (46.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 121,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.2
+               "Top Speed": "121 mph (195 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1490,43 +1523,44 @@
                "Tire Size": "215/55 R17"
           },
           "DIMENSIONS": {
-               "Length": 169.3,
-               "Width": 70.3,
-               "Height": 62.4,
-               "Wheelbase": 102.4,
-               "Ground Clearance": 6.9,
-               "Cargo Volume": 15.2,
-               "Turning circle": 35.4
+               "Length": "169.3 in (4300 mm)",
+               "Width": "70.3 in (1786 mm)",
+               "Height": "62.4 in (1585 mm)",
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "6.9 in (175 mm)",
+               "Cargo Volume": "15.2 cuFT (430 L)",
+               "Turning circle": "35.4 ft (10.8 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2767,
-               "Gross Weight Limit": 3924
+               "Unladen Weight": "2767 lbs (1255 kg)",
+               "Gross Weight Limit": "3924 lbs (1780 kg)"
           },
           "FUEL ECONOMY (WLTP)": {
                "Low": "31.4 mpg US (7.5 L/100Km)",
                "Medium": "40.6 mpg US (5.8 L/100Km)",
                "High": "45.2 mpg US (5.2 L/100Km)",
                "Extra high": "35.6 mpg US (6.6 L/100Km)",
-               "Combined": 38.6,
+               "Combined": "38.6 mpg US (6.1 L/100Km)",
                "CO2 Emissions (Combined)": "139 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2022 Suzuki S-Cross05-03-07-25-30.jpg"
 },{
      "model_name": "2001 Suzuki Aerio/Liana Hatchback",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 5MT FWD (90 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1328,
+               "Displacement": "1328 cm3",
                "Power": "66 KW @ 5750 RPM\n90 HP @ 5750 RPM\n89 BHP @ 5750 RPM",
                "Torque": "86 lb-ft @ 4750 RPM\n117 Nm @ 4750 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 103,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.3
+               "Top Speed": "103 mph (166 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1540,42 +1574,43 @@
                "Tire Size": "195/55 R15"
           },
           "DIMENSIONS": {
-               "Length": 166.5,
-               "Width": 66.5,
-               "Height": 61,
+               "Length": "166.5 in (4229 mm)",
+               "Width": "66.5 in (1689 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "57.1/56.9 in (1,450/1,445 mm)",
-               "Wheelbase": 97.6,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 10.5,
-               "Aerodynamics (Cd)": 0.37
+               "Wheelbase": "97.6 in (2479 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "10.5 cuFT (297 L)",
+               "Aerodynamics (Cd)": "0.37"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2579,
-               "Gross Weight Limit": 3616
+               "Unladen Weight": "2579 lbs (1170 kg)",
+               "Gross Weight Limit": "3616 lbs (1640 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28,
-               "Highway": 42,
-               "Combined": 35.1,
-               "CO2 Emissions": 163
+               "City": "28 mpg US (8.4 L/100Km)",
+               "Highway": "42 mpg US (5.6 L/100Km)",
+               "Combined": "35.1 mpg US (6.7 L/100Km)",
+               "CO2 Emissions": "163 g/km"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "SUZUKI Aerio / Liana Sedan 2001-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 5MT FWD (90 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1328,
+               "Displacement": "1328 cm3",
                "Power": "66 KW @ 5750 RPM\n90 HP @ 5750 RPM\n89 BHP @ 5750 RPM",
                "Torque": "86 lb-ft @ 4750 RPM\n117 Nm @ 4750 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 13.2
+               "Fuel capacity": "13.2 gallons (50.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 103,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.3
+               "Top Speed": "103 mph (166 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1589,42 +1624,43 @@
                "Tire Size": "195/55R15"
           },
           "DIMENSIONS": {
-               "Length": 166.5,
-               "Width": 66.5,
-               "Height": 61,
+               "Length": "166.5 in (4229 mm)",
+               "Width": "66.5 in (1689 mm)",
+               "Height": "61 in (1549 mm)",
                "Front/rear Track": "57.1/56.9 in (1,450/1,445 mm)",
-               "Wheelbase": 97.6,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 15.8,
-               "Aerodynamics (Cd)": 0.36
+               "Wheelbase": "97.6 in (2479 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "15.8 cuFT (447 L)",
+               "Aerodynamics (Cd)": "0.36"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2579,
-               "Gross Weight Limit": 3616
+               "Unladen Weight": "2579 lbs (1170 kg)",
+               "Gross Weight Limit": "3616 lbs (1640 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 28,
-               "Highway": 42,
-               "Combined": 35.1,
-               "CO2 Emissions": 163
+               "City": "28 mpg US (8.4 L/100Km)",
+               "Highway": "42 mpg US (5.6 L/100Km)",
+               "Combined": "35.1 mpg US (6.7 L/100Km)",
+               "CO2 Emissions": "163 g/km"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "SUZUKI Alto 2009-2013",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 4AT (68 HP)": {
                "Cylinders": "L3",
-               "Displacement": 997,
+               "Displacement": "997 cm3",
                "Power": "50 KW @ 6000 RPM\n68 HP @ 6000 RPM\n67 BHP @ 6000 RPM",
                "Torque": "66 lb-ft @ 4800 RPM\n89 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 9.2
+               "Fuel capacity": "9.2 gallons (34.8 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93,
-               "Acceleration 0-62 Mph (0-100 kph)": 17
+               "Top Speed": "93 mph (150 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "17 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1638,41 +1674,42 @@
                "Tire Size": "165/65 R14"
           },
           "DIMENSIONS": {
-               "Length": 137.8,
-               "Width": 63,
-               "Height": 57.9,
+               "Length": "137.8 in (3500 mm)",
+               "Width": "63 in (1600 mm)",
+               "Height": "57.9 in (1471 mm)",
                "Front/rear Track": "55.3/55.1 in (1,405/1,400 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 4.6,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "4.6 cuFT (130 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1940,
-               "Gross Weight Limit": 2756
+               "Unladen Weight": "1940 lbs (880 kg)",
+               "Gross Weight Limit": "2756 lbs (1250 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 35.1,
-               "Highway": 52.3,
-               "Combined": 45.2,
-               "CO2 Emissions": 122
+               "City": "35.1 mpg US (6.7 L/100Km)",
+               "Highway": "52.3 mpg US (4.5 L/100Km)",
+               "Combined": "45.2 mpg US (5.2 L/100Km)",
+               "CO2 Emissions": "122 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Alto 2009-201305-03-07-25-38.jpg"
 },{
      "model_name": "SUZUKI Alto 2002-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.1L 5MT (63 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1061,
+               "Displacement": "1061 cm3",
                "Power": "46 KW @ 6000 RPM\n63 HP @ 6000 RPM\n62 BHP @ 6000 RPM",
                "Torque": "63 lb-ft @ 3200 RPM\n85 Nm @ 3200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 96,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.8
+               "Top Speed": "96 mph (154 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1686,37 +1723,38 @@
                "Tire Size": "155/65R13"
           },
           "DIMENSIONS": {
-               "Length": 137.6,
-               "Width": 58.1,
-               "Height": 57.3,
+               "Length": "137.6 in (3495 mm)",
+               "Width": "58.1 in (1476 mm)",
+               "Height": "57.3 in (1455 mm)",
                "Front/rear Track": "51/50.8 in (1,295/1,290 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 6.3,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "6.3 cuFT (178 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1775,
-               "Gross Weight Limit": 2568
+               "Unladen Weight": "1775 lbs (805 kg)",
+               "Gross Weight Limit": "2568 lbs (1165 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 36.2,
-               "Highway": 58.8,
-               "Combined": 48,
-               "CO2 Emissions": 119
+               "City": "36.2 mpg US (6.5 L/100Km)",
+               "Highway": "58.8 mpg US (4 L/100Km)",
+               "Combined": "48 mpg US (4.9 L/100Km)",
+               "CO2 Emissions": "119 g/km"
           }
-     }
+     },
+     "img": "images/SUZUKI Alto 2002-200605-03-07-25-40.jpg"
 },{
      "model_name": "SUZUKI Equator Extended Cab 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L 5AT RWD (152 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2500,
+               "Displacement": "2500 cm3",
                "Power": "113 KW @ 5200 RPM\n154 HP @ 5200 RPM\n152 BHP @ 5200 RPM",
                "Torque": "171 lb-ft @ 4400 RPM\n232 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21.1
+               "Fuel capacity": "21.1 gallons (79.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1730,35 +1768,36 @@
                "Tire Size": "P235/75 R15"
           },
           "DIMENSIONS": {
-               "Length": 206.6,
-               "Width": 72.8,
-               "Height": 68.7,
+               "Length": "206.6 in (5248 mm)",
+               "Width": "72.8 in (1849 mm)",
+               "Height": "68.7 in (1745 mm)",
                "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
-               "Wheelbase": 125.9,
-               "Ground Clearance": 7.6,
-               "Cargo Volume": 33.5
+               "Wheelbase": "125.9 in (3198 mm)",
+               "Ground Clearance": "7.6 in (193 mm)",
+               "Cargo Volume": "33.5 cuFT (949 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3686,
-               "Gross Weight Limit": 4690
+               "Unladen Weight": "3686 lbs (1672 kg)",
+               "Gross Weight Limit": "4690 lbs (2127 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 22
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Equator Extended Cab 2009-201205-03-07-25-42.jpg"
 },{
      "model_name": "SUZUKI Equator Crew Cab 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L 5AT RWD (152 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2500,
+               "Displacement": "2500 cm3",
                "Power": "112 KW @ 5200 RPM\n152 HP @ 5200 RPM\n150 BHP @ 5200 RPM",
                "Torque": "171 lb-ft @ 4400 RPM\n232 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21.1
+               "Fuel capacity": "21.1 gallons (79.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1772,29 +1811,30 @@
                "Tire Size": "P265/70 R16"
           },
           "DIMENSIONS": {
-               "Length": 206.6,
-               "Width": 72.8,
-               "Height": 70.1,
+               "Length": "206.6 in (5248 mm)",
+               "Width": "72.8 in (1849 mm)",
+               "Height": "70.1 in (1781 mm)",
                "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
-               "Wheelbase": 125.9,
-               "Ground Clearance": 7.6,
-               "Cargo Volume": 27.1
+               "Wheelbase": "125.9 / 139.9 in (3,198/3,553 mm)",
+               "Ground Clearance": "7.6 in (193 mm)",
+               "Cargo Volume": "27.1 / 33.5 cuFT (767 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3801
+               "Unladen Weight": "3801 lbs (1724 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 22
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Equator Crew Cab 2009-201205-03-07-25-44.jpg"
 },{
      "model_name": "2012 Suzuki Ertiga",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 4AT (95 HP)": {
                "Cylinders": "4",
-               "Displacement": 1373,
+               "Displacement": "1373 cm3",
                "Power": "70 KW @ 6000 RPM\n95 HP @ 6000 RPM\n94 BHP @ 6000 RPM",
                "Torque": "96 lb-ft @ 4000 RPM\n130 Nm @ 4000 RPM",
                "Fuel System": "Multipoint fuel Injection",
@@ -1809,34 +1849,35 @@
                "Rear": "Drums"
           },
           "DIMENSIONS": {
-               "Length": 167.9,
-               "Width": 66.3,
-               "Height": 66.7,
+               "Length": "167.9 in (4265 mm)",
+               "Width": "66.3 in (1684 mm)",
+               "Height": "66.7 in (1694 mm)",
                "Front/rear Track": "58.3/58.7 in (1,481/1,491 mm)",
-               "Wheelbase": 107.9,
-               "Ground Clearance": 7.3
+               "Wheelbase": "107.9 in (2741 mm)",
+               "Ground Clearance": "7.3 in (185 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2789,
-               "Gross Weight Limit": 3902
+               "Unladen Weight": "2789 lbs (1265 kg)",
+               "Gross Weight Limit": "3902 lbs (1770 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/2012 Suzuki Ertiga05-03-07-25-46.jpg"
 },{
      "model_name": "SUZUKI Grand Vitara 5 Doors 2008-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L AWD 4AT (169 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2393,
+               "Displacement": "2393 cm3",
                "Power": "124 KW @ 6000 RPM\n169 HP @ 6000 RPM\n166 BHP @ 6000 RPM",
                "Torque": "167 lb-ft @ 3800 RPM\n226 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.4
+               "Fuel capacity": "17.4 gallons (65.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109,
-               "Acceleration 0-62 Mph (0-100 kph)": 12
+               "Top Speed": "109 mph (175 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1850,43 +1891,44 @@
                "Tire Size": "225/65 R17"
           },
           "DIMENSIONS": {
-               "Length": 177.2,
-               "Width": 71.3,
-               "Height": 66.7,
+               "Length": "177.2 in (4501 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "66.7 in (1694 mm)",
                "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
-               "Wheelbase": 103.9,
-               "Ground Clearance": 7.9,
-               "Cargo Volume": 14.1,
-               "Aerodynamics (Cd)": 0.39,
-               "Turning circle": 33.5
+               "Wheelbase": "103.9 in (2639 mm)",
+               "Ground Clearance": "7.9 in (201 mm)",
+               "Cargo Volume": "14.1 cuFT (399 L)",
+               "Aerodynamics (Cd)": "0.39",
+               "Turning circle": "33.5 ft (10.2 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3492,
-               "Gross Weight Limit": 4630
+               "Unladen Weight": "3492 lbs (1584 kg)",
+               "Gross Weight Limit": "4630 lbs (2100 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18.8,
-               "Highway": 29,
-               "Combined": 24.2,
-               "CO2 Emissions": 225
+               "City": "18.8 mpg US (12.5 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)",
+               "Combined": "24.2 mpg US (9.7 L/100Km)",
+               "CO2 Emissions": "225 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Grand Vitara 5 Doors 2008-201405-03-07-25-50.jpg"
 },{
      "model_name": "SUZUKI Escudo / Grand Vitara 5 Doors 2005-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5MT (140 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1995,
+               "Displacement": "1995 cm3",
                "Power": "103 KW @ 6000 RPM\n140 HP @ 6000 RPM\n138 BHP @ 6000 RPM",
                "Torque": "135 lb-ft @ 4000 RPM\n183 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.4
+               "Fuel capacity": "17.4 gallons (65.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.7
+               "Top Speed": "109 mph (175 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1900,40 +1942,41 @@
                "Tire Size": "225/70R16"
           },
           "DIMENSIONS": {
-               "Length": 176,
-               "Width": 71.3,
-               "Height": 66.7,
+               "Length": "176 in (4470 mm)",
+               "Width": "71.3 in (1811 mm)",
+               "Height": "66.7 in (1694 mm)",
                "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
-               "Wheelbase": 103.9,
-               "Ground Clearance": 7.9,
-               "Cargo Volume": 14.1,
-               "Aerodynamics (Cd)": 0.45
+               "Wheelbase": "103.9 in (2639 mm)",
+               "Ground Clearance": "7.9 in (201 mm)",
+               "Cargo Volume": "14.1 cuFT (399 L)",
+               "Aerodynamics (Cd)": "0.45"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3262.8,
-               "Gross Weight Limit": 4563.6
+               "Unladen Weight": "3262.8 lbs (1480 kg)",
+               "Gross Weight Limit": "4563.6 lbs (2070 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20.3,
-               "Highway": 30.9,
-               "Combined": 25.8,
-               "CO2 Emissions": 220
+               "City": "20.3 mpg US (11.6 L/100Km)",
+               "Highway": "30.9 mpg US (7.6 L/100Km)",
+               "Combined": "25.8 mpg US (9.1 L/100Km)",
+               "CO2 Emissions": "220 g/km"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "SUZUKI Escudo / Grand Vitara 5 Doors 1998-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0I 16V 5MT AWD (140 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "103 KW @ 6500 RPM\n140 HP @ 6500 RPM\n138 BHP @ 6500 RPM",
                "Torque": "137 lb-ft @ 4000 RPM\n186 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93.2
+               "Top Speed": "93.2 mph (150 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1947,41 +1990,42 @@
                "Tire Size": "235/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 165.3,
-               "Width": 70.1,
-               "Height": 68.5,
+               "Length": "165.3 in (4199 mm)",
+               "Width": "70.1 in (1781 mm)",
+               "Height": "68.5 in (1740 mm)",
                "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
-               "Wheelbase": 97.6,
-               "Ground Clearance": 7.7,
-               "Cargo Volume": 9.8
+               "Wheelbase": "97.6 in (2479 mm)",
+               "Ground Clearance": "7.7 in (196 mm)",
+               "Cargo Volume": "9.8 cuFT (278 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3196.7,
-               "Gross Weight Limit": 4420.3
+               "Unladen Weight": "3196.7 lbs (1450 kg)",
+               "Gross Weight Limit": "4420.3 lbs (2005 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 29.4,
-               "Highway": 40.5,
-               "Combined": 35.6,
-               "CO2 Emissions": 190
+               "City": "29.4 mpg US (8 L/100Km)",
+               "Highway": "40.5 mpg US (5.8 L/100Km)",
+               "Combined": "35.6 mpg US (6.6 L/100Km)",
+               "CO2 Emissions": "190 g/km"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "SUZUKI Vitara (Vietnam) 1991-1994",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT AWD (97 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1590,
+               "Displacement": "1590 cm3",
                "Power": "71 KW @ 5600 RPM\n97 HP @ 5600 RPM\n95 BHP @ 5600 RPM",
                "Torque": "97 lb-ft @ 4000 RPM\n132 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93.2,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.8
+               "Top Speed": "93.2 mph (150 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1995,36 +2039,37 @@
                "Tire Size": "205/70 R15"
           },
           "DIMENSIONS": {
-               "Length": 158.6,
-               "Width": 64.4,
-               "Height": 67,
+               "Length": "158.6 in (4028 mm)",
+               "Width": "64.4 in (1636 mm)",
+               "Height": "67 in (1702 mm)",
                "Front/rear Track": "55/55.1 in (1,397/1,400 mm)",
-               "Wheelbase": 97.6,
-               "Ground Clearance": 7.2,
-               "Cargo Volume": 9.3,
-               "Aerodynamics (Cd)": 0.45
+               "Wheelbase": "97.6 in (2479 mm)",
+               "Ground Clearance": "7.2 in (183 mm)",
+               "Cargo Volume": "9.3 cuFT (263 L)",
+               "Aerodynamics (Cd)": "0.45"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2739,
-               "Gross Weight Limit": 3630
+               "Unladen Weight": "2739 lbs (1242 kg)",
+               "Gross Weight Limit": "3630 lbs (1647 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 24.5,
-               "CO2 Emissions": 228.5
+               "Combined": "24.5 mpg US (9.6 L/100Km)",
+               "CO2 Emissions": "228.5 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Vitara (Vietnam) 1991-199405-03-07-25-57.jpg"
 },{
      "model_name": "SUZUKI Forenza Sedan 2004-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 4AT FWD (127 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "95 KW @ 5600 RPM\n129 HP @ 5600 RPM\n127 BHP @ 5600 RPM",
                "Torque": "131 lb-ft @ 4000 RPM\n178 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2038,30 +2083,31 @@
                "Tire Size": "195/55 R15"
           },
           "DIMENSIONS": {
-               "Length": 177.2,
-               "Width": 67.9,
-               "Height": 56.9,
+               "Length": "177.2 in (4501 mm)",
+               "Width": "67.9 in (1725 mm)",
+               "Height": "56.9 in (1445 mm)",
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": 102.4,
-               "Cargo Volume": 12.3
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Cargo Volume": "12.3 cuFT (348 L)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22,
-               "Highway": 31
+               "City": "22 mpg US (10.7 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Forenza Sedan 2004-200805-03-07-25-59.jpg"
 },{
      "model_name": "SUZUKI Forenza Wagon 2004-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 4AT FWD (127 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1995,
+               "Displacement": "1995 cm3",
                "Power": "95 KW @ 5600 RPM\n129 HP @ 5600 RPM\n127 BHP @ 5600 RPM",
                "Torque": "131 lb-ft @ 4000 RPM\n178 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2075,35 +2121,36 @@
                "Tire Size": "195/55 R15"
           },
           "DIMENSIONS": {
-               "Length": 179.7,
-               "Width": 67.9,
-               "Height": 59.1,
+               "Length": "179.7 in (4564 mm)",
+               "Width": "67.9 in (1725 mm)",
+               "Height": "59.1 in (1501 mm)",
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": 102.4,
-               "Cargo Volume": 19.5
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Cargo Volume": "19.5 cuFT (552 L)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22,
-               "Highway": 31,
-               "CO2 Emissions": 176.1
+               "City": "22 mpg US (10.7 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)",
+               "CO2 Emissions": "176.1 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Forenza Wagon 2004-200805-03-07-26-01.jpg"
 },{
      "model_name": "2010 Suzuki Kizashi",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 6MT FWD (178 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2393,
+               "Displacement": "2393 cm3",
                "Power": "131 KW @ 6500 RPM\n178 HP @ 6500 RPM\n176 BHP @ 6500 RPM",
                "Torque": "170 lb-ft @ 4000 RPM\n230 Nm @ 4000 RPM",
                "Fuel System": "Multiport Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.6
+               "Fuel capacity": "16.6 gallons (62.8 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 134,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.8
+               "Top Speed": "134 mph (216 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2117,36 +2164,37 @@
                "Tire Size": "P215/55 R17"
           },
           "DIMENSIONS": {
-               "Length": 183.1,
-               "Width": 71.7,
-               "Height": 58.3,
+               "Length": "183.1 in (4651 mm)",
+               "Width": "71.7 in (1821 mm)",
+               "Height": "58.3 in (1481 mm)",
                "Front/rear Track": "61.6/61.6 in (1,565/1,565 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 16.3,
-               "Turning circle": 36.1
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "16.3 cuFT (462 L)",
+               "Turning circle": "36.1 ft (11.0 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3296,
-               "Gross Weight Limit": 4409
+               "Unladen Weight": "3296 lbs (1495 kg)",
+               "Gross Weight Limit": "4409 lbs (2000 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 29.8,
-               "CO2 Emissions": 186
+               "Combined": "29.8 mpg US (7.9 L/100Km)",
+               "CO2 Emissions": "186 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2010 Suzuki Kizashi05-03-07-26-04.jpg"
 },{
      "model_name": "2004 Suzuki Reno",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 4AT (127 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1995,
+               "Displacement": "1995 cm3",
                "Power": "95 KW @ 5600 RPM\n129 HP @ 5600 RPM\n127 BHP @ 5600 RPM",
                "Torque": "131 lb-ft @ 4000 RPM\n178 Nm @ 4000 RPM",
                "Fuel System": "Mutlipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2160,34 +2208,35 @@
                "Tire Size": "195/55 R15"
           },
           "DIMENSIONS": {
-               "Length": 169.1,
-               "Width": 67.9,
-               "Height": 56.9,
+               "Length": "169.1 in (4295 mm)",
+               "Width": "67.9 in (1725 mm)",
+               "Height": "56.9 in (1445 mm)",
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": 102.4,
-               "Cargo Volume": 8.8
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Cargo Volume": "8.8 cuFT (249 L)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22,
-               "Highway": 31
+               "City": "22 mpg US (10.7 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/2004 Suzuki Reno05-03-07-26-06.jpg"
 },{
      "model_name": "SUZUKI Splash 2011-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L VVT 5MT (68 HP)": {
                "Cylinders": "L3",
-               "Displacement": 996,
+               "Displacement": "996 cm3",
                "Power": "50 KW @ 6000 RPM\n68 HP @ 6000 RPM\n67 BHP @ 6000 RPM",
                "Torque": "66 lb-ft @ 3400 RPM\n90 Nm @ 3400 RPM",
                "Fuel System": "Monopoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.7
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2201,41 +2250,42 @@
                "Tire Size": "185/60 R15"
           },
           "DIMENSIONS": {
-               "Length": 148.6,
-               "Width": 66.1,
-               "Height": 62.6,
+               "Length": "148.6 in (3774 mm)",
+               "Width": "66.1 in (1679 mm)",
+               "Height": "62.6 in (1590 mm)",
                "Front/rear Track": "57.5/57.9 in (1,461/1,471 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 6.3
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "6.3 cuFT (178 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2271,
-               "Gross Weight Limit": 3274
+               "Unladen Weight": "2271 lbs (1030 kg)",
+               "Gross Weight Limit": "3274 lbs (1485 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 42,
-               "Highway": 35.1,
-               "Combined": 50,
-               "CO2 Emissions": 109
+               "City": "42 mpg US (5.6 L/100Km)",
+               "Highway": "35.1 mpg US (6.7 L/100Km)",
+               "Combined": "50 mpg US (4.7 L/100Km)",
+               "CO2 Emissions": "109 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Splash 2011-201405-03-07-26-08.jpg"
 },{
      "model_name": "2008 Suzuki Splash",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT FWD (65 HP)": {
                "Cylinders": "L3",
-               "Displacement": 997,
+               "Displacement": "997 cm3",
                "Power": "48 KW @ 6000 RPM\n65 HP @ 6000 RPM\n64 BHP @ 6000 RPM",
                "Torque": "66 lb-ft @ 4800 RPM\n89 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.7
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2249,42 +2299,43 @@
                "Tire Size": "165/70 R 14"
           },
           "DIMENSIONS": {
-               "Length": 146.3,
-               "Width": 66.1,
-               "Height": 62.6,
+               "Length": "146.3 in (3716 mm)",
+               "Width": "66.1 in (1679 mm)",
+               "Height": "62.6 in (1590 mm)",
                "Front/rear Track": "57.9/58.3 in (1,471/1,481 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 6.2,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "6.2 cuFT (176 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2150,
-               "Gross Weight Limit": 3274.4
+               "Unladen Weight": "2150 lbs (975 kg)",
+               "Gross Weight Limit": "3274.4 lbs (1485 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 37.3,
-               "Highway": 51.1,
-               "Combined": 45.2,
-               "CO2 Emissions": 126
+               "City": "37.3 mpg US (6.3 L/100Km)",
+               "Highway": "51.1 mpg US (4.6 L/100Km)",
+               "Combined": "45.2 mpg US (5.2 L/100Km)",
+               "CO2 Emissions": "126 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2008 Suzuki Splash05-03-07-26-11.jpg"
 },{
      "model_name": "SUZUKI Swift 3 Doors 2014-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT (90 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1242,
+               "Displacement": "1242 cm3",
                "Power": "66.2 KW @ 6000 RPM\n90 HP @ 6000 RPM\n89 BHP @ 6000 RPM",
                "Torque": "89 lb-ft @ 4400 RPM\n120 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.1
+               "Fuel capacity": "11.1 gallons (42.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 103,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.3
+               "Top Speed": "103 mph (166 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2298,41 +2349,42 @@
                "Tire Size": "175/65R15"
           },
           "DIMENSIONS": {
-               "Length": 151.6,
-               "Width": 66.7,
-               "Height": 59.1,
+               "Length": "151.6 in (3851 mm)",
+               "Width": "66.7 in (1694 mm)",
+               "Height": "59.1 in (1501 mm)",
                "Front/rear Track": "58.7/58.9 in (1,491/1,496 mm)",
-               "Wheelbase": 95.7,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 7.5,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "95.7 in (2431 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "7.5 cuFT (212 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2050,
-               "Gross Weight Limit": 3263
+               "Unladen Weight": "2050 lbs (930 kg)",
+               "Gross Weight Limit": "3263 lbs (1480 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 48,
-               "Highway": 60.3,
-               "Combined": 54.7,
-               "CO2 Emissions": 99
+               "City": "48 mpg US (4.9 L/100Km)",
+               "Highway": "60.3 mpg US (3.9 L/100Km)",
+               "Combined": "54.7 mpg US (4.3 L/100Km)",
+               "CO2 Emissions": "99 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Swift 3 Doors 2014-201705-03-07-26-14.jpg"
 },{
      "model_name": "SUZUKI Swift 3 Doors 2010-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.2L 5MT FWD (94 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1242,
+               "Displacement": "1242 cm3",
                "Power": "69.1 KW @ 6000 RPM\n94 HP @ 6000 RPM\n93 BHP @ 6000 RPM",
                "Torque": "87 lb-ft @ 4800 RPM\n118 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 103,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.3
+               "Top Speed": "103 mph (166 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2346,42 +2398,43 @@
                "Tire Size": "175/65R15"
           },
           "DIMENSIONS": {
-               "Length": 151.6,
-               "Width": 66.7,
-               "Height": 59.4,
+               "Length": "151.6 in (3851 mm)",
+               "Width": "66.7 in (1694 mm)",
+               "Height": "59.4 in (1509 mm)",
                "Front/rear Track": "58.7/58.9 in (1,491/1,496 mm)",
-               "Wheelbase": 95.7,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 7.5,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "95.7 in (2431 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "7.5 cuFT (212 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2216,
-               "Gross Weight Limit": 3263
+               "Unladen Weight": "2216 lbs (1005 kg)",
+               "Gross Weight Limit": "3263 lbs (1480 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 39,
-               "Highway": 53,
-               "Combined": 47,
-               "CO2 Emissions": 116
+               "City": "39 mpg US (6 L/100Km)",
+               "Highway": "53 mpg US (4.4 L/100Km)",
+               "Combined": "47 mpg US (5 L/100Km)",
+               "CO2 Emissions": "116 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Swift 3 Doors 2010-201405-03-07-26-16.jpg"
 },{
      "model_name": "SUZUKI Swift 3 Doors 2005-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 5MT FWD (92 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1328,
+               "Displacement": "1328 cm3",
                "Power": "68 KW @ 5800 RPM\n92 HP @ 5800 RPM\n91 BHP @ 5800 RPM",
                "Torque": "86 lb-ft @ 4200 RPM\n117 Nm @ 4200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109,
-               "Acceleration 0-62 Mph (0-100 kph)": 11
+               "Top Speed": "109 mph (175 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2395,40 +2448,41 @@
                "Tire Size": "165/70R14"
           },
           "DIMENSIONS": {
-               "Length": 145.5,
-               "Width": 66.5,
-               "Height": 59.1,
+               "Length": "145.5 in (3696 mm)",
+               "Width": "66.5 in (1689 mm)",
+               "Height": "59.1 in (1501 mm)",
                "Front/rear Track": "57.9/58.3 in (1,471/1,481 mm)",
-               "Wheelbase": 93.7,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 7.5
+               "Wheelbase": "93.7 in (2380 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "7.5 cuFT (212 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2083.4,
-               "Gross Weight Limit": 3273.8
+               "Unladen Weight": "2083.4 lbs (945 kg)",
+               "Gross Weight Limit": "3273.8 lbs (1485 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 29.4,
-               "Highway": 47,
-               "Combined": 38.5,
-               "CO2 Emissions": 143
+               "City": "29.4 mpg US (8 L/100Km)",
+               "Highway": "47 mpg US (5 L/100Km)",
+               "Combined": "38.5 mpg US (6.1 L/100Km)",
+               "CO2 Emissions": "143 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Swift 3 Doors 2005-200905-03-07-26-18.jpg"
 },{
      "model_name": "SUZUKI Swift 3 Doors 1996-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT (53 HP)": {
                "Cylinders": "L3",
-               "Displacement": 993,
+               "Displacement": "993 cm3",
                "Power": "39 KW @ 5700 RPM\n53 HP @ 5700 RPM\n52 BHP @ 5700 RPM",
                "Torque": "56 lb-ft @ 3300 RPM\n76 Nm @ 3300 RPM",
                "Fuel System": "Monopoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 90.1,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.9
+               "Top Speed": "90.1 mph (145 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2442,42 +2496,43 @@
                "Tire Size": "155/70SR13"
           },
           "DIMENSIONS": {
-               "Length": 147.2,
-               "Width": 62.2,
-               "Height": 53.1,
+               "Length": "147.2 in (3739 mm)",
+               "Width": "62.2 in (1580 mm)",
+               "Height": "53.1 in (1349 mm)",
                "Front/rear Track": "53.5/52.7 in (1,359/1,339 mm)",
-               "Wheelbase": 89,
-               "Ground Clearance": 6.2,
-               "Cargo Volume": 8.8,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "89 in (2261 mm)",
+               "Ground Clearance": "6.2 in (157 mm)",
+               "Cargo Volume": "8.8 cuFT (249 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1587.3,
-               "Gross Weight Limit": 2755.8
+               "Unladen Weight": "1587.3 lbs (720 kg)",
+               "Gross Weight Limit": "2755.8 lbs (1250 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 34.1,
-               "Highway": 50,
-               "Combined": 42.8,
-               "CO2 Emissions": 131
+               "City": "34.1 mpg US (6.9 L/100Km)",
+               "Highway": "50 mpg US (4.7 L/100Km)",
+               "Combined": "42.8 mpg US (5.5 L/100Km)",
+               "CO2 Emissions": "131 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Swift 3 Doors 1996-200305-03-07-26-20.jpg"
 },{
      "model_name": "1991 Suzuki Swift 3 doors",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT FWD (53 HP)": {
                "Cylinders": "L3",
-               "Displacement": 993,
+               "Displacement": "993 cm3",
                "Power": "39 KW @ 5700 RPM\n53 HP @ 5700 RPM\n52 BHP @ 5700 RPM",
                "Torque": "56 lb-ft @ 3300 RPM\n76 Nm @ 3300 RPM",
                "Fuel System": "Monopoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 90.1,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.9
+               "Top Speed": "90.1 mph (145 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2491,41 +2546,42 @@
                "Tire Size": "155/70SR13"
           },
           "DIMENSIONS": {
-               "Length": 186.6,
-               "Width": 62.2,
-               "Height": 53.1,
+               "Length": "186.6 in (4740 mm)",
+               "Width": "62.2 in (1580 mm)",
+               "Height": "53.1 in (1349 mm)",
                "Front/rear Track": "53.5/52.7 in (1,359/1,339 mm)",
-               "Wheelbase": 89,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 8.8
+               "Wheelbase": "89 in (2261 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "8.8 cuFT (249 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1609.4,
-               "Gross Weight Limit": 2623.5
+               "Unladen Weight": "1609.4 lbs (730 kg)",
+               "Gross Weight Limit": "2623.5 lbs (1190 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 34.1,
-               "Highway": 50,
-               "Combined": 44.4,
-               "CO2 Emissions": 126.1
+               "City": "34.1 mpg US (6.9 L/100Km)",
+               "Highway": "50 mpg US (4.7 L/100Km)",
+               "Combined": "44.4 mpg US (5.3 L/100Km)",
+               "CO2 Emissions": "126.1 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/1991 Suzuki Swift 3 doors05-03-07-26-22.jpg"
 },{
      "model_name": "SUZUKI Swift Cabrio 1992-1995",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 5MT (68 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1298,
+               "Displacement": "1298 cm3",
                "Power": "50 KW @ 6000 RPM\n68 HP @ 6000 RPM\n67 BHP @ 6000 RPM",
                "Torque": "73 lb-ft @ 3500 RPM\n99 Nm @ 3500 RPM",
                "Fuel System": "Monopoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 102.5,
-               "Acceleration 0-62 Mph (0-100 kph)": 13
+               "Top Speed": "102.5 mph (165 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2539,37 +2595,38 @@
                "Tire Size": "165/65R13"
           },
           "DIMENSIONS": {
-               "Length": 147.2,
-               "Width": 62.6,
-               "Height": 52.7,
+               "Length": "147.2 in (3739 mm)",
+               "Width": "62.6 in (1590 mm)",
+               "Height": "52.7 in (1339 mm)",
                "Front/rear Track": "53.5/52.7 in (1,359/1,339 mm)",
-               "Wheelbase": 89,
-               "Ground Clearance": 5.5
+               "Wheelbase": "89 in (2261 mm)",
+               "Ground Clearance": "5.5 in (140 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1763.7,
-               "Gross Weight Limit": 2381
+               "Unladen Weight": "1763.7 lbs (800 kg)",
+               "Gross Weight Limit": "2381 lbs (1080 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 40.5,
-               "CO2 Emissions": 138
+               "Combined": "40.5 mpg US (5.8 L/100Km)",
+               "CO2 Emissions": "138 g/km"
           }
-     }
+     },
+     "img": "images/SUZUKI Swift Cabrio 1992-199505-03-07-26-24.jpg"
 },{
      "model_name": "SUZUKI Swift Sedan 1991-1996",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 5MT (68 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1298,
+               "Displacement": "1298 cm3",
                "Power": "50 KW @ 6000 RPM\n68 HP @ 6000 RPM\n67 BHP @ 6000 RPM",
                "Torque": "73 lb-ft @ 3500 RPM\n99 Nm @ 3500 RPM",
                "Fuel System": "Monopoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 165,
-               "Acceleration 0-62 Mph (0-100 kph)": 13
+               "Top Speed": "165 mph (266 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2583,40 +2640,41 @@
                "Tire Size": "155/70R13"
           },
           "DIMENSIONS": {
-               "Length": 161.4,
-               "Width": 62.2,
-               "Height": 54.3,
+               "Length": "161.4 in (4100 mm)",
+               "Width": "62.2 in (1580 mm)",
+               "Height": "54.3 in (1379 mm)",
                "Front/rear Track": "53.5/52.7 in (1,359/1,339 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 15.9,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "15.9 cuFT (450 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1763.7,
-               "Gross Weight Limit": 2711.7
+               "Unladen Weight": "1763.7 lbs (800 kg)",
+               "Gross Weight Limit": "2711.7 lbs (1230 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 40.5,
-               "CO2 Emissions": 138
+               "Combined": "40.5 mpg US (5.8 L/100Km)",
+               "CO2 Emissions": "138 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Swift Sedan 1991-199605-03-07-26-26.jpg"
 },{
      "model_name": "SUZUKI SX4 Sedan 2006-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 4AT (120 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1586,
+               "Displacement": "1586 cm3",
                "Power": "88 KW @ 6000 RPM\n120 HP @ 6000 RPM\n118 BHP @ 6000 RPM",
                "Torque": "115 lb-ft @ 4400 RPM\n156 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.3
+               "Top Speed": "109 mph (175 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2630,41 +2688,42 @@
                "Tire Size": "195/65R15"
           },
           "DIMENSIONS": {
-               "Length": 177.6,
-               "Width": 68.1,
-               "Height": 60.8,
+               "Length": "177.6 in (4511 mm)",
+               "Width": "68.1 in (1730 mm)",
+               "Height": "60.8 in (1544 mm)",
                "Front/rear Track": "59.1/58.9 in (1,501/1,496 mm)",
-               "Wheelbase": 98.4,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 18.2,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "98.4 in (2499 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "18.2 cuFT (515 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2590,
-               "Gross Weight Limit": 3638
+               "Unladen Weight": "2590 lbs (1175 kg)",
+               "Gross Weight Limit": "3638 lbs (1650 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 26.7,
-               "Highway": 43.6,
-               "Combined": 35.6,
-               "CO2 Emissions": 153
+               "City": "26.7 mpg US (8.8 L/100Km)",
+               "Highway": "43.6 mpg US (5.4 L/100Km)",
+               "Combined": "35.6 mpg US (6.6 L/100Km)",
+               "CO2 Emissions": "153 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI SX4 Sedan 2006-201405-03-07-26-29.jpg"
 },{
      "model_name": "SUZUKI Verona 2004-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 4AT FWD (116 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "85.3 KW @ 5800 RPM\n116 HP @ 5800 RPM\n114 BHP @ 5800 RPM",
                "Torque": "177 lb-ft @ 4000 RPM\n240 Nm @ 4000 RPM",
                "Fuel System": "Mutlipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118
+               "Top Speed": "118 mph (190 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2678,39 +2737,40 @@
                "Tire Size": "205/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 187.8,
-               "Width": 71.5,
-               "Height": 57.1,
+               "Length": "187.8 in (4770 mm)",
+               "Width": "71.5 in (1816 mm)",
+               "Height": "57.1 in (1450 mm)",
                "Front/rear Track": "61/60.4 in (1,549/1,534 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 13.4
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "13.4 cuFT (379 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3380,
-               "Gross Weight Limit": 4321.8
+               "Unladen Weight": "3380 lbs (1533 kg)",
+               "Gross Weight Limit": "4321.8 lbs (1960 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18.1,
-               "Highway": 33.6
+               "City": "18.1 mpg US (13 L/100Km)",
+               "Highway": "33.6 mpg US (7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Verona 2004-200605-03-07-26-31.jpg"
 },{
      "model_name": "SUZUKI Wagon R 2003-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT FWD (60 HP)": {
                "Cylinders": "L3",
-               "Displacement": 998,
+               "Displacement": "998 cm3",
                "Power": "44 KW @ 5600 RPM\n60 HP @ 5600 RPM\n59 BHP @ 5600 RPM",
                "Torque": "65 lb-ft @ 3800 RPM\n88 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 7.9
+               "Fuel capacity": "7.9 gallons (29.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 90.1,
-               "Acceleration 0-62 Mph (0-100 kph)": 17.7
+               "Top Speed": "90.1 mph (145 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "17.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2724,39 +2784,40 @@
                "Tire Size": "155/65R14"
           },
           "DIMENSIONS": {
-               "Length": 139.4,
-               "Width": 63.8,
-               "Height": 66.7,
+               "Length": "139.4 in (3541 mm)",
+               "Width": "63.8 in (1621 mm)",
+               "Height": "66.7 in (1694 mm)",
                "Front/rear Track": "55.9/54.5 in (1,420/1,384 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 6.1,
-               "Cargo Volume": 10.6
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "6.1 in (155 mm)",
+               "Cargo Volume": "10.6 cuFT (300 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2072.3,
-               "Gross Weight Limit": 3163.6
+               "Unladen Weight": "2072.3 lbs (940 kg)",
+               "Gross Weight Limit": "3163.6 lbs (1435 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 33.6,
-               "Highway": 46.1,
-               "Combined": 40.5,
-               "CO2 Emissions": 139
+               "City": "33.6 mpg US (7 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "40.5 mpg US (5.8 L/100Km)",
+               "CO2 Emissions": "139 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Wagon R 2003-200705-03-07-26-34.jpg"
 },{
      "model_name": "SUZUKI Wagon R 2000-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT (53 HP)": {
                "Cylinders": "L3",
-               "Displacement": 993,
+               "Displacement": "993 cm3",
                "Power": "39 KW @ 5500 RPM\n53 HP @ 5500 RPM\n52 BHP @ 5500 RPM",
                "Torque": "56 lb-ft @ 3500 RPM\n76 Nm @ 3500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 82.02
+               "Top Speed": "82.02 mph (132 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2770,40 +2831,41 @@
                "Tire Size": "155/65R14"
           },
           "DIMENSIONS": {
-               "Length": 137.8,
-               "Width": 63,
-               "Height": 66.9,
+               "Length": "137.8 in (3500 mm)",
+               "Width": "63 in (1600 mm)",
+               "Height": "66.9 in (1699 mm)",
                "Front/rear Track": "55.9/54.3 in (1,420/1,379 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 10.6
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "10.6 cuFT (300 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1984.2,
-               "Gross Weight Limit": 2910.1
+               "Unladen Weight": "1984.2 lbs (900 kg)",
+               "Gross Weight Limit": "2910.1 lbs (1320 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.5,
-               "Highway": 46.1,
-               "Combined": 38.5,
-               "CO2 Emissions": 143
+               "City": "30.5 mpg US (7.7 L/100Km)",
+               "Highway": "46.1 mpg US (5.1 L/100Km)",
+               "Combined": "38.5 mpg US (6.1 L/100Km)",
+               "CO2 Emissions": "143 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Wagon R 2000-200305-03-07-26-36.jpg"
 },{
      "model_name": "SUZUKI Wagon R 1997-2000",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 5MT (65 HP)": {
                "Cylinders": "L4",
-               "Displacement": 996,
+               "Displacement": "996 cm3",
                "Power": "48 KW @ 4500 RPM\n65 HP @ 4500 RPM\n64 BHP @ 4500 RPM",
                "Torque": "60 lb-ft @ 3500 RPM\n81 Nm @ 3500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 87,
-               "Acceleration 0-62 Mph (0-100 kph)": 16.7
+               "Top Speed": "87 mph (140 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "16.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2817,40 +2879,41 @@
                "Tire Size": "165/65SR13"
           },
           "DIMENSIONS": {
-               "Length": 133.8,
-               "Width": 62.2,
-               "Height": 66.9,
+               "Length": "133.8 in (3399 mm)",
+               "Width": "62.2 in (1580 mm)",
+               "Height": "66.9 in (1699 mm)",
                "Front/rear Track": "53.5/53.5 in (1,359/1,359 mm)",
-               "Wheelbase": 92.1,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 8.3
+               "Wheelbase": "92.1 in (2339 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "8.3 cuFT (235 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1807.8,
-               "Gross Weight Limit": 2932.1
+               "Unladen Weight": "1807.8 lbs (820 kg)",
+               "Gross Weight Limit": "2932.1 lbs (1330 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 30.9,
-               "Highway": 47,
-               "Combined": 39.2,
-               "CO2 Emissions": 143
+               "City": "30.9 mpg US (7.6 L/100Km)",
+               "Highway": "47 mpg US (5 L/100Km)",
+               "Combined": "39.2 mpg US (6 L/100Km)",
+               "CO2 Emissions": "143 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Wagon R 1997-200005-03-07-26-38.jpg"
 },{
      "model_name": "SUZUKI X-90 1996-1997",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 4AT AWD (97 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1590,
+               "Displacement": "1590 cm3",
                "Power": "71 KW @ 5600 RPM\n97 HP @ 5600 RPM\n95 BHP @ 5600 RPM",
                "Torque": "97 lb-ft @ 4000 RPM\n132 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 87,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.3
+               "Top Speed": "87 mph (140 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2864,38 +2927,39 @@
                "Tire Size": "195/65SR15"
           },
           "DIMENSIONS": {
-               "Length": 146.1,
-               "Width": 66.9,
-               "Height": 61.4,
+               "Length": "146.1 in (3711 mm)",
+               "Width": "66.9 in (1699 mm)",
+               "Height": "61.4 in (1560 mm)",
                "Front/rear Track": "55.9/56.3 in (1,420/1,430 mm)",
-               "Wheelbase": 86.6,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 8.4
+               "Wheelbase": "86.6 in (2200 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "8.4 cuFT (238 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2425,
-               "Gross Weight Limit": 2998.3
+               "Unladen Weight": "2425 lbs (1100 kg)",
+               "Gross Weight Limit": "2998.3 lbs (1360 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22,
-               "Highway": 34.1
+               "City": "22 mpg US (10.7 L/100Km)",
+               "Highway": "34.1 mpg US (6.9 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI X-90 1996-199705-03-07-26-40.jpg"
 },{
      "model_name": "SUZUKI XL7 2007-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6 V6 AWD 5AT (252 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3564,
+               "Displacement": "3564 cm3",
                "Power": "185 KW @ 6500 RPM\n252 HP @ 6500 RPM\n248 BHP @ 6500 RPM",
                "Torque": "243 lb-ft @ 2300 RPM\n329 Nm @ 2300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.5
+               "Top Speed": "118 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2909,38 +2973,39 @@
                "Tire Size": "235/65 R16"
           },
           "DIMENSIONS": {
-               "Length": 197.2,
-               "Width": 72.2,
-               "Height": 68.9,
+               "Length": "197.2 in (5009 mm)",
+               "Width": "72.2 in (1834 mm)",
+               "Height": "68.9 in (1750 mm)",
                "Front/rear Track": "61.6 / 61.8 in (1,565/1,570 mm)",
-               "Wheelbase": 112.4,
-               "Ground Clearance": 7.9,
-               "Cargo Volume": 14,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "112.4 in (2855 mm)",
+               "Ground Clearance": "7.9 in (201 mm)",
+               "Cargo Volume": "14 cuFT (396 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4049,
-               "Gross Weight Limit": 5176
+               "Unladen Weight": "4049 lbs (1837 kg)",
+               "Gross Weight Limit": "5176 lbs (2348 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 23,
-               "Combined": 20,
-               "CO2 Emissions": 279.9
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "23 mpg US (10.2 L/100Km)",
+               "Combined": "20 mpg US (11.8 L/100Km)",
+               "CO2 Emissions": "279.9 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SUZUKI XL7 2007-200905-03-07-26-42.jpg"
 },{
      "model_name": "SUZUKI Grand Vitara XL7 2004-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.7L V6 AWD 5AT (185 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2736,
+               "Displacement": "2736 cm3",
                "Power": "136 KW @ 6500 RPM\n185 HP @ 6500 RPM\n182 BHP @ 6500 RPM",
                "Torque": "184 lb-ft @ 4000 RPM\n249 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.4
+               "Fuel capacity": "17.4 gallons (65.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2954,23 +3019,24 @@
                "Tire Size": "235/60R16"
           },
           "DIMENSIONS": {
-               "Length": 187.4,
-               "Width": 70.1,
-               "Height": 68.5,
+               "Length": "187.4 in (4760 mm)",
+               "Width": "70.1 in (1781 mm)",
+               "Height": "68.5 in (1740 mm)",
                "Front/rear Track": "59.1/59.1 in (1,501/1,501 mm)",
-               "Wheelbase": 110.2,
-               "Ground Clearance": 7.2,
-               "Cargo Volume": 9.8
+               "Wheelbase": "110.2 in (2799 mm)",
+               "Ground Clearance": "7.2 in (183 mm)",
+               "Cargo Volume": "9.8 cuFT (278 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3759
+               "Unladen Weight": "3759 lbs (1705 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 22
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)"
           },
           "NOTES": {},
           "": {}
-     }
+     },
+     "img": "images/SUZUKI Grand Vitara XL7 2004-200605-03-07-26-45.jpg"
 },	
  ] } 

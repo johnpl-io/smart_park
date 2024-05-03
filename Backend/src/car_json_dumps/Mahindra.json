@@ -2,9 +2,9 @@
 {
      "model_name": "Mahindra Thar 2010-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5D 2WD (63 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2523,
+               "Displacement": "2523 cm3",
                "Power": "47 KW @ 3400 RPM\n63.9 HP @ 3400 RPM\n63 BHP @ 3400 RPM",
                "Torque": "135 lb-ft @ 1500-1800 RPM\n182 Nm @ 1500-1800 RPM",
                "Fuel System": "Turbocharged Direct Injection",
@@ -22,25 +22,26 @@
                "Tire Size": "235/70 R16"
           },
           "DIMENSIONS": {
-               "Length": 148,
-               "Width": 64.6,
-               "Height": 75,
+               "Length": "148 in (3759 mm)",
+               "Width": "64.6 in (1641 mm)",
+               "Height": "75 in (1905 mm)",
                "Front/rear Track": "51.7/51 in (1,313/1,295 mm)",
-               "Wheelbase": 95.7,
-               "Ground Clearance": 7.4,
-               "Cargo Volume": 13.6
+               "Wheelbase": "95.7 in (2431 mm)",
+               "Ground Clearance": "7.4 in (188 mm)",
+               "Cargo Volume": "13.6 cuFT (385 L)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 42.8
+               "Combined": "42.8 mpg US (5.5 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/Mahindra Thar 2010-Present05-03-05-40-10.jpg"
 },{
      "model_name": "Mahindra Bolero 2011-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L D (63 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2523,
+               "Displacement": "2523 cm3",
                "Power": "46 KW @ 3200 RPM\n63 HP @ 3200 RPM\n62 BHP @ 3200 RPM",
                "Torque": "144 lb-ft @ 1400-2200 RPM\n195 Nm @ 1400-2200 RPM",
                "Fuel System": "Common Rail Direct Injection",
@@ -58,24 +59,25 @@
                "Tire Size": "215 / 75 R 15"
           },
           "DIMENSIONS": {
-               "Length": 161.7,
-               "Width": 68.7,
-               "Height": 74,
-               "Wheelbase": 105.5,
-               "Ground Clearance": 7.1
+               "Length": "161.7 in (4107 mm)",
+               "Width": "68.7 in (1745 mm)",
+               "Height": "74 in (1880 mm)",
+               "Wheelbase": "105.5 in (2680 mm)",
+               "Ground Clearance": "7.1 in (180 mm)"
           }
-     }
+     },
+     "img": "images/Mahindra Bolero 2011-Present05-03-05-40-11.jpg"
 },{
      "model_name": "Mahindra Scorpio / Goa 2002-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2D 5MT 4WD (118 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2179,
+               "Displacement": "2179 cm3",
                "Power": "87 KW @ 4000 RPM\n118 HP @ 4000 RPM\n117 BHP @ 4000 RPM",
                "Torque": "214 lb-ft @ 1800-2800 RPM\n290 Nm @ 1800-2800 RPM",
                "Fuel System": "Common Rail",
                "Fuel": "Gasoline",
-               "Fuel capacity": 14.5
+               "Fuel capacity": "14.5 gallons (54.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -89,22 +91,23 @@
                "Tire Size": "P235 / 70 R16"
           },
           "DIMENSIONS": {
-               "Length": 174.4,
-               "Width": 71.5,
-               "Height": 77.8,
-               "Wheelbase": 105.5
+               "Length": "174.4 in (4430 mm)",
+               "Width": "71.5 in (1816 mm)",
+               "Height": "77.8 in (1976 mm)",
+               "Wheelbase": "105.5 in (2680 mm)"
           },
           "WEIGHT SPECS": {
-               "Gross Weight Limit": 5754
+               "Gross Weight Limit": "5754 lbs (2610 kg)"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "Mahindra Verito 2012-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L MFPI (75 HP)": {
                "Cylinders": "4",
-               "Displacement": 1390,
+               "Displacement": "1390 cm3",
                "Power": "55 KW @ 5500 RPM\n75 HP @ 5500 RPM\n74 BHP @ 5500 RPM",
                "Torque": "81 lb-ft @ 3000 RPM\n110 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -122,18 +125,19 @@
                "Tire Size": "185/70 R14"
           },
           "DIMENSIONS": {
-               "Length": 168.4,
-               "Width": 68.5,
-               "Height": 60.6,
-               "Wheelbase": 103.5,
-               "Ground Clearance": 6.8,
-               "Cargo Volume": 18
+               "Length": "168.4 in (4277 mm)",
+               "Width": "68.5 in (1740 mm)",
+               "Height": "60.6 in (1539 mm)",
+               "Wheelbase": "103.5 in (2629 mm)",
+               "Ground Clearance": "6.8 in (173 mm)",
+               "Cargo Volume": "18 cuFT (510 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2381,
-               "Gross Weight Limit": 3527
+               "Unladen Weight": "2381 lbs (1080 kg)",
+               "Gross Weight Limit": "3527 lbs (1600 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/Mahindra Verito 2012-Present05-03-05-40-16.jpg"
 },	
  ] } 

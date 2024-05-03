@@ -2,18 +2,18 @@
 {
      "model_name": "2023 Ineos Grenadier",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.0I TURBO 8AT AWD (286 HP)": {
                "Cylinders": "L6",
-               "Displacement": 2998,
+               "Displacement": "2998 cm3",
                "Power": "210.4 KW @ 4750 RPM\n286 HP @ 4750 RPM\n282 BHP @ 4750 RPM",
                "Torque": "332 lb-ft @ 1750-4000 RPM\n450 Nm @ 1750-4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 23.8
+               "Fuel capacity": "23.8 gallons (90.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.6
+               "Top Speed": "99 mph (159 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -24,19 +24,20 @@
                "Rear": "Disc"
           },
           "DIMENSIONS": {
-               "Length": 192.8,
-               "Width": 76,
-               "Height": 80.2,
+               "Length": "192.8 in (4897 mm)",
+               "Width": "76 in (1930 mm)",
+               "Height": "80.2 in (2037 mm)",
                "Front/rear Track": "64.8/64.8 in (1,646/1,646 mm)",
-               "Wheelbase": 115,
-               "Ground Clearance": 10.4,
-               "Turning circle": 44.3
+               "Wheelbase": "115 in (2921 mm)",
+               "Ground Clearance": "10.4 in (264 mm)",
+               "Turning circle": "44.3 ft (13.5 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 5875,
-               "Gross Weight Limit": 7716
+               "Unladen Weight": "5875 - 6032 lbs (2665 - 2736 kg)",
+               "Gross Weight Limit": "7716 lbs (3500 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/2023 Ineos Grenadier05-03-05-14-11.jpg"
 },	
  ] } 

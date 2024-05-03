@@ -2,7 +2,7 @@
 {
      "model_name": "2026 Zenvo Aurora Agil",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.6L V12 7AT RWD (1471 HP)": {
                "Cylinders": "V12",
                "Power": "919.4 KW @ 9800 RPM\n1250 HP @ 9800 RPM\n1233 BHP @ 9800 RPM",
                "Electrical motor power": "147.1 kw (200 hp)",
@@ -12,8 +12,8 @@
                "Fuel": "Hybrid Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 227,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.5
+               "Top Speed": "227 mph (365 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -27,19 +27,20 @@
                "Tire Size": "265/35 R20 // 325/30 R21"
           },
           "DIMENSIONS": {
-               "Length": 190.4,
-               "Width": 79.5,
-               "Height": 43.2,
-               "Wheelbase": 110.2
+               "Length": "190.4 in (4836 mm)",
+               "Width": "79.5 in (2019 mm)",
+               "Height": "43.2 in (1097 mm)",
+               "Wheelbase": "110.2 in (2799 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2866
+               "Unladen Weight": "2866 lbs (1300 kg)"
           }
-     }
+     },
+     "img": "images/2026 Zenvo Aurora Agil05-03-07-59-46.jpg"
 },{
      "model_name": "2026 Zenvo Aurora Tur",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.6L V12 7AT AWD (1876 HP)": {
                "Cylinders": "V12",
                "Power": "919.4 KW @ 9800 RPM\n1250 HP @ 9800 RPM\n1233 BHP @ 9800 RPM",
                "Electrical motor power": "147.1 kw (200 hp)",
@@ -49,8 +50,8 @@
                "Fuel": "Mild Hybrid"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 280,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.3
+               "Top Speed": "280 mph (451 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -64,28 +65,29 @@
                "Tire Size": "265/35 R20 // 325/30 R21"
           },
           "DIMENSIONS": {
-               "Length": 189.7,
-               "Width": 79.5,
-               "Height": 44,
-               "Wheelbase": 110.2
+               "Length": "189.7 in (4818 mm)",
+               "Width": "79.5 in (2019 mm)",
+               "Height": "44 in (1118 mm)",
+               "Wheelbase": "110.2 in (2799 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3197
+               "Unladen Weight": "3197 lbs (1450 kg)"
           }
-     }
+     },
+     "img": "images/2026 Zenvo Aurora Tur05-03-07-59-47.jpg"
 },{
      "model_name": "Zenvo TS1 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.8 V8 7AT (1118 HP)": {
                "Cylinders": "V8",
-               "Displacement": 5800,
+               "Displacement": "5800 cm3",
                "Power": "822.3 KW @ 7100 RPM\n1118 HP @ 7100 RPM\n1103 BHP @ 7100 RPM",
                "Torque": "840 lb-ft @ - RPM\n1139 Nm @ - RPM",
                "Fuel System": "Supercharged Multipoint Injection"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 233,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+               "Top Speed": "233 mph (375 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -99,32 +101,33 @@
                "Tire Size": "265/35 ZR19 || 345/30 ZR20"
           },
           "DIMENSIONS": {
-               "Length": 184.3,
-               "Width": 84.8,
-               "Height": 47.2,
-               "Wheelbase": 114.3,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 4.8
+               "Length": "184.3 in (4681 mm)",
+               "Width": "84.8 in (2154 mm)",
+               "Height": "47.2 in (1199 mm)",
+               "Wheelbase": "114.3 in (2903 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "4.8 cuFT (136 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3483
+               "Unladen Weight": "3483 lbs (1580 kg)"
           },
           "NOTES": {}
-     }
+     },
+     "img": "images/Zenvo TS1 2017-Present05-03-07-59-49.jpg"
 },{
      "model_name": "Zenvo TSR-S 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.8L V8 7AT (1177 HP)": {
                "Cylinders": "V8",
-               "Displacement": 5800,
+               "Displacement": "5800 cm3",
                "Power": "877.7 KW @ 7100 RPM\n1193.3 HP @ 7100 RPM\n1177 BHP @ 7100 RPM",
                "Torque": "840 lb-ft @ - RPM\n1139 Nm @ - RPM",
                "Fuel System": "Sequential Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -138,30 +141,31 @@
                "Tire Size": "245/35-20/325/30-21"
           },
           "DIMENSIONS": {
-               "Length": 189.6,
-               "Width": 80.2,
-               "Height": 47.2,
-               "Wheelbase": 114.4,
-               "Ground Clearance": 3.7
+               "Length": "189.6 in (4816 mm)",
+               "Width": "80.2 in (2037 mm)",
+               "Height": "47.2 in (1199 mm)",
+               "Wheelbase": "114.4 in (2906 mm)",
+               "Ground Clearance": "3.7 in (94 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3296
+               "Unladen Weight": "3296 lbs (1495 kg)"
           }
-     }
+     },
+     "img": "images/Zenvo TSR-S 2018-Present05-03-07-59-51.jpg"
 },{
      "model_name": "Zenvo ST1 2009-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.8 V8 7AT (1104 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6800,
+               "Displacement": "6800 cm3",
                "Power": "812 KW @ 6900 RPM\n1104 HP @ 6900 RPM\n1089 BHP @ 6900 RPM",
                "Torque": "1055 lb-ft @ 4500 RPM\n1430 Nm @ 4500 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 233,
-               "Acceleration 0-62 Mph (0-100 kph)": 3
+               "Top Speed": "233 mph (375 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -175,20 +179,21 @@
                "Tire Size": "275/35 R19 || 345/30 R20"
           },
           "DIMENSIONS": {
-               "Length": 183.7,
-               "Width": 80.4,
-               "Height": 47.2,
-               "Wheelbase": 120.3,
-               "Cargo Volume": 4.6
+               "Length": "183.7 in (4666 mm)",
+               "Width": "80.4 in (2042 mm)",
+               "Height": "47.2 in (1199 mm)",
+               "Wheelbase": "120.3 in (3056 mm)",
+               "Cargo Volume": "4.6 cuFT (130 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3721
+               "Unladen Weight": "3721 lbs (1688 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.7,
-               "Highway": 16.8,
-               "Combined": 23.5
+               "City": "15.7 mpg US (15 L/100Km)",
+               "Highway": "16.8 mpg US (14 L/100Km)",
+               "Combined": "23.5 mpg US (10 L/100Km)"
           }
-     }
+     },
+     "img": "images/Zenvo ST1 2009-201705-03-07-59-53.jpg"
 },	
  ] } 

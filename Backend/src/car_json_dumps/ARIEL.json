@@ -2,17 +2,17 @@
 {
      "model_name": "ARIEL Atom 500 V8 2011-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.0L V8 6MT (500 HP)": {
                "Cylinders": "V8",
-               "Displacement": 3000,
+               "Displacement": "3000 cm3",
                "Power": "373 KW @ 10600 RPM\n507 HP @ 10600 RPM\n500 BHP @ 10600 RPM",
                "Torque": "296 lb-ft @ 6100 RPM\n401 Nm @ 6100 RPM",
                "Fuel System": "sequential port fuel injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 200,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.5
+               "Top Speed": "200 mph (322 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -26,35 +26,36 @@
                "Tire Size": "205/50R15 || 245/45R16"
           },
           "DIMENSIONS": {
-               "Length": 145.5,
-               "Width": 72.8,
-               "Height": 47,
+               "Length": "145.5 in (3696 mm)",
+               "Width": "72.8 in (1849 mm)",
+               "Height": "47 in (1194 mm)",
                "Front/rear Track": "63/63 in (1,600/1,600 mm)",
-               "Wheelbase": 92.3,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "92.3 in (2344 mm)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1213
+               "Unladen Weight": "1213 lbs (550 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 33
+               "Combined": "33 mpg US (7.1 L/100Km)"
           }
-     }
+     },
+     "img": "images/ARIEL Atom 500 V8 2011-Present05-03-03-19-57.jpg"
 },{
      "model_name": "ARIEL Atom 3 2008-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L I-VTEC 6MT (245 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "180 KW @ 8200 RPM\n245 HP @ 8200 RPM\n241 BHP @ 8200 RPM",
                "Torque": "154 lb-ft @ 6100 RPM\n209 Nm @ 6100 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.9
+               "Fuel capacity": "15.9 gallons (60.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 140,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.7
+               "Top Speed": "140 mph (225 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -68,38 +69,39 @@
                "Tire Size": "190/50 R15"
           },
           "DIMENSIONS": {
-               "Length": 134,
-               "Width": 70.8,
-               "Height": 47,
+               "Length": "134 in (3404 mm)",
+               "Width": "70.8 in (1798 mm)",
+               "Height": "47 in (1194 mm)",
                "Front/rear Track": "63/63 in (1,600/1,600 mm)",
-               "Wheelbase": 92.3,
-               "Ground Clearance": 4,
-               "Cargo Volume": 0.5,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "92.3 in (2344 mm)",
+               "Ground Clearance": "4 in (102 mm)",
+               "Cargo Volume": "0.5 cuFT (14 L)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1019,
-               "Gross Weight Limit": 1565
+               "Unladen Weight": "1019 lbs (462 kg)",
+               "Gross Weight Limit": "1565 lbs (710 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 30
+               "Combined": "30 mpg US (7.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ARIEL Atom 3 2008-Present05-03-03-19-59.jpg"
 },{
      "model_name": "ARIEL Atom 2 2003-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0 I-VTEC 6MT (220 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "164 KW @ 8200 RPM\n223 HP @ 8200 RPM\n220 BHP @ 8200 RPM",
                "Torque": "145 lb-ft @ 6100 RPM\n197 Nm @ 6100 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 140,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+               "Top Speed": "140 mph (225 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -113,36 +115,37 @@
                "Tire Size": "185/60 R 14"
           },
           "DIMENSIONS": {
-               "Length": 134.3,
-               "Width": 70.8,
-               "Height": 47,
+               "Length": "134.3 in (3411 mm)",
+               "Width": "70.8 in (1798 mm)",
+               "Height": "47 in (1194 mm)",
                "Front/rear Track": "63/63 in (1,600/1,600 mm)",
-               "Wheelbase": 92.3,
-               "Ground Clearance": 3.5,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "92.3 in (2344 mm)",
+               "Ground Clearance": "3.5 in (89 mm)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1105,
-               "Gross Weight Limit": 1590
+               "Unladen Weight": "1105 lbs (501 kg)",
+               "Gross Weight Limit": "1590 lbs (721 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 32
+               "Combined": "32 mpg US (7.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ARIEL Atom 2 2003-200805-03-03-20-01.jpg"
 },{
      "model_name": "ARIEL Atom 1 1999-2002",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6 DOHC 6MT (113 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1588,
+               "Displacement": "1588 cm3",
                "Power": "83 KW @ 5000 RPM\n113 HP @ 5000 RPM\n111 BHP @ 5000 RPM",
                "Torque": "107 lb-ft @ 3000 RPM\n145 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130
+               "Top Speed": "130 mph (209 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -156,33 +159,34 @@
                "Tire Size": "185/60 R 14"
           },
           "DIMENSIONS": {
-               "Length": 134.3,
-               "Width": 70.8,
-               "Height": 47,
+               "Length": "134.3 in (3411 mm)",
+               "Width": "70.8 in (1798 mm)",
+               "Height": "47 in (1194 mm)",
                "Front/rear Track": "63/63 in (1,600/1,600 mm)",
-               "Wheelbase": 92.3,
-               "Ground Clearance": 3.5,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "92.3 in (2344 mm)",
+               "Ground Clearance": "3.5 in (89 mm)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1005,
-               "Gross Weight Limit": 1490
+               "Unladen Weight": "1005 lbs (456 kg)",
+               "Gross Weight Limit": "1490 lbs (676 kg)"
           }
-     }
+     },
+     "img": "images/ARIEL Atom 1 1999-200205-03-03-20-03.jpg"
 },{
      "model_name": "ARIEL Nomad 2015-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4 I-VTEC 6MT (238 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2354,
+               "Displacement": "2354 cm3",
                "Power": "175 KW @ 7200 RPM\n238 HP @ 7200 RPM\n235 BHP @ 7200 RPM",
                "Torque": "221 lb-ft @ 4300 RPM\n300 Nm @ 4300 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 125,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+               "Top Speed": "125 mph (201 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -196,15 +200,16 @@
                "Tire Size": "235/75R15"
           },
           "DIMENSIONS": {
-               "Length": 126.6,
-               "Width": 72.8,
-               "Height": 56.1,
+               "Length": "126.6 in (3216 mm)",
+               "Width": "72.8 in (1849 mm)",
+               "Height": "56.1 in (1425 mm)",
                "Front/rear Track": "62.4/62.4 in (1,585/1,585 mm)",
-               "Wheelbase": 92.4
+               "Wheelbase": "92.4 in (2347 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1477
+               "Unladen Weight": "1477 lbs (670 kg)"
           }
-     }
+     },
+     "img": "images/ARIEL Nomad 2015-Present05-03-03-20-04.jpg"
 },	
  ] } 

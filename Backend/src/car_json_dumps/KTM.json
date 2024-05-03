@@ -2,17 +2,17 @@
 {
      "model_name": "KTM X-Bow GT 2013-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0 6MT (285 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1984,
+               "Displacement": "1984 cm3",
                "Power": "209.6 KW @ 6400 RPM\n285 HP @ 6400 RPM\n281 BHP @ 6400 RPM",
                "Torque": "310 lb-ft @ 3200 RPM\n420 Nm @ 3200 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 144,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+               "Top Speed": "144 mph (232 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -26,26 +26,27 @@
                "Tire Size": "205/40 R17 || 255/35 R18"
           },
           "DIMENSIONS": {
-               "Length": 147.2,
-               "Width": 75.4,
-               "Height": 47.3,
+               "Length": "147.2 in (3739 mm)",
+               "Width": "75.4 in (1915 mm)",
+               "Height": "47.3 in (1201 mm)",
                "Front/rear Track": "65.8/64 in (1,671/1,626 mm)",
-               "Wheelbase": 95.7
+               "Wheelbase": "95.7 in (2431 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1867
+               "Unladen Weight": "1867 lbs (847 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 28.3,
-               "CO2 Emissions": 189
+               "Combined": "28.3 mpg US (8.3 L/100Km)",
+               "CO2 Emissions": "189 g/km"
           }
-     }
+     },
+     "img": "images/KTM X-Bow GT 2013-Present05-03-05-27-01.jpg"
 },{
      "model_name": "KTM X-Bow RR 2012-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0 6MT (N/A)": {
                "Cylinders": "L4",
-               "Displacement": 1984,
+               "Displacement": "1984 cm3",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
@@ -61,30 +62,31 @@
                "Tire Size": "205/40 R17 || 255/35 R18"
           },
           "DIMENSIONS": {
-               "Length": 147.2,
-               "Width": 75.4,
-               "Height": 47.3,
+               "Length": "147.2 in (3739 mm)",
+               "Width": "75.4 in (1915 mm)",
+               "Height": "47.3 in (1201 mm)",
                "Front/rear Track": "65.8/64 in (1,671/1,626 mm)",
-               "Wheelbase": 95.7
+               "Wheelbase": "95.7 in (2431 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1786
+               "Unladen Weight": "1786 lbs (810 kg)"
           }
-     }
+     },
+     "img": "images/KTM X-Bow RR 2012-Present05-03-05-27-02.jpg"
 },{
      "model_name": "2011 KTM X-Bow R",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0 6MT (300 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1984,
+               "Displacement": "1984 cm3",
                "Power": "220.7 KW @ 6300 RPM\n300 HP @ 6300 RPM\n296 BHP @ 6300 RPM",
                "Torque": "295 lb-ft @ 3300 RPM\n400 Nm @ 3300 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 144,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "144 mph (232 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -98,35 +100,36 @@
                "Tire Size": "205/40 R17 || 255/35 R18"
           },
           "DIMENSIONS": {
-               "Length": 147.2,
-               "Width": 75.4,
-               "Height": 47.3,
+               "Length": "147.2 in (3739 mm)",
+               "Width": "75.4 in (1915 mm)",
+               "Height": "47.3 in (1201 mm)",
                "Front/rear Track": "65.8/64 in (1,671/1,626 mm)",
-               "Wheelbase": 95.7
+               "Wheelbase": "95.7 in (2431 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1742
+               "Unladen Weight": "1742 lbs (790 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 28.3,
-               "CO2 Emissions": 189
+               "Combined": "28.3 mpg US (8.3 L/100Km)",
+               "CO2 Emissions": "189 g/km"
           }
-     }
+     },
+     "img": "images/2011 KTM X-Bow R05-03-05-27-04.jpg"
 },{
      "model_name": "KTM X-Bow 2008-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - R 2.0L 6MT (240 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1984,
+               "Displacement": "1984 cm3",
                "Power": "176.5 KW @ 6500 RPM\n240 HP @ 6500 RPM\n237 BHP @ 6500 RPM",
                "Torque": "229 lb-ft @ 2000-5500 RPM\n310 Nm @ 2000-5500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 10.6
+               "Fuel capacity": "10.6 gallons (40.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 137,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "137 mph (220 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -140,20 +143,21 @@
                "Tire Size": "205/40 R 17 // 235/40 R 18"
           },
           "DIMENSIONS": {
-               "Length": 144.5,
-               "Width": 73.6,
-               "Height": 45.7,
+               "Length": "144.5 in (3670 mm)",
+               "Width": "73.6 in (1869 mm)",
+               "Height": "45.7 in (1161 mm)",
                "Front/rear Track": "64.7/63.9 in (1,643/1,623 mm)",
-               "Wheelbase": 95.7,
-               "Aerodynamics (Cd)": 0.65
+               "Wheelbase": "95.7 in (2431 mm)",
+               "Aerodynamics (Cd)": "0.65"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1774
+               "Unladen Weight": "1774 lbs (805 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 29.7,
-               "CO2 Emissions": 187.23
+               "Combined": "29.7 mpg US (7.9 L/100Km)",
+               "CO2 Emissions": "187.23 g/km"
           }
-     }
+     },
+     "img": "images/KTM X-Bow 2008-Present05-03-05-27-06.jpg"
 },	
  ] } 

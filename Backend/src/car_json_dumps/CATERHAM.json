@@ -2,17 +2,17 @@
 {
      "model_name": "2012 Caterham Supersport",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6 (142 HP)": {
                "Cylinders": "4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "104 KW @ 6900 RPM\n142 HP @ 6900 RPM\n139 BHP @ 6900 RPM",
                "Torque": "120 lb-ft @ 5790 RPM\n163 Nm @ 5790 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 120,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.1
+               "Top Speed": "120 mph (193 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -23,24 +23,25 @@
                "Rear": "Discs"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1146
+               "Unladen Weight": "1146 lbs (520 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/2012 Caterham Supersport05-03-04-05-04.jpg"
 },{
      "model_name": "CATERHAM Seven 620 R 2013-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - R 2.0 DURATEC (314 HP)": {
                "Cylinders": "4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "231 KW @ 7700 RPM\n314 HP @ 7700 RPM\n310 BHP @ 7700 RPM",
                "Torque": "219 lb-ft @ 7350 RPM\n297 Nm @ 7350 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -51,23 +52,24 @@
                "Rear": "Discs"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1202
+               "Unladen Weight": "1202 lbs (545 kg)"
           }
-     }
+     },
+     "img": "images/CATERHAM Seven 620 R 2013-Present05-03-04-05-05.jpg"
 },{
      "model_name": "CATERHAM CSR 2005-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.3 5MT (200 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2261,
+               "Displacement": "2261 cm3",
                "Power": "149 KW @ 7000 RPM\n203 HP @ 7000 RPM\n200 BHP @ 7000 RPM",
                "Torque": "165 lb-ft @ 5750 RPM\n224 Nm @ 5750 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 140,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+               "Top Speed": "140 mph (225 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -81,39 +83,40 @@
                "Tire Size": "195/45 R15 || 255/40 R15"
           },
           "DIMENSIONS": {
-               "Length": 130,
-               "Width": 66.3,
-               "Height": 44.8,
+               "Length": "130 in (3302 mm)",
+               "Width": "66.3 in (1684 mm)",
+               "Height": "44.8 in (1138 mm)",
                "Front/rear Track": "59.2/57.6 in (1,504/1,463 mm)",
-               "Wheelbase": 91.1,
-               "Ground Clearance": 3.9,
-               "Aerodynamics (Cd)": 0.7
+               "Wheelbase": "91.1 in (2314 mm)",
+               "Ground Clearance": "3.9 in (99 mm)",
+               "Aerodynamics (Cd)": "0.7"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1246,
-               "Gross Weight Limit": 1929
+               "Unladen Weight": "1246 lbs (565 kg)",
+               "Gross Weight Limit": "1929 lbs (875 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14.2,
-               "Highway": 27.7,
-               "Combined": 20.5
+               "City": "14.2 mpg US (16.6 L/100Km)",
+               "Highway": "27.7 mpg US (8.5 L/100Km)",
+               "Combined": "20.5 mpg US (11.5 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CATERHAM CSR 2005-Present05-03-04-05-07.jpg"
 },{
      "model_name": "CATERHAM Classic 2000-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4 5MT (105 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1400,
+               "Displacement": "1400 cm3",
                "Power": "78 KW @ 6000 RPM\n105 HP @ 6000 RPM\n105 BHP @ 6000 RPM",
                "Torque": "95 lb-ft @ 5000 RPM\n129 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 110,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+               "Top Speed": "110 mph (177 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -127,40 +130,41 @@
                "Tire Size": "185/60 R14"
           },
           "DIMENSIONS": {
-               "Length": 133.1,
-               "Width": 62,
-               "Height": 43.9,
+               "Length": "133.1 in (3381 mm)",
+               "Width": "62 in (1575 mm)",
+               "Height": "43.9 in (1115 mm)",
                "Front/rear Track": "50/52.6 in (1,270/1,336 mm)",
-               "Wheelbase": 87.6,
-               "Ground Clearance": 5,
-               "Cargo Volume": 2.6,
-               "Aerodynamics (Cd)": 0.7
+               "Wheelbase": "87.6 in (2225 mm)",
+               "Ground Clearance": "5 in (127 mm)",
+               "Cargo Volume": "2.6 cuFT (74 L)",
+               "Aerodynamics (Cd)": "0.7"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1157,
-               "Gross Weight Limit": 1896
+               "Unladen Weight": "1157 lbs (525 kg)",
+               "Gross Weight Limit": "1896 lbs (860 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.8,
-               "Highway": 35.1,
-               "Combined": 33.6
+               "City": "23.8 mpg US (9.9 L/100Km)",
+               "Highway": "35.1 mpg US (6.7 L/100Km)",
+               "Combined": "33.6 mpg US (7 L/100Km)"
           }
-     }
+     },
+     "img": "images/CATERHAM Classic 2000-Present05-03-04-05-09.jpg"
 },{
      "model_name": "CATERHAM Roadsport 2007-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT (127 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1600,
+               "Displacement": "1600 cm3",
                "Power": "93 KW @ 6100 RPM\n126 HP @ 6100 RPM\n125 BHP @ 6100 RPM",
                "Torque": "120 lb-ft @ 5350 RPM\n163 Nm @ 5350 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 23.8
+               "Fuel capacity": "23.8 gallons (90.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.9
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -174,35 +178,36 @@
                "Tire Size": "185/60 R14"
           },
           "DIMENSIONS": {
-               "Length": 133.1,
-               "Width": 62,
-               "Height": 43.9,
+               "Length": "133.1 in (3381 mm)",
+               "Width": "62 in (1575 mm)",
+               "Height": "43.9 in (1115 mm)",
                "Front/rear Track": "50/52.6 in (1,270/1,336 mm)",
-               "Wheelbase": 87.6,
-               "Ground Clearance": 4.3,
-               "Cargo Volume": 2.6,
-               "Aerodynamics (Cd)": 0.7
+               "Wheelbase": "87.6 in (2225 mm)",
+               "Ground Clearance": "4.3 in (109 mm)",
+               "Cargo Volume": "2.6 cuFT (74 L)",
+               "Aerodynamics (Cd)": "0.7"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1213,
-               "Gross Weight Limit": 1896
+               "Unladen Weight": "1213 lbs (550 kg)",
+               "Gross Weight Limit": "1896 lbs (860 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/CATERHAM Roadsport 2007-Present05-03-04-05-11.jpg"
 },{
      "model_name": "CATERHAM Superlight 2013-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - R400 2.0 DURATEC (213 HP)": {
                "Cylinders": "4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "157 KW @ 7600 RPM\n213 HP @ 7600 RPM\n211 BHP @ 7600 RPM",
                "Torque": "150 lb-ft @ 6300 RPM\n203 Nm @ 6300 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 136,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "136 mph (219 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -213,49 +218,51 @@
                "Rear": "Discs"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1135
+               "Unladen Weight": "1135 lbs (515 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/CATERHAM Superlight 2013-Present05-03-04-05-13.jpg"
 },{
      "model_name": "CATERHAM Seven 160 2013-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.66 (80 HP)": {
                "Cylinders": "l3",
-               "Displacement": 660,
+               "Displacement": "660 cm3",
                "Power": "60 KW @ 7000 RPM\n81 HP @ 7000 RPM\n80 BHP @ 7000 RPM",
                "Torque": "79 lb-ft @ 3400 RPM\n107 Nm @ 3400 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 100,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.7
+               "Top Speed": "100 mph (161 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
                "Gearbox": "5-speed, manual"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1080
+               "Unladen Weight": "1080 lbs (490 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 48,
-               "CO2 Emissions": 114
+               "Combined": "48 mpg US (4.9 L/100Km)",
+               "CO2 Emissions": "114 g/km"
           }
-     }
+     },
+     "img": "images/CATERHAM Seven 160 2013-Present05-03-04-05-14.jpg"
 },{
      "model_name": "CATERHAM Super Seven 1600 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT (135 HP)": {
                "Cylinders": "L4",
                "Power": "100.7 KW @ 6800 RPM\n136.9 HP @ 6800 RPM\n135 BHP @ 6800 RPM",
                "Torque": "122 lb-ft @ 4100 RPM\n165 Nm @ 4100 RPM",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 122,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+               "Top Speed": "122 mph (196 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -266,13 +273,14 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 125.2,
-               "Width": 62,
-               "Height": 42.9
+               "Length": "125.2 in (3180 mm)",
+               "Width": "62 in (1575 mm)",
+               "Height": "42.9 in (1090 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1246
+               "Unladen Weight": "1246 lbs (565 kg)"
           }
-     }
+     },
+     "img": "images/CATERHAM Super Seven 1600 2020-Present05-03-04-05-16.jpg"
 },	
  ] } 

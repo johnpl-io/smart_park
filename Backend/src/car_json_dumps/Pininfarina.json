@@ -2,30 +2,31 @@
 {
      "model_name": "2025 Pininfarina B95",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 120 KWH (1900 HP)": {
                "Total maximum power": "1397.4 kw (1900 hp)",
                "Fuel System": "Electric",
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 186,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.1
+               "Top Speed": "186 mph (299 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion",
-               "Nominal Capacity": 120
+               "Nominal Capacity": "120 kWh"
           },
           "NOTES": {
                "DC fast chargers up to 270 kW": "for a 20-80% top up in as little as 25 mins."
           }
-     }
+     },
+     "img": "images/2025 Pininfarina B9505-03-06-43-04.jpg"
 },{
      "model_name": "2019 Pininfarina Battista",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 120 KWH (1904 HP)": {
                "Electrical motor power": "1400.4 kw (1904 hp)",
                "Electrical motor torque": "1696.4 lb-ft (2300 Nm)",
                "Total maximum power": "1400.4 kw (1904 hp)",
@@ -33,7 +34,7 @@
                "Fuel": "Electric"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": 2
+               "Acceleration 0-62 Mph (0-100 kph)": "2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -45,9 +46,10 @@
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-ion",
-               "Nominal Capacity": 120,
-               "Range": 279.6
+               "Nominal Capacity": "120 kWh",
+               "Range": "279.6 miles (450.0 km)"
           }
-     }
+     },
+     "img": "images/2019 Pininfarina Battista05-03-06-43-06.jpg"
 },	
  ] } 

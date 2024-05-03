@@ -2,18 +2,18 @@
 {
      "model_name": "2023 Lamborgini Huracan Sterrato",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V10 7AT RWD (610 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "448.7 KW @ 8000 RPM\n610 HP @ 8000 RPM\n602 BHP @ 8000 RPM",
                "Torque": "417 lb-ft @ 6500 RPM\n565 Nm @ 6500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21.1
+               "Fuel capacity": "21.1 gallons (79.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 162,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+               "Top Speed": "162 mph (261 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -27,33 +27,34 @@
                "Tire Size": "235/40 R19 // 285/40 R19"
           },
           "DIMENSIONS": {
-               "Length": 178.1,
-               "Width": 77,
-               "Height": 49.1,
+               "Length": "178.1 in (4524 mm)",
+               "Width": "77 in (1956 mm)",
+               "Height": "49.1 in (1247 mm)",
                "Front/rear Track": "66.9/65.1 in (1,699/1,654 mm)",
-               "Wheelbase": 103.5,
-               "Cargo Volume": 3.5,
-               "Turning circle": 37.7
+               "Wheelbase": "103.5 in (2629 mm)",
+               "Cargo Volume": "3.5 cuFT (99 L)",
+               "Turning circle": "37.7 ft (11.5 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3241
+               "Unladen Weight": "3241 lbs (1470 kg)"
           }
-     }
+     },
+     "img": "images/2023 Lamborgini Huracan Sterrato05-03-05-27-35.jpg"
 },{
      "model_name": "2023 Lamborghini Huracan Tecnica",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V10 7AT RWD (640 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "470.7 KW @ 8000 RPM\n640 HP @ 8000 RPM\n631 BHP @ 8000 RPM",
                "Torque": "417 lb-ft @ 6500 RPM\n565 Nm @ 6500 RPM",
                "Fuel System": "Direct injection Naturally aspirated",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21.1
+               "Fuel capacity": "21.1 gallons (79.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.2
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -67,64 +68,66 @@
                "Tire Size": "245/30 R20 // 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": 179.8,
-               "Width": 76.1,
-               "Height": 45.9,
+               "Length": "179.8 in (4567 mm)",
+               "Width": "76.1 in (1933 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "65.7/63.9 in (1,669/1,623 mm)",
-               "Wheelbase": 103.1,
-               "Cargo Volume": 3.5,
-               "Turning circle": 37.7
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Cargo Volume": "3.5 cuFT (99 L)",
+               "Turning circle": "37.7 ft (11.5 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3040
+               "Unladen Weight": "3040 lbs (1379 kg)"
           }
-     }
+     },
+     "img": "images/2023 Lamborghini Huracan Tecnica05-03-05-27-37.jpg"
 },{
      "model_name": "2021 Lamborghini Huracan STO",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V10 7AT (640 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "470.7 KW @ 8000 RPM\n640 HP @ 8000 RPM\n631 BHP @ 8000 RPM",
                "Torque": "417 lb-ft @ 6500 RPM\n565 Nm @ 6500 RPM",
                "Fuel System": "IDS+MPI dual injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21.1
+               "Fuel capacity": "21.1 gallons (79.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 193,
-               "Acceleration 0-62 Mph (0-100 kph)": 3
+               "Top Speed": "193 mph (311 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
                "Gearbox": "7-automatic speed LDF dual clutch"
           },
           "DIMENSIONS": {
-               "Length": 179.1,
-               "Width": 76.6,
-               "Height": 48,
+               "Length": "179.1 in (4549 mm)",
+               "Width": "76.6 in (1946 mm)",
+               "Height": "48 in (1219 mm)",
                "Front/rear Track": "66.5/64.8 in (1,689/1,646 mm)",
-               "Wheelbase": 103.1,
-               "Cargo Volume": 1.3
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Cargo Volume": "1.3 cuFT (37 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2952
+               "Unladen Weight": "2952 lbs (1339 kg)"
           }
-     }
+     },
+     "img": "images/2021 Lamborghini Huracan STO05-03-05-27-39.jpg"
 },{
      "model_name": "2019 Lamborghini Huracan EVO RWD",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V10 7AT (610 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "448.7 KW @ 8000 RPM\n610 HP @ 8000 RPM\n602 BHP @ 8000 RPM",
                "Torque": "413 lb-ft @ 6500 RPM\n560 Nm @ 6500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.3
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -138,30 +141,31 @@
                "Tire Size": "245/35 ZR19 // 305/35 ZR19"
           },
           "DIMENSIONS": {
-               "Length": 178,
-               "Width": 76.1,
-               "Height": 45.9,
+               "Length": "178 in (4521 mm)",
+               "Width": "76.1 in (1933 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "65.7/63.8 in (1,669/1,621 mm)",
-               "Wheelbase": 103.1
+               "Wheelbase": "103.1 in (2619 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3082
+               "Unladen Weight": "3082 lbs (1398 kg)"
           }
-     }
+     },
+     "img": "images/2019 Lamborghini Huracan EVO RWD05-03-05-27-41.jpg"
 },{
      "model_name": "2019 Lamborghini Huracan Evo",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V10 7AT AWD (640 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "470.7 KW @ 8800 RPM\n640 HP @ 8800 RPM\n631 BHP @ 8800 RPM",
                "Torque": "443 lb-ft @ 6500 RPM\n600 Nm @ 6500 RPM",
                "Fuel System": "Multipoint and Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -175,30 +179,31 @@
                "Tire Size": "245/30 R20 // 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": 178,
-               "Width": 88,
-               "Height": 45.9,
+               "Length": "178 in (4521 mm)",
+               "Width": "88 in (2235 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "65.7/63.8 in (1,669/1,621 mm)",
-               "Wheelbase": 103.1
+               "Wheelbase": "103.1 in (2619 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3135
+               "Unladen Weight": "3135 lbs (1422 kg)"
           }
-     }
+     },
+     "img": "images/2019 Lamborghini Huracan Evo05-03-05-27-43.jpg"
 },{
      "model_name": "2017 Lamborghini Huracan Performante",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2 V10 7AT (640 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "470.7 KW @ 8000 RPM\n640 HP @ 8000 RPM\n631 BHP @ 8000 RPM",
                "Torque": "443 lb-ft @ 6500 RPM\n600 Nm @ 6500 RPM",
                "Fuel System": "Multipoint and Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -212,37 +217,38 @@
                "Tire Size": "245/30 R20 || 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": 177.4,
-               "Width": 75.7,
-               "Height": 45.9,
+               "Length": "177.4 in (4506 mm)",
+               "Width": "75.7 in (1923 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "65.7/63.8 in (1,669/1,621 mm)",
-               "Wheelbase": 103.1,
-               "Cargo Volume": 3.5
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Cargo Volume": "3.5 cuFT (99 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3047
+               "Unladen Weight": "3047 lbs (1382 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 12,
-               "Highway": 22.8,
-               "Combined": 17.2,
-               "CO2 Emissions": 314
+               "City": "12 mpg US (19.6 L/100Km)",
+               "Highway": "22.8 mpg US (10.3 L/100Km)",
+               "Combined": "17.2 mpg US (13.7 L/100Km)",
+               "CO2 Emissions": "314 g/km"
           }
-     }
+     },
+     "img": "images/2017 Lamborghini Huracan Performante05-03-05-27-44.jpg"
 },{
      "model_name": "2016 Lamborghini Huracan 580-2",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V10 7AT (580 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "426.6 KW @ 8000 RPM\n580 HP @ 8000 RPM\n572 BHP @ 8000 RPM",
                "Torque": "398 lb-ft @ 6500 RPM\n540 Nm @ 6500 RPM",
                "Fuel System": "Multipoint and Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 198,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+               "Top Speed": "198 mph (319 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -256,37 +262,38 @@
                "Tire Size": "245/35 R19 || 305/35 R19"
           },
           "DIMENSIONS": {
-               "Length": 175.6,
-               "Width": 75.7,
-               "Height": 46.5,
+               "Length": "175.6 in (4460 mm)",
+               "Width": "75.7 in (1923 mm)",
+               "Height": "46.5 in (1181 mm)",
                "Front/rear Track": "65.7/63.8 in (1,669/1,621 mm)",
-               "Wheelbase": 103.1,
-               "Ground Clearance": 5.3
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Ground Clearance": "5.3 in (135 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3327
+               "Unladen Weight": "3327 lbs (1509 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 13.4,
-               "Highway": 25.8,
-               "Combined": 19.4,
-               "CO2 Emissions": 283
+               "City": "13.4 mpg US (17.6 L/100Km)",
+               "Highway": "25.8 mpg US (9.1 L/100Km)",
+               "Combined": "19.4 mpg US (12.1 L/100Km)",
+               "CO2 Emissions": "283 g/km"
           }
-     }
+     },
+     "img": "images/2016 Lamborghini Huracan 580-205-03-05-27-46.jpg"
 },{
      "model_name": "2014 LAMBORGHINI Huracan LP 610-4",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2 V10 7AT (610 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "449 KW @ 8250 RPM\n610 HP @ 8250 RPM\n602 BHP @ 8250 RPM",
                "Torque": "413 lb-ft @ 6500 RPM\n560 Nm @ 6500 RPM",
                "Fuel System": "Direct Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.2
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -300,37 +307,38 @@
                "Tire Size": "245/30 R20 || 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": 175.6,
-               "Width": 75.7,
-               "Height": 45.9,
+               "Length": "175.6 in (4460 mm)",
+               "Width": "75.7 in (1923 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "65.7/63.8 in (1,669/1,621 mm)",
-               "Wheelbase": 103.1,
-               "Ground Clearance": 5.3
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Ground Clearance": "5.3 in (135 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3135
+               "Unladen Weight": "3135 lbs (1422 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 13.2,
-               "Highway": 25,
-               "Combined": 18.8,
-               "CO2 Emissions": 290
+               "City": "13.2 mpg US (17.8 L/100Km)",
+               "Highway": "25 mpg US (9.4 L/100Km)",
+               "Combined": "18.8 mpg US (12.5 L/100Km)",
+               "CO2 Emissions": "290 g/km"
           }
-     }
+     },
+     "img": "images/2014 LAMBORGHINI Huracan LP 610-405-03-05-27-48.jpg"
 },{
      "model_name": "2019 Lamborghini Huracan Evo Epyder",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V10 7AT AWD (640 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "470.7 KW @ 8000 RPM\n640 HP @ 8000 RPM\n631 BHP @ 8000 RPM",
                "Torque": "443 lb-ft @ 6500 RPM\n600 Nm @ 6500 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.1
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -344,31 +352,32 @@
                "Tire Size": "245/30 R20 // 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": 178,
-               "Width": 76.1,
-               "Height": 46.5,
+               "Length": "178 in (4521 mm)",
+               "Width": "76.1 in (1933 mm)",
+               "Height": "46.5 in (1181 mm)",
                "Front/rear Track": "65.7/63.8 in (1,669/1,621 mm)",
-               "Wheelbase": 103.1,
-               "Cargo Volume": 3.5
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Cargo Volume": "3.5 cuFT (99 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3400
+               "Unladen Weight": "3400 lbs (1542 kg)"
           }
-     }
+     },
+     "img": "images/2019 Lamborghini Huracan Evo Epyder05-03-05-27-50.jpg"
 },{
      "model_name": "2018 Lamborghini Huracan Performante Spyder",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V10 7AT (640 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "470.7 KW @ 8000 RPM\n640 HP @ 8000 RPM\n631 BHP @ 8000 RPM",
                "Torque": "443 lb-ft @ 6500 RPM\n600 Nm @ 6500 RPM",
                "Fuel System": "Multipoint and Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.1
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -382,31 +391,32 @@
                "Tire Size": "245/30 R20 || 305/30 R20"
           },
           "DIMENSIONS": {
-               "Length": 177.4,
-               "Width": 75.7,
-               "Height": 45.9,
+               "Length": "177.4 in (4506 mm)",
+               "Width": "75.7 in (1923 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "65.7/63.8 in (1,669/1,621 mm)",
-               "Wheelbase": 103.1,
-               "Cargo Volume": 3.5
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Cargo Volume": "3.5 cuFT (99 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3322
+               "Unladen Weight": "3322 lbs (1507 kg)"
           }
-     }
+     },
+     "img": "images/2018 Lamborghini Huracan Performante Spyder05-03-05-27-51.jpg"
 },{
      "model_name": "2016 Huracan LP 580-2 Spyder",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2 V10 7AT (580 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "426.6 KW @ 8000 RPM\n580 HP @ 8000 RPM\n572 BHP @ 8000 RPM",
                "Torque": "398 lb-ft @ 6500 RPM\n540 Nm @ 6500 RPM",
                "Fuel System": "Multipoint and Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 198,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+               "Top Speed": "198 mph (319 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -420,38 +430,39 @@
                "Tire Size": "245/35 R19 || 305/35 R19"
           },
           "DIMENSIONS": {
-               "Length": 175.6,
-               "Width": 7.6,
-               "Height": 46.5,
+               "Length": "175.6 in (4460 mm)",
+               "Width": "7.6 in (193 mm)",
+               "Height": "46.5 in (1181 mm)",
                "Front/rear Track": "65.7/63.8 in (1,669/1,621 mm)",
-               "Wheelbase": 103.1,
-               "Ground Clearance": 5.3,
-               "Cargo Volume": 3.5
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Ground Clearance": "5.3 in (135 mm)",
+               "Cargo Volume": "3.5 cuFT (99 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3327
+               "Unladen Weight": "3327 lbs (1509 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 13.4,
-               "Highway": 25.8,
-               "Combined": 19.4,
-               "CO2 Emissions": 283
+               "City": "13.4 mpg US (17.6 L/100Km)",
+               "Highway": "25.8 mpg US (9.1 L/100Km)",
+               "Combined": "19.4 mpg US (12.1 L/100Km)",
+               "CO2 Emissions": "283 g/km"
           }
-     }
+     },
+     "img": "images/2016 Huracan LP 580-2 Spyder05-03-05-27-53.jpg"
 },{
      "model_name": "2015 Lamborghini Huracan LP610-4 Spyder",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2 V10 7AT (610 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "448.7 KW @ 8250 RPM\n610 HP @ 8250 RPM\n602 BHP @ 8250 RPM",
                "Torque": "413 lb-ft @ 6500 RPM\n560 Nm @ 6500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 201,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+               "Top Speed": "201 mph (323 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -462,37 +473,38 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": 175.6,
-               "Width": 75.7,
-               "Height": 46.5,
+               "Length": "175.6 in (4460 mm)",
+               "Width": "75.7 in (1923 mm)",
+               "Height": "46.5 in (1181 mm)",
                "Front/rear Track": "65.7/63.8 in (1,669/1,621 mm)",
-               "Wheelbase": 103.1,
-               "Cargo Volume": 3.5
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Cargo Volume": "3.5 cuFT (99 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3400
+               "Unladen Weight": "3400 lbs (1542 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 13.4,
-               "Highway": 25.6,
-               "Combined": 17
+               "City": "13.4 mpg US (17.6 L/100Km)",
+               "Highway": "25.6 mpg US (9.2 L/100Km)",
+               "Combined": "17 mpg US (13.8 L/100Km)"
           }
-     }
+     },
+     "img": "images/2015 Lamborghini Huracan LP610-4 Spyder05-03-05-27-55.jpg"
 },{
      "model_name": "LAMBORGHINI LP780-4 Ultimae Roadster 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 7AT AWD (780 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "573.7 KW @ 8500 RPM\n780 HP @ 8500 RPM\n769 BHP @ 8500 RPM",
                "Torque": "531 lb-ft @ 6750 RPM\n720 Nm @ 6750 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 22.5
+               "Fuel capacity": "22.5 gallons (85.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 221,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+               "Top Speed": "221 mph (356 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -506,33 +518,34 @@
                "Tire Size": "255/30 ZR20 // 355/25 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 191.7,
-               "Width": 82.6,
-               "Height": 44.7,
+               "Length": "191.7 in (4869 mm)",
+               "Width": "82.6 in (2098 mm)",
+               "Height": "44.7 in (1135 mm)",
                "Front/rear Track": "67.7/66.1 in (1,720/1,679 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 4.5,
-               "Cargo Volume": 4.9
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "4.5 in (114 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3527,
-               "Gross Weight Limit": 4630
+               "Unladen Weight": "3527 lbs (1600 kg)",
+               "Gross Weight Limit": "4630 lbs (2100 kg)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI LP780-4 Ultimae Roadster 2022-Present05-03-05-27-57.jpg"
 },{
      "model_name": "LAMBORGHINI Aventador SVJ Roadster 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 9AT (770 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6499,
+               "Displacement": "6499 cm3",
                "Power": "566.3 KW @ 8500 RPM\n770 HP @ 8500 RPM\n759 BHP @ 8500 RPM",
                "Torque": "531 lb-ft @ 6750 RPM\n720 Nm @ 6750 RPM",
                "Fuel System": "Turbocharge Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -543,23 +556,24 @@
                "Rear": "Discs"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3362
+               "Unladen Weight": "3362 lbs (1525 kg)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Aventador SVJ Roadster 2019-Present05-03-05-27-58.jpg"
 },{
      "model_name": "LAMBORGHINI Aventador S Roadster 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5 V12 7AT (740 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "544.3 KW @ 8400 RPM\n740 HP @ 8400 RPM\n730 BHP @ 8400 RPM",
                "Torque": "509 lb-ft @ 5500 RPM\n690 Nm @ 5500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 3
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -573,30 +587,31 @@
                "Tire Size": "255/30 ZR20 // 355/25 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 188.9,
-               "Width": 79.9,
-               "Height": 44.7,
-               "Wheelbase": 106.3
+               "Length": "188.9 in (4798 mm)",
+               "Width": "79.9 in (2029 mm)",
+               "Height": "44.7 in (1135 mm)",
+               "Wheelbase": "106.3 in (2700 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3583
+               "Unladen Weight": "3583 lbs (1625 kg)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Aventador S Roadster 2017-Present05-03-05-28-00.jpg"
 },{
      "model_name": "LAMBORGHINI Aventador LP750-4 SV Roadster 2015-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 7AT (750 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "551.6 KW @ 8400 RPM\n750 HP @ 8400 RPM\n740 BHP @ 8400 RPM",
                "Torque": "509 lb-ft @ 5500 RPM\n690 Nm @ 5500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 23.8
+               "Fuel capacity": "23.8 gallons (90.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -607,36 +622,37 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": 190.4,
-               "Width": 79.9,
-               "Height": 44.7,
+               "Length": "190.4 in (4836 mm)",
+               "Width": "79.9 in (2029 mm)",
+               "Height": "44.7 in (1135 mm)",
                "Front/rear Track": "67.7/66.1 in (1,720/1,679 mm)",
-               "Wheelbase": 106.3,
-               "Cargo Volume": 5.3
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Cargo Volume": "5.3 cuFT (150 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3472
+               "Unladen Weight": "3472 lbs (1575 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 22,
-               "Combined": 12.8
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)",
+               "Combined": "12.8 mpg US (18.4 L/100Km)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Aventador LP750-4 SV Roadster 2015-201705-03-05-28-02.jpg"
 },{
      "model_name": "LAMBORGHINI Aventador LP 700-4 Roadster 2012-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 (700 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "515 KW @ 8250 RPM\n700 HP @ 8250 RPM\n691 BHP @ 8250 RPM",
                "Torque": "509 lb-ft @ 5500 RPM\n690 Nm @ 5500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 3
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -650,41 +666,42 @@
                "Tire Size": "Front:255/35 ZR19, Rear: 335/30 ZR20"
           },
           "DIMENSIONS": {
-               "Length": 188.2,
-               "Width": 79.9,
-               "Height": 44.7,
+               "Length": "188.2 in (4780 mm)",
+               "Width": "79.9 in (2029 mm)",
+               "Height": "44.7 in (1135 mm)",
                "Front/rear Track": "67.7/66.9 in (1,720/1,699 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 4.1,
-               "Cargo Volume": 5.3,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "4.1 in (104 mm)",
+               "Cargo Volume": "5.3 cuFT (150 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3583,
-               "Gross Weight Limit": 3957
+               "Unladen Weight": "3583 lbs (1625 kg)",
+               "Gross Weight Limit": "3957 lbs (1795 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 22,
-               "Combined": 14.7,
-               "CO2 Emissions": 370
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)",
+               "Combined": "14.7 mpg US (16 L/100Km)",
+               "CO2 Emissions": "370 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Aventador LP 700-4 Roadster 2012-Present05-03-05-28-03.jpg"
 },{
      "model_name": "LAMBORGHINI LP780-4 Ultimae 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 7AT AWD (780 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "574 KW @ 8500 RPM\n780 HP @ 8500 RPM\n770 BHP @ 8500 RPM",
                "Torque": "531 lb-ft @ 6750 RPM\n720 Nm @ 6750 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 22.5
+               "Fuel capacity": "22.5 gallons (85.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 221,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+               "Top Speed": "221 mph (356 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -698,33 +715,34 @@
                "Tire Size": "255/30 ZR20 // 355/25 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 191.7,
-               "Width": 82.6,
-               "Height": 44.7,
+               "Length": "191.7 in (4869 mm)",
+               "Width": "82.6 in (2098 mm)",
+               "Height": "44.7 in (1135 mm)",
                "Front/rear Track": "67.7/66.1 in (1,720/1,679 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 4.5,
-               "Cargo Volume": 4.9
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "4.5 in (114 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3417,
-               "Gross Weight Limit": 4519
+               "Unladen Weight": "3417 lbs (1550 kg)",
+               "Gross Weight Limit": "4519 lbs (2050 kg)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI LP780-4 Ultimae 2022-Present05-03-05-28-05.jpg"
 },{
      "model_name": "LAMBORGHINI Aventador SVJ 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 7AT (770 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "566.3 KW @ 8500 RPM\n770 HP @ 8500 RPM\n759 BHP @ 8500 RPM",
                "Torque": "531 lb-ft @ 6750 RPM\n720 Nm @ 6750 RPM",
                "Fuel System": "Turbocharge Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -738,35 +756,36 @@
                "Tire Size": "255/30 ZR20 // 355/25 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 194.6,
-               "Width": 89.5,
-               "Height": 44.7,
-               "Wheelbase": 106.3
+               "Length": "194.6 in (4943 mm)",
+               "Width": "89.5 in (2273 mm)",
+               "Height": "44.7 in (1135 mm)",
+               "Wheelbase": "106.3 in (2700 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3362
+               "Unladen Weight": "3362 lbs (1525 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 7.6,
-               "Highway": 18.1,
-               "Combined": 12,
-               "CO2 Emissions": 452
+               "City": "7.6 mpg US (30.9 L/100Km)",
+               "Highway": "18.1 mpg US (13 L/100Km)",
+               "Combined": "12 mpg US (19.6 L/100Km)",
+               "CO2 Emissions": "452 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Aventador SVJ 2018-Present05-03-05-28-07.jpg"
 },{
      "model_name": "LAMBORGHINI Aventador S 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5 V12 7AT (740 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "544.3 KW @ 8400 RPM\n740 HP @ 8400 RPM\n730 BHP @ 8400 RPM",
                "Torque": "509 lb-ft @ 5000 RPM\n690 Nm @ 5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -780,35 +799,36 @@
                "Tire Size": "255/30 ZR20 || 355/25 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 188.9,
-               "Width": 79.9,
-               "Height": 44.7,
-               "Wheelbase": 106.3
+               "Length": "188.9 in (4798 mm)",
+               "Width": "79.9 in (2029 mm)",
+               "Height": "44.7 in (1135 mm)",
+               "Wheelbase": "106.3 in (2700 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3472
+               "Unladen Weight": "3472 lbs (1575 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9,
-               "Highway": 20.3,
-               "Combined": 13.9
+               "City": "9 mpg US (26.1 L/100Km)",
+               "Highway": "20.3 mpg US (11.6 L/100Km)",
+               "Combined": "13.9 mpg US (16.9 L/100Km)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Aventador S 2017-Present05-03-05-28-08.jpg"
 },{
      "model_name": "LAMBORGHINI Aventador LP750-4 SV 2015-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 7AT (750 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "552 KW @ 8400 RPM\n751 HP @ 8400 RPM\n740 BHP @ 8400 RPM",
                "Torque": "509 lb-ft @ 5500 RPM\n690 Nm @ 5500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 23.8
+               "Fuel capacity": "23.8 gallons (90.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -822,39 +842,40 @@
                "Tire Size": "255/30 ZR20 || 355/25 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 190.4,
-               "Width": 79.9,
-               "Height": 44.7,
+               "Length": "190.4 in (4836 mm)",
+               "Width": "79.9 in (2029 mm)",
+               "Height": "44.7 in (1135 mm)",
                "Front/rear Track": "67.7/66.1 in (1,720/1,679 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 4.1,
-               "Cargo Volume": 5.3,
-               "Aerodynamics (Cd)": 0.23
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "4.1 in (104 mm)",
+               "Cargo Volume": "5.3 cuFT (150 L)",
+               "Aerodynamics (Cd)": "0.23"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3362
+               "Unladen Weight": "3362 lbs (1525 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 22,
-               "Combined": 14.7,
-               "CO2 Emissions": 370
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)",
+               "Combined": "14.7 mpg US (16 L/100Km)",
+               "CO2 Emissions": "370 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Aventador LP750-4 SV 2015-201705-03-05-28-10.jpg"
 },{
      "model_name": "LAMBORGHINI Aventador LP 700-4 2011-2016",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 7AT (690 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "515 KW @ 8250 RPM\n690 HP @ 8250 RPM\n691 BHP @ 8250 RPM",
                "Torque": "509 lb-ft @ 5500 RPM\n690 Nm @ 5500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -868,37 +889,38 @@
                "Tire Size": "255/35 ZR19 \u2013 335/30 ZR20"
           },
           "DIMENSIONS": {
-               "Length": 188.2,
-               "Width": 79.9,
-               "Height": 44.7,
+               "Length": "188.2 in (4780 mm)",
+               "Width": "79.9 in (2029 mm)",
+               "Height": "44.7 in (1135 mm)",
                "Front/rear Track": "67.7/66.9 in (1,720/1,699 mm)",
-               "Wheelbase": 106.3,
-               "Aerodynamics (Cd)": 2.9
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Aerodynamics (Cd)": "2.9"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3472
+               "Unladen Weight": "3472 lbs (1575 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9,
-               "Highway": 21,
-               "Combined": 14,
-               "CO2 Emissions": 398
+               "City": "9 mpg US (26.1 L/100Km)",
+               "Highway": "21 mpg US (11.2 L/100Km)",
+               "Combined": "14 mpg US (16.8 L/100Km)",
+               "CO2 Emissions": "398 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Aventador LP 700-4 2011-201605-03-05-28-12.jpg"
 },{
      "model_name": "LAMBORGHINI Sian 2019-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 7AT (819 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "602.4 KW @ 8500 RPM\n819 HP @ 8500 RPM\n808 BHP @ 8500 RPM",
                "Electrical motor power": "25 kw (34 hp)",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Hybrid Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -912,30 +934,31 @@
                "Tire Size": "255/30 ZR20 // 355/25 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 196.1,
-               "Width": 82.7,
-               "Height": 44.6,
-               "Wheelbase": 106.3
+               "Length": "196.1 in (4981 mm)",
+               "Width": "82.7 in (2101 mm)",
+               "Height": "44.6 in (1133 mm)",
+               "Wheelbase": "106.3 in (2700 mm)"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Li-Ion"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Sian 2019-Present05-03-05-28-14.jpg"
 },{
      "model_name": "LAMBORGHINI Urus Performante 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.0L V8 8AT 4WD (666 HP)": {
                "Cylinders": "V8",
-               "Displacement": 3996,
+               "Displacement": "3996 cm3",
                "Power": "489.8 KW @ 6000 RPM\n666 HP @ 6000 RPM\n657 BHP @ 6000 RPM",
                "Torque": "627 lb-ft @ 2300-4500 RPM\n850 Nm @ 2300-4500 RPM",
                "Fuel System": "Bi-turbo Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 22.5
+               "Fuel capacity": "22.5 gallons (85.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 190,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.3
+               "Top Speed": "190 mph (306 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -949,33 +972,34 @@
                "Tire Size": "285/40 ZR22 // 325/35 ZR22"
           },
           "DIMENSIONS": {
-               "Length": 202.2,
-               "Width": 79.8,
-               "Height": 63.7,
+               "Length": "202.2 in (5136 mm)",
+               "Width": "79.8 in (2027 mm)",
+               "Height": "63.7 in (1618 mm)",
                "Front/rear Track": "67.4/67.6 in (1,712/1,717 mm)",
-               "Wheelbase": 118.3,
-               "Cargo Volume": 21.8,
+               "Wheelbase": "118.3 in (3005 mm)",
+               "Cargo Volume": "21.8 cuFT (617 L)",
                "Turning circle (curb to curb)": "38.7 ft (11.8 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4740
+               "Unladen Weight": "4740 lbs (2150 kg)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Urus Performante 2022-Present05-03-05-28-16.jpg"
 },{
      "model_name": "2023 Lamborghini Urus S",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.0L V8 8AT AWD (666 HP)": {
                "Cylinders": "V8",
-               "Displacement": 3996,
+               "Displacement": "3996 cm3",
                "Power": "489.8 KW @ 6000 RPM\n666 HP @ 6000 RPM\n657 BHP @ 6000 RPM",
                "Torque": "627 lb-ft @ 2300-4500 RPM\n850 Nm @ 2300-4500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 22.5
+               "Fuel capacity": "22.5 gallons (85.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 190,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.5
+               "Top Speed": "190 mph (306 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -989,37 +1013,38 @@
                "Tire Size": "285/45 ZR21 // 315/40 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 201.3,
-               "Width": 79.4,
-               "Height": 64.5,
+               "Length": "201.3 in (5113 mm)",
+               "Width": "79.4 in (2017 mm)",
+               "Height": "64.5 in (1638 mm)",
                "Front/rear Track": "66.7/67.3 in (1,694/1,709 mm)",
-               "Wheelbase": 118.2,
-               "Cargo Volume": 21.8,
-               "Turning circle": 38.7
+               "Wheelbase": "118.2 in (3002 mm)",
+               "Cargo Volume": "21.8 cuFT (617 L)",
+               "Turning circle": "38.7 ft (11.8 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4844
+               "Unladen Weight": "4844 lbs (2197 kg)"
           },
           "FUEL ECONOMY (WLTP)": {
-               "Combined": 16.7,
+               "Combined": "16.7 mpg US (14.1 L/100Km)",
                "CO2 Emissions (Combined)": "320 g/km"
           }
-     }
+     },
+     "img": "images/2023 Lamborghini Urus S05-03-05-28-17.jpg"
 },{
      "model_name": "LAMBORGHINI Urus 2018-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.0L V8 8AT (650 HP)": {
                "Cylinders": "V8",
-               "Displacement": 3996,
+               "Displacement": "3996 cm3",
                "Power": "478.1 KW @ 6000 RPM\n650 HP @ 6000 RPM\n641 BHP @ 6000 RPM",
                "Torque": "627 lb-ft @ 2250-4500 RPM\n850 Nm @ 2250-4500 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 22.5
+               "Fuel capacity": "22.5 gallons (85.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 190,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.6
+               "Top Speed": "190 mph (306 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1033,38 +1058,39 @@
                "Tire Size": "285/45 ZR21 || 315/40 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 201.3,
-               "Width": 79.4,
-               "Height": 64.5,
+               "Length": "201.3 in (5113 mm)",
+               "Width": "79.4 in (2017 mm)",
+               "Height": "64.5 in (1638 mm)",
                "Front/rear Track": "66.7/67.3 in (1,694/1,709 mm)",
-               "Wheelbase": 118.2,
-               "Ground Clearance": 6.2,
-               "Cargo Volume": 21.8,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "118.2 in (3002 mm)",
+               "Ground Clearance": "6.2 in (157 mm)",
+               "Cargo Volume": "21.8 cuFT (617 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4850
+               "Unladen Weight": "4850 lbs (2200 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 18.5,
-               "CO2 Emissions": 290
+               "Combined": "18.5 mpg US (12.7 L/100Km)",
+               "CO2 Emissions": "290 g/km"
           },
           "NOTES": {}
-     }
+     },
+     "img": "images/LAMBORGHINI Urus 2018-Present05-03-05-28-19.jpg"
 },{
      "model_name": "LAMBORGHINI Centenario Roadster 2016-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 7AT AWD (770 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "566.3 KW @ 8500 RPM\n770 HP @ 8500 RPM\n759 BHP @ 8500 RPM",
                "Torque": "509 lb-ft @ 5500 RPM\n690 Nm @ 5500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1078,25 +1104,26 @@
                "Tire Size": "255/30 ZR20 // 355/25 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 193.9,
-               "Width": 81.1,
-               "Height": 45.6,
-               "Wheelbase": 106.3,
-               "Aerodynamics (Cd)": 0.38
+               "Length": "193.9 in (4925 mm)",
+               "Width": "81.1 in (2060 mm)",
+               "Height": "45.6 in (1158 mm)",
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 22,
-               "Combined": 14.7,
-               "CO2 Emissions": 370
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)",
+               "Combined": "14.7 mpg US (16 L/100Km)",
+               "CO2 Emissions": "370 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Centenario Roadster 2016-Present05-03-05-28-21.jpg"
 },{
      "model_name": "LAMBORGHINI Sian Roadster 2020-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 7AT (819 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "577.4 KW @ 8500 RPM\n785 HP @ 8500 RPM\n774 BHP @ 8500 RPM",
                "Electrical motor power": "25 kw (34 hp)",
                "Total maximum power": "602.4 kw (819 hp)",
@@ -1104,8 +1131,8 @@
                "Fuel": "Hybrid Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1121,21 +1148,22 @@
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Sian Roadster 2020-Present05-03-05-28-22.jpg"
 },{
      "model_name": "2024 Lamborghini Revuelto",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 8AT AWD (1015 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "606.8 KW @ 9250 RPM\n825 HP @ 9250 RPM\n814 BHP @ 9250 RPM",
                "Electrical motor power": "220 kw (299 hp)",
                "Total maximum power": "746.5 kw (1015 hp)",
                "Fuel": "Plug-in Hybrid"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.5
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1149,14 +1177,14 @@
                "Tire Size": "265/ 35 ZR20 // 345/30 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 194.8,
-               "Width": 80,
-               "Height": 45.7,
+               "Length": "194.8 in (4948 mm)",
+               "Width": "80 in (2032 mm)",
+               "Height": "45.7 in (1161 mm)",
                "Front/rear Track": "67.7/67 in (1,720/1,702 mm)",
-               "Wheelbase": 109.4
+               "Wheelbase": "109.4 in (2779 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3907
+               "Unladen Weight": "3907 lbs (1772 kg)"
           },
           "POWER SYSTEM SPECS": {
                "Power pack": "Lithium-Ion high specific power battery whit pouch cells"
@@ -1164,20 +1192,21 @@
           "NOTES": {
                "Rear motor": "150 HP (110 KW) /10000 rpm"
           }
-     }
+     },
+     "img": "images/2024 Lamborghini Revuelto05-03-05-28-25.jpg"
 },{
      "model_name": "LAMBORGHINI Veneno Roadster 2014-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5 V12 (750 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "552 KW @ - RPM\n751 HP @ - RPM\n740 BHP @ - RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 221,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.9
+               "Top Speed": "221 mph (356 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1187,23 +1216,24 @@
                "Tire Size": "R20"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3285
+               "Unladen Weight": "3285 lbs (1490 kg)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Veneno Roadster 2014-Present05-03-05-28-27.jpg"
 },{
      "model_name": "LAMBORGHINI 400 GT 1965-1968",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.9L V12 5MT (320 HP)": {
                "Cylinders": "V12",
-               "Displacement": 3929,
+               "Displacement": "3929 cm3",
                "Power": "236 KW @ 6500 RPM\n320 HP @ 6500 RPM\n316 BHP @ 6500 RPM",
                "Torque": "276 lb-ft @ 4700 RPM\n374 Nm @ 4700 RPM",
                "Fuel System": "6 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 162,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.4
+               "Top Speed": "162 mph (261 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1217,37 +1247,38 @@
                "Tire Size": "210 HR 15"
           },
           "DIMENSIONS": {
-               "Length": 182.7,
-               "Width": 68.1,
-               "Height": 49.2,
+               "Length": "182.7 in (4641 mm)",
+               "Width": "68.1 in (1730 mm)",
+               "Height": "49.2 in (1250 mm)",
                "Front/rear Track": "54.3/54.3 in (1,379/1,379 mm)",
-               "Wheelbase": 100.4,
-               "Ground Clearance": 5,
-               "Cargo Volume": 11.7,
-               "Aerodynamics (Cd)": 0.44
+               "Wheelbase": "100.4 in (2550 mm)",
+               "Ground Clearance": "5 in (127 mm)",
+               "Cargo Volume": "11.7 cuFT (331 L)",
+               "Aerodynamics (Cd)": "0.44"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3042,
-               "Gross Weight Limit": 3858
+               "Unladen Weight": "3042 lbs (1380 kg)",
+               "Gross Weight Limit": "3858 lbs (1750 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 13.4
+               "Combined": "13.4 mpg US (17.6 L/100Km)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI 400 GT 1965-196805-03-05-28-30.jpg"
 },{
      "model_name": "LAMBORGHINI 350 GT 1964-1966",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V12 5MT (260 HP)": {
                "Cylinders": "V12",
-               "Displacement": 3464,
+               "Displacement": "3464 cm3",
                "Power": "199 KW @ 6500 RPM\n270 HP @ 6500 RPM\n267 BHP @ 6500 RPM",
                "Torque": "251 lb-ft @ 4500 RPM\n340 Nm @ 4500 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 152,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+               "Top Speed": "152 mph (245 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1261,39 +1292,40 @@
                "Tire Size": "HS 205/15"
           },
           "DIMENSIONS": {
-               "Length": 182.6,
-               "Width": 68.1,
-               "Height": 48.3,
+               "Length": "182.6 in (4638 mm)",
+               "Width": "68.1 in (1730 mm)",
+               "Height": "48.3 in (1227 mm)",
                "Front/rear Track": "54.3/54.3 in (1,379/1,379 mm)",
-               "Wheelbase": 100.4,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 8.5,
-               "Aerodynamics (Cd)": 0.45
+               "Wheelbase": "100.4 in (2550 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "8.5 cuFT (241 L)",
+               "Aerodynamics (Cd)": "0.45"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2859,
-               "Gross Weight Limit": 3197
+               "Unladen Weight": "2859 lbs (1297 kg)",
+               "Gross Weight Limit": "3197 lbs (1450 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 13.5,
-               "Highway": 18.5,
-               "Combined": 16.8
+               "City": "13.5 mpg US (17.4 L/100Km)",
+               "Highway": "18.5 mpg US (12.7 L/100Km)",
+               "Combined": "16.8 mpg US (14 L/100Km)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI 350 GT 1964-196605-03-05-28-32.jpg"
 },{
      "model_name": "LAMBORGHINI 350 GTS 1965",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5 V12": {
                "Cylinders": "V12",
-               "Displacement": 3464,
+               "Displacement": "3464 cm3",
                "Power": "199 KW @ 6500 RPM\n270 HP @ 6500 RPM\n267 BHP @ 6500 RPM",
                "Torque": "251 lb-ft @ 4500 RPM\n340 Nm @ 4500 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 150,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.6
+               "Top Speed": "150 mph (241 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1304,28 +1336,29 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 182.6,
-               "Width": 68.1,
-               "Height": 48.3,
+               "Length": "182.6 in (4638 mm)",
+               "Width": "68.1 in (1730 mm)",
+               "Height": "48.3 in (1227 mm)",
                "Front/rear Track": "54.3/54.3 in (1,379/1,379 mm)",
-               "Wheelbase": 100.4,
-               "Ground Clearance": 5.1
+               "Wheelbase": "100.4 in (2550 mm)",
+               "Ground Clearance": "5.1 in (130 mm)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI 350 GTS 196505-03-05-28-34.jpg"
 },{
      "model_name": "LAMBORGHINI Centenario 2016-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 7AT AWD (770 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "566.3 KW @ 8500 RPM\n770 HP @ 8500 RPM\n759 BHP @ 8500 RPM",
                "Torque": "509 lb-ft @ 5500 RPM\n690 Nm @ 5500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 217,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+               "Top Speed": "217 mph (349 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1339,36 +1372,37 @@
                "Tire Size": "255/30 ZR20 // 355/25 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 193.9,
-               "Width": 81.2,
-               "Height": 45,
-               "Wheelbase": 106.3,
-               "Aerodynamics (Cd)": 0.38
+               "Length": "193.9 in (4925 mm)",
+               "Width": "81.2 in (2062 mm)",
+               "Height": "45 in (1143 mm)",
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3527
+               "Unladen Weight": "3527 lbs (1600 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 22,
-               "Combined": 14.7,
-               "CO2 Emissions": 370
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)",
+               "Combined": "14.7 mpg US (16 L/100Km)",
+               "CO2 Emissions": "370 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Centenario 2016-201705-03-05-28-35.jpg"
 },{
      "model_name": "LAMBORGHINI Countach 25th Anniversary 1989-1990",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V12 5MT (455 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5167,
+               "Displacement": "5167 cm3",
                "Power": "335 KW @ 7000 RPM\n455 HP @ 7000 RPM\n449 BHP @ 7000 RPM",
                "Torque": "369 lb-ft @ 5200 RPM\n500 Nm @ 5200 RPM",
                "Fuel System": "6 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 190,
-               "Acceleration 0-62 Mph (0-100 kph)": 5
+               "Top Speed": "190 mph (306 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1382,39 +1416,40 @@
                "Tire Size": "225/50 VR15 || 345/35 VR15"
           },
           "DIMENSIONS": {
-               "Length": 163,
-               "Width": 78.7,
-               "Height": 42.1,
+               "Length": "163 in (4140 mm)",
+               "Width": "78.7 in (1999 mm)",
+               "Height": "42.1 in (1069 mm)",
                "Front/rear Track": "60.5/63.2 in (1,537/1,605 mm)",
-               "Wheelbase": 96.5,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 11.3,
-               "Aerodynamics (Cd)": 0.29
+               "Wheelbase": "96.5 in (2451 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "11.3 cuFT (320 L)",
+               "Aerodynamics (Cd)": "0.29"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3285,
-               "Gross Weight Limit": 3704
+               "Unladen Weight": "3285 lbs (1490 kg)",
+               "Gross Weight Limit": "3704 lbs (1680 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 10.6,
-               "Highway": 16.4,
-               "Combined": 14.4
+               "City": "10.6 mpg US (22.2 L/100Km)",
+               "Highway": "16.4 mpg US (14.3 L/100Km)",
+               "Combined": "14.4 mpg US (16.3 L/100Km)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Countach 25th Anniversary 1989-199005-03-05-28-37.jpg"
 },{
      "model_name": "LAMBORGHINI Countach 5000 Quattro Valvole 1985-1989",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2 V12 5MT (455 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5167,
+               "Displacement": "5167 cm3",
                "Power": "334.7 KW @ 7000 RPM\n455 HP @ 7000 RPM\n449 BHP @ 7000 RPM",
                "Torque": "369 lb-ft @ 5200 RPM\n500 Nm @ 5200 RPM",
                "Fuel System": "6 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 185,
-               "Acceleration 0-62 Mph (0-100 kph)": 5
+               "Top Speed": "185 mph (298 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1428,39 +1463,40 @@
                "Tire Size": "225/50 VR15 || 345/35 VR15"
           },
           "DIMENSIONS": {
-               "Length": 163,
-               "Width": 78.7,
-               "Height": 42.1,
+               "Length": "163 in (4140 mm)",
+               "Width": "78.7 in (1999 mm)",
+               "Height": "42.1 in (1069 mm)",
                "Front/rear Track": "58.7/63.2 in (1,491/1,605 mm)",
-               "Wheelbase": 96.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 8.5,
-               "Aerodynamics (Cd)": 0.36
+               "Wheelbase": "96.5 in (2451 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "8.5 cuFT (241 L)",
+               "Aerodynamics (Cd)": "0.36"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3285,
-               "Gross Weight Limit": 3704
+               "Unladen Weight": "3285 lbs (1490 kg)",
+               "Gross Weight Limit": "3704 lbs (1680 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 10.6,
-               "Highway": 16.4,
-               "Combined": 14.4
+               "City": "10.6 mpg US (22.2 L/100Km)",
+               "Highway": "16.4 mpg US (14.3 L/100Km)",
+               "Combined": "14.4 mpg US (16.3 L/100Km)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Countach 5000 Quattro Valvole 1985-198905-03-05-28-39.jpg"
 },{
      "model_name": "LAMBORGHINI Countach LP 400 1973-1981",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.9L V12 5MT (375 HP)": {
                "Cylinders": "V12",
-               "Displacement": 3929,
+               "Displacement": "3929 cm3",
                "Power": "276 KW @ 8000 RPM\n375 HP @ 8000 RPM\n370 BHP @ 8000 RPM",
                "Torque": "269 lb-ft @ 5000 RPM\n365 Nm @ 5000 RPM",
                "Fuel System": "6 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 186,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+               "Top Speed": "186 mph (299 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1474,36 +1510,37 @@
                "Tire Size": "205/70 VR14 || 215/70 ZR14"
           },
           "DIMENSIONS": {
-               "Length": 163,
-               "Width": 74.4,
-               "Height": 42.1,
+               "Length": "163 in (4140 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "42.1 in (1069 mm)",
                "Front/rear Track": "59.1/59.8 in (1,501/1,519 mm)",
-               "Wheelbase": 96.5,
-               "Ground Clearance": 5,
-               "Aerodynamics (Cd)": 0.36
+               "Wheelbase": "96.5 in (2451 mm)",
+               "Ground Clearance": "5 in (127 mm)",
+               "Aerodynamics (Cd)": "0.36"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2866,
-               "Gross Weight Limit": 3351
+               "Unladen Weight": "2866 lbs (1300 kg)",
+               "Gross Weight Limit": "3351 lbs (1520 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 21.4
+               "Combined": "21.4 mpg US (11 L/100Km)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Countach LP 400 1973-198105-03-05-28-41.jpg"
 },{
      "model_name": "LAMBORGHINI Diablo VT 6.0 2000-2001",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.0 V12": {
                "Cylinders": "V12",
-               "Displacement": 5992,
+               "Displacement": "5992 cm3",
                "Power": "405 KW @ 7100 RPM\n550 HP @ 7100 RPM\n543 BHP @ 7100 RPM",
                "Torque": "457 lb-ft @ 5500 RPM\n620 Nm @ 5500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 205,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "205 mph (330 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1517,38 +1554,39 @@
                "Tire Size": "235/40 ZR17 (Front) - 335/30 ZR18 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": 176,
-               "Width": 80.3,
-               "Height": 43.5,
+               "Length": "176 in (4470 mm)",
+               "Width": "80.3 in (2040 mm)",
+               "Height": "43.5 in (1105 mm)",
                "Front/rear Track": "63.4/65.7 in (1,610/1,669 mm)",
-               "Wheelbase": 104.3,
-               "Ground Clearance": 5.5,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "104.3 in (2649 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3583
+               "Unladen Weight": "3583 lbs (1625 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 6.2,
-               "Highway": 13.6,
-               "Combined": 9.4,
-               "CO2 Emissions": 595
+               "City": "6.2 mpg US (37.9 L/100Km)",
+               "Highway": "13.6 mpg US (17.3 L/100Km)",
+               "Combined": "9.4 mpg US (25 L/100Km)",
+               "CO2 Emissions": "595 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Diablo VT 6.0 2000-200105-03-05-28-43.jpg"
 },{
      "model_name": "LAMBORGHINI Diablo SV 1996-1999",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.7L V12 5MT (530 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5707,
+               "Displacement": "5707 cm3",
                "Power": "389.8 KW @ 7100 RPM\n530 HP @ 7100 RPM\n523 BHP @ 7100 RPM",
                "Torque": "446 lb-ft @ 5500 RPM\n605 Nm @ 5500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 199,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+               "Top Speed": "199 mph (320 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1562,37 +1600,38 @@
                "Tire Size": "235/40 ZR17 || 335/30 ZR18"
           },
           "DIMENSIONS": {
-               "Length": 175.5,
-               "Width": 80.3,
-               "Height": 43.5,
+               "Length": "175.5 in (4458 mm)",
+               "Width": "80.3 in (2040 mm)",
+               "Height": "43.5 in (1105 mm)",
                "Front/rear Track": "60.6/64.6 in (1,539/1,641 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 4.9,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3373
+               "Unladen Weight": "3373 lbs (1530 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 6.2,
-               "Highway": 13.8,
-               "Combined": 9.4
+               "City": "6.2 mpg US (37.9 L/100Km)",
+               "Highway": "13.8 mpg US (17 L/100Km)",
+               "Combined": "9.4 mpg US (25 L/100Km)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Diablo SV 1996-199905-03-05-28-45.jpg"
 },{
      "model_name": "LAMBORGHINI Diablo SE 30 \"Jota\" 1995",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.7 V12": {
                "Cylinders": "V12",
-               "Displacement": 5707,
+               "Displacement": "5707 cm3",
                "Power": "445 KW @ 7300 RPM\n605 HP @ 7300 RPM\n597 BHP @ 7300 RPM",
                "Fuel System": "Electronic Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 211,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "211 mph (340 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1606,32 +1645,33 @@
                "Tire Size": "235/40 ZR17 - 335/30 ZR18"
           },
           "DIMENSIONS": {
-               "Length": 175.5,
-               "Width": 80.3,
-               "Height": 43.5,
+               "Length": "175.5 in (4458 mm)",
+               "Width": "80.3 in (2040 mm)",
+               "Height": "43.5 in (1105 mm)",
                "Front/rear Track": "60.6/64.6 in (1,539/1,641 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.5,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3197
+               "Unladen Weight": "3197 lbs (1450 kg)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Diablo SE 30 \"Jota\" 199505-03-05-28-46.jpg"
 },{
      "model_name": "LAMBORGHINI Diablo SE 30 1994-1995",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.7L V12 5MT (530 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5707,
+               "Displacement": "5707 cm3",
                "Power": "390 KW @ 7100 RPM\n530 HP @ 7100 RPM\n523 BHP @ 7100 RPM",
                "Torque": "428 lb-ft @ 5900 RPM\n580 Nm @ 5900 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 210,
-               "Acceleration 0-62 Mph (0-100 kph)": 4
+               "Top Speed": "210 mph (338 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1645,37 +1685,38 @@
                "Tire Size": "235/40 ZR17 || 335/30 ZR18"
           },
           "DIMENSIONS": {
-               "Length": 175.5,
-               "Width": 80.3,
-               "Height": 43.5,
+               "Length": "175.5 in (4458 mm)",
+               "Width": "80.3 in (2040 mm)",
+               "Height": "43.5 in (1105 mm)",
                "Front/rear Track": "60.6/64.6 in (1,539/1,641 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 4.9,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3190
+               "Unladen Weight": "3190 lbs (1447 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 19.1,
-               "CO2 Emissions": 455
+               "Combined": "19.1 mpg US (12.3 L/100Km)",
+               "CO2 Emissions": "455 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Diablo SE 30 1994-199505-03-05-28-48.jpg"
 },{
      "model_name": "LAMBORGHINI Diablo VT 1993-1999",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.7L V12 5MT (530 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5707,
+               "Displacement": "5707 cm3",
                "Power": "390 KW @ 7100 RPM\n530 HP @ 7100 RPM\n523 BHP @ 7100 RPM",
                "Torque": "446 lb-ft @ 5500 RPM\n605 Nm @ 5500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 208,
-               "Acceleration 0-62 Mph (0-100 kph)": 4
+               "Top Speed": "208 mph (335 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1689,40 +1730,41 @@
                "Tire Size": "245/40 ZR17 || 335/35 ZR17"
           },
           "DIMENSIONS": {
-               "Length": 175.5,
-               "Width": 80.3,
-               "Height": 43.5,
+               "Length": "175.5 in (4458 mm)",
+               "Width": "80.3 in (2040 mm)",
+               "Height": "43.5 in (1105 mm)",
                "Front/rear Track": "60.6/64.6 in (1,539/1,641 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 4.9,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3583,
-               "Gross Weight Limit": 4177.7
+               "Unladen Weight": "3583 lbs (1625 kg)",
+               "Gross Weight Limit": "4177.7 lbs (1895 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 6.2,
-               "Highway": 13.6,
-               "Combined": 9.4,
-               "CO2 Emissions": 593
+               "City": "6.2 mpg US (37.9 L/100Km)",
+               "Highway": "13.6 mpg US (17.3 L/100Km)",
+               "Combined": "9.4 mpg US (25 L/100Km)",
+               "CO2 Emissions": "593 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Diablo VT 1993-199905-03-05-28-50.jpg"
 },{
      "model_name": "LAMBORGHINI Diablo 1990-1999",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.7 V12 5MT (492 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5707,
+               "Displacement": "5707 cm3",
                "Power": "362 KW @ 7000 RPM\n492 HP @ 7000 RPM\n485 BHP @ 7000 RPM",
                "Torque": "428 lb-ft @ 5200 RPM\n580 Nm @ 5200 RPM",
                "Fuel System": "Electronic Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.1
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1736,40 +1778,41 @@
                "Tire Size": "245/40 ZR17 || 335/35 ZR17"
           },
           "DIMENSIONS": {
-               "Length": 175.5,
-               "Width": 80.3,
-               "Height": 43.5,
+               "Length": "175.5 in (4458 mm)",
+               "Width": "80.3 in (2040 mm)",
+               "Height": "43.5 in (1105 mm)",
                "Front/rear Track": "60.6/64.6 in (1,539/1,641 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 4.9,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3474,
-               "Gross Weight Limit": 4056.5
+               "Unladen Weight": "3474 lbs (1576 kg)",
+               "Gross Weight Limit": "4056.5 lbs (1840 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 6.2,
-               "Highway": 13.6,
-               "Combined": 9.4,
-               "CO2 Emissions": 593
+               "City": "6.2 mpg US (37.9 L/100Km)",
+               "Highway": "13.6 mpg US (17.3 L/100Km)",
+               "Combined": "9.4 mpg US (25 L/100Km)",
+               "CO2 Emissions": "593 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Diablo 1990-199905-03-05-28-52.jpg"
 },{
      "model_name": "LAMBORGHINI Diablo Roadster 1999-2000",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.7L V12 5MT (530 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5707,
+               "Displacement": "5707 cm3",
                "Power": "390 KW @ 7100 RPM\n530 HP @ 7100 RPM\n523 BHP @ 7100 RPM",
                "Torque": "446 lb-ft @ 5500 RPM\n605 Nm @ 5500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 208,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "208 mph (335 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1783,40 +1826,41 @@
                "Tire Size": "235/35 ZR17 - 335/30 ZR18"
           },
           "DIMENSIONS": {
-               "Length": 175.5,
-               "Width": 80.3,
-               "Height": 43.5,
+               "Length": "175.5 in (4458 mm)",
+               "Width": "80.3 in (2040 mm)",
+               "Height": "43.5 in (1105 mm)",
                "Front/rear Track": "60.6/64.6 in (1,539/1,641 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 4.9,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3583,
-               "Gross Weight Limit": 4177.7
+               "Unladen Weight": "3583 lbs (1625 kg)",
+               "Gross Weight Limit": "4177.7 lbs (1895 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 6.2,
-               "Highway": 13.6,
-               "Combined": 9.4,
-               "CO2 Emissions": 595
+               "City": "6.2 mpg US (37.9 L/100Km)",
+               "Highway": "13.6 mpg US (17.3 L/100Km)",
+               "Combined": "9.4 mpg US (25 L/100Km)",
+               "CO2 Emissions": "595 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Diablo Roadster 1999-200005-03-05-28-54.jpg"
 },{
      "model_name": "LAMBORGHINI Diablo Roadster 1996-1999",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.7 V12 5MT (492 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5707,
+               "Displacement": "5707 cm3",
                "Power": "362 KW @ 7000 RPM\n492 HP @ 7000 RPM\n485 BHP @ 7000 RPM",
                "Torque": "428 lb-ft @ 5200 RPM\n580 Nm @ 5200 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 206,
-               "Acceleration 0-62 Mph (0-100 kph)": 4
+               "Top Speed": "206 mph (332 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1830,38 +1874,39 @@
                "Tire Size": "235/35 ZR17 || 335/30 ZR18"
           },
           "DIMENSIONS": {
-               "Length": 175.5,
-               "Width": 80.3,
-               "Height": 43.5,
+               "Length": "175.5 in (4458 mm)",
+               "Width": "80.3 in (2040 mm)",
+               "Height": "43.5 in (1105 mm)",
                "Front/rear Track": "60.6/64.6 in (1,539/1,641 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 4.9,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3583,
-               "Gross Weight Limit": 4177.7
+               "Unladen Weight": "3583 lbs (1625 kg)",
+               "Gross Weight Limit": "4177.7 lbs (1895 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9,
-               "Highway": 14,
-               "Combined": 11
+               "City": "9 mpg US (26.1 L/100Km)",
+               "Highway": "14 mpg US (16.8 L/100Km)",
+               "Combined": "11 mpg US (21.4 L/100Km)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Diablo Roadster 1996-199905-03-05-28-56.jpg"
 },{
      "model_name": "LAMBORGHINI Espada 1968-1976",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.9L V12 S1 5MT RWD (325 HP)": {
                "Cylinders": "V12",
-               "Displacement": 3929,
+               "Displacement": "3929 cm3",
                "Power": "239 KW @ 6500 RPM\n325 HP @ 6500 RPM\n321 BHP @ 6500 RPM",
                "Torque": "276 lb-ft @ 4500 RPM\n374 Nm @ 4500 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 150
+               "Top Speed": "150 mph (241 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1875,31 +1920,32 @@
                "Tire Size": "205 X 15"
           },
           "DIMENSIONS": {
-               "Length": 184,
-               "Width": 71.7,
-               "Height": 46.9,
+               "Length": "184 in (4674 mm)",
+               "Width": "71.7 in (1821 mm)",
+               "Height": "46.9 in (1191 mm)",
                "Front/rear Track": "58.6/58.6 in (1,488/1,488 mm)",
-               "Wheelbase": 104.3,
-               "Ground Clearance": 4.9
+               "Wheelbase": "104.3 in (2649 mm)",
+               "Ground Clearance": "4.9 in (124 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3263
+               "Unladen Weight": "3263 lbs (1480 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/LAMBORGHINI Espada 1968-197605-03-05-28-58.jpg"
 },{
      "model_name": "2013 Lamborghini Gallardo LP570-4 Squadra Corse",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V10 6AT (570 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "419.2 KW @ 8000 RPM\n570 HP @ 8000 RPM\n562 BHP @ 8000 RPM",
                "Torque": "398 lb-ft @ 6500 RPM\n540 Nm @ 6500 RPM",
                "Fuel System": "Direct Injection"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 201,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "201 mph (323 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1913,30 +1959,31 @@
                "Tire Size": "235/35 Z R19 // 295/30 Z R19"
           },
           "DIMENSIONS": {
-               "Length": 172.7,
-               "Width": 74.8,
-               "Height": 46.6,
+               "Length": "172.7 in (4387 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "46.6 in (1184 mm)",
                "Front/rear Track": "64.3/62.9 in (1,633/1,598 mm)",
-               "Wheelbase": 100.8
+               "Wheelbase": "100.8 in (2560 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "CO2 Emissions": 327
+               "CO2 Emissions": "327 g/km"
           }
-     }
+     },
+     "img": "images/2013 Lamborghini Gallardo LP570-4 Squadra Corse05-03-05-29-00.jpg"
 },{
      "model_name": "LAMBORGHINI Gallardo LP 560-4 (2) 2012-2013",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2 V10 (560 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "412 KW @ 8000 RPM\n560 HP @ 8000 RPM\n553 BHP @ 8000 RPM",
                "Torque": "398 lb-ft @ 6500 RPM\n540 Nm @ 6500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1950,37 +1997,38 @@
                "Tire Size": "235/35 ZR 19 \u2013 295/30 ZR 19"
           },
           "DIMENSIONS": {
-               "Length": 170.3,
-               "Width": 74.8,
-               "Height": 45.9,
+               "Length": "170.3 in (4326 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "64.3/62.9 in (1,633/1,598 mm)",
-               "Wheelbase": 100.8,
-               "Cargo Volume": 3.9
+               "Wheelbase": "100.8 in (2560 mm)",
+               "Cargo Volume": "3.9 cuFT (110 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3307
+               "Unladen Weight": "3307 lbs (1500 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 11.2,
-               "Highway": 23.5,
-               "Combined": 16.8,
-               "CO2 Emissions": 327
+               "City": "11.2 mpg US (21 L/100Km)",
+               "Highway": "23.5 mpg US (10 L/100Km)",
+               "Combined": "16.8 mpg US (14 L/100Km)",
+               "CO2 Emissions": "327 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Gallardo LP 560-4 (2) 2012-201305-03-05-29-01.jpg"
 },{
      "model_name": "LAMBORGHINI Gallardo LP 570-4 Edizione Tecnica 2012-2013",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2 V10 (570 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "419 KW @ 8000 RPM\n570 HP @ 8000 RPM\n562 BHP @ 8000 RPM",
                "Torque": "398 lb-ft @ 6500 RPM\n540 Nm @ 6500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1994,36 +2042,37 @@
                "Tire Size": "Front: 235/35 ZR 19; Rear:295/30 ZR 19"
           },
           "DIMENSIONS": {
-               "Length": 172.7,
-               "Width": 74.8,
-               "Height": 45.9,
+               "Length": "172.7 in (4387 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "64.3/62.9 in (1,633/1,598 mm)",
-               "Wheelbase": 100.8
+               "Wheelbase": "100.8 in (2560 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2954
+               "Unladen Weight": "2954 lbs (1340 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 11.5,
-               "Highway": 25,
-               "Combined": 17.4,
-               "CO2 Emissions": 319
+               "City": "11.5 mpg US (20.5 L/100Km)",
+               "Highway": "25 mpg US (9.4 L/100Km)",
+               "Combined": "17.4 mpg US (13.5 L/100Km)",
+               "CO2 Emissions": "319 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Gallardo LP 570-4 Edizione Tecnica 2012-201305-03-05-29-03.jpg"
 },{
      "model_name": "2011 Gallardo LP 570-4 Super Trofeo Stradale",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2 V10 (570 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "419 KW @ 8000 RPM\n570 HP @ 8000 RPM\n562 BHP @ 8000 RPM",
                "Torque": "398 lb-ft @ 6500 RPM\n540 Nm @ 6500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 199,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+               "Top Speed": "199 mph (320 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2033,71 +2082,73 @@
                "Tire Size": "235/35 ZR 19 \u2013 295/30 ZR 19"
           },
           "DIMENSIONS": {
-               "Length": 172.7,
-               "Width": 74.8,
-               "Height": 45.9,
+               "Length": "172.7 in (4387 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "64.3/62.9 in (1,633/1,598 mm)",
-               "Wheelbase": 100.8
+               "Wheelbase": "100.8 in (2560 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2954
+               "Unladen Weight": "2954 lbs (1340 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 11.5,
-               "Highway": 25,
-               "Combined": 17.4,
-               "CO2 Emissions": 319
+               "City": "11.5 mpg US (20.5 L/100Km)",
+               "Highway": "25 mpg US (9.4 L/100Km)",
+               "Combined": "17.4 mpg US (13.5 L/100Km)",
+               "CO2 Emissions": "319 g/km"
           }
-     }
+     },
+     "img": "images/2011 Gallardo LP 570-4 Super Trofeo Stradale05-03-05-29-05.jpg"
 },{
      "model_name": "LAMBORGHINI Gallardo LP 570-4 Superleggera 2010-2013",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2 V10 (570 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "419 KW @ 8000 RPM\n570 HP @ 8000 RPM\n562 BHP @ 8000 RPM",
                "Torque": "398 lb-ft @ 6500 RPM\n540 Nm @ 6500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
                "Gearbox": "6 speed automatic"
           },
           "DIMENSIONS": {
-               "Length": 172.7,
-               "Width": 74.8,
-               "Height": 45.9,
-               "Wheelbase": 100.8
+               "Length": "172.7 in (4387 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "45.9 in (1166 mm)",
+               "Wheelbase": "100.8 in (2560 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2954
+               "Unladen Weight": "2954 lbs (1340 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 11.5,
-               "Highway": 25,
-               "Combined": 17.4,
-               "CO2 Emissions": 319
+               "City": "11.5 mpg US (20.5 L/100Km)",
+               "Highway": "25 mpg US (9.4 L/100Km)",
+               "Combined": "17.4 mpg US (13.5 L/100Km)",
+               "CO2 Emissions": "319 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Gallardo LP 570-4 Superleggera 2010-201305-03-05-29-06.jpg"
 },{
      "model_name": "LAMBORGHINI Gallardo LP 550-2 Valentino Balboni 2009-2013",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2 V10 6AT (550 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "410 KW @ 8000 RPM\n550 HP @ 8000 RPM\n550 BHP @ 8000 RPM",
                "Torque": "398 lb-ft @ 6500 RPM\n540 Nm @ 6500 RPM",
                "Fuel System": "Direct injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 199,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "199 mph (320 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2111,42 +2162,43 @@
                "Tire Size": "235/35 ZR 19 || 295/30 ZR 19"
           },
           "DIMENSIONS": {
-               "Length": 171.1,
-               "Width": 74.8,
-               "Height": 45.9,
+               "Length": "171.1 in (4346 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "64.3/62.9 in (1,633/1,598 mm)",
-               "Wheelbase": 100.8,
-               "Ground Clearance": 5,
-               "Cargo Volume": 3.9,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "100.8 in (2560 mm)",
+               "Ground Clearance": "5 in (127 mm)",
+               "Cargo Volume": "3.9 cuFT (110 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3042,
-               "Gross Weight Limit": 3638
+               "Unladen Weight": "3042 lbs (1380 kg)",
+               "Gross Weight Limit": "3638 lbs (1650 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 11.7,
-               "Highway": 25.6,
-               "Combined": 17.7,
-               "CO2 Emissions": 315
+               "City": "11.7 mpg US (20.1 L/100Km)",
+               "Highway": "25.6 mpg US (9.2 L/100Km)",
+               "Combined": "17.7 mpg US (13.3 L/100Km)",
+               "CO2 Emissions": "315 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/LAMBORGHINI Gallardo LP 550-2 Valentino Balboni 2009-201305-03-05-29-08.jpg"
 },{
      "model_name": "LAMBORGHINI Gallardo LP 560-4 2008-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V10 6MT AWD (552 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "406 KW @ 8000 RPM\n552 HP @ 8000 RPM\n544 BHP @ 8000 RPM",
                "Torque": "398 lb-ft @ 6500 RPM\n540 Nm @ 6500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 23.8
+               "Fuel capacity": "23.8 gallons (90.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 202,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.7
+               "Top Speed": "202 mph (325 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2160,39 +2212,40 @@
                "Tire Size": "235/35 ZR 19 // 295/30 ZR 19"
           },
           "DIMENSIONS": {
-               "Length": 171.1,
-               "Width": 74.8,
-               "Height": 45.9,
+               "Length": "171.1 in (4346 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "64.3/62.9 in (1,633/1,598 mm)",
-               "Wheelbase": 100.8,
-               "Ground Clearance": 5,
-               "Cargo Volume": 3.9
+               "Wheelbase": "100.8 in (2560 mm)",
+               "Ground Clearance": "5 in (127 mm)",
+               "Cargo Volume": "3.9 cuFT (110 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3307,
-               "Gross Weight Limit": 3968
+               "Unladen Weight": "3307 lbs (1500 kg)",
+               "Gross Weight Limit": "3968 lbs (1800 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 10.6,
-               "Highway": 23.5,
-               "Combined": 16,
-               "CO2 Emissions": 350
+               "City": "10.6 mpg US (22.2 L/100Km)",
+               "Highway": "23.5 mpg US (10 L/100Km)",
+               "Combined": "16 mpg US (14.7 L/100Km)",
+               "CO2 Emissions": "350 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Gallardo LP 560-4 2008-201205-03-05-29-10.jpg"
 },{
      "model_name": "LAMBORGHINI Gallardo Superleggera 2007-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.0 V10 (530 HP)": {
                "Cylinders": "V10",
-               "Displacement": 4961,
+               "Displacement": "4961 cm3",
                "Power": "390 KW @ 8000 RPM\n530 HP @ 8000 RPM\n523 BHP @ 8000 RPM",
                "Torque": "376 lb-ft @ 4250 RPM\n510 Nm @ 4250 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 196,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+               "Top Speed": "196 mph (315 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2206,38 +2259,39 @@
                "Tire Size": "235/35 ZR19 (Front) - 295/30 ZR19 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": 169.3,
-               "Width": 74.8,
-               "Height": 45.9,
+               "Length": "169.3 in (4300 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "63.9/62.7 in (1,623/1,593 mm)",
-               "Wheelbase": 100.8,
-               "Ground Clearance": 5.1
+               "Wheelbase": "100.8 in (2560 mm)",
+               "Ground Clearance": "5.1 in (130 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2932,
-               "Gross Weight Limit": 3748
+               "Unladen Weight": "2932 lbs (1330 kg)",
+               "Gross Weight Limit": "3748 lbs (1700 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 19,
-               "Combined": 12.6,
-               "CO2 Emissions": 400
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "19 mpg US (12.4 L/100Km)",
+               "Combined": "12.6 mpg US (18.7 L/100Km)",
+               "CO2 Emissions": "400 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Gallardo Superleggera 2007-200805-03-05-29-12.jpg"
 },{
      "model_name": "LAMBORGHINI Gallardo SE 2005-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.0L V10 6MT AWD (520 HP)": {
                "Cylinders": "V10",
-               "Displacement": 4961,
+               "Displacement": "4961 cm3",
                "Power": "382 KW @ 8000 RPM\n520 HP @ 8000 RPM\n512 BHP @ 8000 RPM",
                "Torque": "376 lb-ft @ 4250 RPM\n510 Nm @ 4250 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 196,
-               "Acceleration 0-62 Mph (0-100 kph)": 4
+               "Top Speed": "196 mph (315 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2251,41 +2305,42 @@
                "Tire Size": "235/35 ZR19 ///295/30 ZR19"
           },
           "DIMENSIONS": {
-               "Length": 169.3,
-               "Width": 74.8,
-               "Height": 45.9,
+               "Length": "169.3 in (4300 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "63.9/62.7 in (1,623/1,593 mm)",
-               "Wheelbase": 100.8,
-               "Ground Clearance": 5,
-               "Cargo Volume": 3.9,
-               "Aerodynamics (Cd)": 0.37
+               "Wheelbase": "100.8 in (2560 mm)",
+               "Ground Clearance": "5 in (127 mm)",
+               "Cargo Volume": "3.9 cuFT (110 L)",
+               "Aerodynamics (Cd)": "0.37"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3153,
-               "Gross Weight Limit": 3968
+               "Unladen Weight": "3153 lbs (1430 kg)",
+               "Gross Weight Limit": "3968 lbs (1800 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 19,
-               "Combined": 12.6,
-               "CO2 Emissions": 404
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "19 mpg US (12.4 L/100Km)",
+               "Combined": "12.6 mpg US (18.7 L/100Km)",
+               "CO2 Emissions": "404 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Gallardo SE 2005-200605-03-05-29-14.jpg"
 },{
      "model_name": "LAMBORGHINI Gallardo 2003-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.0L V10 6MT AWD (500 HP)": {
                "Cylinders": "V10",
-               "Displacement": 4961,
+               "Displacement": "4961 cm3",
                "Power": "367 KW @ 7800 RPM\n499 HP @ 7800 RPM\n492 BHP @ 7800 RPM",
                "Torque": "376 lb-ft @ 4500 RPM\n510 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 23.8
+               "Fuel capacity": "23.8 gallons (90.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 192,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+               "Top Speed": "192 mph (309 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2299,40 +2354,41 @@
                "Tire Size": "235/35 ZR19 // 295/30 ZR19"
           },
           "DIMENSIONS": {
-               "Length": 169.3,
-               "Width": 74.8,
-               "Height": 45.9,
+               "Length": "169.3 in (4300 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "45.9 in (1166 mm)",
                "Front/rear Track": "63.9/62.7 in (1,623/1,593 mm)",
-               "Wheelbase": 100.8,
-               "Ground Clearance": 4.5,
-               "Cargo Volume": 3.9
+               "Wheelbase": "100.8 in (2560 mm)",
+               "Ground Clearance": "4.5 in (114 mm)",
+               "Cargo Volume": "3.9 cuFT (110 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3153,
-               "Gross Weight Limit": 3968
+               "Unladen Weight": "3153 lbs (1430 kg)",
+               "Gross Weight Limit": "3968 lbs (1800 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 19,
-               "Combined": 12.6,
-               "CO2 Emissions": 466
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "19 mpg US (12.4 L/100Km)",
+               "Combined": "12.6 mpg US (18.7 L/100Km)",
+               "CO2 Emissions": "466 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/LAMBORGHINI Gallardo 2003-200805-03-05-29-16.jpg"
 },{
      "model_name": "LAMBORGHINI Gallardo LP 550-2 Spyder 2012-2013",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2 V10 (550 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "405 KW @ 8000 RPM\n550 HP @ 8000 RPM\n543 BHP @ 8000 RPM",
                "Torque": "398 lb-ft @ 6500 RPM\n540 Nm @ 6500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 198,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+               "Top Speed": "198 mph (319 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2346,36 +2402,37 @@
                "Tire Size": "Front: 235/35 ZR 19; Rear: 295/30 ZR 19"
           },
           "DIMENSIONS": {
-               "Length": 171.1,
-               "Width": 74.8,
-               "Height": 46.6,
+               "Length": "171.1 in (4346 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "46.6 in (1184 mm)",
                "Front/rear Track": "64.3/62.9 in (1,633/1,598 mm)",
-               "Wheelbase": 100.8
+               "Wheelbase": "100.8 in (2560 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3351
+               "Unladen Weight": "3351 lbs (1520 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 11.3,
-               "Highway": 24.2,
-               "Combined": 17.7,
-               "CO2 Emissions": 330
+               "City": "11.3 mpg US (20.8 L/100Km)",
+               "Highway": "24.2 mpg US (9.7 L/100Km)",
+               "Combined": "17.7 mpg US (13.3 L/100Km)",
+               "CO2 Emissions": "330 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Gallardo LP 550-2 Spyder 2012-201305-03-05-29-18.jpg"
 },{
      "model_name": "2010 Lamborghini Gallardo LP 579-4 Spyder Performante",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2 V10 6AT (570 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "419 KW @ 8000 RPM\n570 HP @ 8000 RPM\n562 BHP @ 8000 RPM",
                "Torque": "398 lb-ft @ 6500 RPM\n540 Nm @ 6500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 201,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "201 mph (323 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2389,39 +2446,40 @@
                "Tire Size": "235/35 R19 || 295/30 R19"
           },
           "DIMENSIONS": {
-               "Length": 172.7,
-               "Width": 74.8,
-               "Height": 46.6,
+               "Length": "172.7 in (4387 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "46.6 in (1184 mm)",
                "Front/rear Track": "64.3/62.9 in (1,633/1,598 mm)",
-               "Wheelbase": 100.8,
-               "Ground Clearance": 5.1,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "100.8 in (2560 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3274
+               "Unladen Weight": "3274 lbs (1485 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 11.5,
-               "Highway": 24.5,
-               "Combined": 17.3,
-               "CO2 Emissions": 327
+               "City": "11.5 mpg US (20.5 L/100Km)",
+               "Highway": "24.5 mpg US (9.6 L/100Km)",
+               "Combined": "17.3 mpg US (13.6 L/100Km)",
+               "CO2 Emissions": "327 g/km"
           }
-     }
+     },
+     "img": "images/2010 Lamborghini Gallardo LP 579-4 Spyder Performante05-03-05-29-19.jpg"
 },{
      "model_name": "LAMBORGHINI Gallardo 560-4 Spyder 2008-2013",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V10 6AT (560 HP)": {
                "Cylinders": "V10",
-               "Displacement": 5204,
+               "Displacement": "5204 cm3",
                "Power": "417.6 KW @ 8000 RPM\n568 HP @ 8000 RPM\n560 BHP @ 8000 RPM",
                "Torque": "398 lb-ft @ 6500 RPM\n540 Nm @ 6500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21.1
+               "Fuel capacity": "21.1 gallons (79.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 201,
-               "Acceleration 0-62 Mph (0-100 kph)": 4
+               "Top Speed": "201 mph (323 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2435,41 +2493,42 @@
                "Tire Size": "235/35 ZR19 // 295/30 ZR19"
           },
           "DIMENSIONS": {
-               "Length": 171,
-               "Width": 74.8,
-               "Height": 46.6,
+               "Length": "171 in (4343 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "46.6 in (1184 mm)",
                "Front/rear Track": "64.3/62.9 in (1,633/1,598 mm)",
-               "Wheelbase": 100.7,
-               "Ground Clearance": 5,
-               "Cargo Volume": 3.9,
-               "Aerodynamics (Cd)": 0.36
+               "Wheelbase": "100.7 in (2558 mm)",
+               "Ground Clearance": "5 in (127 mm)",
+               "Cargo Volume": "3.9 cuFT (110 L)",
+               "Aerodynamics (Cd)": "0.36"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3417,
-               "Gross Weight Limit": 3968
+               "Unladen Weight": "3417 lbs (1550 kg)",
+               "Gross Weight Limit": "3968 lbs (1800 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 11.3,
-               "Highway": 24.2,
-               "Combined": 17,
-               "CO2 Emissions": 330
+               "City": "11.3 mpg US (20.8 L/100Km)",
+               "Highway": "24.2 mpg US (9.7 L/100Km)",
+               "Combined": "17 mpg US (13.8 L/100Km)",
+               "CO2 Emissions": "330 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/LAMBORGHINI Gallardo 560-4 Spyder 2008-201305-03-05-29-21.jpg"
 },{
      "model_name": "LAMBORGHINI Gallardo Spyder 2006-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.0L V10 6MT AWD (520 HP)": {
                "Cylinders": "V10",
-               "Displacement": 4961,
+               "Displacement": "4961 cm3",
                "Power": "388 KW @ 8000 RPM\n520 HP @ 8000 RPM\n520 BHP @ 8000 RPM",
                "Torque": "376 lb-ft @ 4250 RPM\n510 Nm @ 4250 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 195,
-               "Acceleration 0-62 Mph (0-100 kph)": 4
+               "Top Speed": "195 mph (314 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2483,41 +2542,42 @@
                "Tire Size": "235/35 ZR19 // 295/30 ZR19"
           },
           "DIMENSIONS": {
-               "Length": 169.3,
-               "Width": 74.8,
-               "Height": 46.6,
+               "Length": "169.3 in (4300 mm)",
+               "Width": "74.8 in (1900 mm)",
+               "Height": "46.6 in (1184 mm)",
                "Front/rear Track": "63.9/62.7 in (1,623/1,593 mm)",
-               "Wheelbase": 100.8,
-               "Ground Clearance": 4.8,
-               "Cargo Volume": 3.9,
-               "Aerodynamics (Cd)": 0.37
+               "Wheelbase": "100.8 in (2560 mm)",
+               "Ground Clearance": "4.8 in (122 mm)",
+               "Cargo Volume": "3.9 cuFT (110 L)",
+               "Aerodynamics (Cd)": "0.37"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3461,
-               "Gross Weight Limit": 3968.3
+               "Unladen Weight": "3461 lbs (1570 kg)",
+               "Gross Weight Limit": "3968.3 lbs (1800 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 19,
-               "Combined": 13.8,
-               "CO2 Emissions": 400
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "19 mpg US (12.4 L/100Km)",
+               "Combined": "13.8 mpg US (17 L/100Km)",
+               "CO2 Emissions": "400 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Gallardo Spyder 2006-200805-03-05-29-23.jpg"
 },{
      "model_name": "LAMBORGHINI Islero 1968-1969",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.9L V12 5MT (325 HP)": {
                "Cylinders": "V12",
-               "Displacement": 3929,
+               "Displacement": "3929 cm3",
                "Power": "239 KW @ 6500 RPM\n325 HP @ 6500 RPM\n321 BHP @ 6500 RPM",
                "Torque": "277 lb-ft @ 4500 RPM\n375 Nm @ 4500 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21.1
+               "Fuel capacity": "21.1 gallons (79.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 154,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+               "Top Speed": "154 mph (248 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2528,32 +2588,33 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 178.1,
-               "Width": 68.1,
-               "Height": 50,
+               "Length": "178.1 in (4524 mm)",
+               "Width": "68.1 in (1730 mm)",
+               "Height": "50 in (1270 mm)",
                "Front/rear Track": "54.3/54.3 in (1,379/1,379 mm)",
-               "Wheelbase": 100.3,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "100.3 in (2548 mm)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2795
+               "Unladen Weight": "2795 lbs (1268 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/LAMBORGHINI Islero 1968-196905-03-05-29-26.jpg"
 },{
      "model_name": "LAMBORGHINI Jalpa 350S 1981-1988",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5 V8": {
                "Cylinders": "V8",
-               "Displacement": 3485,
+               "Displacement": "3485 cm3",
                "Power": "190 KW @ 7000 RPM\n258 HP @ 7000 RPM\n255 BHP @ 7000 RPM",
                "Torque": "236 lb-ft @ 3250 RPM\n320 Nm @ 3250 RPM",
                "Fuel System": "Electronic Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 7
+               "Top Speed": "155.3 mph (250 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2567,28 +2628,29 @@
                "Tire Size": "205/55 VR16 - 225/50 VR16 (front/rear)"
           },
           "DIMENSIONS": {
-               "Length": 170.5,
-               "Width": 74,
-               "Height": 45,
+               "Length": "170.5 in (4331 mm)",
+               "Width": "74 in (1880 mm)",
+               "Height": "45 in (1143 mm)",
                "Front/rear Track": "59.1/61.2 in (1,501/1,554 mm)",
-               "Wheelbase": 96.5
+               "Wheelbase": "96.5 in (2451 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3326
+               "Unladen Weight": "3326 lbs (1509 kg)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Jalpa 350S 1981-198805-03-05-29-27.jpg"
 },{
      "model_name": "LAMBORGHINI Jarama Rallye 1972",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.0 V12": {
                "Cylinders": "V12",
-               "Displacement": 3929,
+               "Displacement": "3929 cm3",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 170,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+               "Top Speed": "170 mph (274 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2602,30 +2664,31 @@
                "Tire Size": "215/70 VR15"
           },
           "DIMENSIONS": {
-               "Length": 176.5,
-               "Width": 71.6,
-               "Height": 46.8,
+               "Length": "176.5 in (4483 mm)",
+               "Width": "71.6 in (1819 mm)",
+               "Height": "46.8 in (1189 mm)",
                "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
-               "Wheelbase": 93.5
+               "Wheelbase": "93.5 in (2375 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2579
+               "Unladen Weight": "2579 lbs (1170 kg)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Jarama Rallye 197205-03-05-29-29.jpg"
 },{
      "model_name": "LAMBORGHINI Jarama 1970-1976",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 400 V12 5MT RWD (351 HP)": {
                "Cylinders": "V12",
-               "Displacement": 3929,
+               "Displacement": "3929 cm3",
                "Power": "258 KW @ 7500 RPM\n351 HP @ 7500 RPM\n346 BHP @ 7500 RPM",
                "Torque": "295 lb-ft @ 5500 RPM\n400 Nm @ 5500 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 162,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.2
+               "Top Speed": "162 mph (261 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2639,32 +2702,33 @@
                "Tire Size": "215/70 VR15"
           },
           "DIMENSIONS": {
-               "Length": 176.5,
-               "Width": 71.6,
-               "Height": 46.8,
+               "Length": "176.5 in (4483 mm)",
+               "Width": "71.6 in (1819 mm)",
+               "Height": "46.8 in (1189 mm)",
                "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
-               "Wheelbase": 93.5,
-               "Ground Clearance": 4.9
+               "Wheelbase": "93.5 in (2375 mm)",
+               "Ground Clearance": "4.9 in (124 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2954
+               "Unladen Weight": "2954 lbs (1340 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/LAMBORGHINI Jarama 1970-197605-03-05-29-36.jpg"
 },{
      "model_name": "LAMBORGHINI LM 002 1986-1993",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2L V12 5MT (450 HP": {
                "Cylinders": "V12",
-               "Displacement": 5167,
+               "Displacement": "5167 cm3",
                "Power": "331 KW @ 6800 RPM\n450 HP @ 6800 RPM\n444 BHP @ 6800 RPM",
                "Torque": "369 lb-ft @ 4500 RPM\n500 Nm @ 4500 RPM",
                "Fuel System": "Electronic Fuel Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 131,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.7
+               "Top Speed": "131 mph (211 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2678,31 +2742,32 @@
                "Tire Size": "325/65 VR17"
           },
           "DIMENSIONS": {
-               "Length": 192.9,
-               "Width": 78.7,
-               "Height": 72.8,
+               "Length": "192.9 in (4900 mm)",
+               "Width": "78.7 in (1999 mm)",
+               "Height": "72.8 in (1849 mm)",
                "Front/rear Track": "63.6/63.6 in (1,615/1,615 mm)",
-               "Wheelbase": 118.1,
-               "Ground Clearance": 11.6
+               "Wheelbase": "118.1 in (3000 mm)",
+               "Ground Clearance": "11.6 in (295 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 5952
+               "Unladen Weight": "5952 lbs (2700 kg)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI LM 002 1986-199305-03-05-29-38.jpg"
 },{
      "model_name": "LAMBORGHINI Miura SV/J 1971-1987",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.9L V12 5MT (415 HP)": {
                "Cylinders": "V12",
-               "Displacement": 3929,
+               "Displacement": "3929 cm3",
                "Power": "305 KW @ 7900 RPM\n415 HP @ 7900 RPM\n409 BHP @ 7900 RPM",
                "Torque": "310 lb-ft @ 5700 RPM\n420 Nm @ 5700 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 180,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+               "Top Speed": "180 mph (290 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2713,27 +2778,28 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": 171.7,
-               "Width": 69.3,
-               "Height": 42,
+               "Length": "171.7 in (4361 mm)",
+               "Width": "69.3 in (1760 mm)",
+               "Height": "42 in (1067 mm)",
                "Front/rear Track": "55.6/55.6 in (1,412/1,412 mm)",
-               "Wheelbase": 98.4
+               "Wheelbase": "98.4 in (2499 mm)"
           }
-     }
+     },
+     "img": {}
 },{
      "model_name": "LAMBORGHINI Miura Roadster 1968",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - P400 V12 5MT (350 HP)": {
                "Cylinders": "V12",
-               "Displacement": 3929,
+               "Displacement": "3929 cm3",
                "Power": "258 KW @ 7000 RPM\n350 HP @ 7000 RPM\n346 BHP @ 7000 RPM",
                "Torque": "271 lb-ft @ 5100 RPM\n367 Nm @ 5100 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 161,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.1
+               "Top Speed": "161 mph (259 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2744,27 +2810,28 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": 171.7,
-               "Width": 69.3,
-               "Height": 42,
+               "Length": "171.7 in (4361 mm)",
+               "Width": "69.3 in (1760 mm)",
+               "Height": "42 in (1067 mm)",
                "Front/rear Track": "55.6/55.6 in (1,412/1,412 mm)",
-               "Wheelbase": 98.4
+               "Wheelbase": "98.4 in (2499 mm)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Miura Roadster 196805-03-05-29-41.jpg"
 },{
      "model_name": "LAMBORGHINI Miura 1966-1973",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - P400 S V12 5MT RWD (370 HP)": {
                "Cylinders": "V12",
-               "Displacement": 3929,
+               "Displacement": "3929 cm3",
                "Power": "272 KW @ 7700 RPM\n370 HP @ 7700 RPM\n365 BHP @ 7700 RPM",
                "Torque": "286 lb-ft @ 5500 RPM\n388 Nm @ 5500 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 175,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.8
+               "Top Speed": "175 mph (282 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2775,31 +2842,32 @@
                "Rear": "Ventilated Discs"
           },
           "DIMENSIONS": {
-               "Length": 171.7,
-               "Width": 69.3,
-               "Height": 42,
+               "Length": "171.7 in (4361 mm)",
+               "Width": "69.3 in (1760 mm)",
+               "Height": "42 in (1067 mm)",
                "Front/rear Track": "55.6/55.6 in (1,412/1,412 mm)",
-               "Wheelbase": 98.4
+               "Wheelbase": "98.4 in (2499 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2862
+               "Unladen Weight": "2862 lbs (1298 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/LAMBORGHINI Miura 1966-197305-03-05-29-43.jpg"
 },{
      "model_name": "2009 Lamborghini Murcielago LP 670-4 SV",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5 V12 6MT (670 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6496,
+               "Displacement": "6496 cm3",
                "Power": "493 KW @ 8000 RPM\n670 HP @ 8000 RPM\n661 BHP @ 8000 RPM",
                "Torque": "487 lb-ft @ 6500 RPM\n660 Nm @ 6500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 212,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.2
+               "Top Speed": "212 mph (341 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2813,40 +2881,41 @@
                "Tire Size": "245/35 ZR 18 || 335/30 ZR 18"
           },
           "DIMENSIONS": {
-               "Length": 185.2,
-               "Width": 81,
-               "Height": 44.7,
+               "Length": "185.2 in (4704 mm)",
+               "Width": "81 in (2057 mm)",
+               "Height": "44.7 in (1135 mm)",
                "Front/rear Track": "64.3/66.7 in (1,633/1,694 mm)",
-               "Wheelbase": 104.9,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 4.9,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "104.9 in (2664 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3671,
-               "Gross Weight Limit": 4189
+               "Unladen Weight": "3671 lbs (1665 kg)",
+               "Gross Weight Limit": "4189 lbs (1900 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9,
-               "Highway": 14,
-               "Combined": 11,
-               "CO2 Emissions": 480
+               "City": "9 mpg US (26.1 L/100Km)",
+               "Highway": "14 mpg US (16.8 L/100Km)",
+               "Combined": "11 mpg US (21.4 L/100Km)",
+               "CO2 Emissions": "480 g/km"
           }
-     }
+     },
+     "img": "images/2009 Lamborghini Murcielago LP 670-4 SV05-03-05-29-45.jpg"
 },{
      "model_name": "LAMBORGHINI Murcielago LP 640 2006-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 6MT AWD (640 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6496,
+               "Displacement": "6496 cm3",
                "Power": "471 KW @ 8000 RPM\n640 HP @ 8000 RPM\n632 BHP @ 8000 RPM",
                "Torque": "487 lb-ft @ 6000 RPM\n660 Nm @ 6000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 205,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+               "Top Speed": "205 mph (330 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2860,40 +2929,41 @@
                "Tire Size": "245/35 ZR18 (Front) - 335/30 ZR18 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": 180.3,
-               "Width": 80.5,
-               "Height": 44.7,
+               "Length": "180.3 in (4580 mm)",
+               "Width": "80.5 in (2045 mm)",
+               "Height": "44.7 in (1135 mm)",
                "Front/rear Track": "64.4/66.7 in (1,636/1,694 mm)",
-               "Wheelbase": 104.9,
-               "Ground Clearance": 5.4,
-               "Cargo Volume": 4.9,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "104.9 in (2664 mm)",
+               "Ground Clearance": "5.4 in (137 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3638,
-               "Gross Weight Limit": 4409.2
+               "Unladen Weight": "3638 lbs (1650 kg)",
+               "Gross Weight Limit": "4409.2 lbs (2000 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 13,
-               "Highway": 9,
-               "Combined": 10.7,
-               "CO2 Emissions": 495
+               "City": "13 mpg US (18.1 L/100Km)",
+               "Highway": "9 mpg US (26.1 L/100Km)",
+               "Combined": "10.7 mpg US (22 L/100Km)",
+               "CO2 Emissions": "495 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Murcielago LP 640 2006-201005-03-05-29-47.jpg"
 },{
      "model_name": "LAMBORGHINI Murcielago 2001-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.2L V12 6MT AWD (580 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6192,
+               "Displacement": "6192 cm3",
                "Power": "426 KW @ 7500 RPM\n580 HP @ 7500 RPM\n571 BHP @ 7500 RPM",
                "Torque": "479 lb-ft @ 5400 RPM\n650 Nm @ 5400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 205,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+               "Top Speed": "205 mph (330 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2907,40 +2977,41 @@
                "Tire Size": "245/35 ZR18 // 335/30 ZR18"
           },
           "DIMENSIONS": {
-               "Length": 180.3,
-               "Width": 80.5,
-               "Height": 44.7,
+               "Length": "180.3 in (4580 mm)",
+               "Width": "80.5 in (2045 mm)",
+               "Height": "44.7 in (1135 mm)",
                "Front/rear Track": "64.4/66.7 in (1,636/1,694 mm)",
-               "Wheelbase": 104.9,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 4.9,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "104.9 in (2664 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3638,
-               "Gross Weight Limit": 4409
+               "Unladen Weight": "3638 lbs (1650 kg)",
+               "Gross Weight Limit": "4409 lbs (2000 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 13,
-               "Highway": 9,
-               "Combined": 10.7,
-               "CO2 Emissions": 512
+               "City": "13 mpg US (18.1 L/100Km)",
+               "Highway": "9 mpg US (26.1 L/100Km)",
+               "Combined": "10.7 mpg US (22 L/100Km)",
+               "CO2 Emissions": "512 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Murcielago 2001-200605-03-05-29-48.jpg"
 },{
      "model_name": "LAMBORGHINI Murcielago LP 640 Roadster 2007-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5 V12": {
                "Cylinders": "V12",
-               "Displacement": 6496,
+               "Displacement": "6496 cm3",
                "Power": "471 KW @ 8000 RPM\n640 HP @ 8000 RPM\n632 BHP @ 8000 RPM",
                "Torque": "487 lb-ft @ 6000 RPM\n660 Nm @ 6000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 205,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+               "Top Speed": "205 mph (330 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -2954,40 +3025,41 @@
                "Tire Size": "245/35 ZR18 (front) - 335/30 ZR 18 (rear)"
           },
           "DIMENSIONS": {
-               "Length": 180.3,
-               "Width": 80.5,
-               "Height": 41.9,
+               "Length": "180.3 in (4580 mm)",
+               "Width": "80.5 in (2045 mm)",
+               "Height": "41.9 in (1064 mm)",
                "Front/rear Track": "64.4/66.7 in (1,636/1,694 mm)",
-               "Wheelbase": 104.9,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 4.9,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "104.9 in (2664 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3726,
-               "Gross Weight Limit": 4409.2
+               "Unladen Weight": "3726 lbs (1690 kg)",
+               "Gross Weight Limit": "4409.2 lbs (2000 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 7.2,
-               "Highway": 15.6,
-               "Combined": 10.9,
-               "CO2 Emissions": 500
+               "City": "7.2 mpg US (32.7 L/100Km)",
+               "Highway": "15.6 mpg US (15.1 L/100Km)",
+               "Combined": "10.9 mpg US (21.6 L/100Km)",
+               "CO2 Emissions": "500 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Murcielago LP 640 Roadster 2007-201005-03-05-29-50.jpg"
 },{
      "model_name": "LAMBORGHINI Murcielago Roadster 2004-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.2 V12": {
                "Cylinders": "V12",
-               "Displacement": 6192,
+               "Displacement": "6192 cm3",
                "Power": "426 KW @ 7500 RPM\n580 HP @ 7500 RPM\n571 BHP @ 7500 RPM",
                "Torque": "479 lb-ft @ 5400 RPM\n650 Nm @ 5400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 199,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.8
+               "Top Speed": "199 mph (320 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -3001,39 +3073,40 @@
                "Tire Size": "245/35 ZR18 (Front) - 335/30 ZR 18 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": 180.3,
-               "Width": 80.5,
-               "Height": 41.9,
+               "Length": "180.3 in (4580 mm)",
+               "Width": "80.5 in (2045 mm)",
+               "Height": "41.9 in (1064 mm)",
                "Front/rear Track": "64.4/66.7 in (1,636/1,694 mm)",
-               "Wheelbase": 104.9,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 4.9
+               "Wheelbase": "104.9 in (2664 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "4.9 cuFT (139 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3670
+               "Unladen Weight": "3670 lbs (1665 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 7.2,
-               "Highway": 15.6,
-               "Combined": 10.9,
-               "CO2 Emissions": 513
+               "City": "7.2 mpg US (32.7 L/100Km)",
+               "Highway": "15.6 mpg US (15.1 L/100Km)",
+               "Combined": "10.9 mpg US (21.6 L/100Km)",
+               "CO2 Emissions": "513 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Murcielago Roadster 2004-200705-03-05-29-52.jpg"
 },{
      "model_name": "LAMBORGHINI Reventon 2008-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 6MT (650 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6496,
+               "Displacement": "6496 cm3",
                "Power": "478 KW @ 8000 RPM\n650 HP @ 8000 RPM\n641 BHP @ 8000 RPM",
                "Torque": "487 lb-ft @ 6000 RPM\n660 Nm @ 6000 RPM",
                "Fuel System": "Multipoint sequential injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 26.4
+               "Fuel capacity": "26.4 gallons (99.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 211.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.4
+               "Top Speed": "211.3 mph (340 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -3047,40 +3120,41 @@
                "Tire Size": "245/35 ZR 18 || 335/30 ZR 18"
           },
           "DIMENSIONS": {
-               "Length": 185.04,
-               "Width": 81.02,
-               "Height": 44.69,
+               "Length": "185.04 in (4700 mm)",
+               "Width": "81.02 in (2058 mm)",
+               "Height": "44.69 in (1135 mm)",
                "Front/rear Track": "64.3/66.7 in (1,633/1,694 mm)",
-               "Wheelbase": 104.92,
-               "Ground Clearance": 4.5,
-               "Cargo Volume": 3.5,
-               "Aerodynamics (Cd)": 0.27
+               "Wheelbase": "104.92 in (2665 mm)",
+               "Ground Clearance": "4.5 in (114 mm)",
+               "Cargo Volume": "3.5 cuFT (99 L)",
+               "Aerodynamics (Cd)": "0.27"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3671,
-               "Gross Weight Limit": 4332
+               "Unladen Weight": "3671 lbs (1665 kg)",
+               "Gross Weight Limit": "4332 lbs (1965 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 7.3,
-               "Highway": 15.7,
-               "Combined": 11,
-               "CO2 Emissions": 495
+               "City": "7.3 mpg US (32.2 L/100Km)",
+               "Highway": "15.7 mpg US (15 L/100Km)",
+               "Combined": "11 mpg US (21.4 L/100Km)",
+               "CO2 Emissions": "495 g/km"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Reventon 2008-200905-03-05-29-54.jpg"
 },{
      "model_name": "LAMBORGHINI Silhouette P300 1976-1979",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.0 V8": {
                "Cylinders": "V8",
-               "Displacement": 2996,
+               "Displacement": "2996 cm3",
                "Power": "191 KW @ 7500 RPM\n260 HP @ 7500 RPM\n256 BHP @ 7500 RPM",
                "Torque": "203 lb-ft @ 3500 RPM\n275 Nm @ 3500 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 158,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.8
+               "Top Speed": "158 mph (254 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -3094,31 +3168,32 @@
                "Tire Size": "195/60 VR15 (Front) - 285/40 VR15 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": 170.1,
-               "Width": 74,
-               "Height": 44.1,
+               "Length": "170.1 in (4321 mm)",
+               "Width": "74 in (1880 mm)",
+               "Height": "44.1 in (1120 mm)",
                "Front/rear Track": "58.7/61 in (1,491/1,549 mm)",
-               "Wheelbase": 96.5,
-               "Ground Clearance": 5.5
+               "Wheelbase": "96.5 in (2451 mm)",
+               "Ground Clearance": "5.5 in (140 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2866
+               "Unladen Weight": "2866 lbs (1300 kg)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Silhouette P300 1976-197905-03-05-29-56.jpg"
 },{
      "model_name": "LAMBORGHINI Urraco 1972-1979",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - P200 V8 5MT (182 HP)": {
                "Cylinders": "V8",
-               "Displacement": 1994,
+               "Displacement": "1994 cm3",
                "Power": "134 KW @ 7500 RPM\n182 HP @ 7500 RPM\n180 BHP @ 7500 RPM",
                "Torque": "130 lb-ft @ 3800 RPM\n176 Nm @ 3800 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21.1
+               "Fuel capacity": "21.1 gallons (79.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 127
+               "Top Speed": "127 mph (204 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -3132,33 +3207,34 @@
                "Tire Size": "195/70 VR14 (Front) - 205/70 VR14 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": 168.5,
-               "Width": 69.3,
-               "Height": 43.7,
+               "Length": "168.5 in (4280 mm)",
+               "Width": "69.3 in (1760 mm)",
+               "Height": "43.7 in (1110 mm)",
                "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
-               "Wheelbase": 96.5,
-               "Ground Clearance": 4.7
+               "Wheelbase": "96.5 in (2451 mm)",
+               "Ground Clearance": "4.7 in (119 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2756
+               "Unladen Weight": "2756 lbs (1250 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/LAMBORGHINI Urraco 1972-197905-03-05-29-58.jpg"
 },{
      "model_name": "LAMBORGHINI Veneno 2013-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.5L V12 (750 HP)": {
                "Cylinders": "V12",
-               "Displacement": 6498,
+               "Displacement": "6498 cm3",
                "Power": "552 KW @ 8400 RPM\n751 HP @ 8400 RPM\n740 BHP @ 8400 RPM",
                "Torque": "509 lb-ft @ 5500 RPM\n690 Nm @ 5500 RPM",
                "Fuel System": "Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 23.8
+               "Fuel capacity": "23.8 gallons (90.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 221,
-               "Acceleration 0-62 Mph (0-100 kph)": 2.8
+               "Top Speed": "221 mph (356 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "2.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -3172,20 +3248,21 @@
                "Tire Size": "255/30 ZR20 // 355/25 ZR21"
           },
           "DIMENSIONS": {
-               "Length": 197.6,
-               "Width": 81.7,
-               "Height": 45.9,
-               "Wheelbase": 106.3,
-               "Ground Clearance": 4.1
+               "Length": "197.6 in (5019 mm)",
+               "Width": "81.7 in (2075 mm)",
+               "Height": "45.9 in (1166 mm)",
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "4.1 in (104 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3285
+               "Unladen Weight": "3285 lbs (1490 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 22,
-               "Combined": 14.7
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "22 mpg US (10.7 L/100Km)",
+               "Combined": "14.7 mpg US (16 L/100Km)"
           }
-     }
+     },
+     "img": "images/LAMBORGHINI Veneno 2013-201405-03-05-30-00.jpg"
 },	
  ] } 

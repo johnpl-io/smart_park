@@ -2,17 +2,17 @@
 {
      "model_name": "SAAB 9-3 Aero 2014-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 6AT FWD (220 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "162 KW @ 5300 RPM\n220 HP @ 5300 RPM\n217 BHP @ 5300 RPM",
                "Torque": "258 lb-ft @ 2000-4000 RPM\n350 Nm @ 2000-4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 146,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.6
+               "Top Speed": "146 mph (235 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -26,37 +26,38 @@
                "Tire Size": "225/45 R18"
           },
           "DIMENSIONS": {
-               "Length": 183.8,
-               "Width": 80.2,
-               "Height": 57.1,
-               "Wheelbase": 105.3,
-               "Cargo Volume": 16.3
+               "Length": "183.8 in (4669 mm)",
+               "Width": "80.2 in (2037 mm)",
+               "Height": "57.1 in (1450 mm)",
+               "Wheelbase": "105.3 in (2675 mm)",
+               "Cargo Volume": "16.3 cuFT (462 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3571,
-               "Gross Weight Limit": 4409
+               "Unladen Weight": "3571 lbs (1620 kg)",
+               "Gross Weight Limit": "4409 lbs (2000 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18.4,
-               "Highway": 39.2,
-               "Combined": 27.7,
-               "CO2 Emissions": 195
+               "City": "18.4 mpg US (12.8 L/100Km)",
+               "Highway": "39.2 mpg US (6 L/100Km)",
+               "Combined": "27.7 mpg US (8.5 L/100Km)",
+               "CO2 Emissions": "195 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3 Aero 2014-Present05-03-07-07-53.jpg"
 },{
      "model_name": "SAAB 9-2X 2004-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5MT (230 HP)": {
                "Cylinders": "H4",
-               "Displacement": 1994,
+               "Displacement": "1994 cm3",
                "Power": "169.2 KW @ 6000 RPM\n230 HP @ 6000 RPM\n227 BHP @ 6000 RPM",
                "Torque": "217 lb-ft @ 4000 RPM\n294 Nm @ 4000 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 141
+               "Top Speed": "141 mph (227 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -70,41 +71,42 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 175.6,
-               "Width": 66.7,
-               "Height": 57.7,
+               "Length": "175.6 in (4460 mm)",
+               "Width": "66.7 in (1694 mm)",
+               "Height": "57.7 in (1466 mm)",
                "Front/rear Track": "57.7/57.3 in (1,466/1,455 mm)",
-               "Wheelbase": 99.4,
-               "Ground Clearance": 6.1,
-               "Cargo Volume": 27.9,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "99.4 in (2525 mm)",
+               "Ground Clearance": "6.1 in (155 mm)",
+               "Cargo Volume": "27.9 cuFT (790 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3208
+               "Unladen Weight": "3208 lbs (1455 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 26,
-               "Combined": 22,
-               "CO2 Emissions": 254.4
+               "City": "20 mpg US (11.8 L/100Km)",
+               "Highway": "26 mpg US (9 L/100Km)",
+               "Combined": "22 mpg US (10.7 L/100Km)",
+               "CO2 Emissions": "254.4 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-2X 2004-200605-03-07-07-56.jpg"
 },{
      "model_name": "SAAB 9-3 Convertible 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8T 5AT (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1794,
+               "Displacement": "1794 cm3",
                "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "177 lb-ft @ 2000-3500 RPM\n240 Nm @ 2000-3500 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.4
+               "Fuel capacity": "16.4 gallons (62.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+               "Top Speed": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -118,43 +120,44 @@
                "Tire Size": "215/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 183,
-               "Width": 70.1,
-               "Height": 56.6,
+               "Length": "183 in (4648 mm)",
+               "Width": "70.1 in (1781 mm)",
+               "Height": "56.6 in (1438 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 105.3,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 8.3,
-               "Aerodynamics (Cd)": 0.34,
-               "Turning circle": 37.4
+               "Wheelbase": "105.3 in (2675 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "8.3 cuFT (235 L)",
+               "Aerodynamics (Cd)": "0.34",
+               "Turning circle": "37.4 ft (11.4 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3483,
-               "Gross Weight Limit": 4497
+               "Unladen Weight": "3483 lbs (1580 kg)",
+               "Gross Weight Limit": "4497 lbs (2040 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17.6,
-               "Highway": 32.2,
-               "Combined": 24.2,
-               "CO2 Emissions": 233
+               "City": "17.6 mpg US (13.4 L/100Km)",
+               "Highway": "32.2 mpg US (7.3 L/100Km)",
+               "Combined": "24.2 mpg US (9.7 L/100Km)",
+               "CO2 Emissions": "233 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3 Convertible 2009-201205-03-07-08-01.jpg"
 },{
      "model_name": "SAAB 9-3 Convertible 2003-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 5AT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1988,
+               "Displacement": "1988 cm3",
                "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "177 lb-ft @ 2500 RPM\n240 Nm @ 2500 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.4
+               "Fuel capacity": "16.4 gallons (62.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+               "Top Speed": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -168,39 +171,40 @@
                "Tire Size": "215/55R16"
           },
           "DIMENSIONS": {
-               "Length": 182.5,
-               "Width": 69.4,
-               "Height": 56.5,
+               "Length": "182.5 in (4636 mm)",
+               "Width": "69.4 in (1763 mm)",
+               "Height": "56.5 in (1435 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 105.3,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 12.4,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "105.3 in (2675 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "12.4 cuFT (351 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3483,
-               "Gross Weight Limit": 4497
+               "Unladen Weight": "3483 lbs (1580 kg)",
+               "Gross Weight Limit": "4497 lbs (2040 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 24.2,
-               "CO2 Emissions": 233
+               "Combined": "24.2 mpg US (9.7 L/100Km)",
+               "CO2 Emissions": "233 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3 Convertible 2003-200805-03-07-08-04.jpg"
 },{
      "model_name": "2003 Saab 9-3 Convertible",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.8L V6 6AT (250 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2792,
+               "Displacement": "2792 cm3",
                "Power": "184 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
                "Torque": "258 lb-ft @ 2000 RPM\n350 Nm @ 2000 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 149,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.1
+               "Top Speed": "149 mph (240 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -214,39 +218,40 @@
                "Tire Size": "225/45 R17"
           },
           "DIMENSIONS": {
-               "Length": 182.5,
-               "Width": 69.4,
-               "Height": 56.5,
+               "Length": "182.5 in (4636 mm)",
+               "Width": "69.4 in (1763 mm)",
+               "Height": "56.5 in (1435 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 105.3,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 12.4,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "105.3 in (2675 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "12.4 cuFT (351 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3693,
-               "Gross Weight Limit": 4542
+               "Unladen Weight": "3693 lbs (1675 kg)",
+               "Gross Weight Limit": "4542 lbs (2060 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 21.2,
-               "CO2 Emissions": 266
+               "Combined": "21.2 mpg US (11.1 L/100Km)",
+               "CO2 Emissions": "266 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2003 Saab 9-3 Convertible05-03-07-08-06.jpg"
 },{
      "model_name": "SAAB 9-3 Aero Convertible 1999-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L TURBO 4AT (205 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "151 KW @ 5500 RPM\n205 HP @ 5500 RPM\n202 BHP @ 5500 RPM",
                "Torque": "207 lb-ft @ 2200 RPM\n280 Nm @ 2200 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 140,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.1
+               "Top Speed": "140 mph (225 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -260,41 +265,42 @@
                "Tire Size": "205/50 WR16"
           },
           "DIMENSIONS": {
-               "Length": 182.3,
-               "Width": 67.3,
-               "Height": 56.3,
+               "Length": "182.3 in (4630 mm)",
+               "Width": "67.3 in (1709 mm)",
+               "Height": "56.3 in (1430 mm)",
                "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 10.4,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "10.4 cuFT (294 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3164,
-               "Gross Weight Limit": 4101
+               "Unladen Weight": "3164 lbs (1435 kg)",
+               "Gross Weight Limit": "4101 lbs (1860 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.9,
-               "Highway": 33.1,
-               "Combined": 23.5
+               "City": "15.9 mpg US (14.8 L/100Km)",
+               "Highway": "33.1 mpg US (7.1 L/100Km)",
+               "Combined": "23.5 mpg US (10 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3 Aero Convertible 1999-200305-03-07-08-08.jpg"
 },{
      "model_name": "SAAB 9-3 Convertible 1998-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 4AT FWD (130 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "96 KW @ 5500 RPM\n131 HP @ 5500 RPM\n129 BHP @ 5500 RPM",
                "Torque": "130 lb-ft @ 4300 RPM\n176 Nm @ 4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18
+               "Fuel capacity": "18 gallons (68.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 13
+               "Top Speed": "118 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -308,42 +314,43 @@
                "Tire Size": "195/60VR15"
           },
           "DIMENSIONS": {
-               "Length": 182.3,
-               "Width": 67.3,
-               "Height": 56.3,
+               "Length": "182.3 in (4630 mm)",
+               "Width": "67.3 in (1709 mm)",
+               "Height": "56.3 in (1430 mm)",
                "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 10.4,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "10.4 cuFT (294 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3009,
-               "Gross Weight Limit": 3990
+               "Unladen Weight": "3009 lbs (1365 kg)",
+               "Gross Weight Limit": "3990 lbs (1810 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16,
-               "Highway": 31.8,
-               "Combined": 23.3,
-               "CO2 Emissions": 241
+               "City": "16 mpg US (14.7 L/100Km)",
+               "Highway": "31.8 mpg US (7.4 L/100Km)",
+               "Combined": "23.3 mpg US (10.1 L/100Km)",
+               "CO2 Emissions": "241 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3 Convertible 1998-200305-03-07-08-13.jpg"
 },{
      "model_name": "SAAB 9-3 Coupe 1998-2002",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 4AT FWD (130 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "96 KW @ 5500 RPM\n131 HP @ 5500 RPM\n129 BHP @ 5500 RPM",
                "Torque": "131 lb-ft @ 4300 RPM\n177 Nm @ 4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18
+               "Fuel capacity": "18 gallons (68.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 13
+               "Top Speed": "118 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -357,42 +364,43 @@
                "Tire Size": "195/60VR15"
           },
           "DIMENSIONS": {
-               "Length": 182.3,
-               "Width": 67.3,
-               "Height": 56.3,
+               "Length": "182.3 in (4630 mm)",
+               "Width": "67.3 in (1709 mm)",
+               "Height": "56.3 in (1430 mm)",
                "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 17.4,
-               "Aerodynamics (Cd)": 0.29
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "17.4 cuFT (493 L)",
+               "Aerodynamics (Cd)": "0.29"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2866,
-               "Gross Weight Limit": 4079
+               "Unladen Weight": "2866 lbs (1300 kg)",
+               "Gross Weight Limit": "4079 lbs (1850 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16,
-               "Highway": 31.8,
-               "Combined": 23.3,
-               "CO2 Emissions": 241
+               "City": "16 mpg US (14.7 L/100Km)",
+               "Highway": "31.8 mpg US (7.4 L/100Km)",
+               "Combined": "23.3 mpg US (10.1 L/100Km)",
+               "CO2 Emissions": "241 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3 Coupe 1998-200205-03-07-08-17.jpg"
 },{
      "model_name": "SAAB 9-3 Sport Sedan 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8I 5MT (122 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1794,
+               "Displacement": "1794 cm3",
                "Power": "90 KW @ 6000 RPM\n122 HP @ 6000 RPM\n121 BHP @ 6000 RPM",
                "Torque": "123 lb-ft @ 3800 RPM\n167 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.4
+               "Fuel capacity": "16.4 gallons (62.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+               "Top Speed": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -406,42 +414,43 @@
                "Tire Size": "215/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 183,
-               "Width": 80.2,
-               "Height": 58,
+               "Length": "183 in (4648 mm)",
+               "Width": "80.2 in (2037 mm)",
+               "Height": "58 in (1473 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 105.3,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 12.4,
-               "Aerodynamics (Cd)": 0.28,
-               "Turning circle": 37.4
+               "Wheelbase": "105.3 in (2675 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "12.4 cuFT (351 L)",
+               "Aerodynamics (Cd)": "0.28",
+               "Turning circle": "37.4 ft (11.4 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2954,
-               "Gross Weight Limit": 4211
+               "Unladen Weight": "2954 lbs (1340 kg)",
+               "Gross Weight Limit": "4211 lbs (1910 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22.2,
-               "Highway": 39.9,
-               "Combined": 30.5,
-               "CO2 Emissions": 183
+               "City": "22.2 mpg US (10.6 L/100Km)",
+               "Highway": "39.9 mpg US (5.9 L/100Km)",
+               "Combined": "30.5 mpg US (7.7 L/100Km)",
+               "CO2 Emissions": "183 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3 Sport Sedan 2009-201205-03-07-08-26.jpg"
 },{
      "model_name": "SAAB Turbo X 2008-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.8 V6 6AT (280 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2792,
+               "Displacement": "2792 cm3",
                "Power": "206 KW @ 5500 RPM\n280 HP @ 5500 RPM\n276 BHP @ 5500 RPM",
                "Torque": "400 lb-ft @ 2150-4500 RPM\n542 Nm @ 2150-4500 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.3
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -455,42 +464,43 @@
                "Tire Size": "235/45R18"
           },
           "DIMENSIONS": {
-               "Length": 183,
-               "Width": 70.9,
-               "Height": 57.1,
+               "Length": "183 in (4648 mm)",
+               "Width": "70.9 in (1801 mm)",
+               "Height": "57.1 in (1450 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 105.3,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 15,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "105.3 in (2675 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "15 cuFT (425 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3583,
-               "Gross Weight Limit": 4586
+               "Unladen Weight": "3583 lbs (1625 kg)",
+               "Gross Weight Limit": "4586 lbs (2080 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.7,
-               "Highway": 28,
-               "Combined": 21,
-               "CO2 Emissions": 269
+               "City": "16.7 mpg US (14.1 L/100Km)",
+               "Highway": "28 mpg US (8.4 L/100Km)",
+               "Combined": "21 mpg US (11.2 L/100Km)",
+               "CO2 Emissions": "269 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB Turbo X 2008-201205-03-07-08-31.jpg"
 },{
      "model_name": "SAAB 9-3 Sport Sedan 2003-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 5AT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1988,
+               "Displacement": "1988 cm3",
                "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "177 lb-ft @ 2500 RPM\n240 Nm @ 2500 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.4
+               "Fuel capacity": "16.4 gallons (62.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -504,41 +514,42 @@
                "Tire Size": "195/65R15"
           },
           "DIMENSIONS": {
-               "Length": 182.5,
-               "Width": 69.4,
-               "Height": 57.7,
+               "Length": "182.5 in (4636 mm)",
+               "Width": "69.4 in (1763 mm)",
+               "Height": "57.7 in (1466 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 105.3,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 15,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "105.3 in (2675 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "15 cuFT (425 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3153,
-               "Gross Weight Limit": 4343
+               "Unladen Weight": "3153 lbs (1430 kg)",
+               "Gross Weight Limit": "4343 lbs (1970 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17.3,
-               "Highway": 34.1,
-               "Combined": 25,
-               "CO2 Emissions": 221
+               "City": "17.3 mpg US (13.6 L/100Km)",
+               "Highway": "34.1 mpg US (6.9 L/100Km)",
+               "Combined": "25 mpg US (9.4 L/100Km)",
+               "CO2 Emissions": "221 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3 Sport Sedan 2003-200805-03-07-08-35.jpg"
 },{
      "model_name": "SAAB 9-3 Sport Sedan Aero 2003-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.8L V6 6AT (250 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2792,
+               "Displacement": "2792 cm3",
                "Power": "184 KW @ 5500 RPM\n250 HP @ 5500 RPM\n247 BHP @ 5500 RPM",
                "Torque": "258 lb-ft @ 2000 RPM\n350 Nm @ 2000 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.5
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -552,42 +563,43 @@
                "Tire Size": "225/45 R17"
           },
           "DIMENSIONS": {
-               "Length": 182.5,
-               "Width": 69.4,
-               "Height": 57.7,
+               "Length": "182.5 in (4636 mm)",
+               "Width": "69.4 in (1763 mm)",
+               "Height": "57.7 in (1466 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 105.3,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 15,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "105.3 in (2675 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "15 cuFT (425 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3373,
-               "Gross Weight Limit": 4449
+               "Unladen Weight": "3373 lbs (1530 kg)",
+               "Gross Weight Limit": "4449 lbs (2018 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 13.9,
-               "Highway": 32.7,
-               "Combined": 21.8,
-               "CO2 Emissions": 259
+               "City": "13.9 mpg US (16.9 L/100Km)",
+               "Highway": "32.7 mpg US (7.2 L/100Km)",
+               "Combined": "21.8 mpg US (10.8 L/100Km)",
+               "CO2 Emissions": "259 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3 Sport Sedan Aero 2003-200805-03-07-08-37.jpg"
 },{
      "model_name": "SAAB 9-3 1998-2002",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 4AT FWD (130 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "96 KW @ 5500 RPM\n131 HP @ 5500 RPM\n129 BHP @ 5500 RPM",
                "Torque": "131 lb-ft @ 4300 RPM\n177 Nm @ 4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18
+               "Fuel capacity": "18 gallons (68.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 13
+               "Top Speed": "118 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -601,42 +613,43 @@
                "Tire Size": "195/60VR15"
           },
           "DIMENSIONS": {
-               "Length": 182.3,
-               "Width": 67.3,
-               "Height": 56.3,
+               "Length": "182.3 in (4630 mm)",
+               "Width": "67.3 in (1709 mm)",
+               "Height": "56.3 in (1430 mm)",
                "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 17.4,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "17.4 cuFT (493 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2910,
-               "Gross Weight Limit": 4123
+               "Unladen Weight": "2910 lbs (1320 kg)",
+               "Gross Weight Limit": "4123 lbs (1870 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16,
-               "Highway": 31.8,
-               "Combined": 23.3,
-               "CO2 Emissions": 241
+               "City": "16 mpg US (14.7 L/100Km)",
+               "Highway": "31.8 mpg US (7.4 L/100Km)",
+               "Combined": "23.3 mpg US (10.1 L/100Km)",
+               "CO2 Emissions": "241 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3 1998-200205-03-07-08-42.jpg"
 },{
      "model_name": "SAAB 9-3 SportCombi 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8I 5MT (122 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1796,
+               "Displacement": "1796 cm3",
                "Power": "90 KW @ 6000 RPM\n122 HP @ 6000 RPM\n121 BHP @ 6000 RPM",
                "Torque": "123 lb-ft @ 3800 RPM\n167 Nm @ 3800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.4
+               "Fuel capacity": "16.4 gallons (62.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.2,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+               "Top Speed": "124.2 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -650,42 +663,43 @@
                "Tire Size": "215/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 183,
-               "Width": 80.2,
-               "Height": 58,
+               "Length": "183 in (4648 mm)",
+               "Width": "80.2 in (2037 mm)",
+               "Height": "58 in (1473 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 105.3,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 12.4,
-               "Aerodynamics (Cd)": 0.28,
-               "Turning circle": 35.4
+               "Wheelbase": "105.3 in (2675 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "12.4 cuFT (351 L)",
+               "Aerodynamics (Cd)": "0.28",
+               "Turning circle": "35.4 ft (10.8 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2976.2,
-               "Gross Weight Limit": 3946.3
+               "Unladen Weight": "2976.2 lbs (1350 kg)",
+               "Gross Weight Limit": "3946.3 lbs (1790 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25.7,
-               "Highway": 47.1,
-               "Combined": 30.5,
-               "CO2 Emissions": 183
+               "City": "25.7 mpg US (9.2 L/100Km)",
+               "Highway": "47.1 mpg US (5 L/100Km)",
+               "Combined": "30.5 mpg US (7.7 L/100Km)",
+               "CO2 Emissions": "183 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3 SportCombi 2009-201205-03-07-08-47.jpg"
 },{
      "model_name": "SAAB 9-3 SportCombi 2004-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 5AT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1988,
+               "Displacement": "1988 cm3",
                "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "177 lb-ft @ 2500 RPM\n240 Nm @ 2500 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.7
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -699,42 +713,43 @@
                "Tire Size": "195/65R15"
           },
           "DIMENSIONS": {
-               "Length": 183.2,
-               "Width": 69.4,
-               "Height": 58.7,
+               "Length": "183.2 in (4653 mm)",
+               "Width": "69.4 in (1763 mm)",
+               "Height": "58.7 in (1491 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 105.3,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 14.8,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "105.3 in (2675 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "14.8 cuFT (419 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3241,
-               "Gross Weight Limit": 4519
+               "Unladen Weight": "3241 lbs (1470 kg)",
+               "Gross Weight Limit": "4519 lbs (2050 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18.1,
-               "Highway": 33.6,
-               "Combined": 25.6,
-               "CO2 Emissions": 221
+               "City": "18.1 mpg US (13 L/100Km)",
+               "Highway": "33.6 mpg US (7 L/100Km)",
+               "Combined": "25.6 mpg US (9.2 L/100Km)",
+               "CO2 Emissions": "221 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3 SportCombi 2004-200805-03-07-08-51.jpg"
 },{
      "model_name": "SAAB 9-3X 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0T XWD 6MT (210 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "154 KW @ 5300 RPM\n209 HP @ 5300 RPM\n207 BHP @ 5300 RPM",
                "Torque": "221 lb-ft @ 2500-4000 RPM\n300 Nm @ 2500-4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.4
+               "Fuel capacity": "16.4 gallons (62.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 143,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+               "Top Speed": "143 mph (230 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -748,42 +763,43 @@
                "Tire Size": "225/50 R17"
           },
           "DIMENSIONS": {
-               "Length": 183,
-               "Width": 80.2,
-               "Height": 58,
+               "Length": "183 in (4648 mm)",
+               "Width": "80.2 in (2037 mm)",
+               "Height": "58 in (1473 mm)",
                "Front/rear Track": "60/59.3 in (1,524/1,506 mm)",
-               "Wheelbase": 105.3,
-               "Ground Clearance": 7.3,
-               "Cargo Volume": 12.4,
-               "Aerodynamics (Cd)": 0.28
+               "Wheelbase": "105.3 in (2675 mm)",
+               "Ground Clearance": "7.3 in (185 mm)",
+               "Cargo Volume": "12.4 cuFT (351 L)",
+               "Aerodynamics (Cd)": "0.28"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3483,
-               "Gross Weight Limit": 4674
+               "Unladen Weight": "3483 lbs (1580 kg)",
+               "Gross Weight Limit": "4674 lbs (2120 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20.6,
-               "Highway": 37.9,
-               "Combined": 29,
-               "CO2 Emissions": 194
+               "City": "20.6 mpg US (11.4 L/100Km)",
+               "Highway": "37.9 mpg US (6.2 L/100Km)",
+               "Combined": "29 mpg US (8.1 L/100Km)",
+               "CO2 Emissions": "194 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-3X 2009-201205-03-07-08-53.jpg"
 },{
      "model_name": "SAAB 9-5 2010-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6T 6MT (180 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "132 KW @ 5500 RPM\n179 HP @ 5500 RPM\n177 BHP @ 5500 RPM",
                "Torque": "170 lb-ft @ 2200 RPM\n230 Nm @ 2200 RPM",
                "Fuel System": "Turbocharged multipoint injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18
+               "Fuel capacity": "18 gallons (68.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 137,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.5
+               "Top Speed": "137 mph (220 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -797,42 +813,43 @@
                "Tire Size": "225/55 R17"
           },
           "DIMENSIONS": {
-               "Length": 197.1,
-               "Width": 73.5,
-               "Height": 57.7,
+               "Length": "197.1 in (5006 mm)",
+               "Width": "73.5 in (1867 mm)",
+               "Height": "57.7 in (1466 mm)",
                "Front/rear Track": "62.4/62.4 in (1,585/1,585 mm)",
-               "Wheelbase": 111.7,
-               "Ground Clearance": 4.8,
-               "Cargo Volume": 18.2,
-               "Aerodynamics (Cd)": 0.29
+               "Wheelbase": "111.7 in (2837 mm)",
+               "Ground Clearance": "4.8 in (122 mm)",
+               "Cargo Volume": "18.2 cuFT (515 L)",
+               "Aerodynamics (Cd)": "0.29"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3516,
-               "Gross Weight Limit": 4872
+               "Unladen Weight": "3516 lbs (1595 kg)",
+               "Gross Weight Limit": "4872 lbs (2210 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21.6,
-               "Highway": 38.6,
-               "Combined": 30.2,
-               "CO2 Emissions": 179
+               "City": "21.6 mpg US (10.9 L/100Km)",
+               "Highway": "38.6 mpg US (6.1 L/100Km)",
+               "Combined": "30.2 mpg US (7.8 L/100Km)",
+               "CO2 Emissions": "179 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-5 2010-201205-03-07-08-57.jpg"
 },{
      "model_name": "2005 SAAB 9-5",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5AT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "177 lb-ft @ 1800 RPM\n240 Nm @ 1800 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19.8
+               "Fuel capacity": "19.8 gallons (75.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.6
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -846,41 +863,42 @@
                "Tire Size": "205/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 190.4,
-               "Width": 70.6,
-               "Height": 57,
+               "Length": "190.4 in (4836 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "57 in (1448 mm)",
                "Front/rear Track": "59.9/60.2 in (1,521/1,529 mm)",
-               "Wheelbase": 106.4,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 14.7,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "106.4 in (2703 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "14.7 cuFT (416 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3318,
-               "Gross Weight Limit": 4608
+               "Unladen Weight": "3318 lbs (1505 kg)",
+               "Gross Weight Limit": "4608 lbs (2090 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.8,
-               "Highway": 30.9,
-               "Combined": 22.8,
-               "CO2 Emissions": 244
+               "City": "15.8 mpg US (14.9 L/100Km)",
+               "Highway": "30.9 mpg US (7.6 L/100Km)",
+               "Combined": "22.8 mpg US (10.3 L/100Km)",
+               "CO2 Emissions": "244 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2005 SAAB 9-505-03-07-09-02.jpg"
 },{
      "model_name": "SAAB 9-5 2001-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5AT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "177 lb-ft @ 1800 RPM\n240 Nm @ 1800 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.6
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -894,42 +912,43 @@
                "Tire Size": "205/65VR15"
           },
           "DIMENSIONS": {
-               "Length": 190.2,
-               "Width": 70.5,
-               "Height": 58.3,
+               "Length": "190.2 in (4831 mm)",
+               "Width": "70.5 in (1791 mm)",
+               "Height": "58.3 in (1481 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 17.7,
-               "Aerodynamics (Cd)": 0.29
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "17.7 cuFT (501 L)",
+               "Aerodynamics (Cd)": "0.29"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3318,
-               "Gross Weight Limit": 4608
+               "Unladen Weight": "3318 lbs (1505 kg)",
+               "Gross Weight Limit": "4608 lbs (2090 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.8,
-               "Highway": 30.9,
-               "Combined": 22.8,
-               "CO2 Emissions": 244
+               "City": "15.8 mpg US (14.9 L/100Km)",
+               "Highway": "30.9 mpg US (7.6 L/100Km)",
+               "Combined": "22.8 mpg US (10.3 L/100Km)",
+               "CO2 Emissions": "244 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-5 2001-200505-03-07-09-05.jpg"
 },{
      "model_name": "SAAB 9-5 1997-2001",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0T 4AT (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "110.3 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "177 lb-ft @ 1800 RPM\n240 Nm @ 1800 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18.5
+               "Fuel capacity": "18.5 gallons (70.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.6
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -943,41 +962,42 @@
                "Tire Size": "205/65VR15"
           },
           "DIMENSIONS": {
-               "Length": 189.2,
-               "Width": 70.6,
-               "Height": 57,
+               "Length": "189.2 in (4806 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "57 in (1448 mm)",
                "Front/rear Track": "59.9/59.9 in (1,521/1,521 mm)",
-               "Wheelbase": 106.4,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 17.7,
-               "Aerodynamics (Cd)": 0.29
+               "Wheelbase": "106.4 in (2703 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "17.7 cuFT (501 L)",
+               "Aerodynamics (Cd)": "0.29"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3351,
-               "Gross Weight Limit": 4608
+               "Unladen Weight": "3351 lbs (1520 kg)",
+               "Gross Weight Limit": "4608 lbs (2090 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.6,
-               "Highway": 30.9,
-               "Combined": 22.6
+               "City": "15.6 mpg US (15.1 L/100Km)",
+               "Highway": "30.9 mpg US (7.6 L/100Km)",
+               "Combined": "22.6 mpg US (10.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-5 1997-200105-03-07-09-09.jpg"
 },{
      "model_name": "SAAB 9-5 SportCombi 2005-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5AT (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "177 lb-ft @ 1800 RPM\n240 Nm @ 1800 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19.8
+               "Fuel capacity": "19.8 gallons (75.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 127,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+               "Top Speed": "127 mph (204 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -991,42 +1011,43 @@
                "Tire Size": "215/55 R16"
           },
           "DIMENSIONS": {
-               "Length": 190.6,
-               "Width": 70.6,
-               "Height": 57.4,
+               "Length": "190.6 in (4841 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "57.4 in (1458 mm)",
                "Front/rear Track": "59.9/60.2 in (1,521/1,529 mm)",
-               "Wheelbase": 106.4,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 39.8,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "106.4 in (2703 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "39.8 cuFT (1127 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3428,
-               "Gross Weight Limit": 4762
+               "Unladen Weight": "3428 lbs (1555 kg)",
+               "Gross Weight Limit": "4762 lbs (2160 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.6,
-               "Highway": 29.8,
-               "Combined": 22.2,
-               "CO2 Emissions": 251
+               "City": "15.6 mpg US (15.1 L/100Km)",
+               "Highway": "29.8 mpg US (7.9 L/100Km)",
+               "Combined": "22.2 mpg US (10.6 L/100Km)",
+               "CO2 Emissions": "251 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-5 SportCombi 2005-200905-03-07-09-14.jpg"
 },{
      "model_name": "SAAB 9-5 SportCombi 2001-2005",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5AT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "177 lb-ft @ 1800 RPM\n240 Nm @ 1800 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19.8
+               "Fuel capacity": "19.8 gallons (75.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 127,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+               "Top Speed": "127 mph (204 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1040,42 +1061,43 @@
                "Tire Size": "205/65VR15"
           },
           "DIMENSIONS": {
-               "Length": 190.2,
-               "Width": 70.5,
-               "Height": 59,
+               "Length": "190.2 in (4831 mm)",
+               "Width": "70.5 in (1791 mm)",
+               "Height": "59 in (1499 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": 106.3,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 14.7,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "14.7 cuFT (416 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3428,
-               "Gross Weight Limit": 4762
+               "Unladen Weight": "3428 lbs (1555 kg)",
+               "Gross Weight Limit": "4762 lbs (2160 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.6,
-               "Highway": 29.8,
-               "Combined": 22.2,
-               "CO2 Emissions": 251
+               "City": "15.6 mpg US (15.1 L/100Km)",
+               "Highway": "29.8 mpg US (7.9 L/100Km)",
+               "Combined": "22.2 mpg US (10.6 L/100Km)",
+               "CO2 Emissions": "251 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-5 SportCombi 2001-200505-03-07-09-18.jpg"
 },{
      "model_name": "SAAB 9-5 SportCombi 1998-2001",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L T 4AT (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "110.3 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "177 lb-ft @ 1800 RPM\n240 Nm @ 1800 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18.5
+               "Fuel capacity": "18.5 gallons (70.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 127,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+               "Top Speed": "127 mph (204 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1089,41 +1111,42 @@
                "Tire Size": "205/65VR15"
           },
           "DIMENSIONS": {
-               "Length": 189.3,
-               "Width": 70.6,
-               "Height": 58.9,
+               "Length": "189.3 in (4808 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "58.9 in (1496 mm)",
                "Front/rear Track": "59.9/59.9 in (1,521/1,521 mm)",
-               "Wheelbase": 106.4,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 14.7,
-               "Aerodynamics (Cd)": 0.29
+               "Wheelbase": "106.4 in (2703 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "14.7 cuFT (416 L)",
+               "Aerodynamics (Cd)": "0.29"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3494,
-               "Gross Weight Limit": 4762
+               "Unladen Weight": "3494 lbs (1585 kg)",
+               "Gross Weight Limit": "4762 lbs (2160 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15,
-               "Highway": 29.8,
-               "Combined": 21.8
+               "City": "15 mpg US (15.7 L/100Km)",
+               "Highway": "29.8 mpg US (7.9 L/100Km)",
+               "Combined": "21.8 mpg US (10.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-5 SportCombi 1998-200105-03-07-09-21.jpg"
 },{
      "model_name": "SAAB 9-7X 2008-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.2L 4AT (290 HP)": {
                "Cylinders": "L6",
-               "Displacement": 4160,
+               "Displacement": "4160 cm3",
                "Power": "213 KW @ 6000 RPM\n290 HP @ 6000 RPM\n286 BHP @ 6000 RPM",
                "Torque": "275 lb-ft @ 3600 RPM\n373 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 21.9
+               "Fuel capacity": "21.9 gallons (82.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+               "Top Speed": "118 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1137,41 +1160,42 @@
                "Tire Size": "P255/55 R18"
           },
           "DIMENSIONS": {
-               "Length": 193.2,
-               "Width": 75.4,
-               "Height": 68.5,
+               "Length": "193.2 in (4907 mm)",
+               "Width": "75.4 in (1915 mm)",
+               "Height": "68.5 in (1740 mm)",
                "Front/rear Track": "63.1/62.1 in (1,603/1,577 mm)",
-               "Wheelbase": 113,
-               "Ground Clearance": 7.7,
-               "Cargo Volume": 39.8,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "113 in (2870 mm)",
+               "Ground Clearance": "7.7 in (196 mm)",
+               "Cargo Volume": "39.8 cuFT (1127 L)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4189,
-               "Gross Weight Limit": 5750
+               "Unladen Weight": "4189 lbs (1900 kg)",
+               "Gross Weight Limit": "5750 lbs (2608 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14,
-               "Highway": 20,
-               "Combined": 17,
-               "CO2 Emissions": 398
+               "City": "14 mpg US (16.8 L/100Km)",
+               "Highway": "20 mpg US (11.8 L/100Km)",
+               "Combined": "17 mpg US (13.8 L/100Km)",
+               "CO2 Emissions": "398 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-7X 2008-200905-03-07-09-24.jpg"
 },{
      "model_name": "SAAB 9-7X 2005-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.2L 4AT (290 HP)": {
                "Cylinders": "V6",
-               "Displacement": 4195,
+               "Displacement": "4195 cm3",
                "Power": "216 KW @ 6000 RPM\n290 HP @ 6000 RPM\n290 BHP @ 6000 RPM",
                "Torque": "277 lb-ft @ 4800 RPM\n376 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 117,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+               "Top Speed": "117 mph (188 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -1185,41 +1209,42 @@
                "Tire Size": "255/55 R18"
           },
           "DIMENSIONS": {
-               "Length": 193.2,
-               "Width": 75.4,
-               "Height": 68.5,
+               "Length": "193.2 in (4907 mm)",
+               "Width": "75.4 in (1915 mm)",
+               "Height": "68.5 in (1740 mm)",
                "Front/rear Track": "63.1/62.1 in (1,603/1,577 mm)",
-               "Wheelbase": 113,
-               "Ground Clearance": 7.7,
-               "Cargo Volume": 39.8,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "113 in (2870 mm)",
+               "Ground Clearance": "7.7 in (196 mm)",
+               "Cargo Volume": "39.8 cuFT (1127 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4188.8,
-               "Gross Weight Limit": 5749.6
+               "Unladen Weight": "4188.8 lbs (1900 kg)",
+               "Gross Weight Limit": "5749.6 lbs (2608 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15,
-               "Highway": 21.8,
-               "Combined": 17.4,
-               "CO2 Emissions": 398
+               "City": "15 mpg US (15.7 L/100Km)",
+               "Highway": "21.8 mpg US (10.8 L/100Km)",
+               "Combined": "17.4 mpg US (13.5 L/100Km)",
+               "CO2 Emissions": "398 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9-7X 2005-200805-03-07-09-26.jpg"
 },{
      "model_name": "SAAB 90 1984-1987",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5MT (100 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "73 KW @ 5200 RPM\n100 HP @ 5200 RPM\n98 BHP @ 5200 RPM",
                "Torque": "120 lb-ft @ 3500 RPM\n162 Nm @ 3500 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 102.5,
-               "Acceleration 0-62 Mph (0-100 kph)": 14
+               "Top Speed": "102.5 mph (165 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1233,39 +1258,40 @@
                "Tire Size": "175/70TR15"
           },
           "DIMENSIONS": {
-               "Length": 180.3,
-               "Width": 66.5,
-               "Height": 55.9,
+               "Length": "180.3 in (4580 mm)",
+               "Width": "66.5 in (1689 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "55.5/56.7 in (1,410/1,440 mm)",
-               "Wheelbase": 96.8,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 21.8,
-               "Aerodynamics (Cd)": 0.44
+               "Wheelbase": "96.8 in (2459 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "21.8 cuFT (617 L)",
+               "Aerodynamics (Cd)": "0.44"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2480.2,
-               "Gross Weight Limit": 3483.3
+               "Unladen Weight": "2480.2 lbs (1125 kg)",
+               "Gross Weight Limit": "3483.3 lbs (1580 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 23.5,
-               "CO2 Emissions": 238
+               "Combined": "23.5 mpg US (10 L/100Km)",
+               "CO2 Emissions": "238 g/km"
           }
-     }
+     },
+     "img": "images/SAAB 90 1984-198705-03-07-09-27.jpg"
 },{
      "model_name": "SAAB 900 1994-1998",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5MT FWD (130 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "96 KW @ 6100 RPM\n131 HP @ 6100 RPM\n129 BHP @ 6100 RPM",
                "Torque": "131 lb-ft @ 4300 RPM\n177 Nm @ 4300 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18
+               "Fuel capacity": "18 gallons (68.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+               "Top Speed": "124.3 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1279,42 +1305,43 @@
                "Tire Size": "185/65R15"
           },
           "DIMENSIONS": {
-               "Length": 182.7,
-               "Width": 67.3,
-               "Height": 56.7,
+               "Length": "182.7 in (4641 mm)",
+               "Width": "67.3 in (1709 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 17.4,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "17.4 cuFT (493 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2859,
-               "Gross Weight Limit": 4122.6
+               "Unladen Weight": "2859 lbs (1297 kg)",
+               "Gross Weight Limit": "4122.6 lbs (1870 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.1,
-               "Highway": 29,
-               "Combined": 21.6,
-               "CO2 Emissions": 214.2
+               "City": "15.1 mpg US (15.6 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)",
+               "Combined": "21.6 mpg US (10.9 L/100Km)",
+               "CO2 Emissions": "214.2 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 900 1994-199805-03-07-09-30.jpg"
 },{
      "model_name": "SAAB 900 Coupe 1994-1998",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 4AT (130 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "96 KW @ 6100 RPM\n131 HP @ 6100 RPM\n129 BHP @ 6100 RPM",
                "Torque": "131 lb-ft @ 4300 RPM\n177 Nm @ 4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.4
+               "Fuel capacity": "17.4 gallons (65.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+               "Top Speed": "118 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1328,41 +1355,42 @@
                "Tire Size": "185/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 182.7,
-               "Width": 67.3,
-               "Height": 56.7,
+               "Length": "182.7 in (4641 mm)",
+               "Width": "67.3 in (1709 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 17.4,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "17.4 cuFT (493 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2821.9,
-               "Gross Weight Limit": 4122.6
+               "Unladen Weight": "2821.9 lbs (1280 kg)",
+               "Gross Weight Limit": "4122.6 lbs (1870 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14.7,
-               "Highway": 27.7,
-               "Combined": 20.8
+               "City": "14.7 mpg US (16 L/100Km)",
+               "Highway": "27.7 mpg US (8.5 L/100Km)",
+               "Combined": "20.8 mpg US (11.3 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 900 Coupe 1994-199805-03-07-09-33.jpg"
 },{
      "model_name": "1994 Saab 900 Cabrio",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 4AT (130 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "96 KW @ 6100 RPM\n131 HP @ 6100 RPM\n129 BHP @ 6100 RPM",
                "Torque": "131 lb-ft @ 4300 RPM\n177 Nm @ 4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 18
+               "Fuel capacity": "18 gallons (68.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.5
+               "Top Speed": "118 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1376,42 +1404,43 @@
                "Tire Size": "185/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 182.7,
-               "Width": 67.3,
-               "Height": 56.7,
+               "Length": "182.7 in (4641 mm)",
+               "Width": "67.3 in (1709 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "57.1/56.7 in (1,450/1,440 mm)",
-               "Wheelbase": 102.4,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 13.3,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "102.4 in (2601 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "13.3 cuFT (377 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3075,
-               "Gross Weight Limit": 4123
+               "Unladen Weight": "3075 lbs (1395 kg)",
+               "Gross Weight Limit": "4123 lbs (1870 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.1,
-               "Highway": 29,
-               "Combined": 21.6,
-               "CO2 Emissions": 259.4
+               "City": "15.1 mpg US (15.6 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)",
+               "Combined": "21.6 mpg US (10.9 L/100Km)",
+               "CO2 Emissions": "259.4 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/1994 Saab 900 Cabrio05-03-07-09-37.jpg"
 },{
      "model_name": "SAAB 900 Cabrio 1986-1994",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 3AT FWD (128 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "94 KW @ 6000 RPM\n128 HP @ 6000 RPM\n126 BHP @ 6000 RPM",
                "Torque": "128 lb-ft @ 3000 RPM\n173 Nm @ 3000 RPM",
                "Fuel System": "Turbocharged Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.6
+               "Fuel capacity": "16.6 gallons (62.8 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 108.7,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+               "Top Speed": "108.7 mph (175 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1425,40 +1454,41 @@
                "Tire Size": "185/65H R15"
           },
           "DIMENSIONS": {
-               "Length": 184.3,
-               "Width": 66.9,
-               "Height": 55.1,
+               "Length": "184.3 in (4681 mm)",
+               "Width": "66.9 in (1699 mm)",
+               "Height": "55.1 in (1400 mm)",
                "Front/rear Track": "56.3/56.7 in (1,430/1,440 mm)",
-               "Wheelbase": 99.2,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 12.9,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "99.2 in (2520 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "12.9 cuFT (365 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2821.9,
-               "Gross Weight Limit": 3924.2
+               "Unladen Weight": "2821.9 lbs (1280 kg)",
+               "Gross Weight Limit": "3924.2 lbs (1780 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 24.5,
-               "CO2 Emissions": 228.5
+               "Combined": "24.5 mpg US (9.6 L/100Km)",
+               "CO2 Emissions": "228.5 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 900 Cabrio 1986-199405-03-07-09-40.jpg"
 },{
      "model_name": "SAAB 9000 CD 1994-1997",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0I 5MT (130 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "96 KW @ 5500 RPM\n131 HP @ 5500 RPM\n129 BHP @ 5500 RPM",
                "Torque": "131 lb-ft @ 4300 RPM\n177 Nm @ 4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.4
+               "Fuel capacity": "17.4 gallons (65.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+               "Top Speed": "124.3 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1472,42 +1502,43 @@
                "Tire Size": "195/65VR15"
           },
           "DIMENSIONS": {
-               "Length": 188.6,
-               "Width": 70.1,
-               "Height": 55.9,
+               "Length": "188.6 in (4790 mm)",
+               "Width": "70.1 in (1781 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "59.8/58.7 in (1,519/1,491 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 19.6,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "19.6 cuFT (555 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2965.2,
-               "Gross Weight Limit": 4277
+               "Unladen Weight": "2965.2 lbs (1345 kg)",
+               "Gross Weight Limit": "4277 lbs (1940 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.1,
-               "Highway": 27.7,
-               "Combined": 22.4,
-               "CO2 Emissions": 250
+               "City": "16.1 mpg US (14.6 L/100Km)",
+               "Highway": "27.7 mpg US (8.5 L/100Km)",
+               "Combined": "22.4 mpg US (10.5 L/100Km)",
+               "CO2 Emissions": "250 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9000 CD 1994-199705-03-07-09-44.jpg"
 },{
      "model_name": "SAAB 9000 CS 1991-1998",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0I 5MT (130 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1985,
+               "Displacement": "1985 cm3",
                "Power": "96 KW @ 5500 RPM\n131 HP @ 5500 RPM\n129 BHP @ 5500 RPM",
                "Torque": "131 lb-ft @ 4300 RPM\n177 Nm @ 4300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.4
+               "Fuel capacity": "17.4 gallons (65.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.5
+               "Top Speed": "124.3 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1521,26 +1552,27 @@
                "Tire Size": "195/65VR15"
           },
           "DIMENSIONS": {
-               "Length": 187.4,
-               "Width": 70.1,
-               "Height": 55.9,
+               "Length": "187.4 in (4760 mm)",
+               "Width": "70.1 in (1781 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "59.5/58.7 in (1,511/1,491 mm)",
-               "Wheelbase": 105.1,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 17.2,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "105.1 in (2670 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "17.2 cuFT (487 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3009.3,
-               "Gross Weight Limit": 4321.1
+               "Unladen Weight": "3009.3 lbs (1365 kg)",
+               "Gross Weight Limit": "4321.1 lbs (1960 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.1,
-               "Highway": 27.7,
-               "Combined": 22.4,
-               "CO2 Emissions": 250
+               "City": "16.1 mpg US (14.6 L/100Km)",
+               "Highway": "27.7 mpg US (8.5 L/100Km)",
+               "Combined": "22.4 mpg US (10.5 L/100Km)",
+               "CO2 Emissions": "250 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/SAAB 9000 CS 1991-199805-03-07-09-48.jpg"
 },	
  ] } 

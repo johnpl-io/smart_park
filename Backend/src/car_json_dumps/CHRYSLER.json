@@ -2,14 +2,14 @@
 {
      "model_name": "CHRYSLER 300 2015-2022",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 8AT AWD (292 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3604,
+               "Displacement": "3604 cm3",
                "Power": "218 KW @ 6350 RPM\n296 HP @ 6350 RPM\n292 BHP @ 6350 RPM",
                "Torque": "260 lb-ft @ 4800 RPM\n353 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Fuel Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19
+               "Fuel capacity": "19 gallons (71.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -23,35 +23,36 @@
                "Tire Size": "P215/65 R17"
           },
           "DIMENSIONS": {
-               "Length": 198.6,
-               "Width": 74.9,
-               "Height": 58.4,
+               "Length": "198.6 in (5044 mm)",
+               "Width": "74.9 in (1902 mm)",
+               "Height": "58.4 in (1483 mm)",
                "Front/rear Track": "63.4/63.8 in (1,610/1,621 mm)",
-               "Wheelbase": 120.2,
-               "Ground Clearance": 0.2,
-               "Cargo Volume": 16.3,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "120.2 in (3053 mm)",
+               "Ground Clearance": "0.2 in (5 mm)",
+               "Cargo Volume": "16.3 cuFT (462 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4235
+               "Unladen Weight": "4235 lbs (1921 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18,
-               "Highway": 27
+               "City": "18 mpg US (13.1 L/100Km)",
+               "Highway": "27 mpg US (8.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER 300 2015-202205-03-04-14-00.jpg"
 },{
      "model_name": "CHRYSLER 300 2011-2015",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 AWD 8AT (296 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3604,
+               "Displacement": "3604 cm3",
                "Power": "218 KW @ 6350 RPM\n296 HP @ 6350 RPM\n292 BHP @ 6350 RPM",
                "Torque": "260 lb-ft @ 4800 RPM\n353 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19
+               "Fuel capacity": "19 gallons (71.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -62,30 +63,31 @@
                "Rear": "solid discs"
           },
           "DIMENSIONS": {
-               "Length": 198.6,
-               "Width": 74.9,
-               "Height": 58.5,
+               "Length": "198.6 in (5044 mm)",
+               "Width": "74.9 in (1902 mm)",
+               "Height": "58.5 in (1486 mm)",
                "Front/rear Track": "63.4/63.8 in (1,610/1,621 mm)",
-               "Wheelbase": 120.2,
-               "Ground Clearance": 4.7,
-               "Cargo Volume": 16.3,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "120.2 in (3053 mm)",
+               "Ground Clearance": "4.7 in (119 mm)",
+               "Cargo Volume": "16.3 cuFT (462 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4235
+               "Unladen Weight": "4235 lbs (1921 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18,
-               "Highway": 27
+               "City": "18 mpg US (13.1 L/100Km)",
+               "Highway": "27 mpg US (8.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER 300 2011-201505-03-04-14-02.jpg"
 },{
      "model_name": "CHRYSLER 300 SRT8 2011-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4 SRT V8 5AT (477 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6417,
+               "Displacement": "6417 cm3",
                "Power": "351 KW @ 6000 RPM\n477 HP @ 6000 RPM\n471 BHP @ 6000 RPM",
                "Torque": "470 lb-ft @ 4300 RPM\n637 Nm @ 4300 RPM",
                "Fuel System": "Sequential, multi-port, electronic, returnless; automatic features Fuel Saver mode",
@@ -103,34 +105,35 @@
                "Tire Size": "245/45R20"
           },
           "DIMENSIONS": {
-               "Length": 200.3,
-               "Width": 74.2,
-               "Height": 58.3,
+               "Length": "200.3 in (5088 mm)",
+               "Width": "74.2 in (1885 mm)",
+               "Height": "58.3 in (1481 mm)",
                "Front/rear Track": "63.4/63.1 in (1,610/1,603 mm)",
-               "Wheelbase": 120.2,
-               "Ground Clearance": 4.37,
-               "Cargo Volume": 16.3,
-               "Aerodynamics (Cd)": 0.334
+               "Wheelbase": "120.2 in (3053 mm)",
+               "Ground Clearance": "4.37 in (111 mm)",
+               "Cargo Volume": "16.3 cuFT (462 L)",
+               "Aerodynamics (Cd)": "0.334"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4365
+               "Unladen Weight": "4365 lbs (1980 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14,
-               "Highway": 23
+               "City": "14 mpg US (16.8 L/100Km)",
+               "Highway": "23 mpg US (10.2 L/100Km)"
           }
-     }
+     },
+     "img": "images/CHRYSLER 300 SRT8 2011-Present05-03-04-14-04.jpg"
 },{
      "model_name": "2021 Chrysler Pacifica",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 9AT AWD (287 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3605,
+               "Displacement": "3605 cm3",
                "Power": "211.1 KW @ 6400 RPM\n287 HP @ 6400 RPM\n283 BHP @ 6400 RPM",
                "Torque": "262 lb-ft @ 4000 RPM\n355 Nm @ 4000 RPM",
                "Fuel System": "Port-fuel injection (PFI)",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19
+               "Fuel capacity": "19 gallons (71.9 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -144,28 +147,29 @@
                "Tire Size": "235/60 R18"
           },
           "DIMENSIONS": {
-               "Length": 203.8,
-               "Width": 79.6,
-               "Height": 69.9,
+               "Length": "203.8 in (5177 mm)",
+               "Width": "79.6 in (2022 mm)",
+               "Height": "69.9 in (1775 mm)",
                "Front/rear Track": "68.3/68.3 in (1,735/1,735 mm)",
-               "Wheelbase": 121.6,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 32.3,
-               "Turning circle": 39.7
+               "Wheelbase": "121.6 in (3089 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "32.3 cuFT (915 L)",
+               "Turning circle": "39.7 ft (12.1 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4987,
-               "Gross Weight Limit": 6300
+               "Unladen Weight": "4987 lbs (2262 kg)",
+               "Gross Weight Limit": "6300 lbs (2858 kg)"
           },
           "POWER SYSTEM SPECS": {
-               "Nominal Capacity": 6.6,
-               "Range": 32
+               "Nominal Capacity": "6.6 kWh",
+               "Range": "32 miles (51.5 km)"
           }
-     }
+     },
+     "img": "images/2021 Chrysler Pacifica05-03-04-14-06.jpg"
 },{
      "model_name": "CHRYSLER Pacifica 2016-2020",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.6L V6 9AT (287 HP)": {
                "Cylinders": "V6",
                "Power": "214 KW @ - RPM\n291 HP @ - RPM\n287 BHP @ - RPM",
                "Fuel System": "Multipoint Injection",
@@ -180,22 +184,23 @@
                "Rear": "Discs"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18,
-               "Highway": 28
+               "City": "18 mpg US (13.1 L/100Km)",
+               "Highway": "28 mpg US (8.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Pacifica 2016-202005-03-04-14-08.jpg"
 },{
      "model_name": "CHRYSLER Pacifica 2003-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5L V6 4AT FWD (223 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3518,
+               "Displacement": "3518 cm3",
                "Power": "186 KW @ 6400 RPM\n253 HP @ 6400 RPM\n249 BHP @ 6400 RPM",
                "Torque": "250 lb-ft @ 3950 RPM\n339 Nm @ 3950 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 23
+               "Fuel capacity": "23 gallons (87.1 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -209,37 +214,38 @@
                "Tire Size": "235/65 R17"
           },
           "DIMENSIONS": {
-               "Length": 198.9,
-               "Width": 79.3,
-               "Height": 66.5,
+               "Length": "198.9 in (5052 mm)",
+               "Width": "79.3 in (2014 mm)",
+               "Height": "66.5 in (1689 mm)",
                "Front/rear Track": "66/66 in (1,676/1,676 mm)",
-               "Wheelbase": 116.3,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 91.7,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "116.3 in (2954 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "91.7 cuFT (2597 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4337.2
+               "Unladen Weight": "4337.2 lbs (1967 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 23.1
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "23.1 mpg US (10.2 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Pacifica 2003-200605-03-04-14-10.jpg"
 },{
      "model_name": "CHRYSLER Chrysler 300C 2022-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4L HEMI V8 8AT (485 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6423,
+               "Displacement": "6423 cm3",
                "Power": "356.7 KW @ - RPM\n485 HP @ - RPM\n478 BHP @ - RPM",
                "Torque": "475 lb-ft @ - RPM\n644 Nm @ - RPM",
                "Fuel System": "Turbocharged Direct injection Naturally aspirated",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+               "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -249,21 +255,22 @@
                "Front": "Ventilated Discs",
                "Rear": "Ventilated Discs"
           }
-     }
+     },
+     "img": "images/CHRYSLER Chrysler 300C 2022-Present05-03-04-14-12.jpg"
 },{
      "model_name": "CHRYSLER 300C SRT8 2005-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.1L V8 5AT (425 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6059,
+               "Displacement": "6059 cm3",
                "Power": "316.9 KW @ 6000 RPM\n430.9 HP @ 6000 RPM\n425 BHP @ 6000 RPM",
                "Torque": "420 lb-ft @ 4800 RPM\n570 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 170.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+               "Top Speed": "170.3 mph (274 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -277,40 +284,41 @@
                "Tire Size": "245/45 R20"
           },
           "DIMENSIONS": {
-               "Length": 196.8,
-               "Width": 74.1,
-               "Height": 57.9,
+               "Length": "196.8 in (4999 mm)",
+               "Width": "74.1 in (1882 mm)",
+               "Height": "57.9 in (1471 mm)",
                "Front/rear Track": "63/63.1 in (1,600/1,603 mm)",
-               "Wheelbase": 120,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 56.1,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "120 in (3048 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "56.1 cuFT (1589 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4163,
-               "Gross Weight Limit": 5159
+               "Unladen Weight": "4163 lbs (1888 kg)",
+               "Gross Weight Limit": "5159 lbs (2340 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14,
-               "Highway": 20,
-               "Combined": 16
+               "City": "14 mpg US (16.8 L/100Km)",
+               "Highway": "20 mpg US (11.8 L/100Km)",
+               "Combined": "16 mpg US (14.7 L/100Km)"
           }
-     }
+     },
+     "img": "images/CHRYSLER 300C SRT8 2005-201005-03-04-14-13.jpg"
 },{
      "model_name": "CHRYSLER 300C 2004-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.7L V6 4AT RWD (190 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2736,
+               "Displacement": "2736 cm3",
                "Power": "142 KW @ 6400 RPM\n193 HP @ 6400 RPM\n190 BHP @ 6400 RPM",
                "Torque": "190 lb-ft @ 4000 RPM\n258 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19
+               "Fuel capacity": "19 gallons (71.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 129.9,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+               "Top Speed": "129.9 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -324,40 +332,41 @@
                "Tire Size": "225/60 R18 W"
           },
           "DIMENSIONS": {
-               "Length": 197.4,
-               "Width": 74,
-               "Height": 58.1,
+               "Length": "197.4 in (5014 mm)",
+               "Width": "74 in (1880 mm)",
+               "Height": "58.1 in (1476 mm)",
                "Front/rear Track": "63/63.2 in (1,600/1,605 mm)",
-               "Wheelbase": 120.1,
-               "Ground Clearance": 5.6,
-               "Cargo Volume": 17.6,
-               "Aerodynamics (Cd)": 0.33
+               "Wheelbase": "120.1 in (3051 mm)",
+               "Ground Clearance": "5.6 in (142 mm)",
+               "Cargo Volume": "17.6 cuFT (498 L)",
+               "Aerodynamics (Cd)": "0.33"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3814,
-               "Gross Weight Limit": 4784
+               "Unladen Weight": "3814 lbs (1730 kg)",
+               "Gross Weight Limit": "4784 lbs (2170 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 15.7,
-               "Highway": 28.7,
-               "Combined": 21.8
+               "City": "15.7 mpg US (15 L/100Km)",
+               "Highway": "28.7 mpg US (8.2 L/100Km)",
+               "Combined": "21.8 mpg US (10.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER 300C 2004-201005-03-04-14-16.jpg"
 },{
      "model_name": "1957 Chrysler 300C",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4L V8 3AT RWD (375 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6435,
+               "Displacement": "6435 cm3",
                "Power": "280 KW @ 5200 RPM\n381 HP @ 5200 RPM\n375 BHP @ 5200 RPM",
                "Torque": "420 lb-ft @ 4000 RPM\n569 Nm @ 4000 RPM",
                "Fuel System": "2 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.9
+               "Top Speed": "124 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -371,35 +380,36 @@
                "Tire Size": "9 X 14"
           },
           "DIMENSIONS": {
-               "Length": 219.2,
-               "Width": 78.8,
-               "Height": 54.7,
+               "Length": "219.2 in (5568 mm)",
+               "Width": "78.8 in (2002 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "61.2/60 in (1,554/1,524 mm)",
-               "Wheelbase": 126,
-               "Aerodynamics (Cd)": 0.45
+               "Wheelbase": "126 in (3200 mm)",
+               "Aerodynamics (Cd)": "0.45"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4235
+               "Unladen Weight": "4235 lbs (1921 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 11
+               "Combined": "11 mpg US (21.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/1957 Chrysler 300C05-03-04-14-18.jpg"
 },{
      "model_name": "CHRYSLER 300C Convertible 1957-1957",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.4L V8 3AT RWD (375 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6435,
+               "Displacement": "6435 cm3",
                "Power": "280 KW @ 5200 RPM\n381 HP @ 5200 RPM\n375 BHP @ 5200 RPM",
                "Torque": "420 lb-ft @ 4000 RPM\n569 Nm @ 4000 RPM",
                "Fuel System": "2 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 125,
-               "Acceleration 0-62 Mph (0-100 kph)": 9
+               "Top Speed": "125 mph (201 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -413,37 +423,38 @@
                "Tire Size": "9.00 - 14"
           },
           "DIMENSIONS": {
-               "Length": 219.2,
-               "Width": 78.8,
-               "Height": 54.7,
+               "Length": "219.2 in (5568 mm)",
+               "Width": "78.8 in (2002 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "61.2/60 in (1,554/1,524 mm)",
-               "Wheelbase": 126,
-               "Aerodynamics (Cd)": 0.45
+               "Wheelbase": "126 in (3200 mm)",
+               "Aerodynamics (Cd)": "0.45"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4389,
-               "Gross Weight Limit": 5401
+               "Unladen Weight": "4389 lbs (1991 kg)",
+               "Gross Weight Limit": "5401 lbs (2450 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 10.4
+               "Combined": "10.4 mpg US (22.6 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER 300C Convertible 1957-195705-03-04-14-19.jpg"
 },{
      "model_name": "CHRYSLER 200 2014-2016",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L MULTIAIR 9AT FWD (181 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2360,
+               "Displacement": "2360 cm3",
                "Power": "135 KW @ 6250 RPM\n184 HP @ 6250 RPM\n181 BHP @ 6250 RPM",
                "Torque": "173 lb-ft @ 4600 RPM\n235 Nm @ 4600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.9
+               "Fuel capacity": "15.9 gallons (60.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 139,
-               "Acceleration 0-62 Mph (0-100 kph)": 8.5
+               "Top Speed": "139 mph (224 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "8.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -457,40 +468,41 @@
                "Tire Size": "P215/55R17"
           },
           "DIMENSIONS": {
-               "Length": 192.3,
-               "Width": 74.6,
-               "Height": 58.7,
+               "Length": "192.3 in (4884 mm)",
+               "Width": "74.6 in (1895 mm)",
+               "Height": "58.7 in (1491 mm)",
                "Front/rear Track": "62.1/62 in (1,577/1,575 mm)",
-               "Wheelbase": 108,
-               "Ground Clearance": 5.8,
-               "Cargo Volume": 16,
-               "Aerodynamics (Cd)": 0.27
+               "Wheelbase": "108 in (2743 mm)",
+               "Ground Clearance": "5.8 in (147 mm)",
+               "Cargo Volume": "16 cuFT (453 L)",
+               "Aerodynamics (Cd)": "0.27"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3472,
-               "Gross Weight Limit": 4612
+               "Unladen Weight": "3472 lbs (1575 kg)",
+               "Gross Weight Limit": "4612 lbs (2092 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.1,
-               "Highway": 36.2,
-               "Combined": 28
+               "City": "23.1 mpg US (10.2 L/100Km)",
+               "Highway": "36.2 mpg US (6.5 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER 200 2014-201605-03-04-14-22.jpg"
 },{
      "model_name": "CHRYSLER 200 2011-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 6AT FWD (173 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2360,
+               "Displacement": "2360 cm3",
                "Power": "129 KW @ 6000 RPM\n173 HP @ 6000 RPM\n173 BHP @ 6000 RPM",
                "Torque": "166 lb-ft @ 4400 RPM\n225 Nm @ 4400 RPM",
                "Fuel System": "Multipoint injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118,
-               "Acceleration 0-62 Mph (0-100 kph)": 9.3
+               "Top Speed": "118 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "9.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -504,37 +516,38 @@
                "Tire Size": "P225/55R17"
           },
           "DIMENSIONS": {
-               "Length": 191.7,
-               "Width": 72.5,
-               "Height": 58.4,
+               "Length": "191.7 in (4869 mm)",
+               "Width": "72.5 in (1842 mm)",
+               "Height": "58.4 in (1483 mm)",
                "Front/rear Track": "61.7/62.7 in (1,567/1,593 mm)",
-               "Wheelbase": 108.9,
-               "Ground Clearance": 6.1,
-               "Cargo Volume": 13.6,
-               "Aerodynamics (Cd)": 0.342
+               "Wheelbase": "108.9 in (2766 mm)",
+               "Ground Clearance": "6.1 in (155 mm)",
+               "Cargo Volume": "13.6 cuFT (385 L)",
+               "Aerodynamics (Cd)": "0.342"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3389,
-               "Gross Weight Limit": 4725
+               "Unladen Weight": "3389 lbs (1537 kg)",
+               "Gross Weight Limit": "4725 lbs (2143 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 31,
-               "Combined": 23
+               "City": "20 mpg US (11.8 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)",
+               "Combined": "23 mpg US (10.2 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER 200 2011-201405-03-04-14-24.jpg"
 },{
      "model_name": "CHRYSLER 200 Convertible 2011-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 6AT FWD (176 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2360,
+               "Displacement": "2360 cm3",
                "Power": "129 KW @ 6000 RPM\n175 HP @ 6000 RPM\n173 BHP @ 6000 RPM",
                "Torque": "166 lb-ft @ 4400 RPM\n225 Nm @ 4400 RPM",
                "Fuel System": "Sequential, multi-port, electronic, returnless",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.9
+               "Fuel capacity": "16.9 gallons (64.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -548,37 +561,38 @@
                "Tire Size": "225/55 R17"
           },
           "DIMENSIONS": {
-               "Length": 194.8,
-               "Width": 72.5,
-               "Height": 57.9,
+               "Length": "194.8 in (4948 mm)",
+               "Width": "72.5 in (1842 mm)",
+               "Height": "57.9 in (1471 mm)",
                "Front/rear Track": "61.7/62.8 in (1,567/1,595 mm)",
-               "Wheelbase": 108.9,
-               "Cargo Volume": 13.3,
-               "Aerodynamics (Cd)": 0.342
+               "Wheelbase": "108.9 in (2766 mm)",
+               "Cargo Volume": "13.3 cuFT (377 L)",
+               "Aerodynamics (Cd)": "0.342"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3898
+               "Unladen Weight": "3898 lbs (1768 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18,
-               "Highway": 29
+               "City": "18 mpg US (13.1 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER 200 Convertible 2011-201405-03-04-14-26.jpg"
 },{
      "model_name": "1955 Chrysler C-300",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.4L V8 3AT (300 HP)": {
                "Cylinders": "V8",
-               "Displacement": 5425,
+               "Displacement": "5425 cm3",
                "Power": "223.7 KW @ 5200 RPM\n304.2 HP @ 5200 RPM\n300 BHP @ 5200 RPM",
                "Torque": "345 lb-ft @ 3200 RPM\n468 Nm @ 3200 RPM",
                "Fuel System": "2 Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 128,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.6
+               "Top Speed": "128 mph (206 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -592,34 +606,35 @@
                "Tire Size": "8.00 x 15"
           },
           "DIMENSIONS": {
-               "Length": 218.6,
-               "Width": 79.1,
-               "Height": 59,
+               "Length": "218.6 in (5552 mm)",
+               "Width": "79.1 in (2009 mm)",
+               "Height": "59 in (1499 mm)",
                "Front/rear Track": "60.2/59.6 in (1,529/1,514 mm)",
-               "Wheelbase": 126,
-               "Aerodynamics (Cd)": 0.5
+               "Wheelbase": "126 in (3200 mm)",
+               "Aerodynamics (Cd)": "0.5"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4079
+               "Unladen Weight": "4079 lbs (1850 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 12.4
+               "Combined": "12.4 mpg US (19 L/100Km)"
           }
-     }
+     },
+     "img": "images/1955 Chrysler C-30005-03-04-14-28.jpg"
 },{
      "model_name": "CHRYSLER 300C Touring SRT8 2006-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.1L V8 5AT (425 HP)": {
                "Cylinders": "V8",
-               "Displacement": 6059,
+               "Displacement": "6059 cm3",
                "Power": "317 KW @ 6200 RPM\n431 HP @ 6200 RPM\n425 BHP @ 6200 RPM",
                "Torque": "420 lb-ft @ 4800 RPM\n569 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 165,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+               "Top Speed": "165 mph (266 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -633,40 +648,41 @@
                "Tire Size": "245/45 R20"
           },
           "DIMENSIONS": {
-               "Length": 197.4,
-               "Width": 74,
-               "Height": 57.6,
+               "Length": "197.4 in (5014 mm)",
+               "Width": "74 in (1880 mm)",
+               "Height": "57.6 in (1463 mm)",
                "Front/rear Track": "63/63.2 in (1,600/1,605 mm)",
-               "Wheelbase": 120.1,
-               "Ground Clearance": 0.2,
-               "Cargo Volume": 22.2,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "120.1 in (3051 mm)",
+               "Ground Clearance": "0.2 in (5 mm)",
+               "Cargo Volume": "22.2 cuFT (629 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4321,
-               "Gross Weight Limit": 5214
+               "Unladen Weight": "4321 lbs (1960 kg)",
+               "Gross Weight Limit": "5214 lbs (2365 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 11.2,
-               "Highway": 23.8,
-               "Combined": 16.8
+               "City": "11.2 mpg US (21 L/100Km)",
+               "Highway": "23.8 mpg US (9.9 L/100Km)",
+               "Combined": "16.8 mpg US (14 L/100Km)"
           }
-     }
+     },
+     "img": "images/CHRYSLER 300C Touring SRT8 2006-201005-03-04-14-30.jpg"
 },{
      "model_name": "CHRYSLER 300C Touring 2004-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.7L V6 4AT RWD (190 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2736,
+               "Displacement": "2736 cm3",
                "Power": "142 KW @ 6400 RPM\n193 HP @ 6400 RPM\n190 BHP @ 6400 RPM",
                "Torque": "190 lb-ft @ 4000 RPM\n257 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19
+               "Fuel capacity": "19 gallons (71.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 130,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.1
+               "Top Speed": "130 mph (209 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -680,40 +696,41 @@
                "Tire Size": "225/60 R18 W"
           },
           "DIMENSIONS": {
-               "Length": 197.4,
-               "Width": 74,
-               "Height": 58.3,
+               "Length": "197.4 in (5014 mm)",
+               "Width": "74 in (1880 mm)",
+               "Height": "58.3 in (1481 mm)",
                "Front/rear Track": "63/63.1 in (1,600/1,603 mm)",
-               "Wheelbase": 120.1,
-               "Ground Clearance": 0.2,
-               "Cargo Volume": 22.2,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "120.1 in (3051 mm)",
+               "Ground Clearance": "0.2 in (5 mm)",
+               "Cargo Volume": "22.2 cuFT (629 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3935,
-               "Gross Weight Limit": 4927
+               "Unladen Weight": "3935 lbs (1785 kg)",
+               "Gross Weight Limit": "4927 lbs (2235 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14.6,
-               "Highway": 28,
-               "Combined": 21
+               "City": "14.6 mpg US (16.1 L/100Km)",
+               "Highway": "28 mpg US (8.4 L/100Km)",
+               "Combined": "21 mpg US (11.2 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER 300C Touring 2004-201005-03-04-14-33.jpg"
 },{
      "model_name": "CHRYSLER 300M 1998-2004",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.7L V6 4AT FWD (200 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2736,
+               "Displacement": "2736 cm3",
                "Power": "149.3 KW @ 5900 RPM\n203 HP @ 5900 RPM\n200 BHP @ 5900 RPM",
                "Torque": "188 lb-ft @ 4300-5000 RPM\n255 Nm @ 4300-5000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 131,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.2
+               "Top Speed": "131 mph (211 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -727,38 +744,39 @@
                "Tire Size": "225/55 R 17"
           },
           "DIMENSIONS": {
-               "Length": 196.9,
-               "Width": 74.5,
-               "Height": 55.7,
+               "Length": "196.9 in (5001 mm)",
+               "Width": "74.5 in (1892 mm)",
+               "Height": "55.7 in (1415 mm)",
                "Front/rear Track": "62/61.6 in (1,575/1,565 mm)",
-               "Wheelbase": 113,
-               "Ground Clearance": 5,
-               "Cargo Volume": 18.7,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "113 in (2870 mm)",
+               "Ground Clearance": "5 in (127 mm)",
+               "Cargo Volume": "18.7 cuFT (530 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3616,
-               "Gross Weight Limit": 4674
+               "Unladen Weight": "3616 lbs (1640 kg)",
+               "Gross Weight Limit": "4674 lbs (2120 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16,
-               "Highway": 29.4,
-               "Combined": 22.4
+               "City": "16 mpg US (14.7 L/100Km)",
+               "Highway": "29.4 mpg US (8 L/100Km)",
+               "Combined": "22.4 mpg US (10.5 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER 300M 1998-200405-03-04-14-35.jpg"
 },{
      "model_name": "CHRYSLER Airflow 1934-1937",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.3L 3MT (115 HP)": {
                "Cylinders": "L8",
-               "Displacement": 5301,
+               "Displacement": "5301 cm3",
                "Power": "86 KW @ 3400 RPM\n117 HP @ 3400 RPM\n115 BHP @ 3400 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 90
+               "Top Speed": "90 mph (145 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -772,29 +790,30 @@
                "Tire Size": "7.50 X 16"
           },
           "DIMENSIONS": {
-               "Length": 206.6,
+               "Length": "206.6 in (5248 mm)",
                "Front/rear Track": "57/57 in (1,448/1,448 mm)",
-               "Wheelbase": 4.8
+               "Wheelbase": "4.8 in (122 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3716
+               "Unladen Weight": "3716 lbs (1686 kg)"
           }
-     }
+     },
+     "img": "images/CHRYSLER Airflow 1934-193705-03-04-14-37.jpg"
 },{
      "model_name": "CHRYSLER Aspen 2006-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.7L V8 5AT 2WD (235 HP)": {
                "Cylinders": "V8",
-               "Displacement": 4701,
+               "Displacement": "4701 cm3",
                "Power": "175.2 KW @ 4600 RPM\n238 HP @ 4600 RPM\n235 BHP @ 4600 RPM",
                "Torque": "300 lb-ft @ 3600 RPM\n407 Nm @ 3600 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 26.9
+               "Fuel capacity": "26.9 gallons (101.8 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 10
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -808,41 +827,42 @@
                "Tire Size": "265/70 R17"
           },
           "DIMENSIONS": {
-               "Length": 200.8,
-               "Width": 76,
-               "Height": 74.3,
+               "Length": "200.8 in (5100 mm)",
+               "Width": "76 in (1930 mm)",
+               "Height": "74.3 in (1887 mm)",
                "Front/rear Track": "64.4/64.4 in (1,636/1,636 mm)",
-               "Wheelbase": 119.2,
-               "Ground Clearance": 6.9,
-               "Cargo Volume": 19,
-               "Aerodynamics (Cd)": 0.39
+               "Wheelbase": "119.2 in (3028 mm)",
+               "Ground Clearance": "6.9 in (175 mm)",
+               "Cargo Volume": "19 cuFT (538 L)",
+               "Aerodynamics (Cd)": "0.39"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4859,
-               "Gross Weight Limit": 6451
+               "Unladen Weight": "4859 lbs (2204 kg)",
+               "Gross Weight Limit": "6451 lbs (2926 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14,
-               "Highway": 19,
-               "Combined": 16
+               "City": "14 mpg US (16.8 L/100Km)",
+               "Highway": "19 mpg US (12.4 L/100Km)",
+               "Combined": "16 mpg US (14.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Aspen 2006-200905-03-04-14-40.jpg"
 },{
      "model_name": "CHRYSLER Concorde 1998-2004",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.7L V6 4AT FWD (200 HP)": {
                "Cylinders": "V6",
-               "Displacement": 2736,
+               "Displacement": "2736 cm3",
                "Power": "149 KW @ 5800 RPM\n203 HP @ 5800 RPM\n200 BHP @ 5800 RPM",
                "Torque": "190 lb-ft @ 4850 RPM\n258 Nm @ 4850 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+               "Top Speed": "124.3 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -856,39 +876,40 @@
                "Tire Size": "225/60 R17"
           },
           "DIMENSIONS": {
-               "Length": 209.1,
-               "Width": 74.4,
-               "Height": 55.8,
+               "Length": "209.1 in (5311 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "55.8 in (1417 mm)",
                "Front/rear Track": "62.4/62 in (1,585/1,575 mm)",
-               "Wheelbase": 113,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 18.6,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "113 in (2870 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "18.6 cuFT (527 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3494.9
+               "Unladen Weight": "3494.9 lbs (1585 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21,
-               "Highway": 30.2,
-               "Combined": 24
+               "City": "21 mpg US (11.2 L/100Km)",
+               "Highway": "30.2 mpg US (7.8 L/100Km)",
+               "Combined": "24 mpg US (9.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Concorde 1998-200405-03-04-14-42.jpg"
 },{
      "model_name": "1993 Chrysler Concorde",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.3L V6 4AT FWD (153 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3301,
+               "Displacement": "3301 cm3",
                "Power": "114 KW @ 5300 RPM\n155 HP @ 5300 RPM\n153 BHP @ 5300 RPM",
                "Torque": "177 lb-ft @ 2800 RPM\n240 Nm @ 2800 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112,
-               "Acceleration 0-62 Mph (0-100 kph)": 11
+               "Top Speed": "112 mph (180 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -899,40 +920,41 @@
                "Rear": "Discs"
           },
           "DIMENSIONS": {
-               "Length": 202.8,
-               "Width": 74.4,
-               "Height": 56.3,
+               "Length": "202.8 in (5151 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "56.3 in (1430 mm)",
                "Front/rear Track": "62/62 in (1,575/1,575 mm)",
-               "Wheelbase": 113,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 16.6,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "113 in (2870 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "16.6 cuFT (470 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3325
+               "Unladen Weight": "3325 lbs (1508 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 20,
-               "Highway": 28,
-               "Combined": 23
+               "City": "20 mpg US (11.8 L/100Km)",
+               "Highway": "28 mpg US (8.4 L/100Km)",
+               "Combined": "23 mpg US (10.2 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/1993 Chrysler Concorde05-03-04-14-44.jpg"
 },{
      "model_name": "CHRYSLER Crossfire 2007-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2L V6 5AT (218 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3199,
+               "Displacement": "3199 cm3",
                "Power": "160 KW @ 5700 RPM\n218 HP @ 5700 RPM\n215 BHP @ 5700 RPM",
                "Torque": "229 lb-ft @ 3000 RPM\n310 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.9
+               "Fuel capacity": "15.9 gallons (60.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 150,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+               "Top Speed": "150 mph (241 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -946,42 +968,43 @@
                "Tire Size": "225/40ZR18 || 255/35ZR19"
           },
           "DIMENSIONS": {
-               "Length": 159.8,
-               "Width": 69.5,
-               "Height": 51,
+               "Length": "159.8 in (4059 mm)",
+               "Width": "69.5 in (1765 mm)",
+               "Height": "51 in (1295 mm)",
                "Front/rear Track": "59/59.2 in (1,499/1,504 mm)",
-               "Wheelbase": 94.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 7.6,
-               "Aerodynamics (Cd)": 0.37,
-               "Turning circle": 34.8
+               "Wheelbase": "94.5 in (2400 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "7.6 cuFT (215 L)",
+               "Aerodynamics (Cd)": "0.37",
+               "Turning circle": "34.8 ft (10.6 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2992,
-               "Gross Weight Limit": 3671
+               "Unladen Weight": "2992 lbs (1357 kg)",
+               "Gross Weight Limit": "3671 lbs (1665 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.4,
-               "Highway": 30.5,
-               "Combined": 23.3,
-               "CO2 Emissions": 243
+               "City": "16.4 mpg US (14.3 L/100Km)",
+               "Highway": "30.5 mpg US (7.7 L/100Km)",
+               "Combined": "23.3 mpg US (10.1 L/100Km)",
+               "CO2 Emissions": "243 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Crossfire 2007-200805-03-04-14-46.jpg"
 },{
      "model_name": "CHRYSLER Crossfire SRT6 2004-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2L V6 5AT (335 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3199,
+               "Displacement": "3199 cm3",
                "Power": "246 KW @ 6100 RPM\n335 HP @ 6100 RPM\n330 BHP @ 6100 RPM",
                "Torque": "310 lb-ft @ 3500-4800 RPM\n420 Nm @ 3500-4800 RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 158.5,
-               "Acceleration 0-62 Mph (0-100 kph)": 5
+               "Top Speed": "158.5 mph (255 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -995,40 +1018,41 @@
                "Tire Size": "225/40R18 || 255/35R19"
           },
           "DIMENSIONS": {
-               "Length": 159.8,
-               "Width": 69.5,
-               "Height": 51.5,
+               "Length": "159.8 in (4059 mm)",
+               "Width": "69.5 in (1765 mm)",
+               "Height": "51.5 in (1308 mm)",
                "Front/rear Track": "58.8/59.1 in (1,494/1,501 mm)",
-               "Wheelbase": 94.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 7.5,
-               "Aerodynamics (Cd)": 0.37
+               "Wheelbase": "94.5 in (2400 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "7.5 cuFT (212 L)",
+               "Aerodynamics (Cd)": "0.37"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3239.1,
-               "Gross Weight Limit": 3869
+               "Unladen Weight": "3239.1 lbs (1469 kg)",
+               "Gross Weight Limit": "3869 lbs (1755 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14.8,
-               "Highway": 28.7,
-               "Combined": 21.4,
-               "CO2 Emissions": 264
+               "City": "14.8 mpg US (15.9 L/100Km)",
+               "Highway": "28.7 mpg US (8.2 L/100Km)",
+               "Combined": "21.4 mpg US (11 L/100Km)",
+               "CO2 Emissions": "264 g/km"
           }
-     }
+     },
+     "img": "images/CHRYSLER Crossfire SRT6 2004-200605-03-04-14-48.jpg"
 },{
      "model_name": "CHRYSLER Crossfire 2003-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2L V6 5AT RWD (218 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3199,
+               "Displacement": "3199 cm3",
                "Power": "160 KW @ 5700 RPM\n218 HP @ 5700 RPM\n215 BHP @ 5700 RPM",
                "Torque": "229 lb-ft @ 3000 RPM\n310 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 150,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.8
+               "Top Speed": "150 mph (241 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1042,42 +1066,43 @@
                "Tire Size": "225/40ZR18 || 255/35ZR19"
           },
           "DIMENSIONS": {
-               "Length": 159.8,
-               "Width": 68.9,
-               "Height": 50.7,
+               "Length": "159.8 in (4059 mm)",
+               "Width": "68.9 in (1750 mm)",
+               "Height": "50.7 in (1288 mm)",
                "Front/rear Track": "58.2/58.3 in (1,478/1,481 mm)",
-               "Wheelbase": 94.5,
-               "Ground Clearance": 4.9,
-               "Cargo Volume": 7.6,
-               "Aerodynamics (Cd)": 0.37
+               "Wheelbase": "94.5 in (2400 mm)",
+               "Ground Clearance": "4.9 in (124 mm)",
+               "Cargo Volume": "7.6 cuFT (215 L)",
+               "Aerodynamics (Cd)": "0.37"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2992,
-               "Gross Weight Limit": 3671
+               "Unladen Weight": "2992 lbs (1357 kg)",
+               "Gross Weight Limit": "3671 lbs (1665 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.4,
-               "Highway": 30.5,
-               "Combined": 23.3,
-               "CO2 Emissions": 243
+               "City": "16.4 mpg US (14.3 L/100Km)",
+               "Highway": "30.5 mpg US (7.7 L/100Km)",
+               "Combined": "23.3 mpg US (10.1 L/100Km)",
+               "CO2 Emissions": "243 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Crossfire 2003-200605-03-04-14-50.jpg"
 },{
      "model_name": "CHRYSLER Crossfire Roadster 2007-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2L V6 5AT (218 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3199,
+               "Displacement": "3199 cm3",
                "Power": "160 KW @ 5700 RPM\n218 HP @ 5700 RPM\n215 BHP @ 5700 RPM",
                "Torque": "229 lb-ft @ 3000 RPM\n310 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.9
+               "Fuel capacity": "15.9 gallons (60.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 150,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+               "Top Speed": "150 mph (241 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1091,41 +1116,42 @@
                "Tire Size": "225/40ZR18 || 255/35ZR19"
           },
           "DIMENSIONS": {
-               "Length": 160.2,
-               "Width": 69.5,
-               "Height": 51.8,
+               "Length": "160.2 in (4069 mm)",
+               "Width": "69.5 in (1765 mm)",
+               "Height": "51.8 in (1316 mm)",
                "Front/rear Track": "59/59.2 in (1,499/1,504 mm)",
-               "Wheelbase": 94.5,
-               "Ground Clearance": 4.9,
-               "Cargo Volume": 6.7,
-               "Aerodynamics (Cd)": 0.38
+               "Wheelbase": "94.5 in (2400 mm)",
+               "Ground Clearance": "4.9 in (124 mm)",
+               "Cargo Volume": "6.7 cuFT (190 L)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3175,
-               "Gross Weight Limit": 3770
+               "Unladen Weight": "3175 lbs (1440 kg)",
+               "Gross Weight Limit": "3770 lbs (1710 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.4,
-               "Highway": 30.5,
-               "Combined": 23.5,
-               "CO2 Emissions": 243
+               "City": "16.4 mpg US (14.3 L/100Km)",
+               "Highway": "30.5 mpg US (7.7 L/100Km)",
+               "Combined": "23.5 mpg US (10 L/100Km)",
+               "CO2 Emissions": "243 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Crossfire Roadster 2007-200805-03-04-14-52.jpg"
 },{
      "model_name": "CHRYSLER Crossfire Roadster 2004-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2L V6 5AT RWD (218 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3199,
+               "Displacement": "3199 cm3",
                "Power": "160 KW @ 5700 RPM\n218 HP @ 5700 RPM\n215 BHP @ 5700 RPM",
                "Torque": "229 lb-ft @ 3000 RPM\n310 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 150,
-               "Acceleration 0-62 Mph (0-100 kph)": 6.5
+               "Top Speed": "150 mph (241 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "6.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1139,41 +1165,42 @@
                "Tire Size": "225/40R18 || 255/35R19"
           },
           "DIMENSIONS": {
-               "Length": 159.8,
-               "Width": 69.5,
-               "Height": 51.8,
+               "Length": "159.8 in (4059 mm)",
+               "Width": "69.5 in (1765 mm)",
+               "Height": "51.8 in (1316 mm)",
                "Front/rear Track": "58.8/59.1 in (1,494/1,501 mm)",
-               "Wheelbase": 94.5,
-               "Ground Clearance": 4.9,
-               "Cargo Volume": 6.7,
-               "Aerodynamics (Cd)": 0.38
+               "Wheelbase": "94.5 in (2400 mm)",
+               "Ground Clearance": "4.9 in (124 mm)",
+               "Cargo Volume": "6.7 cuFT (190 L)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3139.9,
-               "Gross Weight Limit": 3671
+               "Unladen Weight": "3139.9 lbs (1424 kg)",
+               "Gross Weight Limit": "3671 lbs (1665 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.4,
-               "Highway": 30.5,
-               "Combined": 23.3,
-               "CO2 Emissions": 243
+               "City": "16.4 mpg US (14.3 L/100Km)",
+               "Highway": "30.5 mpg US (7.7 L/100Km)",
+               "Combined": "23.3 mpg US (10.1 L/100Km)",
+               "CO2 Emissions": "243 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Crossfire Roadster 2004-200705-03-04-14-54.jpg"
 },{
      "model_name": "CHRYSLER Crossfire Roadster SRT6 2004-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.2L V6 5AT (335 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3199,
+               "Displacement": "3199 cm3",
                "Power": "246 KW @ 6100 RPM\n335 HP @ 6100 RPM\n330 BHP @ 6100 RPM",
                "Torque": "310 lb-ft @ 3500-4800 RPM\n420 Nm @ 3500-4800 RPM",
                "Fuel System": "Supercharged Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 158.5,
-               "Acceleration 0-62 Mph (0-100 kph)": 5
+               "Top Speed": "158.5 mph (255 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1187,39 +1214,40 @@
                "Tire Size": "225/40R18 || 255/35R19"
           },
           "DIMENSIONS": {
-               "Length": 159.8,
-               "Width": 69.5,
-               "Height": 51.8,
+               "Length": "159.8 in (4059 mm)",
+               "Width": "69.5 in (1765 mm)",
+               "Height": "51.8 in (1316 mm)",
                "Front/rear Track": "58.8/59.1 in (1,494/1,501 mm)",
-               "Wheelbase": 94.5,
-               "Ground Clearance": 5.1,
-               "Cargo Volume": 6.7,
-               "Aerodynamics (Cd)": 0.38
+               "Wheelbase": "94.5 in (2400 mm)",
+               "Ground Clearance": "5.1 in (130 mm)",
+               "Cargo Volume": "6.7 cuFT (190 L)",
+               "Aerodynamics (Cd)": "0.38"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3327.3,
-               "Gross Weight Limit": 3869
+               "Unladen Weight": "3327.3 lbs (1509 kg)",
+               "Gross Weight Limit": "3869 lbs (1755 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14.8,
-               "Highway": 28.7,
-               "Combined": 21.4,
-               "CO2 Emissions": 264
+               "City": "14.8 mpg US (15.9 L/100Km)",
+               "Highway": "28.7 mpg US (8.2 L/100Km)",
+               "Combined": "21.4 mpg US (11 L/100Km)",
+               "CO2 Emissions": "264 g/km"
           }
-     }
+     },
+     "img": "images/CHRYSLER Crossfire Roadster SRT6 2004-200605-03-04-14-55.jpg"
 },{
      "model_name": "CHRYSLER Daytona 1992-1993",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L 3AT FWD (100 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2501,
+               "Displacement": "2501 cm3",
                "Power": "74.6 KW @ 4800 RPM\n101.4 HP @ 4800 RPM\n100 BHP @ 4800 RPM",
                "Torque": "135 lb-ft @ 2800 RPM\n183 Nm @ 2800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": 11
+               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1233,37 +1261,38 @@
                "Tire Size": "P 185/70 R 14"
           },
           "DIMENSIONS": {
-               "Length": 179.9,
-               "Width": 69.3,
-               "Height": 52,
+               "Length": "179.9 in (4569 mm)",
+               "Width": "69.3 in (1760 mm)",
+               "Height": "52 in (1321 mm)",
                "Front/rear Track": "57.5/57.5 in (1,461/1,461 mm)",
-               "Wheelbase": 97.3,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 9.5,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "97.3 in (2471 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "9.5 cuFT (269 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2780,
-               "Gross Weight Limit": 3968.3
+               "Unladen Weight": "2780 lbs (1261 kg)",
+               "Gross Weight Limit": "3968.3 lbs (1800 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.1,
-               "Highway": 27,
-               "Combined": 24
+               "City": "23.1 mpg US (10.2 L/100Km)",
+               "Highway": "27 mpg US (8.7 L/100Km)",
+               "Combined": "24 mpg US (9.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Daytona 1992-199305-03-04-14-58.jpg"
 },{
      "model_name": "CHRYSLER Grand Voyager 2008-2015",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.3I V6 4AT (172 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3301,
+               "Displacement": "3301 cm3",
                "Power": "126.5 KW @ 5100 RPM\n172 HP @ 5100 RPM\n170 BHP @ 5100 RPM",
                "Torque": "205 lb-ft @ 4000 RPM\n278 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19.8
+               "Fuel capacity": "19.8 gallons (75.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1277,25 +1306,26 @@
                "Tire Size": "225/65 R17"
           },
           "DIMENSIONS": {
-               "Length": 202.5,
-               "Width": 76.9,
-               "Height": 71.5,
+               "Length": "202.5 in (5144 mm)",
+               "Width": "76.9 in (1953 mm)",
+               "Height": "71.5 in (1816 mm)",
                "Front/rear Track": "65/64.8 in (1,651/1,646 mm)",
-               "Wheelbase": 121.2,
-               "Ground Clearance": 6.1,
-               "Cargo Volume": 26.7,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "121.2 in (3078 mm)",
+               "Ground Clearance": "6.1 in (155 mm)",
+               "Cargo Volume": "26.7 cuFT (756 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 24
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "24 mpg US (9.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Grand Voyager 2008-201505-03-04-15-00.jpg"
 },{
      "model_name": "CHRYSLER Imperial 8 1931-1933",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.3": {
                "Cylinders": "L8",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
@@ -1308,22 +1338,23 @@
                "Rear": "Drums"
           },
           "DIMENSIONS": {
-               "Wheelbase": 145
+               "Wheelbase": "145 in (3683 mm)"
           }
-     }
+     },
+     "img": "images/CHRYSLER Imperial 8 1931-193305-03-04-15-02.jpg"
 },{
      "model_name": "CHRYSLER Imperial 8 Roadster 1931-1933",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.3 4MT (125 HP)": {
                "Cylinders": "L8",
-               "Displacement": 6305,
+               "Displacement": "6305 cm3",
                "Power": "93.2 KW @ 3200 RPM\n126.7 HP @ 3200 RPM\n125 BHP @ 3200 RPM",
                "Torque": "280 lb-ft @ 1200 RPM\n380 Nm @ 1200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 96
+               "Top Speed": "96 mph (154 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1337,15 +1368,16 @@
                "Tire Size": "18\u00d77.00"
           },
           "DIMENSIONS": {
-               "Wheelbase": 145
+               "Wheelbase": "145 in (3683 mm)"
           }
-     }
+     },
+     "img": "images/CHRYSLER Imperial 8 Roadster 1931-193305-03-04-15-03.jpg"
 },{
      "model_name": "CHRYSLER LeBaron 1982-1988",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.2L 3AT FWD (84 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2213,
+               "Displacement": "2213 cm3",
                "Power": "62.5 KW @ 4800 RPM\n85 HP @ 4800 RPM\n84 BHP @ 4800 RPM",
                "Torque": "111 lb-ft @ 2400 RPM\n150 Nm @ 2400 RPM",
                "Fuel System": "Carburetor",
@@ -1363,39 +1395,40 @@
                "Tire Size": "P 185/70 R 14"
           },
           "DIMENSIONS": {
-               "Length": 179.7,
-               "Width": 68.5,
-               "Height": 52.5,
+               "Length": "179.7 in (4564 mm)",
+               "Width": "68.5 in (1740 mm)",
+               "Height": "52.5 in (1334 mm)",
                "Front/rear Track": "57.6/57 in (1,463/1,448 mm)",
-               "Wheelbase": 99.9,
-               "Ground Clearance": 4.6,
-               "Cargo Volume": 15.1,
-               "Aerodynamics (Cd)": 0.5
+               "Wheelbase": "99.9 in (2537 mm)",
+               "Ground Clearance": "4.6 in (117 mm)",
+               "Cargo Volume": "15.1 cuFT (428 L)",
+               "Aerodynamics (Cd)": "0.5"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2531
+               "Unladen Weight": "2531 lbs (1148 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 25,
-               "Highway": 36.2,
-               "Combined": 29
+               "City": "25 mpg US (9.4 L/100Km)",
+               "Highway": "36.2 mpg US (6.5 L/100Km)",
+               "Combined": "29 mpg US (8.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER LeBaron 1982-198805-03-04-15-06.jpg"
 },{
      "model_name": "CHRYSLER New Yorker 1995-1997",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.5": {
                "Cylinders": "V6",
-               "Displacement": 3523,
+               "Displacement": "3523 cm3",
                "Power": "155 KW @ 5850 RPM\n211 HP @ 5850 RPM\n208 BHP @ 5850 RPM",
                "Torque": "224 lb-ft @ 3350 RPM\n303 Nm @ 3350 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 127.4,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+               "Top Speed": "127.4 mph (205 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1409,37 +1442,38 @@
                "Tire Size": "225/60VR16"
           },
           "DIMENSIONS": {
-               "Length": 207.5,
-               "Width": 74.4,
-               "Height": 55.9,
+               "Length": "207.5 in (5271 mm)",
+               "Width": "74.4 in (1890 mm)",
+               "Height": "55.9 in (1420 mm)",
                "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
-               "Wheelbase": 113,
-               "Cargo Volume": 17.9,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "113 in (2870 mm)",
+               "Cargo Volume": "17.9 cuFT (507 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3615.6,
-               "Gross Weight Limit": 4455.5
+               "Unladen Weight": "3615.6 lbs (1640 kg)",
+               "Gross Weight Limit": "4455.5 lbs (2021 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 13.1,
-               "Highway": 24.5,
-               "Combined": 18.7
+               "City": "13.1 mpg US (18 L/100Km)",
+               "Highway": "24.5 mpg US (9.6 L/100Km)",
+               "Combined": "18.7 mpg US (12.6 L/100Km)"
           }
-     }
+     },
+     "img": "images/CHRYSLER New Yorker 1995-199705-03-04-15-07.jpg"
 },{
      "model_name": "CHRYSLER New Yorker 1955-1961",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.4": {
                "Cylinders": "V8",
-               "Displacement": 5422,
+               "Displacement": "5422 cm3",
                "Power": "146 KW @ 4400 RPM\n198 HP @ 4400 RPM\n196 BHP @ 4400 RPM",
                "Torque": "320 lb-ft @ 2000 RPM\n434 Nm @ 2000 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 121
+               "Top Speed": "121 mph (195 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1450,31 +1484,32 @@
                "Rear": "Drums"
           },
           "DIMENSIONS": {
-               "Length": 215.6,
-               "Width": 77.6,
-               "Height": 64.5,
-               "Wheelbase": 125.5,
-               "Ground Clearance": 7.6
+               "Length": "215.6 in (5476 mm)",
+               "Width": "77.6 in (1971 mm)",
+               "Height": "64.5 in (1638 mm)",
+               "Wheelbase": "125.5 in (3188 mm)",
+               "Ground Clearance": "7.6 in (193 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3971
+               "Unladen Weight": "3971 lbs (1801 kg)"
           }
-     }
+     },
+     "img": "images/CHRYSLER New Yorker 1955-196105-03-04-15-09.jpg"
 },{
      "model_name": "CHRYSLER PT Cruiser 2006-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT FWD (115 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "85 KW @ 6300 RPM\n116 HP @ 6300 RPM\n114 BHP @ 6300 RPM",
                "Torque": "116 lb-ft @ 4550 RPM\n157 Nm @ 4550 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.1
+               "Fuel capacity": "15.1 gallons (57.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109.4,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.5
+               "Top Speed": "109.4 mph (176 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1488,42 +1523,43 @@
                "Tire Size": "195/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 168.9,
-               "Width": 66.9,
-               "Height": 63,
+               "Length": "168.9 in (4290 mm)",
+               "Width": "66.9 in (1699 mm)",
+               "Height": "63 in (1600 mm)",
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": 103.1,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 18.3,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "18.3 cuFT (518 L)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2956.4,
-               "Gross Weight Limit": 4122.6
+               "Unladen Weight": "2956.4 lbs (1341 kg)",
+               "Gross Weight Limit": "4122.6 lbs (1870 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.5,
-               "Highway": 37.3,
-               "Combined": 30.5,
-               "CO2 Emissions": 180
+               "City": "23.5 mpg US (10 L/100Km)",
+               "Highway": "37.3 mpg US (6.3 L/100Km)",
+               "Combined": "30.5 mpg US (7.7 L/100Km)",
+               "CO2 Emissions": "180 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER PT Cruiser 2006-201005-03-04-15-12.jpg"
 },{
      "model_name": "CHRYSLER PT Cruiser 2000-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT FWD (116 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1598,
+               "Displacement": "1598 cm3",
                "Power": "85 KW @ 5600 RPM\n116 HP @ 5600 RPM\n114 BHP @ 5600 RPM",
                "Torque": "116 lb-ft @ 4450 RPM\n157 Nm @ 4450 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.1
+               "Fuel capacity": "15.1 gallons (57.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109.4,
-               "Acceleration 0-62 Mph (0-100 kph)": 13.5
+               "Top Speed": "109.4 mph (176 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "13.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1537,35 +1573,36 @@
                "Tire Size": "195/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 168.8,
-               "Width": 67.1,
-               "Height": 63,
+               "Length": "168.8 in (4288 mm)",
+               "Width": "67.1 in (1704 mm)",
+               "Height": "63 in (1600 mm)",
                "Front/rear Track": "58.3/58.2 in (1,481/1,478 mm)",
-               "Wheelbase": 103,
-               "Ground Clearance": 5.8,
-               "Cargo Volume": 75.3
+               "Wheelbase": "103 in (2616 mm)",
+               "Ground Clearance": "5.8 in (147 mm)",
+               "Cargo Volume": "75.3 cuFT (2132 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3020.8
+               "Unladen Weight": "3020.8 lbs (1370 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.5,
-               "Highway": 37.3,
-               "Combined": 30.5
+               "City": "23.5 mpg US (10 L/100Km)",
+               "Highway": "37.3 mpg US (6.3 L/100Km)",
+               "Combined": "30.5 mpg US (7.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER PT Cruiser 2000-200605-03-04-15-14.jpg"
 },{
      "model_name": "CHRYSLER PT Cruiser Convertible 2006-2008",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 4AT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2429,
+               "Displacement": "2429 cm3",
                "Power": "110 KW @ 5100 RPM\n150 HP @ 5100 RPM\n148 BHP @ 5100 RPM",
                "Torque": "165 lb-ft @ 4000 RPM\n224 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.1
+               "Fuel capacity": "15.1 gallons (57.2 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1579,38 +1616,39 @@
                "Tire Size": "205/55R16"
           },
           "DIMENSIONS": {
-               "Length": 168.9,
-               "Width": 68.9,
-               "Height": 60.6,
+               "Length": "168.9 in (4290 mm)",
+               "Width": "68.9 in (1750 mm)",
+               "Height": "60.6 in (1539 mm)",
                "Front/rear Track": "57.9/58.3 in (1,471/1,481 mm)",
-               "Wheelbase": 103.1,
-               "Ground Clearance": 6,
-               "Aerodynamics (Cd)": 0.3
+               "Wheelbase": "103.1 in (2619 mm)",
+               "Ground Clearance": "6 in (152 mm)",
+               "Aerodynamics (Cd)": "0.3"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3254
+               "Unladen Weight": "3254 lbs (1476 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21,
-               "Highway": 26
+               "City": "21 mpg US (11.2 L/100Km)",
+               "Highway": "26 mpg US (9 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER PT Cruiser Convertible 2006-200805-03-04-15-17.jpg"
 },{
      "model_name": "CHRYSLER PT Cruiser Convertible 2004-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 5MT (143 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2429,
+               "Displacement": "2429 cm3",
                "Power": "105 KW @ 5200 RPM\n143 HP @ 5200 RPM\n141 BHP @ 5200 RPM",
                "Torque": "158 lb-ft @ 4000 RPM\n214 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 15.1
+               "Fuel capacity": "15.1 gallons (57.2 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 7.6
+               "Top Speed": "124.3 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "7.6 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1624,35 +1662,36 @@
                "Tire Size": "195/65R15"
           },
           "DIMENSIONS": {
-               "Length": 168.8,
-               "Width": 67.1,
-               "Height": 60.6,
+               "Length": "168.8 in (4288 mm)",
+               "Width": "67.1 in (1704 mm)",
+               "Height": "60.6 in (1539 mm)",
                "Front/rear Track": "58.1/58.2 in (1,476/1,478 mm)",
-               "Wheelbase": 103,
-               "Ground Clearance": 5.8
+               "Wheelbase": "103 in (2616 mm)",
+               "Ground Clearance": "5.8 in (147 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17.4,
-               "Highway": 31,
-               "Combined": 24.2
+               "City": "17.4 mpg US (13.5 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)",
+               "Combined": "24.2 mpg US (9.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER PT Cruiser Convertible 2004-200605-03-04-15-19.jpg"
 },{
      "model_name": "CHRYSLER Saratoga 1989-1995",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.5L 3AT FWD (97 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2501,
+               "Displacement": "2501 cm3",
                "Power": "73 KW @ 4700 RPM\n99 HP @ 4700 RPM\n98 BHP @ 4700 RPM",
                "Torque": "136 lb-ft @ 2650 RPM\n184 Nm @ 2650 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.1
+               "Fuel capacity": "16.1 gallons (60.9 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 104,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.7
+               "Top Speed": "104 mph (167 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1666,34 +1705,35 @@
                "Tire Size": "205/60HR15"
           },
           "DIMENSIONS": {
-               "Length": 181.1,
-               "Width": 68.1,
-               "Height": 55.5,
+               "Length": "181.1 in (4600 mm)",
+               "Width": "68.1 in (1730 mm)",
+               "Height": "55.5 in (1410 mm)",
                "Front/rear Track": "57.5/57.1 in (1,461/1,450 mm)",
-               "Wheelbase": 103.5
+               "Wheelbase": "103.5 in (2629 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2877,
-               "Gross Weight Limit": 4079
+               "Unladen Weight": "2877 lbs (1305 kg)",
+               "Gross Weight Limit": "4079 lbs (1850 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 16.3,
-               "Highway": 37.9,
-               "Combined": 24.2
+               "City": "16.3 mpg US (14.4 L/100Km)",
+               "Highway": "37.9 mpg US (6.2 L/100Km)",
+               "Combined": "24.2 mpg US (9.7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Saratoga 1989-199505-03-04-15-21.jpg"
 },{
      "model_name": "CHRYSLER Sebring Convertible 2007-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 4AT (175 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2360,
+               "Displacement": "2360 cm3",
                "Power": "129 KW @ 6000 RPM\n175 HP @ 6000 RPM\n173 BHP @ 6000 RPM",
                "Torque": "166 lb-ft @ 4400 RPM\n225 Nm @ 4400 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.9
+               "Fuel capacity": "16.9 gallons (64.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1707,37 +1747,38 @@
                "Tire Size": "215/65R16"
           },
           "DIMENSIONS": {
-               "Length": 193.8,
-               "Width": 71.5,
-               "Height": 58.5,
+               "Length": "193.8 in (4923 mm)",
+               "Width": "71.5 in (1816 mm)",
+               "Height": "58.5 in (1486 mm)",
                "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
-               "Wheelbase": 108.9,
-               "Cargo Volume": 11.2
+               "Wheelbase": "108.9 in (2766 mm)",
+               "Cargo Volume": "11.2 cuFT (317 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3741.9
+               "Unladen Weight": "3741.9 lbs (1697 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 23.1,
-               "Highway": 31
+               "City": "23.1 mpg US (10.2 L/100Km)",
+               "Highway": "31 mpg US (7.6 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Sebring Convertible 2007-201005-03-04-15-23.jpg"
 },{
      "model_name": "CHRYSLER Sebring Convertible 2003-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5MT FWD (139 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1996,
+               "Displacement": "1996 cm3",
                "Power": "104 KW @ 5700 RPM\n141 HP @ 5700 RPM\n139 BHP @ 5700 RPM",
                "Torque": "139 lb-ft @ 4350 RPM\n188 Nm @ 4350 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.3
+               "Top Speed": "124.3 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1751,42 +1792,43 @@
                "Tire Size": "205-215/50-60R16-17"
           },
           "DIMENSIONS": {
-               "Length": 193.7,
-               "Width": 70.6,
-               "Height": 55.2,
+               "Length": "193.7 in (4920 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "55.2 in (1402 mm)",
                "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
-               "Wheelbase": 106,
-               "Ground Clearance": 5.8,
-               "Cargo Volume": 11.2,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "106 in (2692 mm)",
+               "Ground Clearance": "5.8 in (147 mm)",
+               "Cargo Volume": "11.2 cuFT (317 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3307.5,
-               "Gross Weight Limit": 4288.7
+               "Unladen Weight": "3307.5 lbs (1500 kg)",
+               "Gross Weight Limit": "4288.7 lbs (1945 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18.8,
-               "Highway": 33.6,
-               "Combined": 25.8,
-               "CO2 Emissions": 215
+               "City": "18.8 mpg US (12.5 L/100Km)",
+               "Highway": "33.6 mpg US (7 L/100Km)",
+               "Combined": "25.8 mpg US (9.1 L/100Km)",
+               "CO2 Emissions": "215 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Sebring Convertible 2003-200705-03-04-15-25.jpg"
 },{
      "model_name": "CHRYSLER Sebring Convertible 2001-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5MT FWD (139 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1996,
+               "Displacement": "1996 cm3",
                "Power": "104 KW @ 6000 RPM\n141 HP @ 6000 RPM\n139 BHP @ 6000 RPM",
                "Torque": "139 lb-ft @ 4350 RPM\n188 Nm @ 4350 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.3
+               "Top Speed": "124.3 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1800,37 +1842,38 @@
                "Tire Size": "205/65 R 15"
           },
           "DIMENSIONS": {
-               "Length": 193.7,
-               "Width": 69.4,
-               "Height": 55,
+               "Length": "193.7 in (4920 mm)",
+               "Width": "69.4 in (1763 mm)",
+               "Height": "55 in (1397 mm)",
                "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
-               "Wheelbase": 106,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 11.2,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "106 in (2692 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "11.2 cuFT (317 L)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3528,
-               "Gross Weight Limit": 4233.6
+               "Unladen Weight": "3528 lbs (1600 kg)",
+               "Gross Weight Limit": "4233.6 lbs (1920 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21.2,
-               "Highway": 34.6,
-               "Combined": 28
+               "City": "21.2 mpg US (11.1 L/100Km)",
+               "Highway": "34.6 mpg US (6.8 L/100Km)",
+               "Combined": "28 mpg US (8.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Sebring Convertible 2001-200305-03-04-15-28.jpg"
 },{
      "model_name": "CHRYSLER Sebring Coupe 2003-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 5MT FWD (150 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2351,
+               "Displacement": "2351 cm3",
                "Power": "110 KW @ 5500 RPM\n150 HP @ 5500 RPM\n148 BHP @ 5500 RPM",
                "Torque": "158 lb-ft @ 4000 RPM\n214 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1844,38 +1887,39 @@
                "Tire Size": "205-215/50-60R16-17"
           },
           "DIMENSIONS": {
-               "Length": 191.9,
-               "Width": 69.9,
-               "Height": 53.9,
+               "Length": "191.9 in (4874 mm)",
+               "Width": "69.9 in (1775 mm)",
+               "Height": "53.9 in (1369 mm)",
                "Front/rear Track": "59.4/59.3 in (1,509/1,506 mm)",
-               "Wheelbase": 103.7,
-               "Ground Clearance": 5.9
+               "Wheelbase": "103.7 in (2634 mm)",
+               "Ground Clearance": "5.9 in (150 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3065,
-               "Gross Weight Limit": 4068.2
+               "Unladen Weight": "3065 lbs (1390 kg)",
+               "Gross Weight Limit": "4068.2 lbs (1845 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 22,
-               "Highway": 29
+               "City": "22 mpg US (10.7 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Sebring Coupe 2003-200605-03-04-15-30.jpg"
 },{
      "model_name": "2001 Chrysler Sebring Coupe",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 5MT (141 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2351,
+               "Displacement": "2351 cm3",
                "Power": "104 KW @ 5500 RPM\n141 HP @ 5500 RPM\n139 BHP @ 5500 RPM",
                "Torque": "155 lb-ft @ 4000 RPM\n210 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.9
+               "Fuel capacity": "16.9 gallons (64.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 118.1,
-               "Acceleration 0-62 Mph (0-100 kph)": 10
+               "Top Speed": "118.1 mph (190 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1889,34 +1933,35 @@
                "Tire Size": "205/60 R16"
           },
           "DIMENSIONS": {
-               "Length": 190.2,
-               "Width": 70.3,
-               "Height": 53.7,
+               "Length": "190.2 in (4831 mm)",
+               "Width": "70.3 in (1786 mm)",
+               "Height": "53.7 in (1364 mm)",
                "Front/rear Track": "59.4/59.3 in (1,509/1,506 mm)",
-               "Wheelbase": 103.7,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 16.2
+               "Wheelbase": "103.7 in (2634 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "16.2 cuFT (459 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3100.2
+               "Unladen Weight": "3100.2 lbs (1406 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 21,
-               "Highway": 28
+               "City": "21 mpg US (11.2 L/100Km)",
+               "Highway": "28 mpg US (8.4 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/2001 Chrysler Sebring Coupe05-03-04-15-32.jpg"
 },{
      "model_name": "CHRYSLER Sebring Sedan 2006-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5MT FWD (152 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1998,
+               "Displacement": "1998 cm3",
                "Power": "112 KW @ 6400 RPM\n152 HP @ 6400 RPM\n150 BHP @ 6400 RPM",
                "Torque": "140 lb-ft @ 5000 RPM\n190 Nm @ 5000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 16.9
+               "Fuel capacity": "16.9 gallons (64.0 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1930,35 +1975,36 @@
                "Tire Size": "P215/65 R16"
           },
           "DIMENSIONS": {
-               "Length": 190.6,
-               "Width": 71.2,
-               "Height": 59,
+               "Length": "190.6 in (4841 mm)",
+               "Width": "71.2 in (1808 mm)",
+               "Height": "59 in (1499 mm)",
                "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
-               "Wheelbase": 108.9,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 13.7,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "108.9 in (2766 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "13.7 cuFT (388 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3287.7
+               "Unladen Weight": "3287.7 lbs (1491 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Sebring Sedan 2006-201005-03-04-15-34.jpg"
 },{
      "model_name": "CHRYSLER Sebring Sedan 2003-2006",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5MT FWD (141 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1996,
+               "Displacement": "1996 cm3",
                "Power": "104 KW @ 5700 RPM\n141 HP @ 5700 RPM\n139 BHP @ 5700 RPM",
                "Torque": "139 lb-ft @ 4350 RPM\n188 Nm @ 4350 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 124.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+               "Top Speed": "124.3 mph (200 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -1972,41 +2018,42 @@
                "Tire Size": "205-215/50-50 R 16-17"
           },
           "DIMENSIONS": {
-               "Length": 190.7,
-               "Width": 108,
-               "Height": 54.9,
+               "Length": "190.7 in (4844 mm)",
+               "Width": "108 in (2743 mm)",
+               "Height": "54.9 in (1394 mm)",
                "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
-               "Wheelbase": 108,
-               "Ground Clearance": 5.8,
-               "Cargo Volume": 15.9,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "108 in (2743 mm)",
+               "Ground Clearance": "5.8 in (147 mm)",
+               "Cargo Volume": "15.9 cuFT (450 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3340.6,
-               "Gross Weight Limit": 4354.9
+               "Unladen Weight": "3340.6 lbs (1515 kg)",
+               "Gross Weight Limit": "4354.9 lbs (1975 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 18.8,
-               "Highway": 33.6,
-               "Combined": 25.8
+               "City": "18.8 mpg US (12.5 L/100Km)",
+               "Highway": "33.6 mpg US (7 L/100Km)",
+               "Combined": "25.8 mpg US (9.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Sebring Sedan 2003-200605-03-04-15-36.jpg"
 },{
      "model_name": "CHRYSLER Sebring Sedan 2001-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0L 5MT FWD (193 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1996,
+               "Displacement": "1996 cm3",
                "Power": "142 KW @ 5700 RPM\n193 HP @ 5700 RPM\n190 BHP @ 5700 RPM",
                "Torque": "139 lb-ft @ 4350 RPM\n188 Nm @ 4350 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 127.4,
-               "Acceleration 0-62 Mph (0-100 kph)": 11
+               "Top Speed": "127.4 mph (205 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2020,37 +2067,38 @@
                "Tire Size": "205/50 R 16"
           },
           "DIMENSIONS": {
-               "Length": 190.7,
-               "Width": 70.6,
-               "Height": 54.9,
+               "Length": "190.7 in (4844 mm)",
+               "Width": "70.6 in (1793 mm)",
+               "Height": "54.9 in (1394 mm)",
                "Front/rear Track": "60.2/60.2 in (1,529/1,529 mm)",
-               "Wheelbase": 108,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 15.9
+               "Wheelbase": "108 in (2743 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "15.9 cuFT (450 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3340.6,
-               "Gross Weight Limit": 4354.9
+               "Unladen Weight": "3340.6 lbs (1515 kg)",
+               "Gross Weight Limit": "4354.9 lbs (1975 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 29.4,
-               "Combined": 23.1
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "29.4 mpg US (8 L/100Km)",
+               "Combined": "23.1 mpg US (10.2 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Sebring Sedan 2001-200305-03-04-15-38.jpg"
 },{
      "model_name": "CHRYSLER Six 1924-1931",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.3": {
                "Cylinders": "L6",
-               "Displacement": 3301,
+               "Displacement": "3301 cm3",
                "Power": "51 KW @ 3000 RPM\n69 HP @ 3000 RPM\n68 BHP @ 3000 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 70
+               "Top Speed": "70-75 mph (113 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -2064,19 +2112,20 @@
                "Tire Size": "30 X 5.75"
           },
           "DIMENSIONS": {
-               "Length": 160,
-               "Wheelbase": 112.8
+               "Length": "160 in (4064 mm)",
+               "Wheelbase": "112.8 in (2865 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3060
+               "Unladen Weight": "3060 lbs (1388 kg)"
           }
-     }
+     },
+     "img": "images/CHRYSLER Six 1924-193105-03-04-15-40.jpg"
 },{
      "model_name": "CHRYSLER Town & Country 2007-2016",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.3L V6 4AT RWD (178 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3301,
+               "Displacement": "3301 cm3",
                "Power": "131 KW @ 5000 RPM\n178 HP @ 5000 RPM\n176 BHP @ 5000 RPM",
                "Torque": "205 lb-ft @ 4000 RPM\n278 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
@@ -2094,38 +2143,39 @@
                "Tire Size": "225/65R17"
           },
           "DIMENSIONS": {
-               "Length": 202.8,
-               "Width": 78.7,
-               "Height": 67.9,
+               "Length": "202.8 in (5151 mm)",
+               "Width": "78.7 in (1999 mm)",
+               "Height": "67.9 in (1725 mm)",
                "Front/rear Track": "65.5/64.8 in (1,664/1,646 mm)",
-               "Wheelbase": 121.2,
-               "Cargo Volume": 33,
-               "Aerodynamics (Cd)": 0.316
+               "Wheelbase": "121.2 in (3078 mm)",
+               "Cargo Volume": "33 cuFT (934 L)",
+               "Aerodynamics (Cd)": "0.316"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4334,
-               "Gross Weight Limit": 5700
+               "Unladen Weight": "4334 lbs (1966 kg)",
+               "Gross Weight Limit": "5700 lbs (2585 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17,
-               "Highway": 24
+               "City": "17 mpg US (13.8 L/100Km)",
+               "Highway": "24 mpg US (9.8 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Town & Country 2007-201605-03-04-15-42.jpg"
 },{
      "model_name": "CHRYSLER Town & Country 2004-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.3L V6 4AT (182 HP)": {
                "Cylinders": "V6",
-               "Displacement": 3301,
+               "Displacement": "3301 cm3",
                "Power": "134 KW @ 5100 RPM\n182 HP @ 5100 RPM\n180 BHP @ 5100 RPM",
                "Torque": "250 lb-ft @ 4000 RPM\n339 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.1
+               "Fuel capacity": "20.1 gallons (76.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112
+               "Top Speed": "112 mph (180 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2139,38 +2189,39 @@
                "Tire Size": "215/65 HR 16"
           },
           "DIMENSIONS": {
-               "Length": 200.6,
-               "Width": 78.6,
-               "Height": 68.9,
+               "Length": "200.6 in (5095 mm)",
+               "Width": "78.6 in (1996 mm)",
+               "Height": "68.9 in (1750 mm)",
                "Front/rear Track": "63/64 in (1,600/1,626 mm)",
-               "Wheelbase": 119.3,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 16.4
+               "Wheelbase": "119.3 in (3030 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "16.4 cuFT (464 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4240.2
+               "Unladen Weight": "4240.2 lbs (1923 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 19,
-               "Highway": 25.8
+               "City": "19 mpg US (12.4 L/100Km)",
+               "Highway": "25.8 mpg US (9.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Town & Country 2004-200705-03-04-15-44.jpg"
 },{
      "model_name": "CHRYSLER Town & Country 2000-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 5MT (147 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2429,
+               "Displacement": "2429 cm3",
                "Power": "108 KW @ 5200 RPM\n147 HP @ 5200 RPM\n145 BHP @ 5200 RPM",
                "Torque": "161 lb-ft @ 4000 RPM\n218 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 20.1
+               "Fuel capacity": "20.1 gallons (76.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 113.7,
-               "Acceleration 0-62 Mph (0-100 kph)": 15.8
+               "Top Speed": "113.7 mph (183 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "15.8 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2184,40 +2235,41 @@
                "Tire Size": "205/75 R14"
           },
           "DIMENSIONS": {
-               "Length": 200.6,
-               "Width": 76.8,
-               "Height": 68.5,
+               "Length": "200.6 in (5095 mm)",
+               "Width": "76.8 in (1951 mm)",
+               "Height": "68.5 in (1740 mm)",
                "Front/rear Track": "63/64 in (1,600/1,626 mm)",
-               "Wheelbase": 119.3,
-               "Ground Clearance": 5.7,
-               "Cargo Volume": 167
+               "Wheelbase": "119.3 in (3030 mm)",
+               "Ground Clearance": "5.7 in (145 mm)",
+               "Cargo Volume": "167 cuFT (4729 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4266.7,
-               "Gross Weight Limit": 5523.5
+               "Unladen Weight": "4266.7 lbs (1935 kg)",
+               "Gross Weight Limit": "5523.5 lbs (2505 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 17.3,
-               "Highway": 29,
-               "Combined": 23.3
+               "City": "17.3 mpg US (13.6 L/100Km)",
+               "Highway": "29 mpg US (8.1 L/100Km)",
+               "Combined": "23.3 mpg US (10.1 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Town & Country 2000-200305-03-04-15-46.jpg"
 },{
      "model_name": "CHRYSLER Voyager 2000-2003",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.4L 4AT FWD (147 HP)": {
                "Cylinders": "L4",
-               "Displacement": 2429,
+               "Displacement": "2429 cm3",
                "Power": "108 KW @ 5200 RPM\n147 HP @ 5200 RPM\n145 BHP @ 5200 RPM",
                "Torque": "161 lb-ft @ 4000 RPM\n218 Nm @ 4000 RPM",
                "Fuel System": "Electronic Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 19.8
+               "Fuel capacity": "19.8 gallons (75.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 113.7,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.4
+               "Top Speed": "113.7 mph (183 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -2231,25 +2283,26 @@
                "Tire Size": "205/75 R 14"
           },
           "DIMENSIONS": {
-               "Length": 199.6,
-               "Width": 76.8,
-               "Height": 68.5,
+               "Length": "199.6 in (5070 mm)",
+               "Width": "76.8 in (1951 mm)",
+               "Height": "68.5 in (1740 mm)",
                "Front/rear Track": "63/64 in (1,600/1,626 mm)",
-               "Wheelbase": 119.3,
-               "Ground Clearance": 5.5,
-               "Cargo Volume": 167
+               "Wheelbase": "119.3 in (3030 mm)",
+               "Ground Clearance": "5.5 in (140 mm)",
+               "Cargo Volume": "167 cuFT (4729 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3858,
-               "Gross Weight Limit": 5401
+               "Unladen Weight": "3858 lbs (1750 kg)",
+               "Gross Weight Limit": "5401 lbs (2450 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 14.5,
-               "Highway": 23.1,
-               "Combined": 18.8,
-               "CO2 Emissions": 297
+               "City": "14.5 mpg US (16.2 L/100Km)",
+               "Highway": "23.1 mpg US (10.2 L/100Km)",
+               "Combined": "18.8 mpg US (12.5 L/100Km)",
+               "CO2 Emissions": "297 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/CHRYSLER Voyager 2000-200305-03-04-15-49.jpg"
 },	
  ] } 

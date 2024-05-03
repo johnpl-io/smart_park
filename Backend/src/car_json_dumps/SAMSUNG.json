@@ -2,17 +2,17 @@
 {
      "model_name": "2002 Samsung SM 3",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.5L 5MT (100 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1497,
+               "Displacement": "1497 cm3",
                "Power": "73 KW @ 5600 RPM\n100 HP @ 5600 RPM\n98 BHP @ 5600 RPM",
                "Torque": "100 lb-ft @ 4400 RPM\n136 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 114,
-               "Acceleration 0-62 Mph (0-100 kph)": 11.7
+               "Top Speed": "114 mph (183 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "11.7 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -26,27 +26,28 @@
                "Tire Size": "175/70 R14"
           },
           "DIMENSIONS": {
-               "Length": 177.6,
-               "Width": 67.1,
-               "Height": 56.7,
+               "Length": "177.6 in (4511 mm)",
+               "Width": "67.1 in (1704 mm)",
+               "Height": "56.7 in (1440 mm)",
                "Front/rear Track": "58.6/57.8 in (1,488/1,468 mm)",
-               "Wheelbase": 99.8,
-               "Cargo Volume": 16.2
+               "Wheelbase": "99.8 in (2535 mm)",
+               "Cargo Volume": "16.2 cuFT (459 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2560
+               "Unladen Weight": "2560 lbs (1161 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 28.6,
-               "CO2 Emissions": 195.2
+               "Combined": "28.6 mpg US (8.2 L/100Km)",
+               "CO2 Emissions": "195.2 g/km"
           }
-     }
+     },
+     "img": "images/2002 Samsung SM 305-03-07-09-54.jpg"
 },{
      "model_name": "SAMSUNG SM 5 2004-2010",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.0": {
                "Cylinders": "L4",
-               "Displacement": 1999,
+               "Displacement": "1999 cm3",
                "Power": "100 KW @ 5400 RPM\n136 HP @ 5400 RPM\n134 BHP @ 5400 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
@@ -59,22 +60,23 @@
                "Front": "Ventilated Discs",
                "Rear": "Discs"
           }
-     }
+     },
+     "img": "images/SAMSUNG SM 5 2004-201005-03-07-09-55.jpg"
 },{
      "model_name": "1998 Samsung SM5",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 5MT (134 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1838,
+               "Displacement": "1838 cm3",
                "Power": "98 KW @ 6200 RPM\n133 HP @ 6200 RPM\n131 BHP @ 6200 RPM",
                "Torque": "119 lb-ft @ 4800 RPM\n161 Nm @ 4800 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 17.2
+               "Fuel capacity": "17.2 gallons (65.1 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 117,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.5
+               "Top Speed": "117 mph (188 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -88,29 +90,30 @@
                "Tire Size": "185/70 R14"
           },
           "DIMENSIONS": {
-               "Length": 190,
-               "Width": 69.9,
-               "Height": 55.7,
+               "Length": "190 in (4826 mm)",
+               "Width": "69.9 in (1775 mm)",
+               "Height": "55.7 in (1415 mm)",
                "Front/rear Track": "60.2/59.4 in (1,529/1,509 mm)",
-               "Wheelbase": 106.3,
-               "Cargo Volume": 17,
-               "Aerodynamics (Cd)": 0.34
+               "Wheelbase": "106.3 in (2700 mm)",
+               "Cargo Volume": "17 cuFT (481 L)",
+               "Aerodynamics (Cd)": "0.34"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2913
+               "Unladen Weight": "2913 lbs (1321 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 24.7,
-               "CO2 Emissions": 226.1
+               "Combined": "24.7 mpg US (9.5 L/100Km)",
+               "CO2 Emissions": "226.1 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/1998 Samsung SM505-03-07-09-57.jpg"
 },{
      "model_name": "SAMSUNG SM 7 2005-2011",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 2.3": {
                "Cylinders": "L4",
-               "Displacement": 2349,
+               "Displacement": "2349 cm3",
                "Power": "125 KW @ 6000 RPM\n170 HP @ 6000 RPM\n168 BHP @ 6000 RPM",
                "Torque": "167 lb-ft @ 4400 RPM\n226 Nm @ 4400 RPM",
                "Fuel System": "Multipoint Injection",
@@ -128,16 +131,17 @@
                "Tire Size": "205/65 R16"
           },
           "DIMENSIONS": {
-               "Length": 194.7,
-               "Width": 70.5,
-               "Height": 58.1,
+               "Length": "194.7 in (4945 mm)",
+               "Width": "70.5 in (1791 mm)",
+               "Height": "58.1 in (1476 mm)",
                "Front/rear Track": "60.6/60.8 in (1,539/1,544 mm)",
-               "Wheelbase": 109.3
+               "Wheelbase": "109.3 in (2776 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 3428
+               "Unladen Weight": "3428 lbs (1555 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/SAMSUNG SM 7 2005-201105-03-07-09-59.jpg"
 },	
  ] } 

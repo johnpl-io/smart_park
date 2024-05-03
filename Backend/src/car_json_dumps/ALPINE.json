@@ -2,18 +2,18 @@
 {
      "model_name": "ALPINE A110 S 2021-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 7AT (304 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1798,
+               "Displacement": "1798 cm3",
                "Power": "223.7 KW @ 6300 RPM\n304 HP @ 6300 RPM\n300 BHP @ 6300 RPM",
                "Torque": "251 lb-ft @ 2400-6000 RPM\n340 Nm @ 2400-6000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.2
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.2 s"
           },
           "TRANSMISSION SPECS": {
                "Gearbox": "7-speed automatic"
@@ -26,18 +26,19 @@
                "Tire Size": "215/40 R18 // 245/40 R18"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2445,
-               "Gross Weight Limit": 2998
+               "Unladen Weight": "2445 - 2513 lbs (1109 - 1140 kg)",
+               "Gross Weight Limit": "2998 lbs (1360 kg)"
           },
           "FUEL ECONOMY (WLTP)": {
-               "Combined": 34.6,
+               "Combined": "34.6 mpg US (6.8 L/100Km)",
                "CO2 Emissions (Combined)": "153 g/km"
           }
-     }
+     },
+     "img": "images/ALPINE A110 S 2021-Present05-03-03-19-42.jpg"
 },{
      "model_name": "ALPINE A110S 2019-2021",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 7AT (292 HP)": {
                "Cylinders": "L4",
                "Power": "214.8 KW @ 6400 RPM\n292 HP @ 6400 RPM\n288 BHP @ 6400 RPM",
                "Torque": "236 lb-ft @ 2000-6400 RPM\n320 Nm @ 2000-6400 RPM",
@@ -45,8 +46,8 @@
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 162,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.4
+               "Top Speed": "162 mph (261 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -60,33 +61,34 @@
                "Tire Size": "215/40R18 // 245/40R18"
           },
           "DIMENSIONS": {
-               "Length": 164.6,
-               "Width": 70.8,
-               "Height": 49.1,
+               "Length": "164.6 in (4181 mm)",
+               "Width": "70.8 in (1798 mm)",
+               "Height": "49.1 in (1247 mm)",
                "Front/rear Track": "61.3/61.1 in (1,557/1,552 mm)",
-               "Wheelbase": 95.2,
-               "Cargo Volume": 6.9,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "95.2 in (2418 mm)",
+               "Cargo Volume": "6.9 cuFT (195 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2522
+               "Unladen Weight": "2522 lbs (1144 kg)"
           }
-     }
+     },
+     "img": "images/ALPINE A110S 2019-202105-03-03-19-43.jpg"
 },{
      "model_name": "2023 Alpine A 110 R",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 7AT RWD (300 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1798,
+               "Displacement": "1798 cm3",
                "Power": "220.6 KW @ 6300 RPM\n300 HP @ 6300 RPM\n296 BHP @ 6300 RPM",
                "Torque": "251 lb-ft @ 2400-6000 RPM\n340 Nm @ 2400-6000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 177,
-               "Acceleration 0-62 Mph (0-100 kph)": 3.9
+               "Top Speed": "177 mph (285 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "3.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -100,35 +102,36 @@
                "Tire Size": "215/40 R18 // 245/40 R18"
           },
           "DIMENSIONS": {
-               "Length": 167.6,
-               "Width": 70.8,
-               "Height": 49.3,
+               "Length": "167.6 in (4257 mm)",
+               "Width": "70.8 in (1798 mm)",
+               "Height": "49.3 in (1252 mm)",
                "Front/rear Track": "61.3/61.1 in (1,557/1,552 mm)",
-               "Wheelbase": 95.3,
-               "Ground Clearance": 4.2,
-               "Aerodynamics (Cd)": 0.637,
-               "Turning circle": 37.4
+               "Wheelbase": "95.3 in (2421 mm)",
+               "Ground Clearance": "4.2 in (107 mm)",
+               "Aerodynamics (Cd)": "0.637",
+               "Turning circle": "37.4 ft (11.4 m)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2513,
-               "Gross Weight Limit": 2998
+               "Unladen Weight": "2513 lbs (1140 kg)",
+               "Gross Weight Limit": "2998 lbs (1360 kg)"
           }
-     }
+     },
+     "img": "images/2023 Alpine A 110 R05-03-03-19-45.jpg"
 },{
      "model_name": "2021 Alpine A110",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.8L 7AT (255 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1798,
+               "Displacement": "1798 cm3",
                "Power": "187.9 KW @ 6000 RPM\n255 HP @ 6000 RPM\n252 BHP @ 6000 RPM",
                "Torque": "236 lb-ft @ 2000-4800 RPM\n320 Nm @ 2000-4800 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
           },
           "TRANSMISSION SPECS": {
                "Gearbox": "7-speed automatic"
@@ -141,30 +144,31 @@
                "Tire Size": "205/45 R17 // 235/45 R17"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2429,
-               "Gross Weight Limit": 2998
+               "Unladen Weight": "2429 - 2513 lbs (1102 - 1140 kg)",
+               "Gross Weight Limit": "2998 lbs (1360 kg)"
           },
           "FUEL ECONOMY (WLTP)": {
-               "Combined": 35.1,
+               "Combined": "35.1 mpg US (6.7 L/100Km)",
                "CO2 Emissions (Combined)": "152 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/2021 Alpine A11005-03-03-19-47.jpg"
 },{
      "model_name": "ALPINE A110 2017-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - A110 1.8L 7AT (252 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1800,
+               "Displacement": "1800 cm3",
                "Power": "185.4 KW @ 6000 RPM\n252 HP @ 6000 RPM\n249 BHP @ 6000 RPM",
                "Torque": "236 lb-ft @ 2000 RPM\n320 Nm @ 2000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.9
+               "Fuel capacity": "11.9 gallons (45.0 L)"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.5
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -178,37 +182,38 @@
                "Tire Size": "205/40 R18 || 235/40 R18"
           },
           "DIMENSIONS": {
-               "Length": 164.5,
-               "Width": 70.8,
-               "Height": 49.3,
+               "Length": "164.5 in (4178 mm)",
+               "Width": "70.8 in (1798 mm)",
+               "Height": "49.3 in (1252 mm)",
                "Front/rear Track": "61.3/61.1 in (1,557/1,552 mm)",
-               "Wheelbase": 95.2,
-               "Cargo Volume": 3.5,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "95.2 in (2418 mm)",
+               "Cargo Volume": "3.5 cuFT (99 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2381
+               "Unladen Weight": "2381 lbs (1080 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 37.9,
-               "CO2 Emissions": 140
+               "Combined": "37.9 mpg US (6.2 L/100Km)",
+               "CO2 Emissions": "140 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/ALPINE A110 2017-Present05-03-03-19-49.jpg"
 },{
      "model_name": "ALPINE A110 Berlinette 1962-1977",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.9 4MT (51 HP)": {
                "Cylinders": "L4",
-               "Displacement": 956,
+               "Displacement": "956 cm3",
                "Power": "37.5 KW @ 5500 RPM\n51 HP @ 5500 RPM\n50 BHP @ 5500 RPM",
                "Torque": "55 lb-ft @ 3500 RPM\n74 Nm @ 3500 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 109,
-               "Acceleration 0-62 Mph (0-100 kph)": 14.5
+               "Top Speed": "109 mph (175 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "14.5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -222,35 +227,36 @@
                "Tire Size": "145-380"
           },
           "DIMENSIONS": {
-               "Length": 151.6,
-               "Width": 57.5,
-               "Height": 44.1,
+               "Length": "151.6 in (3851 mm)",
+               "Width": "57.5 in (1461 mm)",
+               "Height": "44.1 in (1120 mm)",
                "Front/rear Track": "49.2/48 in (1,250/1,219 mm)",
-               "Wheelbase": 82.7,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "82.7 in (2101 mm)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1246,
-               "Gross Weight Limit": 1687
+               "Unladen Weight": "1246 lbs (565 kg)",
+               "Gross Weight Limit": "1687 lbs (765 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 33.6
+               "Combined": "33.6 mpg US (7 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ALPINE A110 Berlinette 1962-197705-03-03-19-51.jpg"
 },{
      "model_name": "ALPINE A106 1955-1964",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.7 3MT (26 HP)": {
                "Cylinders": "L4",
-               "Displacement": 747,
+               "Displacement": "747 cm3",
                "Power": "19.1 KW @ 4100 RPM\n26 HP @ 4100 RPM\n26 BHP @ 4100 RPM",
                "Torque": "41 lb-ft @ 2000 RPM\n55 Nm @ 2000 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 75
+               "Top Speed": "75 mph (121 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -264,34 +270,35 @@
                "Tire Size": "135-380"
           },
           "DIMENSIONS": {
-               "Length": 145.7,
-               "Width": 57.1,
-               "Height": 48,
+               "Length": "145.7 in (3701 mm)",
+               "Width": "57.1 in (1450 mm)",
+               "Height": "48 in (1219 mm)",
                "Front/rear Track": "48/48 in (1,219/1,219 mm)",
-               "Wheelbase": 82.7,
-               "Ground Clearance": 7.1,
-               "Aerodynamics (Cd)": 0.45
+               "Wheelbase": "82.7 in (2101 mm)",
+               "Ground Clearance": "7.1 in (180 mm)",
+               "Aerodynamics (Cd)": "0.45"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1102
+               "Unladen Weight": "1102 lbs (500 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 33.6
+               "Combined": "33.6 mpg US (7 L/100Km)"
           }
-     }
+     },
+     "img": "images/ALPINE A106 1955-196405-03-03-19-53.jpg"
 },{
      "model_name": "ALPINE A108 1958-1965",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.8 4MT (40 HP)": {
                "Cylinders": "L4",
-               "Displacement": 845,
+               "Displacement": "845 cm3",
                "Power": "29.5 KW @ 5000 RPM\n40 HP @ 5000 RPM\n40 BHP @ 5000 RPM",
                "Torque": "48 lb-ft @ 3300 RPM\n65 Nm @ 3300 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 88
+               "Top Speed": "88 mph (142 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -305,21 +312,22 @@
                "Tire Size": "145-380"
           },
           "DIMENSIONS": {
-               "Length": 156.7,
-               "Width": 58.7,
-               "Height": 48.8,
+               "Length": "156.7 in (3980 mm)",
+               "Width": "58.7 in (1491 mm)",
+               "Height": "48.8 in (1240 mm)",
                "Front/rear Track": "49.2/48 in (1,250/1,219 mm)",
-               "Wheelbase": 85.8,
-               "Ground Clearance": 7.1,
-               "Aerodynamics (Cd)": 0.4
+               "Wheelbase": "85.8 in (2179 mm)",
+               "Ground Clearance": "7.1 in (180 mm)",
+               "Aerodynamics (Cd)": "0.4"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1246
+               "Unladen Weight": "1246 lbs (565 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 31.4
+               "Combined": "31.4 mpg US (7.5 L/100Km)"
           },
           "": {}
-     }
+     },
+     "img": "images/ALPINE A108 1958-196505-03-03-19-55.jpg"
 },	
  ] } 

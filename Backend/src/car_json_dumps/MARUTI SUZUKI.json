@@ -2,16 +2,16 @@
 {
      "model_name": "MARUTI SUZUKI Swift 2006-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3": {
                "Cylinders": "L4",
-               "Displacement": 1298,
+               "Displacement": "1298 cm3",
                "Power": "64 KW @ 6000 RPM\n87 HP @ 6000 RPM\n86 BHP @ 6000 RPM",
                "Torque": "83 lb-ft @ 4500 RPM\n113 Nm @ 4500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99.4
+               "Top Speed": "99.4 mph (160 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -25,34 +25,35 @@
                "Tire Size": "185/70 R14"
           },
           "DIMENSIONS": {
-               "Length": 145.5,
-               "Width": 66.5,
-               "Height": 60.2,
+               "Length": "145.5 in (3696 mm)",
+               "Width": "66.5 in (1689 mm)",
+               "Height": "60.2 in (1529 mm)",
                "Front/rear Track": "57.9/58.3 in (1,471/1,481 mm)",
-               "Wheelbase": 94.9,
-               "Ground Clearance": 6.7,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "94.9 in (2410 mm)",
+               "Ground Clearance": "6.7 in (170 mm)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2160,
-               "Gross Weight Limit": 3120
+               "Unladen Weight": "2160 lbs (980 kg)",
+               "Gross Weight Limit": "3120 lbs (1415 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/MARUTI SUZUKI Swift 2006-Present05-03-05-40-22.jpg"
 },{
      "model_name": "MARUTI SUZUKI 800 2000-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.8L 4MT (50 HP)": {
                "Cylinders": "L3",
-               "Displacement": 796,
+               "Displacement": "796 cm3",
                "Power": "37 KW @ 5500 RPM\n50 HP @ 5500 RPM\n50 BHP @ 5500 RPM",
                "Torque": "43 lb-ft @ 2500 RPM\n58 Nm @ 2500 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 85.7,
-               "Acceleration 0-62 Mph (0-100 kph)": 22.3
+               "Top Speed": "85.7 mph (138 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "22.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -66,34 +67,35 @@
                "Tire Size": "145/70 R12"
           },
           "DIMENSIONS": {
-               "Length": 131.3,
-               "Width": 56.7,
-               "Height": 55.3,
+               "Length": "131.3 in (3335 mm)",
+               "Width": "56.7 in (1440 mm)",
+               "Height": "55.3 in (1405 mm)",
                "Front/rear Track": "57.9/58.3 in (1,471/1,481 mm)",
-               "Wheelbase": 85.6,
-               "Ground Clearance": 6.7
+               "Wheelbase": "85.6 in (2174 mm)",
+               "Ground Clearance": "6.7 in (170 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1434,
-               "Gross Weight Limit": 2568.4
+               "Unladen Weight": "1434 lbs (650 kg)",
+               "Gross Weight Limit": "2568.4 lbs (1165 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 37.9
+               "Combined": "37.9 mpg US (6.2 L/100Km)"
           }
-     }
+     },
+     "img": "images/MARUTI SUZUKI 800 2000-Present05-03-05-40-25.jpg"
 },{
      "model_name": "MARUTI SUZUKI Gypsy 1985-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.0L 4MT AWD (61 HP)": {
                "Cylinders": "L4",
-               "Displacement": 970,
+               "Displacement": "970 cm3",
                "Power": "45 KW @ 5500 RPM\n61 HP @ 5500 RPM\n60 BHP @ 5500 RPM",
                "Torque": "55 lb-ft @ 3000 RPM\n75 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Acceleration 0-62 Mph (0-100 kph)": 29.1
+               "Acceleration 0-62 Mph (0-100 kph)": "29.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "All Wheel Drive",
@@ -107,31 +109,32 @@
                "Tire Size": "F78-15"
           },
           "DIMENSIONS": {
-               "Length": 157.9,
-               "Width": 60.6,
-               "Height": 73.8,
-               "Wheelbase": 93.5
+               "Length": "157.9 in (4011 mm)",
+               "Width": "60.6 in (1539 mm)",
+               "Height": "73.8 in (1875 mm)",
+               "Wheelbase": "93.5 in (2375 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2130
+               "Unladen Weight": "2130 lbs (966 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 32.6
+               "Combined": "32.6 mpg US (7.2 L/100Km)"
           }
-     }
+     },
+     "img": "images/MARUTI SUZUKI Gypsy 1985-Present05-03-05-40-27.jpg"
 },{
      "model_name": "MARUTI SUZUKI Wagon R 2005-Present",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.1L 5MT (63 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1061,
+               "Displacement": "1061 cm3",
                "Power": "47 KW @ 6200 RPM\n64 HP @ 6200 RPM\n63 BHP @ 6200 RPM",
                "Torque": "62 lb-ft @ 3500 RPM\n84 Nm @ 3500 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 115
+               "Top Speed": "115 mph (185 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -145,34 +148,35 @@
                "Tire Size": "155/65 R13"
           },
           "DIMENSIONS": {
-               "Length": 138.6,
-               "Width": 58.7,
-               "Height": 65.4,
+               "Length": "138.6 in (3520 mm)",
+               "Width": "58.7 in (1491 mm)",
+               "Height": "65.4 in (1661 mm)",
                "Front/rear Track": "51/50.8 in (1,295/1,290 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 6.5,
-               "Cargo Volume": 7.7,
-               "Aerodynamics (Cd)": 0.35
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "6.5 in (165 mm)",
+               "Cargo Volume": "7.7 cuFT (218 L)",
+               "Aerodynamics (Cd)": "0.35"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1818.8,
-               "Gross Weight Limit": 2755.8
+               "Unladen Weight": "1818.8 lbs (825 kg)",
+               "Gross Weight Limit": "2755.8 lbs (1250 kg)"
           }
-     }
+     },
+     "img": {}
 },{
      "model_name": "MARUTI SUZUKI Alto 2000-2014",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 0.8L 5MT FWD (47 HP)": {
                "Cylinders": "L3",
-               "Displacement": 796,
+               "Displacement": "796 cm3",
                "Power": "34.6 KW @ 6200 RPM\n47 HP @ 6200 RPM\n46 BHP @ 6200 RPM",
                "Torque": "46 lb-ft @ 3000 RPM\n62 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 80.7,
-               "Acceleration 0-62 Mph (0-100 kph)": 20
+               "Top Speed": "80.7 mph (130 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "20 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -186,38 +190,39 @@
                "Tire Size": "145/80 R12"
           },
           "DIMENSIONS": {
-               "Length": 137.4,
-               "Width": 58.1,
-               "Height": 57.4,
+               "Length": "137.4 in (3490 mm)",
+               "Width": "58.1 in (1476 mm)",
+               "Height": "57.4 in (1458 mm)",
                "Front/rear Track": "51/50.8 in (1,295/1,290 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 6.3,
-               "Cargo Volume": 6.2,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "6.3 in (160 mm)",
+               "Cargo Volume": "6.2 cuFT (176 L)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1587,
-               "Gross Weight Limit": 2568
+               "Unladen Weight": "1587 lbs (720 kg)",
+               "Gross Weight Limit": "2568 lbs (1165 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 32.6,
-               "CO2 Emissions": 171.4
+               "Combined": "32.6 mpg US (7.2 L/100Km)",
+               "CO2 Emissions": "171.4 g/km"
           }
-     }
+     },
+     "img": "images/MARUTI SUZUKI Alto 2000-201405-03-05-40-40.jpg"
 },{
      "model_name": "MARUTI SUZUKI Baleno 2000-2007",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.6L 5MT (90 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1590,
+               "Displacement": "1590 cm3",
                "Power": "67 KW @ 6000 RPM\n91 HP @ 6000 RPM\n90 BHP @ 6000 RPM",
                "Torque": "97 lb-ft @ 3000 RPM\n132 Nm @ 3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 108.7,
-               "Acceleration 0-62 Mph (0-100 kph)": 10.3
+               "Top Speed": "108.7 mph (175 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "10.3 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -231,34 +236,35 @@
                "Tire Size": "165/65 R13"
           },
           "DIMENSIONS": {
-               "Length": 166.3,
-               "Width": 66.5,
-               "Height": 54.7,
+               "Length": "166.3 in (4224 mm)",
+               "Width": "66.5 in (1689 mm)",
+               "Height": "54.7 in (1389 mm)",
                "Front/rear Track": "56.7/56.5 in (1,440/1,435 mm)",
-               "Wheelbase": 97.6,
-               "Ground Clearance": 6.7,
-               "Cargo Volume": 12.2
+               "Wheelbase": "97.6 in (2479 mm)",
+               "Ground Clearance": "6.7 in (170 mm)",
+               "Cargo Volume": "12.2 cuFT (345 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2152,
-               "Gross Weight Limit": 3328
+               "Unladen Weight": "2152 lbs (976 kg)",
+               "Gross Weight Limit": "3328 lbs (1510 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 29.7,
-               "CO2 Emissions": 174
+               "Combined": "29.7 mpg US (7.9 L/100Km)",
+               "CO2 Emissions": "174 g/km"
           }
-     }
+     },
+     "img": "images/MARUTI SUZUKI Baleno 2000-200705-03-05-40-42.jpg"
 },{
      "model_name": "MARUTI SUZUKI Ciaz 2014-2017",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.4L 4AT (92 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1398,
+               "Displacement": "1398 cm3",
                "Power": "68 KW @ 6000 RPM\n92 HP @ 6000 RPM\n91 BHP @ 6000 RPM",
                "Torque": "96 lb-ft @ 4000 RPM\n130 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline",
-               "Fuel capacity": 11.4
+               "Fuel capacity": "11.4 gallons (43.2 L)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -272,34 +278,35 @@
                "Tire Size": "185/65 R15"
           },
           "DIMENSIONS": {
-               "Length": 176.8,
-               "Width": 68.1,
-               "Height": 58.5,
+               "Length": "176.8 in (4491 mm)",
+               "Width": "68.1 in (1730 mm)",
+               "Height": "58.5 in (1486 mm)",
                "Front/rear Track": "58.9/59.3 in (1,496/1,506 mm)",
-               "Wheelbase": 104.3,
-               "Ground Clearance": 6.7,
-               "Cargo Volume": 18
+               "Wheelbase": "104.3 in (2649 mm)",
+               "Ground Clearance": "6.7 in (170 mm)",
+               "Cargo Volume": "18 cuFT (510 L)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 2249,
-               "Gross Weight Limit": 3307
+               "Unladen Weight": "2249 - 2293 lbs (1020 - 1040 kg)",
+               "Gross Weight Limit": "3307 lbs (1500 kg)"
           },
           "": {}
-     }
+     },
+     "img": "images/MARUTI SUZUKI Ciaz 2014-201705-03-05-40-44.jpg"
 },{
      "model_name": "MARUTI SUZUKI Esteem 1995-2000",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.3L 5MT (85 HP)": {
                "Cylinders": "L4",
-               "Displacement": 1298,
+               "Displacement": "1298 cm3",
                "Power": "63 KW @ 6000 RPM\n85 HP @ 6000 RPM\n84 BHP @ 6000 RPM",
                "Torque": "74 lb-ft @ 4000 RPM\n100 Nm @ 4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 88,
-               "Acceleration 0-62 Mph (0-100 kph)": 12.9
+               "Top Speed": "88 mph (142 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "12.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Front Wheel Drive",
@@ -309,28 +316,29 @@
                "Tire Size": "155/80 R13"
           },
           "DIMENSIONS": {
-               "Length": 160.4,
-               "Width": 62,
-               "Height": 54.9,
+               "Length": "160.4 in (4074 mm)",
+               "Width": "62 in (1575 mm)",
+               "Height": "54.9 in (1394 mm)",
                "Front/rear Track": "60.6/61.4 in (1,539/1,560 mm)",
-               "Wheelbase": 93.1,
-               "Ground Clearance": 7.5,
-               "Aerodynamics (Cd)": 0.32
+               "Wheelbase": "93.1 in (2365 mm)",
+               "Ground Clearance": "7.5 in (191 mm)",
+               "Aerodynamics (Cd)": "0.32"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1821
+               "Unladen Weight": "1821 lbs (826 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 33.1,
-               "CO2 Emissions": 169
+               "Combined": "33.1 mpg US (7.1 L/100Km)",
+               "CO2 Emissions": "169 g/km"
           }
-     }
+     },
+     "img": "images/MARUTI SUZUKI Esteem 1995-200005-03-05-40-46.jpg"
 },{
      "model_name": "MARUTI SUZUKI Zen Estilo 2006-2009",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 1.1": {
                "Cylinders": "L4",
-               "Displacement": 1061,
+               "Displacement": "1061 cm3",
                "Power": "47 KW @ 6200 RPM\n64 HP @ 6200 RPM\n63 BHP @ 6200 RPM",
                "Torque": "62 lb-ft @ 3500 RPM\n84 Nm @ 3500 RPM",
                "Fuel System": "Multipoint Injection",
@@ -348,16 +356,17 @@
                "Tire Size": "145/70 R 13"
           },
           "DIMENSIONS": {
-               "Length": 137.6,
-               "Width": 58.1,
-               "Height": 62.8,
+               "Length": "137.6 in (3495 mm)",
+               "Width": "58.1 in (1476 mm)",
+               "Height": "62.8 in (1595 mm)",
                "Front/rear Track": "50.9/50.8 in (1,293/1,290 mm)",
-               "Wheelbase": 92.9,
-               "Ground Clearance": 6.5
+               "Wheelbase": "92.9 in (2360 mm)",
+               "Ground Clearance": "6.5 in (165 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 1884.9
+               "Unladen Weight": "1884.9 lbs (855 kg)"
           }
-     }
+     },
+     "img": "images/MARUTI SUZUKI Zen Estilo 2006-200905-03-05-40-48.jpg"
 },	
  ] } 

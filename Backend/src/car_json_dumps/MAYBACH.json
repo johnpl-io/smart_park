@@ -2,17 +2,17 @@
 {
      "model_name": "MAYBACH 57 Zeppelin 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.0 V12 BITURBO 5AT (640 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5980,
+               "Displacement": "5980 cm3",
                "Power": "471 KW @ 4800-5100 RPM\n640 HP @ 4800-5100 RPM\n632 BHP @ 4800-5100 RPM",
                "Torque": "738 lb-ft @ 2000-4000 RPM\n1001 Nm @ 2000-4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 172,
-               "Acceleration 0-62 Mph (0-100 kph)": 4.9
+               "Top Speed": "172 mph (277 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "4.9 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -26,40 +26,41 @@
                "Tire Size": "275/45 R20"
           },
           "DIMENSIONS": {
-               "Length": 225.5,
-               "Width": 77.9,
-               "Height": 61.9,
+               "Length": "225.5 in (5728 mm)",
+               "Width": "77.9 in (1979 mm)",
+               "Height": "61.9 in (1572 mm)",
                "Front/rear Track": "65.9/66.7 in (1,674/1,694 mm)",
-               "Wheelbase": 133.4,
-               "Ground Clearance": 7.1,
-               "Cargo Volume": 21.3,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "133.4 in (3388 mm)",
+               "Ground Clearance": "7.1 in (180 mm)",
+               "Cargo Volume": "21.3 cuFT (603 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 6029,
-               "Gross Weight Limit": 7187
+               "Unladen Weight": "6029 lbs (2735 kg)",
+               "Gross Weight Limit": "7187 lbs (3260 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 19.9,
-               "Combined": 14.3,
-               "CO2 Emissions": 390
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "19.9 mpg US (11.8 L/100Km)",
+               "Combined": "14.3 mpg US (16.4 L/100Km)",
+               "CO2 Emissions": "390 g/km"
           }
-     }
+     },
+     "img": "images/MAYBACH 57 Zeppelin 2009-201205-03-05-42-18.jpg"
 },{
      "model_name": "MAYBACH 57 Spezial (W240) 2006-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.0L V12 5AT (612 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5980,
+               "Displacement": "5980 cm3",
                "Power": "450 KW @ 4800-5100 RPM\n612 HP @ 4800-5100 RPM\n603 BHP @ 4800-5100 RPM",
                "Torque": "738 lb-ft @ 2000-4000 RPM\n1000 Nm @ 2000-4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 5
+               "Top Speed": "155.3 mph (250 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -73,40 +74,41 @@
                "Tire Size": "255/45 ZR20 (Front) - 275/45 ZR20 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": 225.5,
-               "Width": 78,
-               "Height": 61.3,
+               "Length": "225.5 in (5728 mm)",
+               "Width": "78 in (1981 mm)",
+               "Height": "61.3 in (1557 mm)",
                "Front/rear Track": "65.9/66.7 in (1,674/1,694 mm)",
-               "Wheelbase": 133.5,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 21.4,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "133.5 in (3391 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "21.4 cuFT (606 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 5894,
-               "Gross Weight Limit": 7187
+               "Unladen Weight": "5894 lbs (2673 kg)",
+               "Gross Weight Limit": "7187 lbs (3260 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.6,
-               "Highway": 19.9,
-               "Combined": 14.3,
-               "CO2 Emissions": 391
+               "City": "9.6 mpg US (24.5 L/100Km)",
+               "Highway": "19.9 mpg US (11.8 L/100Km)",
+               "Combined": "14.3 mpg US (16.4 L/100Km)",
+               "CO2 Emissions": "391 g/km"
           }
-     }
+     },
+     "img": "images/MAYBACH 57 Spezial (W240) 2006-201205-03-05-42-20.jpg"
 },{
      "model_name": "MAYBACH 57 (W240) 2002-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.5L V12 5AT (550 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5513,
+               "Displacement": "5513 cm3",
                "Power": "405 KW @ 5250 RPM\n550 HP @ 5250 RPM\n543 BHP @ 5250 RPM",
                "Torque": "664 lb-ft @ 2300 RPM\n900 Nm @ 2300 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+               "Top Speed": "155.3 mph (250 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -120,40 +122,41 @@
                "Tire Size": "255/50 ZR19 (Front) - 275/50 ZR19 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": 225.5,
-               "Width": 78,
-               "Height": 61.9,
+               "Length": "225.5 in (5728 mm)",
+               "Width": "78 in (1981 mm)",
+               "Height": "61.9 in (1572 mm)",
                "Front/rear Track": "65.9/66.7 in (1,674/1,694 mm)",
-               "Wheelbase": 133.5,
-               "Ground Clearance": 5.9,
-               "Cargo Volume": 21.4,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "133.5 in (3391 mm)",
+               "Ground Clearance": "5.9 in (150 mm)",
+               "Cargo Volume": "21.4 cuFT (606 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 5864,
-               "Gross Weight Limit": 7187
+               "Unladen Weight": "5864 lbs (2660 kg)",
+               "Gross Weight Limit": "7187 lbs (3260 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.8,
-               "Highway": 21.4,
-               "Combined": 14.8,
-               "CO2 Emissions": 378
+               "City": "9.8 mpg US (24 L/100Km)",
+               "Highway": "21.4 mpg US (11 L/100Km)",
+               "Combined": "14.8 mpg US (15.9 L/100Km)",
+               "CO2 Emissions": "378 g/km"
           }
-     }
+     },
+     "img": "images/MAYBACH 57 (W240) 2002-201205-03-05-42-22.jpg"
 },{
      "model_name": "MAYBACH 62 Zeppelin 2009-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.0 V12 BITURBO 5MT (640 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5980,
+               "Displacement": "5980 cm3",
                "Power": "471 KW @ 4800-5100 RPM\n640 HP @ 4800-5100 RPM\n632 BHP @ 4800-5100 RPM",
                "Torque": "738 lb-ft @ 2000-4000 RPM\n1001 Nm @ 2000-4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.1
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -167,40 +170,41 @@
                "Tire Size": "275/45 R20"
           },
           "DIMENSIONS": {
-               "Length": 242.7,
-               "Width": 77.9,
-               "Height": 61.9,
+               "Length": "242.7 in (6165 mm)",
+               "Width": "77.9 in (1979 mm)",
+               "Height": "61.9 in (1572 mm)",
                "Front/rear Track": "65.9/66.7 in (1,674/1,694 mm)",
-               "Wheelbase": 150.6,
-               "Ground Clearance": 7.1,
-               "Cargo Volume": 21.3,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "150.6 in (3825 mm)",
+               "Ground Clearance": "7.1 in (180 mm)",
+               "Cargo Volume": "21.3 cuFT (603 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 6294,
-               "Gross Weight Limit": 7451
+               "Unladen Weight": "6294 lbs (2855 kg)",
+               "Gross Weight Limit": "7451 lbs (3380 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 19.9,
-               "Combined": 14.3,
-               "CO2 Emissions": 390
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "19.9 mpg US (11.8 L/100Km)",
+               "Combined": "14.3 mpg US (16.4 L/100Km)",
+               "CO2 Emissions": "390 g/km"
           }
-     }
+     },
+     "img": "images/MAYBACH 62 Zeppelin 2009-201205-03-05-42-24.jpg"
 },{
      "model_name": "Maybach 62S",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.0L V12 5AT (612 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5980,
+               "Displacement": "5980 cm3",
                "Power": "450 KW @ 4800-5100 RPM\n612 HP @ 4800-5100 RPM\n603 BHP @ 4800-5100 RPM",
                "Torque": "738 lb-ft @ 2000-4000 RPM\n1000 Nm @ 2000-4000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.2
+               "Top Speed": "155.3 mph (250 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.2 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -214,40 +218,41 @@
                "Tire Size": "255/45 ZR20 (Front) - 275/45 ZR20 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": 242.7,
-               "Width": 78,
-               "Height": 61.9,
+               "Length": "242.7 in (6165 mm)",
+               "Width": "78 in (1981 mm)",
+               "Height": "61.9 in (1572 mm)",
                "Front/rear Track": "65.9/66.7 in (1,674/1,694 mm)",
-               "Wheelbase": 150.7,
-               "Ground Clearance": 6.6,
-               "Cargo Volume": 21.4,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "150.7 in (3828 mm)",
+               "Ground Clearance": "6.6 in (168 mm)",
+               "Cargo Volume": "21.4 cuFT (606 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 6129,
-               "Gross Weight Limit": 7451
+               "Unladen Weight": "6129 lbs (2780 kg)",
+               "Gross Weight Limit": "7451 lbs (3380 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.8,
-               "Highway": 21.4,
-               "Combined": 14.3,
-               "CO2 Emissions": 391
+               "City": "9.8 mpg US (24 L/100Km)",
+               "Highway": "21.4 mpg US (11 L/100Km)",
+               "Combined": "14.3 mpg US (16.4 L/100Km)",
+               "CO2 Emissions": "391 g/km"
           }
-     }
+     },
+     "img": "images/Maybach 62S05-03-05-42-26.jpg"
 },{
      "model_name": "MAYBACH 62 (V240) 2002-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.5L V12 5AT (550 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5513,
+               "Displacement": "5513 cm3",
                "Power": "405 KW @ 5250 RPM\n550 HP @ 5250 RPM\n543 BHP @ 5250 RPM",
                "Torque": "664 lb-ft @ 2300-3000 RPM\n900 Nm @ 2300-3000 RPM",
                "Fuel System": "Multipoint Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155.3,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.4
+               "Top Speed": "155.3 mph (250 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.4 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -261,40 +266,41 @@
                "Tire Size": "255/50 ZR19 (Front) - 275/50 ZR19 (Rear)"
           },
           "DIMENSIONS": {
-               "Length": 242.7,
-               "Width": 78,
-               "Height": 61.9,
+               "Length": "242.7 in (6165 mm)",
+               "Width": "78 in (1981 mm)",
+               "Height": "61.9 in (1572 mm)",
                "Front/rear Track": "65.9/66.7 in (1,674/1,694 mm)",
-               "Wheelbase": 150.7,
-               "Ground Clearance": 6.6,
-               "Cargo Volume": 21.4,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "150.7 in (3828 mm)",
+               "Ground Clearance": "6.6 in (168 mm)",
+               "Cargo Volume": "21.4 cuFT (606 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 6129,
-               "Gross Weight Limit": 7452
+               "Unladen Weight": "6129 lbs (2780 kg)",
+               "Gross Weight Limit": "7452 lbs (3380 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.8,
-               "Highway": 21.4,
-               "Combined": 14.8,
-               "CO2 Emissions": 378
+               "City": "9.8 mpg US (24 L/100Km)",
+               "Highway": "21.4 mpg US (11 L/100Km)",
+               "Combined": "14.8 mpg US (15.9 L/100Km)",
+               "CO2 Emissions": "378 g/km"
           }
-     }
+     },
+     "img": "images/MAYBACH 62 (V240) 2002-201205-03-05-42-27.jpg"
 },{
      "model_name": "MAYBACH Landaulet 2008-2012",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 6.0 V12 5AT (620 HP)": {
                "Cylinders": "V12",
-               "Displacement": 5980,
+               "Displacement": "5980 cm3",
                "Power": "456 KW @ 4800-5100 RPM\n620 HP @ 4800-5100 RPM\n612 BHP @ 4800-5100 RPM",
                "Torque": "738 lb-ft @ 2000-4000 RPM\n1001 Nm @ 2000-4000 RPM",
                "Fuel System": "Turbocharged Direct Injection",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 155,
-               "Acceleration 0-62 Mph (0-100 kph)": 5.1
+               "Top Speed": "155 mph (249 km/h)",
+               "Acceleration 0-62 Mph (0-100 kph)": "5.1 s"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -308,38 +314,39 @@
                "Tire Size": "275/45 R20"
           },
           "DIMENSIONS": {
-               "Length": 242.7,
-               "Width": 77.9,
-               "Height": 61.9,
+               "Length": "242.7 in (6165 mm)",
+               "Width": "77.9 in (1979 mm)",
+               "Height": "61.9 in (1572 mm)",
                "Front/rear Track": "65.9/66.7 in (1,674/1,694 mm)",
-               "Wheelbase": 150.6,
-               "Ground Clearance": 6.1,
-               "Cargo Volume": 21.3,
-               "Aerodynamics (Cd)": 0.31
+               "Wheelbase": "150.6 in (3825 mm)",
+               "Ground Clearance": "6.1 in (155 mm)",
+               "Cargo Volume": "21.3 cuFT (603 L)",
+               "Aerodynamics (Cd)": "0.31"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 6294,
-               "Gross Weight Limit": 7452
+               "Unladen Weight": "6294 lbs (2855 kg)",
+               "Gross Weight Limit": "7452 lbs (3380 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "City": 9.5,
-               "Highway": 19.9,
-               "Combined": 14.3,
-               "CO2 Emissions": 390
+               "City": "9.5 mpg US (24.8 L/100Km)",
+               "Highway": "19.9 mpg US (11.8 L/100Km)",
+               "Combined": "14.3 mpg US (16.4 L/100Km)",
+               "CO2 Emissions": "390 g/km"
           }
-     }
+     },
+     "img": "images/MAYBACH Landaulet 2008-201205-03-05-42-29.jpg"
 },{
      "model_name": "MAYBACH Typ 12 Cabriolet 1929-1931",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0 V12": {
                "Cylinders": "V12",
-               "Displacement": 6967,
+               "Displacement": "6967 cm3",
                "Power": "110 KW @ 3000 RPM\n150 HP @ 3000 RPM\n148 BHP @ 3000 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 91
+               "Top Speed": "91 mph (146 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -353,28 +360,29 @@
                "Tire Size": "32 X 6.75"
           },
           "DIMENSIONS": {
-               "Length": 200.8,
-               "Width": 71.7,
+               "Length": "200.8 in (5100 mm)",
+               "Width": "71.7 in (1821 mm)",
                "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 8.7,
-               "CO2 Emissions": 643
+               "Combined": "8.7 mpg US (27 L/100Km)",
+               "CO2 Emissions": "643 g/km"
           }
-     }
+     },
+     "img": "images/MAYBACH Typ 12 Cabriolet 1929-193105-03-05-42-31.jpg"
 },{
      "model_name": "1929 Maybach Typ 12",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0 V12": {
                "Cylinders": "V12",
-               "Displacement": 6967,
+               "Displacement": "6967 cm3",
                "Power": "110 KW @ 3000 RPM\n150 HP @ 3000 RPM\n148 BHP @ 3000 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 91
+               "Top Speed": "91 mph (146 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -388,28 +396,29 @@
                "Tire Size": "32 X 6.75"
           },
           "DIMENSIONS": {
-               "Length": 200.8,
-               "Width": 71.7,
+               "Length": "200.8 in (5100 mm)",
+               "Width": "71.7 in (1821 mm)",
                "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 8.4,
-               "CO2 Emissions": 666
+               "Combined": "8.4 mpg US (28 L/100Km)",
+               "CO2 Emissions": "666 g/km"
           }
-     }
+     },
+     "img": "images/1929 Maybach Typ 1205-03-05-42-33.jpg"
 },{
      "model_name": "1951 Maybach Typ SW 42 \"Ponton\" by Spohn",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.2": {
                "Cylinders": "L6",
-               "Displacement": 4196,
+               "Displacement": "4196 cm3",
                "Power": "103 KW @ 4000 RPM\n140 HP @ 4000 RPM\n138 BHP @ 4000 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99
+               "Top Speed": "99 mph (159 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -423,28 +432,29 @@
                "Tire Size": "7.50-17"
           },
           "DIMENSIONS": {
-               "Width": 72.8,
+               "Width": "72.8 in (1849 mm)",
                "Front/rear Track": "56.7/58.3 in (1,440/1,481 mm)",
-               "Wheelbase": 133.1
+               "Wheelbase": "133.1 in (3381 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 13.1,
-               "CO2 Emissions": 427
+               "Combined": "13.1 mpg US (18 L/100Km)",
+               "CO2 Emissions": "427 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/1951 Maybach Typ SW 42 \"Ponton\" by Spohn05-03-05-42-34.jpg"
 },{
      "model_name": "1948 Maybach Typ SW 38 Ponton Cabriolet by Spohn",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8": {
                "Cylinders": "L6",
-               "Displacement": 3815,
+               "Displacement": "3815 cm3",
                "Power": "103 KW @ 4000 RPM\n140 HP @ 4000 RPM\n138 BHP @ 4000 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93
+               "Top Speed": "93 mph (150 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -458,23 +468,24 @@
                "Tire Size": "7.00-17"
           },
           "DIMENSIONS": {
-               "Width": 72.8,
+               "Width": "72.8 in (1849 mm)",
                "Front/rear Track": "56.7/58.3 in (1,440/1,481 mm)",
-               "Wheelbase": 144.9
+               "Wheelbase": "144.9 in (3680 mm)"
           }
-     }
+     },
+     "img": "images/1948 Maybach Typ SW 38 Ponton Cabriolet by Spohn05-03-05-42-36.jpg"
 },{
      "model_name": "MAYBACH Typ SW 42 Cabriolet 1940-1945",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.2": {
                "Cylinders": "L6",
-               "Displacement": 4196,
+               "Displacement": "4196 cm3",
                "Power": "103 KW @ 4000 RPM\n140 HP @ 4000 RPM\n138 BHP @ 4000 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99
+               "Top Speed": "99 mph (159 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -488,28 +499,29 @@
                "Tire Size": "7.50-17"
           },
           "DIMENSIONS": {
-               "Width": 72.8,
+               "Width": "72.8 in (1849 mm)",
                "Front/rear Track": "56.7/58.3 in (1,440/1,481 mm)",
-               "Wheelbase": 133.1
+               "Wheelbase": "133.1 in (3381 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 13.1,
-               "CO2 Emissions": 427
+               "Combined": "13.1 mpg US (18 L/100Km)",
+               "CO2 Emissions": "427 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MAYBACH Typ SW 42 Cabriolet 1940-194505-03-05-42-38.jpg"
 },{
      "model_name": "MAYBACH Typ SW 42 1940-1945",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 4.2": {
                "Cylinders": "L6",
-               "Displacement": 4196,
+               "Displacement": "4196 cm3",
                "Power": "103 KW @ 4000 RPM\n140 HP @ 4000 RPM\n138 BHP @ 4000 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99
+               "Top Speed": "99 mph (159 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -523,28 +535,29 @@
                "Tire Size": "7.50-17"
           },
           "DIMENSIONS": {
-               "Width": 72.8,
+               "Width": "72.8 in (1849 mm)",
                "Front/rear Track": "56.7/58.3 in (1,440/1,481 mm)",
-               "Wheelbase": 133.1
+               "Wheelbase": "133.1 in (3381 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 13.1,
-               "CO2 Emissions": 427
+               "Combined": "13.1 mpg US (18 L/100Km)",
+               "CO2 Emissions": "427 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MAYBACH Typ SW 42 1940-194505-03-05-42-40.jpg"
 },{
      "model_name": "Maybach 38 Stromlinien Cabriolet",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.8": {
                "Cylinders": "L6",
-               "Displacement": 3815,
+               "Displacement": "3815 cm3",
                "Power": "103 KW @ 4000 RPM\n140 HP @ 4000 RPM\n138 BHP @ 4000 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93
+               "Top Speed": "93 mph (150 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -558,23 +571,24 @@
                "Tire Size": "7.00-17"
           },
           "DIMENSIONS": {
-               "Width": 72.8,
+               "Width": "72.8 in (1849 mm)",
                "Front/rear Track": "56.7/58.3 in (1,440/1,481 mm)",
-               "Wheelbase": 144.9
+               "Wheelbase": "144.9 in (3680 mm)"
           }
-     }
+     },
+     "img": "images/Maybach 38 Stromlinien Cabriolet05-03-05-42-41.jpg"
 },{
      "model_name": "MAYBACH Typ SW 35/SW 38 Cabriolet 1936-1939",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.4": {
                "Cylinders": "L6",
-               "Displacement": 3434,
+               "Displacement": "3434 cm3",
                "Power": "103 KW @ 4500 RPM\n140 HP @ 4500 RPM\n138 BHP @ 4500 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93
+               "Top Speed": "93 mph (150 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -588,30 +602,31 @@
                "Tire Size": "6.50-17"
           },
           "DIMENSIONS": {
-               "Length": 196.9,
-               "Width": 72.8,
-               "Height": 65,
+               "Length": "196.9 in (5001 mm)",
+               "Width": "72.8 in (1849 mm)",
+               "Height": "65 in (1651 mm)",
                "Front/rear Track": "56.7/58.3 in (1,440/1,481 mm)",
-               "Wheelbase": 133.1
+               "Wheelbase": "133.1 in (3381 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 12.8,
-               "CO2 Emissions": 437
+               "Combined": "12.8 mpg US (18.4 L/100Km)",
+               "CO2 Emissions": "437 g/km"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "MAYBACH Typ SW 35 Stromlinien 1935-1936",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.4": {
                "Cylinders": "L6",
-               "Displacement": 3434,
+               "Displacement": "3434 cm3",
                "Power": "103 KW @ 4500 RPM\n140 HP @ 4500 RPM\n138 BHP @ 4500 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 99
+               "Top Speed": "99 mph (159 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -625,29 +640,30 @@
                "Tire Size": "6.50-17"
           },
           "DIMENSIONS": {
-               "Length": 177.2,
-               "Width": 72.8,
-               "Height": 65,
+               "Length": "177.2 in (4501 mm)",
+               "Width": "72.8 in (1849 mm)",
+               "Height": "65 in (1651 mm)",
                "Front/rear Track": "56.7/58.3 in (1,440/1,481 mm)",
-               "Wheelbase": 122
+               "Wheelbase": "122 in (3099 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 15.7,
-               "CO2 Emissions": 356
+               "Combined": "15.7 mpg US (15 L/100Km)",
+               "CO2 Emissions": "356 g/km"
           }
-     }
+     },
+     "img": "images/MAYBACH Typ SW 35 Stromlinien 1935-193605-03-05-42-45.jpg"
 },{
      "model_name": "MAYBACH Typ SW 35/SW 38 1935-1939",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 3.4": {
                "Cylinders": "L6",
-               "Displacement": 3434,
+               "Displacement": "3434 cm3",
                "Power": "103 KW @ 4500 RPM\n140 HP @ 4500 RPM\n138 BHP @ 4500 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93
+               "Top Speed": "93 mph (150 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -661,31 +677,32 @@
                "Tire Size": "6.50-17"
           },
           "DIMENSIONS": {
-               "Length": 196.9,
-               "Width": 72.8,
-               "Height": 65,
+               "Length": "196.9 in (5001 mm)",
+               "Width": "72.8 in (1849 mm)",
+               "Height": "65 in (1651 mm)",
                "Front/rear Track": "56.7/58.3 in (1,440/1,481 mm)",
-               "Wheelbase": 133.1
+               "Wheelbase": "133.1 in (3381 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 12.8,
-               "CO2 Emissions": 437
+               "Combined": "12.8 mpg US (18.4 L/100Km)",
+               "CO2 Emissions": "437 g/km"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "MAYBACH Typ W5 SG 27/120 HP (Closed Body) 1928-1929",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0": {
                "Cylinders": "L6",
-               "Displacement": 6991.7,
+               "Displacement": "6991.7 cm3",
                "Power": "88 KW @ 2400 RPM\n120 HP @ 2400 RPM\n118 BHP @ 2400 RPM",
                "Torque": "308 lb-ft @ 1200 RPM\n417 Nm @ 1200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 84
+               "Top Speed": "84 mph (135 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -699,25 +716,26 @@
                "Tire Size": "33 X 6.75"
           },
           "DIMENSIONS": {
-               "Width": 69.3,
+               "Width": "69.3 in (1760 mm)",
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": 130.7
+               "Wheelbase": "130.7 in (3320 mm)"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "MAYBACH Typ W5 SG 27/120 HP (Open Body) 1928-1929",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0": {
                "Cylinders": "L6",
-               "Displacement": 6991.7,
+               "Displacement": "6991.7 cm3",
                "Power": "88 KW @ 2400 RPM\n120 HP @ 2400 RPM\n118 BHP @ 2400 RPM",
                "Torque": "308 lb-ft @ 1200 RPM\n417 Nm @ 1200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 84
+               "Top Speed": "84 mph (135 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -731,25 +749,26 @@
                "Tire Size": "33 X 6.75"
           },
           "DIMENSIONS": {
-               "Width": 69.3,
+               "Width": "69.3 in (1760 mm)",
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": 130.7
+               "Wheelbase": "130.7 in (3320 mm)"
           },
           "": {}
-     }
+     },
+     "img": {}
 },{
      "model_name": "MAYBACH Typ W5 27/120 HP (Closed Body) 1926-1928",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0": {
                "Cylinders": "L6",
-               "Displacement": 6991.7,
+               "Displacement": "6991.7 cm3",
                "Power": "88 KW @ 2400 RPM\n120 HP @ 2400 RPM\n118 BHP @ 2400 RPM",
                "Torque": "308 lb-ft @ 1200 RPM\n417 Nm @ 1200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 71
+               "Top Speed": "71 mph (114 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -763,24 +782,25 @@
                "Tire Size": "33 X 6.75"
           },
           "DIMENSIONS": {
-               "Width": 69.3,
+               "Width": "69.3 in (1760 mm)",
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           }
-     }
+     },
+     "img": {}
 },{
      "model_name": "MAYBACH Typ W5 27/120 HP (Open Body) 1926-1928",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0": {
                "Cylinders": "L6",
-               "Displacement": 6991.7,
+               "Displacement": "6991.7 cm3",
                "Power": "88 KW @ 2400 RPM\n120 HP @ 2400 RPM\n118 BHP @ 2400 RPM",
                "Torque": "308 lb-ft @ 1200 RPM\n417 Nm @ 1200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 71
+               "Top Speed": "71 mph (114 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -794,23 +814,24 @@
                "Tire Size": "33 X 6.75"
           },
           "DIMENSIONS": {
-               "Width": 69.3,
+               "Width": "69.3 in (1760 mm)",
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           }
-     }
+     },
+     "img": {}
 },{
      "model_name": "1921 Maybach Typ W3 22/70HP Convertible",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.7": {
                "Cylinders": "L6",
-               "Displacement": 5738.5,
+               "Displacement": "5738.5 cm3",
                "Power": "51 KW @ 2200 RPM\n70 HP @ 2200 RPM\n68 BHP @ 2200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 68
+               "Top Speed": "68 mph (109 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -824,26 +845,27 @@
                "Tire Size": "895 X 150"
           },
           "DIMENSIONS": {
-               "Height": 76.8,
+               "Height": "76.8 in (1951 mm)",
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 4850
+               "Unladen Weight": "4850 lbs (2200 kg)"
           }
-     }
+     },
+     "img": {}
 },{
      "model_name": "1921 Maybach Typ W3 - Closed Bodywork",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.7": {
                "Cylinders": "L6",
-               "Displacement": 5738.5,
+               "Displacement": "5738.5 cm3",
                "Power": "51 KW @ 2200 RPM\n70 HP @ 2200 RPM\n68 BHP @ 2200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 68
+               "Top Speed": "68 mph (109 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -858,13 +880,14 @@
           },
           "DIMENSIONS": {
                "Front/rear Track": "58.3/58.3 in (1,481/1,481 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           }
-     }
+     },
+     "img": "images/1921 Maybach Typ W3 - Closed Bodywork05-03-05-42-56.jpg"
 },{
      "model_name": "MAYBACH Typ W1 Testwagen 1919",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - W1": {
                "Cylinders": "L6",
                "Power": "34 KW @ 2200 RPM\n46 HP @ 2200 RPM\n46 BHP @ 2200 RPM",
                "Fuel System": "Carburetor",
@@ -877,19 +900,20 @@
                "Front": "Drums",
                "Rear": "Drums"
           }
-     }
+     },
+     "img": "images/MAYBACH Typ W1 Testwagen 191905-03-05-42-58.jpg"
 },{
      "model_name": "MAYBACH Typ W6 DSG Sport-Cabriolet 1935",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0 DSG": {
                "Cylinders": "L6",
-               "Displacement": 6992,
+               "Displacement": "6992 cm3",
                "Power": "88 KW @ 2800 RPM\n120 HP @ 2800 RPM\n118 BHP @ 2800 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 81
+               "Top Speed": "81 mph (130 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -903,26 +927,27 @@
                "Tire Size": "7.5-20"
           },
           "DIMENSIONS": {
-               "Width": 72.6,
+               "Width": "72.6 in (1844 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 9.8,
-               "CO2 Emissions": 571
+               "Combined": "9.8 mpg US (24 L/100Km)",
+               "CO2 Emissions": "571 g/km"
           }
-     }
+     },
+     "img": "images/MAYBACH Typ W6 DSG Sport-Cabriolet 193505-03-05-42-59.jpg"
 },{
      "model_name": "1934 Maybach Typ W6 DSH",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2": {
                "Cylinders": "L6",
-               "Displacement": 5181,
+               "Displacement": "5181 cm3",
                "Power": "96 KW @ 3200 RPM\n130 HP @ 3200 RPM\n129 BHP @ 3200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 87
+               "Top Speed": "87 mph (140 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -936,28 +961,29 @@
                "Tire Size": "7.50-20"
           },
           "DIMENSIONS": {
-               "Length": 216.5,
-               "Width": 72.6,
+               "Length": "216.5 in (5499 mm)",
+               "Width": "72.6 in (1844 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": 147
+               "Wheelbase": "147 in (3734 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 11.8,
-               "CO2 Emissions": 474
+               "Combined": "11.8 mpg US (19.9 L/100Km)",
+               "CO2 Emissions": "474 g/km"
           }
-     }
+     },
+     "img": "images/1934 Maybach Typ W6 DSH05-03-05-43-01.jpg"
 },{
      "model_name": "MAYBACH Typ DSH Cabriolet 1934-1937",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 5.2": {
                "Cylinders": "L6",
-               "Displacement": 5181,
+               "Displacement": "5181 cm3",
                "Power": "96 KW @ 3200 RPM\n130 HP @ 3200 RPM\n129 BHP @ 3200 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 87
+               "Top Speed": "87 mph (140 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -971,28 +997,29 @@
                "Tire Size": "7.50-20"
           },
           "DIMENSIONS": {
-               "Length": 216.5,
-               "Width": 72.6,
+               "Length": "216.5 in (5499 mm)",
+               "Width": "72.6 in (1844 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": 147
+               "Wheelbase": "147 in (3734 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 11.8,
-               "CO2 Emissions": 474
+               "Combined": "11.8 mpg US (19.9 L/100Km)",
+               "CO2 Emissions": "474 g/km"
           }
-     }
+     },
+     "img": "images/MAYBACH Typ DSH Cabriolet 1934-193705-03-05-43-03.jpg"
 },{
      "model_name": "MAYBACH Typ W6, W6 DSG 1931-1935",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0L DSG 4AT (120 HP)": {
                "Cylinders": "L6",
-               "Displacement": 6992,
+               "Displacement": "6992 cm3",
                "Power": "88 KW @ 2800 RPM\n120 HP @ 2800 RPM\n118 BHP @ 2800 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 81
+               "Top Speed": "81 mph (130 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1006,30 +1033,31 @@
                "Tire Size": "7.5-20"
           },
           "DIMENSIONS": {
-               "Length": 217.3,
-               "Width": 72.6,
-               "Height": 60.6,
+               "Length": "217.3 in (5519 mm)",
+               "Width": "72.6 in (1844 mm)",
+               "Height": "60.6 in (1539 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": 147
+               "Wheelbase": "147 in (3734 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 9.8,
-               "CO2 Emissions": 571
+               "Combined": "9.8 mpg US (24 L/100Km)",
+               "CO2 Emissions": "571 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MAYBACH Typ W6, W6 DSG 1931-193505-03-05-43-05.jpg"
 },{
      "model_name": "MAYBACH Typ W6, W6 DSG Cabriolet 1931-1935",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0": {
                "Cylinders": "L6",
-               "Displacement": 6992,
+               "Displacement": "6992 cm3",
                "Power": "88 KW @ 2800 RPM\n120 HP @ 2800 RPM\n118 BHP @ 2800 RPM",
                "Fuel System": "Carburetor",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 81
+               "Top Speed": "81 mph (130 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1043,30 +1071,31 @@
                "Tire Size": "7.5-20"
           },
           "DIMENSIONS": {
-               "Length": 211.4,
-               "Width": 72.6,
-               "Height": 60.6,
+               "Length": "211.4 in (5370 mm)",
+               "Width": "72.6 in (1844 mm)",
+               "Height": "60.6 in (1539 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 10.7,
-               "CO2 Emissions": 523
+               "Combined": "10.7 mpg US (22 L/100Km)",
+               "CO2 Emissions": "523 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MAYBACH Typ W6, W6 DSG Cabriolet 1931-193505-03-05-43-07.jpg"
 },{
      "model_name": "1938 Maybach Zeppelin DS8 Sport-Cabriolet",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 8.0 V12": {
                "Cylinders": "V12",
-               "Displacement": 7973,
+               "Displacement": "7973 cm3",
                "Power": "147 KW @ 3000 RPM\n200 HP @ 3000 RPM\n197 BHP @ 3000 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 112
+               "Top Speed": "112 mph (180 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1080,28 +1109,29 @@
                "Tire Size": "210-20"
           },
           "DIMENSIONS": {
-               "Length": 216.2,
-               "Width": 72.6,
+               "Length": "216.2 in (5491 mm)",
+               "Width": "72.6 in (1844 mm)",
                "Front/rear Track": "61.8/61.8 in (1,570/1,570 mm)",
-               "Wheelbase": 147
+               "Wheelbase": "147 in (3734 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 8.4,
-               "CO2 Emissions": 666
+               "Combined": "8.4 mpg US (28 L/100Km)",
+               "CO2 Emissions": "666 g/km"
           }
-     }
+     },
+     "img": "images/1938 Maybach Zeppelin DS8 Sport-Cabriolet05-03-05-43-09.jpg"
 },{
      "model_name": "MAYBACH Typ Zeppelin Doppel-Sechs 8 Liter (DS 8) Stromlinien-Cabriolet 1934-1936",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 8.0 V12": {
                "Cylinders": "V12",
-               "Displacement": 7973,
+               "Displacement": "7973 cm3",
                "Power": "147 KW @ 3200 RPM\n200 HP @ 3200 RPM\n197 BHP @ 3200 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106
+               "Top Speed": "106 mph (171 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1115,27 +1145,28 @@
                "Tire Size": "7.50-20"
           },
           "DIMENSIONS": {
-               "Width": 71.7,
+               "Width": "71.7 in (1821 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 8.6,
-               "CO2 Emissions": 651
+               "Combined": "8.6 mpg US (27.4 L/100Km)",
+               "CO2 Emissions": "651 g/km"
           }
-     }
+     },
+     "img": "images/MAYBACH Typ Zeppelin Doppel-Sechs 8 Liter (DS 8) Stromlinien-Cabriolet 1934-193605-03-05-43-11.jpg"
 },{
      "model_name": "MAYBACH Typ Zeppelin Doppel-Sechs 8 Liter (DS 8) Stromlinien 1932-1935",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 8.0 V12": {
                "Cylinders": "V12",
-               "Displacement": 7973,
+               "Displacement": "7973 cm3",
                "Power": "147 KW @ 3200 RPM\n200 HP @ 3200 RPM\n197 BHP @ 3200 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106
+               "Top Speed": "106 mph (171 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1149,26 +1180,27 @@
                "Tire Size": "7.50-20"
           },
           "DIMENSIONS": {
-               "Width": 71.7,
+               "Width": "71.7 in (1821 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 8.7,
-               "CO2 Emissions": 643
+               "Combined": "8.7 mpg US (27 L/100Km)",
+               "CO2 Emissions": "643 g/km"
           }
-     }
+     },
+     "img": "images/MAYBACH Typ Zeppelin Doppel-Sechs 8 Liter (DS 8) Stromlinien 1932-193505-03-05-43-12.jpg"
 },{
      "model_name": "MAYBACH Typ Zeppelin Doppel-Sechs 8 Liter (DS 8) Cabriolet 1931-1937",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 8.0 V12": {
                "Cylinders": "V12",
-               "Displacement": 7973,
+               "Displacement": "7973 cm3",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106
+               "Top Speed": "106 mph (171 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1182,30 +1214,31 @@
                "Tire Size": "7.50-20"
           },
           "DIMENSIONS": {
-               "Length": 211.4,
-               "Width": 71.7,
-               "Height": 60.6,
+               "Length": "211.4 in (5370 mm)",
+               "Width": "71.7 in (1821 mm)",
+               "Height": "60.6 in (1539 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 8.4,
-               "CO2 Emissions": 666
+               "Combined": "8.4 mpg US (28 L/100Km)",
+               "CO2 Emissions": "666 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MAYBACH Typ Zeppelin Doppel-Sechs 8 Liter (DS 8) Cabriolet 1931-193705-03-05-43-14.jpg"
 },{
      "model_name": "MAYBACH Typ Zeppelin Doppel-Sechs 8 Liter (DS 8) 1931-1937",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 8.0 V12": {
                "Cylinders": "V12",
-               "Displacement": 7973,
+               "Displacement": "7973 cm3",
                "Power": "147 KW @ 3200 RPM\n200 HP @ 3200 RPM\n197 BHP @ 3200 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 106
+               "Top Speed": "106 mph (171 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1219,33 +1252,34 @@
                "Tire Size": "7.50 X 20"
           },
           "DIMENSIONS": {
-               "Length": 211.4,
-               "Width": 71.7,
-               "Height": 60.6,
+               "Length": "211.4 in (5370 mm)",
+               "Width": "71.7 in (1821 mm)",
+               "Height": "60.6 in (1539 mm)",
                "Front/rear Track": "59.8/59.8 in (1,519/1,519 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           },
           "WEIGHT SPECS": {
-               "Unladen Weight": 6137
+               "Unladen Weight": "6137 lbs (2784 kg)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 8.4,
-               "CO2 Emissions": 666
+               "Combined": "8.4 mpg US (28 L/100Km)",
+               "CO2 Emissions": "666 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MAYBACH Typ Zeppelin Doppel-Sechs 8 Liter (DS 8) 1931-193705-03-05-43-16.jpg"
 },{
      "model_name": "MAYBACH Typ Zeppelin Doppel-Sechs 7 Liter (DS 7) Cabriolet 1930-1933",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0 V12": {
                "Cylinders": "V12",
-               "Displacement": 6967,
+               "Displacement": "6967 cm3",
                "Power": "110 KW @ 3000 RPM\n150 HP @ 3000 RPM\n148 BHP @ 3000 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93
+               "Top Speed": "93 mph (150 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1259,30 +1293,31 @@
                "Tire Size": "7.00-20"
           },
           "DIMENSIONS": {
-               "Length": 211.4,
-               "Width": 71.7,
-               "Height": 70.9,
+               "Length": "211.4 in (5370 mm)",
+               "Width": "71.7 in (1821 mm)",
+               "Height": "70.9 in (1801 mm)",
                "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 9,
-               "CO2 Emissions": 622
+               "Combined": "9 mpg US (26.1 L/100Km)",
+               "CO2 Emissions": "622 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MAYBACH Typ Zeppelin Doppel-Sechs 7 Liter (DS 7) Cabriolet 1930-193305-03-05-43-18.jpg"
 },{
      "model_name": "MAYBACH Typ Zeppelin Doppel-Sechs 7 Liter (DS 7) 1930-1933",
      "technical_specs": {
-          "ENGINE SPECS": {
+          "ENGINE SPECS - 7.0 V12": {
                "Cylinders": "V12",
-               "Displacement": 6967,
+               "Displacement": "6967 cm3",
                "Power": "110 KW @ 3000 RPM\n150 HP @ 3000 RPM\n148 BHP @ 3000 RPM",
                "Fuel System": "Carburetors",
                "Fuel": "Gasoline"
           },
           "PERFORMANCE SPECS": {
-               "Top Speed": 93
+               "Top Speed": "93 mph (150 km/h)"
           },
           "TRANSMISSION SPECS": {
                "Drive Type": "Rear Wheel Drive",
@@ -1296,17 +1331,18 @@
                "Tire Size": "7.00-20"
           },
           "DIMENSIONS": {
-               "Length": 211.4,
-               "Width": 71.7,
-               "Height": 70.9,
+               "Length": "211.4 in (5370 mm)",
+               "Width": "71.7 in (1821 mm)",
+               "Height": "70.9 in (1801 mm)",
                "Front/rear Track": "58.7/58.7 in (1,491/1,491 mm)",
-               "Wheelbase": 144.1
+               "Wheelbase": "144.1 in (3660 mm)"
           },
           "FUEL ECONOMY (NEDC)": {
-               "Combined": 9,
-               "CO2 Emissions": 622
+               "Combined": "9 mpg US (26.1 L/100Km)",
+               "CO2 Emissions": "622 g/km"
           },
           "": {}
-     }
+     },
+     "img": "images/MAYBACH Typ Zeppelin Doppel-Sechs 7 Liter (DS 7) 1930-193305-03-05-43-19.jpg"
 },	
  ] } 
