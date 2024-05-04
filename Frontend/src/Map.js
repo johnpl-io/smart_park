@@ -201,6 +201,9 @@ const MapComponent = () => {
 
         const user_id = localStorage.getItem('user_id');
         const car_id = localStorage.getItem('car_id');
+        
+        console.log(user_id);
+        console.log(car_id);
         if (car_id == null) {
             alert("Please first select a car in the garage!");
             return;
@@ -337,10 +340,10 @@ const MapComponent = () => {
                     <div className="menu">
                     <ul className="menu-list">
                         <li><button onClick={() => { window.location.href = "/AboutUs"; }}><FaInfoCircle /> About Us</button></li>
-                        <li><button onClick={() => { window.location.href = "/UserProfile"; }}><FaCog /> Account Settings</button></li> {/* Changed icon to FaCog */}
+                        <li><button onClick={() => { window.location.href = "/UserProfile"; }}><FaCog /> Account Settings</button></li>
                         <li><button onClick={() => { window.location.href = "/Garage"; }}><FaCar /> Garage</button></li>
-                        <li><button onClick={() => { window.location.href = "/BrowseCars"; }}><FaSearch /> Browse Cars</button></li> {/* Changed icon to FaSearch */}
-                        <li><button onClick={() => { window.location.href = "/"; }}><FaPlayCircle /> Start Driving</button></li> {/* Changed icon to FaSearch */}
+                        <li><button onClick={() => { window.location.href = "/BrowseCars"; }}><FaSearch /> Browse Cars</button></li>
+                        <li><button onClick={() => { window.location.href = "/"; }}><FaPlayCircle /> Start Driving</button></li>
                         <li><button onClick={(e) => handleLogout(e)}><FaSignOutAlt /> Logout</button></li>
                     </ul>
                     </div>

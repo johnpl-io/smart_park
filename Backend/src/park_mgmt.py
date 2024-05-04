@@ -19,13 +19,31 @@ def log_park(user_id: int, car_id: int, location: tuple[float, float]):
 
     session = create_session()
 
-    new_spot = Spot(location = func.ST_Point(location[0], location[1], type_ = Geography))
+    current_location = func.ST_Point(location[0], 
+                                     location[1],
+                                     type_ = Geography)
+    
 
-    session.add(new_spot)
+    nearby_spot_id = (session.query(Spot.spot_id)
+                      .filter(~Spot.park.any())
+                      .filter(func.ST_DWithin(
+                          current_location,
+                          Spot.location,
+                          0.5)).first())
+                   
+    if nearby_spot_id:
+        spot_id = nearby_spot_id[0]
+    else:
+        new_spot = Spot(location = current_location)
 
-    session.commit()
+        session.add(new_spot)
 
-    new_park = Park(spot_id =new_spot.spot_id, 
+        session.commit()
+
+        spot_id = new_spot.spot_id
+
+
+    new_park = Park(spot_id = spot_id, 
                     user_id = user_id,
                     car_id = car_id)
     

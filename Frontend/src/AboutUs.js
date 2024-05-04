@@ -30,6 +30,7 @@ function AboutUs() {
       <p className="join-us">
         Join us on our journey to redefine parking and make urban mobility smarter, one parking spot at a time. Welcome to Smart Park – where parking meets convenience.
       </p>
+
     </div>
   );
 }
