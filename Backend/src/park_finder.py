@@ -38,7 +38,7 @@ def park_find(user_id: int, car_id: int, location: tuple[float, float])-> list[i
     session.query(Spot.spot_id, func.ST_Y(cast(Spot.location, Geometry)), func.ST_X(cast(Spot.location, Geometry)), func.ST_Distance(Spot.location,WKTElement(f'POINT({location[0]} {location[1]})')),  ParkHistory.time_left)
     .join(ParkHistory, Spot.spot_id == ParkHistory.spot_id)
     .filter(ParkHistory.time_left >= datetime.now() - timedelta(days=10))
-    .filter(~Spot.spot_id.in_(valid_holds))
+    #.filter(~Spot.spot_id.in_(valid_holds))
     .order_by(Spot.location.cast(Geometry).distance_centroid(WKTElement(f'POINT({location[0]} {location[1]})', srid=4326))
     
     ).limit(10)
