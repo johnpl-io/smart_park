@@ -169,26 +169,25 @@ const MapComponent = () => {
             const user_id = localStorage.getItem('user_id');
             const car_id = localStorage.getItem('car_id');
 
-            if (car_id == null) {
-                alert("Please first select a car in the garage!");
-                return;
-            }
-            console.log(user_id);
-            console.log(car_id);
-            const url = `http://localhost:5000/check-parked?user_id=${user_id}&car_id=${car_id}`;
+            if (car_id != null) {
 
-            const response = await fetch(url, {
-                method: "GET",
-                headers: { "Content-Type": "application/json" },
-            });
+                console.log(user_id);
+                console.log(car_id);
+                const url = `http://localhost:5000/check-parked?user_id=${user_id}&car_id=${car_id}`;
+
+                const response = await fetch(url, {
+                    method: "GET",
+                    headers: { "Content-Type": "application/json" },
+                });
 
         
-            const data = await response.json();
-            console.log(data);
-            if (response.ok) {
-                setIsParked(data.isParked);
-                if (data.isParked && data.location) {
-                    setDotPosition([data.location[0], data.location[1]]);
+                const data = await response.json();
+                console.log(data);
+                if (response.ok) {
+                    setIsParked(data.isParked);
+                    if (data.isParked && data.location) {
+                        setDotPosition([data.location[0], data.location[1]]);
+                    }
                 }
             }
         };
