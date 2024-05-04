@@ -36,7 +36,7 @@ class Car(Base):
     
     car_id = Column(Integer, primary_key=True)
     car_model = Column(String, nullable=False)
-    car_img = Column(String, nullable = False)
+    car_img = Column(String, nullable = True)
     
     width = Column(Float, nullable=True)
     len = Column(Float, nullable=True)
@@ -153,3 +153,8 @@ def drop_tables() -> None:
     engine = create_engine('postgresql+psycopg2://user:password@localhost:5432/smart_park_db')
     Base.metadata.drop_all(engine)
 
+#drop tables if run with word drop as argument
+if __name__ == "__main__":
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "drop":
+        drop_tables()
