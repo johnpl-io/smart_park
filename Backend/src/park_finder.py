@@ -4,7 +4,7 @@ from sqlalchemy import func, cast
 from geoalchemy2 import Geometry
 from utils import create_session
 from geoalchemy2.elements import WKTElement
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 
 
@@ -30,20 +30,20 @@ def park_find(user_id: int, car_id: int, location: tuple[float, float])-> list[i
     #get all holds
 
     valid_holds = (
-    session.query(Hold, Hold.spot_id)
-    .filter(Hold.time_start <= datetime.now() - timedelta(minutes=10))
+    session.query(Hold.spot_id)
+    .filter(Hold.time_start >= (datetime.now(timezone.utc) - timedelta(minutes=10)))
+
     )
 
     get_closest = (
     session.query(Spot.spot_id, func.ST_Y(cast(Spot.location, Geometry)), func.ST_X(cast(Spot.location, Geometry)), func.ST_Distance(Spot.location,WKTElement(f'POINT({location[0]} {location[1]})')),  ParkHistory.time_left)
     .join(ParkHistory, Spot.spot_id == ParkHistory.spot_id)
-    .filter(ParkHistory.time_left >= datetime.now() - timedelta(days=10))
-    #.filter(~Spot.spot_id.in_(valid_holds))
+    .filter(ParkHistory.time_left >= (datetime.now(timezone.utc) - timedelta(days=10)))
+    .filter(Spot.spot_id.notin_(valid_holds))
     .order_by(Spot.location.cast(Geometry).distance_centroid(WKTElement(f'POINT({location[0]} {location[1]})', srid=4326))
     
     ).limit(10)
-    )
-
+    ).all()
     return get_closest
 
 
@@ -57,11 +57,13 @@ obtain a temporary hold of  a free spot after a user selects it in the frontend
 
     """
     session = create_session()
-    
-    new_hold = Hold(user_id = user_id, car_id = car_id, spot_id = spot_id)
+    #create a hold unix epoch time
+
+    new_hold = Hold(user_id = user_id, car_id = car_id, spot_id = spot_id, time_start = datetime.now(timezone.utc))
 
     session.add(new_hold)
     session.commit()
-    session.end()
+#insert a hold for spot 8926 for user 1 car 1 
 
 #z = park_find(0, 0, [ -77.062089, 38.8938 ])
+#print(z)
