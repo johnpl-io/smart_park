@@ -172,7 +172,7 @@ def get_car_models():
 def search_car():
 
     search_term = request.args.get("search_term")
-    cars = find_cars(search_term)
+    cars = car_mgmt.find_cars(search_term)
 
     return jsonify({"cars": cars})
 
@@ -186,7 +186,7 @@ def register_car():
 
     data = request.get_json()
 
-    success = register(int(data["user_id"]), int(data["car_id"]))
+    success = car_mgmt.register(int(data["user_id"]), int(data["car_id"]))
 
     if success:
         return jsonify({"message": "Successfully created user!"}), 200
