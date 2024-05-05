@@ -58,7 +58,8 @@ def isPark():
     parked, location = check_park(int(user_id), int(car_id))
 
     #flipping the coordinates for frontend
-    location = (location[1], location[0])
+    if location:
+        location = (location[1], location[0])
     
     if parked:
         return jsonify({"isParked": True, "location": location}), 200
