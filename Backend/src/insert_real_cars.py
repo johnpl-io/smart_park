@@ -2,6 +2,7 @@ import os
 from tqdm import tqdm
 import json5
 from sqlalchemy import create_engine
+from sqlalchemy.orm import Session
 from init_db import *
 
 
@@ -43,18 +44,21 @@ def insert_real_cars():
                                 try:
                                     width = float(width_str)
                                 except ValueError:
-                                    width = None  # Set to None if conversion fails
+                                    width = None 
+                            
                             length_str = dimensions.get("Length")
                             if length_str:
                                 try:
                                     len = float(length_str)
                                 except ValueError:
-                                    len = None  # Set to None if conversion fails
+                                    len = None  
+
                     # check if img is empty dict
                     if car.get("img") == {}:
                         img = None
                     else:
                         img = car.get("img")
+
                     model = Car(
                         car_model=car.get("model_name"),
                         height=height,
