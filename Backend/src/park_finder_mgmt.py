@@ -93,8 +93,8 @@ class ParkFinder_MGMT:
         session.add(new_hold)
         session.commit()
 
-engine = create_engine("postgresql+psycopg2://user:password@localhost:5432/smart_park_db")
-park_finder_mgmt = ParkFinder_MGMT(engine=engine)
+#engine = create_engine("postgresql+psycopg2://user:password@localhost:5432/smart_park_db")
+#park_finder_mgmt = ParkFinder_MGMT(engine=engine)
 #park_finder_mgmt.create_hold(1, 1, 1)
 #park_finder_mgmt.create_hold(1, 1, 1, datetime.fromtimestamp(0))
 #z = park_finder_mgmt.park_find(0, 0, [ -77.062089, 38.8938 ])
