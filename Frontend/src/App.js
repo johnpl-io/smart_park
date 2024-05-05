@@ -47,7 +47,6 @@ function App() {
     return (
       <Router>
         <Routes>
-            <Route path="/map" element={<MapPage/>} />
             <Route path="/" element={<LoginPage/>} />
             <Route path="/create-account" element={<CreateAccountPage/>} />
             <Route path="/ForgotPassword" element={<ForgotPasswordPage/>} />

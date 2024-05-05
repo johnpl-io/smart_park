@@ -46,9 +46,11 @@ const MapComponent = () => {
     useEffect(() => {
         if (selectedSpot && mapRef.current) {
             if (routingControlRef.current) {
+
+                const dotLatLng = dotRef.current.getLatLng();
                 // Update the existing routing control instead of creating a new one
                 routingControlRef.current.setWaypoints([
-                    L.latLng(40.76, -73.93),  // Your dynamic starting point
+                    L.latLng(dotLatLng.lat, dotLatLng.lon),  // Your dynamic starting point
                     L.latLng(selectedSpot.lat, selectedSpot.lng)
                 ]);
             } else {
@@ -58,7 +60,7 @@ const MapComponent = () => {
                         L.latLng(40.76, -73.93),
                         L.latLng(selectedSpot.lat, selectedSpot.lng)
                     ],
-                    routeWhileDragging: true,
+                    routeWhileDragging: false,
                     show: false  // Set to false to prevent automatic UI display
                 }).addTo(mapRef.current);
             }
@@ -288,10 +290,19 @@ const MapComponent = () => {
         const response = await fetch(`http://localhost:5000/get-parked-cars?sw_lat=${bounds.getSouthWest().lat}&sw_lon=${bounds.getSouthWest().lng}&ne_lat=${bounds.getNorthEast().lat}&ne_lon=${bounds.getNorthEast().lng}`);
         if (!response.ok) {
             console.error('Failed to fetch heatmap data');
+            setLoading(false);
             return;
         }
 
         const data = await response.json()
+
+        if (data.image == null)
+        {
+            setLoading(false);
+            alert('No parked cars found!');
+            return;
+
+        }
         const imageUrl = `data:image/png;base64,${data.image}`;
 
         if (heatmapImageRef.current) {
