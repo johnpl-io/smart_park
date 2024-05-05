@@ -19,9 +19,12 @@ def park():
     data = request.get_json()
 
     print(data['location'])
+    #flipping the coordinates for backend
+    backend_location = (data['location'][1], data['location'][0])
+    print(backend_location)
     log_park(int(data['user_id']), 
              int(data['car_id']),
-             data['location'])
+             backend_location)
     
     return jsonify({
         "message": "Successfully parked user!"
@@ -54,6 +57,8 @@ def isPark():
         
     parked, location = check_park(int(user_id), int(car_id))
 
+    #flipping the coordinates for frontend
+    location = (location[1], location[0])
     
     if parked:
         return jsonify({"isParked": True, "location": location}), 200

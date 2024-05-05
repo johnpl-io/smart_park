@@ -9,6 +9,7 @@ import numpy as np
 import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+from geoalchemy2.elements import WKTElement
 from scipy.ndimage.filters import gaussian_filter
 from io import BytesIO
 import base64
@@ -19,9 +20,7 @@ def log_park(user_id: int, car_id: int, location: tuple[float, float]):
 
     session = create_session()
 
-    current_location = func.ST_Point(location[0], 
-                                     location[1],
-                                     type_ = Geography)
+    current_location = WKTElement(f'POINT({location[0]} {location[1]})', srid=4326)
     
 
     nearby_spot_id = (session.query(Spot.spot_id)
@@ -90,8 +89,8 @@ def check_park(user_id: int, car_id: int):
         if result == None:
             return False, None
 
-        latitude, longitude = result
-        return True, (latitude, longitude)
+        longitude, latitude = result
+        return True, (longitude, latitude)
     finally:
         session.close()
 
