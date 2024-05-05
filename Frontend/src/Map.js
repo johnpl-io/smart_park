@@ -8,6 +8,12 @@ import {getAuth, signOut} from "firebase/auth";
 import { useNavigate } from 'react-router-dom';
 
 
+delete L.Icon.Default.prototype._getIconUrl;
+L.Icon.Default.mergeOptions({
+    iconRetinaUrl: require('leaflet/dist/images/marker-icon-2x.png'),
+    iconUrl: require('leaflet/dist/images/marker-icon.png'),
+    shadowUrl: require('leaflet/dist/images/marker-shadow.png')
+});
 
 const MapComponent = () => {
     const mapRef = useRef(null);
@@ -27,6 +33,8 @@ const MapComponent = () => {
     const auth = getAuth();
     const navigate = useNavigate();
 
+
+    
     const handleLogout = (event) => {       
     
         event.preventDefault();
@@ -43,29 +51,38 @@ const MapComponent = () => {
         setSidebarOpen(!sidebarOpen);
     };
 
-    useEffect(() => {
-        if (selectedSpot && mapRef.current) {
+    const handleReserveSpotClick = () => {
+        const dotLatLng = dotRef.current ? dotRef.current.getLatLng() : null;
+    
+        if (selectedSpot && mapRef.current && dotLatLng) {
             if (routingControlRef.current) {
-
-                const dotLatLng = dotRef.current.getLatLng();
-                // Update the existing routing control instead of creating a new one
-                routingControlRef.current.setWaypoints([
-                    L.latLng(dotLatLng.lat, dotLatLng.lon),  // Your dynamic starting point
-                    L.latLng(selectedSpot.lat, selectedSpot.lng)
-                ]);
+                try {
+                    routingControlRef.current.setWaypoints([
+                        L.latLng(dotLatLng.lat, dotLatLng.lng),
+                        L.latLng(selectedSpot.location[0], selectedSpot.location[1])
+                    ]);
+                } catch (error) {
+                    console.error("Error updating waypoints:", error);
+                }
             } else {
-                // Create the routing control if it does not exist
                 routingControlRef.current = L.Routing.control({
                     waypoints: [
-                        L.latLng(40.76, -73.93),
-                        L.latLng(selectedSpot.lat, selectedSpot.lng)
+                        L.latLng(dotLatLng.lat, dotLatLng.lng),
+                        L.latLng(selectedSpot.location[0], selectedSpot.location[1])
                     ],
-                    routeWhileDragging: false,
-                    show: false  // Set to false to prevent automatic UI display
+                    routeWhileDragging: true,
+                    show: false,
+                    addWaypoints: false,
+                    lineOptions: {
+                        styles: [{color: '#6FA1EC', weight: 4}]
+                    }
                 }).addTo(mapRef.current);
             }
+        } else {
+            console.error("Map, dotRef or selectedSpot is not available.");
         }
-    }, [selectedSpot]);
+    };
+    
     
     useEffect(() => {
         const map = L.map('map', {
@@ -394,6 +411,7 @@ const MapComponent = () => {
             <button id="UnparkButton" onClick={handleUnparkButtonClick} disabled={!isParked}>Leave Park</button>
             <button id="findParkingButton" onClick={generateParkingSpots}>Find Parking</button>
             <button id="toggleHeatmapButton" onClick={toggleHeatmapVisibility}>{showHeatmap ? 'Hide Heatmap' : 'Show Heatmap'}</button>
+            <button id="reserveSpotButton" onClick={handleReserveSpotClick}>Reserve Spot</button>
         </div>
     );
 }
