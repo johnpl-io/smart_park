@@ -155,14 +155,27 @@ const MapComponent = () => {
     }, [isParked]); // Depend on isParked to rebind the event listener when the parking status changes
 
 
-    const generateParkingSpots = () => {
-        const spots = Array.from({ length: 10 }, () => ({
-            lat: 40.7 + Math.random() * 0.1 - 0.05,  // Latitude around Manhattan
-            lng: -73.98 + Math.random() * 0.1 - 0.05  // Longitude around Manhattan
-        }));
-        setParkingSpots(spots);
-        console.log(parkingSpots);
+    const generateParkingSpots = async () => {
+        setLoading(true);
+        try {
+            const user_id = localStorage.getItem("user_id");
+            const car_id = localStorage.getItem("car_id");
+            let currentPos = dotRef.current.getLatLng();
+
+            const response = await fetch(`http://localhost:5000/find-closest-free-spot?user_id=${user_id}&car_id=${car_id}&lon=${currentPos.lng}&lat=${currentPos.lat}`);
+            if (!response.ok) {
+                throw new Error('Failed to fetch parking spots');
+            }
+            const spots = await response.json();
+            setParkingSpots(spots);
+        } catch (error) {
+            console.error('Error fetching parking spots:', error);
+            alert('Failed to load parking spots. Please try again.');
+        } finally {
+            setLoading(false);
+        }
     };
+    
 
     
     useEffect(() => {
@@ -369,7 +382,7 @@ const MapComponent = () => {
                             <option value="">Select a parking spot</option>
                             {parkingSpots.map((spot, index) => (
                                 <option key={index} value={index}>
-                                    {`Lat: ${spot.lat.toFixed(3)}, Lng: ${spot.lng.toFixed(3)}`}
+                                    {`Lat: ${spot.location[0].toFixed(3)}, Lng: ${spot.location[1].toFixed(3)}`}
                                 </option>
                             ))}
                         </select>

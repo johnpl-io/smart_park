@@ -104,7 +104,8 @@ def find_closest_free_spot():
         spots.append(
             {
                 "spot_id": spot[0],
-                "location": Point((spot[2], spot[1])),
+                "location": (spot[2], spot[1]),
+                #"location": Point((spot[2], spot[1])),
                 "distance": spot[3],
                 "time_left": spot[4],
             }
