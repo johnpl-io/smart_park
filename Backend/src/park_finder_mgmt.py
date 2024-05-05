@@ -5,13 +5,11 @@ from utils import create_session
 from geoalchemy2.elements import WKTElement
 from datetime import datetime, timedelta, timezone
 from sqlalchemy import create_engine
-
+from sqlalchemy import delete
 
 class ParkFinder_MGMT:
     def __init__(self, engine):
-        self.engine = create_engine(
-            "postgresql+psycopg2://user:password@localhost:5432/nyc"
-        )
+        self.engine = engine
 
     def park_find(
         self, user_id: int, car_id: int, location: tuple[float, float]
@@ -32,9 +30,19 @@ class ParkFinder_MGMT:
         # find closest points that have recently been left for now it simply picks ten closest poinst
         # first check if there are any holds over 10 minutes old
         # get all holds
-        valid_holds = session.query(Hold.spot_id).filter(
-            Hold.time_start >= (datetime.now(timezone.utc) - timedelta(minutes=10))
-        )
+        #delete all holds older then 10 minutes
+        
+  
+        
+        invalid_holds = session.query(Hold).where(Hold.time_start < (datetime.now(timezone.utc) - timedelta(minutes=10))).delete()
+      
+        session.commit()
+        
+        
+        valid_holds = session.query(Hold.spot_id)
+        
+   
+       
         get_closest = (
             session.query(
                 Spot.spot_id,
@@ -58,10 +66,11 @@ class ParkFinder_MGMT:
             )
             .limit(10)
         ).all()
+      
         session.close()
         return get_closest
 
-    def create_hold(self, user_id: int, car_id: int, spot_id: int):
+    def create_hold(self, user_id: int, car_id: int, spot_id: int, time_start: datetime = None):
         """
         obtain a temporary hold of  a free spot after a user selects it in the frontend
         Parameters:
@@ -76,11 +85,14 @@ class ParkFinder_MGMT:
             user_id=user_id,
             car_id=car_id,
             spot_id=spot_id,
-            time_start=datetime.now(timezone.utc),
+            time_start=time_start,
         )
         session.add(new_hold)
         session.commit()
 
-
-# park_finder_mgmt = ParkFinder_MGMT()
-# z = park_finder_mgmt.park_find(0, 0, [ -77.062089, 38.8938 ])
+#engine = create_engine("postgresql+psycopg2://user:password@localhost:5432/smart_park_db")
+#park_finder_mgmt = ParkFinder_MGMT(engine=engine)
+#park_finder_mgmt.create_hold(1, 1, 1)
+#park_finder_mgmt.create_hold(1, 1, 1, datetime.fromtimestamp(0))
+#z = park_finder_mgmt.park_find(0, 0, [ -77.062089, 38.8938 ])
+#create a hold for user 1 spot 1 for unix epoch time
