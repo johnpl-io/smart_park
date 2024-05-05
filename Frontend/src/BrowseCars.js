@@ -11,6 +11,7 @@ const CarBrowser = () => {
     const [cars, setCars] = useState([]);
     const [suggestions, setSuggestions] = useState([]);
     const searchRef = useRef(null);
+    const debounceTimeoutRef = useRef(null);
 
     const [sidebarOpen, setSidebarOpen] = useState(true);
     const auth = getAuth();
@@ -33,6 +34,27 @@ const CarBrowser = () => {
     };
 
     useEffect(() => {
+        $(searchRef.current).autocomplete({
+            source: function (request, response) {
+                if (debounceTimeoutRef.current) {
+                    clearTimeout(debounceTimeoutRef.current);
+                }
+                debounceTimeoutRef.current = setTimeout(() => {
+                    fetch(`http://localhost:5000/get-models?search_term=${encodeURIComponent(request.term)}`)
+                        .then(res => res.json())
+                        .then(data => {
+                            response(data.car_models.map(model => ({ label: model, value: model })));
+                        })
+                        .catch(error => console.error('Failed to load car models:', error));
+                }, 100);
+            },
+            select: function (event, ui) {
+                setQuery(ui.item.value);
+            }
+        });
+    }, []);
+    /*
+    useEffect(() => {
         // Fetch car model names from the backend
         fetch(`http://localhost:5000/get-models`)
             .then(response => response.json())
@@ -44,7 +66,9 @@ const CarBrowser = () => {
             })
             .catch(error => console.error('Failed to load car models:', error));
         }, []);
+        */
     
+    /*
 
     useEffect(() => {
         // Initialize jQuery Autocomplete
@@ -54,7 +78,23 @@ const CarBrowser = () => {
                 setQuery(ui.item.value);
             }
         });
-    }, [suggestions]);
+    }, [suggestions]);*/
+    /*
+
+    const fetchModels = async (searchTerm) => {
+        try {
+            const response = await fetch(`http://localhost:5000/get-models?search_term=${encodeURIComponent(searchTerm)}`);
+            const data = await response.json();
+            const models = data.car_models;
+            setSuggestions(models);
+        } catch (error) {
+            console.error('Failed to load car models:', error);
+        }
+    };*/
+
+    const handleInputChange = (event) => {
+        setQuery(event.target.value);
+    };
 
     const handleSearch = async () => {
         const response = await fetch(`http://localhost:5000/search-cars?search_term=${encodeURIComponent(query)}`);
@@ -62,10 +102,11 @@ const CarBrowser = () => {
         console.log(data);
         setCars(data["cars"]);
     };
-
+    /*
     const handleInputChange = (event) => {
         setQuery(event.target.value);
     };
+    */
 
     const registerCar = async (car_id) => {
         try {

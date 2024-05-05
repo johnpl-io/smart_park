@@ -22,8 +22,8 @@ const LoginPage = () => {
             localStorage.setItem("username", user.username);
             localStorage.setItem("user_id", user.user_id);
             
-            
-            window.location.reload();
+            navigate("/");
+            //window.location.reload();
         } catch (err) {
           if (err.code === 'auth/invalid-email') {
             toast.error('Invalid email ID');

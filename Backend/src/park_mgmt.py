@@ -179,6 +179,9 @@ class Park_MGMT:
 
             parkings = [(result.latitude, result.longitude) for result in results]
 
+            if not parkings:
+                return None, None
+            
             bounds = {
                 "min_lon": min([parking[1] for parking in parkings]),
                 "max_lon": max([parking[1] for parking in parkings]),
