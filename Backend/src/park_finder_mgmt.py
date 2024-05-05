@@ -41,8 +41,8 @@ class ParkFinder_MGMT:
         
         valid_holds = session.query(Hold.spot_id)
         
-   
-       
+    
+
         get_closest = (
             session.query(
                 Spot.spot_id,
@@ -53,6 +53,9 @@ class ParkFinder_MGMT:
                 ),
                 ParkHistory.time_left,
             )
+            #make sure the spot has not been taken
+            .outerjoin(Park, Spot.spot_id == Park.spot_id)
+            .filter(Park.spot_id == None)
             .join(ParkHistory, Spot.spot_id == ParkHistory.spot_id)
             .filter(
                 ParkHistory.time_left
@@ -68,6 +71,7 @@ class ParkFinder_MGMT:
         ).all()
       
         session.close()
+        breakpoint()
         return get_closest
 
     def create_hold(self, user_id: int, car_id: int, spot_id: int, time_start: datetime = None):

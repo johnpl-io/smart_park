@@ -33,6 +33,9 @@ class Park_MGMT:
 
         if nearby_spot_id:
             spot_id = nearby_spot_id[0]
+            #if hold exists for spot delete it 
+            session.query(Hold).filter(Hold.spot_id == spot_id).delete()
+            session.commit()
         else:
             new_spot = Spot(location=current_location)
 
