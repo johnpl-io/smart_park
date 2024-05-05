@@ -139,6 +139,8 @@ def get_hold():
     car_id = request.args.get("car_id", type=int)
     spot_id = request.args.get("spot_id", type=int)
 
+    print(user_id, car_id, spot_id)
+
     park_finder_mgmt.create_hold(user_id, car_id, spot_id)
 
     return jsonify({"message": "Successfully created hold!"}), 200

@@ -71,7 +71,6 @@ class ParkFinder_MGMT:
         ).all()
       
         session.close()
-        breakpoint()
         return get_closest
 
     def create_hold(self, user_id: int, car_id: int, spot_id: int, time_start: datetime = None):

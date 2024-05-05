@@ -51,10 +51,27 @@ const MapComponent = () => {
         setSidebarOpen(!sidebarOpen);
     };
 
-    const handleReserveSpotClick = () => {
+    const handleReserveSpotClick = async () => {
         const dotLatLng = dotRef.current ? dotRef.current.getLatLng() : null;
+
+        
     
         if (selectedSpot && mapRef.current && dotLatLng) {
+
+            const user_id = localStorage.getItem("user_id");
+            const car_id = localStorage.getItem("car_id");
+        
+
+            const response = await fetch(`http://localhost:5000/get-hold?user_id=${user_id}&car_id=${car_id}&spot_id=${selectedSpot.spot_id}`)
+
+
+            if (!response.ok) {
+                alert("Failed to reserve parking spot!")
+                return;
+            }
+            else{
+                alert("Successfully reserved parking spot!");
+            }
             if (routingControlRef.current) {
                 try {
                     routingControlRef.current.setWaypoints([
@@ -70,7 +87,7 @@ const MapComponent = () => {
                         L.latLng(dotLatLng.lat, dotLatLng.lng),
                         L.latLng(selectedSpot.location[0], selectedSpot.location[1])
                     ],
-                    routeWhileDragging: true,
+                    routeWhileDragging: false,
                     show: false,
                     addWaypoints: false,
                     lineOptions: {
@@ -79,7 +96,7 @@ const MapComponent = () => {
                 }).addTo(mapRef.current);
             }
         } else {
-            console.error("Map, dotRef or selectedSpot is not available.");
+            console.error("Please select one of the recommended parking spots!");
         }
     };
     
@@ -173,10 +190,16 @@ const MapComponent = () => {
 
 
     const generateParkingSpots = async () => {
+
         setLoading(true);
         try {
             const user_id = localStorage.getItem("user_id");
             const car_id = localStorage.getItem("car_id");
+
+            if(car_id == null){
+                alert("Please first select a car in the garage!");
+                return;
+            }
             let currentPos = dotRef.current.getLatLng();
 
             const response = await fetch(`http://localhost:5000/find-closest-free-spot?user_id=${user_id}&car_id=${car_id}&lon=${currentPos.lng}&lat=${currentPos.lat}`);
@@ -394,18 +417,22 @@ const MapComponent = () => {
             </button>
             <div id="map" className={`map ${sidebarOpen ? 'shifted' : ''}`}>
                 <div className="select-container">
-                    {parkingSpots.length > 0 && (
-                        <select onChange={(e) => setSelectedSpot(parkingSpots[parseInt(e.target.value, 10)])}>
-                            <option value="">Select a parking spot</option>
-                            {parkingSpots.map((spot, index) => (
-                                <option key={index} value={index}>
-                                    {`Lat: ${spot.location[0].toFixed(3)}, Lng: ${spot.location[1].toFixed(3)}`}
-                                </option>
-                            ))}
-                        </select>
-                    )}
-                </div>
+                {parkingSpots.length > 0 && (
+                <>
+                <h3 className="dropdown-title">Recommended Parking Spaces</h3>
+                <select className="parking-dropdown" onChange={(e) => setSelectedSpot(parkingSpots[parseInt(e.target.value, 10)])}>
+                    <option value="">Select a parking spot</option>
+                    {parkingSpots.map((spot, index) => (
+                        <option key={index} value={index}>
+                            {`Lat: ${spot.location[0].toFixed(3)}, Lng: ${spot.location[1].toFixed(3)}, Last Occupied: ${spot.time_left}, ${Math.round(parseFloat(spot.distance))} meters away`}
+                        </option>
+                    ))}
+                </select>
+                </>
+                )}
             </div>
+        </div>
+
             {loading && <div className="loading-spinner">Loading...</div>}
             <button id="parkButton" onClick={handleParkButtonClick} disabled={isParked}>Park Here</button>
             <button id="UnparkButton" onClick={handleUnparkButtonClick} disabled={!isParked}>Leave Park</button>
