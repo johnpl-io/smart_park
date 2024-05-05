@@ -18,8 +18,9 @@ Base = declarative_base()
 class nyc_street(Base):
     """
     This class represents the nyc_streets table for orm
-    
+
     """
+
     __tablename__ = "nyc_streets"
     # id 8 bit integer
     id = Column(Integer, primary_key=True)
@@ -30,4 +31,3 @@ class nyc_street(Base):
 
     def __repr__(self):
         return f"nyc_street(id={self.id}, geom={self.geom}, oneway={self.oneway}, type={self.type})"
-

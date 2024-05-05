@@ -6,7 +6,7 @@ from IPython.display import display, clear_output
 path = [
     (34.0522, -118.2437),  # Los Angeles
     (36.1699, -115.1398),  # Las Vegas
-    (37.7749, -122.4194)   # San Francisco
+    (37.7749, -122.4194),  # San Francisco
 ]
 
 # Create a map centered around the starting point
@@ -19,4 +19,3 @@ for coord in path:
     folium.Marker(coord).add_to(m)
     display(m)
     sleep(1)  # Pause for 1 second
-
