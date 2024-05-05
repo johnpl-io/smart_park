@@ -32,11 +32,15 @@ class Car_MGMT:
             for result in results
         ]
 
+        session.close()
+
         return results
 
-    def get_models(self):
+    def get_models(self, search_term):
         session = create_session(self.engine)
-        results = (session.query(Car.car_model)).all()
+        results = session.query(Car.car_model).filter(
+            Car.car_model.ilike(f"{search_term}%")
+        ).limit(10)
 
         return [result[0] for result in results]
 
@@ -44,11 +48,13 @@ class Car_MGMT:
         session = create_session(self.engine)
         results = session.query(Car.car_id, Car.car_model, Car.car_img).filter(
             Car.car_model.ilike(f"{search_term}%")
-        )
+        ).limit(10)
 
         results = [
             dict(zip(["car_id", "model", "image_path"], result)) for result in results
         ]
+
+        session.close()
 
         return results
 
@@ -59,6 +65,9 @@ class Car_MGMT:
             session.add(new_ownership)
 
             session.commit()
+            session.close()
+
             return True
         except:
             return False
+        

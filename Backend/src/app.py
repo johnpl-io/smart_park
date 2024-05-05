@@ -162,7 +162,9 @@ def get_users_cars():
 @cross_origin(supports_credentials=True)
 def get_car_models():
 
-    car_models = car_mgmt.get_models()
+    search_term = request.args.get("search_term")
+
+    car_models = car_mgmt.get_models(search_term)
 
     return jsonify({"car_models": car_models})
 
