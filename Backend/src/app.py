@@ -132,6 +132,16 @@ def check_username():
 
     return jsonify({"exists": exists})
 
+@app.route("/get-hold", methods=["GET"])
+@cross_origin(supports_credentials=True)
+def get_hold():
+    user_id = request.args.get("user_id", type=int)
+    car_id = request.args.get("car_id", type=int)
+    spot_id = request.args.get("spot_id", type=int)
+
+    park_finder_mgmt.create_hold(user_id, car_id, spot_id)
+
+    return jsonify({"message": "Successfully created hold!"}), 200
 
 @app.route("/create-user", methods=["POST"])
 @cross_origin(supports_credentials=True)
