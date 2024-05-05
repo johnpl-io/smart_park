@@ -19,7 +19,7 @@ class Park_MGMT:
         self.engine = engine
 
     def log_park(self, user_id: int, car_id: int, location: tuple[float, float]):
-
+        #TODO: remove hold once a succesful park has been made
         session = create_session(self.engine)
 
         current_location = WKTElement(f"POINT({location[0]} {location[1]})", srid=4326)
