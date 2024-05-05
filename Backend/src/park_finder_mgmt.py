@@ -38,8 +38,8 @@ class ParkFinder_MGMT:
         get_closest = (
             session.query(
                 Spot.spot_id,
-                func.ST_Y(cast(Spot.location, Geometry)),
                 func.ST_X(cast(Spot.location, Geometry)),
+                func.ST_Y(cast(Spot.location, Geometry)),
                 func.ST_Distance(
                     Spot.location, WKTElement(f"POINT({location[0]} {location[1]})")
                 ),
