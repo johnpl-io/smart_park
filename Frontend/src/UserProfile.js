@@ -4,7 +4,8 @@ import { getAuth, signOut } from "firebase/auth";
 import { useNavigate } from 'react-router-dom';
 
 const UserProfilePage = () => {
-  const [userDetails, setUserDetails] = useState({ username: '', user_id: '', user_email: '', created_on: ''});
+  const [userDetails, setUserDetails] = useState({ username: '', user_id: '', user_email:'',
+  created_on: '', car_id: ''});
   const navigate = useNavigate();
   const auth = getAuth();
 
@@ -22,7 +23,8 @@ const UserProfilePage = () => {
           username: userDetailsData.username,
           user_id: userDetailsData.user_id,
           user_email: userDetailsData.email,
-          created_on: userDetailsData.created_on
+          created_on: userDetailsData.created_on,
+          car_id: userDetailsData.car_id
 
         });
       } catch (error) {
@@ -53,6 +55,7 @@ const UserProfilePage = () => {
       <p>User_ID: {userDetails.user_id}</p>
       <p>User_Email: {userDetails.user_email}</p>
       <p>Created On: {userDetails.created_on}</p>
+      <p>Car_ID: {userDetails.car_id}</p>
       <div className="button-container">
           <button onClick={handleLogout}>Logout</button>
           <button onClick={() => { window.location.href = "/"; }}>Back to Menu</button>

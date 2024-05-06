@@ -28,13 +28,8 @@ class User_MGMT:
         )
         if result == None:
             return False, None, None, None, None
-        # Check if the result contains the car id
-        car_id = "User Has Not Picked a Car"
-        if hasattr(result, 'car_id'):
-            car_id = result.car_id
-
         session.close()
-        return True, result[0], result[1], result[2], result[3], car_id
+        return True, result[0], result[1], result[2], result[3]
 
     def user_exists(self, username):
         session = create_session(self.engine)
