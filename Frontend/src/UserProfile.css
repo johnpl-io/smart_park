@@ -59,3 +59,33 @@
 .user-profile button:hover {
   background-color: #0056b3;
 }
+
+.car-image-container {
+  width: 100%; /* Adjust based on your layout needs */
+  height: auto; /* Adjust based on your layout needs */
+  overflow: hidden; /* Ensures the image doesn't overflow the container */
+}
+
+.car-image {
+  width: 100%;
+  height: auto;
+  object-fit: contain; /* Maintains aspect ratio */
+}
+
+.user-profile {
+  position: relative;
+}
+
+.top-left {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px;
+}
+
+.top-right {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px;
+}
