@@ -1,0 +1,91 @@
+.user-profile {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.user-profile h2 {
+  margin-top: 30px; /* Added 'px' unit */
+}
+
+.user-profile p {
+  color: #fff; /* Changed text color to white */
+}
+
+.loading-sentinel {
+  height: 1px; /* Minimum height to make it detectable */
+  width: 100%;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-profile {
+  max-width: 600px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #333333;
+}
+
+.user-profile h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+  color: #fff; /* Changed text color to white */
+}
+
+.user-profile p {
+  font-size: 16px;
+  color: #fff; /* Changed text color to white */
+  margin-bottom: 8px;
+}
+
+.user-profile button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.user-profile button:hover {
+  background-color: #0056b3;
+}
+
+.car-image-container {
+  width: 100%; /* Adjust based on your layout needs */
+  height: auto; /* Adjust based on your layout needs */
+  overflow: hidden; /* Ensures the image doesn't overflow the container */
+}
+
+.car-image {
+  width: 100%;
+  height: auto;
+  object-fit: contain; /* Maintains aspect ratio */
+}
+
+.user-profile {
+  position: relative;
+}
+
+.top-left {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px;
+}
+
+.top-right {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 10px;
+}

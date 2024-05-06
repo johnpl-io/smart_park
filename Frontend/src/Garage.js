@@ -13,21 +13,43 @@ const CarsDisplay = () => {
     const auth = getAuth();
     const navigate = useNavigate();
 
-    useEffect(() => {
-        const fetchCars = async () => {
-            const user_id = localStorage.getItem("user_id");
-            const response = await fetch(`http://localhost:5000/get-cars?user_id=${user_id}`);
-            console.log(response);
-            const data = await response.json();
-            console.log(data);
-            setCars(data["cars"]);
-        };
+    const fetchCars = async () => {
+        const user_id = localStorage.getItem("user_id");
+        const response = await fetch(`http://localhost:5000/get-cars?user_id=${user_id}`);
+        const data = await response.json();
+        setCars(data["cars"]);
+    };
 
+    useEffect(() => {
         fetchCars();
     }, []);
 
-    const handleLogout = (event) => {       
-    
+    const handleDeleteCarFromGarage = async (carIdToDelete) => {
+        const user_id = localStorage.getItem("user_id");
+        console.log("Car ID to delete:", carIdToDelete);
+        console.log("User ID:", user_id);
+        try {
+            const response = await fetch("http://localhost:5000/delete-car", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+                body: JSON.stringify({ user_id, car_id: carIdToDelete}),
+            });
+
+            if (!response.ok) {
+                throw new Error("Failed to delete car");
+            }
+
+            // Optionally, refresh the list of cars after deletion
+            fetchCars();
+        } catch (error) {
+            console.error("Error deleting car:", error);
+        }
+    };
+
+    const handleLogout = (event) => {
+
         event.preventDefault();
         signOut(auth).then(() => {
         // Sign-out successful.
@@ -58,6 +80,7 @@ const CarsDisplay = () => {
 
     return (
         <div className="garage-container">
+
             <div className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
                     <div className="menu">
                     <ul className="menu-list">
@@ -96,6 +119,7 @@ const CarsDisplay = () => {
                 <p>Model: {cars[currentIndex].model}</p>
                 <p>Location: {cars[currentIndex].location || 'Not Currently Parked'}</p>
             </div>
+            <button className="delete-button" onClick={() => handleDeleteCarFromGarage(cars[currentIndex].car_id)}>Delete Car</button>
             <button className="select-button" onClick={handleSelectCar}>Select This Car</button>
         </div>
     )}

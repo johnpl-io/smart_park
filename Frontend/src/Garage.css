@@ -86,6 +86,24 @@
     transition: background-color 0.3s ease;
 }
 
+.delete-button {
+    background-color: #ff3d00;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+    width: 100%;
+    max-width: 200px;
+    transition: background-color 0.3s ease;
+}
+
+.delete-button:hover {
+    background-color: #ff5722;
+}
+
 .select-button:hover {
     background-color: #ff5722;
 }
