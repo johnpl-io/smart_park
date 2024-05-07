@@ -55,6 +55,11 @@ const MapComponent = () => {
         const dotLatLng = dotRef.current ? dotRef.current.getLatLng() : null;
 
         
+        checkIfOnStreetRef.current(dotLatLng, async (isOnStreet) => {
+            if (!isOnStreet) {
+                alert("You're not on a street! Please move the street to reserve a spot!.");
+                return;
+            }
     
         if (selectedSpot && mapRef.current && dotLatLng) {
 
@@ -65,7 +70,7 @@ const MapComponent = () => {
             const response = await fetch(`http://localhost:5000/get-hold?user_id=${user_id}&car_id=${car_id}&spot_id=${selectedSpot.spot_id}`)
 
             if (response.status == 300) {
-                alert("You all ready have a hold on that spot!")
+                alert("You already have a hold on that spot!")
                 return
             }
             if (!response.ok) {
@@ -102,6 +107,7 @@ const MapComponent = () => {
             console.error("Please select one of the recommended parking spots!");
             alert('Please select one of the recommended spots!');
         }
+    })
     };
     
     
