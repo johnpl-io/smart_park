@@ -9,7 +9,7 @@ class User_MGMT:
     def __init__(self, engine):
         self.engine = engine
 
-    def user_lookup(self, email):
+    def user_lookup_email(self, email):
         session = create_session(self.engine)
         result = (
             session.query(User.username, User.user_id)
@@ -21,7 +21,7 @@ class User_MGMT:
         session.close()
         return True, result[0], result[1]
 
-    def user_lookup(self, user_id):
+    def user_lookup_user_id(self, user_id):
         session = create_session(self.engine)
         result = (
             session.query(User.username, User.user_id, User.email, User.created_on)

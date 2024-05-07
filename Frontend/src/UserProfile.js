@@ -72,18 +72,17 @@ const UserProfilePage = () => {
         <button onClick={handleLogout}>Logout</button>
       </div>
       <div className="top-left">
-        <button onClick={() => { window.location.href = "/"; }}>Back to Menu</button>
+        <button onClick={() => { window.location.href = "/"; }}>Back to Map</button>
       </div>
       <h1>Welcome, {userDetails.username}</h1>
-      <p>User_ID: {userDetails.user_id}</p>
-      <p>User_Email: {userDetails.user_email}</p>
-      <p>Created On: {userDetails.created_on}</p>
+      <p>User ID: {userDetails.user_id}</p>
+      <p>Email Address: {userDetails.user_email}</p>
+      <p>Joined on: {userDetails.created_on}</p>
       <div className="car-details">
         <h2>Your Cars</h2>
         <ul>
           {carDetails.map(car => (
             <li key={car.car_id}>
-              <strong>Car ID:</strong> {car.car_id}<br />
               <strong>Car Model:</strong> {car.car_model}<br />
               <strong>Width:</strong> {car.width}<br />
               <strong>Length:</strong> {car.len}<br />

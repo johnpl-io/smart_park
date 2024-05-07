@@ -119,14 +119,14 @@ def find_closest_free_spot():
 def find_user():
 
     email = request.args.get("email")
-    exists, username, user_id = user_mgmt.user_lookup(email)
+    exists, username, user_id = user_mgmt.user_lookup_email(email)
     return jsonify({"exists": exists, "username": username, "user_id": user_id})
 
 @app.route("/find-user-by-user-id", methods=["GET"])
 @cross_origin(supports_credentials=True)
 def find_user_by_user_id():
     user_id = request.args.get("user_id")
-    exists, username, user_id, email, created_on = user_mgmt.user_lookup(user_id)
+    exists, username, user_id, email, created_on = user_mgmt.user_lookup_user_id(user_id)
     return jsonify({"exists": exists, "username": username, "user_id": user_id,
                     "email": email, "created_on": created_on})
 

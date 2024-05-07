@@ -43,6 +43,18 @@ const CarsDisplay = () => {
 
             // Optionally, refresh the list of cars after deletion
             fetchCars();
+            
+            if(cars[currentIndex].car_id == localStorage.getItem('car_id')){
+                localStorage.removeItem('car_id');
+            }
+            
+            if (currentIndex != 0){
+                setCurrentIndex(currentIndex - 1);
+            }
+            else {
+                setCurrentIndex(0);
+            }
+            
         } catch (error) {
             console.error("Error deleting car:", error);
         }
