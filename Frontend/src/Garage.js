@@ -43,6 +43,7 @@ const CarsDisplay = () => {
 
             // Optionally, refresh the list of cars after deletion
             fetchCars();
+            setCurrentIndex(0);
         } catch (error) {
             console.error("Error deleting car:", error);
         }
