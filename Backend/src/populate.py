@@ -1,15 +1,81 @@
 import random
 from faker import Faker
 from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import sessionmaker, Session
 from geoalchemy2.elements import WKTElement
 from init_db import *
+import os
 import numpy as np
 from tqdm import tqdm
+import json5
 
 fake = Faker()
 NUM_ENTRIES = 10000
 
+
+def insert_real_cars():
+    engine = create_engine(
+        "postgresql+psycopg2://user:password@localhost:5432/smart_park_db"
+    )
+    session = Session(bind=engine)
+    directory = "car_json_dumps"
+
+    file_list = os.listdir(directory)
+    trange = file_list
+    for filename in tqdm(pbar := tqdm(file_list)):
+        if filename.endswith(".json"):
+            filepath = os.path.join(directory, filename)
+            models = []
+            with open(filepath, "r") as file:
+                data = json5.load(file)
+                for car in data["models"]:
+
+                    # not the most elegant way to handle missing data
+
+                    height, width, len = None, None, None
+
+                    if car.get("technical_specs"):
+                        dimensions = car["technical_specs"].get("DIMENSIONS")
+
+                        if dimensions:
+                            height_str = dimensions.get("Height")
+                            if height_str:
+                                try:
+                                    height = float(height_str)
+                                except ValueError:
+                                    height = None
+
+                            width_str = dimensions.get("Width")
+
+                            if width_str:
+                                try:
+                                    width = float(width_str)
+                                except ValueError:
+                                    width = None 
+                            
+                            length_str = dimensions.get("Length")
+                            if length_str:
+                                try:
+                                    len = float(length_str)
+                                except ValueError:
+                                    len = None  
+
+                    # check if img is empty dict
+                    if car.get("img") == {}:
+                        img = None
+                    else:
+                        img = car.get("img")
+
+                    model = Car(
+                        car_model=car.get("model_name"),
+                        height=height,
+                        width=width,
+                        len=len,
+                        car_img=img,
+                    )
+                    models.append(model)
+                session.add_all(models)
+                session.commit()
 
 def populate_database():
     engine = create_engine(
@@ -19,7 +85,7 @@ def populate_database():
 
     # Create random users
     users = []
-
+    
     for i in tqdm(
         range(NUM_ENTRIES), desc="adding users"
     ):  # Adjust the number if necessary
@@ -38,71 +104,29 @@ def populate_database():
         users.append(user)
     session.add_all(users)
     session.commit()
+    
 
-    # Create random cars
-    cars = []
-    models = [
-        "Honda",
-        "Toyota",
-        "Cadillac",
-        "Porsche",
-        "Hyundai",
-        "Volkswagen",
-        "Ford",
-        "BMW",
-        "Chervolet",
-        "Tesla",
-    ]
-    for i in range(10):  # Adjust the range for more cars
-        car = Car(car_model=models[i], car_img="/Car_Images/" + models[i] + ".jpg")
-        cars.append(car)
-    session.add_all(cars)
+    insert_real_cars()
 
-    # Create random spots
-    spots = []
-    for _ in tqdm(range(NUM_ENTRIES), "adding spots"):
-        lat = np.random.normal(loc=40.76, scale=1e-2)
-        lon = np.random.normal(loc=-73.93, scale=1e-2)
-        # lat = random.uniform(40.711, 40.7850)  # Latitude range for Manhattan
-        # lon = random.uniform(-74.0100, -73.9490)  # Longitude range for Manhattan
-        spot = Spot(location=WKTElement(f"POINT({lon} {lat})", srid=4326))
-        spots.append(spot)
-    session.add_all(spots)
+    sampled_cars = session.query(Car.car_id).limit(1000).all()
 
-    # Commit to save users, cars, and spots
-    session.commit()
 
+    
     # Create relationships between users and cars
     owns = []
-    for user in tqdm(users, "adding owns relationships for cars"):
-        owns_relationship = Owns(user_id=user.user_id, car_id=car.car_id)
+
+    for index in tqdm(range(len(users)), "adding owns relationships to cars"):
+        owns_relationship = Owns(user_id=users[index].user_id, car_id=random.choice(sampled_cars)[0])
         owns.append(owns_relationship)
+
     session.add_all(owns)
-
-    # Create parking history and current park status
-    for spot in tqdm(spots, "adding park history and current park status"):
-        user = random.choice(users)
-        car = random.choice(cars)
-        park_history = ParkHistory(
-            user_id=user.user_id,
-            spot_id=spot.spot_id,
-            time_arrived=fake.past_datetime(),
-            time_left=fake.date_time_between(start_date="-1y", end_date="now"),
-        )
-        current_park = Park(
-            spot_id=spot.spot_id,
-            user_id=user.user_id,
-            car_id=car.car_id,
-            time_arrived=fake.past_datetime(),
-        )
-        session.add(park_history)
-        session.add(current_park)
-
-    # Commit the relationships and park history
     session.commit()
+
+
 
     # Close session
     session.close()
+
 
     print("Database populated successfully.")
 

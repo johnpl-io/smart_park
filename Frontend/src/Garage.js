@@ -116,7 +116,7 @@ const CarsDisplay = () => {
                     <FaCheckCircle />
                 </div>
             )}
-            <img src={cars[currentIndex].image_path} alt={cars[currentIndex].name} className="car-image" />
+            <img className="car-image" src={'/' + cars[currentIndex].image_path ? cars[currentIndex].image_path : '/image/default.jpg'} alt={`Car ${cars[currentIndex].car_id}`} />
         </div>
         <div className="navigation-buttons">
             <button className="navigate-button left" onClick={handlePrev}>←</button>

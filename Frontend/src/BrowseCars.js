@@ -146,7 +146,8 @@ const CarBrowser = () => {
             <div>
                 {cars.map(car => (
                     <div key={car.car_id} className="car-card">
-                        <img src={car.image_path} alt={car.model} />
+                        <img className="car-image" src={'/' + car.image_path ? car.image_path : '/image/default.jpg'} alt={`Car ${car.car_id}`} />
+
                         <h2>{car.model}</h2>
                         <button onClick={() => registerCar(car.car_id)} className="register-button">Register</button>
                     </div>

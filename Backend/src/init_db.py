@@ -43,7 +43,7 @@ class Car(Base):
 
     car_id = Column(Integer, primary_key=True)
     car_model = Column(String, nullable=False)
-    car_img = Column(String, nullable=True)
+    car_img = Column(String, nullable = False, default = 'images/default.jpg')
 
     width = Column(Float, nullable=True)
     len = Column(Float, nullable=True)

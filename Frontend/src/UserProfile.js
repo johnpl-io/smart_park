@@ -88,7 +88,8 @@ const UserProfilePage = () => {
               <strong>Length:</strong> {car.len}<br />
               <strong>Height:</strong> {car.height}
               <div className="car-image-container">
-                  <img className="car-image" src={car.car_img} alt={`Car ${car.car_id}`} />
+
+              <img src={car.image_path} alt={`Car ${car.car_id}`} className="car-image" />
               </div>
             </li>
           ))}
