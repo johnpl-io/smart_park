@@ -22,7 +22,7 @@ const MapComponent = () => {
     const [parkingSpots, setParkingSpots] = useState([]);
     const [selectedSpot, setSelectedSpot] = useState(null);
     const routingControlRef = useRef(null);
-    const [dotPosition, setDotPosition] = useState([40.76, -73.93]);
+    const [dotPosition, setDotPosition] = useState([40.7281, -73.9916]);
     const [zoomLevel, setZoomLevel] = useState(13); // Default zoom level
     const [showHeatmap, setShowHeatmap] = useState(false);
     const heatmapImageRef = useRef(null);
@@ -64,7 +64,10 @@ const MapComponent = () => {
 
             const response = await fetch(`http://localhost:5000/get-hold?user_id=${user_id}&car_id=${car_id}&spot_id=${selectedSpot.spot_id}`)
 
-
+            if (response.status == 300) {
+                alert("You all ready have a hold on that spot!")
+                return
+            }
             if (!response.ok) {
                 alert("Failed to reserve parking spot!")
                 return;
@@ -97,6 +100,7 @@ const MapComponent = () => {
             }
         } else {
             console.error("Please select one of the recommended parking spots!");
+            alert('Please select one of the recommended spots!');
         }
     };
     
@@ -111,7 +115,7 @@ const MapComponent = () => {
                     attribution: '© OpenStreetMap'
                 })
             ]
-        });
+        }, {zoomAnimation:false});
         
 
 
@@ -274,14 +278,20 @@ const MapComponent = () => {
                     location: [dotLatLng.lat, dotLatLng.lng] // Using the current position
                 })
             });
-
+           
             if (response.ok) {
                 setIsParked(true);
                 setDotPosition([dotLatLng.lat, dotLatLng.lng]);
                 alert("Successfully parked!");
+                
+            } else if (response.status == 300) {
+                alert("Someone is already parked here!");
+                
             } else {
                 alert("Failed to park. Please try again.");
+                
             }
+            
         }
             else {
                 alert("You're not on a street!");
@@ -399,8 +409,8 @@ const MapComponent = () => {
 
     return (
         <div className="map-container">
-                <div className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
-                    <div className="menu">
+            <div className={`sidebar ${sidebarOpen ? 'open' : ''}`}>
+                <div className="menu">
                     <ul className="menu-list">
                         <li><button onClick={() => { window.location.href = "/AboutUs"; }}><FaInfoCircle /> About Us</button></li>
                         <li><button onClick={() => { window.location.href = "/UserProfile"; }}><FaCog /> Account Settings</button></li>
@@ -409,29 +419,29 @@ const MapComponent = () => {
                         <li><button onClick={() => { window.location.href = "/"; }}><FaPlayCircle /> Start Driving</button></li>
                         <li><button onClick={(e) => handleLogout(e)}><FaSignOutAlt /> Logout</button></li>
                     </ul>
-                    </div>
                 </div>
+            </div>
 
             <button className={`toggle-button ${sidebarOpen ? 'open' : ''}`} onClick={toggleSidebar}>
                 <span></span>
             </button>
             <div id="map" className={`map ${sidebarOpen ? 'shifted' : ''}`}>
                 <div className="select-container">
-                {parkingSpots.length > 0 && (
-                <>
-                <h3 className="dropdown-title">Recommended Parking Spaces</h3>
-                <select className="parking-dropdown" onChange={(e) => setSelectedSpot(parkingSpots[parseInt(e.target.value, 10)])}>
-                    <option value="">Select a parking spot</option>
-                    {parkingSpots.map((spot, index) => (
-                        <option key={index} value={index}>
-                            {`Lat: ${spot.location[0].toFixed(3)}, Lng: ${spot.location[1].toFixed(3)}, Last Occupied: ${spot.time_left}, ${Math.round(parseFloat(spot.distance))} meters away`}
-                        </option>
-                    ))}
-                </select>
-                </>
-                )}
+                    {parkingSpots.length > 0 && (
+                        <>
+                            <h3 className="dropdown-title">Recommended Parking Spaces</h3>
+                            <select className="parking-dropdown" onChange={(e) => setSelectedSpot(parkingSpots[parseInt(e.target.value, 10)])}>
+                                <option value="">Select a parking spot</option>
+                                {parkingSpots.map((spot, index) => (
+                                    <option key={index} value={index}>
+                                        {`Lat: ${spot.location[0].toFixed(3)}, Lng: ${spot.location[1].toFixed(3)}, Last Occupied: ${convertToLocalTime(spot.time_left)}, ${Math.round(parseFloat(spot.distance))} meters away`}
+                                    </option>
+                                ))}
+                            </select>
+                        </>
+                    )}
+                </div>
             </div>
-        </div>
 
             {loading && <div className="loading-spinner">Loading...</div>}
             <button id="parkButton" onClick={handleParkButtonClick} disabled={isParked}>Park Here</button>
@@ -441,6 +451,13 @@ const MapComponent = () => {
             <button id="reserveSpotButton" onClick={handleReserveSpotClick}>Reserve Spot</button>
         </div>
     );
+
+    function convertToLocalTime(time) {
+        const userTimeZone = Intl.DateTimeFormat().resolvedOptions().timeZone 
+        const utcTime = new Date(time);
+        const localTime = new Date(utcTime.toLocaleString("en-US", { timeZone: userTimeZone }));
+        return localTime.toLocaleString();
+    }
 }
         
     
