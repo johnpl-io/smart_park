@@ -37,7 +37,7 @@ def park():
         return jsonify({"message": "Successfully parked user!"}), 200
     else: 
         #spot taken 
-        return jsonify({"error": "Spot is already taken!"}), 201
+        return jsonify({"error": "Spot is already taken!"}), 300
 
 
 @app.route("/leave", methods=["POST"])
@@ -193,9 +193,11 @@ def get_hold():
 
     print(user_id, car_id, spot_id)
 
-    park_finder_mgmt.create_hold(user_id, car_id, spot_id)
-
-    return jsonify({"message": "Successfully created hold!"}), 200
+    result = park_finder_mgmt.create_hold(user_id, car_id, spot_id)
+    if result:
+        return jsonify({"message": "Successfully created hold!"}), 200
+    else:
+        return jsonify({"error": "Failed to create hold  you all ready have a hold on that spot!"}), 300
 
 @app.route("/create-user", methods=["POST"])
 @cross_origin(supports_credentials=True)

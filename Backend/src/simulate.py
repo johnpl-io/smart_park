@@ -86,6 +86,7 @@ class Car:
             .limit(1)
             .first()
         )
+        nyc_session.close()
         return get_closest_point
     def run(self):
         while True:
@@ -95,22 +96,32 @@ class Car:
 
             yield self.env.timeout(random.randint(2, 10))
 
-            x, y = random.uniform(self.minx, self.maxx), random.uniform(
-                self.miny, self.maxy
-            )
+           # x, y = random.uniform(self.minx, self.maxx), random.uniform(
+            #    self.miny, self.maxy
+           # )
+            x = np.random.normal((minx+maxx)/2, (maxx-minx)/2)
+
+            y = np.random.normal((miny+maxy)/2, (maxy-miny)/2)
             get_closest_point = self.get_closest_point((x, y))
 
-            logging.info(
-                f"user {self.user_id} car {self.car_id} parking {self.env.now} at {get_closest_point[0]}, {get_closest_point[1]}"
-            )
-            park_mgmt.log_park(self.user_id, self.car_id, (get_closest_point[0], get_closest_point[1]))
+
+            result = park_mgmt.log_park(self.user_id, self.car_id, (get_closest_point[0], get_closest_point[1]))
+            if result:
+                logging.info(
+                    f"user {self.user_id} car {self.car_id} parking {self.env.now} at {get_closest_point[0]}, {get_closest_point[1]}"
+                )
+            else:
+                logging.info(
+                    f"user {self.user_id} car {self.car_id} failed to park in parking spot {self.env.now}"
+                )
 
             yield self.env.timeout(random.randint(1, 5))
 
             logging.info(
                 f"user {self.user_id} car {self.car_id} leaving {self.env.now}"
             )
-            park_mgmt.leave_park(self.user_id, self.car_id)
+            if result:
+                park_mgmt.leave_park(self.user_id, self.car_id)
             yield self.env.timeout(random.randint(1, 2))
 
 
@@ -118,19 +129,20 @@ class Car:
 # get_closest as global
 
 env = simpy.rt.RealtimeEnvironment(factor=0.5)
-#env = simpy.Environment()
+env = simpy.Environment()
 
 minx=584267.2673704254
 miny=4508850.55155718
 maxx=586273.4045800678
 maxy=4510942.484684312
+import numpy as np
 
 #get ten owners from owner table
 session_smart_park = Session(smart_park_engine)
 owners = (
     session_smart_park.query(Owns.user_id, Owns.car_id)
     .order_by(Owns.user_id)
-    .limit(50)
+    .limit(1000)
     .all()
 )
 
@@ -138,8 +150,8 @@ for i in owners:
     car = Car(i[0], i[1], env, minx, miny, maxx, maxy)
     env.process(car.run())
 
-env.run()
 
+env.run()
 
 #get random point on street
 

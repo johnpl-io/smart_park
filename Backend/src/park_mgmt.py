@@ -75,6 +75,8 @@ class Park_MGMT:
             .limit(1)
             .one_or_none()
         )
+        if not park:
+            breakpoint()
 
         park_log = ParkHistory(
             user_id=user_id, spot_id=park.spot_id, time_arrived=park.time_arrived

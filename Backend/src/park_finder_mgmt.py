@@ -34,7 +34,7 @@ class ParkFinder_MGMT:
         
   
         
-        invalid_holds = session.query(Hold).where(Hold.time_start < (datetime.now(timezone.utc) - timedelta(minutes=10))).delete()
+        session.query(Hold).where(Hold.time_start < (datetime.now(timezone.utc) - timedelta(minutes=10))).delete()
       
         session.commit()
         
@@ -73,7 +73,7 @@ class ParkFinder_MGMT:
         session.close()
         return get_closest
 
-    def create_hold(self, user_id: int, car_id: int, spot_id: int, time_start: datetime = None):
+    def create_hold(self, user_id: int, car_id: int, spot_id: int, time_start: datetime = None) -> bool:
         """
         obtain a temporary hold of  a free spot after a user selects it in the frontend
         Parameters:
@@ -82,7 +82,23 @@ class ParkFinder_MGMT:
         :spot_id: the spot_id of the spot the user wants to hold
 
         """
-        session = create_session(self.engine)
+         
+        session = create_session(self.engine) 
+        
+        session.query(Hold).where(Hold.time_start < (datetime.now(timezone.utc) - timedelta(minutes=10))).delete()
+      
+        session.commit()
+        
+       
+        #if you all ready have a hold for  the spot prevent spot from being held 
+        
+        current_hold = session.query(Hold).filter(Hold.spot_id == spot_id).first()
+
+        if current_hold:
+            return False
+
+        session.query(Hold).filter(Hold.user_id == user_id).delete()
+        session.commit()
         # create a hold unix epoch time
         new_hold = Hold(
             user_id=user_id,
@@ -92,6 +108,7 @@ class ParkFinder_MGMT:
         )
         session.add(new_hold)
         session.commit()
+        return True
 
 #engine = create_engine("postgresql+psycopg2://user:password@localhost:5432/smart_park_db")
 #park_finder_mgmt = ParkFinder_MGMT(engine=engine)
