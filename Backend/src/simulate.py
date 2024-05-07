@@ -129,7 +129,7 @@ maxy=4510942.484684312
 session_smart_park = Session(smart_park_engine)
 owners = (
     session_smart_park.query(Owns.user_id, Owns.car_id)
-    .order_by(func.random())
+    .order_by(Owns.user_id)
     .limit(50)
     .all()
 )

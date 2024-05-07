@@ -22,7 +22,7 @@ def insert_real_cars():
 
     file_list = os.listdir(directory)
     trange = file_list
-    for filename in tqdm(pbar := tqdm(file_list)):
+    for filename in tqdm(pbar := tqdm(file_list), 'insert cars'):
         if filename.endswith(".json"):
             filepath = os.path.join(directory, filename)
             models = []

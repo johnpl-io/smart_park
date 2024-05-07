@@ -126,7 +126,7 @@ class Park(Base):
 
 class Hold(Base):
     __tablename__ = "hold"
-    __table_args__ = (PrimaryKeyConstraint("user_id", "car_id", "spot_id"), {})
+    __table_args__ = (PrimaryKeyConstraint("user_id", "car_id", "spot_id", "time_start"), {})
     user_id = Column(Integer, ForeignKey("users.user_id", ondelete="CASCADE"))
     car_id = Column(Integer, ForeignKey("cars.car_id", ondelete="CASCADE"))
     spot_id = Column(Integer, ForeignKey("spot.spot_id", ondelete="CASCADE"))

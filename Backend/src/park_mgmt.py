@@ -18,7 +18,7 @@ class Park_MGMT:
     def __init__(self, engine):
         self.engine = engine
 
-    def log_park(self, user_id: int, car_id: int, location: tuple[float, float]):
+    def log_park(self, user_id: int, car_id: int, location: tuple[float, float]) -> bool:
         #TODO: remove hold once a succesful park has been made
         session = create_session(self.engine)
 
@@ -28,17 +28,25 @@ class Park_MGMT:
         nearby_spot_id = (
             session.query(Spot.spot_id)
             .filter(~Spot.park.any())
-            .filter(func.ST_DWithin(current_location, Spot.location, 0.5))
+            .filter(func.ST_DWithin(current_location, Spot.location, 1))
             .first()
         )
 
+        #find spots that are parked and close to user (1 meter)
+        nearby_parked_spot_id = (
+            session.query(Spot.spot_id)
+            .join(Park, Park.spot_id == Spot.spot_id)
+            .filter(func.ST_DWithin(current_location, Spot.location, 1)).first())
         
-
+        if nearby_parked_spot_id:
+            return False
+        
         if nearby_spot_id:
             spot_id = nearby_spot_id[0]
             #if hold exists for spot delete it 
             session.query(Hold).filter(Hold.spot_id == spot_id).delete()
             session.commit()
+
         else:
             new_spot = Spot(location=current_location)
 
@@ -54,6 +62,8 @@ class Park_MGMT:
         session.commit()
 
         session.close()
+        
+        return True
 
     def leave_park(self, user_id: int, car_id: int):
 

@@ -32,9 +32,12 @@ def park():
     backend_location = (data["location"][1], data["location"][0])
 
     print(backend_location)
-    park_mgmt.log_park(int(data["user_id"]), int(data["car_id"]), backend_location)
-
-    return jsonify({"message": "Successfully parked user!"}), 200
+    result = park_mgmt.log_park(int(data["user_id"]), int(data["car_id"]), backend_location)
+    if result: 
+        return jsonify({"message": "Successfully parked user!"}), 200
+    else: 
+        #spot taken 
+        return jsonify({"error": "Spot is already taken!"}), 201
 
 
 @app.route("/leave", methods=["POST"])
