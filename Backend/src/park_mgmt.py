@@ -24,12 +24,15 @@ class Park_MGMT:
 
         current_location = WKTElement(f"POINT({location[0]} {location[1]})", srid=4326)
 
+        
         nearby_spot_id = (
             session.query(Spot.spot_id)
             .filter(~Spot.park.any())
             .filter(func.ST_DWithin(current_location, Spot.location, 0.5))
             .first()
         )
+
+        
 
         if nearby_spot_id:
             spot_id = nearby_spot_id[0]

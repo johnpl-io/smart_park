@@ -89,7 +89,7 @@ const UserProfilePage = () => {
               <strong>Height:</strong> {car.height}
               <div className="car-image-container">
 
-              <img src={car.image_path} alt={`Car ${car.car_id}`} className="car-image" />
+              <img className="car-image" src={'/' + car.car_img ? car.car_img : '/images/default.jpg'} alt={`Car ${car.car_id}`} />
               </div>
             </li>
           ))}
