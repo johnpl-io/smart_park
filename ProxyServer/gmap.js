@@ -7,7 +7,7 @@ app.use(cors());
 app.get('/api/places', async (req, res) => {
     const { lat, lng } = req.query;
     console.log(req.query);
-    const apiKey = 'AIzaSyBJXSdjGa3Lyq5iNRLQQXidjuGRCNK-4CQ';
+    const apiKey = process.env.GMAP_API_KEY; 
     const url = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${lat},${lng}&radius=.01&key=${apiKey}`;
     try {
         const { default: fetch } = await import('node-fetch');
@@ -21,3 +21,4 @@ app.get('/api/places', async (req, res) => {
 });
 
 app.listen(2000, () => console.log('Proxy server running on port 2000'));
+
