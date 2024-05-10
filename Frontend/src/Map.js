@@ -54,13 +54,13 @@ const MapComponent = () => {
     const handleReserveSpotClick = async () => {
         const dotLatLng = dotRef.current ? dotRef.current.getLatLng() : null;
 
-        
+        /*
         checkIfOnStreetRef.current(dotLatLng, async (isOnStreet) => {
             if (!isOnStreet) {
                 alert("You're not on a street! Please move the street to reserve a spot!.");
                 return;
             }
-    
+    */
         if (selectedSpot && mapRef.current && dotLatLng) {
 
             const user_id = localStorage.getItem("user_id");
@@ -107,7 +107,7 @@ const MapComponent = () => {
             console.error("Please select one of the recommended parking spots!");
             alert('Please select one of the recommended spots!');
         }
-    })
+    //})
     };
     
     

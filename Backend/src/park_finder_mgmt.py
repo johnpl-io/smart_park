@@ -59,7 +59,7 @@ class ParkFinder_MGMT:
             .join(ParkHistory, Spot.spot_id == ParkHistory.spot_id)
             .filter(
                 ParkHistory.time_left
-                >= (datetime.now(timezone.utc) - timedelta(days=10))
+                >= (datetime.now(timezone.utc) - timedelta(minutes=10))
             )
             .filter(Spot.spot_id.notin_(valid_holds))
             .order_by(
