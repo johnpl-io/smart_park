@@ -4,6 +4,10 @@ For our final project, we have developed Smart Park, an app designed to simplify
 What sets Smart Park apart from other parking apps is its adaptive learning feature. When initially deployed, the app doesn't rely on preexisting map data. Instead, it learns from user behavior, noting where users successfully parked as potential spots it can recommend to other users in the future. As a result of this, our app is adaptable to virtually any location worldwide and can be used to find free parking. Our tech stack uses PostgreSQL with PostGIS for database, Python and flask for our ORM and API, and react.js for our frontend. 
 
 
+
+https://github.com/johnpl-io/smart_park/assets/63315701/461741bc-b849-41be-bc92-1611f09f5380
+
+
 #  Instructions on Running Project
 
 -  From the terminal run docker compose up in the smart_park directory
