@@ -6,6 +6,7 @@ What sets Smart Park apart from other parking apps is its adaptive learning feat
 
 # Video Demo
 - In this video a demonstration of the simulation of cars parking and leaving is shown while finding and routing to a close free spot. 
+
 https://github.com/johnpl-io/smart_park/assets/63315701/461741bc-b849-41be-bc92-1611f09f5380
 
 
