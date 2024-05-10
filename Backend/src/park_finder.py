@@ -63,7 +63,3 @@ obtain a temporary hold of  a free spot after a user selects it in the frontend
 
     session.add(new_hold)
     session.commit()
-#insert a hold for spot 8926 for user 1 car 1 
-
-z = park_find(0, 0, [ -77.062089, 38.8938 ])
-print(z)

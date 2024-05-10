@@ -131,7 +131,7 @@ class Car:
 
 # get_closest as global
 
-env = simpy.rt.RealtimeEnvironment(factor=0.8)
+env = simpy.rt.RealtimeEnvironment(factor=0.5)
 #env = simpy.Environment()
 
 minx=584267.2673704254
