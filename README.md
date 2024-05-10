@@ -19,7 +19,7 @@ https://github.com/johnpl-io/smart_park/assets/63315701/461741bc-b849-41be-bc92-
 - Download images of cars from https://drive.google.com/drive/folders/1semOhx2VbV_6dMk1OklQsQdu-raN2LHL?usp=sharing
 and put the images folder as Frontend/public/images
 - Install nyc_streets from https://postgis.net/workshops/postgis-intro/about_data into a new database called under smart_park_db/nyc.
-This can be done using QGIS.
+This can be done using QGIS with this method https://www.youtube.com/watch?v=fROzLrjNDrs.
 -  Go to the Frontend directory run npm install and then npm start
 - Make sure GMAP_API_KEY='API_KEY' in your environement variables.
 -  Finally go to the ProxyServer folder and run node gmap.js 
